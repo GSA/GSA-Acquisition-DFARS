@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-208.7003-2"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">208.7003-2</ph> Assignments under coordinated acquisition.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">Requiring departments must submit to the acquiring department all contracting requirements for items assigned for coordinated acquisition, except—</p>
+         <p outputclass="List1" class="- topic/p ">(a)  Items obtained through the sources in <ph xtrc="FARxref" class="- topic/ph ">FAR 8.002</ph>(a)(1)(i) through (vii);</p>
+         <p outputclass="List1" class="- topic/p ">(b)  Items obtained under <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1377699"
+                     href="208.7003-1.dita#DFARS-208.7003-1">208.7003-1</xref>
+            </ph>(a);</p>
+         <p outputclass="List1" class="- topic/p ">(c)  Requirements not in excess of the simplified acquisition threshold in FAR Part 2, when contracting by the requiring department is in the best interest of the Government;</p>
+         <p outputclass="List1" class="- topic/p ">(d)  In an emergency.  When an emergency purchase is made, the requiring department must send one copy of the contract and a statement of the emergency to the contracting activity of the acquiring department;</p>
+         <p outputclass="List1" class="- topic/p ">(e)  Requirements for which the acquiring department's contracting activity delegates contracting authority to the requiring department;</p>
+         <p outputclass="List1" class="- topic/p ">(f)  Items in a research and development stage (as described in FAR Part 35).  Under this exception, the military departments may contract for research and development requirements, including quantities for testing purposes and items undergoing in-service evaluation (not yet in actual production, but beyond prototype).  Generally, this exception applies only when research and development funds are used.</p>
+         <p outputclass="List1" class="- topic/p ">(g)  Items peculiar to nuclear ordnance material where design characteristics or test-inspection requirements are controlled by the Department of Energy (DoE) or by DoD to ensure reliability of nuclear weapons.</p>
+         <p outputclass="List2" class="- topic/p ">(1)  This exception applies to all items designed for and peculiar to nuclear ordnance regardless of agency control, or to any item which requires test or inspection conducted or controlled by DoE or DoD.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  This exception does not cover items used for both nuclear ordnance and other purposes if the items are not subject to the special testing procedures.</p>
+         <p outputclass="List1" class="- topic/p ">(h)  Items to be acquired under <ph xtrc="FARxref" class="- topic/ph ">FAR 6.302-6</ph> (national security requires limitation of sources);</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Items to be acquired under <ph xtrc="FARxref" class="- topic/ph ">FAR 6.302-1</ph> (supplies available only from the original source for follow-on contract);</p>
+         <p outputclass="List1" class="- topic/p ">(j)  Items directly related to a major system and which are design controlled by and acquired from either the system manufacturer or a manufacturer of a major subsystem;</p>
+         <p outputclass="List1" class="- topic/p ">(k)  Items subject to rapid design changes, or to continuous redesign or modification during the production and/or operational use phases, which require continual contact between industry and the requiring department to ensure that the item meets the requirements:</p>
+         <p outputclass="List2" class="- topic/p ">(1)  This exception permits the requiring department to contract for items of highly unstable design.  For use of this exception, it must be clearly impractical, both technically and contractually, to refer the acquisition to the acquiring department.  Anticipation that contracting by negotiation will be appropriate, or that a number of design changes may occur during contract performance is not in itself sufficient reason for using this exception.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  This exception also applies to items requiring compatibility testing, provided such testing requires continual contact between industry and the requiring department;</p>
+         <p outputclass="List1" class="- topic/p ">(l)  Containers acquired only with items for which they are designed;</p>
+         <p outputclass="List1" class="- topic/p ">(m)  One-time buy of a noncataloged item.</p>
+         <p outputclass="List2" class="- topic/p ">(1)  This exception permits the requiring departments to contract for a nonrecurring requirement for a noncataloged item.  This exception could cover a part or component for a prototype which may be stock numbered at a later date.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  This exception does not permit acquisitions of recurring requirements for an item, based solely on the fact that the item is not stock numbered, nor may it be used to acquire items which have only slightly different characteristics than previously cataloged items.</p>
+      </conbody>
+   </concept>
+</dita>

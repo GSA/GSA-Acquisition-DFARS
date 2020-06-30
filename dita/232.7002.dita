@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-232.7002"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">232.7002</ph> Policy.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)  Payment requests and receiving reports are required to be submitted in electronic form, except for—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  Classified contracts or purchases when electronic submission and processing of payment requests and receiving reports could compromise the safeguarding of classified information or national security;</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Cases in which contractor submission of electronic payment requests and receiving reports is not feasible (e.g., when contract performance is in an environment where internet connectivity is not available);</p>
+         <p outputclass="List2" class="- topic/p ">(3)  Cases in which DoD is unable to receive payment requests or provide acceptance in electronic form; </p>
+         <p outputclass="List2" class="- topic/p ">(4)  Cases in which the contractor has requested permission in writing to submit payment requests and receiving reports by nonelectronic means, and the contracting officer has provided instructions for a temporary alternative method of submission of payment requests and receiving reports in the contract administration data section of the contract or task or delivery order (e.g., section G, an addendum to <ph xtrc="FARxref" class="- topic/ph ">FAR 52.212-4</ph>, or applicable clause); and</p>
+         <p outputclass="List2" class="- topic/p ">(5)  When the Governmentwide commercial purchase card is used as the method of payment, in which case only submission of the receiving report in electronic form is required.</p>
+         <p outputclass="List1" class="- topic/p ">(b)(1)  The only acceptable electronic form for submission of payment requests and receiving reports is Wide Area WorkFlow (WAWF) (https://wawf.eb.mil/), except as follows:</p>
+         <p outputclass="List3" class="- topic/p ">(i)  For payment of commercial transportation services provided under a Government rate tender, contract, or task or delivery order for transportation services, the use of a DoD-approved electronic third party payment system or other exempted vendor payment/invoicing system (e.g., PowerTrack, Transportation Financial Management System, and Cargo and Billing System) is permitted.</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  For submitting and processing payment requests and receiving reports for contracts or task or delivery orders for rendered health care services, the use of TRICARE Encounter Data System as the electronic form is permitted.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Facsimile, email, and scanned documents are not acceptable electronic forms of payment requests or receiving reports.</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-PGI_PGI_204.1670"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 204.1670</ph> Cross reference to Federal Procurement Data System.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">The following matrices should be used as a cross reference between the terms used in the FAR, DFARS, and the Federal Procurement Data System (FPDS).</p>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <thead class="- topic/thead ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "/>
+                     <entry colname="2" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry "/>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">STRUCTURE OF REQUIRED IDENTIFIERS</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Key and</p>
+                        <p class="- topic/p ">Description</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Format</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">A - DoD Procurement Instrument</p>
+                        <p class="- topic/p ">Identifier (PIID)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Consists of the concatenation of the following four fields:</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Enterprise Identifier - DODAAC of contracting office</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Fiscal Year in which award is made</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Procurement Instrument Type Code</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">Serialized Identifier</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Six alpha-numeric characters excluding</p>
+                        <p class="- topic/p ">I and O</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Two numeric characters</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">One alpha character excluding</p>
+                        <p class="- topic/p ">I and O</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">Four alpha-numeric characters excluding</p>
+                        <p class="- topic/p ">I and O. 0000 is not an acceptable value.</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">B - DoD Order Number (Supplementary PIID)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Four alpha-numeric characters excluding I and O. A and P are prohibited in the first position. 0000 is not an acceptable value.</p>
+                        <p class="- topic/p ">(<i class="+ topic/ph hi-d/i ">NOTE:</i> 
+                           <i class="+ topic/ph hi-d/i ">Four character supplementary PIID order numbers are only allowed to be issued through FY16.</i> 
+                           <i class="+ topic/ph hi-d/i ">Subsequently, all orders must be in the format shown above in section A of this table.</i> 
+                           <i class="+ topic/ph hi-d/i ">DoD activities are encouraged to transition as soon as possible in FY16 to this new method for numbering orders under DoD contracts and agreements.</i> 
+                           <i class="+ topic/ph hi-d/i ">Transition must be completed no later than October 1, 2016.)</i>
+                        </p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">C - DoD Procurement Instrument Modification Identifier (Supplementary PIID)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Six alpha-numeric characters beginning with A or P, excluding I and O. P00000 and A00000 are not acceptable values.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">D - DoD Order Modification Identifier (Supplementary PIID)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Two alpha-numeric characters excluding I and O. 00 is not an acceptable value.</p>
+                        <p class="- topic/p ">(<i class="+ topic/ph hi-d/i ">NOTE:</i> 
+                           <i class="+ topic/ph hi-d/i ">Two character supplementary PIID modification numbers are only allowed to be issued to DoD orders issued through FY16.</i> 
+                           <i class="+ topic/ph hi-d/i ">Modification to DoD orders issued after the transition to the new method of numbering orders under DoD contracts and agreements must be in the form shown in section C of this table.</i>
+                        </p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">E - Non DoD Procurement Instrument Number</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">4 to 50 Alpha-numeric characters</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">ELEMENTS NEEDED TO IDENTIFY A DEPARTMENT OF DEFENSE PROCUREMENT ACTION</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Procurement Instrument Action Type</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Required as shown below to uniquely identify the action.</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Reference Procurement Instrument (Reference Use Only)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Procurement Instrument Identifier (PIID) (Contract Number)</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">Modification Number Order Number</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">BPA or Order under a Schedule or other non-DoD Instrument</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">E</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Order against a BPA under a Schedule (FY16 and later)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">E</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Order against a BPA under a Schedule (Pre-FY16)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">E</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">B</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">DoD Contract, Purchase Order, BOA, BPA not under a Schedule, or other instrument</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Order against a DoD Contract, BOA, BPA not under a Schedule, or other instrument (FY16 and later)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Order against a DoD Contract, BOA, BPA not under a Schedule or other instrument</p>
+                        <p class="- topic/p ">(Pre-FY16)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">B</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to a BPA or Order under a Schedule or other non- DoD instrument</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">E</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to an Order against a BPA under a Schedule</p>
+                        <p class="- topic/p ">(FY16 and later)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">E</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to an Order against a BPA under a Schedule</p>
+                        <p class="- topic/p ">(Pre-FY16)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">E</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">B</p>  
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">D</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to a DoD Contract, Purchase Order, BOA, BPA not under a Schedule, or other instrument</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="5"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="23*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="18*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="20*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="21*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="18*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to an Order against a DoD Contract, BOA, or BPA not under a schedule (FY16 and later)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to an Order against a DoD Contract, BOA, or BPA not under a schedule (Pre-FY16)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">B</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">D</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="5"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="23*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="19*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="19*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="19*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="19*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">FPDS Crosswalk</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">FPDS FIELD NAME</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">REF_IDV_PIID</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">REF_IDV_MODIFI-CATION_NUMBER</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">PIID</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">MODIFICATION_NUMBER</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry "/>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">BPA or Order under a Schedule or other non-DoD Instrument</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">E</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Order against a BPA under a Schedule (FY16 and later)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Order against a BPA under a Schedule</p>
+                        <p class="- topic/p ">(Pre-FY16)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">B*</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">DoD Contract, Purchase Order, BOA, BPA not under a Schedule, or other instrument</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Order against a DoD Contract, BOA, BPA not under a Schedule, or other instrument (FY16 and later)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Order against a DoD Contract, BOA, BPA not under a Schedule, or other instrument</p>
+                        <p class="- topic/p ">(Pre-FY16)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">B*</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">D*</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to a BPA or Order under a Schedule or other non-DoD Instrument</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to an Order against a BPA under a Schedule</p>
+                        <p class="- topic/p ">(FY16and later)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to an Order against a BPA under a Schedule</p>
+                        <p class="- topic/p ">(Pre-FY16)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">B*</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">D*</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to a DoD Contract, Purchase Order, BOA, BPA not under a Schedule, or other instrument</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to an Order against a DoD Contract, BOA, or BPA not under a Schedule</p>
+                        <p class="- topic/p ">(FY16 and later)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Modification to an Order against a DoD Contract, BOA, or BPA not under a Schedule</p>
+                        <p class="- topic/p ">(Pre-FY16)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Use 0</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">B*</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">D*</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">* <i class="+ topic/ph hi-d/i ">Note that FPDS strips leading zeroes, so that modification 02 to order 0024 is shown as modification 2 to order 24.</i>
+                        </p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+</dita>

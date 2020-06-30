@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-215.403-3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">215.403-3</ph> Requiring data other
+than certified cost or pricing data.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">Follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
+               <xref href="PGI_215.403-3.dita#DFARS-PGI_PGI_215.403-3"
+                     base="DFARS-PGI_PGI_215.403-3"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">215.403-3</xref>
+            </ph>.</p>
+         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Commercial
+items.</i> For determinations of price reasonableness of major weapon
+systems acquired as commercial items, see <xref href="234.7002.dita#DFARS-234.7002"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">234.7002</xref>(d)</p>
+      </conbody>
+   </concept>
+</dita>

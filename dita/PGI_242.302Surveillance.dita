@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_242.302"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 242.302</ph>(a)(S-72) —Surveillance of the contractor’s implementation of the Synchronized Predeployment and Operational Tracker (SPOT)</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List2" class="- topic/p ">(1)  For suggested criteria to assess a contractor’s implementation of SPOT, see SPOT Compliance Checklist at http://www.acq.osd.mil/log/PS/ctr_mgt_accountability.html.</p>
+         <p outputclass="List2" class="- topic/p ">(2)(i)  For visibility into certain discrepant records in SPOT, use the following audit compliance reports (ACRs) available via the Total Operational Picture Support System (TOPSS): </p>
+         <p outputclass="List4" class="- topic/p ">(A)  <i class="+ topic/ph hi-d/i ">Deployment Status Report (ACR–01).</i>  Lists all deployment requests that were submitted less than 10 days prior to the estimated deployment start date. </p>
+         <p outputclass="List4" class="- topic/p ">(B)  <i class="+ topic/ph hi-d/i ">In-Theater Arrival Date (ITAD) Report (ACR–02).</i>  Lists all records where the ITAD was entered more than one day after the actual ITAD. </p>
+         <p outputclass="List4" class="- topic/p ">(C)  <i class="+ topic/ph hi-d/i ">Primary Duty Station Report (ACR–03).</i>  Lists all deployments where the primary duty station arrival date was entered more than three days after the actual duty station arrival date. </p>
+         <p outputclass="List4" class="- topic/p ">(D)  <i class="+ topic/ph hi-d/i ">Closeout Deployment Report (ACR–05).</i>  Lists all deployments where the actual deployment end date was entered more than three days after the actual deployment end date. </p>
+         <p outputclass="List4" class="- topic/p ">(E)  <i class="+ topic/ph hi-d/i ">Open/Blank In-Theater Arrival Date (ITAD) Report (ACR– 06).  </i>Lists where the ITAD was not entered into SPOT within 15 days after the estimated deployment start date.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Contracting Officers shall obtain a TOPSS account by following the TOPPS PKI Certificate Registration instructions at http://www.acq.osd.mil/log/PS/ctr_mgt_accountability.html.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Contracting Officers shall–</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Take immediate action to notify contractors of non-compliance with SPOT (e.g., issue one of the delinquency notices identified at <ph xtrc="FARxref" class="- topic/ph ">FAR 49.607</ph>).</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  Document performance deficiencies related to SPOT non-compliance that will be relevant to past performance evaluations for future contract opportunities in accordance with FAR Subpart <ph xtrc="FARxref" class="- topic/ph ">42.15</ph>.</p>
+      </conbody>
+   </concept>
+</dita>

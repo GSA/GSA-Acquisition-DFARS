@@ -1,0 +1,12 @@
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/Acquisition-Supplemental-Regulations/DFARS/DEVELOPMENT/dita/252.249-7002' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/Acquisition-Supplemental-Regulations/DFARS/DEVELOPMENT/dita/PGI_241.1—.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/Acquisition-Supplemental-Regulations/DFARS/DEVELOPMENT/dita/PGI_241.2—.dita' does not exist or cannot be loaded.
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/GSA_Regs/Acquisition-Supplemental-Regulations/DFARS/DEVELOPMENT/dita/PGI_251.1—.dita' does not exist or cannot be loaded.
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200629164024032\PGI_251.1—.dita (The system cannot find the file specified)
+[topicpull] file:/C:/GSA_Regs/Acquisition-Supplemental-Regulations/DFARS/DEVELOPMENT/dita/PGI_PART_251.dita:12:78: [DOTX031E][ERROR]: The file PGI_251.1—.dita#i1498004 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200629164024032\PGI_241.1—.dita (The system cannot find the file specified)
+[topicpull] file:/C:/GSA_Regs/Acquisition-Supplemental-Regulations/DFARS/DEVELOPMENT/dita/PGI_PART_241.dita:12:78: [DOTX031E][ERROR]: The file PGI_241.1—.dita#i1497393 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200629164024032\PGI_241.2—.dita (The system cannot find the file specified)
+[topicpull] file:/C:/GSA_Regs/Acquisition-Supplemental-Regulations/DFARS/DEVELOPMENT/dita/PGI_PART_241.dita:24:78: [DOTX031E][ERROR]: The file PGI_241.2—.dita#i1497399 is not available to resolve link information. 
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200629164024032\252.249-7002 (The system cannot find the file specified)
+[topicpull] file:/C:/GSA_Regs/Acquisition-Supplemental-Regulations/DFARS/DEVELOPMENT/dita/249.7004.dita:16:41: [DOTX031E][ERROR]: The file 252.249-7002#DFARS-252.249-7002 is not available to resolve link information. 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-252.227-7018"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">252.227-7018</ph> Rights in Noncommercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program.</title>
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-227.7104"
+                     href="227.7104.dita#DFARS-227.7104">227.7104</xref>
+            </ph>(a), use the following clause:</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">RIGHTS IN NONCOMMERCIAL TECHNICAL DATA AND COMPUTER SOFTWARE—SMALL BUSINESS INNOVATION RESEARCH (SBIR) PROGRAM (FEB 2014)</p>
+         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.  As used in this clause— </p>
+         <p outputclass="List2" class="- topic/p ">(1)  “Commercial computer software” means software developed or regularly used for nongovernmental purposes which—</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Has been sold, leased, or licensed to the public;</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  Has been offered for sale, lease, or license to the public;</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  Has not been offered, sold, leased, or licensed to the public but will be available for commercial sale, lease, or license in time to satisfy the delivery requirements of this contract; or</p>
+         <p outputclass="List3" class="- topic/p ">(iv)  Satisfies a criterion expressed in paragraph (a)(1)(i), (ii), or (iii) of this clause and would require only minor modification to meet the requirements of this contract.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  “Computer database” means a collection of recorded data in a form capable of being processed by a computer.  The term does not include computer software.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  “Computer program” means a set of instructions, rules, or routines, recorded in a form that is capable of causing a computer to perform a specific operation or series of operations.</p>
+         <p outputclass="List2" class="- topic/p ">(4)  “Computer software” means computer programs, source code, source code listings, object code listings, design details, algorithms, processes, flow charts, formulae, and related material that would enable the software to be reproduced, recreated, or recompiled.  Computer software does not include computer databases or computer software documentation.</p>
+         <p outputclass="List2" class="- topic/p ">(5)  “Computer software documentation” means owner's manuals, user's manuals, installation instructions, operating instructions, and other similar items, regardless of storage medium, that explain the capabilities of the computer software or provide instructions for using the software.</p>
+         <p outputclass="List2" class="- topic/p ">(6)  “Covered Government support contractor” means a contractor (other than a litigation support contractor covered by <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-227.7104"
+                     href="227.7104.dita#DFARS-227.7104">227.7104</xref>
+            </ph>(d), add the following paragraph (l) to the basic clause:</p>
+         <p outputclass="List1" class="- topic/p ">(l)  <i class="+ topic/ph hi-d/i ">Publication for sale</i>.</p>
+         <p outputclass="List2" class="- topic/p ">(1)  This paragraph applies only to technical data or computer software delivered to the Government with SBIR data rights.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Upon expiration of the SBIR data rights period, the Government will not exercise its right to publish or authorize others to publish an item of technical data or computer software identified in this contract as being subject to paragraph (l) of this clause if the Contractor, prior to the expiration of the SBIR data rights period, or within two years following delivery of the data or software item, or within twenty-four months following the removal of any national security or export control restrictions, whichever is later, publishes such data or software item(s) and promptly notifies the Contracting Officer of such publication(s).  Any such publication(s) shall include a notice identifying the number of this contract and the Government's rights in the published data.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  This limitation on the Government's right to publish for sale shall continue as long as the technical data or computer software are reasonably available to the public for purchase.</p>
+      </conbody>
+   </concept>
+</dita>

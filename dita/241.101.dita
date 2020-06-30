@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-241.101"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">241.101</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this part—</p>
+         <p class="- topic/p ">“Independent regulatory body” means the Federal Energy Regulatory Commission, a state-wide agency, or an agency with less than state-wide jurisdiction when operating pursuant to state authority.  The body has the power to fix, establish, or control the rates and services of utility suppliers.</p>
+         <p class="- topic/p ">“Nonindependent regulatory body” means a body that regulates a utility supplier which is owned or operated by the same entity that created the regulatory body, e.g., a municipal utility.</p>
+         <p class="- topic/p ">“Regulated utility supplier” means a utility supplier regulated by an independent regulatory body.</p>
+         <p class="- topic/p ">“Service power procurement officer” means for the—</p>
+         <p class="- topic/p "/>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="1"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="100*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Army, the Chief of Engineers;</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Navy, the Commander, Naval Facilities Engineering Command;</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Air Force, the head of a contracting activity; and</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Defense Logistics Agency, the head of a contracting activity.</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p class="- topic/p "/>
+      </conbody>
+   </concept>
+</dita>

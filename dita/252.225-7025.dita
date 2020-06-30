@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-252.225-7025"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">252.225-7025</ph> Restriction on Acquisition of Forgings.</title>
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1379378"
+                     href="225.7102-4.dita#DFARS-225.7102-4">225.7102-4</xref>
+            </ph>, use the following clause:</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">RESTRICTION ON ACQUISITION OF FORGINGS (DEC 2009)</p>
+         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.  </i>As used in this clause¾</p>
+         <p outputclass="List2" class="- topic/p ">(1)  “Component” means any item supplied to the Government as part of an end product or of another component.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  “Domestic manufacture” means manufactured in the United States, its outlying areas; or Canada.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  “Forging items” means—</p>
+         <p class="- topic/p "/>
+         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+            <tgroup cols="2"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="43*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="57*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">ITEMS</p>
+                        <p class="- topic/p ">Ship propulsion shafts</p>
+                        <p class="- topic/p ">Periscope tubes</p>
+                        <p class="- topic/p ">Ring forgings for bull gears</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">CATEGORIES</p>
+                        <p class="- topic/p ">Excludes service and landing craft shafts</p>
+                        <p class="- topic/p ">All</p>
+                        <p class="- topic/p ">All greater than 120 inches in diameter</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List1" class="- topic/p "/>
+         <p outputclass="List1" class="- topic/p ">(b)  End products and their components delivered under this contract shall contain forging items that are of domestic manufacture only.</p>
+         <p outputclass="List1" class="- topic/p ">(c)  The restriction in paragraph (b) of this clause may be waived upon request from the Contractor in accordance with subsection <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1379373"
+                     href="225.7102-3.dita#DFARS-225.7102-3">225.7102-3</xref>
+            </ph> of the Defense Federal Acquisition Regulation Supplement.</p>
+         <p outputclass="List1" class="- topic/p ">(d)  The Contractor shall retain records showing compliance with the restriction in paragraph (b) of this clause until 3 years after final payment and shall make the records available upon request of the Contracting Officer.</p>
+         <p outputclass="List1" class="- topic/p ">(e)  The Contractor shall insert the substance of this clause, including this paragraph (e), in subcontracts for forging items or for other items that contain forging items.</p>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

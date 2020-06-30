@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-209.571-1"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">209.571-1</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this section—</p>
+         <p class="- topic/p ">“Lead system integrator” includes “lead system integrator with system responsibility” and “lead system integrator without system responsibility”.</p>
+         <p outputclass="List3" class="- topic/p ">(i)  “Lead system integrator with system responsibility” means a prime contractor for the development or production of a major system, if the prime contractor is not expected at the time of award to perform a substantial portion of the work on the system and the major subsystems.</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  “Lead system integrator without system responsibility” means a prime contractor under a contract for the procurement of services, the primary purpose of which is to perform acquisition functions closely associated with inherently governmental functions (see section 7.503(d) of the Federal Acquisition Regulation) with respect to the development or production of a major system.</p>
+         <p class="- topic/p ">“Major subcontractor” means a subcontractor that is awarded a subcontract that equals or exceeds—</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Both the certified cost or pricing data threshold and 10 percent of the value of the contract under which the subcontract is awarded; or </p>
+         <p outputclass="List3" class="- topic/p ">(ii)  $55 million.</p>
+         <p class="- topic/p ">“Pre-Major Defense Acquisition Program” means a program that is in the Materiel Solution Analysis or Technology Development Phases preceding Milestone B of the Defense Acquisition System and has been identified to have the potential to become a major defense acquisition program.</p>
+         <p class="- topic/p ">“Systems engineering and technical assistance.”</p>
+         <p outputclass="List2" class="- topic/p ">(1)  “Systems engineering” means an interdisciplinary technical effort to evolve and verify an integrated and total life cycle balanced set of system, people, and process solutions that satisfy customer needs.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  “Technical assistance” means the acquisition support, program management support, analyses, and other activities involved in the management and execution of an acquisition program.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  “Systems engineering and technical assistance”— </p>
+         <p outputclass="List3" class="- topic/p ">(i)  Means a combination of activities related to the development of technical information to support various acquisition processes.  Examples of systems engineering and technical assistance activities include, but are not limited to, supporting acquisition efforts such as—</p>
+         <p outputclass="List4" class="- topic/p ">(A)  Deriving requirements;</p>
+         <p outputclass="List4" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">(B)  Performing technology assessments</b>;</p>
+         <p outputclass="List4" class="- topic/p ">(C)  Developing acquisition strategies;</p>
+         <p outputclass="List4" class="- topic/p ">(D)  Conducting r<b class="+ topic/ph hi-d/b ">isk assessments;</b>
+         </p>
+         <p outputclass="List4" class="- topic/p ">(E)  Developing cost estimates;</p>
+         <p outputclass="List4" class="- topic/p ">(F)  Determining specifications;</p>
+         <p outputclass="List4" class="- topic/p ">(G)  Evaluating contractor performance and conducting independent verification and validation;</p>
+         <p outputclass="List4" class="- topic/p ">(H)  Directing other contractors’ (other than subcontractors) operations;</p>
+         <p outputclass="List4" class="- topic/p ">(I)  Developing test requirements and evaluating test data;</p>
+         <p outputclass="List4" class="- topic/p ">(J)  Developing work statements (but see paragraph (ii)(B) of this definition).</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  Does not include—</p>
+         <p outputclass="List4" class="- topic/p ">(A)  Design and development work of design and development contractors, in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR 9.505-2</ph>(a)(3) or <ph xtrc="FARxref" class="- topic/ph ">FAR 9.505-2</ph>(b)(3), and the guidance at PGI <ph xtrc="PGIxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-PGI_PGI_209.571-7"
+                     href="PGI_209.571-7.dita#DFARS-PGI_PGI_209.571-7">209.571-7</xref>
+            </ph>; or</p>
+         <p outputclass="List4" class="- topic/p ">(B)  Preparation of work statements by contractors, acting as industry representatives, under the supervision and control of Government representatives, in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR 9.505-2</ph>(b)(1)(ii).</p>
+      </conbody>
+   </concept>
+</dita>

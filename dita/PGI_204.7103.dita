@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_204.7103"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 204.7103</ph> Contract line items.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) Separately identifiable contract line and subline items (i.e., all except those with characteristics described in DFARS 204.7103-1(a)(2)(iii) or 204.7104-1(a)) shall include a description of the item or service being procured, the associated Product or Service Code (PSC), the quantity, a unit of measure, defined acceptance and inspection locations and requirements, and the delivery schedule or performance period. Contracts for contingency operations shall include the project code at the line item level on each contract action. The list of applicable codes is maintained at http://www.dla.mil/j-6/dlmso/elibrary/ServicePoints/CD_ProjCd_nopoc.docx. The contracting officer is responsible for coordinating any changes from the purchase request to the contract with the requiring activity.</p>
+         <p outputclass="List2" class="- topic/p ">(1) The list of active PSCs is available on the Federal Procurement Data System website under the ‘Worksite’ section under ‘Reference’.</p>
+         <p outputclass="List2" class="- topic/p ">(2) The list of available units of measure is on the Defense Procurement and Acquisition Policy website at http://www.acq.osd.mil/dpap/pdi/eb/docs/Line_Item_UoM_List.xlsx.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Delivery and acceptance locations shall be defined using Activity Address Codes published in (1) DoD Activity Address Directory (DODAAD), DoD 4000.25-6-M, or (2) Military Assistance Program Address Directory System (MAPAD), DoD 4000.25-8-M and available for verification at https://www.daas.dla.mil/daasinq/default.asp. </p>
+         <p outputclass="List2" class="- topic/p ">(4) No activity shall be assigned acceptance responsibility unless that activity has acceptors registered in Wide Area WorkFlow (WAWF). Available roles for an Activity Address Code can be verified at the Active DoDAACs &amp; Roles link on the WAWF homepage at https://wawf.eb.mil/.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Fixed price line items shall include unit prices and total prices. Cost type line items shall not include unit prices, but shall contain the appropriate elements in accordance with FAR part 16. Not separately priced line items shall be so labeled. The notation “No Charge” shall not be used.</p>
+         <p outputclass="List1" class="- topic/p ">(c) The requirements at paragraph (a) and (b) shall be included in the appropriate parts of the contract Schedule.</p>
+         <p outputclass="List1" class="- topic/p ">(d) In structuring line items, especially on fixed-price contracts, due consideration shall be given to the effect of the chosen units of measure on administration and payment. No contract line item shall contain a quantity less than the number of deliveries anticipated on the line item. Contracting officers shall consider the need for periodic deliveries and payments in selecting a unit of measure. Included in this analysis shall be the impact of any financing arrangements under FAR part 32.</p>
+         <p outputclass="List3" class="- topic/p ">(i) Supplies: Line item quantities shall match the actual count of the supplies to be provided. For instance, if more than one delivery is expected, the quantity cannot be “1.”</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Services: Line item quantities shall match the frequency with which performance will be reviewed, and on fixed-price line items, payment made. For example, a contract with a twelve-month period of performance should have a quantity and unit of measure suited to how the contract will be managed. If the intent is to review, accept, and pay for the services monthly, then the quantity should be 12, with a unit of measure such as “Months” or “Lots.” If the intent is to review, accept, and pay for the services quarterly, then the quantity should be 4, with a unit of measure such as “Lot”. If the quantity used is 1, then no payment for delivery can occur until the end of the period of performance. Services with tangible deliveries, such as repairs, shall be structured like supply line items.</p>
+         <p outputclass="List1" class="- topic/p ">(e) The following examples illustrate when the requirements at paragraph (a) apply—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Separately identifiable subline items. The rule applies to subline items 0001AA and 0001AB. It does not apply to the line item 0001, because it does not have a deliverable.</p>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">ITEM NO.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">SUPPLIES/SERVICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">QUANTITY</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT PRICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">AMOUNT</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001AA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Red painted widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">6</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">EA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$10.00</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$60.00</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001AB</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Unpainted widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">6</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">EA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$9.50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$57.00</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List2" class="- topic/p ">(2) Informational subline items. The rule applies to line item 0001. It does not apply to subline items 000101, 000102, and 000103 because they do not have deliverables.</p>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="27*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="16*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="13*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="15*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">ITEM NO.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">SUPPLIES/SERVICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">QUANTITY</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT PRICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">AMOUNT</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Widget implementation Joint Service Study</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">1</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">LOT</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$60,000</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$60,000</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">000101</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Army funding</p>
+                        <p class="- topic/p ">(AA: $20,000)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">000102</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Navy funding</p>
+                        <p class="- topic/p ">(AB: $20,000)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">000103</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Air Force funding</p>
+                        <p class="- topic/p ">(AC: $20,000)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List2" class="- topic/p ">(3) Line item with no subline items. The rule applies.</p>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="27*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="16*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="13*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="15*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">ITEM NO.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">SUPPLIES/SERVICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">QUANTITY</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT PRICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">AMOUNT</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Red painted widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">6</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">EA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$10.00</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$60.00</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List2" class="- topic/p ">(4) Line item is parent to an exhibit. The rule applies to the exhibit lines.</p>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="27*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="16*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="13*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="15*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">ITEM NO.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">SUPPLIES/SERVICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">QUANTITY</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT PRICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">AMOUNT</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">See exhibit A</p>
+                        <p class="- topic/p ">($117.00)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">A001</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Red painted widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">6</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">EA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$10.00</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$60.00</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">A002</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Unpainted widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">6</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">EA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$9.50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$57.00</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List2" class="- topic/p ">(5) Line is parent to a subline item which refers to an exhibit. The rule applies to the exhibit lines.</p>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="27*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="16*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="13*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="15*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">ITEM NO.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">SUPPLIES/SERVICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">QUANTITY</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">UNIT PRICE</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">AMOUNT</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Widget program</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001AA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Design and develop widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">1</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">LOT</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$500.00</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$500.00</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">0001AB</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">See exhibit A</p>
+                        <p class="- topic/p ">($117.00)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">A001</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Red painted widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">6</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">EA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$10.00</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$60.00</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">A002</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Unpainted widgets</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">6</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">EA</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$9.50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">$57.00</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+</dita>

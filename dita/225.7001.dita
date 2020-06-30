@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-225.7001"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">225.7001</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this subpart—</p>
+         <p class="- topic/p ">“Assembly” means an item forming a portion of a system or subsystem that—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  Can be provisioned and replaced as an entity; and</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Incorporates multiple, replaceable parts.</p>
+         <p class="- topic/p ">“Bearing components” means the bearing element, retainer, inner race, or outer race.</p>
+         <p class="- topic/p ">“Component” means any item supplied to the Government as part of an end item or of another component, except that for use in <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-225.7007"
+                     href="225.7007.dita#DFARS-225.7007">225.7007</xref>
+            </ph>, the term means an article, material, or supply incorporated directly into an end product.</p>
+         <p class="- topic/p ">“End item,” as used in sections <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-225.7003"
+                     href="225.7003.dita#DFARS-225.7003">225.7003</xref>
+            </ph> and <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-225.7018"
+                     href="225.7018.dita#DFARS-225.7018">225.7018</xref>
+            </ph>, means the final production product when assembled or completed and ready for delivery under a line item of the contract (10 U.S.C. 2533b(m)).</p>
+         <p class="- topic/p ">“End product” means supplies delivered under a line item of the contract.</p>
+         <p class="- topic/p ">“Hand or measuring tools” means those tools listed in Federal supply classifications 51 and 52, respectively.</p>
+         <p class="- topic/p ">“Structural component of a tent”—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  Means a component that contributes to the form and stability of the tent (e.g., poles, frames, flooring, guy ropes, pegs); and</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Does not include equipment such as heating, cooling, or lighting.</p>
+         <p class="- topic/p ">“Subsystem” means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, altitude control, and propulsion.</p>
+      </conbody>
+   </concept>
+</dita>

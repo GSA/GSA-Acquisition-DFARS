@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_251.102-70"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 251.102-70</ph>  Contracting office responsibilities.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)  The DoD Activity Address Code (DoDAAC) assigned in accordance with paragraph 5 of the authorization format in PGI <ph xtrc="PGIxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-PGI_PGI_251.102"
+                     href="PGI_251.102.dita#DFARS-PGI_PGI_251.102">251.102</xref>
+            </ph> shall be assigned to the contractor for authorization to use Government supply sources only for the contract number cited in paragraph 1 of the authorization format.</p>
+         <p outputclass="List1" class="- topic/p ">(b)  The authorization to use Government sources of supply is unique to each contract and shall not be transferred or assigned to any other contractor or contract.  Therefore, the same DoDAAC shall not be assigned to any other contract number during the period of performance for the contract.  After 24 months has lapsed beyond contract closeout, the DoDAAC may be reused for another contract.</p>
+      </conbody>
+   </concept>
+</dita>

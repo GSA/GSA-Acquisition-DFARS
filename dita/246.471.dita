@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-246.471"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">246.471</ph> Authorizing shipment of supplies.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">General.</i>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1)  Ordinarily, a representative of the contract administration office signs or stamps the shipping papers that accompany Government source-inspected supplies to release them for shipment.  This is done for both prime and subcontracts.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  An alternative procedure (see paragraph (b) of this section) permits the contractor to assume the responsibility for releasing the supplies for shipment.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  The alternative procedure may include prime contractor release of supplies inspected at a subcontractor's facility.</p>
+         <p outputclass="List2" class="- topic/p ">(4)  The use of the alternative procedure releases DoD manpower to perform technical functions by eliminating routine signing or stamping of the papers accompanying each shipment.</p>
+         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Alternative Procedures—Contract Release for Shipment.</i>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1)  For foreign military sales contracts, do not use alternative procedures.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  The contract administration office may authorize, in writing, the contractor to release supplies for shipment when—</p>
+         <p outputclass="List3" class="- topic/p ">(i)  The stamping or signing of the shipping papers by a representative of the contract administration office interferes with the operation of the Government contract quality assurance program or takes too much of the Government representative's time;</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  There is sufficient continuity of production to permit the Government to establish a systematic and continuing evaluation of the contractor's control of quality; and</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  The contractor has a record of satisfactory quality, including that pertaining to preparation for shipment.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  The contract administration office shall withdraw, in writing, the authorization when there is an indication that the conditions in paragraph (b)(2) of this section no longer exist. </p>
+         <p outputclass="List2" class="- topic/p ">(4)  When the alternative procedure is used, require the contractor to—</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Type or stamp, and sign, the following statement on the required copy or copies of the shipping paper(s), or on an attachment—</p>
+         <p class="- topic/p "/>
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="1"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="100*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The supplies in this shipment—</p>
+                        <p class="- topic/p ">1.  Have been subjected to and have passed all examinations and tests required by the contract;</p>
+                        <p class="- topic/p "/>
+                        <p class="- topic/p ">2.  Were shipped in accordance with authorized shipping instructions;</p>
+                        <p class="- topic/p ">3.  Conform to the quality, identity, and condition called for by the contract; and</p>
+                        <p class="- topic/p ">4.  Are of the quantity shown on this document.</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">This shipment was—</p>
+                        <p class="- topic/p ">1.  Released in accordance with section <ph xtrc="DFARxref" class="- topic/ph ">
+                              <xref outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref "
+                                    base="DFARS-246.471"
+                                    href="246.471.dita#DFARS-246.471">246.471</xref>
+                           </ph> of the Defense FAR Supplement; and</p>
+                        <p class="- topic/p ">2.  Authorized by (name and title of the authorized representative of the contract administration office) in a letter dated (date of authorizing letter).  (Signature and title of contractor's designated official.)</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List3" class="- topic/p "/>
+         <p outputclass="List3" class="- topic/p ">(ii)  Release and process, in accordance with established instructions, the DD Form 250, Material Inspection and Receiving Report, or other authorized receiving report.</p>
+      </conbody>
+   </concept>
+</dita>

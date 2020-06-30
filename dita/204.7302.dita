@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-204.7302"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">204.7302</ph> Policy.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)  Contractors and subcontractors are required to provide adequate security on all covered contractor information systems.</p>
+         <p outputclass="List1" class="- topic/p ">(b)  Contractors and subcontractors are required to rapidly report cyber incidents directly to DoD at http://dibnet.dod.mil.  Subcontractors provide the incident report number automatically assigned by DoD to the prime contractor.  Lower-tier subcontractors likewise report the incident report number automatically assigned by DoD to their higher-tier subcontractor, until the prime contractor is reached.</p>
+         <p outputclass="List2" class="- topic/p ">(1)  If a cyber incident occurs, contractors and subcontractors submit to DoD—</p>
+         <p outputclass="List3" class="- topic/p ">(i)  A cyber incident report;</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  Malicious software, if detected and isolated; and</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  Media (or access to covered contractor information systems and equipment) upon request.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Contracting officers shall refer to PGI <ph xtrc="PGIxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-PGI_PGI_204.7303-4"
+                     href="PGI_204.7303-4.dita#DFARS-PGI_PGI_204.7303-4">204.7303-4</xref>
+            </ph>(c) for instructions on contractor submissions of media and malicious software.</p>
+         <p outputclass="List1" class="- topic/p ">(c)  Information shared by the contractor may include contractor attributional/ proprietary information that is not customarily shared outside of the company, and thatthe unauthorized use or disclosure of such information could cause substantial competitive harm to the contractor that reported the information.  The Government shall protect against the unauthorized use or release of information that includes contractor attributional/proprietary information.</p>
+         <p outputclass="List1" class="- topic/p ">(d)  A cyber incident that is reported by a contractor or subcontractor shall not, by itself, be interpreted as evidence that the contractor or subcontractor has failed toprovide adequate security on their covered contractor information systems, or has otherwise failed to meet the requirements of the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1380987"
+                     href="252.204-7012.dita#DFARS-252.204-7012">252.204-7012</xref>
+            </ph>, Safeguarding Covered Defense Information and Cyber Incident Reporting.  When a cyber incident is reported, the contracting officer shall consult with the DoD component Chief Information Officer/cyber security office prior to assessing contractor compliance (see PGI <ph xtrc="PGIxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-PGI_PGI_204.7303-3"
+                     href="PGI_204.7303-3.dita#DFARS-PGI_PGI_204.7303-3">204.7303-3</xref>
+            </ph>(a)(3)).  The contracting officer shall consider such cyber incidents in thecontext of an overall assessment of a contractor’s compliance with the requirements of the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1380987"
+                     href="252.204-7012.dita#DFARS-252.204-7012">252.204-7012</xref>
+            </ph>.</p>
+         <p outputclass="List1" class="- topic/p ">(e)  Support services contractors directly supporting Government activities related tosafeguarding covered defense information and cyber incident reporting (e.g., forensicanalysis, damage assessment, or other services that require access to data from another contractor) are subject to restrictions on use and disclosure of reported information.</p>
+      </conbody>
+   </concept>
+</dita>

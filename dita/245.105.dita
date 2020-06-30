@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-245.105"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">245.105</ph> Contractor’s property management system compliance.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  “Acceptable property management system” and “property management system” are defined in the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1383966"
+                     href="252.245-7003.dita#DFARS-252.245-7003">252.245-7003</xref>
+            </ph>, Contractor Property Management System Administration. </p>
+         <p outputclass="List2" class="- topic/p ">(2)  “Significant deficiency” is defined in the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1383966"
+                     href="252.245-7003.dita#DFARS-252.245-7003">252.245-7003</xref>
+            </ph>, Contractor Property Management System Administration. </p>
+         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Policy</i>.  The cognizant contracting officer, in consultation with the property administrator, shall—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  Determine the acceptability of the system and approve or disapprove the system; and</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Pursue correction of any deficiencies.</p>
+         <p outputclass="List1" class="- topic/p ">(c)  In evaluating the acceptability of a contractor’s property management system, the contracting officer, in consultation with the property administrator, shall determine whether the contractor’s property management system complies with the system criteria for an acceptable property management system as prescribed in the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1383966"
+                     href="252.245-7003.dita#DFARS-252.245-7003">252.245-7003</xref>
+            </ph>, Contractor Property Management System Administration. </p>
+         <p outputclass="List1" class="- topic/p ">(d)  <i class="+ topic/ph hi-d/i ">Disposition of findings</i>— </p>
+         <p outputclass="List2" class="- topic/p ">(1)  <i class="+ topic/ph hi-d/i ">Reporting of findings</i>.  The property administrator shall document findings and recommendations in a report to the contracting officer.  If the property administrator identifies any significant property system deficiencies, the report shall describe the deficiencies in sufficient detail to allow the contracting officer to understand the deficiencies. </p>
+         <p outputclass="List2" class="- topic/p ">(2)  <i class="+ topic/ph hi-d/i ">Initial determination</i>.  (i)  The contracting officer shall review findings and recommendations and, if there are no significant deficiencies, shall promptly notify the contractor, in writing, that the contractor’s property management system is acceptable and approved; or </p>
+         <p outputclass="List3" class="- topic/p ">(ii)  If the contracting officer finds that there are one or more significant deficiencies (as defined in the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1383966"
+                     href="252.245-7003.dita#DFARS-252.245-7003">252.245-7003</xref>
+            </ph>, Contractor Property Management System Administration) due to the contractor’s failure to meet one or more of the property management system criteria in the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1383966"
+                     href="252.245-7003.dita#DFARS-252.245-7003">252.245-7003</xref>
+            </ph>, the contracting officer shall—</p>
+         <p outputclass="List4" class="- topic/p ">(A)  Promptly make an initial written determination on any significant deficiencies and notify the contractor, in writing, providing a description of each significant deficiency in sufficient detail to allow the contractor to understand the deficiency; </p>
+         <p outputclass="List4" class="- topic/p ">(B)  Request the contractor to respond, in writing, to the initial determination within 30 days and;  </p>
+         <p outputclass="List4" class="- topic/p ">(C)  Evaluate the contractor’s response to the initial determination, in consultation with the property administrator, and make a final determination. </p>
+         <p outputclass="List2" class="- topic/p ">(3)  <i class="+ topic/ph hi-d/i ">Final determination</i>.  (i)  The contracting officer shall make a final determination and notify the contractor, in writing, that— </p>
+         <p outputclass="List4" class="- topic/p ">(A)  The contractor's property management system is acceptable and approved, and no significant deficiencies remain, or </p>
+         <p outputclass="List4" class="- topic/p ">(B)  Significant deficiencies remain.  The notice shall identify any remaining significant deficiencies, and indicate the adequacy of any proposed or completed corrective action.  The contracting officer shall—</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>)  Request that the contractor, within 45 days of receipt of the final determination, either correct the deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the deficiencies;</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>)  Disapprove the system in accordance with the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1383966"
+                     href="252.245-7003.dita#DFARS-252.245-7003">252.245-7003</xref>
+            </ph>, Contractor Property Management System Administration; and</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>)  Withhold payments in accordance with the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1383876"
+                     href="252.242-7005.dita#DFARS-252.242-7005">252.242-7005</xref>
+            </ph>, Contractor Business Systems, if the clause is included in the contract.</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  Follow the procedures relating to monitoring a contractor's corrective action and the correction of significant deficiencies in PGI <ph xtrc="PGIxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-PGI_PGI_245.105"
+                     href="PGI_245.105.dita#DFARS-PGI_PGI_245.105">245.105</xref>
+            </ph>.</p>
+         <p outputclass="List1" class="- topic/p ">(e)  <i class="+ topic/ph hi-d/i ">System approval</i>.  The contracting officer shall promptly approve a previously disapproved property management system and notify the contractor when the contracting officer determines, in consultation with the property administrator, that there are no remaining significant deficiencies.</p>
+         <p outputclass="List1" class="- topic/p ">(f)  <i class="+ topic/ph hi-d/i ">Contracting officer notifications</i>.  The cognizant contracting officer shall promptly distribute copies of a determination to approve a system, disapprove a system and withhold payments, or approve a previously disapproved system and release withheld payments to the auditor; payment office; affected contracting officers at the buying activities; and cognizant contracting officers in contract administration activities. </p>
+      </conbody>
+   </concept>
+</dita>

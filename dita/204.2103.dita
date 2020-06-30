@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-204.2103"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">204.2103</ph> Procedures.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Representations</i>.  </p>
+         <p outputclass="List2" class="- topic/p ">(1)(i)  If the offeror selects “does not” in response to the provision at DFARS <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-204.2104"
+                     href="204.2104.dita#DFARS-204.2104">204.2104</xref>
+            </ph> has been granted.</p>
+         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Reporting</i>.  If a contractor reports information to https://dibnet.dod.mil in accordance with the clause at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.204-25</ph>or DFARS <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="i1381077"
+                     href="252.204-7018.dita#DFARS-252.204-7018">252.204-7018</xref>
+            </ph>, the Defense Cyber Crime Center will notify the contracting officer, who will consult with the requiring activity on how to proceed with the contract. </p>
+      </conbody>
+   </concept>
+</dita>

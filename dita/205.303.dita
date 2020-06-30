@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-205.303"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">205.303</ph> Announcement of contract awards.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Public Announcement</i>.</p>
+         <p outputclass="List3" class="- topic/p ">(i)  The threshold for DoD awards is $7 million.  Report all contractual actions,including modifications, that have a face value, excluding unexercised options, of morethan $7 million.</p>
+         <p outputclass="List4" class="- topic/p ">(A)  For undefinitized contractual actions, report the not-to-exceed (NTE)amount.  Later, if the definitized amount exceeds the NTE amount by more than $7million, report only the amount exceeding the NTE.</p>
+         <p outputclass="List4" class="- topic/p ">(B)  For indefinite delivery, time and material, labor hour, and similarcontracts, report the initial award if the estimated face value, excluding unexercisedoptions, is more than $7 million.  Do not report orders up to the estimated value, butafter the estimated value is reached, report subsequent modifications and orders thathave a face value of more than $7 million.</p>
+         <p outputclass="List4" class="- topic/p ">(C)  Do not report the same work twice.</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  Departments and agencies submit the information—</p>
+         <p outputclass="List4" class="- topic/p ">(A)  To the Office of the Assistant Secretary of Defense (Public Affairs);</p>
+         <p outputclass="List4" class="- topic/p ">(B)  By the close of business the day before the date of the proposed award;</p>
+         <p outputclass="List4" class="- topic/p ">(C)  Using report control symbol DD-LA-(AR) 1279;</p>
+         <p outputclass="List4" class="- topic/p ">(D)  Including, as a minimum, the following—</p>
+         <p outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(1)</i>
+            <i class="+ topic/ph hi-d/i ">Contract data</i>.  Contract number, modification number, or delivery order number, face value of this action, total cumulative face value of the contract, description of what is being bought, contract type, whether any of the buy was for foreign military sales (FMS) and identification of the FMS customer<i class="+ topic/ph hi-d/i ">;</i>
+         </p>
+         <p outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(2)</i>
+            <i class="+ topic/ph hi-d/i "> Competition information.</i>Number of solicitations mailed and number of offers received;</p>
+         <p outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(3)</i>
+            <i class="+ topic/ph hi-d/i ">Contractor data.  </i>Name, address, and place of performance (if significant work is performed at a different location);</p>
+         <p outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(4)</i>
+            <i class="+ topic/ph hi-d/i ">Funding data.  </i>Type of appropriation and fiscal year of the funds, and whether the contract is multiyear (see FAR Subpart 17.1); and</p>
+         <p outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(5)</i>
+            <i class="+ topic/ph hi-d/i ">Miscellaneous data.  </i>Identification of the contracting office, the contracting office point of contact, known congressional interest, and the information release date.</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  Departments and agencies, in accordance with department/agency procedures and concurrent with the public announcement, shall provide information similar to that required by paragraph (a)(ii) of this section to members of Congress in whose State or district the contractor is located and the work is to be performed.</p>
+      </conbody>
+   </concept>
+</dita>

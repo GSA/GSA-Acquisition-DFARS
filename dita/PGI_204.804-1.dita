@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_204.804-1"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 204.804-1</ph> Closeout by the office administering the contract.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List2" class="- topic/p ">(1) Locally developed forms or a statement of completion may be used instead of the DD Form 1594, Contract Completion Statement, and use the administration office closeout date. Whichever method is used, the form shall be retained in the contract file and copies sent to Electronic Data Access (EDA) and financial systems using the American National Standards Institute (ANSI) X12 Electronic Data Interchange (EDI) 567 transaction set.</p>
+         <p outputclass="List2" class="- topic/p ">(2) For contracts valued above the simplified acquisition threshold and not subject to the automated closeout procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-PGI_PGI_204.804-3"
+                     href="PGI_204.804-3.dita#DFARS-PGI_PGI_204.804-3">204.804-3</xref>
+            </ph>, prepare a DD Form 1597, Contract Closeout Check List (or agency equivalent), to ensure that all required contract actions have been satisfactorily accomplished.</p>
+      </conbody>
+   </concept>
+</dita>
