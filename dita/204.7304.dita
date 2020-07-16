@@ -2,32 +2,48 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-204.7304"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">204.7304</ph> Solicitation provision and contract clauses.</title>
+         <ph props="autonumber" class="- topic/ph ">204.7304</ph> Solicitation provision
+and contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Use the provision at <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List1" class="- topic/p ">(a) Use the provision at <ph xtrc="DFARxref" CaseNumber="DFARxref" class="- topic/ph ">
+               <xref href="252.204-7008.dita#DFARS-252.204-7008"
                      base="i1380956"
-                     href="252.204-7008.dita#DFARS-252.204-7008">252.204-7008</xref>
-            </ph>, Compliance with Safeguarding Covered Defense Information Controls, in all solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items, except for solicitations solely forthe acquisition of commercially available off-the-shelf (COTS) items.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.204-7008</xref>
+            </ph>, Compliance
+with Safeguarding Covered Defense Information Controls, in all solicitations,
+including solicitations using FAR part 12 procedures for the acquisition
+of commercial items, except for solicitations solely forthe acquisition
+of commercially available off-the-shelf (COTS) items.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Use the clause at <ph xtrc="DFARxref" CaseNumber="DFARxref" class="- topic/ph ">
+               <xref href="252.204-7009.dita#DFARS-252.204-7009"
                      base="i1380963"
-                     href="252.204-7009.dita#DFARS-252.204-7009">252.204-7009</xref>
-            </ph>, Limitations on the Use or Disclosure of Third- Party Contractor Reported Cyber Incident Information, in all solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, for services that include support for the Government’s activities related to safeguarding covered defense information and cyber incident reporting.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.204-7009</xref>
+            </ph>, Limitations
+on the Use or Disclosure of Third- Party Contractor Reported Cyber
+Incident Information, in all solicitations and contracts, including
+solicitations and contracts using FAR part 12 procedures for the acquisition
+of commercial items, for services that include support for the Government’s
+activities related to safeguarding covered defense information and
+cyber incident reporting.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Use the clause at <ph xtrc="DFARxref" CaseNumber="DFARxref" class="- topic/ph ">
+               <xref href="252.204-7012.dita#DFARS-252.204-7012"
                      base="i1380987"
-                     href="252.204-7012.dita#DFARS-252.204-7012">252.204-7012</xref>
-            </ph>, Safeguarding Covered Defense Information and Cyber Incident Reporting, in all solicitations and contracts, including solicitations andcontracts using FAR part 12 procedures for the acquisition of commercial items, exceptfor solicitations and contracts solely for the acquisition of COTS items.</p>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.204-7012</xref>
+            </ph>, Safeguarding
+Covered Defense Information and Cyber Incident Reporting, in all
+solicitations and contracts, including solicitations and contracts
+using FAR part 12 procedures for the acquisition of commercial items,
+except for solicitations and contracts solely for the acquisition
+of COTS items.</p>
       </conbody>
    </concept>
 </dita>

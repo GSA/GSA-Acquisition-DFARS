@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-212.203"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -16,13 +17,13 @@ evaluation, and award.</title>
 and prohibitions on the use of the lowest price technically acceptable
 source selection process, which are applicable to the acquisition
 of commercial items.</p>
-         <p outputclass="List2" class="- topic/p ">(2) See <ph xtrc="DFARxref" class="- topic/ph ">
+         <p outputclass="List2" class="- topic/p ">(2) See <ph xtrc="DFARxref" CaseNumber="DFARxref" class="- topic/ph ">
                <xref href="217.7801.dita#DFARS-217.7801"
                      base="DFARS-217.7801"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">217.7801</xref>
-            </ph> for the
-prohibition on the use of reverse auctions for personal protective
+            </ph> for
+the prohibition on the use of reverse auctions for personal protective
 equipment and aviation critical safety items.</p>
       </conbody>
    </concept>
