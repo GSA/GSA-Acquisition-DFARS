@@ -2,29 +2,34 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-232.7004"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">232.7004</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Unless an exception to submission in electronic form at <ph xtrc="DFARxref" class="- topic/ph ">
+         <p outputclass="List1" class="- topic/p ">(a) Unless an exception to submission in electronic form at <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="232.7002.dita#DFARS-232.7002"
                      base="DFARS-232.7002"
-                     href="232.7002.dita#DFARS-232.7002">232.7002</xref>
-            </ph>(a) applies and instructions for invoices are contained in the contract administration data section of the contract or task or delivery order, use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+                     class="- topic/xref ">232.7002</xref>
+            </ph>(a) applies and instructions for invoices are contained in the contract administration data section of the contract or task or delivery order, use the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.232-7003"
+                  href="252.232-7003.dita#DFARS-252.232-7003">252.232-7003</xref>, Electronic Submission of Payment Requests and Receiving Reports, in solicitations and contracts, including solicitations and contracts using <ph xtrc="FARxref" class="- topic/ph ">FAR part 12</ph> procedures for the acquisition of commercial items.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Use the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.232-7006"
+                  href="252.232-7006.dita#DFARS-252.232-7006">252.232-7006</xref>, Wide Area WorkFlow Payment Instructions, in solicitations and contracts or task or delivery orders, including solicitations and contracts using <ph xtrc="FARxref" class="- topic/ph ">FAR part 12</ph> procedures for the acquisition of commercial items, when <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.232-7003"
+                  href="252.232-7003.dita#DFARS-252.232-7003">252.232-7003</xref> is used and none of the exceptions at<ph xtrc="DFARxref" class="- topic/ph ">232.7002(b)(1)</ph> apply. See PGI <ph xtrc="PGIxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="DFARS-232.7002"
-                     href="232.7002.dita#DFARS-232.7002">232.7002</xref>
-            </ph>(b)(1) apply.  See  PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="PGI_232.7004.dita#DFARS-PGI_PGI_232.7004"
                      base="DFARS-PGI_PGI_232.7004"
-                     href="PGI_232.7004.dita#DFARS-PGI_PGI_232.7004">232.7004</xref>
+                     class="- topic/xref ">232.7004</xref>
             </ph> for instructions on completing the clause.</p>
       </conbody>
    </concept>

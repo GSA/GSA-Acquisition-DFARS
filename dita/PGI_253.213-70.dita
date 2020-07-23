@@ -46,7 +46,10 @@
          <p class="- topic/p ">16  Type of Order—Check the appropriate box.  If a purchase order:</p>
          <p outputclass="List2" class="- topic/p ">(1)  Identify the type of quotation, e.g., oral, letter, e-mail, on which the order is based.</p>
          <p outputclass="List2" class="- topic/p ">(2)  Check the box when acceptance of the purchase order is required and enter the number of copies of the order to be returned to the issuing office.</p>
-         <p class="- topic/p ">17  Accounting and Appropriation Data/Local Use—Enter the accounting classification and the accounting classification reference number(s) in accordance with DFARS 204.7107.</p>
+         <p class="- topic/p ">17  Accounting and Appropriation Data/Local Use—Enter the accounting classification and the accounting classification reference number(s) in accordance with DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-204.7107"
+                  href="204.7107.dita#DFARS-204.7107">204.7107</xref>.</p>
          <p class="- topic/p ">18  Item No.—Enter an item number for each item of supply or service in accordance with DFARS Subpart <ph xtrc="DFARxref" class="- topic/ph ">204.71</ph>.</p>
          <p class="- topic/p ">19  Schedule of Supplies/Services—The Schedule contains several elements of data.  The order and arrangement of data in the Schedule is mandatory for purchase and delivery orders assigned to the Defense Contract Management Agency or the military departments for administration and is encouraged for all orders.</p>
          <p outputclass="List2" class="- topic/p ">(1)  National Stock Number (NSN)—Total item quantity for the line or subline item number followed by the appropriate national stock number or the word “none” if an NSN has not been assigned.  On the same line and adjacent to NSN, enter the words “Total Item Quantity.”  This phrase is used in conjunction with the total quantity, unit of issue, unit price, and dollar amount of the stock number or item cited (see entries for Blocks 20, 21, 22, and 23).</p>

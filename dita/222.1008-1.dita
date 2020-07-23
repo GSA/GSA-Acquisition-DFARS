@@ -2,21 +2,20 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-222.1008-1"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">222.1008-1</ph> Obtaining wage determinations.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="PGI_222.1008-1.dita#DFARS-PGI_PGI_222.1008-1"
                      base="DFARS-PGI_PGI_222.1008-1"
-                     href="PGI_222.1008-1.dita#DFARS-PGI_PGI_222.1008-1">222.1008-1</xref>
+                     class="- topic/xref ">222.1008-1</xref>
             </ph> regarding use of the Service Contract Act Directory of Occupations when preparing the e98.</p>
-         <p class="- topic/p ">Use the clause 52.222-99, Establishing a Minimum Wage for Contractors (DEVIATION 2014-O0017)(JUN 2014) in solicitations and contracts that include the FAR clause 52.222-6 and/or 52.222-41, and work is to be performed in whole or in part in the United States (the 50 States and the District of Columbia).  To the maximum extent practicable, insert clause 52.222-99 in solicitations issued on or after the date of the Executive Order, February 12, 2014, and before the date of this deviation, June 26, 2014, if the solicitation is otherwise being amended. </p>
       </conbody>
    </concept>
 </dita>

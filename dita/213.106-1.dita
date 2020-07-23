@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-213.106-1"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -10,31 +11,20 @@
          <ph props="autonumber" class="- topic/ph ">213.106-1</ph> Soliciting competition.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Considerations</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(2)(i) Include an evaluation factor regarding
-supply chain risk (see subpart <xref href="SUBPART_239.73.dita#DFARS-SUBPART_239.73"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">239.73</xref>) when acquiring
-information technology, whether as a service or as a supply, that
-is a covered system, is a part of a covered system, or is in support
-of a covered system, as defined in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="239.7301.dita#DFARS-239.7301"
+         <p outputclass="List2" class="- topic/p ">(2)(i) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     href="239.7301.dita#DFARS-239.7301"
                      base="DFARS-239.7301"
-                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">239.7301</xref>
             </ph>.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) See <xref href="215.101-2-70.dita#DFARS-215.101-2-70"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">215.101-2-70</xref> for limitations
-and prohibitions on the use of the lowest price technically acceptable
-source selection process, which are applicable to simplified acquisitions.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) See <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="217.7801.dita#DFARS-217.7801"
-                     base="DFARS-217.7801"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">217.7801</xref>
-            </ph> for the
-prohibition on the use of reverse auctions for personal protective
-equipment and aviation critical safety items.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.101-2"
+                  href="215.101-2.dita#DFARS-215.101-2">215.101-2</xref>-70 for limitations and prohibitions on the use of the lowest price technically acceptable source selection process, which are applicable to simplified acquisitions.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-217.7801"
+                  href="217.7801.dita#DFARS-217.7801">217.7801</xref> for the prohibition on the use of reverse auctions for personal protective equipment and aviation critical safety items.</p>
       </conbody>
    </concept>
 </dita>

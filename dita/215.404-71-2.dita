@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-215.404-71-2"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -15,64 +16,86 @@ contract requirements. The factor consists of two parts:</p>
          <p outputclass="List2" class="- topic/p ">(1) Technical - the technical uncertainties
 of performance.</p>
          <p outputclass="List2" class="- topic/p ">(2) Management/cost control - the degree
-of management effort necessary—</p>
+of management effort necessary -</p>
          <p outputclass="List3" class="- topic/p ">(i) To ensure that contract requirements
 are met; and</p>
          <p outputclass="List3" class="- topic/p ">(ii) To reduce and control costs.</p>
          <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Determination.</i> The following
 extract from the DD Form 1547 is annotated to describe the process.</p>
-         <p outputclass="DIV" class="- topic/p ">
-            <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-               <tgroup cols="6"
-                       colsep="1"
-                       rowsep="0"
-                       outputclass="FormatA"
-                       class="- topic/tgroup ">
-                  <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec "/>
-                  <colspec colnum="2" colname="2" colwidth="17*" class="- topic/colspec "/>
-                  <colspec colnum="3" colname="3" colwidth="17*" class="- topic/colspec "/>
-                  <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec "/>
-                  <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec "/>
-                  <colspec colnum="6" colname="6" colwidth="17*" class="- topic/colspec "/>
-                  <thead class="- topic/thead ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" colsep="0" class="- topic/entry ">Item</entry>
-                        <entry colname="2" colsep="0" class="- topic/entry ">Contractor risk factors</entry>
-                        <entry colname="3" colsep="0" class="- topic/entry ">Assigned weighting</entry>
-                        <entry colname="4" colsep="0" class="- topic/entry ">Assigned value</entry>
-                        <entry colname="5" colsep="0" class="- topic/entry ">Base (item 20)</entry>
-                        <entry colname="6" class="- topic/entry ">Profit objective</entry>
-                     </row>
-                  </thead>
-                  <tbody class="- topic/tbody ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" colsep="0" align="left" class="- topic/entry ">21</entry>
-                        <entry colname="2" colsep="0" align="left" class="- topic/entry ">Technical</entry>
-                        <entry colname="3" colsep="0" align="right" class="- topic/entry ">(1)</entry>
-                        <entry colname="4" colsep="0" align="right" class="- topic/entry ">(2)</entry>
-                        <entry colname="5" colsep="0" align="right" class="- topic/entry ">N/A</entry>
-                        <entry colname="6" align="right" class="- topic/entry ">N/A</entry>
-                     </row>
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" colsep="0" align="left" class="- topic/entry ">22</entry>
-                        <entry colname="2" colsep="0" align="left" class="- topic/entry ">Management/Cost Control</entry>
-                        <entry colname="3" colsep="0" align="right" class="- topic/entry ">(1)</entry>
-                        <entry colname="4" colsep="0" align="right" class="- topic/entry ">(2)</entry>
-                        <entry colname="5" colsep="0" align="right" class="- topic/entry ">N/A</entry>
-                        <entry colname="6" align="right" class="- topic/entry ">N/A</entry>
-                     </row>
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" colsep="0" align="left" class="- topic/entry ">23</entry>
-                        <entry colname="2" colsep="0" align="left" class="- topic/entry ">Performance Risk (Composite)</entry>
-                        <entry colname="3" colsep="0" align="right" class="- topic/entry ">N/A</entry>
-                        <entry colname="4" colsep="0" align="right" class="- topic/entry ">(3)</entry>
-                        <entry colname="5" colsep="0" align="right" class="- topic/entry ">(4)</entry>
-                        <entry colname="6" align="right" class="- topic/entry ">(5)</entry>
-                     </row>
-                  </tbody>
-               </tgroup>
-            </table>
-         </p>
+         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="FormatA"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" colsep="0" class="- topic/entry ">Item</entry>
+                     <entry colname="2" colsep="0" class="- topic/entry ">Contractor risk factors</entry>
+                     <entry colname="3" colsep="0" class="- topic/entry ">Assigned weighting</entry>
+                     <entry colname="4" colsep="0" class="- topic/entry ">Assigned value</entry>
+                     <entry colname="5" colsep="0" class="- topic/entry ">Base (item 20)</entry>
+                     <entry colname="6" class="- topic/entry ">Profit objective</entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">21</entry>
+                     <entry colname="2" colsep="0" align="left" class="- topic/entry ">Technical</entry>
+                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">(1)</entry>
+                     <entry colname="4" colsep="0" align="right" class="- topic/entry ">(2)</entry>
+                     <entry colname="5" colsep="0" align="right" class="- topic/entry ">N/A</entry>
+                     <entry colname="6" align="right" class="- topic/entry ">N/A</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">22</entry>
+                     <entry colname="2" colsep="0" align="left" class="- topic/entry ">Management/Cost Control</entry>
+                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">(1)</entry>
+                     <entry colname="4" colsep="0" align="right" class="- topic/entry ">(2)</entry>
+                     <entry colname="5" colsep="0" align="right" class="- topic/entry ">N/A</entry>
+                     <entry colname="6" align="right" class="- topic/entry ">N/A</entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">23</entry>
+                     <entry colname="2" colsep="0" align="left" class="- topic/entry ">Performance Risk (Composite)</entry>
+                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">N/A</entry>
+                     <entry colname="4" colsep="0" align="right" class="- topic/entry ">(3)</entry>
+                     <entry colname="5" colsep="0" align="right" class="- topic/entry ">(4)</entry>
+                     <entry colname="6" align="right" class="- topic/entry ">(5)</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
          <p outputclass="List2" class="- topic/p ">(1) Assign a weight (percentage) to each
 element according to its input to the total performance risk. The
 total of the two weights equals 100 percent.</p>
@@ -81,86 +104,112 @@ the list in paragraph (c) of this subsection using the evaluation
 criteria in paragraphs (d) and (e) of this subsection.</p>
          <p outputclass="List2" class="- topic/p ">(3) Compute the composite as shown in the
 following example:</p>
-         <p outputclass="DIV" class="- topic/p ">
-            <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-               <tgroup cols="4"
-                       colsep="1"
-                       rowsep="0"
-                       outputclass="FormatA"
-                       class="- topic/tgroup ">
-                  <colspec colnum="1" colname="1" colwidth="25*" class="- topic/colspec "/>
-                  <colspec colnum="2" colname="2" colwidth="25*" class="- topic/colspec "/>
-                  <colspec colnum="3" colname="3" colwidth="25*" class="- topic/colspec "/>
-                  <colspec colnum="4" colname="4" colwidth="25*" class="- topic/colspec "/>
-                  <thead class="- topic/thead ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" colsep="0" class="- topic/entry "/>
-                        <entry colname="2" colsep="0" class="- topic/entry ">Assigned weighting (percent)</entry>
-                        <entry colname="3" colsep="0" class="- topic/entry ">Assigned value (percent)</entry>
-                        <entry colname="4" class="- topic/entry ">Weighted value (percent)</entry>
-                     </row>
-                  </thead>
-                  <tbody class="- topic/tbody ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" colsep="0" align="left" class="- topic/entry ">Technical</entry>
-                        <entry colname="2" colsep="0" align="right" class="- topic/entry ">60</entry>
-                        <entry colname="3" colsep="0" align="right" class="- topic/entry ">5.0</entry>
-                        <entry colname="4" align="right" class="- topic/entry ">3.0</entry>
-                     </row>
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" colsep="0" align="left" class="- topic/entry ">Management/Cost
+         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+            <tgroup cols="4"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="FormatA"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="25*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="25*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="25*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="25*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" colsep="0" class="- topic/entry "/>
+                     <entry colname="2" colsep="0" class="- topic/entry ">Assigned weighting (percent)</entry>
+                     <entry colname="3" colsep="0" class="- topic/entry ">Assigned value (percent)</entry>
+                     <entry colname="4" class="- topic/entry ">Weighted value (percent)</entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Technical</entry>
+                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">60</entry>
+                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">5.0</entry>
+                     <entry colname="4" align="right" class="- topic/entry ">3.0</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Management/Cost
 Control</entry>
-                        <entry colname="2" colsep="0" align="right" class="- topic/entry ">40</entry>
-                        <entry colname="3" colsep="0" align="right" class="- topic/entry ">4.0</entry>
-                        <entry colname="4" align="right" class="- topic/entry ">1.6</entry>
-                     </row>
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" colsep="0" align="left" class="- topic/entry ">Composite Value</entry>
-                        <entry colname="2" colsep="0" align="right" class="- topic/entry ">100</entry>
-                        <entry colname="3" colsep="0" align="right" class="- topic/entry "/>
-                        <entry colname="4" align="right" class="- topic/entry ">4.6</entry>
-                     </row>
-                  </tbody>
-               </tgroup>
-            </table>
-         </p>
+                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">40</entry>
+                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">4.0</entry>
+                     <entry colname="4" align="right" class="- topic/entry ">1.6</entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Composite Value</entry>
+                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">100</entry>
+                     <entry colname="3" colsep="0" align="right" class="- topic/entry "/>
+                     <entry colname="4" align="right" class="- topic/entry ">
+                        <ph class="- topic/ph ">4.6</ph>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
          <p outputclass="List2" class="- topic/p ">(4) Insert the amount from Block 20 of
 the DD Form 1547. Block 20 is total contract costs, excluding facilities
 capital cost of money.</p>
          <p outputclass="List2" class="- topic/p ">(5) Multiply (3) by (4).</p>
          <p outputclass="List1" class="- topic/p ">(c) Values: Normal and designated ranges.</p>
-         <p outputclass="DIV" class="- topic/p ">
-            <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-               <tgroup cols="3"
-                       colsep="1"
-                       rowsep="0"
-                       outputclass="FormatA"
-                       class="- topic/tgroup ">
-                  <colspec colnum="1" colname="1" colwidth="33*" class="- topic/colspec "/>
-                  <colspec colnum="2" colname="2" colwidth="33*" class="- topic/colspec "/>
-                  <colspec colnum="3" colname="3" colwidth="33*" class="- topic/colspec "/>
-                  <thead class="- topic/thead ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" colsep="0" class="- topic/entry "/>
-                        <entry colname="2" colsep="0" class="- topic/entry ">Normal value (percent)</entry>
-                        <entry colname="3" class="- topic/entry ">Designated range</entry>
-                     </row>
-                  </thead>
-                  <tbody class="- topic/tbody ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry colname="1" colsep="0" align="left" class="- topic/entry ">Standard</entry>
-                        <entry colname="2" colsep="0" align="right" class="- topic/entry ">5</entry>
-                        <entry colname="3" align="left" class="- topic/entry ">3% to 7%</entry>
-                     </row>
-                     <row rowsep="0" class="- topic/row ">
-                        <entry colname="1" colsep="0" align="left" class="- topic/entry ">Technology Incentive</entry>
-                        <entry colname="2" colsep="0" align="right" class="- topic/entry ">9</entry>
-                        <entry colname="3" align="left" class="- topic/entry ">7% to 11%</entry>
-                     </row>
-                  </tbody>
-               </tgroup>
-            </table>
-         </p>
+         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+            <tgroup cols="3"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="FormatA"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="33*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="33*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="33*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" colsep="0" class="- topic/entry "/>
+                     <entry colname="2" colsep="0" class="- topic/entry ">Normal value (percent)</entry>
+                     <entry colname="3" class="- topic/entry ">Designated range</entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Standard</entry>
+                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">5</entry>
+                     <entry colname="3" align="left" class="- topic/entry ">3% to 7%</entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Technology Incentive</entry>
+                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">9</entry>
+                     <entry colname="3" align="left" class="- topic/entry ">7% to 11%</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
          <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Standard.</i> The standard designated
 range should apply to most contracts.</p>
          <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Technology incentive.</i> For the
@@ -211,7 +260,7 @@ are tight; or</p>
 concurrency.</p>
          <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Below normal conditions.</i> (i)
 The contracting officer may assign a lower than normal value in
-those cases where the technical risk is low. Indicators are—</p>
+those cases where the technical risk is low. Indicators are -</p>
          <p outputclass="List4" class="- topic/p ">(A) Requirements are relatively simple;</p>
          <p outputclass="List4" class="- topic/p ">(B) Technology is not complex;</p>
          <p outputclass="List4" class="- topic/p ">(C) Efforts do not require highly skilled
@@ -289,22 +338,19 @@ a maximum value when the effort -</p>
          <p outputclass="List4" class="- topic/p ">(A) Requires large scale integration of
 the most complex nature;</p>
          <p outputclass="List4" class="- topic/p ">(B) Involves major international activities
-with significant management coordination (<i class="+ topic/ph hi-d/i ">e.g.</i>, offsets with
-foreign vendors); or</p>
+with significant management coordination (e.g., offsets with foreign
+vendors); or</p>
          <p outputclass="List4" class="- topic/p ">(C) Has critically important milestones.</p>
          <p outputclass="List3" class="- topic/p ">(iii) If the contractor demonstrates efficient
 management and cost control through the submittal of a timely, qualifying proposal
-(as defined in <xref href="217.7401.dita#DFARS-217.7401"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">217.7401</xref>) in furtherance
-of definitization of an undefinitized contract action, and the proposal
-demonstrates effective cost control from the time of award to the
-present, the contracting officer may add 1 percentage point to the
-value determined for management/cost control up to the maximum of
-7 percent.</p>
+(as defined in217.7401) in furtherance of definitization of an undefinitized
+contract action, and the proposal demonstrates effective cost control
+from the time of award to the present, the contracting officer may
+add 1 percentage point to the value determined for management/cost
+control up to the maximum of 7 percent.</p>
          <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Below normal conditions.</i> (i)
 The contracting officer may assign a lower than normal value when
-the management effort is minimal. Indicators of this are—</p>
+the management effort is minimal. Indicators of this are -</p>
          <p outputclass="List4" class="- topic/p ">(A) The program is mature and many end
 item deliveries have been made;</p>
          <p outputclass="List4" class="- topic/p ">(B) The contractor adds minimal value to
@@ -331,8 +377,8 @@ past performance.</p>
 significantly below normal -</p>
          <p outputclass="List4" class="- topic/p ">(A) Reviews performed by the field contract
 administration offices disclose unsatisfactory management and internal control
-systems (<i class="+ topic/ph hi-d/i ">e.g.</i>, quality assurance, property control, safety,
-security); or</p>
+systems (e.g., quality assurance, property control, safety, security);
+or</p>
          <p outputclass="List4" class="- topic/p ">(B) The effort requires an unusually low
 degree of management involvement.</p>
       </conbody>

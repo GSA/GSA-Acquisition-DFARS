@@ -11,7 +11,10 @@
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 217.7103-1</ph> Content and format of master agreements.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1) A master agreement shall contain all clauses required by DFARS 217.7104(a), statute, and Executive order.</p>
+         <p outputclass="List2" class="- topic/p ">(1) A master agreement shall contain all clauses required by DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-217.7104"
+                  href="217.7104.dita#DFARS-217.7104">217.7104</xref>(a), statute, and Executive order.</p>
          <p outputclass="List2" class="- topic/p ">(2) The following format may be adapted to fit specific circumstances:</p>
          <p class="- topic/p ">MASTER AGREEMENT FOR REPAIR AND ALTERATION OF VESSELS</p>
          <p outputclass="List2" class="- topic/p ">1. This agreement is entered into this ____ day of _____________________ ,____, by the United States of America (the “Government”:) represented by _________________, the Contracting Officer, and ___________________________, a corporation organized and existing under the laws of the State of __________________________ (the “Contractor”).</p>
@@ -30,17 +33,20 @@
                         colname="1"
                         colwidth="45*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="45*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="11*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">

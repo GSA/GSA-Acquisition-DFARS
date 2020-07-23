@@ -2,47 +2,53 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-225.7303-2"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.7303-2</ph> Cost of doing business with a foreign government or an international organization.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  In pricing FMS contracts where non-U.S. Government prices as described in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="DFARS-225.7306"
-                     href="225.7306.dita#DFARS-225.7306">225.7306</xref>
-            </ph>.</p>
-         <p outputclass="List3" class="- topic/p ">(i)  An offset agreement is the contractual arrangement between the FMS customer and the U.S. defense contractor that identifies the offset obligation imposed by the FMS customer that has been accepted by the U.S. defense contractor as a condition of the FMS customer’s purchase.  These agreements are distinct and independent of the LOA and the FMS contract.  Further information about offsets and LOAs may be found in the Defense Security Cooperation Agency (DSCA) Security Assistance Management Manual (DSCA 5105.38-M), chapter 6, paragraph 6.3.9. (http://samm.dsca.mil/chapter/chapter-6).</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  A U.S. defense contractor may recover all costs incurred for offset agreements with a foreign government or international organization if the LOA is financed wholly with foreign government or international organization customer cash or repayable foreign military finance credits.</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  The U.S. Government assumes no obligation to satisfy or administer the offset agreement or to bear any of the associated costs.</p>
-         <p outputclass="List3" class="- topic/p ">(iv)  Indirect offset costs are deemed reasonable for purposes of FAR parts </p>
-         <p class="- topic/p ">15 and 31 with no further analysis necessary on the part of the contracting officer, provided that the U.S. defense contractor submits to the contracting officer a signed offset agreement or other documentation showing that the FMS customer has made the provision of an indirect offset a condition of the FMS acquisition.  FMS customers are placed on notice through the LOA that indirect offset costs are deemed reasonable without any further analysis by the contracting officer.</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Costs that are the subject of advance agreement under the appropriate provisions of FAR Part 31; or where the advance understanding places a limit on the amounts of cost that will be recognized as allowable in defense contract pricing, and the agreement contemplated that it will apply only to DoD contracts for the U.S. Government's own requirements (as distinguished from contracts for FMS).</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Costs not allowable under FAR Part 31 are not allowable in pricing FMS contracts, except as noted in paragraphs (c) and (e) of this subsection.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  The limitations for major contractors on independent research and development and bid and proposal (IR&amp;D/B&amp;P) costs for projects that are of potential interest to DoD, in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="i1380009"
-                     href="231.205-18.dita#DFARS-231.205-18">231.205-18</xref>
-            </ph>(c)(iii), do not apply to FMS contracts, except as provided in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="i1379419"
-                     href="225.7303-5.dita#DFARS-225.7303-5">225.7303-5</xref>
-            </ph>.  The allowability of IR&amp;D/B&amp;P costs on contracts for FMS not wholly paid for from funds made available on a nonrepayable basis is limited to the contract’s allocable share of the contractor’s total IR&amp;D/B&amp;P expenditures.  In pricing contracts for such FMS—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Use the best estimate of reasonable costs in forward pricing; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Use actual expenditures, to the extent that they are reasonable, in determining final cost.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  Under paragraph (e)(1)(A) of Section 21 of the Arms Export Control Act (22 U.S.C. 2761), the United States must charge for administrative services to recover the estimated cost of administration of sales made under the Arms Export Control Act.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  The limitations in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="i1379999"
-                     href="231.205-1.dita#DFARS-231.205-1">231.205-1</xref>
-            </ph> on allowability of costs associated with leasing Government equipment do not apply to FMS contracts.</p>
+         <p outputclass="List1" class="- topic/p ">(a) In pricing FMS contracts where non-U.S. Government prices as described in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.7303-1"
+                  href="225.7303-1.dita#DFARS-225.7303-1">225.7303-1</xref> do not exist, except as provided in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.7303-5"
+                  href="225.7303-5.dita#DFARS-225.7303-5">225.7303-5</xref>, recognize the reasonable and allocable costs of doing business with a foreign government or international organization, even though such costs might not be recognized in the same amounts in pricing other defense contracts. Examples of such costs include, but are not limited to, the following:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Selling expenses (not otherwise limited by <ph xtrc="FARxref" class="- topic/ph ">FAR Part 31</ph>), such as -</p>
+         <p outputclass="List3" class="- topic/p ">(i) Maintaining international sales and service organizations;</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Sales commissions and fees in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR Subpart 3.4</ph>;</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Sales promotions, demonstrations, and related travel for sales to foreign governments. Section 126.8 of the International Traffic in Arms Regulations (22 CFR 126.8) may require Government approval for these costs to be allowable, in which case the appropriate Government approval shall be obtained; and</p>
+         <p outputclass="List3" class="- topic/p ">(iv) Configuration studies and related technical services undertaken as a direct selling effort to a foreign country.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Product support and post-delivery service expenses, such as -</p>
+         <p outputclass="List3" class="- topic/p ">(i) Operations or maintenance training, training or tactics films, manuals, or other related data; and</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Technical field services provided in a foreign country related to accident investigations, weapon system problems, or operations/tactics enhancement, and related travel to foreign countries.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Offsets.</i> For additional information see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.7306"
+                  href="225.7306.dita#DFARS-225.7306">225.7306</xref>.</p>
+         <p outputclass="List3" class="- topic/p ">(i) An offset agreement is the contractual arrangement between the FMS customer and the U.S. defense contractor that identifies the offset obligation imposed by the FMS customer that has been accepted by the U.S. defense contractor as a condition of the FMS customer's purchase. These agreements are distinct and independent of the LOA and the FMS contract. Further information about offsets and LOAs may be found in the Defense Security Cooperation Agency (DSCA) Security Assistance Management Manual (DSCA 5105.38-M), chapter 6, paragraph 6.3.9. (<i class="+ topic/ph hi-d/i ">http://samm.dsca.mil/chapter/chapter-6</i>).</p>
+         <p outputclass="List3" class="- topic/p ">(ii) A U.S. defense contractor may recover all costs incurred for offset agreements with a foreign government or international organization if the LOA is financed wholly with foreign government or international organization customer cash or repayable foreign military finance credits.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) The U.S. Government assumes no obligation to satisfy or administer the offset agreement or to bear any of the associated costs.</p>
+         <p outputclass="List3" class="- topic/p ">(iv) Indirect offset costs are deemed reasonable for purposes of FAR parts 15 and 31 with no further analysis necessary on the part of the contracting officer, provided that the U.S. defense contractor submits to the contracting officer a signed offset agreement or other documentation showing that the FMS customer has made the provision of an indirect offset a condition of the FMS acquisition. FMS customers are placed on notice through the LOA that indirect offset costs are deemed reasonable without any further analysis by the contracting officer.</p>
+         <p outputclass="List2" class="- topic/p ">(4) Costs that are the subject of advance agreement under the appropriate provisions of <ph xtrc="FARxref" class="- topic/ph ">FAR part 31</ph>; or where the advance understanding places a limit on the amounts of cost that will be recognized as allowable in defense contract pricing, and the agreement contemplated that it will apply only to DoD contracts for the U.S. Government's own requirement (as distinguished from contracts for FMS).</p>
+         <p outputclass="List1" class="- topic/p ">(b) Costs not allowable under <ph xtrc="FARxref" class="- topic/ph ">FAR Part 31</ph> are not allowable in pricing FMS contracts, except as noted in paragraphs (c) and (e) of this subsection.</p>
+         <p outputclass="List1" class="- topic/p ">(c) The limitations for major contractors on independent research and development and bid and proposal (IR&amp;D/B&amp;P) costs for projects that are of potential interest to DoD, in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-231.205-18"
+                  href="231.205-18.dita#DFARS-231.205-18">231.205-18</xref>(c)(iii), do not apply to FMS contracts, except as provided in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.7303-5"
+                  href="225.7303-5.dita#DFARS-225.7303-5">225.7303-5</xref>. The allowability of IR&amp;D/B&amp;P costs on contracts for FMS not wholly paid for from funds made available on a nonrepayable basis is limited to the contract's allocable share of the contractor's total IR&amp;D/B&amp;P expenditures. In pricing contracts for such FMS -</p>
+         <p outputclass="List2" class="- topic/p ">(1) Use the best estimate of reasonable costs in forward pricing; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) Use actual expenditures, to the extent that they are reasonable, in determining final cost.</p>
+         <p outputclass="List1" class="- topic/p ">(d) Under paragraph (e)(1)(A) of Section 21 of the Arms Export Control Act (22 U.S.C. 2761), the United States must charge for administrative services to recover the estimated cost of administration of sales made under the Army Export Control Act.</p>
+         <p outputclass="List1" class="- topic/p ">(e) The limitations in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-231.205-1"
+                  href="231.205-1.dita#DFARS-231.205-1">231.205-1</xref> on allowability of costs associated with leasing Government equipment do not apply to FMS contracts.</p>
       </conbody>
    </concept>
 </dita>

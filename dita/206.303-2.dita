@@ -2,31 +2,23 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-206.303-2"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">206.303-2</ph> Content.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(b)(i)
-In lieu of the threshold at FAR 6.303-2(b), each justification shall
-include the information at FAR 6.303-2(b), except for sole-source
-8(a) contracts over $100 million (see paragraph (d) of this section).</p>
+         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(b)(i) In lieu of the threshold at <ph xtrc="FARxref" class="- topic/ph ">FAR 6.303-2</ph>(b), each justification shall include the information at <ph xtrc="FARxref" class="- topic/ph ">FAR 6.303-2</ph>(b), except for sole-source 8(a) contracts over $100 million (see paragraph (d) of this section).</p>
          <p outputclass="List3" class="- topic/p ">
-            <ph rev="Revised June 5, 2020" class="- topic/ph ">(ii)</ph> Include
-the information required by PGI <ph xtrc="PGIxref" class="- topic/ph ">
+            <ph rev="Revised June 5, 2020" class="- topic/ph ">(ii)</ph> Include the information required by PGI <ph xtrc="PGIxref" class="- topic/ph ">
                <xref href="PGI_206.303-2.dita#DFARS-PGI_PGI_206.303-2"
                      base="DFARS-PGI_PGI_206.303-2"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">206.303-2</xref>
-            </ph>(b)(i)
-in justifications citing the authority at <ph xtrc="FARxref" class="- topic/ph ">FAR
-6.302-1</ph>.</p>
-         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(d) In lieu
-of the threshold at FAR 6.303-2(d), each justification for a sole-source
-8(a) contract over $100 million shall include the information at
-FAR 6.303-2(d).</p>
+            </ph>(b)(i) in justifications citing the authority at <ph xtrc="FARxref" class="- topic/ph ">FAR 6.302-1</ph>.</p>
+         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(d) In lieu of the threshold at <ph xtrc="FARxref" class="- topic/ph ">FAR 6.303-2</ph>(d), each justification for a sole-source 8(a) contract over $100 million shall include the information at <ph xtrc="FARxref" class="- topic/ph ">FAR 6.303-2</ph>(d).</p>
       </conbody>
    </concept>
 </dita>

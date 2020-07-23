@@ -2,42 +2,28 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-252.216-7003"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.216-7003</ph> Economic Price Adjustment—Wage Rates or Material Prices Controlled by a Foreign Government.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="DFARS-216.406"
-                     href="216.406.dita#DFARS-216.406">216.406</xref>
-            </ph>(e), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">AWARD FEE REDUCTION OR DENIAL FOR JEOPARDIZING THE HEALTH OR SAFETY OF GOVERNMENT PERSONNEL (SEP 2011)</p>
-         <p outputclass="List1" class="- topic/p ">(a)<i class="+ topic/ph hi-d/i "> Definitions</i>.   As used in this clause—</p>
-         <p class="- topic/p ">“Covered incident”–</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Means any incident in which the Contractor, through a criminal, civil, or administrative proceeding that results in a disposition listed in paragraph (a) (ii) of this definition –</p>
-         <p outputclass="List4" class="- topic/p ">(A)  Has been determined in the performance of this contract to have caused serious bodily injury or death of any civilian or military personnel of the Government through gross negligence or with reckless disregard for the safety of such personnel; or </p>
-         <p outputclass="List4" class="- topic/p ">(B)  Has been determined to be liable for actions of a subcontractor of the Contractor that caused serious bodily injury or death of any civilian or military personnel of the Government through gross negligence or with reckless disregard for the safety of such personnel.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Includes those incidents that have resulted in any of the following dispositions:</p>
-         <p outputclass="List4" class="- topic/p ">(A)  In a criminal proceeding, a conviction.</p>
-         <p outputclass="List4" class="- topic/p ">(B)  In a civil proceeding, a finding of fault or liability that results in the payment of a monetary fine, penalty, reimbursement, restitution, or damage of $5,000 or more.</p>
-         <p outputclass="List4" class="- topic/p ">(C)  In an administrative proceeding, a finding of fault and liability that results in–</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>)  The payment of a monetary fine or penalty of $5,000 or more; or</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>)  The payment of a reimbursement, restitution, or damages in excess of $100,000.</p>
-         <p outputclass="List4" class="- topic/p ">(D)  In a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the Contractor if the proceeding could have led to any of the outcomes specified in subparagraphs (a)(ii)(A), (a) (ii)(B), or (a)(ii)(C).</p>
-         <p outputclass="List4" class="- topic/p ">(E)  In a DoD investigation of the Contractor or its subcontractors at any tier not subject to the jurisdiction of the U.S. courts, a final determination by the Secretary of Defense of Contractor or subcontractor fault (see DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="i1378423"
-                     href="216.405-2.dita#DFARS-216.405-2">216.405-2</xref>
-            </ph>-70).</p>
-         <p class="- topic/p ">“Serious bodily injury” means a grievous physical harm that results in a permanent disability.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  If, in the performance of this contract, the Contractor’s or its subcontractor’s actions cause serious bodily injury or death of civilian or military Government personnel, the Government may reduce or deny the award fee for the relevant award fee period in which the covered incident occurred, including the recovery of all or part of any award fees paid for any previous period during which the covered incident occurred.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-216.203-4"
+                  href="216.203-4.dita#DFARS-216.203-4">216.203-4</xref>-70(c)(1), use the following clause:</p>
+         <p class="- topic/p ">Economic Price Adjustment - Wage Rates or Material Prices Controlled by a Foreign Government (MAR 2012)</p>
+         <p outputclass="List1" class="- topic/p ">(a) As represented by the Contractor in its offer, the prices set forth in this contract -</p>
+         <p outputclass="List2" class="- topic/p ">(1) Are based on the wage rates or material prices established and controlled by the government of the country specified by the Contractor in its offer; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) Do not include contingency allowances to pay for possible increases in wage rates or material prices.</p>
+         <p outputclass="List1" class="- topic/p ">(b) If wage rates or material prices are revised by the government named in paragraph (a) of this clause, the Contracting Officer shall make an equitable adjustment in the contract price and shall modify the contract to the extent that the Contractor's actual costs of performing this contract are increased or decreased, as a direct result of the revision, subject to the following:</p>
+         <p outputclass="List2" class="- topic/p ">(1) For increases in established wage rates or material prices, the increase in contract unit price(s) shall be effective on the same date that the government named in paragraph (a) of this clause increased the applicable wage rate(s) or material price(s), but only if the Contracting Officer receives the Contractor's written request for contract adjustment within 10 days of the change. If the Contractor's request is received later, the effective date shall be the date that the Contracting Officer received the Contractor's request.</p>
+         <p outputclass="List2" class="- topic/p ">(2) For decreases in established wage rates or material prices, the decrease in contract unit price(s) shall be effective on the same date that the government named in paragraph (a) of this clause decreased the applicable wage rate(s) or material price(s). The decrease in contract unit price(s) shall apply to all items delivered on and after the effective date of the government's rate or price decrease.</p>
+         <p outputclass="List1" class="- topic/p ">(c) No modification changing the contract unit price(s) shall be executed until the Contracting Officer has verified the applicable change in the rates or prices set by the government named in paragraph (a) of this clause. The Contractor shall make available its books and records that support a requested change in contract price.</p>
+         <p outputclass="List1" class="- topic/p ">(d) Failure to agree to any adjustment shall be a dispute under the Disputes clause of this contract.</p>
+         <p class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

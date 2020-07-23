@@ -34,7 +34,10 @@
          <p outputclass="List2" class="- topic/p ">(4) If the exhibit has more than one page, cite the procurement instrument identification number, exhibit identifier, and applicable contract line or subline item number on each page.</p>
          <p outputclass="List2" class="- topic/p ">(5) Use numbers to identify attachments.</p>
          <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Numbering exhibit line items</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(1) Criteria for establishing. The criteria for establishing exhibit line items are the same as those for establishing contract line items (see DFARS 204.7103).</p>
+         <p outputclass="List2" class="- topic/p ">(1) Criteria for establishing. The criteria for establishing exhibit line items are the same as those for establishing contract line items (see DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-204.7103"
+                  href="204.7103.dita#DFARS-204.7103">204.7103</xref>).</p>
          <p outputclass="List2" class="- topic/p ">(2) Procedures for numbering.</p>
          <p outputclass="List3" class="- topic/p ">(i) Number items in an exhibit in a manner similar to contract line items.</p>
          <p outputclass="List3" class="- topic/p ">(ii) Number line items using a four-position number.</p>
@@ -53,12 +56,14 @@
                         colname="1"
                         colwidth="38*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="62*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -158,12 +163,14 @@
                         colname="1"
                         colwidth="35*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="65*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">

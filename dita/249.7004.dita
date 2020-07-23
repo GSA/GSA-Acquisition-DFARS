@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-249.7004"
             rev="Revised June 5, 2020"
             ditaarch:DITAArchVersion="1.2"
@@ -10,10 +11,10 @@
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">249.7004</ph> Contract clause.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Use the clause at <xref href="252.249-7002.dita#DFARS-252.249-7002"
-                  scope="local"
-                  class="- topic/xref ">252.249-7002</xref>, Notification of Anticipated
-            Contract Termination or Reduction, in all contracts under a major defense program.</p>
+         <p class="- topic/p ">Use the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.249-7002"
+                  href="252.249-7002.dita#DFARS-252.249-7002">252.249-7002</xref>, Notification of Anticipated Contract Termination or Reduction, in all contracts under a major defense program.</p>
       </conbody>
    </concept>
 </dita>

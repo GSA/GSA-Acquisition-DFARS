@@ -2,25 +2,25 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-225.302-6"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.302-6</ph> Contract clause.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="252.225-7039.dita#DFARS-252.225-7039"
                      base="i1382354"
-                     href="252.225-7039.dita#DFARS-252.225-7039">252.225-7039</xref>
-            </ph>, Defense Contractors Performing Private Security Functions Outside the United States, instead of FAR clause 52.225-26, Contractors Performing Private Security Functions Outside the United States, in solicitationsand contracts, including solicitations and contracts using FAR part 12 proceduresfor the acquisition of commercial items, when private security functions are to be performed outside the United States in—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Contingency operations;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Combat operations, as designated by the Secretary of Defense;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Other significant military operations (as defined in 32 CFR part 159), designated by the Secretary of Defense, and only upon agreement of the Secretary of Defense and the Secretary of State;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Peace operations, consistent with Joint Publication 3-07.3; or</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Other military operations or military exercises, when designated by the Combatant Commander.</p>
+                     class="- topic/xref ">252.225-7039</xref>
+            </ph>, Defense Contractors Performing Private Security Functions Outside the United States, instead of FAR clause 52.225-26, Contractors Performing Private Security Functions Outside the United States, in solicitations and contracts, including solicitations and contracts using <ph xtrc="FARxref" class="- topic/ph ">FAR part 12</ph> procedures for the acquisition of commercial items, when private security functions are to be performed outside the United States in—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Contingency operations;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Combat operations, as designated by the Secretary of Defense;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Other significant military operations (as defined in 32 CFR part 159), designated by the Secretary of Defense, and only upon agreement of the Secretary of Defense and the Secretary of State;</p>
+         <p outputclass="List2" class="- topic/p ">(4) Peace operations, consistent with Joint Publication 3-07.3; or</p>
+         <p outputclass="List2" class="- topic/p ">(5) Other military operations or military exercises, when designated by the Combatant Commander.</p>
       </conbody>
    </concept>
 </dita>

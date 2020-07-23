@@ -2,11 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id2064F0S0NXF"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">F-301</ph>Preparation instructions.</title>
@@ -22,11 +22,11 @@
          <p outputclass="List2" class="- topic/p ">(5) Do not include classified information in WAWF.</p>
          <p outputclass="List1" class="- topic/p ">(b) Completion instructions.</p>
          <p outputclass="List2" class="- topic/p ">(1) CONTRACT NO/DELIVERY ORDER NO.</p>
-         <p outputclass="List3" class="- topic/p ">(i) For stand-alone contracts, enter the 13-position alpha-numeric basic Procurement Instrument Identifier (PIID) of the contract. For task and delivery orders numbered in accordance with FAR 4.1603 and DFARS <xref outputclass="fm:ParaNumOnly"
+         <p outputclass="List3" class="- topic/p ">(i) For stand-alone contracts, enter the 13-position alpha-numeric basic Procurement Instrument Identifier (PIID) of the contract. For task and delivery orders numbered in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR 4.1603</ph> and DFARS <xref outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
                   base="DFARS-204.1603"
                   href="204.1603.dita#DFARS-204.1603">204.1603</xref>, enter the 13-character order number. The contract or agreement number under which the order was placed may be omitted from the WAWF RR. Alternatively, the contractor may choose to enter the contract number on the WAWF RR in addition to the 13-character order number. If the order has only a four-position alpha-numeric call or order serial number, enter both the 13-position basic contract PIID and the four-position order number.</p>
-         <p outputclass="List2" class="- topic/p ">(ii) Except as indicated in paragraph (b)(1)(iii) of this appendix, do not entersupplementary numbers used in conjunction with basic PIIDs to identify—</p>
+         <p outputclass="List2" class="- topic/p ">(ii) Except as indicated in paragraph (b)(1)(iii) of this appendix, do not enter supplementary numbers used in conjunction with basic PIIDs to identify—</p>
          <p outputclass="List4" class="- topic/p ">(A) Modifications of contracts and agreements;</p>
          <p outputclass="List4" class="- topic/p ">(B) Modifications to calls or orders; or</p>
          <p outputclass="List4" class="- topic/p ">(C) Document numbers representing contracts written between contractors.</p>
@@ -46,7 +46,8 @@
                         colname="1"
                         colwidth="100*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -85,7 +86,7 @@
          <p outputclass="List4" class="- topic/p ">(A) The national stock number (NSN) or noncatalog number. If the contract contains NSNs as well as other identification (e.g. part numbers) the contractor should place the NSN information in the Stock Part Number field and the remaining numbers in the line item description field. The data entered in the NSN field must reflect the NSN of the material item being shipped and should be a valid NSN, 13 positions in length. In the "Type" drop-down field, select the corresponding type for the data entered. If no National Stock Number (NSN) or other valid "Type" is available, the word "NONE" may be entered for the Stock/Part Number, with a corresponding "Type" of any value other than NSN selected from the drop-down box.</p>
          <p outputclass="List4" class="- topic/p ">(B) In the description field, if required by the contract for control purposes, enter: the make, model, serial number, lot, batch, hazard indicator, or similar description.</p>
          <p outputclass="List4" class="- topic/p ">(C) The Military Standard Requisitioning and Issue Procedures (MILSTRIP) must be placed on the MILSTRIP Tab, not in the line item description field. Enter the MILSTRIP data for each CLIN when MILSTRIP data is identified in the contract.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) For service line items, select SV for “SERVICE” in the type field followed by as short a description as is possible in the description field. Some examples of service line items are maintenance, repair, alteration, rehabilitation, engineering, research,development, training, and testing.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) For service line items, select SV for “SERVICE” in the type field followed by as short a description as is possible in the description field. Some examples of service line items are maintenance, repair, alteration, rehabilitation, engineering, research, development, training, and testing.</p>
          <p outputclass="List4" class="- topic/p ">(A) For WAWF RRRs, the “Ship To” code is the DoDAAC, MAPAC, or CAGE code from the contract or shipping instructions.</p>
          <p outputclass="List4" class="- topic/p ">(B) For service line items not using a WAWF RRR, the “Ship To” code and the “Unit” shall be filled out. The “Ship To” code is the destination Service Acceptor Code for WAWF. If source inspected and accepted, enter the service performance location as the “Ship To” code.</p>
          <p outputclass="List3" class="- topic/p ">(iii) For all contracts administered by the Defense Contract Management Agency, with the exception of fast pay procedures, enter the gross weight of the shipment.</p>
@@ -107,7 +108,8 @@
                         colname="1"
                         colwidth="100*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -128,7 +130,8 @@
                         colname="1"
                         colwidth="100*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -149,7 +152,8 @@
                         colname="1"
                         colwidth="100*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -172,7 +176,8 @@
                         colname="1"
                         colwidth="100*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -197,7 +202,8 @@
                         colname="1"
                         colwidth="100*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">

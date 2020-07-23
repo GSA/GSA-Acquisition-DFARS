@@ -11,7 +11,10 @@
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 253.219-70</ph>  DD Form 2579, Small Business Coordination Record.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Use the DD Form 2579 as prescribed in DFARS 219.201(10)(B).</p>
+         <p outputclass="List1" class="- topic/p ">(a)  Use the DD Form 2579 as prescribed in DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-219.201"
+                  href="219.201.dita#DFARS-219.201">219.201</xref>(10)(B).</p>
          <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">General instructions.</i>
          </p>
          <p outputclass="List2" class="- topic/p ">(1)  The Contracting Officer is responsible for the coordination and completion of the form.</p>
@@ -22,9 +25,15 @@
          <p outputclass="List2" class="- topic/p ">(2)  BLOCK 2—PURCHASE REQUEST/REQUISITION NO.  Locally assigned purchase request/requisition number.</p>
          <p outputclass="List2" class="- topic/p ">(3)  BLOCK 3—TOTAL ESTIMATED VALUE.  Enter the total estimated value for the acquisition, including all options.  For multiple award task or delivery order contracts, enter the total estimated value of the entire acquisition including all orders expected to be awarded.</p>
          <p outputclass="List2" class="- topic/p ">(4)  BLOCKS 4a and 4b:</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Block 4a—PROCUREMENT INSTRUMENT IDENTIFIER (PIID).  Enter the PIID assigned to the solicitation, contract, or order in Block 4a.  (FAR 4.1601, DFARS 204.1601).</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Block 4a—PROCUREMENT INSTRUMENT IDENTIFIER (PIID).  Enter the PIID assigned to the solicitation, contract, or order in Block 4a.  (FAR 4.1601, DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-204.1601"
+                  href="204.1601.dita#DFARS-204.1601">204.1601</xref>).</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Block 4b—INDEFINITE DELIVERY VEHICLE (IDV) PIID.  If applicable, enter the PIID assigned to the IDV against which the solicitation or order identified in Block 4a is issued.</p>
-         <p outputclass="List2" class="- topic/p ">(5)  BLOCK 5—MODIFICATION/AMENDMENT NUMBER (MOD/AMDMT No.).  Enter the contract or order modification number or solicitation amendment number.  (FAR 4.1601, DFARS 204.1601).</p>
+         <p outputclass="List2" class="- topic/p ">(5)  BLOCK 5—MODIFICATION/AMENDMENT NUMBER (MOD/AMDMT No.).  Enter the contract or order modification number or solicitation amendment number.  (FAR 4.1601, DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-204.1601"
+                  href="204.1601.dita#DFARS-204.1601">204.1601</xref>).</p>
          <p outputclass="List2" class="- topic/p ">(6)  BLOCKS 6a through 6e—CONTRACTING OFFICER NAME, DOD ACTIVITY ADDRESS CODE (DODAAC), OFFICE SYMBOL, EMAIL ADDRESS, PHONE NO.  Enter the appropriate information in Blocks 6a through 6e.</p>
          <p outputclass="List2" class="- topic/p ">(7)  BLOCKS 7a through 7d:</p>
          <p outputclass="List3" class="- topic/p ">(i)  BLOCK 7a—ITEM and/or SERVICE DESCRIPTION.  Enter description of planned acquisition, including quantity, unique delivery requirements, and other descriptors.  For services, include the type of service and place of performance, and attach a copy of the Performance Work Statement (PWS), Statement of Work (SOW), Statement of Objectives (SOO), or other specifications and statements as appropriate.</p>
@@ -37,14 +46,20 @@
          <p outputclass="List2" class="- topic/p ">(11)  BLOCKS 11a through 11c:</p>
          <p outputclass="List3" class="- topic/p ">(i)  BLOCK 11a—ACQUISITION PLAN/MARKET RESEARCH.  Attach the written acquisition plan (FAR 7.104(d)), if required, and the results of market research, including any resulting justification and approval (FAR 6.3) or sole source/brand name justification (<ph xtrc="FARxref" class="- topic/ph ">FAR 13.106 or 13.501</ph>).  Include findings that demonstrate efforts to locate qualified small business sources e.g., sources sought (<ph xtrc="FARxref" class="- topic/ph ">FAR 5.205</ph>), requests for information synopses, or waivers to the nonmanufacturer rule (FAR 19.5) and attach additional pages as necessary).</p>
          <p outputclass="List3" class="- topic/p ">(ii)  BLOCK 11b—SYNOPSIS REQUIRED.  Check “Yes” or “No.”  If “No,” provide explanation and the exception under <ph xtrc="FARxref" class="- topic/ph ">FAR 5.202</ph>, if applicable.</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  BLOCK 11c—SMALL BUSINESS PROGRESS PAYMENTS.  Check “Yes” or “No” (DFARS 232.501-1(a)).</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  BLOCK 11c—SMALL BUSINESS PROGRESS PAYMENTS.  Check “Yes” or “No” (DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-232.501-1"
+                  href="232.501-1.dita#DFARS-232.501-1">232.501-1</xref>(a)).</p>
          <p outputclass="List2" class="- topic/p ">(12)  BLOCK 12—CONSOLIDATED OR BUNDLED.  Select either “Consolidated” or “Bundled,” and check “Yes” or “No” for each.  If “Yes,” attach required documentation for consolidation or bundling (FAR 7.107).</p>
          <p outputclass="List2" class="- topic/p ">(13)  BLOCK 13—SUBCONTRACTING PLAN REQUIRED.  Check “Yes” or “No.”  For recommendations 10g, 10h, or 10i, or if Block 12 recommendation is “Yes,” specify actions that will be taken to maximize small business participation.  Consider requirements of <ph xtrc="FARxref" class="- topic/ph ">FAR 19.7</ph>, acquisition history, anticipated subcontracting goals, market research to identify small business capability at the subcontract level, source selection evaluation factor for small business utilization (DFARS <ph xtrc="PGIxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      class="- topic/xref "
                      base="DFARS-PGI_PGI_215.304"
                      href="PGI_215.304.dita#DFARS-PGI_PGI_215.304">215.304</xref>
-            </ph>, 215.305), incentives, contract performance metrics, etc.  State detailed objectives for subcontract (attach additional pages as necessary).</p>
+            </ph>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.305"
+                  href="215.305.dita#DFARS-215.305">215.305</xref>), incentives, contract performance metrics, etc.  State detailed objectives for subcontract (attach additional pages as necessary).</p>
          <p outputclass="List2" class="- topic/p ">(14)  BLOCKS 14a through 14c—ACQUISITION HISTORY:</p>
          <p outputclass="List3" class="- topic/p ">(i)  BLOCK 14a—NEW REQUIREMENT.  Check “Yes” or “No” and follow the applicable guidance for each selection.</p>
          <p outputclass="List3" class="- topic/p ">(ii)  BLOCK 14b—PREVIOUSLY CONSOLIDATED OR BUNDLED.  Check “Yes” or “No” for each.  If “Yes,” attach required documentation for previous acquisition.  </p>

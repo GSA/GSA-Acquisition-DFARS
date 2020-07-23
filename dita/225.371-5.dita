@@ -2,48 +2,52 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-225.371-5"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.371-5</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7980, Contractor Personnel Performing in the United States Africa Command Area of Responsibility (DEVIATION 2016-O0008)(JUN 2016), in lieu of the clause at DFARS <ph xtrc="DFARxref" class="- topic/ph ">
+         <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7980, Contractor Personnel Performing in the United States Africa Command Area of Responsibility (<xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA002245-16-DPAP.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DEVIATION 2016-O0008</xref>)(JUN 2016), in lieu of the clause at DFARS <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="252.225-7040.dita#DFARS-252.225-7040"
                      base="i1382367"
-                     href="252.225-7040.dita#DFARS-252.225-7040">252.225-7040</xref>
-            </ph>, Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States, in all solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, that will require contractor personnel to perform in the United States Africa Command (AFRICOM) area of responsibility.  This class deviation remains in effect until incorporated in the DFARS or otherwise rescinded.</p>
-         <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7993, Prohibition on Providing Funds to the Enemy (DEVIATION 2015-O0016)(SEP 2015), in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, to be awarded on or before December 31, 2019, with an estimated value in excess of $50,000 that are being, or will be, performed outside the United States and its outlying areas, in support of a contingency operation in which members of the Armed Forces are actively engaged in hostilities.  This class deviation remains in effect until incorporated in the Federal Acquisition Regulation or otherwise rescinded.</p>
-         <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7981, Additional Access to Contractor and Subcontractor Records (Other than USCENTCOM) (DEVIATION 2015-O0016)(SEP 2015), in solicitations and contracts valued at more than $50,000, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, that are to be performed outside the United States and its outlying areas, in support of a contingency operation in which members of the armed forces are actively engaged in hostilities, except for contracts that will be performed in the United States Central Command (USCENTCOM) theater of operations.  This class deviation remains in effect until incorporated in the Federal Acquisition Regulation or otherwise rescinded.</p>
+                     class="- topic/xref ">252.225-7040</xref>
+            </ph>, Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States, in all solicitations and contracts, including solicitations and contracts using <ph xtrc="FARxref" class="- topic/ph ">FAR part 12</ph> procedures for the acquisition of commercial items, that will require contractor personnel to perform in the United States Africa Command (AFRICOM) area of responsibility. This class deviation remains in effect until incorporated in the DFARS or otherwise rescinded.</p>
+         <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7993, Prohibition on Providing Funds to the Enemy (DEVIATION 2015-O0016)(SEP 2015), in solicitations and contracts, including solicitations and contracts using <ph xtrc="FARxref" class="- topic/ph ">FAR part 12</ph> procedures for the acquisition of commercial items, to be awarded on or before December 31, 2019, with an estimated value in excess of $50,000 that are being, or will be, performed outside the United States and its outlying areas, in support of a contingency operation in which members of the Armed Forces are actively engaged in hostilities. This class deviation remains in effect until incorporated in the Federal Acquisition Regulation or otherwise rescinded.</p>
+         <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7981, Additional Access to Contractor and Subcontractor Records (Other than USCENTCOM) (DEVIATION 2015-O0016)(SEP 2015), in solicitations and contracts valued at more than $50,000, including solicitations and contracts using <ph xtrc="FARxref" class="- topic/ph ">FAR part 12</ph> procedures for the acquisition of commercial items, that are to be performed outside the United States and its outlying areas, in support of a contingency operation in which members of the armed forces are actively engaged in hostilities, except for contracts that will be performed in the United States Central Command (USCENTCOM) theater of operations. This class deviation remains in effect until incorporated in the Federal Acquisition Regulation or otherwise rescinded.</p>
          <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7994, Additional Access to Contractor and Subcontractor Records in the United States Central Command Theater of Operations (DEVIATION 2015-O0013)(MAR 2015), in all solicitations and contracts awarded prior to December 19, 2017, valued at more than $100,000, that are to be performed in the United States Central Command (USCENTCOM) theater of operations. This class deviation remains in effect until December 19, 2017 or otherwise rescinded.</p>
          <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7987, Requirements for Contractor Personnel Performing in USSOUTHCOM Area of Responsibility (DEVIATION 2014-O0016)(OCT 2014), in all solicitations and contracts that require performance in the USSOUTHCOM Area of Responsibility, unless the clause at DFARS <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="252.225-7040.dita#DFARS-252.225-7040"
                      base="i1382367"
-                     href="252.225-7040.dita#DFARS-252.225-7040">252.225-7040</xref>
+                     class="- topic/xref ">252.225-7040</xref>
             </ph> applies. This class deviation remains in effect until incorporated in the DFARS or otherwise rescinded.</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+         <p outputclass="LightBlueText" class="- topic/p ">Use the clause at 252.225-7976 Contractor Personnel Performing in Japan (DEVIATION 2018-O0019) (AUG 2018) in solicitations and contracts, including solicitations and contracts using <ph xtrc="FARxref" class="- topic/ph ">FAR part 12</ph> procedures for the acquisitions of commercial items, that will require contractor personnel to perform in Japan. The clause requires DoD contractors to account for contractor personnel and dependents in the Synchronized Predeployment and Operational Tracker, in order for the contractor personnel and dependents to be eligible for coverage under the Status of Forces Agreement.</p>
+         <p outputclass="List1" class="- topic/p ">(a) Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="252.225-7040.dita#DFARS-252.225-7040"
                      base="i1382367"
-                     href="252.225-7040.dita#DFARS-252.225-7040">252.225-7040</xref>
-            </ph>, Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States, instead of the clause at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.225-19</ph>, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission Outside the United States, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, for performance in a designated operational area that authorize contractor personnel (including both contractors authorized to accompany the Force (CAAF) and non-CAAF) to support U.S. Armed Forces deployed outside the United States in—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Contingency operations;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Peace operations consistent with Joint Publication 3-07.3; or</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Other military operations or military exercises, when designated by the combatant commander or as directed by the Secretary of Defense.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  For additional guidance on clauses to consider when using the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+                     class="- topic/xref ">252.225-7040</xref>
+            </ph>, Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States, instead of the clause at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.225-19</ph>, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission Outside the United States, in solicitations and contracts, including solicitations and contracts using <ph xtrc="FARxref" class="- topic/ph ">FAR part 12</ph> procedures for the acquisition of commercial items, for performance in a designated operational area that authorize contractor personnel (including both contractors authorized to accompany the Force (CAAF) and non-CAAF) to support U.S. Armed Forces deployed outside the United States in—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Contingency operations;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Peace operations consistent with Joint Publication 3-07.3; or</p>
+         <p outputclass="List2" class="- topic/p ">(3) Other military operations or military exercises, when designated by the combatant commander or as directed by the Secretary of Defense.</p>
+         <p outputclass="List1" class="- topic/p ">(b) For additional guidance on clauses to consider when using the clause at <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="252.225-7040.dita#DFARS-252.225-7040"
                      base="i1382367"
-                     href="252.225-7040.dita#DFARS-252.225-7040">252.225-7040</xref>
+                     class="- topic/xref ">252.225-7040</xref>
             </ph>, see PGI <ph xtrc="PGIxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="PGI_225.371-5.dita#DFARS-PGI_PGI_225.371-5"
                      base="DFARS-PGI_PGI_225.371-5"
-                     href="PGI_225.371-5.dita#DFARS-PGI_PGI_225.371-5">225.371-5</xref>
+                     class="- topic/xref ">225.371-5</xref>
             </ph>(b).</p>
       </conbody>
    </concept>

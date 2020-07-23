@@ -2,27 +2,23 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-211.170"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">211.170</ph> Use of proprietary
-specifications or standards.</title>
+         <ph props="autonumber" class="- topic/ph ">211.170</ph> Use of proprietary specifications or standards.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">A justification and approval is required to use proprietary
-specifications and standards—</p>
-         <p outputclass="List2" class="- topic/p ">(1) When using sealed bidding or negotiated
-acquisition procedures (see 206.302-1(S-70) for justification requirements); or,</p>
-         <p outputclass="List2" class="- topic/p ">(2) When using the simplified procedures
-for certain commercial items at FAR 13.5 (see <ph xtrc="DFARxref" CaseNumber="DFARxref" class="- topic/ph ">
-               <xref href="213.501.dita#DFARS-213.501"
-                     base="DFARS-213.501"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">213.501</xref>
-            </ph>(a)(ii)
-for justification requirements).</p>
+         <p class="- topic/p ">A justification and approval is required to use proprietary specifications and standards—</p>
+         <p outputclass="List2" class="- topic/p ">(1) When using sealed bidding or negotiated acquisition procedures (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-206.302-1"
+                  href="206.302-1.dita#DFARS-206.302-1">206.302-1</xref>(S-70) for justification requirements); or</p>
+         <p outputclass="List2" class="- topic/p ">(2) When using the simplified procedures for certain commercial items at <ph xtrc="FARxref" class="- topic/ph ">FAR 13.5</ph> (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-213.501"
+                  href="213.501.dita#DFARS-213.501">213.501</xref>(a)(ii) for justification requirements).</p>
       </conbody>
    </concept>
 </dita>

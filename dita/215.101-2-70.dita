@@ -2,101 +2,38 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-215.101-2-70"
-            ditaarch:DITAArchVersion="1.2"
+            ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">215.101-2-70</ph> Limitations and
-prohibitions.</title>
+         <ph props="autonumber" class="- topic/ph ">215.101-2-70</ph> Limitations and prohibitions.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">The following limitations and prohibitions apply when
-considering the use of the lowest price technically acceptable source selection
-procedures.</p>
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Limitations</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(1) In accordance with section 813 of the
-National Defense Authorization Act for Fiscal Year 2017 (Pub. L.
-114-328) as amended by section 822 of the National Defense Authorization
-Act for Fiscal Year 2018 (Pub. L. 115-91) (see 10 U.S.C. 2305 note),
-the lowest price technically acceptable source selection process
-shall only be used when—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Minimum requirements can be described
-clearly and comprehensively and expressed in terms of performance
-objectives, measures, and standards that will be used to determine
-the acceptability of offers;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) No, or minimal, value will be realized
-from a proposal that exceeds the minimum technical or performance
-requirements;</p>
-         <p outputclass="List3" class="- topic/p ">(iii) The proposed technical approaches
-will require no, or minimal, subjective judgment by the source selection
-authority as to the desirability of one offeror’s proposal versus
-a competing proposal;</p>
-         <p outputclass="List3" class="- topic/p ">(iv) The source selection authority has
-a high degree of confidence that reviewing the technical proposals
-of all offerors would not result in the identification of characteristics
-that could provide value or benefit;</p>
-         <p outputclass="List3" class="- topic/p ">(v) No, or minimal, additional innovation
-or future technological advantage will be realized by using a different
-source selection process;</p>
-         <p outputclass="List3" class="- topic/p ">(vi) Goods to be procured are predominantly
-expendable in nature, are nontechnical, or have a short life expectancy or
-short shelf life (See PGI 215.101-2-70(a)(1)(vi) for assistance
-with evaluating whether a requirement satisfies this limitation);</p>
-         <p outputclass="List3" class="- topic/p ">(vii) The contract file contains a determination
-that the lowest price reflects full life-cycle costs (as defined
-at <ph xtrc="FARxref" class="- topic/ph ">FAR 7.101</ph>) of the product(s) or service(s)
-being acquired (see PGI 215.101-2-70(a)(1)(vii) for information
-on obtaining this determination); and</p>
-         <p outputclass="List3" class="- topic/p ">(viii) The contracting officer documents
-the contract file describing the circumstances justifying the use
-of the lowest price technically acceptable source selection process.</p>
-         <p outputclass="List2" class="- topic/p ">(2) In accordance with section 813 of the
-National Defense Authorization Act for Fiscal Year 2017, as amended
-by section 822 of the National Defense Authorization Act for Fiscal
-Year 2018 (Pub. L. 115-91) (see 10 U.S.C. 2305 note), contracting
-officers shall avoid, to the maximum extent practicable, using the
-lowest price technically acceptable source selection process in
-the case of a procurement that is predominately for the acquisition
-of—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Information technology services, cybersecurity
-services, systems engineering and technical assistance services, advanced
-electronic testing, or other knowledge-based professional services;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Items designated by the requiring
-activity as personal protective equipment (except see paragraph
-(b)(1) of this section); or</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Services designated by the requiring
-activity as knowledge-based training or logistics services in contingency
-operations or other operations outside the United States, including
-in Afghanistan or Iraq.</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Prohibitions</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(1) In accordance with section 814 of the
-National Defense Authorization Act for Fiscal Year 2017 as amended
-by section 882 of the National Defense Authorization Act for Fiscal
-Year 2018 (see 10 U.S.C. 2302 note), contracting officers shall
-not use the lowest price technically acceptable source selection
-process to procure items designated by the requiring activity as
-personal protective equipment or an aviation critical safety item,
-when the requiring activity advises the contracting officer that
-the level of quality or failure of the equipment or item could result
-in combat casualties. See <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="252.209-7010.dita#DFARS-252.209-7010"
+         <p class="- topic/p ">The following limitations and prohibitions apply when considering the use of the lowest price technically acceptable source selection procedures. </p>
+         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Limitations</i>.  </p>
+         <p outputclass="List2" class="- topic/p ">(1)  In accordance with section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328) as amended by section 822 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) (see 10 U.S.C. 2305 note), the lowest price technically acceptable source selection process shall only be used when—</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Minimum requirements can be described clearly and comprehensively and expressed in terms of performance objectives, measures, and standards that will be used to determine the acceptability of offers;</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  No, or minimal, value will be realized from a proposal that exceeds the minimum technical or performance requirements;</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  The proposed technical approaches will require no, or minimal, subjective judgment by the source selection authority as to the desirability of one offeror’s proposal versus a competing proposal; </p>
+         <p outputclass="List3" class="- topic/p ">(iv)  The source selection authority has a high degree of confidence that reviewing the technical proposals of all offerors would not result in the identification of characteristics that could provide value or benefit; </p>
+         <p outputclass="List3" class="- topic/p ">(v)  No, or minimal, additional innovation or future technological advantage will be realized by using a different source selection process;</p>
+         <p outputclass="List3" class="- topic/p ">(vi)  Goods to be procured are predominantly expendable in nature, are nontechnical, or have a short life expectancy or short shelf life (See <ph xtrc="PGIxref" class="- topic/ph ">PGI 215.101-2-70</ph>(a)(1)(vi) for assistance with evaluating whether a requirement satisfies this limitation); </p>
+         <p outputclass="List3" class="- topic/p ">(vii)  The contract file contains a determination that the lowest price reflects full life-cycle costs (as defined at <ph xtrc="FARxref" class="- topic/ph ">FAR 7.101</ph>) of the product(s) or service(s) being acquired (see <ph xtrc="PGIxref" class="- topic/ph ">PGI 215.101-2-70</ph>(a)(1)(vii) for information on obtaining this determination); and</p>
+         <p outputclass="List3" class="- topic/p ">(viii)  The contracting officer documents the contract file describing the circumstances justifying the use of the lowest price technically acceptable source selection process.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  In accordance with section 813 of the National Defense Authorization Act for Fiscal Year 2017, as amended by section 822 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) (see 10 U.S.C. 2305 note), contracting officers shall avoid, to the maximum extent practicable, using the lowest price technically acceptable source selection process in the case of a procurement that is predominately for the acquisition of—</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Information technology services, cybersecurity services, systems engineering and technical assistance services, advanced electronic testing, or other knowledge-based professional services;</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  Items designated by the requiring activity as personal protective equipment (except see paragraph (b)(1) of this section); or</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  Services designated by the requiring activity as knowledge-based training or logistics services in contingency operations or other operations outside the United States, including in Afghanistan or Iraq.</p>
+         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Prohibitions</i>.  </p>
+         <p outputclass="List2" class="- topic/p ">(1)  In accordance with section 814 of the National Defense Authorization Act for Fiscal Year 2017 as amended by section 882 of the National Defense Authorization Act for Fiscal Year 2018 (see 10 U.S.C. 2302 note), contracting officers shall not use the lowest price technically acceptable source selection process to procure items designated by the requiring activity as personal protective equipment or an aviation critical safety item, when the requiring activity advises the contracting officer that the level of quality or failure of the equipment or item could result in combat casualties.  See <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
                      base="i1381203"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">252.209-7010</xref>
-            </ph> for
-the definition and identification of critical safety items.</p>
-         <p outputclass="List2" class="- topic/p ">(2) In accordance with section 832 of the
-National Defense Authorization Act for Fiscal Year 2018 (see 10
-U.S.C. 2442 note), contracting officers shall not use the lowest
-price technically acceptable source selection process to acquire
-engineering and manufacturing development for a major defense acquisition
-program for which budgetary authority is requested beginning in
-fiscal year 2019.</p>
-         <p outputclass="List2" class="- topic/p ">(3) Contracting officers shall make award
-decisions based on best value factors and criteria, as determined
-by the resource sponsor (in accordance with agency procedures),
-for an auditing contract. The use of the lowest price technically
-acceptable source selection process is prohibited (10 U.S.C. 254b).</p>
+                     href="252.209-7010.dita#DFARS-252.209-7010">252.209-7010</xref>
+            </ph> for the definition and identification of critical safety items.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  In accordance with section 832 of the National Defense Authorization Act for Fiscal Year 2018 (see 10 U.S.C. 2442 note), contracting officers shall not use the lowest price technically acceptable source selection process to acquire engineering and manufacturing development for a major defense acquisition program for which budgetary authority is requested beginning in fiscal year 2019.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  Contracting officers shall make award decisions based on best value factors and criteria, as determined by the resource sponsor (in accordance with agency procedures), for an auditing contract.  The use of the lowest price technically acceptable source selection process is prohibited (10 U.S.C. 254b).</p>
       </conbody>
    </concept>
 </dita>

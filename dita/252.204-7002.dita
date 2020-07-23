@@ -2,26 +2,26 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-252.204-7002"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.204-7002</ph> Payment for Contract Line or Subline Items Not SeparatelyPriced.</title>
+         <ph props="autonumber" class="- topic/ph ">252.204-7002</ph> Payment for Contract Line or Subline Items Not Separately Priced.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+               <xref href="204.7109.dita#DFARS-204.7109"
                      base="DFARS-204.7109"
-                     href="204.7109.dita#DFARS-204.7109">204.7109</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">204.7109</xref>
             </ph>(a), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">Payment for CONTRACT LINE OR Subline Items Not Separately Priced (APR 2020)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  If the schedule in this contract contains any contract line or subline items identified as not separately priced (NSP), it means that the unit price for the NSP line or subline item is included in the unit price of another, related line or subline item.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  The Contractor shall not invoice the Government for an item that includes in its price an NSP item until—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The Contractor has also delivered the NSP item included in the price of the item being invoiced; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The Government has accepted the NSP item.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  This clause does not apply to technical data.</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Payment for CONTRACT LINE OR Subline Items Not Separately Priced (APR 2020)</p>
+         <p outputclass="List1" class="- topic/p ">(a) If the schedule in this contract contains any contract line or subline items identified as not separately priced (NSP), it means that the unit price for the NSP line or subline item is included in the unit price of another, related line or subline item.</p>
+         <p outputclass="List1" class="- topic/p ">(b) The Contractor shall not invoice the Government for an item that includes in its price an NSP item until—</p>
+         <p outputclass="List2" class="- topic/p ">(1) The Contractor has also delivered the NSP item included in the price of the item being invoiced; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) The Government has accepted the NSP item.</p>
+         <p outputclass="List1" class="- topic/p ">(c) This clause does not apply to technical data.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>

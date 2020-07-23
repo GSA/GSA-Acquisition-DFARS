@@ -17,7 +17,10 @@
          <p outputclass="List2" class="- topic/p ">(3) Authorize financing payments.</p>
          <p outputclass="List1" class="- topic/p ">(b) For contracts and orders covered by this subpart—</p>
          <p outputclass="List2" class="- topic/p ">(1) The contracting officer shall insert the table at (b)(2), or a link to the table at (b)(2) (https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI204_71.htm#payment_instructions) in Section G of the contract, or equivalent, including contracts with incrementally funded line items. When some, but not all, of the fixed price line items in a contract are subject to contract financing payments, the contracting officer shall clearly identify to which line items the payment clause(s) included in Section I apply.</p>
-         <p outputclass="List2" class="- topic/p ">(2) The payment office shall allocate and record the amounts paid to the accounting classification citations in the contract using the table below based on the type of payment request submitted (see DFARS 252.232-7006) and the type of effort.</p>
+         <p outputclass="List2" class="- topic/p ">(2) The payment office shall allocate and record the amounts paid to the accounting classification citations in the contract using the table below based on the type of payment request submitted (see DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.232-7006"
+                  href="252.232-7006.dita#DFARS-252.232-7006">252.232-7006</xref>) and the type of effort.</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="11"
                     colsep="0"
@@ -28,57 +31,68 @@
                         colname="1"
                         colwidth="10*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="10*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="10*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="10*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="5"
                         colname="5"
                         colwidth="10*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="6"
                         colname="6"
                         colwidth="10*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="7"
                         colname="7"
                         colwidth="16*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="8"
                         colname="8"
                         colwidth="11*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="9"
                         colname="9"
                         colwidth="4*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="10"
                         colname="10"
                         colwidth="4*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="11"
                         colname="11"
                         colwidth="5*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -392,7 +406,11 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">252.232-7002, Progress Payments for Foreign Military Sales Acquisitions</p>
+                        <p class="- topic/p ">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-252.232-7002"
+                                 href="252.232-7002.dita#DFARS-252.232-7002">252.232-7002</xref>, Progress Payments for Foreign Military Sales Acquisitions</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Progress Payment*</p>

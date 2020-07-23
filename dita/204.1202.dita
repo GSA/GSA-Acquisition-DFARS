@@ -2,122 +2,122 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-204.1202"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">204.1202</ph> Solicitation provision and contract clause.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">When using the provision at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.204-8</ph>, Annual Representations and Certifications—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Use the provision with <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List2" class="- topic/p ">(1) Use the provision with <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.204-7007.dita#DFARS-252.204-7007"
                      base="i1380945"
-                     href="252.204-7007.dita#DFARS-252.204-7007">252.204-7007</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.204-7007</xref>
             </ph>, Alternate A, Annual Representations and Certifications; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  When the provision at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.204-7</ph>, System for Award Management, is included in the solicitation, do not include separately in the solicitation the following provisions, which are included in DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List2" class="- topic/p ">(2) When the provision at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.204-7</ph>, System for Award Management, is included in the solicitation, do not include separately in the solicitation the following provisions, which are included in DFARS <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.204-7007.dita#DFARS-252.204-7007"
                      base="i1380945"
-                     href="252.204-7007.dita#DFARS-252.204-7007">252.204-7007</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.204-7007</xref>
             </ph>:</p>
-         <p outputclass="List3" class="- topic/p ">(i)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(i) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.204-7016.dita#DFARS-252.204-7016"
                      base="i1381052"
-                     href="252.204-7016.dita#DFARS-252.204-7016">252.204-7016</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.204-7016</xref>
             </ph>, Covered Defense Telecommunications Equipment or Services—Representation.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(ii) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.209-7002.dita#DFARS-252.209-7002"
                      base="i1381117"
-                     href="252.209-7002.dita#DFARS-252.209-7002">252.209-7002</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.209-7002</xref>
             </ph>, Disclosure of Ownership or Control by a Foreign Government.</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(iii) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.209-7003.dita#DFARS-252.209-7003"
                      base="i1381128"
-                     href="252.209-7003.dita#DFARS-252.209-7003">252.209-7003</xref>
-            </ph>, Reserve Officer Training Corps and Military Recruitingon Campus—Representation.</p>
-         <p outputclass="List3" class="- topic/p ">(iv)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.209-7003</xref>
+            </ph>, Reserve Officer Training Corps and Military Recruiting on Campus—Representation.</p>
+         <p outputclass="List3" class="- topic/p ">(iv) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.216-7008.dita#DFARS-252.216-7008"
                      base="i1381546"
-                     href="252.216-7008.dita#DFARS-252.216-7008">252.216-7008</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.216-7008</xref>
             </ph>, Economic Price Adjustment–Wage Rates or Material Prices Controlled by a Foreign Government—Representation.</p>
-         <p outputclass="List3" class="- topic/p ">(v)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(v) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.225-7000.dita#DFARS-252.225-7000"
                      base="i1381922"
-                     href="252.225-7000.dita#DFARS-252.225-7000">252.225-7000</xref>
-            </ph>, Buy American—Balance of Payments ProgramCertificate.</p>
-         <p outputclass="List3" class="- topic/p ">(vi)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.225-7000</xref>
+            </ph>, Buy American—Balance of Payments Program Certificate.</p>
+         <p outputclass="List3" class="- topic/p ">(vi) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.225-7020.dita#DFARS-252.225-7020"
                      base="i1382106"
-                     href="252.225-7020.dita#DFARS-252.225-7020">252.225-7020</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.225-7020</xref>
             </ph>, Trade Agreements Certificate.</p>
-         <p outputclass="List3" class="- topic/p ">(vii)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(vii) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.225-7031.dita#DFARS-252.225-7031"
                      base="i1382206"
-                     href="252.225-7031.dita#DFARS-252.225-7031">252.225-7031</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.225-7031</xref>
             </ph>, Secondary Arab Boycott of Israel.</p>
-         <p outputclass="List3" class="- topic/p ">(viii)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(viii) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.225-7035.dita#DFARS-252.225-7035"
                      base="i1382230"
-                     href="252.225-7035.dita#DFARS-252.225-7035">252.225-7035</xref>
-            </ph>, Buy American—Free Trade Agreements—Balance of  Payments Program Certificate.</p>
-         <p outputclass="List3" class="- topic/p ">(ix)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.225-7035</xref>
+            </ph>, Buy American—Free Trade Agreements—Balance of Payments Program Certificate.</p>
+         <p outputclass="List3" class="- topic/p ">(ix) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.225-7042.dita#DFARS-252.225-7042"
                      base="i1382418"
-                     href="252.225-7042.dita#DFARS-252.225-7042">252.225-7042</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.225-7042</xref>
             </ph>, Authorization to Perform.</p>
-         <p outputclass="List3" class="- topic/p ">(x)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(x) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.225-7049.dita#DFARS-252.225-7049"
                      base="i1382492"
-                     href="252.225-7049.dita#DFARS-252.225-7049">252.225-7049</xref>
-            </ph>, Prohibition on Acquisition of Certain Foreign Commercial  Satellite Services—Representations.</p>
-         <p outputclass="List3" class="- topic/p ">(xi)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.225-7049</xref>
+            </ph>, Prohibition on Acquisition of Certain Foreign Commercial Satellite Services—Representations.</p>
+         <p outputclass="List3" class="- topic/p ">(xi) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.225-7050.dita#DFARS-252.225-7050"
                      base="i1382515"
-                     href="252.225-7050.dita#DFARS-252.225-7050">252.225-7050</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.225-7050</xref>
             </ph>, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism.</p>
-         <p outputclass="List3" class="- topic/p ">(xii)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(xii) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.226-7002.dita#DFARS-252.226-7002"
                      base="i1382558"
-                     href="252.226-7002.dita#DFARS-252.226-7002">252.226-7002</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.226-7002</xref>
             </ph>, Representation for Demonstration Project for Contractors Employing Persons with Disabilities.</p>
-         <p outputclass="List3" class="- topic/p ">(xiii)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(xiii) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.229-7012.dita#DFARS-252.229-7012"
                      base="i1383180"
-                     href="252.229-7012.dita#DFARS-252.229-7012">252.229-7012</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.229-7012</xref>
             </ph>, Tax Exemptions (Italy)—Representation.</p>
-         <p outputclass="List3" class="- topic/p ">(xiv)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(xiv) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.229-7013.dita#DFARS-252.229-7013"
                      base="i1383189"
-                     href="252.229-7013.dita#DFARS-252.229-7013">252.229-7013</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.229-7013</xref>
             </ph>, Tax Exemptions (Spain)—Representation.</p>
          <p outputclass="List3" class="- topic/p ">(xv) <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+               <xref href="252.232-7015.dita#DFARS-252.232-7015"
                      base="i1383322"
-                     href="252.232-7015.dita#DFARS-252.232-7015">252.232-7015</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.232-7015</xref>
             </ph>, Performance-Based Payments—Representation.</p>
-         <p outputclass="List3" class="- topic/p ">(xvi)  <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p outputclass="List3" class="- topic/p ">(xvi) <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.247-7022.dita#DFARS-252.247-7022"
                      base="i1384249"
-                     href="252.247-7022.dita#DFARS-252.247-7022">252.247-7022</xref>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.247-7022</xref>
             </ph>, Representation of Extent of Transportation by Sea.</p>
       </conbody>
    </concept>

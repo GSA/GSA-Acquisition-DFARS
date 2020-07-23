@@ -2,139 +2,143 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-252.247-7023"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.247-7023</ph> Transportation of Supplies by Sea.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Basic.  As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
+         <p class="- topic/p ">Basic. As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                     href="247.574.dita#DFARS-247.574"
                      base="DFARS-247.574"
-                     href="247.574.dita#DFARS-247.574">247.574</xref>
+                     class="- topic/xref ">247.574</xref>
             </ph>(b) and (b)(1), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">TRANSPORTATION OF SUPPLIES BY SEA—BASIC (FEB 2019)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.</i>  As used in this clause—</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">TRANSPORTATION OF SUPPLIES BY SEA—BASIC (FEB 2019)</p>
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
          <p class="- topic/p ">“Components” means articles, materials, and supplies incorporated directly into end products at any level of manufacture, fabrication, or assembly by the Contractor or any subcontractor.</p>
          <p class="- topic/p ">“Department of Defense” (DoD) means the Army, Navy, Air Force, Marine Corps, and defense agencies.</p>
          <p class="- topic/p ">“Foreign-flag vessel” means any vessel that is not a U.S.-flag vessel.</p>
          <p class="- topic/p ">“Ocean transportation” means any transportation aboard a ship, vessel, boat, barge, or ferry through international waters.</p>
-         <p class="- topic/p ">“Subcontractor” means a supplier, materialman, distributor, or vendor at any level below the prime contractor whose contractual obligation to perform results from, or is conditioned upon, award of the prime contract and who is performing any part of the work or other requirement of the prime contract.  </p>
+         <p class="- topic/p ">“Subcontractor” means a supplier, materialman, distributor, or vendor at any level below the prime contractor whose contractual obligation to perform results from, or is conditioned upon, award of the prime contract and who is performing any part of the work or other requirement of the prime contract.</p>
          <p class="- topic/p ">“Supplies” means all property, except land and interests in land, that is clearly identifiable for eventual use by or owned by the DoD at the time of transportation by sea.</p>
-         <p outputclass="List3" class="- topic/p ">(i)  An item is clearly identifiable for eventual use by the DoD if, for example, the contract documentation contains a reference to a DoD contract number or a military destination.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  “Supplies” includes (but is not limited to) public works; buildings and facilities; ships; floating equipment and vessels of every character, type, and description, with parts, subassemblies, accessories, and equipment; machine tools; material; equipment; stores of all kinds; end items; construction materials; and components of the foregoing.</p>
+         <p outputclass="List3" class="- topic/p ">(i) An item is clearly identifiable for eventual use by the DoD if, for example, the contract documentation contains a reference to a DoD contract number or a military destination.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) “Supplies” includes (but is not limited to) public works; buildings and facilities; ships; floating equipment and vessels of every character, type, and description, with parts, subassemblies, accessories, and equipment; machine tools; material; equipment; stores of all kinds; end items; construction materials; and components of the foregoing.</p>
          <p class="- topic/p ">“U.S.-flag vessel” means a vessel of the United States or belonging to the United States, including any vessel registered or having national status under the laws of the United States.</p>
-         <p outputclass="List1" class="- topic/p ">(b)(1)  The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  This contract is a construction contract; or</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The supplies being transported are—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  Noncommercial items; or</p>
-         <p outputclass="List4" class="- topic/p ">(B)  Commercial items that—</p>
+         <p outputclass="List1" class="- topic/p ">(b)(1) The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.</p>
+         <p outputclass="List2" class="- topic/p ">(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if—</p>
+         <p outputclass="List3" class="- topic/p ">(i) This contract is a construction contract; or</p>
+         <p outputclass="List3" class="- topic/p ">(ii) The supplies being transported are—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Noncommercial items; or</p>
+         <p outputclass="List4" class="- topic/p ">(B) Commercial items that—</p>
          <p outputclass="List6" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(1)  </i>The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it subcontracts for f.o.b. destination shipment);</p>
+            <i class="+ topic/ph hi-d/i ">(1)</i>The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it subcontracts for f.o.b. destination shipment);</p>
          <p outputclass="List6" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(2)  </i>Are shipped in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations; or</p>
+            <i class="+ topic/ph hi-d/i ">(2)</i>Are shipped in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations; or</p>
          <p outputclass="List6" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(3)  </i>Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  U.S.-flag vessels are not available for timely shipment;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The freight charges are inordinately excessive or unreasonable; or</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Freight charges are higher than charges to private persons for transportation of like goods.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules.  The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract.  Requests shall contain at a minimum—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Type, weight, and cube of cargo;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Required shipping date;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Special handling and discharge requirements;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Loading and discharge points;</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Name of shipper and consignee;</p>
-         <p outputclass="List2" class="- topic/p ">(6)  Prime contract number; and</p>
-         <p outputclass="List2" class="- topic/p ">(7)  A documented description of efforts made to secure U.S.-flag vessels, including points of contact (with names and telephone numbers) with at least two U.S.-flag carriers contacted.  Copies of telephone notes, telegraphic and facsimile message or letters will be sufficient for this purpose.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  The Contractor shall, within 30 days after each shipment covered by this clause, provide the Contracting Officer and the Maritime Administration, Office of Cargo Preference, U.S. Department of Transportation, 400 Seventh Street SW, Washington, DC  20590, one copy of the rated on board vessel operating carrier's ocean bill of lading, which shall contain the following information:</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Prime contract number;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Name of vessel;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Vessel flag of registry;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Date of loading;</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Port of loading;</p>
-         <p outputclass="List2" class="- topic/p ">(6)  Port of final discharge;</p>
-         <p outputclass="List2" class="- topic/p ">(7)  Description of commodity;</p>
-         <p outputclass="List2" class="- topic/p ">(8)  Gross weight in pounds and cubic feet if available;</p>
-         <p outputclass="List2" class="- topic/p ">(9)  Total ocean freight in U.S. dollars; and</p>
-         <p outputclass="List2" class="- topic/p ">(10)  Name of steamship company.</p>
-         <p outputclass="List1" class="- topic/p ">(f)  If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  No ocean transportation was used in the performance of this contract;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer.  The Contractor shall describe these shipments in the following format:</p>
+            <i class="+ topic/ph hi-d/i ">(3)</i>Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643.</p>
+         <p outputclass="List1" class="- topic/p ">(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—</p>
+         <p outputclass="List2" class="- topic/p ">(1) U.S.-flag vessels are not available for timely shipment;</p>
+         <p outputclass="List2" class="- topic/p ">(2) The freight charges are inordinately excessive or unreasonable; or</p>
+         <p outputclass="List2" class="- topic/p ">(3) Freight charges are higher than charges to private persons for transportation of like goods.</p>
+         <p outputclass="List1" class="- topic/p ">(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Type, weight, and cube of cargo;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Required shipping date;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Special handling and discharge requirements;</p>
+         <p outputclass="List2" class="- topic/p ">(4) Loading and discharge points;</p>
+         <p outputclass="List2" class="- topic/p ">(5) Name of shipper and consignee;</p>
+         <p outputclass="List2" class="- topic/p ">(6) Prime contract number; and</p>
+         <p outputclass="List2" class="- topic/p ">(7) A documented description of efforts made to secure U.S.-flag vessels, including points of contact (with names and telephone numbers) with at least two U.S.-flag carriers contacted. Copies of telephone notes, telegraphic and facsimile message or letters will be sufficient for this purpose.</p>
+         <p outputclass="List1" class="- topic/p ">(e) The Contractor shall, within 30 days after each shipment covered by this clause, provide the Contracting Officer and the Maritime Administration, Office of Cargo Preference, U.S. Department of Transportation, 400 Seventh Street SW, Washington, DC 20590, one copy of the rated on board vessel operating carrier's ocean bill of lading, which shall contain the following information:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Prime contract number;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Name of vessel;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Vessel flag of registry;</p>
+         <p outputclass="List2" class="- topic/p ">(4) Date of loading;</p>
+         <p outputclass="List2" class="- topic/p ">(5) Port of loading;</p>
+         <p outputclass="List2" class="- topic/p ">(6) Port of final discharge;</p>
+         <p outputclass="List2" class="- topic/p ">(7) Description of commodity;</p>
+         <p outputclass="List2" class="- topic/p ">(8) Gross weight in pounds and cubic feet if available;</p>
+         <p outputclass="List2" class="- topic/p ">(9) Total ocean freight in U.S. dollars; and</p>
+         <p outputclass="List2" class="- topic/p ">(10) Name of steamship company.</p>
+         <p outputclass="List1" class="- topic/p ">(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—</p>
+         <p outputclass="List2" class="- topic/p ">(1) No ocean transportation was used in the performance of this contract;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
+         <p outputclass="List2" class="- topic/p ">(4) Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer. The Contractor shall describe these shipments in the following format:</p>
          <p class="- topic/p "/>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="4"
-                    colsep="1"
+                    colsep="0"
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
                <colspec colnum="1"
                         colname="1"
                         colwidth="16*"
+                        colsep="0"
                         class="- topic/colspec "
                         rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="29*"
+                        colsep="0"
                         class="- topic/colspec "
                         rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="30*"
+                        colsep="0"
                         class="- topic/colspec "
                         rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="25*"
+                        colsep="0"
                         class="- topic/colspec "
                         rowheader="headers"/>
                <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">ITEM DESCRIPTION</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">CONTRACT LINE ITEMS</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="4" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
                         <p class="- topic/p ">QUANTITY</p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="4" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" colsep="1" class="- topic/entry ">
                         <p class="- topic/p ">TOTAL</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" colsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="3" colsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
                   </row>
@@ -142,141 +146,139 @@
             </tgroup>
          </table>
          <p outputclass="List1" class="- topic/p "/>
-         <p outputclass="List1" class="- topic/p ">(g)  If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract.  In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
-         <p outputclass="List1" class="- topic/p ">(h)  If the Contractor indicated in response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Notify the Contracting Officer of that fact; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Comply with all the terms and conditions of this clause.</p>
-         <p outputclass="List3" class="- topic/p ">(i)  In the award of subcontracts, for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows: </p>
-         <p outputclass="List2" class="- topic/p ">(1)  The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
+         <p outputclass="List1" class="- topic/p ">(g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
+         <p outputclass="List1" class="- topic/p ">(h) If the Contractor indicated in response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor shall—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Notify the Contracting Officer of that fact; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) Comply with all the terms and conditions of this clause.</p>
+         <p outputclass="List1" class="- topic/p ">(i) In the award of subcontracts, for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:</p>
+         <p outputclass="List2" class="- topic/p ">(1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
+         <p outputclass="List2" class="- topic/p ">(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section ">
-            <p class="- topic/p ">Alternate I.  As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
+            <p class="- topic/p ">Alternate I. As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
                   <xref outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "
+                        href="247.574.dita#DFARS-247.574"
                         base="DFARS-247.574"
-                        href="247.574.dita#DFARS-247.574">247.574</xref>
+                        class="- topic/xref ">247.574</xref>
                </ph>(b) and (b)(2), use the following clause, which uses a different paragraph (b) than the basic clause:</p>
-            <p class="- topic/p ">Alternate II.  As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "
-                        base="DFARS-247.574"
-                        href="247.574.dita#DFARS-247.574">247.574</xref>
-               </ph>(b) and (b)(3), use the following clause, which uses a different paragraph (b) than the basic clause:</p>
-            <p class="- topic/p ">TRANSPORTATION OF SUPPLIES BY SEA—ALTERNATE I (FEB 2019)</p>
-            <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.</i>  As used in this clause—</p>
+            <p outputclass="Ctr_SmCaps" class="- topic/p ">TRANSPORTATION OF SUPPLIES BY SEA—ALTERNATE I (FEB 2019)</p>
+            <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
             <p class="- topic/p ">“Components” means articles, materials, and supplies incorporated directly into end products at any level of manufacture, fabrication, or assembly by the Contractor or any subcontractor.</p>
             <p class="- topic/p ">“Department of Defense” (DoD) means the Army, Navy, Air Force, Marine Corps, and defense agencies.</p>
             <p class="- topic/p ">“Foreign-flag vessel” means any vessel that is not a U.S.-flag vessel.</p>
             <p class="- topic/p ">“Ocean transportation” means any transportation aboard a ship, vessel, boat, barge, or ferry through international waters.</p>
             <p class="- topic/p ">“Subcontractor” means a supplier, materialman, distributor, or vendor at any level below the prime contractor whose contractual obligation to perform results from, or is conditioned upon, award of the prime contract and who is performing any part of the work or other requirement of the prime contract.</p>
             <p class="- topic/p ">“Supplies” means all property, except land and interests in land, that is clearly identifiable for eventual use by or owned by the DoD at the time of transportation by sea.</p>
-            <p outputclass="List3" class="- topic/p ">(i)  An item is clearly identifiable for eventual use by the DoD if, for example, the contract documentation contains a reference to a DoD contract number or a military destination.</p>
-            <p outputclass="List3" class="- topic/p ">(ii)  “Supplies” includes (but is not limited to) public works; buildings and facilities; ships; floating equipment and vessels of every character, type, and description, with parts, subassemblies, accessories, and equipment; machine tools; material; equipment; stores of all kinds; end items; construction materials; and components of the foregoing.</p>
+            <p outputclass="List3" class="- topic/p ">(i) An item is clearly identifiable for eventual use by the DoD if, for example, the contract documentation contains a reference to a DoD contract number or a military destination.</p>
+            <p outputclass="List3" class="- topic/p ">(ii) “Supplies” includes (but is not limited to) public works; buildings and facilities; ships; floating equipment and vessels of every character, type, and description, with parts, subassemblies, accessories, and equipment; machine tools; material; equipment; stores of all kinds; end items; construction materials; and components of the foregoing.</p>
             <p class="- topic/p ">“U.S.-flag vessel” means a vessel of the United States or belonging to the United States, including any vessel registered or having national status under the laws of the United States.</p>
-            <p outputclass="List1" class="- topic/p ">(b)(1)  The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.</p>
-            <p outputclass="List2" class="- topic/p ">(2)  A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if the supplies being transported are—</p>
-            <p outputclass="List3" class="- topic/p ">(i)  Noncommercial items; or</p>
-            <p outputclass="List3" class="- topic/p ">(ii)  Commercial items that—</p>
-            <p outputclass="List4" class="- topic/p ">(A)  The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it subcontracts for f.o.b. destination shipment);</p>
-            <p outputclass="List4" class="- topic/p ">(B)  Are shipped in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations (Note:  This contract requires shipment of commercial items in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations); or</p>
-            <p outputclass="List4" class="- topic/p ">(C)  Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643.</p>
-            <p outputclass="List1" class="- topic/p ">(c)  The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—</p>
-            <p outputclass="List2" class="- topic/p ">(1)  U.S.-flag vessels are not available for timely shipment;</p>
-            <p outputclass="List2" class="- topic/p ">(2)  The freight charges are inordinately excessive or unreasonable; or</p>
-            <p outputclass="List2" class="- topic/p ">(3)  Freight charges are higher than charges to private persons for transportation of like goods.</p>
-            <p outputclass="List1" class="- topic/p ">(d)  The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules.  The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract.  Requests shall contain at a minimum—</p>
-            <p outputclass="List2" class="- topic/p ">(1)  Type, weight, and cube of cargo;</p>
-            <p outputclass="List2" class="- topic/p ">(2)  Required shipping date;</p>
-            <p outputclass="List2" class="- topic/p ">(3)  Special handling and discharge requirements;</p>
-            <p outputclass="List2" class="- topic/p ">(4)  Loading and discharge points;</p>
-            <p outputclass="List2" class="- topic/p ">(5)  Name of shipper and consignee;</p>
-            <p outputclass="List2" class="- topic/p ">(6)  Prime contract number; and</p>
-            <p outputclass="List2" class="- topic/p ">(7)  A documented description of efforts made to secure U.S.-flag vessels, including points of contact (with names and telephone numbers) with at least two U.S.-flag carriers contacted.  Copies of telephone notes, telegraphic and facsimile message or letters will be sufficient for this purpose.</p>
-            <p outputclass="List1" class="- topic/p ">(e)  The Contractor shall, within 30 days after each shipment covered by this clause, provide the Contracting Officer and the Maritime Administration, Office of Cargo Preference, U.S. Department of Transportation, 400 Seventh Street SW, Washington, DC  20590, one copy of the rated on board vessel operating carrier's ocean bill of lading, which shall contain the following information:</p>
-            <p outputclass="List2" class="- topic/p ">(1)  Prime contract number;</p>
-            <p outputclass="List2" class="- topic/p ">(2)  Name of vessel;</p>
-            <p outputclass="List2" class="- topic/p ">(3)  Vessel flag of registry;</p>
-            <p outputclass="List2" class="- topic/p ">(4)  Date of loading;</p>
-            <p outputclass="List2" class="- topic/p ">(5)  Port of loading;</p>
-            <p outputclass="List2" class="- topic/p ">(6)  Port of final discharge;</p>
-            <p outputclass="List2" class="- topic/p ">(7)  Description of commodity;</p>
-            <p outputclass="List2" class="- topic/p ">(8)  Gross weight in pounds and cubic feet if available;</p>
-            <p outputclass="List2" class="- topic/p ">(9)  Total ocean freight in U.S. dollars; and</p>
-            <p outputclass="List2" class="- topic/p ">(10)  Name of steamship company.</p>
-            <p outputclass="List1" class="- topic/p ">(f)  If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—</p>
-            <p outputclass="List2" class="- topic/p ">(1)  No ocean transportation was used in the performance of this contract;</p>
-            <p outputclass="List2" class="- topic/p ">(2)  Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
-            <p outputclass="List2" class="- topic/p ">(3)  Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
-            <p outputclass="List2" class="- topic/p ">(4)  Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer.  The Contractor shall describe these shipments in the following format:</p>
+            <p outputclass="List1" class="- topic/p ">(b)(1) The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.</p>
+            <p outputclass="List2" class="- topic/p ">(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if the supplies being transported are—</p>
+            <p outputclass="List3" class="- topic/p ">(i) Noncommercial items; or</p>
+            <p outputclass="List3" class="- topic/p ">(ii) Commercial items that—</p>
+            <p outputclass="List4" class="- topic/p ">(A) The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it subcontracts for f.o.b. destination shipment);</p>
+            <p outputclass="List4" class="- topic/p ">(B) Are shipped in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations (Note: This contract requires shipment of commercial items in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations); or</p>
+            <p outputclass="List4" class="- topic/p ">(C) Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643.</p>
+            <p outputclass="List1" class="- topic/p ">(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—</p>
+            <p outputclass="List2" class="- topic/p ">(1) U.S.-flag vessels are not available for timely shipment;</p>
+            <p outputclass="List2" class="- topic/p ">(2) The freight charges are inordinately excessive or unreasonable; or</p>
+            <p outputclass="List2" class="- topic/p ">(3) Freight charges are higher than charges to private persons for transportation of like goods.</p>
+            <p outputclass="List1" class="- topic/p ">(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum—</p>
+            <p outputclass="List2" class="- topic/p ">(1) Type, weight, and cube of cargo;</p>
+            <p outputclass="List2" class="- topic/p ">(2) Required shipping date;</p>
+            <p outputclass="List2" class="- topic/p ">(3) Special handling and discharge requirements;</p>
+            <p outputclass="List2" class="- topic/p ">(4) Loading and discharge points;</p>
+            <p outputclass="List2" class="- topic/p ">(5) Name of shipper and consignee;</p>
+            <p outputclass="List2" class="- topic/p ">(6) Prime contract number; and</p>
+            <p outputclass="List2" class="- topic/p ">(7) A documented description of efforts made to secure U.S.-flag vessels, including points of contact (with names and telephone numbers) with at least two U.S.-flag carriers contacted. Copies of telephone notes, telegraphic and facsimile message or letters will be sufficient for this purpose.</p>
+            <p outputclass="List1" class="- topic/p ">(e) The Contractor shall, within 30 days after each shipment covered by this clause, provide the Contracting Officer and the Maritime Administration, Office of Cargo Preference, U.S. Department of Transportation, 400 Seventh Street SW, Washington, DC 20590, one copy of the rated on board vessel operating carrier's ocean bill of lading, which shall contain the following information:</p>
+            <p outputclass="List2" class="- topic/p ">(1) Prime contract number;</p>
+            <p outputclass="List2" class="- topic/p ">(2) Name of vessel;</p>
+            <p outputclass="List2" class="- topic/p ">(3) Vessel flag of registry;</p>
+            <p outputclass="List2" class="- topic/p ">(4) Date of loading;</p>
+            <p outputclass="List2" class="- topic/p ">(5) Port of loading;</p>
+            <p outputclass="List2" class="- topic/p ">(6) Port of final discharge;</p>
+            <p outputclass="List2" class="- topic/p ">(7) Description of commodity;</p>
+            <p outputclass="List2" class="- topic/p ">(8) Gross weight in pounds and cubic feet if available;</p>
+            <p outputclass="List2" class="- topic/p ">(9) Total ocean freight in U.S. dollars; and</p>
+            <p outputclass="List2" class="- topic/p ">(10) Name of steamship company.</p>
+            <p outputclass="List1" class="- topic/p ">(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—</p>
+            <p outputclass="List2" class="- topic/p ">(1) No ocean transportation was used in the performance of this contract;</p>
+            <p outputclass="List2" class="- topic/p ">(2) Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
+            <p outputclass="List2" class="- topic/p ">(3) Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
+            <p outputclass="List2" class="- topic/p ">(4) Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer. The Contractor shall describe these shipments in the following format:</p>
             <p class="- topic/p "/>
-            <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+            <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
                <tgroup cols="4"
-                       colsep="1"
+                       colsep="0"
                        rowsep="0"
                        outputclass="Table"
                        class="- topic/tgroup ">
                   <colspec colnum="1"
                            colname="1"
                            colwidth="16*"
+                           colsep="0"
                            class="- topic/colspec "
                            rowheader="headers"/>
                   <colspec colnum="2"
                            colname="2"
                            colwidth="29*"
+                           colsep="0"
                            class="- topic/colspec "
                            rowheader="headers"/>
                   <colspec colnum="3"
                            colname="3"
                            colwidth="30*"
+                           colsep="0"
                            class="- topic/colspec "
                            rowheader="headers"/>
                   <colspec colnum="4"
                            colname="4"
                            colwidth="25*"
+                           colsep="0"
                            class="- topic/colspec "
                            rowheader="headers"/>
                   <tbody class="- topic/tbody ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry class="- topic/entry ">
+                     <row rowsep="0" class="- topic/row ">
+                        <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p ">ITEM DESCRIPTION</p>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p ">CONTRACT LINE ITEMS</p>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="4" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                            <p class="- topic/p ">QUANTITY</p>
                         </entry>
                      </row>
-                     <row rowsep="1" class="- topic/row ">
-                        <entry class="- topic/entry ">
+                     <row rowsep="0" class="- topic/row ">
+                        <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="4" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
                      </row>
                      <row rowsep="0" class="- topic/row ">
-                        <entry class="- topic/entry ">
+                        <entry colname="1" colsep="1" class="- topic/entry ">
                            <p class="- topic/p ">TOTAL</p>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="2" colsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="3" colsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="4" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
                      </row>
@@ -284,134 +286,138 @@
                </tgroup>
             </table>
             <p outputclass="List1" class="- topic/p "/>
-            <p outputclass="List1" class="- topic/p ">(g)  If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract.  In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
-            <p outputclass="List1" class="- topic/p ">(h)  If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor—</p>
-            <p outputclass="List2" class="- topic/p ">(1)  Shall notify the Contracting Officer of that fact; and </p>
-            <p outputclass="List2" class="- topic/p ">(2)  Hereby agrees to comply with all the terms and conditions of this clause.</p>
-            <p outputclass="List3" class="- topic/p ">(i)  In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:</p>
-            <p outputclass="List2" class="- topic/p ">(1)  The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
-            <p outputclass="List2" class="- topic/p ">(2)  The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
+            <p outputclass="List1" class="- topic/p ">(g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
+            <p outputclass="List1" class="- topic/p ">(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor—</p>
+            <p outputclass="List2" class="- topic/p ">(1) Shall notify the Contracting Officer of that fact; and</p>
+            <p outputclass="List2" class="- topic/p ">(2) Hereby agrees to comply with all the terms and conditions of this clause.</p>
+            <p outputclass="List1" class="- topic/p ">(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:</p>
+            <p outputclass="List2" class="- topic/p ">(1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
+            <p outputclass="List2" class="- topic/p ">(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
             <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-            <p class="- topic/p ">Alternate II.  As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
+            <p class="- topic/p ">Alternate II. As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
                   <xref outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "
+                        href="247.574.dita#DFARS-247.574"
                         base="DFARS-247.574"
-                        href="247.574.dita#DFARS-247.574">247.574</xref>
+                        class="- topic/xref ">247.574</xref>
                </ph>(b) and (b)(3), use the following clause, which uses a different paragraph (b) than the basic clause:</p>
-            <p class="- topic/p ">TRANSPORTATION OF SUPPLIES BY SEA—ALTERNATE II (FEB 2019)</p>
-            <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.</i>  As used in this clause—</p>
+            <p outputclass="Ctr_SmCaps" class="- topic/p ">TRANSPORTATION OF SUPPLIES BY SEA—ALTERNATE II (FEB 2019)</p>
+            <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
             <p class="- topic/p ">“Components” means articles, materials, and supplies incorporated directly into end products at any level of manufacture, fabrication, or assembly by the Contractor or any subcontractor.</p>
             <p class="- topic/p ">“Department of Defense” (DoD) means the Army, Navy, Air Force, Marine Corps, and defense agencies.</p>
             <p class="- topic/p ">“Foreign-flag vessel” means any vessel that is not a U.S.-flag vessel.</p>
             <p class="- topic/p ">“Ocean transportation” means any transportation aboard a ship, vessel, boat, barge, or ferry through international waters.</p>
-            <p class="- topic/p ">“Subcontractor” means a supplier, materialman, distributor, or vendor at any level below the prime contractor whose contractual obligation to perform results from, or is conditioned upon, award of the prime contract and who is performing any part of the work or other requirement of the prime contract.  </p>
+            <p class="- topic/p ">“Subcontractor” means a supplier, materialman, distributor, or vendor at any level below the prime contractor whose contractual obligation to perform results from, or is conditioned upon, award of the prime contract and who is performing any part of the work or other requirement of the prime contract.</p>
             <p class="- topic/p ">“Supplies” means all property, except land and interests in land, that is clearly identifiable for eventual use by or owned by the DoD at the time of transportation by sea.</p>
-            <p outputclass="List3" class="- topic/p ">(i)  An item is clearly identifiable for eventual use by the DoD if, for example, the contract documentation contains a reference to a DoD contract number or a military destination.</p>
-            <p outputclass="List3" class="- topic/p ">(ii)  “Supplies” includes (but is not limited to) public works; buildings and facilities; ships; floating equipment and vessels of every character, type, and description, with parts, subassemblies, accessories, and equipment; machine tools; material; equipment; stores of all kinds; end items; construction materials; and components of the foregoing.</p>
+            <p outputclass="List3" class="- topic/p ">(i) An item is clearly identifiable for eventual use by the DoD if, for example, the contract documentation contains a reference to a DoD contract number or a military destination.</p>
+            <p outputclass="List3" class="- topic/p ">(ii) “Supplies” includes (but is not limited to) public works; buildings and facilities; ships; floating equipment and vessels of every character, type, and description, with parts, subassemblies, accessories, and equipment; machine tools; material; equipment; stores of all kinds; end items; construction materials; and components of the foregoing.</p>
             <p class="- topic/p ">“U.S.-flag vessel” means a vessel of the United States or belonging to the United States, including any vessel registered or having national status under the laws of the United States.</p>
-            <p outputclass="List1" class="- topic/p ">(b)(1)  The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.</p>
-            <p outputclass="List2" class="- topic/p ">(2)  A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if the supplies being transported are—</p>
-            <p outputclass="List3" class="- topic/p ">(i)  Noncommercial items; or</p>
-            <p outputclass="List3" class="- topic/p ">(ii)  Commercial items that—</p>
-            <p outputclass="List4" class="- topic/p ">(A)  The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it subcontracts for f.o.b. destination shipment);</p>
-            <p outputclass="List4" class="- topic/p ">(B)  Are shipped in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations; or</p>
-            <p outputclass="List4" class="- topic/p ">(C)  Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643 (Note:  This contract requires transportation of commissary or exchange cargoes outside of the Defense Transportation System in accordance with 10 U.S.C. 2643).</p>
-            <p outputclass="List1" class="- topic/p ">(c)  The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—</p>
-            <p outputclass="List2" class="- topic/p ">(1)  U.S.-flag vessels are not available for timely shipment;</p>
-            <p outputclass="List2" class="- topic/p ">(2)  The freight charges are inordinately excessive or unreasonable; or</p>
-            <p outputclass="List2" class="- topic/p ">(3)  Freight charges are higher than charges to private persons for transportation of like goods.</p>
-            <p outputclass="List1" class="- topic/p ">(d)  The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules.  The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract.  Requests shall contain at a minimum—</p>
-            <p outputclass="List2" class="- topic/p ">(1)  Type, weight, and cube of cargo;</p>
-            <p outputclass="List2" class="- topic/p ">(2)  Required shipping date;</p>
-            <p outputclass="List2" class="- topic/p ">(3)  Special handling and discharge requirements;</p>
-            <p outputclass="List2" class="- topic/p ">(4)  Loading and discharge points;</p>
-            <p outputclass="List2" class="- topic/p ">(5)  Name of shipper and consignee;</p>
-            <p outputclass="List2" class="- topic/p ">(6)  Prime contract number; and</p>
-            <p outputclass="List2" class="- topic/p ">(7)  A documented description of efforts made to secure U.S.-flag vessels, including points of contact (with names and telephone numbers) with at least two U.S.-flag carriers contacted.  Copies of telephone notes, telegraphic and facsimile message or letters will be sufficient for this purpose.</p>
-            <p outputclass="List1" class="- topic/p ">(e)  The Contractor shall, within 30 days after each shipment covered by this clause, provide the Contracting Officer and the Maritime Administration, Office of Cargo Preference, U.S. Department of Transportation, 400 Seventh Street SW, Washington, DC  20590, one copy of the rated on board vessel operating carrier's ocean bill of lading, which shall contain the following information:</p>
-            <p outputclass="List2" class="- topic/p ">(1)  Prime contract number;</p>
-            <p outputclass="List2" class="- topic/p ">(2)  Name of vessel;</p>
-            <p outputclass="List2" class="- topic/p ">(3)  Vessel flag of registry;</p>
-            <p outputclass="List2" class="- topic/p ">(4)  Date of loading;</p>
-            <p outputclass="List2" class="- topic/p ">(5)  Port of loading;</p>
-            <p outputclass="List2" class="- topic/p ">(6)  Port of final discharge;</p>
-            <p outputclass="List2" class="- topic/p ">(7)  Description of commodity;</p>
-            <p outputclass="List2" class="- topic/p ">(8)  Gross weight in pounds and cubic feet if available;</p>
-            <p outputclass="List2" class="- topic/p ">(9)  Total ocean freight in U.S. dollars; and</p>
-            <p outputclass="List2" class="- topic/p ">(10)  Name of steamship company.</p>
-            <p outputclass="List1" class="- topic/p ">(f)  If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—</p>
-            <p outputclass="List2" class="- topic/p ">(1)  No ocean transportation was used in the performance of this contract;</p>
-            <p outputclass="List2" class="- topic/p ">(2)  Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
-            <p outputclass="List2" class="- topic/p ">(3)  Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
-            <p outputclass="List2" class="- topic/p ">(4)  Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer.  The Contractor shall describe these shipments in the following format:</p>
+            <p outputclass="List1" class="- topic/p ">(b)(1) The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.</p>
+            <p outputclass="List2" class="- topic/p ">(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if the supplies being transported are—</p>
+            <p outputclass="List3" class="- topic/p ">(i) Noncommercial items; or</p>
+            <p outputclass="List3" class="- topic/p ">(ii) Commercial items that—</p>
+            <p outputclass="List4" class="- topic/p ">(A) The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it subcontracts for f.o.b. destination shipment);</p>
+            <p outputclass="List4" class="- topic/p ">(B) Are shipped in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations; or</p>
+            <p outputclass="List4" class="- topic/p ">(C) Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643 (Note: This contract requires transportation of commissary or exchange cargoes outside of the Defense Transportation System in accordance with 10 U.S.C. 2643).</p>
+            <p outputclass="List1" class="- topic/p ">(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—</p>
+            <p outputclass="List2" class="- topic/p ">(1) U.S.-flag vessels are not available for timely shipment;</p>
+            <p outputclass="List2" class="- topic/p ">(2) The freight charges are inordinately excessive or unreasonable; or</p>
+            <p outputclass="List2" class="- topic/p ">(3) Freight charges are higher than charges to private persons for transportation of like goods.</p>
+            <p outputclass="List1" class="- topic/p ">(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum—</p>
+            <p outputclass="List2" class="- topic/p ">(1) Type, weight, and cube of cargo;</p>
+            <p outputclass="List2" class="- topic/p ">(2) Required shipping date;</p>
+            <p outputclass="List2" class="- topic/p ">(3) Special handling and discharge requirements;</p>
+            <p outputclass="List2" class="- topic/p ">(4) Loading and discharge points;</p>
+            <p outputclass="List2" class="- topic/p ">(5) Name of shipper and consignee;</p>
+            <p outputclass="List2" class="- topic/p ">(6) Prime contract number; and</p>
+            <p outputclass="List2" class="- topic/p ">(7) A documented description of efforts made to secure U.S.-flag vessels, including points of contact (with names and telephone numbers) with at least two U.S.-flag carriers contacted. Copies of telephone notes, telegraphic and facsimile message or letters will be sufficient for this purpose.</p>
+            <p outputclass="List1" class="- topic/p ">(e) The Contractor shall, within 30 days after each shipment covered by this clause, provide the Contracting Officer and the Maritime Administration, Office of Cargo Preference, U.S. Department of Transportation, 400 Seventh Street SW, Washington, DC 20590, one copy of the rated on board vessel operating carrier's ocean bill of lading, which shall contain the following information:</p>
+            <p outputclass="List2" class="- topic/p ">(1) Prime contract number;</p>
+            <p outputclass="List2" class="- topic/p ">(2) Name of vessel;</p>
+            <p outputclass="List2" class="- topic/p ">(3) Vessel flag of registry;</p>
+            <p outputclass="List2" class="- topic/p ">(4) Date of loading;</p>
+            <p outputclass="List2" class="- topic/p ">(5) Port of loading;</p>
+            <p outputclass="List2" class="- topic/p ">(6) Port of final discharge;</p>
+            <p outputclass="List2" class="- topic/p ">(7) Description of commodity;</p>
+            <p outputclass="List2" class="- topic/p ">(8) Gross weight in pounds and cubic feet if available;</p>
+            <p outputclass="List2" class="- topic/p ">(9) Total ocean freight in U.S. dollars; and</p>
+            <p outputclass="List2" class="- topic/p ">(10) Name of steamship company.</p>
+            <p outputclass="List1" class="- topic/p ">(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—</p>
+            <p outputclass="List2" class="- topic/p ">(1) No ocean transportation was used in the performance of this contract;</p>
+            <p outputclass="List2" class="- topic/p ">(2) Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
+            <p outputclass="List2" class="- topic/p ">(3) Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
+            <p outputclass="List2" class="- topic/p ">(4) Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer. The Contractor shall describe these shipments in the following format:</p>
             <p class="- topic/p "/>
-            <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+            <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
                <tgroup cols="4"
-                       colsep="1"
+                       colsep="0"
                        rowsep="0"
                        outputclass="Table"
                        class="- topic/tgroup ">
                   <colspec colnum="1"
                            colname="1"
                            colwidth="16*"
+                           colsep="0"
                            class="- topic/colspec "
                            rowheader="headers"/>
                   <colspec colnum="2"
                            colname="2"
                            colwidth="29*"
+                           colsep="0"
                            class="- topic/colspec "
                            rowheader="headers"/>
                   <colspec colnum="3"
                            colname="3"
                            colwidth="30*"
+                           colsep="0"
                            class="- topic/colspec "
                            rowheader="headers"/>
                   <colspec colnum="4"
                            colname="4"
                            colwidth="25*"
+                           colsep="0"
                            class="- topic/colspec "
                            rowheader="headers"/>
                   <tbody class="- topic/tbody ">
-                     <row rowsep="1" class="- topic/row ">
-                        <entry class="- topic/entry ">
+                     <row rowsep="0" class="- topic/row ">
+                        <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p ">ITEM DESCRIPTION</p>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p ">CONTRACT LINE ITEMS</p>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="4" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                            <p class="- topic/p ">QUANTITY</p>
                         </entry>
                      </row>
-                     <row rowsep="1" class="- topic/row ">
-                        <entry class="- topic/entry ">
+                     <row rowsep="0" class="- topic/row ">
+                        <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="4" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
                      </row>
                      <row rowsep="0" class="- topic/row ">
-                        <entry class="- topic/entry ">
+                        <entry colname="1" colsep="1" class="- topic/entry ">
                            <p class="- topic/p ">TOTAL</p>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="2" colsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="3" colsep="1" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
-                        <entry class="- topic/entry ">
+                        <entry colname="4" class="- topic/entry ">
                            <p class="- topic/p "/>
                         </entry>
                      </row>
@@ -419,11 +425,11 @@
                </tgroup>
             </table>
             <p outputclass="List1" class="- topic/p "/>
-            <p outputclass="List1" class="- topic/p ">(g)  If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract.  In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
-            <p outputclass="List1" class="- topic/p ">(h)  If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies, but the contractor learns after the award of the contract that supplies will be transported by sea, the Contractor shall notify the Contracting Officer of that fact.</p>
-            <p outputclass="List3" class="- topic/p ">(i)  In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause,  including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:</p>
-            <p outputclass="List2" class="- topic/p ">(1)  The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
-            <p outputclass="List2" class="- topic/p ">(2)  The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
+            <p outputclass="List1" class="- topic/p ">(g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
+            <p outputclass="List1" class="- topic/p ">(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies, but the contractor learns after the award of the contract that supplies will be transported by sea, the Contractor shall notify the Contracting Officer of that fact.</p>
+            <p outputclass="List1" class="- topic/p ">(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:</p>
+            <p outputclass="List2" class="- topic/p ">(1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
+            <p outputclass="List2" class="- topic/p ">(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
             <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          </section>
       </conbody>

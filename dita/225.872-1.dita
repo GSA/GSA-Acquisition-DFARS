@@ -50,7 +50,11 @@
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="100*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="100*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">

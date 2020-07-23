@@ -26,13 +26,19 @@
          <p outputclass="List4" class="- topic/p ">(A) Ship-to/mark-for block. Show the ACRN beside the identity code of each activity in the ship-to/mark-for block unless only one accounting classification citation applies to a line item or subline item. Only one ACRN may be assigned to the same ship-to/mark-for within the same contract line or subline item number unless multiple accounting classification citations apply to a single nonseverable deliverable unit such that the item cannot be related to an individual accounting classification citation.</p>
          <p outputclass="List4" class="- topic/p ">(B) Supplies/services column.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) If only one accounting classification citation applies to a line item or a subline item, the ACRN shall be shown in the supplies/services column near the item description.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) If more than one accounting classification citation applies to a single contract line item, identify each assigned ACRN and the amount of associated funds using informational subline items (see DFARS 204.7104-1(a)).</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) If more than one accounting classification citation applies to a single contract line item, identify each assigned ACRN and the amount of associated funds using informational subline items (see DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-204.7104-1"
+                  href="204.7104-1.dita#DFARS-204.7104-1">204.7104-1</xref>(a)).</p>
          <p outputclass="List2" class="- topic/p ">(2) The contract shall include AAIs and ACRNs in system environments where the accounting systems are able to use PIIDs and line item numbers as common keys to enable traceability of funding to contract actions. Include AAIs and ACRNs as follows: </p>
          <p outputclass="List3" class="- topic/p ">(i) Showing the ACRN in the contract. If there is more than one ACRN in a contract, all the ACRNs will appear in several places in the schedule (e.g., ACRN: AA).</p>
          <p outputclass="List4" class="- topic/p ">(A) Ship-to/mark-for block. Show the ACRN beside the identity code of each activity in the ship-to/mark-for block unless only one accounting classification citation applies to a line item or subline item. Only one ACRN may be assigned to the same ship-to/mark-for within the same contract line or subline item number unless multiple accounting classification citations apply to a single nonseverable deliverable unit such that the item cannot be related to an individual accounting classification citation.</p>
          <p outputclass="List4" class="- topic/p ">(B) Supplies/services column.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) If only one accounting classification citation applies to a line item or a subline item, the ACRN shall be shown in the supplies/services column near the item description.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) If more than one accounting classification citation applies to a single contract line item, identify each assigned ACRN and the amount of associated funds using informational subline items (see DFARS 204.7104-1(a)).</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) If more than one accounting classification citation applies to a single contract line item, identify each assigned ACRN and the amount of associated funds using informational subline items (see DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-204.7104-1"
+                  href="204.7104-1.dita#DFARS-204.7104-1">204.7104-1</xref>(a)).</p>
          <p outputclass="List3" class="- topic/p ">(ii) Showing the AAI in the contract. If there is more than one AAI in a contract, show the AAI in the supplies/services column of the Schedule next to the ACRN. A sample showing the AAI is as follows:</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="6"
@@ -44,32 +50,38 @@
                         colname="1"
                         colwidth="13*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="29*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="16*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="9*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="5"
                         colname="5"
                         colwidth="15*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="6"
                         colname="6"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
