@@ -2,24 +2,52 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_215.402"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 215.402</ph> Pricing policy.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1) Contracting officers must purchase supplies and services from responsible sources at fair and reasonable prices. The Truth in Negotiations Act (TINA) (10 U.S.C. 2306a and 41 U.S.C. chapter 35) requires offerors to submit certified cost or pricing data if a procurement exceeds the TINA threshold and none of the exceptions to certified cost or pricing data requirements applies. Under TINA, the contracting officer obtains accurate, complete, and current data from offerors to establish a fair and reasonable price (see <ph xtrc="FARxref" class="- topic/ph ">FAR 15.403</ph>). TINA also allows for a price adjustment remedy if it is later found that a contractor did not provide accurate, complete, and current data.</p>
-         <p outputclass="List2" class="- topic/p ">(2) When certified cost or pricing data are not required, and the contracting officer does not have sufficient data to determine price reasonableness, <ph xtrc="FARxref" class="- topic/ph ">FAR 15.402</ph>(a)(2) requires the offeror to provide whatever data the contracting officer needs in order to determine fair and reasonable prices.</p>
-         <p outputclass="List2" class="- topic/p ">(3) Obtaining sufficient data from the offeror is particularly critical in situations where an item is determined to be a commercial item in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR 2.101</ph>and the contract is being awarded on a sole source basis. This includes commercial sales data of items sold in similar quantities and, if such data is insufficient, cost data to support the proposed price.</p>
+         <p outputclass="List2" class="- topic/p ">(1) Contracting officers must
+purchase supplies and services from responsible sources at fair
+and reasonable prices. The Truth in Negotiations Act (TINA) (10
+U.S.C. 2306a and 41 U.S.C. chapter 35) requires offerors to submit
+certified cost or pricing data if a procurement exceeds the TINA
+threshold and none of the exceptions to certified cost or pricing
+data requirements applies. Under TINA, the contracting officer obtains
+accurate, complete, and current data from offerors to establish
+a fair and reasonable price (see <ph xtrc="FARxref" class="- topic/ph ">FAR 15.403</ph>).
+TINA also allows for a price adjustment remedy if it is later found
+that a contractor did not provide accurate, complete, and current
+data.</p>
+         <p outputclass="List2" class="- topic/p ">(2) When certified cost or pricing data
+are not required, and the contracting officer does not have sufficient
+data to determine price reasonableness, <ph xtrc="FARxref" class="- topic/ph ">FAR
+15.402</ph>(a)(2) requires the offeror to provide whatever data
+the contracting officer needs in order to determine fair and reasonable
+prices.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Obtaining sufficient data from the
+offeror is particularly critical in situations where an item is
+determined to be a commercial item in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR 2.101</ph>and the contract is being awarded
+on a sole source basis. This includes commercial sales data of items
+sold in similar quantities and, if such data is insufficient, cost
+data to support the proposed price.</p>
          <p outputclass="List2" class="- topic/p ">(4) See PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+               <xref href="PGI_215.404-1.dita#DFARS-PGI_PGI_215.404-1"
                      base="DFARS-PGI_PGI_215.404-1"
-                     href="PGI_215.404-1.dita#DFARS-PGI_PGI_215.404-1">215.404-1</xref>
-            </ph> and the Department of Defense Guidebook for Acquiring Commercial Items, Part B: Pricing Commercial Items, for more detailed procedures and guidance on obtaining data needed to determine fair and reasonable prices.</p>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">215.404-1</xref>
+            </ph> and
+the Department of Defense Guidebook for Acquiring Commercial Items, <ph class="- topic/ph ">
+               <xref href="https://www.acq.osd.mil/dpap/cpic/cp/docs/Guidebook_Part_B_Commercial_Item_Pricing_20180126.pdf"
+                     format="pdf"
+                     scope="external"
+                     class="- topic/xref ">Part B: Pricing Commercial
+Items</xref>
+            </ph>, for more detailed procedures and guidance on
+obtaining data needed to determine fair and reasonable prices.</p>
       </conbody>
    </concept>
 </dita>

@@ -2,16 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_217.174"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 217.174</ph> Multiyear contracts for electricity from renewable energy sources.</title>
+         <ph props="autonumber" class="- topic/ph ">PGI 217.174</ph> Multiyear contracts
+for electricity from renewable energy sources.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">The business case analysis template and guidance for the head of the contracting activity determination to enter into a contract for a period in excess of 5 years is available here: Renewable Electricity Acquisition Business Case Analysis Template and Guidance.</p>
+         <p class="- topic/p ">The business case analysis template and guidance for
+the head of the contracting activity determination to enter into
+a contract for a period in excess of 5 years is available here: <xref href="http://www.acq.osd.mil/dpap/dars/dfars/changenotice/2010/20100621/2008-D006%20PGI%20Template.doc"
+                  class="- topic/xref "/>.</p>
       </conbody>
    </concept>
 </dita>
