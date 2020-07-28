@@ -20516,14 +20516,22 @@
                       type="topic"
                       audience="i1495335"
                       class="- map/topicref ">
-               <topicref navtitle="PGI 208.405-6 Limiting sources."
+               <topicref navtitle="PGI 208.405 Reserved"
                          base="concept"
-                         href="PGI_208.405-6.dita"
-                         props="PGI 208.405-6"
+                         href="PGI_208.405.dita"
+                         props="PGI 208.405"
                          outputclass="subtopic"
                          type="concept"
-                         audience="DFARS-PGI_PGI_208.405-6"
-                         class="- map/topicref "/>
+                         class="- map/topicref ">
+                  <topicref navtitle="PGI 208.405-6 Limiting sources."
+                            base="concept"
+                            href="PGI_208.405-6.dita"
+                            props="PGI 208.405-6"
+                            outputclass="subtopic"
+                            type="concept"
+                            audience="DFARS-PGI_PGI_208.405-6"
+                            class="- map/topicref "/>
+               </topicref>
                <topicref navtitle="PGI 208.406 Ordering activity responsibilities."
                          base="concept"
                          href="PGI_208.406.dita"
