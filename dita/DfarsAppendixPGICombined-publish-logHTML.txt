@@ -1,0 +1,6 @@
+Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\jre1.8.0_261\lib\tools.jar
+ [gen-list] [DOTJ013E][ERROR] Failed to parse the referenced file 'file:/C:/GSA_Regs/GSA-Acquisition-DFARS/dita/202.101.dita'.: file:/C:/GSA_Regs/GSA-Acquisition-DFARS/dita/202.101.dita Line 36:Attribute "CaseNumber" must be declared for element type "ph".
+    [chunk] C:\Users\Francis\AppData\Local\Temp\temp20200909154149743\202.101.dita (The system cannot find the file specified)
+    [chunk] C:\Users\Francis\AppData\Local\Temp\temp20200909154149743\202.101.dita (The system cannot find the file specified)
+Error: The following error occurred while executing this line:
+C:\GSA-Acquisition-Tools\TOOLS\DITA-OT\dita-ot-2.5.4\plugins\org.dita.base\build_preprocess.xml:321: java.lang.NullPointerException
