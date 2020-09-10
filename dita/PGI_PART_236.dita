@@ -1,52 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS-PGI_PART_236">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="DFARS-PGI_PART_236"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI PART 236</ph> - CONSTRUCTION AND ARCHITECT — ENGINEER CONTRACTS</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="PGI_236.2.dita#i1497261">PGI 236.2 —SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION</xref>
+         <ph props="autonumber" class="- topic/ph ">PGI PART 236</ph> - CONSTRUCTION
+AND ARCHITECT — ENGINEER CONTRACTS</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="PGI_236.2.dita#i1497261"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">PGI
+236.2 —SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="PGI_236.203.dita#DFARS-PGI_PGI_236.203">PGI 236.203 Government estimate of construction costs.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="PGI_236.203.dita#DFARS-PGI_PGI_236.203"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">PGI 236.203 Government estimate of construction
+costs.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="PGI_236.207.dita#DFARS-PGI_PGI_236.207">PGI 236.207 Pricing Fixed-Price Construction Contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="PGI_236.207.dita#DFARS-PGI_PGI_236.207"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">PGI 236.207 Pricing Fixed-Price Construction
+Contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="PGI_236.213.dita#DFARS-PGI_PGI_236.213">PGI 236.213 Special procedures for sealed bidding in construction contracting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="PGI_236.213.dita#DFARS-PGI_PGI_236.213"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">PGI 236.213 Special procedures for sealed
+bidding in construction contracting.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="PGI_236.273.dita#DFARS-PGI_PGI_236.273">PGI 236.273 Construction in foreign countries.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="PGI_236.273.dita#DFARS-PGI_PGI_236.273"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">PGI 236.273 Construction in foreign countries.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="PGI_236.6.dita#i1497274">PGI 236.6 —ARCHITECT-ENGINEER SERVICES</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="PGI_236.6.dita#i1497274"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">PGI 236.6 —ARCHITECT-ENGINEER SERVICES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="PGI_236.602.dita#DFARS-PGI_PGI_236.602">PGI 236.602 Selection of firms for architect-engineer contracts.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="PGI_236.602.dita#DFARS-PGI_PGI_236.602"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">PGI 236.602 Selection of firms for architect-engineer
+contracts.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="PGI_236.602-1.dita#DFARS-PGI_PGI_236.602-1">PGI 236.602-1 Selection criteria.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="PGI_236.602-1.dita#DFARS-PGI_PGI_236.602-1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">PGI 236.602-1 Selection criteria.</xref>
                            </p>
                         </li>
                      </ul>

@@ -1,44 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS-PGI_PART_234">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="DFARS-PGI_PART_234"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI PART 234</ph> - MAJOR SYSTEM ACQUISITION</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="PGI_234.2.dita#i1497211">PGI 234.2 —EARNED VALUE MANAGEMENT SYSTEM</xref>
+         <ph props="autonumber" class="- topic/ph ">PGI PART 234</ph> - MAJOR SYSTEM
+ACQUISITION</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="PGI_234.2.dita#i1497211"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">PGI
+234.2 —EARNED VALUE MANAGEMENT SYSTEM</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="PGI_234.201.dita#DFARS-PGI_PGI_234.201">PGI 234.201 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="PGI_234.201.dita#DFARS-PGI_PGI_234.201"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">PGI 234.201 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="PGI_234.70.dita#i1497249">PGI 234.70 —ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL ITEMS</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="PGI_234.70.dita#i1497249"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">PGI 234.70 —ACQUISITION OF MAJOR WEAPON
+SYSTEMS AS COMMERCIAL ITEMS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="PGI_234.7002.dita#DFARS-PGI_PGI_234.7002">PGI 234.7002 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li rev="Revised June 5, 2020" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="PGI_234.7002.dita#DFARS-PGI_PGI_234.7002"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">PGI 234.7002 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="PGI_234.71.dita#i1497255">PGI 234.71 —COST AND SOFTWARE DATA REPORTING</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="PGI_234.71.dita#i1497255"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">PGI 234.71 —COST AND SOFTWARE DATA REPORTING</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="PGI_234.7100.dita#DFARS-PGI_PGI_234.7100">PGI 234.7100 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="PGI_234.7100.dita#DFARS-PGI_PGI_234.7100"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">PGI 234.7100 Policy.</xref>
                      </p>
                   </li>
                </ul>
