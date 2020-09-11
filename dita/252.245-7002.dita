@@ -2,40 +2,75 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-252.245-7002"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.245-7002</ph> Reporting Loss of Government Property.</title>
+         <ph props="autonumber" class="- topic/ph ">252.245-7002</ph> Reporting Loss
+of Government Property.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="DFARS-245.107"
-                     href="245.107.dita#DFARS-245.107">245.107</xref>
-            </ph>(3), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">REPORTING LOSS OF GOVERNMENT PROPERTY (DEC 2017)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.</i>  As used in this clause—</p>
-         <p class="- topic/p ">“Government property” is defined in the clause at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.245-1</ph>, Government Property. </p>
-         <p class="- topic/p ">“Loss of Government property” means unintended, unforeseen, or accidental loss, damage, or destruction of Government property that reduces the Government’s expected economic benefits of the property.  Loss of Government property does not include purposeful destructive testing, obsolescence, normal wear and tear, or manufacturing defects.  Loss of Government property includes, but is not limited to—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Items that cannot be found after a reasonable search; </p>
-         <p outputclass="List2" class="- topic/p ">(2)  Theft;  </p>
-         <p outputclass="List2" class="- topic/p ">(3)  Damage resulting in unexpected harm to property requiring repair to restore the item to usable condition; or</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Destruction resulting from incidents that render the item useless for its intended purpose or beyond economical repair.</p>
+         <p class="- topic/p ">As prescribed in <ph rev="Revised August 31, 2020" class="- topic/ph ">
+               <ph xtrc="DFARxref" class="- topic/ph ">
+                  <xref href="245.107.dita#DFARS-245.107"
+                        base="DFARS-245.107"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">245.107</xref>
+               </ph>(4),</ph> use
+the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">REPORTING LOSS OF GOVERNMENT PROPERTY
+(DEC 2017)</p>
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this
+clause—</p>
+         <p class="- topic/p ">“Government property” is defined in the clause at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.245-1</ph>, Government Property.</p>
+         <p class="- topic/p ">“Loss of Government property” means unintended, unforeseen, or
+accidental loss, damage, or destruction of Government property that
+reduces the Government’s expected economic benefits of the property.
+Loss of Government property does not include purposeful destructive
+testing, obsolescence, normal wear and tear, or manufacturing defects.
+Loss of Government property includes, but is not limited to—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Items that cannot be found after a
+reasonable search;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Theft;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Damage resulting in unexpected harm
+to property requiring repair to restore the item to usable condition;
+or</p>
+         <p outputclass="List2" class="- topic/p ">(4) Destruction resulting from incidents
+that render the item useless for its intended purpose or beyond
+economical repair.</p>
          <p class="- topic/p ">“Unit acquisition cost” means—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  For Government-furnished property, the dollar value assigned by the Government and identified in the contract; and  </p>
-         <p outputclass="List2" class="- topic/p ">(2)  For Contractor-acquired property, the cost derived from the Contractor’s records that reflect consistently applied, generally acceptable accounting principles.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Reporting loss of Government property.</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The Contractor shall use the Defense Contract Management Agency (DCMA) eTools software application for reporting loss of Government property.  Reporting value shall be at unit acquisition cost.  The eTools “LTDD of Government Property” toolset can be accessed from the DCMA home page External Web Access Management application at http://www.dcma.mil/WBT/propertyloss/.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Unless otherwise provided for in this contract, the requirements of paragraph (b)(1) of this clause do not apply to normal and reasonable inventory adjustments, i.e., losses of low-risk consumable material such as common hardware, as agreed to by the Contractor and the Government Property Administrator.  Such losses are typically a product of normal process variation.  The Contractor shall ensure that its property management system provides adequate management control measures, e.g., statistical process controls, as a means of managing such variation. </p>
-         <p outputclass="List3" class="- topic/p ">(3)  The Contractor shall report losses of Government property outside normal process variation, e.g., losses due to—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Theft; </p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Inadequate storage; </p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Lack of physical security; or </p>
-         <p outputclass="List3" class="- topic/p ">(iv)  “Acts of God.”   </p>
-         <p outputclass="List2" class="- topic/p ">(4)  This reporting requirement does not change any liability provisions or other reporting requirements that may exist under this contract.</p>
+         <p outputclass="List2" class="- topic/p ">(1) For Government-furnished property,
+the dollar value assigned by the Government and identified in the
+contract; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) For Contractor-acquired property, the
+cost derived from the Contractor’s records that reflect consistently
+applied, generally acceptable accounting principles.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Reporting loss of Government property.</p>
+         <p outputclass="List2" class="- topic/p ">(1) The Contractor shall use the Defense
+Contract Management Agency (DCMA) eTools software application for
+reporting loss of Government property. Reporting value shall be
+at unit acquisition cost. The eTools “LTDD of Government Property”
+toolset can be accessed from the DCMA home page External Web Access
+Management application at http://www.dcma.mil/WBT/propertyloss/.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Unless otherwise provided for in this
+contract, the requirements of paragraph (b)(1) of this clause do
+not apply to normal and reasonable inventory adjustments, i.e.,
+losses of low-risk consumable material such as common hardware,
+as agreed to by the Contractor and the Government Property Administrator.
+Such losses are typically a product of normal process variation.
+The Contractor shall ensure that its property management system
+provides adequate management control measures, e.g., statistical
+process controls, as a means of managing such variation.</p>
+         <p outputclass="List3" class="- topic/p ">(3) The Contractor shall report losses
+of Government property outside normal process variation, e.g., losses
+due to—</p>
+         <p outputclass="List3" class="- topic/p ">(i) Theft;</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Inadequate storage;</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Lack of physical security; or</p>
+         <p outputclass="List3" class="- topic/p ">(iv) “Acts of God.”</p>
+         <p outputclass="List2" class="- topic/p ">(4) This reporting requirement does not
+change any liability provisions or other reporting requirements
+that may exist under this contract.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>

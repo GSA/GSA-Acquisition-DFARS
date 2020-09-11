@@ -415,7 +415,7 @@
                             class="- map/topicref "/>
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 203.2 — DELETED NO DFARS TEXT"
+            <topicref navtitle="SUBPART 203.2 —DELETED NO DFARS TEXT"
                       href="SUBPART_203.2.dita"
                       outputclass="SubPart"
                       type="topic"
@@ -5582,7 +5582,7 @@
                             audience="DFARS-219.502-1"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="219.502-2 Total set-asides."
+                  <topicref navtitle="219.502-2 Small business set-asides."
                             href="219.502-2.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -5590,15 +5590,14 @@
                             audience="DFARS-219.502-2"
                             base="concept"
                             class="- map/topicref "/>
+                  <topicref navtitle="219.502-8 Rejecting Small Business Administration recommendations."
+                            href="219.502-8.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="219.502-8"
+                            base="concept"
+                            class="- map/topicref "/>
                </topicref>
-               <topicref navtitle="219.505 Rejecting Small Business Administration recommendations."
-                         href="219.505.dita"
-                         outputclass="subtopic"
-                         type="concept"
-                         props="219.505"
-                         audience="DFARS-219.505"
-                         base="concept"
-                         class="- map/topicref "/>
             </topicref>
             <topicref navtitle="SUBPART 219.6 —CERTIFICATES OF COMPETENCY AND DETERMINATIONS OF RESPONSIBILITY"
                       href="SUBPART_219.6.dita"
@@ -5773,7 +5772,7 @@
                          audience="DFARS-219.806"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="219.808 Contract negotiations."
+               <topicref navtitle="219.808 Contract negotiation."
                          href="219.808.dita"
                          outputclass="subtopic"
                          type="concept"
@@ -18561,12 +18560,19 @@
                          props="252.245"
                          base="concept"
                          class="- map/topicref ">
-                  <topicref navtitle="252.245–7000  Government-Furnished Mapping, Charting, and Geodesy Property."
+                  <topicref navtitle="252.245-7000 Government-Furnished Mapping, Charting, and Geodesy Property."
                             href="252.245_7000.dita"
                             outputclass="subtopic"
                             type="concept"
                             props="252.245-7000"
                             audience="DFARS-252.245_7000"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="252.245-7001 Tagging, Labeling, and Marking of Government-Furnished Property."
+                            href="252.245_7001.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="252.245-7000"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="252.245-7002 Reporting Loss of Government Property."
