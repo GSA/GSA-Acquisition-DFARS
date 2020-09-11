@@ -340,7 +340,7 @@
                       type="concept"
                       audience="DFARS-203.070"
                       class="- map/topicref "/>
-            <topicref navtitle="SUBPART 203.1 —SAFEGUARDS"
+            <topicref navtitle="SUBPART&#xA;203.1 —SAFEGUARDS"
                       base="NoTitle"
                       href="SUBPART_203.1.dita"
                       props="SUBPART 203.1"
@@ -415,7 +415,7 @@
                             class="- map/topicref "/>
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART&#xA;203.2 — DELETED NO DFARS TEXT"
+            <topicref navtitle="SUBPART&#xA;203.2 —DELETED NO DFARS TEXT"
                       base="NoTitle"
                       href="SUBPART_203.2.dita"
                       props="SUBPART 203.2"
@@ -439,7 +439,7 @@
                       type="topic"
                       audience="DFARS-SUBPART_203.4"
                       class="- map/topicref "/>
-            <topicref navtitle="SUBPART 203.5 —OTHER IMPROPER BUSINESS PRACTICES"
+            <topicref navtitle="SUBPART&#xA;203.5 —OTHER IMPROPER BUSINESS PRACTICES"
                       base="NoTitle"
                       href="SUBPART_203.5.dita"
                       props="SUBPART 203.5"
@@ -2593,7 +2593,7 @@
                             type="concept"
                             audience="DFARS-209.571-3"
                             class="- map/topicref "/>
-                  <topicref navtitle="209.571-4 Mitigation"
+                  <topicref navtitle="209.571-4 Mitigation."
                             base="concept"
                             href="209.571-4.dita"
                             props="209.571-4"
@@ -4049,7 +4049,7 @@
                                type="concept"
                                audience="DFARS-215.404-71-2"
                                class="- map/topicref "/>
-                     <topicref navtitle="215.404-71-3 Contract type risk and working capital adjustment."
+                     <topicref navtitle="215.404-71-3 Contract type risk and working capital adjustment. Table"
                                base="concept"
                                href="215.404-71-3.dita"
                                props="215.404-71-3"
@@ -4108,9 +4108,9 @@
                          base="concept"
                          href="215.406.dita"
                          props="215.406"
+                         outputclass="subtopic"
                          type="concept"
-                         class="- map/topicref "
-                         outputclass="subtopic">
+                         class="- map/topicref ">
                   <topicref navtitle="215.406-1 Prenegotiation objectives."
                             base="concept"
                             href="215.406-1.dita"
@@ -4123,9 +4123,9 @@
                             base="concept"
                             href="215.406-2.dita"
                             props="215.406-1"
+                            outputclass="subtopic"
                             type="concept"
-                            class="- map/topicref "
-                            outputclass="subtopic"/>
+                            class="- map/topicref "/>
                   <topicref navtitle="215.406-3 Documenting the negotiation."
                             base="concept"
                             href="215.406-3.dita"
@@ -4566,7 +4566,7 @@
                             audience="DFARS-216.505-70"
                             class="- map/topicref "/>
                </topicref>
-               <topicref navtitle="216.506 Solicitation provisions and contract clauses."
+               <topicref navtitle="216.506 Solicitation provisions&#xA;and contract clauses."
                          base="concept"
                          href="216.506.dita"
                          props="216.506"
@@ -5582,7 +5582,7 @@
                             type="concept"
                             audience="DFARS-219.502-1"
                             class="- map/topicref "/>
-                  <topicref navtitle="219.502-2 Total set-asides."
+                  <topicref navtitle="219.502-2 Small&#xA;business set-asides."
                             base="concept"
                             href="219.502-2.dita"
                             props="219.502-2"
@@ -5590,15 +5590,14 @@
                             type="concept"
                             audience="DFARS-219.502-2"
                             class="- map/topicref "/>
+                  <topicref navtitle="219.502-8 Rejecting&#xA;Small Business Administration recommendations."
+                            base="concept"
+                            href="219.502-8.dita"
+                            props="219.502-8"
+                            outputclass="subtopic"
+                            type="concept"
+                            class="- map/topicref "/>
                </topicref>
-               <topicref navtitle="219.505 Rejecting Small Business Administration recommendations."
-                         base="concept"
-                         href="219.505.dita"
-                         props="219.505"
-                         outputclass="subtopic"
-                         type="concept"
-                         audience="DFARS-219.505"
-                         class="- map/topicref "/>
             </topicref>
             <topicref navtitle="SUBPART 219.6 —CERTIFICATES OF COMPETENCY AND DETERMINATIONS OF RESPONSIBILITY"
                       base="NoTitle"
@@ -5773,7 +5772,7 @@
                          type="concept"
                          audience="DFARS-219.806"
                          class="- map/topicref "/>
-               <topicref navtitle="219.808 Contract negotiations."
+               <topicref navtitle="219.808 Contract&#xA;negotiation."
                          base="concept"
                          href="219.808.dita"
                          props="219.808"
@@ -15253,6 +15252,13 @@
                       type="topic"
                       audience="DFARS-SUBPART_251.1"
                       class="- map/topicref ">
+               <topicref navtitle="251.101 Policy."
+                         base="concept"
+                         href="251.101.dita"
+                         props="251.101"
+                         outputclass="subtopic"
+                         type="concept"
+                         class="- map/topicref "/>
                <topicref navtitle="251.102 Authorization to use Government supply sources."
                          base="concept"
                          href="251.102.dita"
@@ -16058,7 +16064,7 @@
                             type="concept"
                             audience="DFARS-252.216-7004"
                             class="- map/topicref "/>
-                  <topicref navtitle="252.216-7005 Reserved."
+                  <topicref navtitle="252.216-7005 [Reserved]."
                             base="concept"
                             href="252.216-7005.dita"
                             props="252.216-7005"
@@ -16066,7 +16072,7 @@
                             type="concept"
                             audience="DFARS-252.216-7005"
                             class="- map/topicref "/>
-                  <topicref navtitle="252.216-7006 Ordering."
+                  <topicref navtitle="252.216-7006 [Reserved]."
                             base="concept"
                             href="252.216-7006.dita"
                             props="252.216-7006"
@@ -18554,7 +18560,7 @@
                          outputclass="subtopic"
                          type="concept"
                          class="- map/topicref ">
-                  <topicref navtitle="252.245–7000  Government-Furnished Mapping, Charting, and Geodesy Property."
+                  <topicref navtitle="252.245-7000 Government-Furnished&#xA;Mapping, Charting, and Geodesy Property."
                             base="concept"
                             href="252.245_7000.dita"
                             props="252.245-7000"
@@ -18562,7 +18568,14 @@
                             type="concept"
                             audience="DFARS-252.245_7000"
                             class="- map/topicref "/>
-                  <topicref navtitle="252.245-7002 Reporting Loss of Government Property."
+                  <topicref navtitle="252.245-7001 Tagging, Labeling,&#xA;and Marking of Government-Furnished Property."
+                            base="concept"
+                            href="252.245_7001.dita"
+                            props="252.245-7000"
+                            outputclass="subtopic"
+                            type="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="252.245-7002 Reporting Loss&#xA;of Government Property."
                             base="concept"
                             href="252.245-7002.dita"
                             props="252.245-7002"
@@ -18570,7 +18583,7 @@
                             type="concept"
                             audience="DFARS-252.245-7002"
                             class="- map/topicref "/>
-                  <topicref navtitle="252.245-7003 Contractor Property Management System Administration."
+                  <topicref navtitle="252.245-7003 Contractor Property&#xA;Management System Administration."
                             base="concept"
                             href="252.245-7003.dita"
                             props="252.245-7003"
@@ -18946,7 +18959,7 @@
                          outputclass="subtopic"
                          type="concept"
                          class="- map/topicref ">
-                  <topicref navtitle="252.251-7000 Ordering From Government Supply Sources."
+                  <topicref navtitle="252.251-7000 Ordering From&#xA;Government Supply Sources."
                             base="concept"
                             href="252.251-7000.dita"
                             props="252.251-7000"
@@ -19617,7 +19630,7 @@
                          type="concept"
                          audience="id2064F0S0NE4"
                          class="- map/topicref "/>
-               <topicref navtitle="F- 502 Distribution of DD FORM 250 AND DD FORM 250C."
+               <topicref navtitle="F- 502 Distribution of DD FORM 250 AND DD FORM 250C. Material Inspection and Receiving Report Table 1 - Standard Distribution Material Inspection and Receiving Report Table 2 - Special Distribution"
                          base="concept"
                          href="Appendix-id2064F0S0NO9.dita"
                          props="Appendix-id2064F0S0NO9"
@@ -20370,7 +20383,7 @@
                          type="concept"
                          audience="DFARS-PGI_PGI_204.201"
                          class="- map/topicref "/>
-               <topicref navtitle="PGI 204.270"
+               <topicref navtitle="PGI 204.270Electronic Document Access. "
                          base="concept"
                          href="PGI_204.270.dita"
                          props="PGI 204.270"
@@ -22035,9 +22048,9 @@
                          base="concept"
                          href="PGI_215.406.dita"
                          props="PGI 215.406"
+                         outputclass="subtopic"
                          type="concept"
-                         class="- map/topicref "
-                         outputclass="subtopic">
+                         class="- map/topicref ">
                   <topicref navtitle="PGI 215.406-1 Prenegotiation&#xA;objectives."
                             base="concept"
                             href="PGI_215.406-1.dita"
@@ -22050,9 +22063,9 @@
                             base="concept"
                             href="PGI_215.406-2.dita"
                             props="PGI 215.406-2"
+                            outputclass="subtopic"
                             type="concept"
-                            class="- map/topicref "
-                            outputclass="subtopic"/>
+                            class="- map/topicref "/>
                   <topicref navtitle="PGI 215.406-3 Documenting the&#xA;negotiation."
                             base="concept"
                             href="PGI_215.406-3.dita"
@@ -22066,9 +22079,9 @@
                          base="concept"
                          href="PGI_215.407.dita"
                          props="PGI 215.407"
+                         outputclass="subtopic"
                          type="concept"
-                         class="- map/topicref "
-                         outputclass="subtopic">
+                         class="- map/topicref ">
                   <topicref navtitle="PGI 215.407-2 Make-or-buy programs."
                             base="concept"
                             href="PGI_215.407-2.dita"
@@ -24763,7 +24776,7 @@
                 type="topic"
                 audience="PGI_DFAR_f"
                 class="- map/topicref ">
-         <topicref navtitle="PGI PART 234 - MAJOR SYSTEM ACQUISITION"
+         <topicref navtitle="PGI PART 234 - MAJOR SYSTEM&#xA;ACQUISITION"
                    base="NoTitle"
                    href="PGI_PART_234.dita"
                    props="PGI PART_234"
@@ -24840,7 +24853,7 @@
                       audience="DFARS-PGI_PGI_235.010"
                       class="- map/topicref "/>
          </topicref>
-         <topicref navtitle="PGI PART 236 - CONSTRUCTION AND ARCHITECT — ENGINEER CONTRACTS"
+         <topicref navtitle="PGI PART 236 - CONSTRUCTION&#xA;AND ARCHITECT — ENGINEER CONTRACTS"
                    base="NoTitle"
                    href="PGI_PART_236.dita"
                    props="PGI PART_236"
@@ -24924,7 +24937,7 @@
                    type="topic"
                    audience="DFARS-PGI_PART_237"
                    class="- map/topicref ">
-            <topicref navtitle="PGI 237.1 —SERVICE CONTRACTS—GENERAL"
+            <topicref navtitle="PGI 237.1 —SERVICE&#xA;CONTRACTS—GENERAL"
                       base="NoTitle"
                       href="PGI_237.1.dita"
                       props="PGI 237.1"
@@ -25046,8 +25059,8 @@
                       type="topic"
                       audience="i1497319"
                       class="- map/topicref ">
-               <topicref navtitle="PGI 237.270 Acquisition of audit services."
-                         base="concept"
+               <topicref navtitle="PGI 237.270 Acquisition of&#xA;audit services."
+                         base="NoTitle"
                          href="PGI_237.270.dita"
                          props="PGI 237.270"
                          outputclass="subtopic"
@@ -25055,11 +25068,11 @@
                          audience="DFARS-PGI_PGI_237.270"
                          class="- map/topicref "/>
             </topicref>
-            <topicref navtitle="PGI 237.5 MANAGEMENT&#xA;OVERSIGHT OF SERVICE CONTRACTS"
-                      base="concept"
+            <topicref navtitle="PGI 237.5 —MANAGEMENT&#xA;OVERSIGHT OF SERVICE CONTRACTS"
+                      base="NoTitle"
                       href="PGI_237.5.dita"
                       props="PGI 237.5"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       type="concept"
                       audience="DFARS-PGI_PGI_237.5"
                       class="- map/topicref ">
@@ -25072,7 +25085,7 @@
                          audience="DFARS-PGI_PGI_237.503"
                          class="- map/topicref "/>
             </topicref>
-            <topicref navtitle="PGI 237.70 —MORTUARY SERVICES"
+            <topicref navtitle="PGI 237.70 —MORTUARY&#xA;SERVICES"
                       base="NoTitle"
                       href="PGI_237.70.dita"
                       props="PGI 237.70"
@@ -25241,7 +25254,7 @@
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI PART 241 - ACQUISITION OF UTILITY SERVICES"
+         <topicref navtitle="PGI PART 241 - ACQUISITION&#xA;OF UTILITY SERVICES"
                    base="NoTitle"
                    href="PGI_PART_241.dita"
                    props="PGI PART_241"
@@ -25249,7 +25262,7 @@
                    type="topic"
                    audience="DFARS-PGI_PART_241"
                    class="- map/topicref ">
-            <topicref navtitle="PGI 241.1— GENERAL"
+            <topicref navtitle="PGI 241.1—&#xA;GENERAL"
                       base="NoTitle"
                       href="PGI_241.1--.dita"
                       props="PGI 241.1--"
@@ -26219,6 +26232,13 @@
                       type="topic"
                       audience="i1498004"
                       class="- map/topicref ">
+               <topicref navtitle="PGI&#xA;251.101 Policy."
+                         base="concept"
+                         href="PGI_251.101.dita"
+                         props="PGI 251.101"
+                         outputclass="subtopic"
+                         type="concept"
+                         class="- map/topicref "/>
                <topicref navtitle="PGI 251.102 Authorization to use Government supply sources."
                          base="concept"
                          href="PGI_251.102.dita"

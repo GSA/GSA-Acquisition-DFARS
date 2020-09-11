@@ -2,19 +2,24 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_237.270"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="DFARS-PGI_PGI_237.270"
+          outputclass="3"
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 237.270</ph> Acquisition of audit services.</title>
-      <conbody class="- topic/body  concept/conbody ">
+         <ph props="autonumber" class="- topic/ph ">PGI 237.270</ph> Acquisition of
+audit services.</title>
+      <body class="- topic/body ">
          <p class="- topic/p ">The following DoD publications govern the conduct of audits:</p>
-         <p outputclass="List2" class="- topic/p ">(1) DoDI 7600.2, Audit Policies - Provides DoD audit policies.</p>
-         <p outputclass="List2" class="- topic/p ">(2) DoDI 7600.6, Audit of Nonappropriated Fund Instrumentalities and Related Activities - Provides guidance to audit organizations for audits of nonappropriated fund organizations.</p>
-         <p outputclass="List2" class="- topic/p ">(3) DoD 7600.7-M, DoD Audit Manual - Provides policy and guidance to DoD audit organizations for the monitoring of audit services provided by non-Federal auditors.</p>
-      </conbody>
-   </concept>
+         <p outputclass="List2" class="- topic/p ">(1) DoDI 7600.2, Audit Policies - Provides
+DoD audit policies.</p>
+         <p outputclass="List2" class="- topic/p ">(2) DoDI 7600.6, Audit of Nonappropriated
+Fund Instrumentalities and Related Activities - Provides guidance
+to audit organizations for audits of nonappropriated fund organizations.</p>
+         <p outputclass="List2" class="- topic/p ">(3) DoD 7600.7-M, DoD Audit Manual - Provides
+policy and guidance to DoD audit organizations for the monitoring
+of audit services provided by non-Federal auditors.</p>
+      </body>
+   </topic>
 </dita>

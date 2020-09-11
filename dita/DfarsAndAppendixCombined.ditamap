@@ -415,7 +415,7 @@
                             class="- map/topicref "/>
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 203.2 — DELETED NO DFARS TEXT"
+            <topicref navtitle="SUBPART 203.2 —DELETED NO DFARS TEXT"
                       href="SUBPART_203.2.dita"
                       outputclass="SubPart"
                       type="topic"
@@ -2593,7 +2593,7 @@
                             audience="DFARS-209.571-3"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="209.571-4 Mitigation"
+                  <topicref navtitle="209.571-4 Mitigation."
                             href="209.571-4.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -4049,7 +4049,7 @@
                                audience="DFARS-215.404-71-2"
                                base="concept"
                                class="- map/topicref "/>
-                     <topicref navtitle="215.404-71-3 Contract type risk and working capital adjustment."
+                     <topicref navtitle="215.404-71-3 Contract type risk and working capital adjustment. Table"
                                href="215.404-71-3.dita"
                                type="concept"
                                props="215.404-71-3"
@@ -5582,7 +5582,7 @@
                             audience="DFARS-219.502-1"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="219.502-2 Total set-asides."
+                  <topicref navtitle="219.502-2 Small business set-asides."
                             href="219.502-2.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -5590,15 +5590,14 @@
                             audience="DFARS-219.502-2"
                             base="concept"
                             class="- map/topicref "/>
+                  <topicref navtitle="219.502-8 Rejecting Small Business Administration recommendations."
+                            href="219.502-8.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="219.502-8"
+                            base="concept"
+                            class="- map/topicref "/>
                </topicref>
-               <topicref navtitle="219.505 Rejecting Small Business Administration recommendations."
-                         href="219.505.dita"
-                         outputclass="subtopic"
-                         type="concept"
-                         props="219.505"
-                         audience="DFARS-219.505"
-                         base="concept"
-                         class="- map/topicref "/>
             </topicref>
             <topicref navtitle="SUBPART 219.6 —CERTIFICATES OF COMPETENCY AND DETERMINATIONS OF RESPONSIBILITY"
                       href="SUBPART_219.6.dita"
@@ -5773,7 +5772,7 @@
                          audience="DFARS-219.806"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="219.808 Contract negotiations."
+               <topicref navtitle="219.808 Contract negotiation."
                          href="219.808.dita"
                          outputclass="subtopic"
                          type="concept"
@@ -15253,6 +15252,13 @@
                       audience="DFARS-SUBPART_251.1"
                       base="NoTitle"
                       class="- map/topicref ">
+               <topicref navtitle="251.101 Policy."
+                         href="251.101.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="251.101"
+                         base="concept"
+                         class="- map/topicref "/>
                <topicref navtitle="251.102 Authorization to use Government supply sources."
                          href="251.102.dita"
                          outputclass="subtopic"
@@ -16058,7 +16064,7 @@
                             audience="DFARS-252.216-7004"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="252.216-7005 Reserved."
+                  <topicref navtitle="252.216-7005 [Reserved]."
                             href="252.216-7005.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -16066,7 +16072,7 @@
                             audience="DFARS-252.216-7005"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="252.216-7006 Ordering."
+                  <topicref navtitle="252.216-7006 [Reserved]."
                             href="252.216-7006.dita"
                             outputclass="subtopic"
                             type="concept"
@@ -18554,12 +18560,19 @@
                          props="252.245"
                          base="concept"
                          class="- map/topicref ">
-                  <topicref navtitle="252.245–7000  Government-Furnished Mapping, Charting, and Geodesy Property."
+                  <topicref navtitle="252.245-7000 Government-Furnished Mapping, Charting, and Geodesy Property."
                             href="252.245_7000.dita"
                             outputclass="subtopic"
                             type="concept"
                             props="252.245-7000"
                             audience="DFARS-252.245_7000"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="252.245-7001 Tagging, Labeling, and Marking of Government-Furnished Property."
+                            href="252.245_7001.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="252.245-7000"
                             base="concept"
                             class="- map/topicref "/>
                   <topicref navtitle="252.245-7002 Reporting Loss of Government Property."
@@ -19617,7 +19630,7 @@
                          audience="id2064F0S0NE4"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="F- 502 Distribution of DD FORM 250 AND DD FORM 250C."
+               <topicref navtitle="F- 502 Distribution of DD FORM 250 AND DD FORM 250C. Material Inspection and Receiving Report Table 1 - Standard Distribution Material Inspection and Receiving Report Table 2 - Special Distribution"
                          href="Appendix-id2064F0S0NO9.dita"
                          outputclass="subtopic"
                          type="concept"
