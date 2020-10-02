@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-228.102-1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">228.102-1</ph> General.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">The requirement for performance and payment bonds is waived for cost-reimbursement contracts. However, for cost-type contracts with fixed-price construction subcontracts over $35,000, require the prime contractor to obtain from each of its construction subcontractors performance and payment protections in favor of the prime contractor as follows:</p>
-         <p outputclass="List2" class="- topic/p ">(1) For fixed-price construction subcontracts over $35,000, but not exceeding $150,000, payment protection sufficient to pay labor and material costs, using any of the alternatives listed at <ph xtrc="FARxref" class="- topic/ph ">FAR 28.102-1</ph>(b)(1).</p>
-         <p outputclass="List2" class="- topic/p ">(2) For fixed-price construction subcontracts over $150,000—</p>
-         <p outputclass="List3" class="- topic/p ">(i) A payment bond sufficient to pay labor and material costs; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) A performance bond in an equal amount if available at no additional cost.</p>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="DFARS-228.102-1">
+      <title>
+         <ph props="autonumber">228.102-1</ph> General.</title>
+      <conbody>
+         <p>The requirement for performance and payment bonds is waived for cost-reimbursement contracts. However, for cost-type contracts with fixed-price construction subcontracts over $<ph otherprops="" outputclass="" props="" xtrc="" xtrf="">40</ph>,000, require the prime contractor to obtain from each of its construction subcontractors performance and payment protections in favor of the prime contractor as follows:</p>
+         <p outputclass="List2">(1) For fixed-price construction subcontracts over $35,000, but not exceeding $150,000, payment protection sufficient to pay labor and material costs, using any of the alternatives listed at <ph xtrc="FARxref">FAR 28.102-1</ph>(b)(1).</p>
+         <p outputclass="List2">(2) For fixed-price construction subcontracts over $150,000—</p>
+         <p outputclass="List3">(i) A payment bond sufficient to pay labor and material costs; and</p>
+         <p outputclass="List3">(ii) A performance bond in an equal amount if available at no additional cost.</p>
       </conbody>
    </concept>
 </dita>
