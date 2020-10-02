@@ -1,37 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-225.7018-2"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.7018-2</ph> Restriction.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Except as provided in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7018-3"
-                  href="225.7018-3.dita#DFARS-225.7018-3">225.7018-3</xref> and <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7018-4"
-                  href="225.7018-4.dita#DFARS-225.7018-4">225.7018-4</xref>, do not acquire any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material (10 U.S.C. 2533c).</p>
-         <p outputclass="List1" class="- topic/p ">(b)(1) For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes -</p>
-         <p outputclass="List3" class="- topic/p ">(i) Melting samarium with cobalt to produce the samarium-cobalt alloy or melting neodymium with iron and boron to produce the neodymium-iron-boron alloy; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) All subsequent phases of production of the magnets, such as powder formation, pressing, sintering or bonding, and magnetization.</p>
-         <p outputclass="List2" class="- topic/p ">(2) The restriction on melting and producing of samarium-cobalt magnets is in addition to any applicable restrictions on melting of specialty metals at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7003"
-                  href="225.7003.dita#DFARS-225.7003">225.7003</xref> and the clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.225-7009"
-                  href="252.225-7009.dita#DFARS-252.225-7009">252.225-7009</xref>, Restriction on Acquisition of Certain Articles Containing Specialty Metals.</p>
-         <p outputclass="List1" class="- topic/p ">(c) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes–</p>
-         <p outputclass="List2" class="- topic/p ">(1) Atomization;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Calcination and reduction into powder;</p>
-         <p outputclass="List2" class="- topic/p ">(3) Final consolidation of non-melt derived metal powders; and</p>
-         <p outputclass="List2" class="- topic/p ">(4) All subsequent phases of production of tungsten metal powder, tungsten heavy alloy, or any finished or semi-finished component containing tungsten heavy alloy.</p>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="DFARS-225.7018-2">
+      <title>
+         <ph props="autonumber">225.7018-2</ph> Restriction.</title>
+      <conbody>
+         <p outputclass="List1">(a) Except as provided in <xref base="DFARS-225.7018-3"
+                  href="225.7018-3.dita#DFARS-225.7018-3"
+                  outputclass="fm:ParaNumOnly">225.7018-3</xref> and <xref base="DFARS-225.7018-4"
+                  href="225.7018-4.dita#DFARS-225.7018-4"
+                  outputclass="fm:ParaNumOnly">225.7018-4</xref>, do not acquire any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material (10 U.S.C. 2533c).</p>
+         <p outputclass="List1">(b)(1) For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes -</p>
+         <p outputclass="List3">(i) Melting samarium with cobalt to produce the samarium-cobalt alloy or melting neodymium with iron and boron to produce the neodymium-iron-boron alloy; and</p>
+         <p outputclass="List3">(ii) All subsequent phases of production of the magnets, such as powder formation, pressing, sintering or bonding, and magnetization.</p>
+         <p outputclass="List2">(2) The restriction on melting and producing of samarium-cobalt magnets is in addition to any applicable restrictions on melting of specialty metals at <xref base="DFARS-225.7003"
+                  href="225.7003.dita#DFARS-225.7003"
+                  outputclass="fm:ParaNumOnly">225.7003</xref> and the clause at <xref base="DFARS-252.225-7009"
+                  href="252.225-7009.dita#DFARS-252.225-7009"
+                  outputclass="fm:ParaNumOnly">252.225-7009</xref>, Restriction on Acquisition of Certain Articles Containing Specialty Metals.</p>
+         <p outputclass="List1">(c) For production of tantalum metal and alloys, this restriction includes the reduction of tantalum chemicals such as oxides, chlorides, or potassium salts, to metal powder and all subsequent phases of production of tantalum metal and alloys, such as consolidation of metal powders.</p>
+         <p outputclass="List1">(<ph otherprops="" outputclass="" props="" xtrc="" xtrf="">d</ph>) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes–</p>
+         <p outputclass="List2">(1) Atomization;</p>
+         <p outputclass="List2">(2) Calcination and reduction into powder;</p>
+         <p outputclass="List2">(3) Final consolidation of non-melt derived metal powders; and</p>
+         <p outputclass="List2">(4) All subsequent phases of production of tungsten metal powder, tungsten heavy alloy, or any finished or semi-finished component containing tungsten heavy alloy.</p>
       </conbody>
    </concept>
 </dita>
