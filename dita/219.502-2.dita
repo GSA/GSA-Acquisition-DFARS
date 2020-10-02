@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-219.502-2"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title rev="Revised August 31, 2020" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">219.502-2</ph> Small
-business set-asides.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p rev="Revised August 31, 2020"
-            outputclass="List1"
-            class="- topic/p ">Unless
-the contracting officer determines that the criteria for set-aside
-cannot be met, set aside for small business concerns acquisitions
-for—</p>
-         <p rev="Revised August 31, 2020"
-            outputclass="List2"
-            class="- topic/p ">(1) Construction,
-including maintenance and repairs, under $2.5 million;</p>
-         <p rev="Revised August 31, 2020"
-            outputclass="List2"
-            class="- topic/p ">(2) Dredging
-under $1.5 million; and</p>
-         <p rev="Revised August 31, 2020"
-            outputclass="List2"
-            class="- topic/p ">(3) Architect-engineer
-services for military construction or family housing projects under
-$1 million (10 U.S.C. 2855).</p>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="DFARS-219.502-2">
+      <title>
+         <ph props="autonumber">219.502-2</ph> Small business set-asides.</title>
+      <conbody>
+         <p outputclass="List1">Unless the contracting officer determines that the criteria for set-aside cannot be met, set aside for small business concerns acquisitions for—</p>
+         <p outputclass="List2">(1) Construction, including maintenance and repairs, under $<ph otherprops="" outputclass="" props="" xtrc="" xtrf="">3</ph> million;</p>
+         <p outputclass="List2">(2) Dredging under $1.5 million; and</p>
+         <p outputclass="List2">(3) Architect-engineer services for military construction or family housing projects under $1 million (10 U.S.C. 2855).</p>
       </conbody>
    </concept>
 </dita>
