@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_225.7018-3"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 225.7018-3</ph> Exceptions. </title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(c)(1)(i) Commercially available off-the-shelf samarium-cobalt magnets are still subject to the restrictions of 10 U.S.C. 2533b unless incorporated into commercially available off-the-shelf end items or subsystems (see <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="DFARS-PGI_PGI_225.7003-3"
-                     href="PGI_225.7003-3.dita#DFARS-PGI_PGI_225.7003-3">225.7003-3</xref>
-            </ph>(b)(2)(i)(C)).</p>
-         <p outputclass="List3" class="- topic/p ">(ii) A samarium-cobalt magnet that is exempt from 10 U.S.C. 2533c because it is incorporated in an electronic device is still subject to the restrictions of 10 U.S.C. 2533b, because the exemption under that statute applies to “electronic component,” which excludes any high performance magnet used in the electronic component (see definition of “electronic component” at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7003-1"
-                  href="225.7003-1.dita#DFARS-225.7003-1">225.7003-1</xref>).</p>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="DFARS-PGI_PGI_225.7018-3">
+      <title>
+         <ph props="autonumber">PGI 225.7018-3</ph> Exceptions.</title>
+      <conbody>
+         <p outputclass="List1">(c)(1) Commercially available off-the-shelf samarium-cobalt magnets are still subject to the restrictions of 10 U.S.C. 2533b unless incorporated into commercially available off-the-shelf end items or subsystems (see (b)(2)(i)(C)).</p>
+         <p outputclass="List3">(<ph otherprops=""
+                outputclass=""
+                platform=""
+                props=""
+                rev="Revised October 1, 2020"
+                xtrc=""
+                xtrf="">2</ph>) A samarium-cobalt magnet that is exempt from 10 U.S.C. 2533c because it is incorporated in an electronic device is still subject to the restrictions of 10 U.S.C. 2533b, because the exemption under that statute applies to “electronic component,” which excludes any high performance magnet used in the electronic component (see definition of “electronic component” at <xref base="DFARS-225.7003-1"
+                  href="225.7003-1.dita#DFARS-225.7003-1"
+                  outputclass="fm:ParaNumOnly">225.7003-1</xref>).</p>
       </conbody>
    </concept>
 </dita>

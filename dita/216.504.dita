@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
 <dita>
-   <concept id="DFARS-216.504">
+   <topic id="DFARS-SUBPART_206.3">
       <title>
          <ph props="autonumber">216.504</ph> Indefinite-quantity contracts.</title>
       <conbody>
@@ -12,10 +12,12 @@
          <p outputclass="List3">(ii)(D)<i>(1)</i> The senior procurement executive has the authority to make the determination authorized in <ph xtrc="FARxref">FAR 16.504</ph>(c)(1)(ii)(D)<i>(1)</i>.</p>
          <p outputclass="List7">(<i>i</i>) In accordance with section 816 of the National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232), when making the determination at <ph xtrc="FARxref">FAR 16.504</ph>(c)(1)(ii)(D)(<i>1</i>)(<i>i</i>), the senior procurement executive shall determine that the task or delivery orders expected under the contract are so integrally related that only a single source can “efficiently perform the work,” instead of “reasonably perform the work” as required by the FAR.</p>
          <p outputclass="List6">(<i>2</i>) The congressional notification requirement at <ph xtrc="FARxref">FAR 16.504</ph>(c)(1)(ii)(D)(2) does not apply to DoD.</p>
-         <p outputclass="List6">(3) In accordance with section 816 of the National Defense Authorization Act for Fiscal Year 2020 (<xref format="html"
+         <p outputclass="List6" rev="Revised October 1,2020">(<i>3</i>) In accordance with section 816 of the National Defense Authorization Act for Fiscal Year 2020 (<xref format="html"
                   href="https://www.govinfo.gov/link/plaw/116/public/92?link-type=html"
-                  scope="external">Pub. L. 116-92</xref>
-            <xref/>), the determination at FAR 16.504(c)(1)(ii)(D) is not required if a justification has been executed, in accordance with FAR subpart 6.3 and subpart 206.3.</p>
+                  scope="external">Pub. L. 116-92</xref>), the determination at FAR <xref format="html"
+                  href="https://acquisition.gov/far/part-16#FAR_16_504"
+                  scope="external">16.504</xref>
+            <xref/>(c)(1)(ii)(D) is not required if a justification has been executed, in accordance with FAR subpart 6.3 and subpart <xref href="SUBPART_206.3.dita" outputclass="fm:Subpart">206.3</xref>.</p>
       </conbody>
-   </concept>
+   </topic>
 </dita>

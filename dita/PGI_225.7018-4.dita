@@ -1,30 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_225.7018-4"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 225.7018-4</ph> Nonavailability determination.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p "/>
-         <p outputclass="List1" class="- topic/p ">(a)(3) Provide a copy of signed individual nonavailability determination and supporting documentation or notification when an individual waiver is requested, but denied to:</p>
-         <p class="- topic/p ">OUSD(A&amp;S)</p>
-         <p class="- topic/p ">DASD, Industrial Policy</p>
-         <p class="- topic/p ">U.S. Department of Defense</p>
-         <p class="- topic/p ">3330 Defense Pentagon, Room 3B854</p>
-         <p class="- topic/p ">Washington, DC 20301-3330</p>
-         <p outputclass="List1" class="- topic/p ">(b)(i) When requesting a class nonavailability determination, submit the request, including the proposed determination, to—</p>
-         <p class="- topic/p "/>
-         <p class="- topic/p ">Principal Director, Defense Pricing and Contracting</p>
-         <p class="- topic/p ">ATTN: OUSD(A&amp;S) DPC/CP</p>
-         <p class="- topic/p ">3060 Defense Pentagon</p>
-         <p class="- topic/p ">Washington, DC 20301-3060.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The Principal Director, Defense Pricing and Contracting, will forward the request to the Under Secretary of Defense (Acquisition and Sustainment) (USD(A&amp;S)) as appropriate.</p>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="DFARS-PGI_PGI_225.7018-4">
+      <title>
+         <ph props="autonumber">PGI 225.7018-4</ph> Nonavailability determination.</title>
+      <conbody>
+         <p outputclass="List1" rev="Revised October 1, 2020">(a) Individual nonavailability determinations.</p>
+         <p outputclass="List2" rev="Revised October 1, 2020">(2) Contracting officers may use the following template for individual nonavailability determinations under this section:</p>
+         <p>SUBJECT: Individual Nonavailability Determination Exception under DFARS <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI225_70.htm"
+                  scope="external">225.7018-4</xref>
+            <xref/>
+         </p>
+         <p>PROGRAM, ITEM, OR PART DESCRIPTION: _____________________________</p>
+         <p>CONTRACT OR SOLICITATION NUMBER: ________________________________</p>
+         <p>BACKGROUND: Per the requirements of 10 U.S.C. 2533c, DFARS <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI225_70.htm"
+                  scope="external">252.225-7052</xref>
+            <xref/> prohibits acquisition of samarium-cobalt magnets, neodymium-iron-boron magnets, tantalum metal and alloys, tungsten metal powder, and tungsten heavy alloy or any finished or semi-finished component containing tungsten heavy alloy melted or produced in North Korea, China, Russia, and Iran.</p>
+         <p>Per DFARS <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI225_70.htm"
+                  scope="external">225.7018-4</xref>
+            <xref/>, the Head of Contracting Activity (HCA) can authorize an exception to DFARS <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI225_70.htm"
+                  scope="external">252.225-7052</xref>
+            <xref/> through an ‘Individual Nonavailability Determination’ if they determine that covered materials of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price from a source other than a covered country.</p>
+         <p>ANALYSIS OF ALTERNATIVES:</p>
+         <p>See Attachment A for an analysis of why alternatives that would not require a nonavailability determination are unacceptable.</p>
+         <p>CERTIFICATION: Based on the satisfactory quality, quantity, required form, timeliness, and/or reasonable price issues described in Attachment A, I hereby certify that the requirements for an individual nonavailability determination under DFARS <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI225_70.htm"
+                  scope="external">225.7018-4</xref>
+            <xref/> have been met.</p>
+         <p>___________________________________
+ Signature of Government Contracting Officer or Program Representative
+</p>
+         <p>_______________
+ Date
+</p>
+         <p>Official Action on Request: __ Approved __ Disapproved [If disapproved, give reason.]</p>
+         <p>_____________________________________________________</p>
+         <p>___________________________________
+ Signature of Head of Contracting Activity
+</p>
+         <p>_______________
+ Date
+</p>
+         <p>ATTACHMENT A: Analysis of Alternatives Required for an Individual Nonavailability Determination as per DFARS <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI225_70.htm"
+                  scope="external">225.7018-4</xref>
+            <xref/>
+         </p>
+         <p>PART A: Data on Alternative Sources. [Can be completed either by Government or Contractor.]</p>
+         <p>1. Detailed information on current or proposed non-compliant DFARS <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI225_70.htm"
+                  scope="external">225.7018</xref>
+            <xref/> source(s).</p>
+         <table colsep="no" frame="none" rowsep="no">
+            <tgroup cols="10">
+               <tbody>
+                  <row>
+                     <entry colname="1">
+                        <p>ITEM #</p>
+                     </entry>
+                     <entry colname="2">
+                        <p>COMPONENT NAME</p>
+                     </entry>
+                     <entry colname="3">
+                        <p>COVERED MATERIAL</p>
+                     </entry>
+                     <entry colname="4">
+                        <p>CURRENT MANUFACTURER(S)</p>
+                     </entry>
+                     <entry colname="5">
+                        <p>COUNTRY OF ORIGIN</p>
+                     </entry>
+                     <entry colname="6">
+                        <p>MATERIAL SPECIFICATION OR GRADE</p>
+                     </entry>
+                     <entry colname="7">
+                        <p>DELIVERY DATE AND LEAD TIME</p>
+                     </entry>
+                     <entry colname="8">
+                        <p>QUANTITY REQUIRED</p>
+                     </entry>
+                     <entry colname="9">
+                        <p>PRICE PER UNIT</p>
+                     </entry>
+                     <entry colname="10">
+                        <p>TOTAL PRICE</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry colname="1">
+                        <p>1</p>
+                     </entry>
+                     <entry colname="2"/>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                     <entry colname="7"/>
+                     <entry colname="8"/>
+                     <entry colname="9"/>
+                     <entry colname="10"/>
+                  </row>
+                  <row>
+                     <entry colname="1"/>
+                     <entry colname="2"/>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                     <entry colname="7"/>
+                     <entry colname="8"/>
+                     <entry colname="9"/>
+                     <entry colname="10"/>
+                  </row>
+                  <row>
+                     <entry colname="1"/>
+                     <entry colname="2"/>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                     <entry colname="7"/>
+                     <entry colname="8"/>
+                     <entry colname="9"/>
+                     <entry colname="10"/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p>2. Detailed market research conducted on alternative compliant DFARS <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI225_70.htm"
+                  scope="external">225.7018</xref>
+            <xref/> source(s).</p>
+         <table colsep="no" frame="none" rowsep="no">
+            <tgroup cols="11">
+               <tbody>
+                  <row>
+                     <entry colname="1">
+                        <p>ITEM #</p>
+                     </entry>
+                     <entry colname="2">
+                        <p>COVERED MATERIAL</p>
+                     </entry>
+                     <entry colname="3">
+                        <p>POTENTIAL ALTERNATIVE MANUFACTURER(S)</p>
+                     </entry>
+                     <entry colname="4">
+                        <p>COUNTRY OF ORIGIN</p>
+                     </entry>
+                     <entry colname="5">
+                        <p>PROPOSED MATERIAL SPECIFICATION OR GRADE</p>
+                     </entry>
+                     <entry colname="6">
+                        <p>DELIVERY DATE AND LEAD TIME</p>
+                     </entry>
+                     <entry colname="7">
+                        <p>QUANTITY PROPOSED</p>
+                     </entry>
+                     <entry colname="8">
+                        <p>PRICE PER UNIT</p>
+                     </entry>
+                     <entry colname="9">
+                        <p>TOTAL PRICE</p>
+                     </entry>
+                     <entry colname="10">
+                        <p>RE-DESIGN OR RE-QUALIFICATION COST</p>
+                     </entry>
+                     <entry colname="11">
+                        <p>RE-DESIGN OR RE-QUALIFICATION COST TIMELINE</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry colname="1">
+                        <p>1</p>
+                     </entry>
+                     <entry colname="2"/>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                     <entry colname="7"/>
+                     <entry colname="8"/>
+                     <entry colname="9"/>
+                     <entry colname="10"/>
+                     <entry colname="11"/>
+                  </row>
+                  <row>
+                     <entry colname="1"/>
+                     <entry colname="2"/>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                     <entry colname="7"/>
+                     <entry colname="8"/>
+                     <entry colname="9"/>
+                     <entry colname="10"/>
+                     <entry colname="11"/>
+                  </row>
+                  <row>
+                     <entry colname="1"/>
+                     <entry colname="2"/>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                     <entry colname="7"/>
+                     <entry colname="8"/>
+                     <entry colname="9"/>
+                     <entry colname="10"/>
+                     <entry colname="11"/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p>3. Other pertinent information regarding the need for a nonavailability determination based on satisfactory quality, quantity, required form, timeliness, and/or reasonable price:</p>
+         <p>________________________________________________________________________
+ ________________________________________________________________________
+ ________________________________________________________________________
+</p>
+         <p>________________________________________________________________________
+ PART B: Analysis of Alternatives—Must be completed by a Government Representative
+</p>
+         <p>I have verified the information in Part A and a nonavailability determination is requested for the following reason(s):</p>
+         <table colsep="no" frame="none" rowsep="no">
+            <tgroup cols="8">
+               <tbody>
+                  <row>
+                     <entry colname="1">
+                        <p>ITEM #</p>
+                     </entry>
+                     <entry colname="2">
+                        <p>COVERED MATERIAL</p>
+                     </entry>
+                     <entry colname="3">
+                        <p>NON-SATISFACTORY QUALITY</p>
+                     </entry>
+                     <entry colname="4">
+                        <p>INSUFFICENT AVAILABLE QUANTITY</p>
+                     </entry>
+                     <entry colname="5">
+                        <p>DOES NOT MET REQUIRED FORM</p>
+                     </entry>
+                     <entry colname="6">
+                        <p>DOES NOT MEET TIMELINESS REQUIREMENTS FOR PROGRAM/CUSTOMER</p>
+                     </entry>
+                     <entry colname="7">
+                        <p>UNREASONABLE PRICE PER UNIT</p>
+                     </entry>
+                     <entry colname="8">
+                        <p>UNREASONABLE PRICE FOR RE-DESIGN OR RE-QUALIFICATION</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry colname="1">
+                        <p>1</p>
+                     </entry>
+                     <entry colname="2"/>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                     <entry colname="7"/>
+                     <entry colname="8"/>
+                  </row>
+                  <row>
+                     <entry colname="1"/>
+                     <entry colname="2"/>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                     <entry colname="7"/>
+                     <entry colname="8"/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p>___________________________________
+ Signature of Government Contracting Officer or Program Representative
+</p>
+         <p>_______________
+ Date
+</p>
+         <p>ATTACHMENT B: Definitions and Instructions</p>
+         <p>As used in this document—</p>
+         <ul>
+            <li>
+               <p>“Number” means the National Stock Number (NSN) or other part number applicable to a given component name;</p>
+            </li>
+            <li>
+               <p>“Component name” includes a description of the part and the name of the end item incorporating that part (e.g., “Actuator – Joint Direct Attack Munition” or “Sphere - M1028 Canister CTG”);</p>
+            </li>
+            <li>
+               <p>“Covered material” means samarium-cobalt magnets, neodymium-iron-boron magnets, tantalum metal and alloys, tungsten metal powder, and tungsten heavy alloy or any finished / semi-finished component containing tungsten heavy alloy;</p>
+            </li>
+            <li>
+               <p>“Tungsten heavy alloy” means a tungsten base pseudo alloy that (1) meets the specifications of ASTM B777 or SAE-AMS-T-21014 for a particular class of tungsten heavy alloy or (2) contains at least 90% tungsten in a matrix of other metals (such as nickel-iron or nickel-copper) and has a density of at least 16.5 g/cm3</p>
+            </li>
+            <li>
+               <p>“Current manufacturer” means the entity that produces the covered material;</p>
+            </li>
+            <li>
+               <p>“Country of origin” means the location of the facility in which the current manufacturer produces the covered material;</p>
+            </li>
+            <li>
+               <p>Delivery date and lead time” includes (1) the date by which the covered material is required to produce the component name and (2) the administrative lead time and procurement lead time required by the manufacturer of the component name, to secure appropriate covered material; and</p>
+            </li>
+            <li>
+               <p>“Price per unit” means the unit price of the covered material;</p>
+            </li>
+         </ul>
+         <p>For any determination under “Part B”, the Head of Contracting Activity is required to produce a separate report describing why a particular exception is applicable to a given action.</p>
+         <p outputclass="List1">
+            <ph otherprops=""
+                outputclass=""
+                platform=""
+                props=""
+                rev="Revised October 1, 2020"
+                xtrc=""
+                xtrf="">(3)</ph>
+         </p>
+         <p>Provide a copy of signed individual nonavailability determination and supporting documentation or notification when an individual waiver is requested, but denied to:</p>
+         <p>OUSD(A&amp;S)</p>
+         <p>DASD, Industrial Policy</p>
+         <p>U.S. Department of Defense</p>
+         <p>3330 Defense Pentagon, Room 3B854</p>
+         <p>Washington, DC 20301-3330</p>
+         <p outputclass="List1">(b)(i) When requesting a class nonavailability determination, submit the request, including the proposed determination, to—</p>
+         <p>Principal Director, Defense Pricing and Contracting</p>
+         <p>ATTN: OUSD(A&amp;S) DPC/CP</p>
+         <p>3060 Defense Pentagon</p>
+         <p>Washington, DC 20301-3060.</p>
+         <p outputclass="List3">(ii) The Principal Director, Defense Pricing and Contracting, will forward the request to the Under Secretary of Defense (Acquisition and Sustainment) (USD(A&amp;S)) as appropriate.</p>
       </conbody>
    </concept>
 </dita>
