@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="d1e9">
+      <title>Report</title>
+      <conbody>
+         <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
+            <tgroup cols="2"
+                    colsep="1"
+                    rowsep="1"
+                    outputclass="Title_rule"
+                    class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="44*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="56*" class="- topic/colspec "/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">Entry</entry>
+                     <entry colname="2" class="- topic/entry ">Type</entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1">
+                     <entry colname="1">PGI 217.174<xref outputclass="fm:ParaNumOnly" href="#DFARS-PGI_PGI_217.174"/>
+                     </entry>
+                     <entry colname="2">Empty xref http://www.acq.osd.mil/dpap/dars/dfars/changenotice/2010/20100621/2008-D006%20PGI%20Template.doc</entry>
+                  </row>
+                  <row rowsep="1">
+                     <entry colname="1">PGI 217.174<xref outputclass="fm:ParaNumOnly"
+                              href="PGI_217.174.dita#DFARS-PGI_PGI_217.174"/>
+                     </entry>
+                     <entry colname="2">Empty xref http://www.acq.osd.mil/dpap/dars/dfars/changenotice/2010/20100621/2008-D006%20PGI%20Template.doc</entry>
+                  </row>
+                  <row rowsep="1">
+                     <entry colname="1">PGI 225.370<xref outputclass="fm:ParaNumOnly" href="#DFARS-PGI_PGI_225.370"/>
+                     </entry>
+                     <entry colname="2">Empty xref https://www.acq.osd.mil/dpap/policy/policyvault/USA004346-12-DPAP.pdf</entry>
+                  </row>
+                  <row rowsep="1">
+                     <entry colname="1">PGI 225.370<xref outputclass="fm:ParaNumOnly"
+                              href="PGI_225.370.dita#DFARS-PGI_PGI_225.370"/>
+                     </entry>
+                     <entry colname="2">Empty xref https://www.acq.osd.mil/dpap/policy/policyvault/USA004346-12-DPAP.pdf</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+</dita>

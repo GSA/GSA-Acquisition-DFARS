@@ -1,72 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS-PART_229">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="DFARS-PART_229"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">PART 229 - TAXES</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_229.1.dita#DFARS-SUBPART_229.1">SUBPART 229.1 —GENERAL</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_229.1.dita#DFARS-SUBPART_229.1"
+                        class="- topic/xref ">SUBPART 229.1 —GENERAL</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="229.101.dita#DFARS-229.101">229.101 Resolving tax problems.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="229.101.dita#DFARS-229.101"
+                              class="- topic/xref ">229.101 Resolving tax problems.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="229.170.dita#DFARS-229.170">229.170 Reporting of foreign taxation on U.S. assistance programs.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="229.170.dita#DFARS-229.170"
+                              class="- topic/xref ">229.170 Reporting of foreign taxation on U.S. assistance programs.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="229.170-1.dita#DFARS-229.170-1">229.170-1 Definition.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="229.170-1.dita#DFARS-229.170-1"
+                                    class="- topic/xref ">229.170-1 Definition.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="229.170-2.dita#DFARS-229.170-2">229.170-2 Policy.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="229.170-2.dita#DFARS-229.170-2"
+                                    class="- topic/xref ">229.170-2 Policy.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="229.170-3.dita#DFARS-229.170-3">229.170-3 Reports.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="229.170-3.dita#DFARS-229.170-3"
+                                    class="- topic/xref ">229.170-3 Reports.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="229.170-4.dita#DFARS-229.170-4">229.170-4 Contract clause.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="229.170-4.dita#DFARS-229.170-4"
+                                    class="- topic/xref ">229.170-4 Contract clause.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_229.4.dita#DFARS-SUBPART_229.4">SUBPART 229.4 —CONTRACT CLAUSES</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_229.4.dita#DFARS-SUBPART_229.4"
+                        class="- topic/xref ">SUBPART 229.4 —CONTRACT CLAUSES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="229.402.dita#DFARS-229.402">229.402 Foreign contracts.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="229.402.dita#DFARS-229.402"
+                              class="- topic/xref ">229.402 Foreign contracts.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="229.402-70.dita#DFARS-229.402-70">229.402-70 Additional provisions and clauses.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="229.402-70.dita#DFARS-229.402-70"
+                                    class="- topic/xref ">229.402-70 Additional provisions and clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_229.70.dita#DFARS-SUBPART_229.70">SUBPART 229.70 —SPECIAL PROCEDURES FOR OVERSEAS CONTRACTS</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_229.70.dita#DFARS-SUBPART_229.70"
+                        class="- topic/xref ">SUBPART 229.70 —SPECIAL PROCEDURES FOR OVERSEAS CONTRACTS</xref>
                </p>
             </li>
          </ul>

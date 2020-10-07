@@ -1,23 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS-SUBPART_206.3">
-      <title>
-         <ph props="autonumber">216.504</ph> Indefinite-quantity contracts.</title>
-      <conbody>
-         <p outputclass="List1">(c) <i>Multiple award preference</i>—</p>
-         <p outputclass="List2">(1) <i>Planning the acquisition.</i>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <topic id="DFARS-216.504"
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic "
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">216.504</ph> Indefinite-quantity
+contracts.</title>
+      <body class="- topic/body ">
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Multiple award preference</i>—</p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Planning the acquisition.</i>
          </p>
-         <p outputclass="List3">(ii)(D)<i>(1)</i> The senior procurement executive has the authority to make the determination authorized in <ph xtrc="FARxref">FAR 16.504</ph>(c)(1)(ii)(D)<i>(1)</i>.</p>
-         <p outputclass="List7">(<i>i</i>) In accordance with section 816 of the National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232), when making the determination at <ph xtrc="FARxref">FAR 16.504</ph>(c)(1)(ii)(D)(<i>1</i>)(<i>i</i>), the senior procurement executive shall determine that the task or delivery orders expected under the contract are so integrally related that only a single source can “efficiently perform the work,” instead of “reasonably perform the work” as required by the FAR.</p>
-         <p outputclass="List6">(<i>2</i>) The congressional notification requirement at <ph xtrc="FARxref">FAR 16.504</ph>(c)(1)(ii)(D)(2) does not apply to DoD.</p>
-         <p outputclass="List6" rev="Revised October 1,2020">(<i>3</i>) In accordance with section 816 of the National Defense Authorization Act for Fiscal Year 2020 (<xref format="html"
-                  href="https://www.govinfo.gov/link/plaw/116/public/92?link-type=html"
-                  scope="external">Pub. L. 116-92</xref>), the determination at FAR <xref format="html"
-                  href="https://acquisition.gov/far/part-16#FAR_16_504"
-                  scope="external">16.504</xref>
-            <xref/>(c)(1)(ii)(D) is not required if a justification has been executed, in accordance with FAR subpart 6.3 and subpart <xref href="SUBPART_206.3.dita" outputclass="fm:Subpart"/>.</p>
-      </conbody>
+         <p outputclass="List3" class="- topic/p ">(ii)(D)<i class="+ topic/ph hi-d/i ">(1)</i> The senior procurement
+executive has the authority to make the determination authorized
+in <ph xtrc="FARxref" class="- topic/ph ">FAR 16.504</ph>(c)(1)(ii)(D)<i class="+ topic/ph hi-d/i ">(1)</i>.</p>
+         <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) In accordance with section 816
+of the National Defense Authorization Act for Fiscal Year 2019 (Pub. L.
+115-232), when making the determination at <ph xtrc="FARxref" class="- topic/ph ">FAR
+16.504</ph>(c)(1)(ii)(D)(<i class="+ topic/ph hi-d/i ">1</i>)(<i class="+ topic/ph hi-d/i ">i</i>), the senior procurement executive
+shall determine that the task or delivery orders expected under
+the contract are so integrally related that only a single source
+can “efficiently perform the work,” instead of “reasonably perform the
+work” as required by the FAR.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) The congressional notification
+requirement at <ph xtrc="FARxref" class="- topic/ph ">FAR 16.504</ph>(c)(1)(ii)(D)(2)
+does not apply to DoD.</p>
+         <p rev="Revised October 1,2020" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>)
+In accordance with section 816 of the National Defense Authorization
+Act for Fiscal Year 2020 (<xref href="https://www.govinfo.gov/link/plaw/116/public/92?link-type=html"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Pub. L. 116-92</xref>), the
+determination at FAR <xref href="https://acquisition.gov/far/part-16#FAR_16_504"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">16.504</xref> (c)(1)(ii)(D)
+is not required if a justification has been executed, in accordance
+with FAR subpart 6.3 and subpart <xref href="SUBPART_206.3.dita#DFARS-SUBPART_206.3"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">206.3</xref>.</p>
+      </body>
    </topic>
 </dita>

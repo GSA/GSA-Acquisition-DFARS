@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="DFARS-PGI_PGI_225.7003-2">
-      <title>
-         <ph props="autonumber">PGI 225.7003-2</ph> Restrictions.</title>
-      <conbody>
-         <p outputclass="List1">(a)(i) This restriction applies to the item containing the specialty metal, not just the specialty metal, as was true when the restriction was part of 10 U.S.C. 2533a. The previous practice of withholding payment while conditionally accepting noncompliant items is not permissible for—</p>
-         <p outputclass="List4">(A) Contracts entered into on or after November 16, 2006; or</p>
-         <p outputclass="List4">(B) New procurements or out-of-scope changes accomplished on or after November 16, 2006, through the use of bilateral modifications to contracts originally awarded prior to November 16, 2006.</p>
-         <p outputclass="List3">(ii) Consistent with the definition of “component” in the clause at DFARS <xref base="DFARS-252.225-7009"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_225.7003-2"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 225.7003-2</ph> Restrictions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(i) This restriction applies to the item containing the specialty metal, not just the specialty metal, as was true when the restriction was part of 10 U.S.C. 2533a. The previous practice of withholding payment while conditionally accepting noncompliant items is not permissible for—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Contracts entered into on or after November 16, 2006; or</p>
+         <p outputclass="List4" class="- topic/p ">(B) New procurements or out-of-scope changes accomplished on or after November 16, 2006, through the use of bilateral modifications to contracts originally awarded prior to November 16, 2006.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Consistent with the definition of “component” in the clause at DFARS <xref base="DFARS-252.225-7009"
                   href="252.225-7009.dita#DFARS-252.225-7009"
-                  outputclass="fm:ParaNumOnly">252.225-7009</xref>, a component is any item supplied to the Government as part of an end item or of another component. Items that are not incorporated into any of the items listed in DFARS <xref base="DFARS-225.7003-2"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.225-7009</xref>, a component is any item supplied to the Government as part of an end item or of another component. Items that are not incorporated into any of the items listed in DFARS <xref base="DFARS-225.7003-2"
                   href="225.7003-2.dita#DFARS-225.7003-2"
-                  outputclass="fm:ParaNumOnly">225.7003-2</xref>(a) are not components of those items. For example, test equipment, ground support equipment, or shipping containers are not components of the missile system.</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">225.7003-2</xref>(a) are not components of those items. For example, test equipment, ground support equipment, or shipping containers are not components of the missile system.</p>
       </conbody>
    </concept>
 </dita>
