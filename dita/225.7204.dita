@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="DFARS-225.7204">
       <title>
@@ -24,7 +24,7 @@
          <p outputclass="List1">(b) Use the clause at <ph xtrc="DFARxref">
                <xref base="i1381979"
                      href="252.225-7004.dita#DFARS-252.225-7004"
-                     outputclass="fm:ParaNumOnly">252.225-7004</xref>
+                     outputclass="fm:ParaNumOnly"/>
             </ph>, Report of Intended Performance Outside the United States and Canada—Submission after Award, in solicitations and contracts with a value exceeding $<ph otherprops=""
                 outputclass=""
                 props=""
