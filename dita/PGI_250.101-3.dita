@@ -2,12 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_250.101-3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 250.101-3</ph> Records.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -85,56 +84,19 @@ the appropriate action; e.g., "Modification," "New Contract," or
                     rowsep="0"
                     outputclass="FormatA"
                     class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="8"
-                        colname="8"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="9"
-                        colname="9"
-                        colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+               <colspec colnum="1" colname="1" colwidth="10*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="10*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="10*" class="- topic/colspec "/>
+               <colspec colnum="4" colname="4" colwidth="10*" class="- topic/colspec "/>
+               <colspec colnum="5" colname="5" colwidth="10*" class="- topic/colspec "/>
+               <colspec colnum="6" colname="6" colwidth="10*" class="- topic/colspec "/>
+               <colspec colnum="7" colname="7" colwidth="10*" class="- topic/colspec "/>
+               <colspec colnum="8" colname="8" colwidth="10*" class="- topic/colspec "/>
+               <colspec colnum="9" colname="9" colwidth="10*" class="- topic/colspec "/>
                <colspec colnum="10"
                         colname="10"
                         colwidth="10*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry namest="1"
@@ -142,126 +104,88 @@ the appropriate action; e.g., "Modification," "New Contract," or
                             colsep="0"
                             rowsep="0"
                             class="- topic/entry "> 
-                        <ph class="- topic/ph ">❑
+                        <ph class="- topic/ph ">□
 PRELIMINARY</ph>
                      </entry>
                      <entry namest="3"
-                            nameend="9"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry "> 
-                        <ph class="- topic/ph ">RECORD
-OF</ph>
-                     </entry>
-                     <entry colname="10" rowsep="0" class="- topic/entry "> 
-                        <ph class="- topic/ph ">FINAL ❑</ph>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="2"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry "> 
-                        <ph class="- topic/ph "/>
-                     </entry>
-                     <entry namest="3"
-                            nameend="9"
+                            nameend="8"
                             colsep="0"
                             rowsep="0"
                             class="- topic/entry ">
-                        <ph class="- topic/ph ">REQUEST
-FOR ADJUSTMENT</ph>
+                        <p outputclass="Ctr" class="- topic/p ">RECORD OF</p>
+                        <p outputclass="Ctr" class="- topic/p ">REQUEST
+FOR ADJUSTMENT</p>
+                        <p outputclass="Ctr" class="- topic/p ">
+                           <ph class="- topic/ph ">PUBLIC LAW 85-804</ph>
+                        </p>
                      </entry>
-                     <entry colname="10" rowsep="0" class="- topic/entry "/>
+                     <entry namest="9" nameend="10" class="- topic/entry "> 
+                        <ph class="- topic/ph ">FINAL □</ph>
+                     </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry namest="1"
                             nameend="2"
                             colsep="0"
                             rowsep="0"
-                            class="- topic/entry "> 
-                        <ph class="- topic/ph ">DATE
+                            class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <ph class="- topic/ph ">DATE
 OF REQUEST</ph>
+                        </p>
                      </entry>
-                     <entry namest="3"
-                            nameend="9"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry "> 
-                        <ph class="- topic/ph ">PUBLIC
-LAW 85-804</ph>
-                     </entry>
-                     <entry colname="10" rowsep="0" class="- topic/entry "> 
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry "/>
+                     <entry colname="7" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry "/>
+                     <entry namest="9" nameend="10" class="- topic/entry "> 
                         <ph class="- topic/ph ">DATE RECEIVED BY GOVERNMENT</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry namest="1" nameend="10" rowsep="0" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph class="- topic/ph ">CONTRACTOR'S
-NAME AND ADDRESS</ph>
-                        </p>
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">CONTRACTOR'S
+NAME AND ADDRESS</p>
+                        <p outputclass="Right" class="- topic/p ">□ SMALL BUSINESS</p>
                      </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" rowsep="0" class="- topic/entry ">
-                        <ph class="- topic/ph "/>
-                     </entry>
-                     <entry namest="2"
-                            nameend="6"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
-                        <ph class="- topic/ph "/>
-                        <ph class="- topic/ph ">❑
-SMALL BUSINESS</ph>
-                     </entry>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry namest="1" nameend="10" rowsep="0" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph class="- topic/ph ">NAME AND
-ADDRESS OF CONTRACTOR'S REPRESENTATIVE, IF ANY</ph>
-                        </p>
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">NAME AND ADDRESS
+OF CONTRACTOR'S REPRESENTATIVE, IF ANY</p>
+                        <p class="- topic/p "> </p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry namest="1"
-                            nameend="4"
+                            nameend="5"
                             colsep="0"
                             rowsep="0"
                             class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph class="- topic/ph ">COGNIZANT
-CONTRACTING OFFICER OR OFFICE</ph>
-                        </p>
+                        <p class="- topic/p ">COGNIZANT
+CONTRACTING OFFICER OR OFFICE</p>
                         <p class="- topic/p ">
                            <ph class="- topic/ph "/>
                         </p>
                      </entry>
-                     <entry namest="5" nameend="10" rowsep="0" class="- topic/entry ">
-                        <ph class="- topic/ph ">PROCURING ACTIVITY</ph>
+                     <entry namest="6" nameend="10" class="- topic/entry ">
+                        <p class="- topic/p ">PROCURING ACTIVITY</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry namest="1"
-                            nameend="4"
+                            nameend="5"
                             colsep="0"
                             rowsep="0"
-                            class="- topic/entry "> 
-                        <ph class="- topic/ph ">PROPERTY
-OR SERVICE INVOLVED</ph>
+                            class="- topic/entry ">
+                        <p class="- topic/p ">PROPERTY
+OR SERVICE INVOLVED</p>
                      </entry>
-                     <entry namest="5" nameend="10" rowsep="0" class="- topic/entry "> 
-                        <ph class="- topic/ph ">EXTENT OF PERFORMANCE
-AS OF DATE OF REQUEST</ph>
+                     <entry namest="6" nameend="10" class="- topic/entry ">
+                        <p class="- topic/p ">EXTENT OF PERFORMANCE AS OF
+DATE OF REQUEST</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -279,85 +203,17 @@ NUMBER</ph>
                         </p>
                      </entry>
                      <entry namest="4"
-                            nameend="6"
+                            nameend="5"
                             colsep="0"
                             rowsep="0"
                             class="- topic/entry ">
                         <ph class="- topic/ph ">DATE</ph> 
-                        <ph class="- topic/ph ">ADVERTISED
-OR NEGOTIATED</ph> 
-                        <ph class="- topic/ph ">TYPE OF CONTRACT</ph>
+                        <ph class="- topic/ph "/>
                      </entry>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="4"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph class="- topic/ph ">CATEGORY
-OF CASE</ph>
-                        </p>
-                        <p class="- topic/p ">
-                           <ph class="- topic/ph "/>
-                        </p>
+                     <entry namest="6" nameend="7" class="- topic/entry ">
+                        <p class="- topic/p ">ADVERTISED OR NEGOTIATED</p>
                      </entry>
-                     <entry namest="5" nameend="10" rowsep="0" class="- topic/entry ">
-                        <ph class="- topic/ph ">AMOUNT OF DESCRIPTION
-OF REQUEST</ph>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="8"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry "> 
-                        <ph class="- topic/ph ">ACTION
-BELOW SECRETARIAL LEVEL</ph>
-                     </entry>
-                     <entry namest="9" nameend="10" rowsep="0" class="- topic/entry "> 
-                        <ph class="- topic/ph ">DATE</ph>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="8"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry "> 
-                        <ph class="- topic/ph ">ACTION
-BY CAB</ph>
-                     </entry>
-                     <entry namest="9" nameend="10" rowsep="0" class="- topic/entry "> 
-                        <ph class="- topic/ph ">DATE</ph>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="8"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry "> 
-                        <ph class="- topic/ph ">IMPLEMENTATION</ph>
-                     </entry>
-                     <entry namest="9" nameend="10" rowsep="0" class="- topic/entry "> 
-                        <ph class="- topic/ph ">DATE</ph>  
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry namest="1" nameend="10" rowsep="0" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph class="- topic/ph ">ADDITIONAL
-DATA OR REMARKS</ph>
-                        </p>
-                        <p class="- topic/p "/>
-                     </entry>
+                     <entry namest="8" nameend="10" class="- topic/entry ">TYPE OF CONTRACT</entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry namest="1"
@@ -365,24 +221,74 @@ DATA OR REMARKS</ph>
                             colsep="0"
                             rowsep="0"
                             class="- topic/entry ">
-                        <ph class="- topic/ph ">DATE
-THIS RECORD SIGNED</ph>
+                        <p class="- topic/p ">CATEGORY
+OF CASE</p>
+                        <p class="- topic/p "> </p>
                      </entry>
-                     <entry namest="6" nameend="10" rowsep="0" class="- topic/entry "> 
-                        <ph class="- topic/ph ">SIGNATURE</ph>
+                     <entry namest="6" nameend="10" class="- topic/entry ">
+                        <p class="- topic/p ">AMOUNT OF DESCRIPTION OF REQUEST</p>
+                        <p class="- topic/p "> </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="1"
+                            nameend="8"
+                            colsep="0"
+                            rowsep="0"
+                            class="- topic/entry ">
+                        <p class="- topic/p ">ACTION
+BELOW SECRETARIAL LEVEL</p>
+                        <p class="- topic/p "> </p>
+                     </entry>
+                     <entry namest="9" nameend="10" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">DATE</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="1"
+                            nameend="8"
+                            colsep="0"
+                            rowsep="0"
+                            class="- topic/entry ">
+                        <p class="- topic/p ">ACTION
+BY CAB</p>
+                        <p class="- topic/p "> </p>
+                     </entry>
+                     <entry namest="9" nameend="10" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">DATE</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="1"
+                            nameend="8"
+                            colsep="0"
+                            rowsep="0"
+                            class="- topic/entry ">
+                        <p class="- topic/p ">IMPLEMENTATION</p>
+                        <p class="- topic/p "> </p>
+                     </entry>
+                     <entry namest="9" nameend="10" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <ph class="- topic/ph ">DATE</ph>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="1" nameend="10" rowsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">ADDITIONAL DATA
+OR REMARKS</p>
+                        <p class="- topic/p "> </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry "/>
-                     <entry colname="2" colsep="0" class="- topic/entry "/>
-                     <entry colname="3" colsep="0" class="- topic/entry "/>
-                     <entry colname="4" colsep="0" class="- topic/entry "/>
-                     <entry colname="5" colsep="0" class="- topic/entry "/>
-                     <entry colname="6" colsep="0" class="- topic/entry "/>
-                     <entry colname="7" colsep="0" class="- topic/entry "/>
-                     <entry colname="8" colsep="0" class="- topic/entry "/>
-                     <entry colname="9" colsep="0" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
+                     <entry namest="1" nameend="5" colsep="0" class="- topic/entry ">
+                        <p class="- topic/p ">DATE THIS RECORD
+SIGNED</p>
+                        <p class="- topic/p "> </p>
+                     </entry>
+                     <entry namest="6" nameend="10" class="- topic/entry ">
+                        <p class="- topic/p ">SIGNATURE</p>
+                     </entry>
                   </row>
                </tbody>
             </tgroup>
