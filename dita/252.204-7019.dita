@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-252.204-7019"
             rev="Added November 30, 2020"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -44,21 +43,26 @@ Methodology located at <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strate
             class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Procedures</i>.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
-            class="- topic/p ">(1) The
-Offeror shall verify that summary level scores of a current NIST
-SP 800-171 DoD Assessment (i.e., not more than 3 years old unless
-a lesser time is specified in the solicitation) are posted in the
-Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/" class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?>ttps://www.sprs.csd.disa.mil/</xref>)
-for all covered contractor information systems relevant to the offer.</p>
+            class="- topic/p ">(1) The Offeror
+            shall verify that summary level scores of a current NIST SP 800-171 DoD Assessment
+            (i.e., not more than 3 years old unless a lesser time is specified in the solicitation)
+            are posted in the Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/"
+                  class="- topic/xref "
+                  format="html"
+                  scope="external"><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?></xref>) for all
+            covered contractor information systems relevant to the offer.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
-            class="- topic/p ">(2) If
-the Offeror does not have summary level scores of a current NIST
-SP 800-171 DoD Assessment (i.e., not more than 3 years old unless
-a lesser time is specified in t<?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf?>he solicitation) posted in SPRS,
-the Offeror may conduct and submit a Basic Assessment to <xref href="mailto:webptsmh@navy.mil" class="- topic/xref ">w<?FM MARKER [Hypertext] message URL mailto:webptsmh@navy.mil?>ebptsmh@navy.mil</xref> for
-posting to SPRS in the format identified in paragraph (d) of this
-provision.</p>
+            class="- topic/p ">(2) If the
+            Offeror does not have summary level scores of a current NIST SP 800-171 DoD Assessment
+            (i.e., not more than 3 years old unless a lesser time is specified in
+            t<?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf?>he
+            solicitation) posted in SPRS, the Offeror may conduct and submit a Basic Assessment to
+               <xref href="mailto:webptsmh@navy.mil"
+                  class="- topic/xref "
+                  format="html"
+                  scope="external"><?FM MARKER [Hypertext] message URL mailto:webptsmh@navy.mil?></xref> for posting to
+            SPRS in the format identified in paragraph (d) of this provision.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List1"
             class="- topic/p ">(d)<i class="+ topic/ph hi-d/i "> Summary
@@ -227,6 +231,7 @@ was conducted may access SPRS to view their own summary level scores,
 in accordance with the SPRS Software User’s Guide for Awardees/Contractors
 available at <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
                   format="pdf"
+                  scope="external"
                   class="- topic/xref ">https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List3"

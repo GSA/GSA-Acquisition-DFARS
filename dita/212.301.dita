@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-212.301"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -34,15 +33,16 @@ as defined in <xref href="239.7301.dita#DFARS-239.7301"
                   class="- topic/xref ">239.7301</xref>.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List1"
-            class="- topic/p ">(f) The
-following additional provisions and clauses apply to DoD solicitations
-and contracts using FAR part 12 procedures for the acquisition of
-commercial items. If the offeror has completed any of the following
-provisions listed in this paragraph electronically as part of its
-annual representations and certifications at <xref href="https://www.acquisition.gov" class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://www.acquisition.gov?>ttps://www.acquisition.gov</xref>,
-the contracting officer shall consider this information instead
-of requiring the offeror to complete these provisions for a particular
-solicitation.</p>
+            class="- topic/p ">(f) The following
+            additional provisions and clauses apply to DoD solicitations and contracts using FAR
+            part 12 procedures for the acquisition of commercial items. If the offeror has completed
+            any of the following provisions listed in this paragraph electronically as part of its
+            annual representations and certifications at <xref href="https://www.acquisition.gov"
+                  class="- topic/xref "
+                  scope="external"
+                  format="html"><?FM MARKER [Hypertext] message URL https://www.acquisition.gov?></xref>, the
+            contracting officer shall consider this information instead of requiring the offeror to
+            complete these provisions for a particular solicitation.</p>
          <p outputclass="List2" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Part 203 - Improper Business Practices
 and Personal Conflicts of Interest.</i>
          </p>
@@ -175,7 +175,7 @@ Use the provision at <ph xtrc="DFARxref" class="- topic/ph ">
 of NIST SP 800-171 DoD Assessment Requirements, as prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="204.7304.dita#DFARS-204.7304"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">204.7304</xref>
             </ph>(d).</p>
          <p rev="Revised November 30, 2020"
             outputclass="List4"
@@ -189,7 +189,7 @@ Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
 SP 800-171 DoD Assessment Requirements, as prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="204.7304.dita#DFARS-204.7304"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">204.7304</xref>
             </ph>(e).</p>
          <p rev="Revised November 30, 2020"
             outputclass="List4"
@@ -203,7 +203,7 @@ Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
 Maturity Model Certification Requirements, as prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="204.7503.dita#DFARS-204.7503"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">204.7503</xref>
             </ph>(a)
 and (b).</p>
          <p outputclass="List2" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">Part 205 - Publicizing Contract

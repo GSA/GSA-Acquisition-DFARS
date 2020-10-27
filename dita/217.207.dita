@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-217.207"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -28,9 +27,12 @@ prior to exercising any option for firm-fixed-price contracts containing
 spare parts.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
-            class="- topic/p ">(2) Verifying
-in the Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/" class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?>ttps://www.sprs.csd.disa.mil/</xref>)
-that—</p>
+            class="- topic/p ">(2) Verifying in
+            the Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/"
+                  class="- topic/xref "
+                  format="html"
+                  scope="external"><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?></xref>)
+            that—</p>
          <p rev="Revised November 30, 2020"
             outputclass="List3"
             class="- topic/p ">(i) The

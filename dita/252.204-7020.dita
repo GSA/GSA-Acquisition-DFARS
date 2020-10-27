@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-252.204-7020"
             rev="Added November 30, 2020"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -15,7 +14,7 @@ DoD Assessment Requirements.</title>
          <p rev="Revised November 30, 2020" class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
                <xref href="204.7304.dita#DFARS-204.7304"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">204.7304</xref>
             </ph>(e), use the following
 provision:</p>
          <p rev="Revised November 30, 2020"
@@ -124,18 +123,22 @@ DoD Assessment Methodology at <xref href="https://www.acq.osd.mil/dpap/pdi/cyber
 if necessary.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List1"
-            class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Procedures</i>.
-Summary level scores for all assessments will be posted in the Supplier
-Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/" class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?>ttps://www.sprs.csd.disa.mil/</xref>)
-to provide DoD Components visibility into the summary level scores
-of strategic assessments.</p>
+            class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Procedures</i>. Summary level scores for all assessments
+            will be posted in the Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/"
+                  class="- topic/xref "
+                  format="html"
+                  scope="external"><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?></xref>) to
+            provide DoD Components visibility into the summary level scores of strategic
+            assessments.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
-            class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Basic
-Assessments</i>. A contractor may submit, via encrypted email, summary
-level scores of Basic Assessments conducted in accordance with the
-NIST SP 800-171 DoD Assessment Methodology to <xref href="mailto:webptsmh@navy.mil" class="- topic/xref ">w<?FM MARKER [Hypertext] message URL mailto:webptsmh@navy.mil?>ebptsmh@navy.mil</xref> for
-posting to SPRS.</p>
+            class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Basic Assessments</i>. A contractor may submit, via
+            encrypted email, summary level scores of Basic Assessments conducted in accordance with
+            the NIST SP 800-171 DoD Assessment Methodology to <xref href="mailto:webptsmh@navy.mil"
+                  class="- topic/xref "
+                  format="html"
+                  scope="external"><?FM MARKER [Hypertext] message URL mailto:webptsmh@navy.mil?></xref> for posting to
+            SPRS.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List3"
             class="- topic/p ">(i) The
@@ -291,7 +294,8 @@ the Contractor and offer the opportunity for rebuttal and adjudication
 of assessment summary level scores prior to posting the summary
 level scores to SPRS (see SPRS User’s Guide <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
                   format="pdf"
-                  class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf?>ttps://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>).</p>
+                  scope="external"
+                  class="- topic/xref ">https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>).</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
             class="- topic/p ">(2) Upon
@@ -312,11 +316,12 @@ and Product Performance Information (PI).</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
             class="- topic/p ">(2) Authorized
-representatives of the Contractor for which the assessment was conducted
-may access SPRS to view their own summary level scores, in accordance
-with the SPRS Software User’s Guide for Awardees/Contractors available at <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
+            representatives of the Contractor for which the assessment was conducted may access SPRS
+            to view their own summary level scores, in accordance with the SPRS Software User’s
+            Guide for Awardees/Contractors available at <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
                   format="pdf"
-                  class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf?>ttps://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>.</p>
+                  class="- topic/xref "
+                  scope="external"><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf?></xref>.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
             class="- topic/p ">(3) A
@@ -360,7 +365,10 @@ NIST SP 800-171 DoD Assessment (i.e., not more than 3 years old
 unless a lesser time is specified in the solicitation) posted in
 SPRS, the subcontractor may conduct and submit a Basic Assessment,
 in accordance with the NIST SP 800-171 DoD Assessment Methodology,
-to <xref href="mailto:webptsmh@navy.mil" class="- topic/xref ">w<?FM MARKER [Hypertext] message URL mailto:webptsmh@navy.mil?>ebptsmh@navy.mil</xref> for
+to <xref href="mailto:webptsmh@navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">mailto:webptsmh@navy.mil</xref> for
 posting to SPRS along with the information required by paragraph
 (d) of this clause.</p>
          <p rev="Revised November 30, 2020"
