@@ -1,199 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS-PGI_PART_219"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS-PGI_PART_219">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI PART 219</ph> - SMALL BUSINESS PROGRAMS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_219.2.dita#i1496415"
-                        class="- topic/xref ">PGI 219.2 —POLICIES</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_219.2.dita#i1496415">PGI 219.2 —POLICIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.201.dita#DFARS-PGI_PGI_219.201"
-                              class="- topic/xref ">PGI 219.201 General policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.201.dita#DFARS-PGI_PGI_219.201">PGI 219.201 General policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_219.3.dita#i1496425"
-                        class="- topic/xref ">PGI 219.3 —DETERMINATION OF SMALL BUSINESS STATUS</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_219.3.dita#i1496425">PGI 219.3 —DETERMINATION OF SMALL BUSINESS STATUS</xref>
                </p>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_219.6.dita#i1496430"
-                        class="- topic/xref ">PGI 219.6 —CERTIFICATES OF COMPETENCY</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_219.6.dita#i1496430">PGI 219.6 —CERTIFICATES OF COMPETENCY</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.602.dita#DFARS-PGI_PGI_219.602"
-                              class="- topic/xref ">PGI 219.602 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.602.dita#DFARS-PGI_PGI_219.602">PGI 219.602 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.602-1.dita#DFARS-PGI_PGI_219.602-1"
-                                    class="- topic/xref ">PGI 219.602-1 Referral.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.602-1.dita#DFARS-PGI_PGI_219.602-1">PGI 219.602-1 Referral.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.602-3.dita#DFARS-PGI_PGI_219.602-3"
-                                    class="- topic/xref ">PGI 219.602-3 Resolving differences between the agency and the Small Business Administration.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.602-3.dita#DFARS-PGI_PGI_219.602-3">PGI 219.602-3 Resolving differences between the agency and the Small Business Administration.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_219.7.dita#i1496442"
-                        class="- topic/xref ">PGI 219.7 —THE SMALL BUSINESS SUBCONTRACTING PROGRAM</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_219.7.dita#i1496442">PGI 219.7 —THE SMALL BUSINESS SUBCONTRACTING PROGRAM</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.705.dita#DFARS-PGI_PGI_219.705"
-                              class="- topic/xref ">PGI 219.705 Responsibilities of the contracting officer under the subcontracting assistance program.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.705.dita#DFARS-PGI_PGI_219.705">PGI 219.705 Responsibilities of the contracting officer under the subcontracting assistance program.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.705-4.dita#DFARS-PGI_PGI_219.705-4"
-                                    class="- topic/xref ">PGI 219.705-4 Reviewing the subcontracting plan.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.705-4.dita#DFARS-PGI_PGI_219.705-4">PGI 219.705-4 Reviewing the subcontracting plan.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.705-6.dita#DFARS-PGI_PGI_219.705-6"
-                                    class="- topic/xref ">PGI 219.705-6 Postaward responsibilities of the contracting officer.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.705-6.dita#DFARS-PGI_PGI_219.705-6">PGI 219.705-6 Postaward responsibilities of the contracting officer.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_219.8.dita#i1496450"
-                        class="- topic/xref ">PGI 219.8 —CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(A) PROGRAM)</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_219.8.dita#i1496450">PGI 219.8 —CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(A) PROGRAM)</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.800.dita#DFARS-PGI_PGI_219.800"
-                              class="- topic/xref ">PGI 219.800 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.800.dita#DFARS-PGI_PGI_219.800">PGI 219.800 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.803.dita#DFARS-PGI_PGI_219.803"
-                              class="- topic/xref ">PGI 219.803 Selecting acquisitions for the 8(a) Program.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.803.dita#DFARS-PGI_PGI_219.803">PGI 219.803 Selecting acquisitions for the 8(a) Program.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.804.dita#DFARS-PGI_PGI_219.804"
-                              class="- topic/xref ">PGI 219.804 Evaluation, offering, and acceptance.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.804.dita#DFARS-PGI_PGI_219.804">PGI 219.804 Evaluation, offering, and acceptance.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.804-2.dita#DFARS-PGI_PGI_219.804-2"
-                                    class="- topic/xref ">PGI 219.804-2 Agency offering.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.804-2.dita#DFARS-PGI_PGI_219.804-2">PGI 219.804-2 Agency offering.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.804-3.dita#DFARS-PGI_PGI_219.804-3"
-                                    class="- topic/xref ">PGI 219.804-3 SBA acceptance.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.804-3.dita#DFARS-PGI_PGI_219.804-3">PGI 219.804-3 SBA acceptance.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.805.dita#DFARS-PGI_PGI_219.805"
-                              class="- topic/xref ">PGI 219.805 Competitive 8(a).</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.805.dita#DFARS-PGI_PGI_219.805">PGI 219.805 Competitive 8(a).</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.805-2.dita#DFARS-PGI_PGI_219.805-2"
-                                    class="- topic/xref ">PGI 219.805-2 Procedures.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.805-2.dita#DFARS-PGI_PGI_219.805-2">PGI 219.805-2 Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.808.dita#DFARS-PGI_PGI_219.808"
-                              class="- topic/xref ">PGI 219.808 Contract negotiations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.808.dita#DFARS-PGI_PGI_219.808">PGI 219.808 Contract negotiations.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.808-1.dita#DFARS-PGI_PGI_219.808-1"
-                                    class="- topic/xref ">PGI 219.808-1 Sole source.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.808-1.dita#DFARS-PGI_PGI_219.808-1">PGI 219.808-1 Sole source.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_219.811.dita#DFARS-PGI_PGI_219.811"
-                              class="- topic/xref ">PGI 219.811 Preparing the contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_219.811.dita#DFARS-PGI_PGI_219.811">PGI 219.811 Preparing the contracts.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.811-1.dita#DFARS-PGI_PGI_219.811-1"
-                                    class="- topic/xref ">PGI 219.811-1 Sole source.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.811-1.dita#DFARS-PGI_PGI_219.811-1">PGI 219.811-1 Sole source.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_219.811-2.dita#DFARS-PGI_PGI_219.811-2"
-                                    class="- topic/xref ">PGI 219.811-2 Competitive.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_219.811-2.dita#DFARS-PGI_PGI_219.811-2">PGI 219.811-2 Competitive.</xref>
                            </p>
                         </li>
                      </ul>
