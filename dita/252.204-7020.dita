@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-252.204-7020"
             rev="Added November 30, 2020"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -15,8 +16,8 @@ DoD Assessment Requirements.</title>
                <xref href="204.7304.dita#DFARS-204.7304"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">204.7304</xref>
-            </ph>(e), use the following
-provision:</p>
+            </ph>(e), use
+the following clause:</p>
          <p rev="Revised November 30, 2020"
             outputclass="Ctr_SmCaps"
             class="- topic/p ">NIST
@@ -123,22 +124,23 @@ DoD Assessment Methodology at <xref href="https://www.acq.osd.mil/dpap/pdi/cyber
 if necessary.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List1"
-            class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Procedures</i>. Summary level scores for all assessments
-            will be posted in the Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/"
-                  class="- topic/xref "
+            class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Procedures</i>.
+Summary level scores for all assessments will be posted in the Supplier
+Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/"
                   format="html"
-                  scope="external"><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?></xref>) to
-            provide DoD Components visibility into the summary level scores of strategic
-            assessments.</p>
+                  scope="external"
+                  class="- topic/xref "><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?></xref>) to provide DoD Components visibility
+into the summary level scores of strategic assessments.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
-            class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Basic Assessments</i>. A contractor may submit, via
-            encrypted email, summary level scores of Basic Assessments conducted in accordance with
-            the NIST SP 800-171 DoD Assessment Methodology to <xref href="mailto:webptsmh@navy.mil"
-                  class="- topic/xref "
+            class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Basic
+Assessments</i>. A contractor may submit, via encrypted email, summary
+level scores of Basic Assessments conducted in accordance with the
+NIST SP 800-171 DoD Assessment Methodology to <xref href="mailto:webptsmh@navy.mil"
                   format="html"
-                  scope="external"><?FM MARKER [Hypertext] message URL mailto:webptsmh@navy.mil?></xref> for posting to
-            SPRS.</p>
+                  scope="external"
+                  class="- topic/xref "><?FM MARKER [Hypertext] message URL mailto:webptsmh@navy.mil?></xref> for
+posting to SPRS.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List3"
             class="- topic/p ">(i) The
@@ -316,12 +318,13 @@ and Product Performance Information (PI).</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
             class="- topic/p ">(2) Authorized
-            representatives of the Contractor for which the assessment was conducted may access SPRS
-            to view their own summary level scores, in accordance with the SPRS Software User’s
-            Guide for Awardees/Contractors available at <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
+representatives of the Contractor for which the assessment was conducted
+may access SPRS to view their own summary level scores, in accordance
+with the SPRS Software User’s Guide for Awardees/Contractors available
+at <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
                   format="pdf"
-                  class="- topic/xref "
-                  scope="external"><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf?></xref>.</p>
+                  scope="external"
+                  class="- topic/xref "><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf?></xref>.</p>
          <p rev="Revised November 30, 2020"
             outputclass="List2"
             class="- topic/p ">(3) A
@@ -368,13 +371,13 @@ in accordance with the NIST SP 800-171 DoD Assessment Methodology,
 to <xref href="mailto:webptsmh@navy.mil"
                   format="html"
                   scope="external"
-                  class="- topic/xref ">mailto:webptsmh@navy.mil</xref> for
-posting to SPRS along with the information required by paragraph
-(d) of this clause.</p>
+                  class="- topic/xref ">mailto:webptsmh@navy.mil</xref> for posting
+to SPRS along with the information required by paragraph (d) of
+this clause.</p>
          <p rev="Revised November 30, 2020"
             outputclass="Ctr"
             class="- topic/p ">(End of
-provision)</p>
+clause)</p>
       </conbody>
    </concept>
 </dita>
