@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-252.204-7019"
-            rev="Added November 30, 2020"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,19 +13,15 @@ SP 800-171 DoD Assessment Requirements.</title>
          <p class="- topic/p ">As prescribed in 204.7304(d), use the following provision:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">NOTICE OF NIST SP 800-171 DOD ASSESSMENT
 REQUIREMENTS (NOV 2020)</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List1"
-            class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>.</p>
-         <p rev="Revised November 30, 2020" class="- topic/p ">“Basic Assessment”, “Medium
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>.</p>
+         <p class="- topic/p ">“Basic Assessment”, “Medium
 Assessment”, and “High Assessment” have the meaning given in the
 clause 252.204-7020, NIST SP 800-171 DoD Assessments.</p>
-         <p rev="Revised November 30, 2020" class="- topic/p ">“Covered contractor information
+         <p class="- topic/p ">“Covered contractor information
 system” has the meaning given in the clause 252.204-7012, Safeguarding
 Covered Defense Information and Cyber Incident Reporting, of this
 solicitation.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List1"
-            class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Requirement</i>.
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Requirement</i>.
 In order to be considered for award, if the Offeror is required
 to implement NIST SP 800-171, the Offeror shall have a current assessment
 (i.e., not more than 3 years old unless a lesser time is specified
@@ -38,12 +33,8 @@ Methodology located at <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strate
                   format="html"
                   scope="external"
                   class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html?>ttps://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html</xref>.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List1"
-            class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Procedures</i>.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List2"
-            class="- topic/p ">(1) The Offeror
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Procedures</i>.</p>
+         <p outputclass="List2" class="- topic/p ">(1) The Offeror
             shall verify that summary level scores of a current NIST SP 800-171 DoD Assessment
             (i.e., not more than 3 years old unless a lesser time is specified in the solicitation)
             are posted in the Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/"
@@ -51,9 +42,7 @@ Methodology located at <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strate
                   format="html"
                   scope="external"><?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/?></xref>) for all
             covered contractor information systems relevant to the offer.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List2"
-            class="- topic/p ">(2) If the
+         <p outputclass="List2" class="- topic/p ">(2) If the
             Offeror does not have summary level scores of a current NIST SP 800-171 DoD Assessment
             (i.e., not more than 3 years old unless a lesser time is specified in
             t<?FM MARKER [Hypertext] message URL https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf?>he
@@ -63,64 +52,40 @@ Methodology located at <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strate
                   format="html"
                   scope="external"><?FM MARKER [Hypertext] message URL mailto:webptsmh@navy.mil?></xref> for posting to
             SPRS in the format identified in paragraph (d) of this provision.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List1"
-            class="- topic/p ">(d)<i class="+ topic/ph hi-d/i "> Summary
+         <p outputclass="List1" class="- topic/p ">(d)<i class="+ topic/ph hi-d/i "> Summary
 level scores</i>. Summary level scores for all assessments will
 be posted 30 days post-assessment in SPRS to provide DoD Components
 visibility into the summary level scores of strategic assessments.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List2"
-            class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Basic
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Basic
 Assessments</i>. An Offeror may follow the procedures in paragraph
 (c)(2) of this provision for posting Basic Assessments to SPRS.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(i) The
+         <p outputclass="List3" class="- topic/p ">(i) The
 email shall include the following information:</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List4"
-            class="- topic/p ">(A) Cybersecurity
+         <p outputclass="List4" class="- topic/p ">(A) Cybersecurity
 standard assessed (e.g., NIST SP 800-171 Rev 1).</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List4"
-            class="- topic/p ">(B) Organization
+         <p outputclass="List4" class="- topic/p ">(B) Organization
 conducting the assessment (e.g., Contractor self-assessment).</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List4"
-            class="- topic/p ">(C) For
+         <p outputclass="List4" class="- topic/p ">(C) For
 each system security plan (security requirement 3.12.4) supporting
 the performance of a DoD contract—</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List2"
-            class="- topic/p ">(1) All
+         <p outputclass="List2" class="- topic/p ">(1) All
 industry Commercial and Government Entity (CAGE) code(s) associated
 with the information system(s) addressed by the system security
 plan; and</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List2"
-            class="- topic/p ">(2) A
+         <p outputclass="List2" class="- topic/p ">(2) A
 brief description of the system security plan architecture, if more
 than one plan exists.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List4"
-            class="- topic/p ">(D) Date
+         <p outputclass="List4" class="- topic/p ">(D) Date
 the assessment was completed.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List4"
-            class="- topic/p ">(E) Summary
+         <p outputclass="List4" class="- topic/p ">(E) Summary
 level score (e.g., 95 out of 110, NOT the individual value for each
 requirement).</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List4"
-            class="- topic/p ">(F) Date
+         <p outputclass="List4" class="- topic/p ">(F) Date
 that all requirements are expected to be implemented (i.e., a score
 of 110 is expected to be achieved) based on information gathered
 from associated plan(s) of action developed in accordance with NIST
 SP 800-171.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(ii)
+         <p outputclass="List3" class="- topic/p ">(ii)
 If multiple system security plans are addressed in the email described
 at paragraph (d)(1)(i) of this section, the Offeror shall use the
 following format for the report:</p>
@@ -172,60 +137,38 @@ following format for the report:</p>
                </tbody>
             </tgroup>
          </table>
-         <p rev="Revised November 30, 2020"
-            outputclass="List2"
-            class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Medium
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Medium
 and High Assessments</i>. DoD will post the following Medium and/or
 High Assessment summary level scores to SPRS for each system assessed:</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(i) The
+         <p outputclass="List3" class="- topic/p ">(i) The
 standard assessed (e.g., NIST SP 800-171 Rev 1).</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(ii)
+         <p outputclass="List3" class="- topic/p ">(ii)
 Organization conducting the assessment, e.g., DCMA, or a specific
 organization (identified by Department of Defense Activity Address
 Code (DoDAAC)).</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(iii)
+         <p outputclass="List3" class="- topic/p ">(iii)
 All industry CAGE code(s) associated with the information system(s)
 addressed by the system security plan.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(iv)
+         <p outputclass="List3" class="- topic/p ">(iv)
 A brief description of the system security plan architecture, if
 more than one system security plan exists.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(v) Date
+         <p outputclass="List3" class="- topic/p ">(v) Date
 and level of the assessment, i.e., medium or high.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(vi)
+         <p outputclass="List3" class="- topic/p ">(vi)
 Summary level score (e.g., 105 out of 110, not the individual value
 assigned for each requirement).</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(vii)
+         <p outputclass="List3" class="- topic/p ">(vii)
 Date that all requirements are expected to be implemented (i.e.,
 a score of 110 is expected to be achieved) based on information
 gathered from associated plan(s) of action developed in accordance
 with NIST SP 800-171.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List2"
-            class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Accessibility</i>.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(i) Assessment
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Accessibility</i>.</p>
+         <p outputclass="List3" class="- topic/p ">(i) Assessment
 summary level scores posted in SPRS are available to DoD personnel,
 and are protected, in accordance with the standards set forth in
 DoD Instruction 5000.79, Defense-wide Sharing and Use of Supplier
 and Product Performance Information (PI).</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(ii)
+         <p outputclass="List3" class="- topic/p ">(ii)
 Authorized representatives of the Offeror for which the assessment
 was conducted may access SPRS to view their own summary level scores,
 in accordance with the SPRS Software User’s Guide for Awardees/Contractors
@@ -233,9 +176,7 @@ available at <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
                   format="pdf"
                   scope="external"
                   class="- topic/xref ">https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>.</p>
-         <p rev="Revised November 30, 2020"
-            outputclass="List3"
-            class="- topic/p ">(iii)
+         <p outputclass="List3" class="- topic/p ">(iii)
 A High NIST SP 800-171 DoD Assessment may result in documentation
 in addition to that listed in this section. DoD will retain and
 protect any such documentation as “Controlled Unclassified Information
