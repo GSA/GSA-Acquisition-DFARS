@@ -2,30 +2,41 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_245.103-72"
             outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 245.103-72</ph> Government-furnished property attachments to solicitations and awards.</title>
+         <ph props="autonumber" class="- topic/ph ">PGI 245.103-72</ph> Government-furnished
+property attachments to solicitations and awards.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  When Government-furnished property (GFP) is anticipated, include the fillable electronic “Requisitioned Government Furnished Property” and/or “Scheduled Government Furnished Property” formats provided at the URLs listed in paragraphs (b) and (c) in solicitations and awards to—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Specify the required GFP data elements; and </p>
-         <p outputclass="List2" class="- topic/p ">(2)  Accomplish the electronic transmission of requisitioned GFP lists and/or scheduled GFP lists.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Requisitioned Government-furnished property</i>.  This format is a listing of Government Property to be authorized for contractor requisition from DoD supply sources in accordance with the clause at FAR 52.251-1.  The fillable PDF format for this attachment is available at the DoD Procurement Toolbox http://dodprocurementtoolbox.org/site/detail/id/26.  In accordance with PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_204.7105"
-                  href="PGI_204.7105.dita#DFARS-PGI_PGI_204.7105">204.7105</xref>
-            (b)(5), enter a numerical sequence number for the attachment.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">Scheduled Government-furnished property</i>.  This format is a listing of the Government property to be provided, including when major end items are being provided under a modification or upgrade contract; or when reparables are being provided under a repair, modification, or overhaul contract.  The fillable PDF format for this attachment is available at the DoD Procurement Toolbox http://dodprocurementtoolbox.org/site/detail/id/26.  In accordance with PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_204.7105"
-                  href="PGI_204.7105.dita#DFARS-PGI_PGI_204.7105">204.7105</xref>
-            (b)(5), enter a numerical sequence number for the attachment.</p>
+         <p outputclass="List1" class="- topic/p ">(a) When Government-furnished
+property (GFP) is anticipated, <ph rev="Revised January 15, 2021" class="- topic/ph ">create
+the GFP attachment in the GFP module of the Procurement Integrated
+Enterprise Environment (PIEE) at<xref href="https://piee.eb.mil/piee-landing"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref "> https://piee.eb.mil/piee-landing</xref> to</ph>—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Specify the required GFP data elements;
+and</p>
+         <p rev="Revised January 15, 2021"
+            outputclass="List2"
+            class="- topic/p ">(2)  Identify
+GFP serially-managed items, GFP nonserially-managed items, and GFP
+items that may be requisitioned from the DoD supply system by the
+contractor; and</p>
+         <p outputclass="List2" class="- topic/p ">(<ph rev="Revised January 15, 2021" class="- topic/ph ">3</ph>)
+Accomplish the electronic transmission of <ph rev="Revised January 15, 2021" class="- topic/ph ">the GFP attachment to the contract
+in the Electronic Data Access application in the PIEE</ph>.</p>
+         <p rev="Revised January 15, 2021"
+            outputclass="List1"
+            class="- topic/p ">(b) For
+more information on the GFP attachments, see <xref href="https://dodprocurementtoolbox.com/site-pages/gfp-attachments"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://dodprocurementtoolbox.com/site-pages/gfp-attachments</xref>.]</p>
       </conbody>
    </concept>
 </dita>
