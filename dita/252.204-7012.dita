@@ -10,12 +10,12 @@
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.204-7012</ph> Safeguarding Covered Defense Information and Cyber Incident Reporting.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
+         <p class="- topic/p ">As prescribed in 
                <xref href="204.7304.dita#DFARS-204.7304"
-                     base="DFARS-204.7304"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">204.7304</xref>
-            </ph>(c), use the following clause:</p>
+                  base="DFARS-204.7304"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.7304</xref>
+            (c), use the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING (DEC 2019)</p>
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause—</p>
          <p class="- topic/p ">“Adequate security” means protective measures that are commensurate with the consequences and probability of loss, misuse, or unauthorized access to, or modification of information.</p>
@@ -33,21 +33,21 @@
          <p class="- topic/p ">“Media” means physical devices or writing surfaces including, but is not limited to, magnetic tapes, optical disks, magnetic disks, large-scale integration memory chips, and printouts onto which covered defense information is recorded, stored, or printed within a covered contractor information system.</p>
          <p class="- topic/p ">‘‘Operationally critical support’’ means supplies or services designated by the Government as critical for airlift, sealift, intermodal transportation services, or logistical support that is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.</p>
          <p class="- topic/p ">“Rapidly report” means within 72 hours of discovery of any cyber incident.</p>
-         <p class="- topic/p ">“Technical information” means technical data or computer software, as those terms are defined in the clause at DFARS <ph xtrc="DFARxref" class="- topic/ph ">
+         <p class="- topic/p ">“Technical information” means technical data or computer software, as those terms are defined in the clause at DFARS 
                <xref href="252.227-7013.dita#DFARS-252.227-7013"
-                     base="i1382636"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">252.227-7013</xref>
-            </ph>, Rights in Technical Data—</p>
+                  base="i1382636"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.227-7013</xref>
+            , Rights in Technical Data—</p>
          <p class="- topic/p ">Noncommercial Items, regardless of whether or not the clause is incorporated in this solicitation or contract. Examples of technical information include research and engineering data, engineering drawings, and associated lists, specifications, standards, process sheets, manuals, technical reports, technical orders, catalog-item identifications, data sets, studies and analyses and related information, and computer software executable code and source code.</p>
          <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Adequate security</i>. The Contractor shall provide adequate security on all covered contractor information systems. To provide adequate security, the Contractor shall implement, at a minimum, the following information security protections:</p>
          <p outputclass="List2" class="- topic/p ">(1) For covered contractor information systems that are part of an Information Technology (IT) service or system operated on behalf of the Government, the following security requirements apply:</p>
-         <p outputclass="List3" class="- topic/p ">(i) Cloud computing services shall be subject to the security requirements specified in the clause <ph xtrc="DFARxref" class="- topic/ph ">
+         <p outputclass="List3" class="- topic/p ">(i) Cloud computing services shall be subject to the security requirements specified in the clause 
                <xref href="252.239-7010.dita#DFARS-252.239-7010"
-                     base="i1383758"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">252.239-7010</xref>
-            </ph>, Cloud Computing Services, of this contract.</p>
+                  base="i1383758"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.239-7010</xref>
+            , Cloud Computing Services, of this contract.</p>
          <p outputclass="List3" class="- topic/p ">(ii) Any other such IT service or system (i.e., other than cloud computing) shall be subject to the security requirements specified elsewhere in this contract.</p>
          <p outputclass="List2" class="- topic/p ">(2) For covered contractor information systems that are not part of an IT service or system operated on behalf of the Government and therefore are not subject to the security requirement specified at paragraph (b)(1) of this clause, the following security requirements apply:</p>
          <p outputclass="List3" class="- topic/p ">(i) Except as provided in paragraph (b)(2)(ii) of this clause, the covered contractor information system shall be subject to the security requirements in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171, “Protecting Controlled Unclassified Information in Nonfederal Information Systems and Organizations” (available via the internet at http://dx.doi.org/10.6028/NIST.SP.800-171) in effect at the time the solicitation is issued or as authorized by the Contracting Officer.</p>
@@ -72,12 +72,12 @@
          <p outputclass="List2" class="- topic/p ">(2) To entities that may be called upon to assist in the diagnosis, detection, or mitigation of cyber incidents;</p>
          <p outputclass="List2" class="- topic/p ">(3) To Government entities that conduct counterintelligence or law enforcement investigations;</p>
          <p outputclass="List2" class="- topic/p ">(4) For national security purposes, including cyber situational awareness and defense purposes (including with Defense Industrial Base (DIB) participants in the program at 32 CFR part 236); or</p>
-         <p outputclass="List2" class="- topic/p ">(5) To a support services contractor (“recipient”) that is directly supporting Government activities under a contract that includes the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+         <p outputclass="List2" class="- topic/p ">(5) To a support services contractor (“recipient”) that is directly supporting Government activities under a contract that includes the clause at 
                <xref href="252.204-7009.dita#DFARS-252.204-7009"
-                     base="i1380963"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">252.204-7009</xref>
-            </ph>, Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information.</p>
+                  base="i1380963"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.204-7009</xref>
+            , Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information.</p>
          <p outputclass="List1" class="- topic/p ">(j) <i class="+ topic/ph hi-d/i ">Use and release of contractor attributional/proprietary information created by or for DoD.</i> Information that is obtained from the contractor (or derived from information obtained from the contractor) under this clause that is created by or for DoD (including the information submitted pursuant to paragraph (c) of this clause) is authorized to be used and released outside of DoD for purposes and activities authorized by paragraph (i) of this clause, and for any other lawful Government purpose or activity, subject to all applicable statutory, regulatory, and policy based restrictions on the Government’s use and release of such information.</p>
          <p outputclass="List1" class="- topic/p ">(k) The Contractor shall conduct activities under this clause in accordance with applicable laws and regulations on the interception, monitoring, access, use, and disclosure of electronic communications and data.</p>
          <p outputclass="List1" class="- topic/p ">(l) <i class="+ topic/ph hi-d/i ">Other safeguarding or reporting requirements.</i> The safeguarding and cyber incident reporting required by this clause in no way abrogates the Contractor’s responsibility for other safeguarding or cyber incident reporting pertaining to its unclassified information systems as required by other applicable clauses of this contract, or as a result of other applicable U.S. Government statutory or regulatory requirements.</p>

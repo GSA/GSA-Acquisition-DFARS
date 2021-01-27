@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-212.301"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -42,8 +43,7 @@ the offeror to complete these provisions for a particular solicitation.</p>
 and Personal Conflicts of Interest.</i>
          </p>
          <p outputclass="List4" class="- topic/p ">(A) Use the FAR clause at 52.203-3, Gratuities,
-as prescribed in <ph xtrc="FARxref" class="- topic/ph ">FAR 3.202</ph>, to comply
-with 10 U.S.C. 2207.</p>
+as prescribed in FAR 3.202, to comply with 10 U.S.C. 2207.</p>
          <p outputclass="List4" class="- topic/p ">(B) Use the clause at <xref href="252.203-7000.dita#DFARS-252.203-7000"
                   base="DFARS-252.203-7000"
                   outputclass="fm:ParaNumOnly"
@@ -125,7 +125,8 @@ as prescribed in <xref href="204.7403.dita#DFARS-204.7403"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.7403</xref>(b),
 to comply with 10 U.S.C. 129d.</p>
-         <p outputclass="List4" class="- topic/p ">(H) Use the provision at <xref href="252.204-7016.dita#DFARS-252.204-7016"
+         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised January 15, 2021" class="- topic/ph ">G</ph>)
+Use the provision at <xref href="252.204-7016.dita#DFARS-252.204-7016"
                   base="DFARS-252.204-7016"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.204-7016</xref>,
@@ -136,7 +137,8 @@ as prescribed in <xref href="204.2105.dita#DFARS-204.2105"
                   class="- topic/xref ">204.2105</xref>(a),
 to comply with section 1656 of the National Defense Authorization
 Act for Fiscal Year 2018 (Pub. L. 115-91).</p>
-         <p outputclass="List4" class="- topic/p ">(I) Use the provision at <xref href="252.204-7017.dita#DFARS-252.204-7017"
+         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised January 15, 2021" class="- topic/ph ">H</ph>)
+Use the provision at <xref href="252.204-7017.dita#DFARS-252.204-7017"
                   base="DFARS-252.204-7017"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.204-7017</xref>,
@@ -147,7 +149,8 @@ or Services - Representation, as prescribed in <xref href="204.2105.dita#DFARS-2
                   class="- topic/xref ">204.2105</xref>(b), to comply
 with section 1656 of the National Defense Authorization Act for
 Fiscal Year 2018 (Pub. L. 115-91).</p>
-         <p outputclass="List4" class="- topic/p ">(J) Use the clause at <xref href="252.204-7018.dita#DFARS-252.204-7018"
+         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised January 15, 2021" class="- topic/ph ">I</ph>)
+Use the clause at <xref href="252.204-7018.dita#DFARS-252.204-7018"
                   base="DFARS-252.204-7018"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.204-7018</xref>,
@@ -158,39 +161,31 @@ Equipment or Services, as prescribed in <xref href="204.2105.dita#DFARS-204.2105
                   class="- topic/xref ">204.2105</xref>(c), to comply
 with section 1656 of the National Defense Authorization Act for
 Fiscal Year 2018 (Pub. L. 115-91).</p>
-         <p outputclass="List4" class="- topic/p ">(K) Use the provision at <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="252.204-7019.dita#DFARS-252.204-7019"
-                     base="i1380987"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">252.204-7019</xref>
-            </ph>, Notice
-of NIST SP 800-171 DoD Assessment Requirements, as prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="204.7304.dita#DFARS-204.7304"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">204.7304</xref>
-            </ph>(d).</p>
-         <p outputclass="List4" class="- topic/p ">(L) Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="252.204-7020.dita#DFARS-252.204-7020"
-                     base="i1380987"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">252.204-7020</xref>
-            </ph>, NIST
-SP 800-171 DoD Assessment Requirements, as prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="204.7304.dita#DFARS-204.7304"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">204.7304</xref>
-            </ph>(e).</p>
-         <p outputclass="List4" class="- topic/p ">(M) Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="252.204-7021.dita#DFARS-252.204-7021"
-                     base="i1380987"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">252.204-7021</xref>
-            </ph>, Cybersecurity
-Maturity Model Certification Requirements, as prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="204.7503.dita#DFARS-204.7503"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">204.7503</xref>
-            </ph>(a) and (b).</p>
+         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised January 15, 2021" class="- topic/ph ">J</ph>)
+Use the provision at <xref href="252.204-7019.dita#DFARS-252.204-7019"
+                  base="i1380987"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.204-7019</xref> ,
+Notice of NIST SP 800-171 DoD Assessment Requirements, as prescribed in <xref href="204.7304.dita#DFARS-204.7304"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.7304</xref> (d).</p>
+         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised January 15, 2021" class="- topic/ph ">K</ph>)
+Use the clause at <xref href="252.204-7020.dita#DFARS-252.204-7020"
+                  base="i1380987"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.204-7020</xref> ,
+NIST SP 800-171 DoD Assessment Requirements, as prescribed in <xref href="204.7304.dita#DFARS-204.7304"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.7304</xref> (e).</p>
+         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised January 15, 2021" class="- topic/ph ">L</ph>)
+Use the clause at <xref href="252.204-7021.dita#DFARS-252.204-7021"
+                  base="i1380987"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.204-7021</xref> ,
+Cybersecurity Maturity Model Certification Requirements, as prescribed
+in <xref href="204.7503.dita#DFARS-204.7503"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.7503</xref> (a) and (b).</p>
          <p outputclass="List3" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">Part 205 - Publicizing Contract
 Actions.</i> Use the clause at <xref href="252.205-7000.dita#DFARS-252.205-7000"
                   base="DFARS-252.205-7000"
@@ -762,7 +757,7 @@ to comply with 10 U.S.C. 2279.</p>
                   base="DFARS-252.225-7052"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.225-7052</xref>,
-Restriction on the Acquisition of Certain Magnets<ph class="- topic/ph ">, Tantalum,</ph> and
+Restriction on the Acquisition of Certain Magnets, Tantalum, and
 Tungsten, as prescribed in 225.7018-5.</p>
          <p outputclass="List3" class="- topic/p ">(x) <i class="+ topic/ph hi-d/i ">Part 226 - Other Socioeconomic Programs.</i> (A)
 Use the clause at <xref href="252.226-7001.dita#DFARS-252.226-7001"
@@ -828,10 +823,8 @@ in <xref href="227.7102-4.dita#DFARS-227.7102-4"
                   base="DFARS-227.7102-4"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">227.7102-4</xref>(c).</p>
-         <p rev="Revised November 23, 2020"
-            outputclass="List3"
-            class="- topic/p ">(xii) <i class="+ topic/ph hi-d/i ">Part
-232 - Contract Financing.</i> (A) Use the clause at <xref href="252.232-7003.dita#DFARS-252.232-7003"
+         <p outputclass="List3" class="- topic/p ">(xii) <i class="+ topic/ph hi-d/i ">Part 232 - Contract Financing.</i> (A)
+Use the clause at <xref href="252.232-7003.dita#DFARS-252.232-7003"
                   base="DFARS-252.232-7003"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.232-7003</xref>,
@@ -891,8 +884,8 @@ on Fees and Consideration, as prescribed in <xref href="232.009-2.dita#DFARS-232
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">232.009-2</xref>(2), to comply
 with 10 U.S.C. 2307(a).</p>
-         <p outputclass="List3" class="- topic/p ">(<ph rev="Revised November 23, 2020" class="- topic/ph ">xiii</ph>) <i class="+ topic/ph hi-d/i ">Part
-237 - Service Contracting.</i> (A) Use the clause at <xref href="252.237-7010.dita#DFARS-252.237-7010"
+         <p outputclass="List3" class="- topic/p ">(xiii) <i class="+ topic/ph hi-d/i ">Part 237 - Service Contracting.</i> (A)
+Use the clause at <xref href="252.237-7010.dita#DFARS-252.237-7010"
                   base="DFARS-252.237-7010"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.237-7010</xref>,
@@ -912,8 +905,8 @@ prescribed in <xref href="237.171-4.dita#DFARS-237.171-4"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">237.171-4</xref>,
 to comply with section 1092 of Pub. L. 108-375.</p>
-         <p outputclass="List3" class="- topic/p ">(<ph rev="Revised November 23, 2020" class="- topic/ph ">xiv</ph>) <i class="+ topic/ph hi-d/i ">Part
-239 - Acquisition of Information Technology.</i> (A) Use the provision <xref href="252.239-7009.dita#DFARS-252.239-7009"
+         <p outputclass="List3" class="- topic/p ">(xiv) <i class="+ topic/ph hi-d/i ">Part 239 - Acquisition of Information
+Technology.</i> (A) Use the provision <xref href="252.239-7009.dita#DFARS-252.239-7009"
                   base="DFARS-252.239-7009"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.239-7009</xref>,
@@ -947,8 +940,8 @@ Supply Chain Risk, as prescribed in <xref href="239.7306.dita#DFARS-239.7306"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">239.7306</xref>(b), to comply
 with 10 U.S.C. 2339a.</p>
-         <p outputclass="List3" class="- topic/p ">(<ph rev="Revised November 23, 2020" class="- topic/ph ">xv</ph>) <i class="+ topic/ph hi-d/i ">Part
-243 - Contract Modifications.</i> Use the clause at <xref href="252.243-7002.dita#DFARS-252.243-7002"
+         <p outputclass="List3" class="- topic/p ">(xv) <i class="+ topic/ph hi-d/i ">Part 243 - Contract Modifications.</i> Use
+the clause at <xref href="252.243-7002.dita#DFARS-252.243-7002"
                   base="DFARS-252.243-7002"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.243-7002</xref>,
@@ -957,9 +950,8 @@ Requests for Equitable Adjustment, as prescribed in <xref href="243.205-71.dita#
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">243.205-71</xref>, to comply
 with 10 U.S.C. 2410.</p>
-         <p outputclass="List3" class="- topic/p ">(<ph rev="Revised November 23, 2020" class="- topic/ph ">xvi</ph>) <i class="+ topic/ph hi-d/i ">Part
-244 - Subcontracting Policies and Procedures.</i> Use the clause
-at <xref href="252.244-7000.dita#DFARS-252.244-7000"
+         <p outputclass="List3" class="- topic/p ">(xvi) <i class="+ topic/ph hi-d/i ">Part 244 - Subcontracting Policies
+and Procedures.</i> Use the clause at <xref href="252.244-7000.dita#DFARS-252.244-7000"
                   base="DFARS-252.244-7000"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.244-7000</xref>,
@@ -967,8 +959,7 @@ Subcontracts for Commercial Items, as prescribed in <xref href="244.403.dita#DFA
                   base="DFARS-244.403"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">244.403</xref>.</p>
-         <p outputclass="List3" class="- topic/p ">(<ph rev="Revised November 23, 2020" class="- topic/ph ">xvii</ph>) <i class="+ topic/ph hi-d/i ">Part
-246 - Quality Assurance.</i>
+         <p outputclass="List3" class="- topic/p ">(xvii) <i class="+ topic/ph hi-d/i ">Part 246 - Quality Assurance.</i>
          </p>
          <p outputclass="List4" class="- topic/p ">(A) Use the clause at <xref href="252.246-7003.dita#DFARS-252.246-7003"
                   base="DFARS-252.246-7003"
@@ -997,8 +988,7 @@ with section 818(c)(3) of Public Law 112-81, as amended by section
 817 of the National Defense Authorization Act for Fiscal Year 2015
 (Pub. L. 113-291 and section 885 of the National Defense Authorization
 Act for Fiscal Year 2016 (Pub. L. 114-92).</p>
-         <p outputclass="List3" class="- topic/p ">(<ph rev="Revised November 23, 2020" class="- topic/ph ">xviii</ph>) <i class="+ topic/ph hi-d/i ">Part
-247 - Transportation.</i>
+         <p outputclass="List3" class="- topic/p ">(xviii) <i class="+ topic/ph hi-d/i ">Part 247 - Transportation.</i>
          </p>
          <p outputclass="List4" class="- topic/p ">(A) Use the clause at <xref href="252.247-7003.dita#DFARS-252.247-7003"
                   base="DFARS-252.247-7003"

@@ -2,27 +2,37 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_245.103-71"
             outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 245.103-71</ph>  Transferring Government property accountability. </title>
+         <ph props="autonumber" class="- topic/ph ">PGI 245.103-71</ph> Transferring
+Government property accountability.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1)  Use only the Standard Form 30 to execute transfers of Government property accountability between existing contracts.  No other forms or documents, such as the DD Form 1149, Requisition and Invoice/Shipping Document, are authorized for the transfer of Government property accountability from one contract to another.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Modifications for the transfer of Government property accountability shall:</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Use the fillable PDF formats prescribed at PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="DFARS-PGI_PGI_245.103-72"
-                     href="PGI_245.103-72.dita#DFARS-PGI_PGI_245.103-72">245.103-72</xref>
-            </ph>.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Incorporate FAR clauses 52.245-1, Government Property, and 52.245-9, Use and Charges, and the associated DFARS clauses (see <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+         <p outputclass="List2" class="- topic/p ">(1) Use only the Standard Form
+30 to execute transfers of Government property accountability between
+existing contracts. No other forms or documents, such as the DD
+Form 1149, Requisition and Invoice/Shipping Document, are authorized for
+the transfer of Government property accountability from one contract
+to another.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Modifications for the transfer of Government
+property accountability shall:</p>
+         <p outputclass="List3" class="- topic/p ">(i) Use the <ph rev="Revised January 15, 2021" class="- topic/ph ">Government-furnished property
+(GFP) attachment</ph> prescribed at PGI <xref href="PGI_245.103-72.dita#DFARS-PGI_PGI_245.103-72"
+                  base="DFARS-PGI_PGI_245.103-72"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">245.103-72</xref> .</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Incorporate FAR clauses 52.245-1,
+Government Property, and 52.245-9, Use and Charges, and the associated DFARS
+clauses (see <xref href="245.107.dita#DFARS-245.107"
                   base="DFARS-245.107"
-                  href="245.107.dita#DFARS-245.107">245.107</xref>, Contract clauses) to the extent that the gaining contract lacks the required clauses.</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">245.107</xref>,
+Contract clauses) to the extent that the gaining contract lacks
+the required clauses.</p>
       </conbody>
    </concept>
 </dita>

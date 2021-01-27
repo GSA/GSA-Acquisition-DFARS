@@ -2,7 +2,17 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "technicalContent/dtd/map.dtd" [
 ]>
 
-<map outputclass="dfars"><title>DFARS</title>
+<?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
+<?Fm ShowAll False?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<map outputclass="dfars"
+    xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<title>DFARS</title>
 <topicref navtitle="Volume III-Parts 201 to 253"
     href="VolumeIII-Parts201to253.dita" outputclass="Volume"
     props="VolumeIII-Parts201to253" audience="NoTitle"
@@ -52,8 +62,7 @@ Certifications.</navtitle></topicmeta></topicref>
     navtitle="201.109 Statutory acquisition-related dollar thresholds – adjustment for inflation."
     href="201.109.dita" outputclass="subtopic" props="201.109"
     audience="DFARS-201.109" base="concept"><topicmeta><navtitle>201.109
-Statutory acquisition-related dollar thresholds – adjustment for
-inflation.</navtitle></topicmeta></topicref>
+Statutory acquisition-related dollar thresholds –...</navtitle></topicmeta></topicref>
 <topicref navtitle="201.170 Peer reviews." href="201.170.dita"
     outputclass="subtopic" props="201.170"
     audience="DFARS-201.170" base="concept"><topicmeta><navtitle>201.170
@@ -74,7 +83,7 @@ The two councils.</navtitle></topicmeta></topicref>
     href="201.201-70.dita" outputclass="subtopic"
     props="201.201-70" audience="DFARS-201.201-70" base="concept">
 <topicmeta><navtitle>201.201-70 Maintenance of Procedures, Guidance,
-and Information.</navtitle></topicmeta></topicref></topicref></topicref>
+and Informa...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref navtitle="SUBPART 201.3 —AGENCY ACQUISITION REGULATIONS"
     href="SUBPART_201.3.dita" outputclass="SubPart"
     props="SUBPART 201.3" audience="DFARS-SUBPART_201.3"
@@ -139,7 +148,7 @@ Appointment.</navtitle></topicmeta></topicref></topicref>
     navtitle="201.670 Appointment of property administrators and plant clearance officers.  "
     href="201.670.dita" outputclass="subtopic" props="201.670"
     audience="DFARS-201.670" base="concept"><topicmeta><navtitle>201.670
-Appointment of property administrators and plant clearance officers.</navtitle></topicmeta></topicref></topicref></topicref>
+Appointment of property administrators and plant cl...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref navtitle="PART 202 - DEFINITIONS OF WORDS AND TERMS"
     href="PART_202.dita" outputclass="Part" props="PART 202"
     audience="DFARS-PART_202" base="NoTitle">
@@ -171,8 +180,7 @@ Reporting of violations and suspected violations.</navtitle></topicmeta></topicr
     navtitle="203.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information."
     href="203.104-4.dita" outputclass="subtopic" props="203.104-4"
     audience="DFARS-203.104-4" base="concept"><topicmeta><navtitle>203.104-4
-Disclosure, protection, and marking of contractor bid or proposal
-information and source selection information.</navtitle></topicmeta></topicref></topicref>
+Disclosure, protection, and marking of contractor...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="203.170 Business practices." href="203.170.dita"
     outputclass="subtopic" props="203.170"
     audience="DFARS-203.170" base="concept"><topicmeta><navtitle>203.170
@@ -448,7 +456,7 @@ Procedures.</navtitle></topicmeta></topicref>
     navtitle="204.1670 Cross reference to Federal Procurement Data System."
     href="204.1670.dita" outputclass="subtopic" props="204.1670"
     audience="DFARS-204.1670" base="concept"><topicmeta><navtitle>204.1670
-Cross reference to Federal Procurement Data System.</navtitle></topicmeta></topicref>
+Cross reference to Federal Procurement Data System...</navtitle></topicmeta></topicref>
 <topicref navtitle="204.1671 Order of application for modifications."
     href="204.1671.dita" outputclass="subtopic" props="204.1671"
     audience="DFARS-204.1671" base="concept"><topicmeta><navtitle>204.1671
@@ -552,8 +560,7 @@ Contract modifications.</navtitle></topicmeta></topicref>
     navtitle="204.7107 Contract accounting classification reference number (ACRN) and agency accounting identifier (AAI)."
     href="204.7107.dita" outputclass="subtopic" props="204.7107"
     audience="DFARS-204.7107" base="concept"><topicmeta><navtitle>204.7107
-Contract accounting classification reference number (ACRN) and agency
-accounting identifier (AAI).</navtitle></topicmeta></topicref>
+Contract accounting classification reference numbe...</navtitle></topicmeta></topicref>
 <topicref navtitle="204.7108 Payment instructions."
     href="204.7108.dita" outputclass="subtopic" props="204.7108"
     audience="DFARS-204.7108" base="concept"><topicmeta><navtitle>204.7108
@@ -752,8 +759,7 @@ Establishing or maintaining alternative sources.</navtitle></topicmeta></topicre
     navtitle="206.302-1 Only one responsible source and no other supplies or services will satisfy agency requirements."
     href="206.302-1.dita" outputclass="subtopic" props="206.302-1"
     audience="DFARS-206.302-1" base="concept"><topicmeta><navtitle>206.302-1
-Only one responsible source and no other supplies or services will
-satisfy agency requirements.</navtitle></topicmeta></topicref>
+Only one responsible source and no other supplies...</navtitle></topicmeta></topicref>
 <topicref navtitle="206.302-2 Unusual and compelling urgency."
     href="206.302-2.dita" outputclass="subtopic" props="206.302-2"
     audience="DFARS-206.302-2" base="concept"><topicmeta><navtitle>206.302-2
@@ -762,8 +768,7 @@ Unusual and compelling urgency.</navtitle></topicmeta></topicref>
     navtitle="206.302-3 Industrial mobilization, engineering, developmental, or research capability, or expert services."
     href="206.302-3.dita" outputclass="subtopic" props="206.302-3"
     audience="DFARS-206.302-3" base="concept"><topicmeta><navtitle>206.302-3
-Industrial mobilization, engineering, developmental, or research
-capability, or expert services.</navtitle></topicmeta></topicref>
+Industrial mobilization, engineering, development...</navtitle></topicmeta></topicref>
 <topicref navtitle="206.302-3-70 Solicitation provision."
     href="206.302-3-70.dita" outputclass="subtopic"
     props="206.302-3-70" audience="DFARS-206.302-3-70"
@@ -797,7 +802,7 @@ Content.</navtitle></topicmeta></topicref>
     href="206.303-70.dita" outputclass="subtopic"
     props="206.303-70" audience="DFARS-206.303-70" base="concept">
 <topicmeta><navtitle>206.303-70 Acquisitions in support of operations
-in Afghanistan.</navtitle></topicmeta></topicref></topicref>
+in Afghani...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="206.304 Approval of the justification."
     href="206.304.dita" outputclass="subtopic" props="206.304"
     audience="DFARS-206.304" base="concept"><topicmeta><navtitle>206.304
@@ -912,7 +917,7 @@ Definition.</navtitle></topicmeta></topicref>
     navtitle="207.7002 Authority to acquire additional quantities of end items."
     href="207.7002.dita" outputclass="subtopic" props="207.7002"
     audience="DFARS-207.7002" base="concept"><topicmeta><navtitle>207.7002
-Authority to acquire additional quantities of end items.</navtitle></topicmeta></topicref>
+Authority to acquire additional quantities of end ...</navtitle></topicmeta></topicref>
 <topicref navtitle="207.7003 Limitation.            "
     href="207.7003.dita" outputclass="subtopic" props="207.7003"
     audience="DFARS-207.7003" base="concept"><topicmeta><navtitle>207.7003
@@ -961,7 +966,7 @@ Order placement.</navtitle></topicmeta></topicref></topicref></topicref>
     href="208.602-70.dita" outputclass="subtopic"
     props="208.602-70" audience="DFARS-208.602-70" base="concept">
 <topicmeta><navtitle>208.602-70 Acquisition of items for which FPI
-has a significant market share.</navtitle></topicmeta></topicref></topicref>
+has a signifi...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="208.606 Evaluating FPI performance."
     href="208.606.dita" outputclass="subtopic" props="208.606"
     audience="DFARS-208.606" base="concept"><topicmeta><navtitle>208.606
@@ -1006,7 +1011,7 @@ Definitions.</navtitle></topicmeta></topicref>
     href="208.7003-1.dita" outputclass="subtopic"
     props="208.7003-1" audience="DFARS-208.7003-1" base="concept">
 <topicmeta><navtitle>208.7003-1 Assignments under integrated materiel
-management (IMM).</navtitle></topicmeta></topicref>
+management...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="208.7003-2 Assignments under coordinated acquisition."
     href="208.7003-2.dita" outputclass="subtopic"
@@ -1133,8 +1138,7 @@ Obtaining information.</navtitle></topicmeta></topicref>
     href="209.105-2-70.dita" props="209.105-2-70"
     audience="DFARS-209.105-2-70" base="concept"><topicmeta>
 <navtitle>209.105-2-70 Inclusion of determination of contractor
-fault in Federal Awardee Performance and Integrity Information System
-(FAPIIS).</navtitle></topicmeta></topicref></topicref></topicref>
+fault...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref navtitle="209.106 Preaward surveys." href="209.106.dita"
     outputclass="subtopic" props="209.106"
     audience="DFARS-209.106" base="concept"><topicmeta><navtitle>209.106
@@ -1295,12 +1299,12 @@ Lead system integrators.</navtitle></topicmeta></topicref>
     navtitle="209.571-6 Identification of organizational conflicts of interest."
     href="209.571-6.dita" outputclass="subtopic" props="209.571-6"
     audience="DFARS-209.571-6" base="concept"><topicmeta><navtitle>209.571-6
-Identification of organizational conflicts of interest.</navtitle></topicmeta></topicref>
+Identification of organizational conflicts of int...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="209.571-7 Systems engineering and technical assistance contracts."
     href="209.571-7.dita" outputclass="subtopic" props="209.571-7"
     audience="DFARS-209.571-7" base="concept"><topicmeta><navtitle>209.571-7
-Systems engineering and technical assistance contracts.</navtitle></topicmeta></topicref>
+Systems engineering and technical assistance cont...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="209.571-8 Solicitation provision and contract clause.  "
     href="209.571-8.dita" outputclass="subtopic" props="209.571-8"
@@ -1375,7 +1379,7 @@ Reserved.</navtitle></topicmeta></topicref>
     navtitle="211.271 Elimination of use of class I ozone-depleting substances."
     href="211.271.dita" outputclass="subtopic" props="211.271"
     audience="DFARS-211.271" base="concept"><topicmeta><navtitle>211.271
-Elimination of use of class I ozone-depleting substances.</navtitle></topicmeta></topicref>
+Elimination of use of class I ozone-depleting subst...</navtitle></topicmeta></topicref>
 <topicref navtitle="211.272Reserved" href="211.272.dita"
     outputclass="subtopic" props="211.272"
     audience="DFARS-211.272" base="concept"><topicmeta><navtitle>211.272Reserved</navtitle></topicmeta></topicref>
@@ -1418,12 +1422,12 @@ Policy for valuation.</navtitle></topicmeta></topicref>
     navtitle="211.274-4 Policy for reporting of Government-furnished property."
     href="211.274-4.dita" outputclass="subtopic" props="211.274-4"
     audience="DFARS-211.274-4" base="concept"><topicmeta><navtitle>211.274-4
-Policy for reporting of Government-furnished property.</navtitle></topicmeta></topicref>
+Policy for reporting of Government-furnished prop...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="211.274-5 Policy for assignment of Government-assigned serial numbers."
     href="211.274-5.dita" outputclass="subtopic" props="211.274-5"
     audience="DFARS-211.274-5" base="concept"><topicmeta><navtitle>211.274-5
-Policy for assignment of Government-assigned serial numbers.</navtitle></topicmeta></topicref>
+Policy for assignment of Government-assigned seri...</navtitle></topicmeta></topicref>
 <topicref navtitle="211.274-6 Contract clauses."
     href="211.274-6.dita" outputclass="subtopic" props="211.274-6"
     audience="DFARS-211.274-6" base="concept"><topicmeta><navtitle>211.274-6
@@ -1525,12 +1529,12 @@ Major weapon systems as commercial items.</navtitle></topicmeta></topicref>
     navtitle="212.271 Limitation on acquisition of right-hand drive passenger sedans."
     href="212.271.dita" outputclass="subtopic" props="212.271"
     audience="DFARS-212.271" base="concept"><topicmeta><navtitle>212.271
-Limitation on acquisition of right-hand drive passenger sedans.</navtitle></topicmeta></topicref>
+Limitation on acquisition of right-hand drive passe...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="212.272 Preference for certain commercial products and services."
     href="212.272.dita" outputclass="subtopic" props="212.272"
     audience="DFARS-212.272" base="concept"><topicmeta><navtitle>212.272
-Preference for certain commercial products and services.</navtitle></topicmeta></topicref></topicref>
+Preference for certain commercial products and serv...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="SUBPART 212.3 —SOLICITATION PROVISIONS AND CONTRACT CLAUSES FOR THE ACQUISITION OF COMMERCIAL ITEMS"
     href="SUBPART_212.3.dita" outputclass="SubPart"
@@ -1540,14 +1544,12 @@ Preference for certain commercial products and services.</navtitle></topicmeta><
     navtitle="212.301 Solicitation provisions and contract clauses for the acquisition of commercial items."
     href="212.301.dita" outputclass="subtopic" props="212.301"
     audience="DFARS-212.301" base="concept"><topicmeta><navtitle>212.301
-Solicitation provisions and contract clauses for the acquisition
-of commercial items.</navtitle></topicmeta></topicref>
+Solicitation provisions and contract clauses for th...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="212.302 Tailoring of provisions and clauses for the acquisition of commercial items."
     href="212.302.dita" outputclass="subtopic" props="212.302"
     audience="DFARS-212.302" base="concept"><topicmeta><navtitle>212.302
-Tailoring of provisions and clauses for the acquisition of commercial
-items.</navtitle></topicmeta></topicref></topicref>
+Tailoring of provisions and clauses for the acquisi...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="SUBPART 212.5 —APPLICABILITY OF CERTAIN LAWS TO THE ACQUISITION OF COMMERCIAL ITEMS"
     href="SUBPART_212.5.dita" outputclass="SubPart"
@@ -1557,20 +1559,17 @@ items.</navtitle></topicmeta></topicref></topicref>
     navtitle="212.503 Applicability of certain laws to Executive agency contracts for the acquisition of commercial items."
     href="212.503.dita" outputclass="subtopic" props="212.503"
     audience="DFARS-212.503" base="concept"><topicmeta><navtitle>212.503
-Applicability of certain laws to Executive agency contracts for
-the acquisition of commercial items.</navtitle></topicmeta></topicref>
+Applicability of certain laws to Executive agency c...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="212.504 Applicability of certain laws to subcontracts for the acquisition of commercial items."
     href="212.504.dita" outputclass="subtopic" props="212.504"
     audience="DFARS-212.504" base="concept"><topicmeta><navtitle>212.504
-Applicability of certain laws to subcontracts for the acquisition
-of commercial items.</navtitle></topicmeta></topicref>
+Applicability of certain laws to subcontracts for t...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="212.570 Applicability of certain laws to contracts and subcontracts for the acquisition of commercially available off-the-shelf items."
     href="212.570.dita" outputclass="subtopic" props="212.570"
     audience="DFARS-212.570" base="concept"><topicmeta><navtitle>212.570
-Applicability of certain laws to contracts and subcontracts for
-the acquisition of commercially available off-the-shelf items.</navtitle></topicmeta></topicref></topicref>
+Applicability of certain laws to contracts and subc...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="SUBPART 212.6 —STREAMLINED PROCEDURES FOR EVALUATION AND SOLICITATION FOR COMMERCIAL ITEMS"
     href="SUBPART_212.6.dita" outputclass="SubPart"
@@ -1580,15 +1579,16 @@ the acquisition of commercially available off-the-shelf items.</navtitle></topic
     href="212.602.dita" outputclass="subtopic" props="212.602"
     audience="DFARS-212.602" base="concept"><topicmeta><navtitle>212.602
 Streamlined evaluation of offers.</navtitle></topicmeta></topicref></topicref>
-<topicref navtitle="SUBPART 212.70 — Reserved"
+<topicref
+    navtitle="SUBPART 212.70 —LIMITATION ON CONVERSION OF PROCUREMENT FROM COMMERCIAL ACQUISITION PROCEDURES"
     href="SUBPART_212.70.dita" outputclass="SubPart"
     props="SUBPART 212.70" audience="DFARS-SUBPART_212.70"
     base="NoTitle">
-<topicref navtitle="212.7000Reserved." href="212.7000.dita"
+<topicref navtitle="212.7000 Scope." href="212.7000.dita"
     outputclass="subtopic" props="212.7000"
     audience="DFARS-212.7000" base="concept"><topicmeta><navtitle>212.7000
 Scope.</navtitle></topicmeta></topicref>
-<topicref navtitle="212.7001Reserved." href="212.7001.dita"
+<topicref navtitle="212.7001 Procedures." href="212.7001.dita"
     outputclass="subtopic" props="212.7001"
     audience="DFARS-212.7001" base="concept"><topicmeta><navtitle>212.7001
 Procedures.</navtitle></topicmeta></topicref></topicref>
@@ -1661,7 +1661,7 @@ Promoting competition.</navtitle></topicmeta></topicref>
     href="213.106-1-70.dita" props="213.106-1-70"
     audience="DFARS-213.106-1-70" base="concept"><topicmeta>
 <navtitle>213.106-1-70 Soliciting competition – tiered evaluation
-of offers.</navtitle></topicmeta></topicref></topicref>
+o...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="213.106-2 Evaluation of quotations or offers."
     href="213.106-2.dita" outputclass="subtopic" props="213.106-2"
     audience="DFARS-213.106-2" base="concept">
@@ -1698,7 +1698,7 @@ Governmentwide commercial purchase card.</navtitle></topicmeta></topicref>
     navtitle="213.302-3 Obtaining contractor acceptance and modifying purchase orders."
     href="213.302-3.dita" outputclass="subtopic" props="213.302-3"
     audience="DFARS-213.302-3" base="concept"><topicmeta><navtitle>213.302-3
-Obtaining contractor acceptance and modifying purchase orders.</navtitle></topicmeta></topicref>
+Obtaining contractor acceptance and modifying pur...</navtitle></topicmeta></topicref>
 <topicref navtitle="213.302-5 Clauses." href="213.302-5.dita"
     outputclass="subtopic" props="213.302-5"
     audience="DFARS-213.302-5" base="concept"><topicmeta><navtitle>213.302-5
@@ -1853,7 +1853,7 @@ Step one.</navtitle></topicmeta></topicref></topicref></topicref></topicref>
     href="215.101-70.dita" outputclass="subtopic"
     props="215.101-70" audience="DFARS-215.101-70" base="concept">
 <topicmeta><navtitle>215.101-70 Best value when acquiring tents
-or other temporary structures.</navtitle></topicmeta></topicref></topicref></topicref>
+or other tempora...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref
     navtitle="SUBPART 215.2 —SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION"
     href="SUBPART_215.2.dita" outputclass="SubPart"
@@ -1866,7 +1866,7 @@ or other temporary structures.</navtitle></topicmeta></topicref></topicref></top
     href="215.203-70.dita" outputclass="subtopic"
     props="215.203-70" audience="DFARS-215.203-70" base="concept">
 <topicmeta><navtitle>215.203-70 Requests for proposals – tiered
-evaluation of offers.</navtitle></topicmeta></topicref></topicref>
+evaluation of ...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="215.209 Solicitation provisions and contract clauses."
     href="215.209.dita" outputclass="subtopic" props="215.209"
@@ -1934,8 +1934,7 @@ Promote competition.</navtitle></topicmeta></topicref>
     navtitle="215.371-3 Fair and reasonable price and the requirement for additional cost or pricing data."
     href="215.371-3.dita" outputclass="subtopic" props="215.371-3"
     audience="DFARS-215.371-3" base="concept"><topicmeta><navtitle>215.371-3
-Fair and reasonable price and the requirement for additional cost
-or pricing data.</navtitle></topicmeta></topicref>
+Fair and reasonable price and the requirement for...</navtitle></topicmeta></topicref>
 <topicref navtitle="215.371-4 Exceptions." href="215.371-4.dita"
     outputclass="subtopic" props="215.371-4"
     audience="DFARS-215.371-4" base="concept"><topicmeta><navtitle>215.371-4
@@ -1967,19 +1966,17 @@ Pricing policy.</navtitle></topicmeta></topicref>
     navtitle="215.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35)."
     href="215.403-1.dita" outputclass="subtopic" props="215.403-1"
     audience="DFARS-215.403-1" base="concept"><topicmeta><navtitle>215.403-1
-Prohibition on obtaining certified cost or pricing data (10 U.S.C.
-2306a and 41 U.S.C. chapter 35).</navtitle></topicmeta></topicref>
+Prohibition on obtaining certified cost or pricin...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="215.403-3 Requiring data other than certified cost or pricing data."
     href="215.403-3.dita" outputclass="subtopic" props="215.403-3"
     audience="DFARS-215.403-3" base="concept"><topicmeta><navtitle>215.403-3
-Requiring data other than certified cost or pricing data.</navtitle></topicmeta></topicref>
+Requiring data other than certified cost or prici...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="215.403-5 Instructions for submission of certified cost or pricing data and data other than certified cost or pricing data."
     href="215.403-5.dita" outputclass="subtopic" props="215.403-5"
     audience="DFARS-215.403-5" base="concept"><topicmeta><navtitle>215.403-5
-Instructions for submission of certified cost or pricing data and
-data other than certified cost or pricing data.</navtitle></topicmeta></topicref></topicref>
+Instructions for submission of certified cost or ...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="215.404 Proposal analysis." href="215.404.dita"
     outputclass="subtopic" props="215.404"
     audience="DFARS-215.404" base="concept">
@@ -2004,7 +2001,7 @@ Profit.</navtitle></topicmeta></topicref>
     href="215.404-70.dita" outputclass="subtopic"
     props="215.404-70" audience="DFARS-215.404-70" base="concept">
 <topicmeta><navtitle>215.404-70 DD Form 1547, Record of Weighted
-Guidelines Method Application.</navtitle></topicmeta></topicref>
+Guidelines Meth...</navtitle></topicmeta></topicref>
 <topicref navtitle="215.404-71 Weighted guidelines method."
     href="215.404-71.dita" outputclass="subtopic"
     props="215.404-71" audience="DFARS-215.404-71" base="concept">
@@ -2019,8 +2016,7 @@ Guidelines Method Application.</navtitle></topicmeta></topicref>
     navtitle="215.404-71-3 Contract type risk and working capital adjustment. Table"
     href="215.404-71-3.dita" props="215.404-71-3"
     audience="DFARS-215.404-71-3" base="concept"><topicmeta>
-<navtitle>215.404-71-3 Contract type risk and working capital adjustment.
-Table</navtitle></topicmeta></topicref>
+<navtitle>215.404-71-3 Contract type risk and working capital adjustm...</navtitle></topicmeta></topicref>
 <topicref navtitle="215.404-71-4 Facilities capital employed."
     href="215.404-71-4.dita" props="215.404-71-4"
     audience="DFARS-215.404-71-4" base="concept"><topicmeta>
@@ -2034,7 +2030,7 @@ Table</navtitle></topicmeta></topicref>
     href="215.404-72.dita" outputclass="subtopic"
     props="215.404-72" audience="DFARS-215.404-72" base="concept">
 <topicmeta><navtitle>215.404-72 Modified weighted guidelines method
-for nonprofit organizations other than FFRDCs.</navtitle></topicmeta></topicref>
+for nonprofi...</navtitle></topicmeta></topicref>
 <topicref navtitle="215.404-73 Alternate structured approaches."
     href="215.404-73.dita" outputclass="subtopic"
     props="215.404-73" audience="DFARS-215.404-73" base="concept">
@@ -2044,7 +2040,7 @@ for nonprofit organizations other than FFRDCs.</navtitle></topicmeta></topicref>
     href="215.404-74.dita" outputclass="subtopic"
     props="215.404-74" audience="DFARS-215.404-74" base="concept">
 <topicmeta><navtitle>215.404-74 Fee requirements for cost-plus-award-fee
-contracts.</navtitle></topicmeta></topicref>
+contrac...</navtitle></topicmeta></topicref>
 <topicref navtitle="215.404-75 Fee requirements for FFRDCs."
     href="215.404-75.dita" outputclass="subtopic"
     props="215.404-75" audience="DFARS-215.404-75" base="concept">
@@ -2091,7 +2087,7 @@ Should-cost review.</navtitle></topicmeta></topicref>
     navtitle="215.407-5-70  Disclosure, maintenance, and review requirements."
     href="215.407-5-70.dita" props="215.407-5-70"
     audience="DFARS-215.407-5-70" base="concept"><topicmeta>
-<navtitle>215.407-5-70 Disclosure, maintenance, and review requirements.</navtitle></topicmeta></topicref></topicref></topicref>
+<navtitle>215.407-5-70 Disclosure, maintenance, and review requiremen...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref
     navtitle="215.408 Solicitation provisions and contract clauses."
     href="215.408.dita" outputclass="subtopic" props="215.408"
@@ -2196,7 +2192,7 @@ Fixed-price incentive (firm target) contracts.</navtitle></topicmeta></topicref>
     navtitle="216.403-2 Fixed-price incentive (successive targets) contracts."
     href="216.403-2.dita" outputclass="subtopic" props="216.403-2"
     audience="DFARS-216.403-2" base="concept"><topicmeta><navtitle>216.403-2
-Fixed-price incentive (successive targets) contracts.</navtitle></topicmeta></topicref></topicref>
+Fixed-price incentive (successive targets) contra...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="216.405 Cost-reimbursement incentive contracts."
     href="216.405.dita" outputclass="subtopic" props="216.405"
     audience="DFARS-216.405" base="concept">
@@ -2211,14 +2207,13 @@ Cost-plus-incentive-fee contracts.</navtitle></topicmeta></topicref>
     navtitle="216.405-2-70   Award fee reduction or denial for jeopardizing the health or safety of Government personnel. "
     href="216.405-2-70.dita" props="216.405-2-70"
     audience="DFARS-216.405-2-70" base="concept"><topicmeta>
-<navtitle>216.405-2-70 Award fee reduction or denial for jeopardizing
-the health or safety of Government personnel.</navtitle></topicmeta></topicref>
+<navtitle>216.405-2-70 Award fee reduction or denial for jeopardizing...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="216.405-2-71 Award fee reduction or denial for failure to comply with requirements relating to performance of private security functions."
     href="216.405-2-71.dita" props="216.405-2-71"
     audience="DFARS-216.405-2-71" base="concept"><topicmeta>
 <navtitle>216.405-2-71 Award fee reduction or denial for failure
-to comply with requirements relating to performance of private security functions.</navtitle></topicmeta></topicref></topicref></topicref>
+to c...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref navtitle="216.406 Contract clauses." href="216.406.dita"
     outputclass="subtopic" props="216.406"
     audience="DFARS-216.406" base="concept"><topicmeta><navtitle>216.406
@@ -2318,7 +2313,7 @@ Multiyear contracts for military family housing.</navtitle></topicmeta></topicre
     navtitle="217.174 Multiyear contracts for electricity from renewable energy sources."
     href="217.174.dita" outputclass="subtopic" props="217.174"
     audience="DFARS-217.174" base="concept"><topicmeta><navtitle>217.174
-Multiyear contracts for electricity from renewable energy sources.</navtitle></topicmeta></topicref></topicref>
+Multiyear contracts for electricity from renewable ...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="SUBPART 217.2 —OPTIONS"
     href="SUBPART_217.2.dita" outputclass="SubPart"
     props="SUBPART 217.2" audience="DFARS-SUBPART_217.2"
@@ -2643,8 +2638,7 @@ Defense or recovery from certain events.</navtitle></topicmeta></topicref>
     navtitle="218.203 Incidents of national significance, emergency declaration, or major disaster declaration.  "
     href="218.203.dita" outputclass="subtopic" props="218.203"
     audience="DFARS-218.203" base="concept"><topicmeta><navtitle>218.203
-Incidents of national significance, emergency declaration, or major
-disaster declaration.</navtitle></topicmeta></topicref>
+Incidents of national significance, emergency decla...</navtitle></topicmeta></topicref>
 <topicref navtitle="218.204 Humanitarian or peacekeeping operation."
     href="218.204.dita" outputclass="subtopic" props="218.204"
     audience="DFARS-218.204" base="concept"><topicmeta><navtitle>218.204
@@ -2687,7 +2681,7 @@ General policy.</navtitle></topicmeta></topicref>
     navtitle="219.202-1 Encouraging small business participation in acquisitions."
     href="219.202-1.dita" outputclass="subtopic" props="219.202-1"
     audience="DFARS-219.202-1" base="concept"><topicmeta><navtitle>219.202-1
-Encouraging small business participation in acquisitions.</navtitle></topicmeta></topicref></topicref>
+Encouraging small business participation in acqui...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="219.270 Religious-related services–inclusion of nonprofit organizations."
     href="219.270.dita" outputclass="subtopic" props="219.270"
@@ -2716,20 +2710,17 @@ Solicitation provision.</navtitle></topicmeta></topicref></topicref></topicref>
     navtitle="219.301-2 Rerepresentation by a contractor that represented itself as a small business concern."
     href="219.301-2.dita" outputclass="subtopic" props="219.301-2"
     audience="DFARS-219.301-2" base="concept"><topicmeta><navtitle>219.301-2
-Rerepresentation by a contractor that represented itself as a small
-business concern.</navtitle></topicmeta></topicref>
+Rerepresentation by a contractor that represented...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="219.301-3 Rerepresentation by a contractor that represented itself as other than a small business concern."
     href="219.301-3.dita" outputclass="subtopic" props="219.301-3"
     audience="DFARS-219.301-3" base="concept"><topicmeta><navtitle>219.301-3
-Rerepresentation by a contractor that represented itself as other
-than a small business concern.</navtitle></topicmeta></topicref></topicref>
+Rerepresentation by a contractor that represented...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="219.303 Determining North American Industry Classification System codes and size standards.  "
     href="219.303.dita" outputclass="subtopic" props="219.303"
     audience="DFARS-219.303" base="concept"><topicmeta><navtitle>219.303
-Determining North American Industry Classification System codes
-and size standards.</navtitle></topicmeta></topicref>
+Determining North American Industry Classification ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="219.309 Solicitation provisions and contract clauses."
     href="219.309.dita" outputclass="subtopic" props="219.309"
@@ -2748,7 +2739,7 @@ General.</navtitle></topicmeta></topicref>
     navtitle="219.402 Small Business Administration procurement center representatives."
     href="219.402.dita" outputclass="subtopic" props="219.402"
     audience="DFARS-219.402" base="concept"><topicmeta><navtitle>219.402
-Small Business Administration procurement center representatives.</navtitle></topicmeta></topicref></topicref>
+Small Business Administration procurement center re...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="SUBPART 219.5 —SET-ASIDES FOR SMALL BUSINESS"
     href="SUBPART_219.5.dita" outputclass="SubPart"
     props="SUBPART 219.5" audience="DFARS-SUBPART_219.5"
@@ -2768,7 +2759,7 @@ Small business set-asides.</navtitle></topicmeta></topicref>
     navtitle="219.502-8 Rejecting Small Business Administration recommendations."
     href="219.502-8.dita" outputclass="subtopic" props="219.502-8"
     base="concept"><topicmeta><navtitle>219.502-8 Rejecting Small
-Business Administration recommendations.</navtitle></topicmeta></topicref></topicref></topicref>
+Business Administration recommend...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref
     navtitle="SUBPART 219.6 —CERTIFICATES OF COMPETENCY AND DETERMINATIONS OF RESPONSIBILITY"
     href="SUBPART_219.6.dita" outputclass="SubPart"
@@ -2790,12 +2781,12 @@ Procedures.</navtitle></topicmeta></topicref></topicref>
     href="219.702-70.dita" outputclass="subtopic"
     props="219.702-70" audience="DFARS-219.702-70" base="concept">
 <topicmeta><navtitle>219.702-70 Statutory requirements for the Test
-Program for Negotiation of Comprehensive Small Business Subcontracting Plans.</navtitle></topicmeta></topicref></topicref>
+Program for ...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="219.703 Eligibility requirements for participating in the program."
     href="219.703.dita" outputclass="subtopic" props="219.703"
     audience="DFARS-219.703" base="concept"><topicmeta><navtitle>219.703
-Eligibility requirements for participating in the program.</navtitle></topicmeta></topicref>
+Eligibility requirements for participating in the p...</navtitle></topicmeta></topicref>
 <topicref navtitle="219.704 Subcontracting plan requirements."
     href="219.704.dita" outputclass="subtopic" props="219.704"
     audience="DFARS-219.704" base="concept"><topicmeta><navtitle>219.704
@@ -2812,12 +2803,12 @@ Reviewing the subcontracting plan.</navtitle></topicmeta></topicref>
     navtitle="219.705-6 Postaward responsibilities of the contracting officer."
     href="219.705-6.dita" outputclass="subtopic" props="219.705-6"
     audience="DFARS-219.705-6" base="concept"><topicmeta><navtitle>219.705-6
-Postaward responsibilities of the contracting officer.</navtitle></topicmeta></topicref></topicref>
+Postaward responsibilities of the contracting off...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="219.706 Responsibilities of the cognizant administrative contracting officer."
     href="219.706.dita" outputclass="subtopic" props="219.706"
     audience="DFARS-219.706" base="concept"><topicmeta><navtitle>219.706
-Responsibilities of the cognizant administrative contracting officer.</navtitle></topicmeta></topicref>
+Responsibilities of the cognizant administrative co...</navtitle></topicmeta></topicref>
 <topicref navtitle="219.708 Contract clauses." href="219.708.dita"
     outputclass="subtopic" props="219.708"
     audience="DFARS-219.708" base="concept"><topicmeta><navtitle>219.708
@@ -2893,7 +2884,7 @@ Contract clauses.</navtitle></topicmeta></topicref></topicref></topicref>
     navtitle="219.1307 Price evaluation preference for HUBZone small business concerns."
     href="219.1307.dita" outputclass="subtopic" props="219.1307"
     audience="DFARS-219.1307" base="concept"><topicmeta><navtitle>219.1307
-Price evaluation preference for HUBZone small business concerns.</navtitle></topicmeta></topicref></topicref>
+Price evaluation preference for HUBZone small busi...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="SUBPART 219.70 —RESERVED"
     href="SUBPART_219.70.dita" outputclass="SubPart"
     props="SUBPART 219.70" audience="DFARS-SUBPART_219.70"
@@ -2929,7 +2920,7 @@ General.</navtitle></topicmeta></topicref>
     navtitle="219.7104 Developmental assistance costs eligible for reimbursement or credit."
     href="219.7104.dita" outputclass="subtopic" props="219.7104"
     audience="DFARS-219.7104" base="concept"><topicmeta><navtitle>219.7104
-Developmental assistance costs eligible for reimbursement or credit.</navtitle></topicmeta></topicref>
+Developmental assistance costs eligible for reimbu...</navtitle></topicmeta></topicref>
 <topicref navtitle="219.7105 Reporting." href="219.7105.dita"
     outputclass="subtopic" props="219.7105"
     audience="DFARS-219.7105" base="concept"><topicmeta><navtitle>219.7105
@@ -2979,13 +2970,13 @@ General.</navtitle></topicmeta></topicref>
     navtitle="222.101-4 Removal of items from contractors' facilities affected by work stoppages."
     href="222.101-4.dita" outputclass="subtopic" props="222.101-4"
     audience="DFARS-222.101-4" base="concept"><topicmeta><navtitle>222.101-4
-Removal of items from contractors' facilities affected by work stoppages.</navtitle></topicmeta></topicref>
+Removal of items from contractors' facilities aff...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="222.101-70 Acquisition of stevedoring services during labor disputes."
     href="222.101-70.dita" outputclass="subtopic"
     props="222.101-70" audience="DFARS-222.101-70" base="concept">
 <topicmeta><navtitle>222.101-70 Acquisition of stevedoring services
-during labor disputes.</navtitle></topicmeta></topicref></topicref>
+during labor...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="222.102 Federal and State labor requirements."
     href="222.102.dita" outputclass="subtopic" props="222.102"
     audience="DFARS-222.102" base="concept">
@@ -3055,13 +3046,13 @@ Investigations.</navtitle></topicmeta></topicref>
     navtitle="222.406-9 Withholding from or suspension of contract payments."
     href="222.406-9.dita" outputclass="subtopic" props="222.406-9"
     audience="DFARS-222.406-9" base="concept"><topicmeta><navtitle>222.406-9
-Withholding from or suspension of contract payments.</navtitle></topicmeta></topicref>
+Withholding from or suspension of contract paymen...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="222.406-10 Disposition of disputes concerning construction contract labor standards enforcement."
     href="222.406-10.dita" outputclass="subtopic"
     props="222.406-10" audience="DFARS-222.406-10" base="concept">
 <topicmeta><navtitle>222.406-10 Disposition of disputes concerning
-construction contract labor standards enforcement.</navtitle></topicmeta></topicref>
+construction ...</navtitle></topicmeta></topicref>
 <topicref navtitle="222.406-13 Semiannual enforcement reports."
     href="222.406-13.dita" outputclass="subtopic"
     props="222.406-13" audience="DFARS-222.406-13" base="concept">
@@ -3255,7 +3246,7 @@ Contract clause.</navtitle></topicmeta></topicref></topicref></topicref>
     href="SUBPART_223.2.dita" outputclass="SubPart"
     props="SUBPART 223.2" audience="DFARS-SUBPART_223.2"
     base="NoTitle"><topicmeta><navtitle>SUBPART 223.2 —ENERGY
-AND WATER EFFICIENCY AND RENEWABLE ENERGY</navtitle></topicmeta></topicref>
+AND WATER EFFICIENCY AND RENEWABLE ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="SUBPART 223.3 —HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA"
     href="SUBPART_223.3.dita" outputclass="SubPart"
@@ -3321,7 +3312,7 @@ Contract clause.</navtitle></topicmeta></topicref></topicref></topicref>
     href="SUBPART_223.7.dita" outputclass="SubPart"
     props="SUBPART 223.7" audience="DFARS-SUBPART_223.7"
     base="NoTitle"><topicmeta><navtitle>SUBPART 223.7 —CONTRACTING
-FOR ENVIRONMENTALLY PREFERABLE PRODUCTS AND SERVICES</navtitle></topicmeta></topicref>
+FOR ENVIRONMENTALLY PREFERABLE...</navtitle></topicmeta></topicref>
 <topicref navtitle="SUBPART 223.8 —OZONE-DEPLETING SUBSTANCES"
     href="SUBPART_223.8.dita" outputclass="SubPart"
     props="SUBPART 223.8" audience="DFARS-SUBPART_223.8"
@@ -3397,7 +3388,7 @@ Definition.</navtitle></topicmeta></topicref>
     outputclass="subtopic" props="223.7301"
     audience="DFARS-223.7301" base="concept"><topicmeta><navtitle>223.7301
 Policy.</navtitle></topicmeta></topicref>
-<topicref navtitle="223.7302 Reserved." href="223.7302.dita"
+<topicref navtitle="223.7302 Authorities." href="223.7302.dita"
     outputclass="subtopic" props="223.7302"
     audience="DFARS-223.7302" base="concept"><topicmeta><navtitle>223.7302
 Authorities.</navtitle></topicmeta></topicref>
@@ -3452,8 +3443,7 @@ Definitions.</navtitle></topicmeta></topicref>
     navtitle="225.070 Reporting of acquisition of end products manufactured outside the United States."
     href="225.070.dita" outputclass="subtopic" props="225.070"
     audience="DFARS-225.070" base="concept"><topicmeta><navtitle>225.070
-Reporting of acquisition of end products manufactured outside the
-United States.</navtitle></topicmeta></topicref>
+Reporting of acquisition of end products manufactur...</navtitle></topicmeta></topicref>
 <topicref navtitle="SUBPART 225.1 —BUY AMERICAN—SUPPLIES"
     href="SUBPART_225.1.dita" outputclass="SubPart"
     props="SUBPART 225.1" audience="DFARS-SUBPART_225.1"
@@ -3474,7 +3464,7 @@ Determining reasonableness of cost.</navtitle></topicmeta></topicref>
     navtitle="225.170 Acquisition from or through other Government agencies."
     href="225.170.dita" outputclass="subtopic" props="225.170"
     audience="DFARS-225.170" base="concept"><topicmeta><navtitle>225.170
-Acquisition from or through other Government agencies.</navtitle></topicmeta></topicref></topicref>
+Acquisition from or through other Government agenci...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="SUBPART 225.2 —BUY AMERICAN—CONSTRUCTION MATERIALS"
     href="SUBPART_225.2.dita" outputclass="SubPart"
@@ -3517,7 +3507,7 @@ Contract clause.</navtitle></topicmeta></topicref></topicref>
     navtitle="225.370 Contracts requiring performance or delivery in a foreign country."
     href="225.370.dita" outputclass="subtopic" props="225.370"
     audience="DFARS-225.370" base="concept"><topicmeta><navtitle>225.370
-Contracts requiring performance or delivery in a foreign country.</navtitle></topicmeta></topicref>
+Contracts requiring performance or delivery in a fo...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="225.371 Contractor personnel supporting U.S. Armed Forces deployed outside the United States."
     href="225.371.dita" outputclass="subtopic" props="225.371"
@@ -3557,7 +3547,7 @@ Contract clause.</navtitle></topicmeta></topicref></topicref>
     navtitle="225.373 Contract administration in support of contingency operations."
     href="225.373.dita" outputclass="subtopic" props="225.373"
     audience="DFARS-225.373" base="concept"><topicmeta><navtitle>225.373
-Contract administration in support of contingency operations.</navtitle></topicmeta></topicref>
+Contract administration in support of contingency o...</navtitle></topicmeta></topicref>
 <topicref navtitle="225.374 Use of electronic business tools."
     href="225.374.dita" outputclass="subtopic" props="225.374"
     audience="DFARS-225.374" base="concept"><topicmeta><navtitle>225.374
@@ -3579,7 +3569,7 @@ Use of electronic business tools.</navtitle></topicmeta></topicref></topicref>
     href="225.401-71.dita" outputclass="subtopic"
     props="225.401-71" audience="DFARS-225.401-71" base="concept">
 <topicmeta><navtitle>225.401-71 Products or services in support
-of operations in Afghanistan.</navtitle></topicmeta></topicref></topicref>
+of operations in...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="225.402 General." href="225.402.dita"
     outputclass="subtopic" props="225.402"
     audience="DFARS-225.402" base="concept"><topicmeta><navtitle>225.402
@@ -3588,8 +3578,7 @@ General.</navtitle></topicmeta></topicref>
     navtitle="225.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements."
     href="225.403.dita" outputclass="subtopic" props="225.403"
     audience="DFARS-225.403" base="concept"><topicmeta><navtitle>225.403
-World Trade Organization Government Procurement Agreement and Free
-Trade Agreements.</navtitle></topicmeta></topicref>
+World Trade Organization Government Procurement Agr...</navtitle></topicmeta></topicref>
 <topicref navtitle="225.408 Procedures." href="225.408.dita"
     outputclass="subtopic" props="225.408"
     audience="DFARS-225.408" base="concept"><topicmeta><navtitle>225.408
@@ -3646,7 +3635,7 @@ Exceptions.</navtitle></topicmeta></topicref>
     navtitle="225.770-4 Identifying items covered by the USML or the 600 series of the CCL."
     href="225.770-4.dita" outputclass="subtopic" props="225.770-4"
     audience="DFARS-225.770-4" base="concept"><topicmeta><navtitle>225.770-4
-Identifying items covered by the USML or the 600 series of the CCL.</navtitle></topicmeta></topicref>
+Identifying items covered by the USML or the 600 ...</navtitle></topicmeta></topicref>
 <topicref navtitle="225.770-5 Waiver of prohibition."
     href="225.770-5.dita" outputclass="subtopic" props="225.770-5"
     audience="DFARS-225.770-5" base="concept"><topicmeta><navtitle>225.770-5
@@ -3721,7 +3710,7 @@ Solicitation provision and contract clauses.</navtitle></topicmeta></topicref></
     href="225.802-70.dita" outputclass="subtopic"
     props="225.802-70" audience="DFARS-225.802-70" base="concept">
 <topicmeta><navtitle>225.802-70 Contracts for performance outside
-the United States and Canada.</navtitle></topicmeta></topicref>
+the United Sta...</navtitle></topicmeta></topicref>
 <topicref navtitle="225.802-71 End use certificates."
     href="225.802-71.dita" outputclass="subtopic"
     props="225.802-71" audience="DFARS-225.802-71" base="concept">
@@ -4103,7 +4092,7 @@ Waiver of restrictions of 10 U.S.C. 2534.</navtitle></topicmeta></topicref>
     navtitle="225.7013 Restrictions on construction or repair of vessels in foreign shipyards."
     href="225.7013.dita" outputclass="subtopic" props="225.7013"
     audience="DFARS-225.7013" base="concept"><topicmeta><navtitle>225.7013
-Restrictions on construction or repair of vessels in foreign shipyards.</navtitle></topicmeta></topicref>
+Restrictions on construction or repair of vessels ...</navtitle></topicmeta></topicref>
 <topicref navtitle="225.7014 Restrictions on military construction."
     href="225.7014.dita" outputclass="subtopic" props="225.7014"
     audience="DFARS-225.7014" base="concept"><topicmeta><navtitle>225.7014
@@ -4112,7 +4101,7 @@ Restrictions on military construction.</navtitle></topicmeta></topicref>
     navtitle="225.7015 Restriction on overseas architect-engineer services."
     href="225.7015.dita" outputclass="subtopic" props="225.7015"
     audience="DFARS-225.7015" base="concept"><topicmeta><navtitle>225.7015
-Restriction on overseas architect-engineer services.</navtitle></topicmeta></topicref>
+Restriction on overseas architect-engineer service...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="225.7017 Utilization of domestic photovoltaic devices."
     href="225.7017.dita" outputclass="subtopic" props="225.7017"
@@ -4257,7 +4246,7 @@ customers.</navtitle></topicmeta></topicref>
     href="225.7303-2.dita" outputclass="subtopic"
     props="225.7303-2" audience="DFARS-225.7303-2" base="concept">
 <topicmeta><navtitle>225.7303-2 Cost of doing business with a foreign
-government or an international organization.</navtitle></topicmeta></topicref>
+government...</navtitle></topicmeta></topicref>
 <topicref navtitle="225.7303-3 Government-to-government agreements."
     href="225.7303-3.dita" outputclass="subtopic"
     props="225.7303-3" audience="DFARS-225.7303-3" base="concept">
@@ -4271,7 +4260,7 @@ government or an international organization.</navtitle></topicmeta></topicref>
     href="225.7303-5.dita" outputclass="subtopic"
     props="225.7303-5" audience="DFARS-225.7303-5" base="concept">
 <topicmeta><navtitle>225.7303-5 Acquisitions wholly paid for from
-nonrepayable funds.</navtitle></topicmeta></topicref></topicref>
+nonrepayable f...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="225.7304 FMS customer involvement."
     href="225.7304.dita" outputclass="subtopic" props="225.7304"
     audience="DFARS-225.7304" base="concept"><topicmeta><navtitle>225.7304
@@ -4293,7 +4282,7 @@ Contract clauses.</navtitle></topicmeta></topicref></topicref>
     href="SUBPART_225.74.dita" outputclass="SubPart"
     props="SUBPART 225.74" audience="DFARS-SUBPART_225.74"
     base="NoTitle"><topicmeta><navtitle>SUBPART 225.74 —DEFENSE
-CONTRACTORS OUTSIDE THE UNITED STATES</navtitle></topicmeta></topicref>
+CONTRACTORS OUTSIDE THE UNITED ST...</navtitle></topicmeta></topicref>
 <topicref navtitle="SUBPART 225.75 —BALANCE OF PAYMENTS PROGRAM"
     href="SUBPART_225.75.dita" outputclass="SubPart"
     props="SUBPART 225.75" audience="DFARS-SUBPART_225.75"
@@ -4365,7 +4354,7 @@ Definitions.</navtitle></topicmeta></topicref>
     href="225.7702-2.dita" outputclass="subtopic"
     props="225.7702-2" audience="DFARS-225.7702-2" base="concept">
 <topicmeta><navtitle>225.7702-2 Acquisition of uniform components
-for the Afghan military or the Afghan police.</navtitle></topicmeta></topicref></topicref>
+for the Afghan...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="225.7703 Enhanced authority to acquire products or services from Afghanistan."
     href="225.7703.dita" outputclass="subtopic" props="225.7703"
@@ -4428,15 +4417,12 @@ clauses.</navtitle></topicmeta></topicref></topicref>
     navtitle="225.7798 Enhanced authority to acquire products or services of Djibouti in support of DoD operations in Djibouti."
     href="225.7798.dita" outputclass="subtopic" props="225.7798"
     audience="DFARS-225.7798" base="concept"><topicmeta><navtitle>225.7798
-Enhanced authority to acquire products or services of Djibouti in
-support of DoD operations in Djibouti.</navtitle></topicmeta></topicref>
+Enhanced authority to acquire products or services...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="225.7799 Authority to acquire products and services (including construction) from Afghanistan or from countries along a major route of supply to Afghanistan."
     href="225.7799.dita" outputclass="subtopic" props="225.7799"
     audience="DFARS-225.7799" base="concept"><topicmeta><navtitle>225.7799
-Authority to acquire products and services (including construction)
-from Afghanistan or from countries along a major route of supply
-to Afghanistan.</navtitle></topicmeta></topicref></topicref>
+Authority to acquire products and services (includ...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="SUBPART 225.78 —ACQUISITIONS IN SUPPORT OF GEOGRAPHIC COMBATANT COMMAND’S THEATER SECURITY COOPERATION EFFORTS"
     href="SUBPART_225.78.dita" outputclass="SubPart"
@@ -4622,14 +4608,12 @@ Policy.</navtitle></topicmeta></topicref>
     navtitle="227.673 Foreign license and technical assistance agreements between the Government and domestic concerns."
     href="227.673.dita" outputclass="subtopic" props="227.673"
     audience="DFARS-227.673" base="concept"><topicmeta><navtitle>227.673
-Foreign license and technical assistance agreements between the
-Government and domestic concerns.</navtitle></topicmeta></topicref>
+Foreign license and technical assistance agreements...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.674 Supply contracts between the Government and a foreign government or concern."
     href="227.674.dita" outputclass="subtopic" props="227.674"
     audience="DFARS-227.674" base="concept"><topicmeta><navtitle>227.674
-Supply contracts between the Government and a foreign government
-or concern.</navtitle></topicmeta></topicref>
+Supply contracts between the Government and a forei...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.675 Foreign license and technical assistance agreements between a domestic concern and a foreign government or concern."
     href="227.675.dita" outputclass="subtopic" props="227.675"
@@ -4664,7 +4648,7 @@ Policy.</navtitle></topicmeta></topicref>
     navtitle="227.7002 Statutes pertaining to administrative claims of infringement."
     href="227.7002.dita" outputclass="subtopic" props="227.7002"
     audience="DFARS-227.7002" base="concept"><topicmeta><navtitle>227.7002
-Statutes pertaining to administrative claims of infringement.</navtitle></topicmeta></topicref>
+Statutes pertaining to administrative claims of in...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7003 Claims for copyright infringement."
     href="227.7003.dita" outputclass="subtopic" props="227.7003"
     audience="DFARS-227.7003" base="concept"><topicmeta><navtitle>227.7003
@@ -4673,7 +4657,7 @@ Claims for copyright infringement.</navtitle></topicmeta></topicref>
     navtitle="227.7004 Requirements for filing an administrative claim for patent infringement."
     href="227.7004.dita" outputclass="subtopic" props="227.7004"
     audience="DFARS-227.7004" base="concept"><topicmeta><navtitle>227.7004
-Requirements for filing an administrative claim for patent infringement.</navtitle></topicmeta></topicref>
+Requirements for filing an administrative claim fo...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7005 Indirect notice of patent infringement claims."
     href="227.7005.dita" outputclass="subtopic" props="227.7005"
@@ -4683,7 +4667,7 @@ Indirect notice of patent infringement claims.</navtitle></topicmeta></topicref>
     navtitle="227.7006 Investigation and administrative disposition of claims."
     href="227.7006.dita" outputclass="subtopic" props="227.7006"
     audience="DFARS-227.7006" base="concept"><topicmeta><navtitle>227.7006
-Investigation and administrative disposition of claims.</navtitle></topicmeta></topicref>
+Investigation and administrative disposition of cl...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7007 Notification and disclosure to claimants."
     href="227.7007.dita" outputclass="subtopic" props="227.7007"
@@ -4710,13 +4694,13 @@ Settlement of indemnified claims.</navtitle></topicmeta></topicref>
     href="227.7009-3.dita" outputclass="subtopic"
     props="227.7009-3" audience="DFARS-227.7009-3" base="concept">
 <topicmeta><navtitle>227.7009-3 Additional clauses—contracts except
-running royalty contracts.</navtitle></topicmeta></topicref>
+running ro...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7009-4 Additional clauses—contracts providing for payment of a running royalty."
     href="227.7009-4.dita" outputclass="subtopic"
     props="227.7009-4" audience="DFARS-227.7009-4" base="concept">
 <topicmeta><navtitle>227.7009-4 Additional clauses—contracts providing
-for payment of a running royalty.</navtitle></topicmeta></topicref></topicref>
+for pay...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="227.7010 Assignments." href="227.7010.dita"
     outputclass="subtopic" props="227.7010"
     audience="DFARS-227.7010" base="concept"><topicmeta><navtitle>227.7010
@@ -4725,7 +4709,7 @@ Assignments.</navtitle></topicmeta></topicref>
     navtitle="227.7011 Procurement of rights in inventions, patents, and copyrights."
     href="227.7011.dita" outputclass="subtopic" props="227.7011"
     audience="DFARS-227.7011" base="concept"><topicmeta><navtitle>227.7011
-Procurement of rights in inventions, patents, and copyrights.</navtitle></topicmeta></topicref>
+Procurement of rights in inventions, patents, and ...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7012 Contract format." href="227.7012.dita"
     outputclass="subtopic" props="227.7012"
     audience="DFARS-227.7012" base="concept"><topicmeta><navtitle>227.7012
@@ -4763,7 +4747,7 @@ Definitions.</navtitle></topicmeta></topicref>
     href="227.7102-3.dita" outputclass="subtopic"
     props="227.7102-3" audience="DFARS-227.7102-3" base="concept">
 <topicmeta><navtitle>227.7102-3 Government right to review, verify,
-challenge and validate asserted restrictions.</navtitle></topicmeta></topicref>
+challenge an...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7102-4 Contract clauses."
     href="227.7102-4.dita" outputclass="subtopic"
     props="227.7102-4" audience="DFARS-227.7102-4" base="concept">
@@ -4784,8 +4768,7 @@ challenge and validate asserted restrictions.</navtitle></topicmeta></topicref>
     href="227.7103-3.dita" outputclass="subtopic"
     props="227.7103-3" audience="DFARS-227.7103-3" base="concept">
 <topicmeta><navtitle>227.7103-3 Early identification of technical
-data to be furnished to the Government with restrictions on use,
-reproduction or disclosure.</navtitle></topicmeta></topicref>
+data to be fur...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7103-4 License rights."
     href="227.7103-4.dita" outputclass="subtopic"
     props="227.7103-4" audience="DFARS-227.7103-4" base="concept">
@@ -4807,7 +4790,7 @@ reproduction or disclosure.</navtitle></topicmeta></topicref>
     href="227.7103-8.dita" outputclass="subtopic"
     props="227.7103-8" audience="DFARS-227.7103-8" base="concept">
 <topicmeta><navtitle>227.7103-8 Deferred delivery and deferred ordering
-of technical data.</navtitle></topicmeta></topicref>
+of techn...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7103-9 Copyright." href="227.7103-9.dita"
     outputclass="subtopic" props="227.7103-9"
     audience="DFARS-227.7103-9" base="concept"><topicmeta>
@@ -4817,8 +4800,7 @@ of technical data.</navtitle></topicmeta></topicref>
     href="227.7103-10.dita" outputclass="subtopic"
     props="227.7103-10" audience="DFARS-227.7103-10"
     base="concept"><topicmeta><navtitle>227.7103-10 Contractor
-identification and marking of technical data to be furnished with
-restrictive markings.</navtitle></topicmeta></topicref>
+identification and marking of techni...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7103-11 Contractor procedures and records."
     href="227.7103-11.dita" outputclass="subtopic"
     props="227.7103-11" audience="DFARS-227.7103-11"
@@ -4829,19 +4811,19 @@ procedures and records.</navtitle></topicmeta></topicref>
     href="227.7103-12.dita" outputclass="subtopic"
     props="227.7103-12" audience="DFARS-227.7103-12"
     base="concept"><topicmeta><navtitle>227.7103-12 Government
-right to establish conformity of markings.</navtitle></topicmeta></topicref>
+right to establish conformity of mar...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7103-13 Government right to review, verify, challenge, and validate asserted restrictions."
     href="227.7103-13.dita" outputclass="subtopic"
     props="227.7103-13" audience="DFARS-227.7103-13"
     base="concept"><topicmeta><navtitle>227.7103-13 Government
-right to review, verify, challenge, and validate asserted restrictions.</navtitle></topicmeta></topicref>
+right to review, verify, challenge, ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7103-14 Conformity, acceptance, and warranty of technical data."
     href="227.7103-14.dita" outputclass="subtopic"
     props="227.7103-14" audience="DFARS-227.7103-14"
     base="concept"><topicmeta><navtitle>227.7103-14 Conformity,
-acceptance, and warranty of technical data.</navtitle></topicmeta></topicref>
+acceptance, and warranty of technic...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7103-15 Subcontractor rights in technical data."
     href="227.7103-15.dita" outputclass="subtopic"
@@ -4853,8 +4835,7 @@ rights in technical data.</navtitle></topicmeta></topicref>
     href="227.7103-16.dita" outputclass="subtopic"
     props="227.7103-16" audience="DFARS-227.7103-16"
     base="concept"><topicmeta><navtitle>227.7103-16 Providing
-technical data to foreign governments, foreign contractors, or international
-organizations.</navtitle></topicmeta></topicref>
+technical data to foreign governments...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7103-17 Overseas contracts with foreign sources."
     href="227.7103-17.dita" outputclass="subtopic"
@@ -4865,7 +4846,7 @@ with foreign sources.</navtitle></topicmeta></topicref></topicref>
     navtitle="227.7104 Contracts under the Small Business Innovation Research (SBIR) Program."
     href="227.7104.dita" outputclass="subtopic" props="227.7104"
     audience="DFARS-227.7104" base="concept"><topicmeta><navtitle>227.7104
-Contracts under the Small Business Innovation Research (SBIR) Program.</navtitle></topicmeta></topicref>
+Contracts under the Small Business Innovation Rese...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7105 Contracts for the acquisition of existing works."
     href="227.7105.dita" outputclass="subtopic" props="227.7105"
@@ -4879,7 +4860,7 @@ Contracts under the Small Business Innovation Research (SBIR) Program.</navtitle
     href="227.7105-2.dita" outputclass="subtopic"
     props="227.7105-2" audience="DFARS-227.7105-2" base="concept">
 <topicmeta><navtitle>227.7105-2 Acquisition of existing works without
-modification.</navtitle></topicmeta></topicref>
+modificati...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7105-3 Acquisition of modified existing works."
     href="227.7105-3.dita" outputclass="subtopic"
@@ -4899,13 +4880,13 @@ Contracts for special works.</navtitle></topicmeta></topicref>
     href="227.7107-1.dita" outputclass="subtopic"
     props="227.7107-1" audience="DFARS-227.7107-1" base="concept">
 <topicmeta><navtitle>227.7107-1 Architectural designs and data clauses
-for architect-engineer or construction contracts.</navtitle></topicmeta></topicref>
+for archi...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7107-2 Contracts for construction supplies and research and development work."
     href="227.7107-2.dita" outputclass="subtopic"
     props="227.7107-2" audience="DFARS-227.7107-2" base="concept">
 <topicmeta><navtitle>227.7107-2 Contracts for construction supplies
-and research and development work.</navtitle></topicmeta></topicref>
+and research...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7107-3 Approval of restricted designs."
     href="227.7107-3.dita" outputclass="subtopic"
     props="227.7107-3" audience="DFARS-227.7107-3" base="concept">
@@ -4944,7 +4925,7 @@ Definitions.</navtitle></topicmeta></topicref>
     href="227.7202-3.dita" outputclass="subtopic"
     props="227.7202-3" audience="DFARS-227.7202-3" base="concept">
 <topicmeta><navtitle>227.7202-3 Rights in commercial computer software
-or commercial computer software documentation.</navtitle></topicmeta></topicref>
+or commer...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7202-4 Contract clause."
     href="227.7202-4.dita" outputclass="subtopic"
     props="227.7202-4" audience="DFARS-227.7202-4" base="concept">
@@ -4962,14 +4943,13 @@ or commercial computer software documentation.</navtitle></topicmeta></topicref>
     href="227.7203-2.dita" outputclass="subtopic"
     props="227.7203-2" audience="DFARS-227.7203-2" base="concept">
 <topicmeta><navtitle>227.7203-2 Acquisition of noncommercial computer
-software and computer software documentation.</navtitle></topicmeta></topicref>
+software a...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7203-3 Early identification of computer software or computer software documentation to be furnished to the Government with restrictions on use, reproduction or disclosure."
     href="227.7203-3.dita" outputclass="subtopic"
     props="227.7203-3" audience="DFARS-227.7203-3" base="concept">
 <topicmeta><navtitle>227.7203-3 Early identification of computer
-software or computer software documentation to be furnished to the
-Government with restrictions on use, reproduction or disclosure.</navtitle></topicmeta></topicref>
+software or com...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7203-4 License rights."
     href="227.7203-4.dita" outputclass="subtopic"
     props="227.7203-4" audience="DFARS-227.7203-4" base="concept">
@@ -4987,7 +4967,7 @@ Government with restrictions on use, reproduction or disclosure.</navtitle></top
     href="227.7203-8.dita" outputclass="subtopic"
     props="227.7203-8" audience="DFARS-227.7203-8" base="concept">
 <topicmeta><navtitle>227.7203-8 Deferred delivery and deferred ordering
-of computer software and computer software documentation.</navtitle></topicmeta></topicref>
+of compu...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7203-9 Copyright." href="227.7203-9.dita"
     outputclass="subtopic" props="227.7203-9"
     audience="DFARS-227.7203-9" base="concept"><topicmeta>
@@ -4997,8 +4977,7 @@ of computer software and computer software documentation.</navtitle></topicmeta>
     href="227.7203-10.dita" outputclass="subtopic"
     props="227.7203-10" audience="DFARS-227.7203-10"
     base="concept"><topicmeta><navtitle>227.7203-10 Contractor
-identification and marking of computer software or computer software
-documentation to be furnished with restrictive markings.</navtitle></topicmeta></topicref>
+identification and marking of comput...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7203-11 Contractor procedures and records."
     href="227.7203-11.dita" outputclass="subtopic"
     props="227.7203-11" audience="DFARS-227.7203-11"
@@ -5009,33 +4988,31 @@ procedures and records.</navtitle></topicmeta></topicref>
     href="227.7203-12.dita" outputclass="subtopic"
     props="227.7203-12" audience="DFARS-227.7203-12"
     base="concept"><topicmeta><navtitle>227.7203-12 Government
-right to establish conformity of markings.</navtitle></topicmeta></topicref>
+right to establish conformity of mar...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7203-13 Government right to review, verify, challenge, and validate asserted restrictions."
     href="227.7203-13.dita" outputclass="subtopic"
     props="227.7203-13" audience="DFARS-227.7203-13"
     base="concept"><topicmeta><navtitle>227.7203-13 Government
-right to review, verify, challenge, and validate asserted restrictions.</navtitle></topicmeta></topicref>
+right to review, verify, challenge, ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7203-14 Conformity, acceptance, and warranty of computer software and computer software documentation."
     href="227.7203-14.dita" outputclass="subtopic"
     props="227.7203-14" audience="DFARS-227.7203-14"
     base="concept"><topicmeta><navtitle>227.7203-14 Conformity,
-acceptance, and warranty of computer software and computer software
-documentation.</navtitle></topicmeta></topicref>
+acceptance, and warranty of compute...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7203-15 Subcontractor rights in computer software or computer software documentation."
     href="227.7203-15.dita" outputclass="subtopic"
     props="227.7203-15" audience="DFARS-227.7203-15"
     base="concept"><topicmeta><navtitle>227.7203-15 Subcontractor
-rights in computer software or computer software documentation.</navtitle></topicmeta></topicref>
+rights in computer software or co...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7203-16 Providing computer software or computer software documentation to foreign governments, foreign contractors, or international organizations."
     href="227.7203-16.dita" outputclass="subtopic"
     props="227.7203-16" audience="DFARS-227.7203-16"
     base="concept"><topicmeta><navtitle>227.7203-16 Providing
-computer software or computer software documentation to foreign
-governments, foreign contractors, or international organizations.</navtitle></topicmeta></topicref>
+computer software or computer softwar...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="227.7203-17 Overseas contracts with foreign sources."
     href="227.7203-17.dita" outputclass="subtopic"
@@ -5046,7 +5023,7 @@ with foreign sources.</navtitle></topicmeta></topicref></topicref>
     navtitle="227.7204 Contracts under the Small Business Innovation Research Program."
     href="227.7204.dita" outputclass="subtopic" props="227.7204"
     audience="DFARS-227.7204" base="concept"><topicmeta><navtitle>227.7204
-Contracts under the Small Business Innovation Research Program.</navtitle></topicmeta></topicref>
+Contracts under the Small Business Innovation Rese...</navtitle></topicmeta></topicref>
 <topicref navtitle="227.7205 Contracts for special works."
     href="227.7205.dita" outputclass="subtopic" props="227.7205"
     audience="DFARS-227.7205" base="concept"><topicmeta><navtitle>227.7205
@@ -5080,7 +5057,7 @@ General.</navtitle></topicmeta></topicref>
     href="228.102-70.dita" outputclass="subtopic"
     props="228.102-70" audience="DFARS-228.102-70" base="concept">
 <topicmeta><navtitle>228.102-70 Defense Environmental Restoration
-Program construction contracts.</navtitle></topicmeta></topicref></topicref>
+Program constr...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="228.105 Other types of bonds."
     href="228.105.dita" outputclass="subtopic" props="228.105"
     audience="DFARS-228.105" base="concept"><topicmeta><navtitle>228.105
@@ -5104,7 +5081,7 @@ Risk-pooling arrangements.</navtitle></topicmeta></topicref>
     navtitle="228.305 Overseas workers' compensation and war-hazard insurance."
     href="228.305.dita" outputclass="subtopic" props="228.305"
     audience="DFARS-228.305" base="concept"><topicmeta><navtitle>228.305
-Overseas workers' compensation and war-hazard insurance.</navtitle></topicmeta></topicref>
+Overseas workers' compensation and war-hazard insur...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="228.307 Insurance under cost-reimbursement contracts."
     href="228.307.dita" outputclass="subtopic" props="228.307"
@@ -5230,7 +5207,7 @@ Compensation for personal services.</navtitle></topicmeta></topicref>
     href="231.205-18.dita" outputclass="subtopic"
     props="231.205-18" audience="DFARS-231.205-18" base="concept">
 <topicmeta><navtitle>231.205-18 Independent research and development
-and bid and proposal costs.</navtitle></topicmeta></topicref>
+and bid and...</navtitle></topicmeta></topicref>
 <topicref navtitle="231.205-19 Insurance and indemnification."
     href="231.205-19.dita" outputclass="subtopic"
     props="231.205-19" audience="DFARS-231.205-19" base="concept">
@@ -5248,7 +5225,7 @@ and bid and proposal costs.</navtitle></topicmeta></topicref>
     href="231.205-71.dita" outputclass="subtopic"
     props="231.205-71" audience="DFARS-231.205-71" base="concept">
 <topicmeta><navtitle>231.205-71 Costs related to counterfeit electronic
-parts and suspect counterfeit electronic parts.</navtitle></topicmeta></topicref></topicref></topicref>
+parts an...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref
     navtitle="SUBPART 231.3 —CONTRACTS WITH EDUCATIONAL INSTITUTIONS "
     href="SUBPART_231.3.dita" outputclass="SubPart"
@@ -5502,7 +5479,7 @@ Contracts crossing fiscal years.</navtitle></topicmeta></topicref>
     href="232.703-70.dita" outputclass="subtopic"
     props="232.703-70" audience="DFARS-232.703-70" base="concept">
 <topicmeta><navtitle>232.703-70 Military construction appropriations
-act restriction.</navtitle></topicmeta></topicref></topicref>
+act restric...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="232.704 Limitation of cost or funds."
     href="232.704.dita" outputclass="subtopic" props="232.704"
     audience="DFARS-232.704" base="concept">
@@ -5520,7 +5497,7 @@ contracts.</navtitle></topicmeta></topicref></topicref>
     href="232.705-70.dita" outputclass="subtopic"
     props="232.705-70" audience="DFARS-232.705-70" base="concept">
 <topicmeta><navtitle>232.705-70 Clause for limitation of Government’s
-obligation.</navtitle></topicmeta></topicref></topicref></topicref>
+obligati...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref navtitle="SUBPART 232.8 —ASSIGNMENT OF CLAIMS"
     href="SUBPART_232.8.dita" outputclass="SubPart"
     props="SUBPART 232.8" audience="DFARS-SUBPART_232.8"
@@ -5668,13 +5645,12 @@ General.</navtitle></topicmeta></topicref>
     navtitle="233.170 Briefing requirement for protested acquisitions valued at $1 billion or more."
     href="233.170.dita" outputclass="subtopic" props="233.170"
     audience="DFARS-233.170" base="concept"><topicmeta><navtitle>233.170
-Briefing requirement for protested acquisitions valued at $1 billion
-or more.</navtitle></topicmeta></topicref>
+Briefing requirement for protested acquisitions val...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="233.171 Reporting requirement for protests of solicitations or awards."
     href="233.171.dita" outputclass="subtopic" props="233.171"
     audience="DFARS-233.171" base="concept"><topicmeta><navtitle>233.171
-Reporting requirement for protests of solicitations or awards.</navtitle></topicmeta></topicref></topicref>
+Reporting requirement for protests of solicitations...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="SUBPART 233.2 —DISPUTES AND APPEALS"
     href="SUBPART_233.2.dita" outputclass="SubPart"
     props="SUBPART 233.2" audience="DFARS-SUBPART_233.2"
@@ -5806,7 +5782,7 @@ Scientific and technical reports.</navtitle></topicmeta></topicref>
     href="235.015-70.dita" outputclass="subtopic"
     props="235.015-70" audience="DFARS-235.015-70" base="concept">
 <topicmeta><navtitle>235.015-70 Special use allowances for research
-facilities acquired by educational institutions.</navtitle></topicmeta></topicref></topicref>
+facilities a...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="235.016 Broad agency announcement."
     href="235.016.dita" outputclass="subtopic" props="235.016"
     audience="DFARS-235.016" base="concept"><topicmeta><navtitle>235.016
@@ -5827,13 +5803,12 @@ Sponsoring agreements.</navtitle></topicmeta></topicref></topicref>
     navtitle="235.070-1 Indemnification under research and development contracts."
     href="235.070-1.dita" outputclass="subtopic" props="235.070-1"
     audience="DFARS-235.070-1" base="concept"><topicmeta><navtitle>235.070-1
-Indemnification under research and development contracts.</navtitle></topicmeta></topicref>
+Indemnification under research and development co...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="235.070-2 Indemnification under contracts involving both research and development and other work."
     href="235.070-2.dita" outputclass="subtopic" props="235.070-2"
     audience="DFARS-235.070-2" base="concept"><topicmeta><navtitle>235.070-2
-Indemnification under contracts involving both research and development
-and other work.</navtitle></topicmeta></topicref>
+Indemnification under contracts involving both re...</navtitle></topicmeta></topicref>
 <topicref navtitle="235.070-3 Contract clauses."
     href="235.070-3.dita" outputclass="subtopic" props="235.070-3"
     audience="DFARS-235.070-3" base="concept"><topicmeta><navtitle>235.070-3
@@ -5876,7 +5851,7 @@ Government estimate of construction costs.</navtitle></topicmeta></topicref>
     navtitle="236.204 Disclosure of the magnitude of construction projects."
     href="236.204.dita" outputclass="subtopic" props="236.204"
     audience="DFARS-236.204" base="concept"><topicmeta><navtitle>236.204
-Disclosure of the magnitude of construction projects.</navtitle></topicmeta></topicref>
+Disclosure of the magnitude of construction project...</navtitle></topicmeta></topicref>
 <topicref navtitle="236.206 Liquidated damages." href="236.206.dita"
     outputclass="subtopic" props="236.206"
     audience="DFARS-236.206" base="concept"><topicmeta><navtitle>236.206
@@ -5885,12 +5860,12 @@ Liquidated damages.</navtitle></topicmeta></topicref>
     navtitle="236.213 Special procedures for sealed bidding in construction contracting."
     href="236.213.dita" outputclass="subtopic" props="236.213"
     audience="DFARS-236.213" base="concept"><topicmeta><navtitle>236.213
-Special procedures for sealed bidding in construction contracting.</navtitle></topicmeta></topicref>
+Special procedures for sealed bidding in constructi...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="236.215 Special procedures for cost-reimbursement contracts for construction."
     href="236.215.dita" outputclass="subtopic" props="236.215"
     audience="DFARS-236.215" base="concept"><topicmeta><navtitle>236.215
-Special procedures for cost-reimbursement contracts for construction.</navtitle></topicmeta></topicref>
+Special procedures for cost-reimbursement contracts...</navtitle></topicmeta></topicref>
 <topicref navtitle="236.270 Expediting construction contracts."
     href="236.270.dita" outputclass="subtopic" props="236.270"
     audience="DFARS-236.270" base="concept"><topicmeta><navtitle>236.270
@@ -5911,8 +5886,7 @@ Construction in foreign countries.</navtitle></topicmeta></topicref>
     navtitle="236.274 Restriction on acquisition of steel for use in military construction projects."
     href="236.274.dita" outputclass="subtopic" props="236.274"
     audience="DFARS-236.274" base="concept"><topicmeta><navtitle>236.274
-Restriction on acquisition of steel for use in military construction
-projects.</navtitle></topicmeta></topicref>
+Restriction on acquisition of steel for use in mili...</navtitle></topicmeta></topicref>
 <topicref navtitle="236.275 Construction of industrial resources."
     href="236.275.dita" outputclass="subtopic" props="236.275"
     audience="DFARS-236.275" base="concept"><topicmeta><navtitle>236.275
@@ -5961,7 +5935,7 @@ Selection criteria.</navtitle></topicmeta></topicref>
     href="236.602-70.dita" outputclass="subtopic"
     props="236.602-70" audience="DFARS-236.602-70" base="concept">
 <topicmeta><navtitle>236.602-70 Restriction on award of overseas
-architect-engineer contracts to foreign firms.</navtitle></topicmeta></topicref></topicref>
+architect-engin...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="236.604 Performance evaluation."
     href="236.604.dita" outputclass="subtopic" props="236.604"
     audience="DFARS-236.604" base="concept"><topicmeta><navtitle>236.604
@@ -5989,8 +5963,7 @@ Performance evaluation.</navtitle></topicmeta></topicref>
     navtitle="236.701 Standard and optional forms for use in contracting for construction or dismantling, demolition, or removal of improvements."
     href="236.701.dita" outputclass="subtopic" props="236.701"
     audience="DFARS-236.701" base="concept"><topicmeta><navtitle>236.701
-Standard and optional forms for use in contracting for construction
-or dismantling, demolition, or removal of improvements.</navtitle></topicmeta></topicref></topicref></topicref>
+Standard and optional forms for use in contracting ...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref navtitle="PART 237 - SERVICE CONTRACTING"
     href="PART_237.dita" outputclass="Part" props="PART 237"
     audience="DFARS-PART_237" base="NoTitle">
@@ -6010,13 +5983,13 @@ Definitions.</navtitle></topicmeta></topicref>
     href="237.102-70.dita" outputclass="subtopic"
     props="237.102-70" audience="DFARS-237.102-70" base="concept">
 <topicmeta><navtitle>237.102-70 Prohibition on contracting for firefighting
-or security-guard functions.</navtitle></topicmeta></topicref>
+or s...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="237.102-71 Limitation on service contracts for military flight simulators."
     href="237.102-71.dita" outputclass="subtopic"
     props="237.102-71" audience="DFARS-237.102-71" base="concept">
 <topicmeta><navtitle>237.102-71 Limitation on service contracts
-for military flight simulators.</navtitle></topicmeta></topicref>
+for military fli...</navtitle></topicmeta></topicref>
 <topicref navtitle="237.102-72 Contracts for management services."
     href="237.102-72.dita" outputclass="subtopic"
     props="237.102-72" audience="DFARS-237.102-72" base="concept">
@@ -6026,13 +5999,13 @@ for military flight simulators.</navtitle></topicmeta></topicref>
     href="237.102-73.dita" outputclass="subtopic"
     props="237.102-73" audience="DFARS-237.102-73" base="concept">
 <topicmeta><navtitle>237.102-73 Prohibition on contracts for services
-of senior mentors.</navtitle></topicmeta></topicref>
+of senior ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="237.102-74 Taxonomy for the acquisition of services, and supplies and equipment."
     href="237.102-74.dita" outputclass="subtopic"
     props="237.102-74" audience="DFARS-237.102-74" base="concept">
 <topicmeta><navtitle>237.102-74 Taxonomy for the acquisition of
-services, and supplies and equipment.</navtitle></topicmeta></topicref>
+services, and su...</navtitle></topicmeta></topicref>
 <topicref navtitle="237.102-75 Defense Acquisition Guidebook."
     href="237.102-75.dita" outputclass="subtopic"
     props="237.102-75" audience="DFARS-237.102-75" base="concept">
@@ -6053,13 +6026,13 @@ tool.</navtitle></topicmeta></topicref>
     href="237.102-78.dita" outputclass="subtopic"
     props="237.102-78" audience="DFARS-237.102-78" base="concept">
 <topicmeta><navtitle>237.102-78 Market research report guide for
-improving the tradecraft in services acquisition.</navtitle></topicmeta></topicref>
+improving the t...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="237.102-79 Private sector notification requirements in support of in-sourcing actions."
     href="237.102-79.dita" outputclass="subtopic"
     props="237.102-79" audience="DFARS-237.102-79" base="concept">
 <topicmeta><navtitle>237.102-79 Private sector notification requirements
-in support of in-sourcing actions.</navtitle></topicmeta></topicref></topicref>
+in supp...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="237.104 Personal services contracts."
     href="237.104.dita" outputclass="subtopic" props="237.104"
     audience="DFARS-237.104" base="concept"><topicmeta><navtitle>237.104
@@ -6137,7 +6110,7 @@ Contract clause.</navtitle></topicmeta></topicref></topicref>
     navtitle="237.174 Disclosure of information to litigation support contractors."
     href="237.174.dita" outputclass="subtopic" props="237.174"
     audience="DFARS-237.174" base="concept"><topicmeta><navtitle>237.174
-Disclosure of information to litigation support contractors.</navtitle></topicmeta></topicref>
+Disclosure of information to litigation support con...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="237.175 Training that uses live vertebrate animals."
     href="237.175.dita" outputclass="subtopic" props="237.175"
@@ -6224,7 +6197,7 @@ Duration.</navtitle></topicmeta></topicref>
     navtitle="237.7204 Format and clauses for educational service agreements."
     href="237.7204.dita" outputclass="subtopic" props="237.7204"
     audience="DFARS-237.7204" base="concept"><topicmeta><navtitle>237.7204
-Format and clauses for educational service agreements.</navtitle></topicmeta></topicref></topicref>
+Format and clauses for educational service agreeme...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="SUBPART 237.73 —SERVICES OF STUDENTS AT RESEARCH AND DEVELOPMENT LABORATORIES"
     href="SUBPART_237.73.dita" outputclass="SubPart"
@@ -6367,13 +6340,13 @@ Definition.</navtitle></topicmeta></topicref>
     href="239.7102-2.dita" outputclass="subtopic"
     props="239.7102-2" audience="DFARS-239.7102-2" base="concept">
 <topicmeta><navtitle>239.7102-2 Compromising emanations—TEMPEST
-or other standard.</navtitle></topicmeta></topicref>
+or other stand...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="239.7102-3 Information assurance contractor training and certification."
     href="239.7102-3.dita" outputclass="subtopic"
     props="239.7102-3" audience="DFARS-239.7102-3" base="concept">
 <topicmeta><navtitle>239.7102-3 Information assurance contractor
-training and certification.</navtitle></topicmeta></topicref></topicref>
+training and ce...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="239.7103 Contract clauses." href="239.7103.dita"
     outputclass="subtopic" props="239.7103"
     audience="DFARS-239.7103" base="concept"><topicmeta><navtitle>239.7103
@@ -6448,13 +6421,12 @@ Reserved.</navtitle></topicmeta></topicref>
     navtitle="239.7405 Delegated authority for telecommunications resources."
     href="239.7405.dita" outputclass="subtopic" props="239.7405"
     audience="DFARS-239.7405" base="concept"><topicmeta><navtitle>239.7405
-Delegated authority for telecommunications resources.</navtitle></topicmeta></topicref>
+Delegated authority for telecommunications resourc...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="239.7406 Certified cost or pricing data and data other than certified cost or pricing data."
     href="239.7406.dita" outputclass="subtopic" props="239.7406"
     audience="DFARS-239.7406" base="concept"><topicmeta><navtitle>239.7406
-Certified cost or pricing data and data other than certified cost
-or pricing data.</navtitle></topicmeta></topicref>
+Certified cost or pricing data and data other than...</navtitle></topicmeta></topicref>
 <topicref navtitle="239.7407 Type of contract." href="239.7407.dita"
     outputclass="subtopic" props="239.7407"
     audience="DFARS-239.7407" base="concept"><topicmeta><navtitle>239.7407
@@ -6471,7 +6443,7 @@ Type of contract.</navtitle></topicmeta></topicref>
     href="239.7408-2.dita" outputclass="subtopic"
     props="239.7408-2" audience="DFARS-239.7408-2" base="concept">
 <topicmeta><navtitle>239.7408-2 Applicability of construction labor
-standards for special construction.</navtitle></topicmeta></topicref></topicref>
+standards fo...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="239.7409 Special assembly." href="239.7409.dita"
     outputclass="subtopic" props="239.7409"
     audience="DFARS-239.7409" base="concept"><topicmeta><navtitle>239.7409
@@ -6512,7 +6484,7 @@ Definitions.</navtitle></topicmeta></topicref>
     href="239.7602-2.dita" outputclass="subtopic"
     props="239.7602-2" audience="DFARS-239.7602-2" base="concept">
 <topicmeta><navtitle>239.7602-2 Required storage of data within
-the United States or outlying areas.</navtitle></topicmeta></topicref></topicref>
+the United State...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="239.7603 Procedures." href="239.7603.dita"
     outputclass="subtopic" props="239.7603"
     audience="DFARS-239.7603" base="concept"><topicmeta><navtitle>239.7603
@@ -6720,7 +6692,7 @@ Processing agreements.</navtitle></topicmeta></topicref>
     navtitle="242.1204 Agreement to recognize a successor in interest (novation agreement)."
     href="242.1204.dita" outputclass="subtopic" props="242.1204"
     audience="DFARS-242.1204" base="concept"><topicmeta><navtitle>242.1204
-Agreement to recognize a successor in interest (novation agreement).</navtitle></topicmeta></topicref></topicref>
+Agreement to recognize a successor in interest (no...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="SUBPART 242.14 —TRAFFIC AND TRANSPORTATION MANAGEMENT"
     href="SUBPART_242.14.dita" outputclass="SubPart"
@@ -6842,12 +6814,12 @@ Contract clause.</navtitle></topicmeta></topicref></topicref></topicref>
     href="243.107-70.dita" outputclass="subtopic"
     props="243.107-70" audience="DFARS-243.107-70" base="concept">
 <topicmeta><navtitle>243.107-70 Notification of substantial impact
-on employment.</navtitle></topicmeta></topicref></topicref>
+on employment...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="243.170 Identification of foreign military sale (FMS) requirements."
     href="243.170.dita" outputclass="subtopic" props="243.170"
     audience="DFARS-243.170" base="concept"><topicmeta><navtitle>243.170
-Identification of foreign military sale (FMS) requirements.</navtitle></topicmeta></topicref>
+Identification of foreign military sale (FMS) requi...</navtitle></topicmeta></topicref>
 <topicref navtitle="243.171 Obligation or deobligation of funds."
     href="243.171.dita" outputclass="subtopic" props="243.171"
     audience="DFARS-243.171" base="concept"><topicmeta><navtitle>243.171
@@ -6899,7 +6871,7 @@ Profit.</navtitle></topicmeta></topicref>
     href="243.204-71.dita" outputclass="subtopic"
     props="243.204-71" audience="DFARS-243.204-71" base="concept">
 <topicmeta><navtitle>243.204-71 Certification of requests for equitable
-adjustment.</navtitle></topicmeta></topicref></topicref>
+adjustme...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="243.205 Contract clauses." href="243.205.dita"
     outputclass="subtopic" props="243.205"
     audience="DFARS-243.205" base="concept">
@@ -7022,7 +6994,7 @@ accountability.</navtitle></topicmeta></topicref>
     href="245.103-72.dita" outputclass="subtopic"
     props="245.103-72" audience="DFARS-245.103-72" base="concept">
 <topicmeta><navtitle>245.103-72 Government-furnished property attachments
-to solicitations and awards.</navtitle></topicmeta></topicref>
+to sol...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="245.103-73 Government property under sustainment contracts."
     href="245.103-73.dita" outputclass="subtopic"
@@ -7037,12 +7009,12 @@ contracts.</navtitle></topicmeta></topicref>
     navtitle="245.104 Responsibility and liability for Government property. "
     href="245.104.dita" outputclass="subtopic" props="245.104"
     audience="DFARS-245.104" base="concept"><topicmeta><navtitle>245.104
-Responsibility and liability for Government property.</navtitle></topicmeta></topicref>
+Responsibility and liability for Government propert...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="245.105 Contractor’s property management system compliance."
     href="245.105.dita" outputclass="subtopic" props="245.105"
     audience="DFARS-245.105" base="concept"><topicmeta><navtitle>245.105
-Contractor’s property management system compliance.</navtitle></topicmeta></topicref>
+Contractor’s property management system complianc...</navtitle></topicmeta></topicref>
 <topicref navtitle="245.107 Contract clauses." href="245.107.dita"
     outputclass="subtopic" props="245.107"
     audience="DFARS-245.107" base="concept"><topicmeta><navtitle>245.107
@@ -7072,7 +7044,7 @@ Contract clauses.</navtitle></topicmeta></topicref></topicref>
     navtitle="245.302 Contracts with foreign governments or international organizations."
     href="245.302.dita" outputclass="subtopic" props="245.302"
     audience="DFARS-245.302" base="concept"><topicmeta><navtitle>245.302
-Contracts with foreign governments or international organizations.</navtitle></topicmeta></topicref></topicref>
+Contracts with foreign governments or international...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="SUBPART 245.4 —TITLE TO GOVERNMENT PROPERTY"
     href="SUBPART_245.4.dita" outputclass="SubPart"
     props="SUBPART 245.4" audience="DFARS-SUBPART_245.4"
@@ -7138,19 +7110,19 @@ Sale of surplus property.</navtitle></topicmeta></topicref></topicref></topicref
     href="245.7001-1.dita" outputclass="subtopic"
     props="245.7001-1" audience="DFARS-245.7001-1" base="concept">
 <topicmeta><navtitle>245.7001-1 Standard Form 97, Certificate of
-Release of a Motor Vehicle (Agency Record Copy).</navtitle></topicmeta></topicref>
+Release of a Mo...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="245.7001-2 DD Form 1149, Requisition and Invoice Shipping Document."
     href="245.7001-2.dita" outputclass="subtopic"
     props="245.7001-2" audience="DFARS-245.7001-2" base="concept">
 <topicmeta><navtitle>245.7001-2 DD Form 1149, Requisition and Invoice
-Shipping Document.</navtitle></topicmeta></topicref>
+Shipping D...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="245.7001-3 DD Form 1348-1, DoD Single Line Item Release/Receipt Document."
     href="245.7001-3.dita" outputclass="subtopic"
     props="245.7001-3" audience="DFARS-245.7001-3" base="concept">
 <topicmeta><navtitle>245.7001-3 DD Form 1348-1, DoD Single Line
-Item Release/Receipt Document.</navtitle></topicmeta></topicref>
+Item Release/Rec...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="245.7001-4 DD Form 1640, Request for Plant Clearance."
     href="245.7001-4.dita" outputclass="subtopic"
@@ -7259,8 +7231,7 @@ Government contract quality assurance at source.</navtitle></topicmeta></topicre
     navtitle="246.404 Government contract quality assurance for acquisitions at or below the simplified acquisition threshold."
     href="246.404.dita" outputclass="subtopic" props="246.404"
     audience="DFARS-246.404" base="concept"><topicmeta><navtitle>246.404
-Government contract quality assurance for acquisitions at or below
-the simplified acquisition threshold.</navtitle></topicmeta></topicref>
+Government contract quality assurance for acquisiti...</navtitle></topicmeta></topicref>
 <topicref navtitle="246.406 Foreign governments."
     href="246.406.dita" outputclass="subtopic" props="246.406"
     audience="DFARS-246.406" base="concept"><topicmeta><navtitle>246.406
@@ -7407,7 +7378,7 @@ Preparation of solicitations and contracts.</navtitle></topicmeta></topicref>
     navtitle="247.207 Solicitation provisions, contract clauses, and special requirements."
     href="247.207.dita" outputclass="subtopic" props="247.207"
     audience="DFARS-247.207" base="concept"><topicmeta><navtitle>247.207
-Solicitation provisions, contract clauses, and special requirements.</navtitle></topicmeta></topicref>
+Solicitation provisions, contract clauses, and spec...</navtitle></topicmeta></topicref>
 <topicref navtitle="247.270 Stevedoring contracts."
     href="247.270.dita" outputclass="subtopic" props="247.270"
     audience="DFARS-247.270" base="concept">
@@ -7443,7 +7414,7 @@ Procedures.</navtitle></topicmeta></topicref>
     navtitle="247.271-3 Solicitation provisions, schedule formats, and contract clauses."
     href="247.271-3.dita" outputclass="subtopic" props="247.271-3"
     audience="DFARS-247.271-3" base="concept"><topicmeta><navtitle>247.271-3
-Solicitation provisions, schedule formats, and contract clauses.</navtitle></topicmeta></topicref></topicref></topicref>
+Solicitation provisions, schedule formats, and co...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref
     navtitle="SUBPART 247.3 —TRANSPORTATION IN SUPPLY CONTRACTS"
     href="SUBPART_247.3.dita" outputclass="SubPart"
@@ -7474,17 +7445,17 @@ instructions.</navtitle></topicmeta></topicref></topicref>
     navtitle="247.370 DD Form 1384, Transportation Control and Movement Document."
     href="247.370.dita" outputclass="subtopic" props="247.370"
     audience="DFARS-247.370" base="concept"><topicmeta><navtitle>247.370
-DD Form 1384, Transportation Control and Movement Document.</navtitle></topicmeta></topicref>
+DD Form 1384, Transportation Control and Movement D...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="247.371 DD Form 1653, Transportation Data for Solicitations."
     href="247.371.dita" outputclass="subtopic" props="247.371"
     audience="DFARS-247.371" base="concept"><topicmeta><navtitle>247.371
-DD Form 1653, Transportation Data for Solicitations.</navtitle></topicmeta></topicref>
+DD Form 1653, Transportation Data for Solicitations...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="247.372 DD Form 1654, Evaluation of Transportation Cost Factors."
     href="247.372.dita" outputclass="subtopic" props="247.372"
     audience="DFARS-247.372" base="concept"><topicmeta><navtitle>247.372
-DD Form 1654, Evaluation of Transportation Cost Factors.</navtitle></topicmeta></topicref></topicref>
+DD Form 1654, Evaluation of Transportation Cost Fac...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="SUBPART 247.5 —OCEAN TRANSPORTATION BY U.S.-FLAG VESSELS"
     href="SUBPART_247.5.dita" outputclass="SubPart"
@@ -7574,12 +7545,12 @@ Settlement negotiation memorandum.</navtitle></topicmeta></topicref></topicref>
     navtitle="249.7000 Terminated contracts with Canadian Commercial Corporation."
     href="249.7000.dita" outputclass="subtopic" props="249.7000"
     audience="DFARS-249.7000" base="concept"><topicmeta><navtitle>249.7000
-Terminated contracts with Canadian Commercial Corporation.</navtitle></topicmeta></topicref>
+Terminated contracts with Canadian Commercial Corp...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="249.7001 Congressional notification on significant contract terminations."
     href="249.7001.dita" outputclass="subtopic" props="249.7001"
     audience="DFARS-249.7001" base="concept"><topicmeta><navtitle>249.7001
-Congressional notification on significant contract terminations.</navtitle></topicmeta></topicref>
+Congressional notification on significant contract...</navtitle></topicmeta></topicref>
 <topicref navtitle="249.7002 Reserved." href="249.7002.dita"
     outputclass="subtopic" props="249.7002"
     audience="DFARS-249.7002" base="concept"><topicmeta><navtitle>249.7002
@@ -7588,7 +7559,7 @@ Reserved.</navtitle></topicmeta></topicref>
     navtitle="249.7003 Notification of anticipated contract terminations or reductions."
     href="249.7003.dita" outputclass="subtopic" props="249.7003"
     audience="DFARS-249.7003" base="concept"><topicmeta><navtitle>249.7003
-Notification of anticipated contract terminations or reductions.</navtitle></topicmeta></topicref>
+Notification of anticipated contract terminations ...</navtitle></topicmeta></topicref>
 <topicref navtitle="249.7004 Contract clause." href="249.7004.dita"
     outputclass="subtopic" props="249.7004"
     audience="DFARS-249.7004" base="concept"><topicmeta><navtitle>249.7004
@@ -7665,7 +7636,7 @@ Disposition.</navtitle></topicmeta></topicref></topicref>
     href="250.104-3-70.dita" props="250.104-3-70"
     audience="DFARS-250.104-3-70" base="concept"><topicmeta>
 <navtitle>250.104-3-70 Indemnification under contracts involving
-both research and development and other work.</navtitle></topicmeta></topicref></topicref></topicref></topicref>
+both...</navtitle></topicmeta></topicref></topicref></topicref></topicref>
 <topicref navtitle="SUBPART 250.2 DELETED (NO DFARS TEXT)"
     href="SUBPART_250.2.dita" outputclass="SubPart"
     props="SUBPART 250.2" audience="DFARS-SUBPART_250.2"
@@ -7758,20 +7729,19 @@ Officer's Representative.</navtitle></topicmeta></topicref></topicref>
     href="252.203-7000.dita" outputclass="subtopic"
     props="252.203-7000" audience="DFARS-252.203-7000"
     base="concept"><topicmeta><navtitle>252.203-7000 Requirements
-Relating to Compensation of Former DoD Officials.</navtitle></topicmeta></topicref>
+Relating to Compensation of Forme...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.203-7001 Prohibition on Persons Convicted of Fraud or Other Defense Contract-Related Felonies."
     href="252.203-7001.dita" outputclass="subtopic"
     props="252.203-7001" audience="DFARS-252.203-7001"
     base="concept"><topicmeta><navtitle>252.203-7001 Prohibition
-on Persons Convicted of Fraud or Other Defense Contract-Related
-Felonies.</navtitle></topicmeta></topicref>
+on Persons Convicted of Fraud or O...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.203-7002 Requirement to Inform Employees of Whistleblower Rights."
     href="252.203-7002.dita" outputclass="subtopic"
     props="252.203-7002" audience="DFARS-252.203-7002"
     base="concept"><topicmeta><navtitle>252.203-7002 Requirement
-to Inform Employees of Whistleblower Rights.</navtitle></topicmeta></topicref>
+to Inform Employees of Whistleblow...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.203-7003  Agency Office of the Inspector General."
     href="252.203-7003.dita" outputclass="subtopic"
@@ -7788,7 +7758,7 @@ Hotline Posters.</navtitle></topicmeta></topicref>
     href="252.203-7005.dita" outputclass="subtopic"
     props="252.203-7005" audience="DFARS-252.203-7005"
     base="concept"><topicmeta><navtitle>252.203-7005 Representation
-Relating to Compensation of Former DoD Officials.</navtitle></topicmeta></topicref></topicref>
+Relating to Compensation of For...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.204 RESERVED" href="252.204.dita"
     outputclass="subtopic" props="252.204" base="concept">
 <topicref navtitle="252.204-7000 Disclosure of Information."
@@ -7805,7 +7775,7 @@ of Information.</navtitle></topicmeta></topicref>
     href="252.204-7002.dita" outputclass="subtopic"
     props="252.204-7002" audience="DFARS-252.204-7002"
     base="concept"><topicmeta><navtitle>252.204-7002 Payment for
-Contract Line or Subline Items Not Separately Priced.</navtitle></topicmeta></topicref>
+Contract Line or Subline Items Not...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7003 Control of Government Personnel Work Product."
     href="252.204-7003.dita" outputclass="subtopic"
@@ -7817,7 +7787,7 @@ Government Personnel Work Product.</navtitle></topicmeta></topicref>
     href="252.204-7004.dita" outputclass="subtopic"
     props="252.204-7004" audience="DFARS-252.204-7004"
     base="concept"><topicmeta><navtitle>252.204-7004 Antiterrorism
-Awareness Training for Contractors.</navtitle></topicmeta></topicref>
+Awareness Training for Contracto...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.204-7005 Reserved." href="252.204-7005.dita"
     outputclass="subtopic" props="252.204-7005"
     audience="DFARS-252.204-7005" base="concept"><topicmeta>
@@ -7831,28 +7801,25 @@ Awareness Training for Contractors.</navtitle></topicmeta></topicref>
     href="252.204-7007.dita" outputclass="subtopic"
     props="252.204-7007" audience="DFARS-252.204-7007"
     base="concept"><topicmeta><navtitle>252.204-7007 Alternate
-A, Annual Representations and Certifications.</navtitle></topicmeta></topicref>
+A, Annual Representations and Certif...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7008 Compliance with Safeguarding Covered Defense Information Controls."
     href="252.204-7008.dita" outputclass="subtopic"
     props="252.204-7008" audience="DFARS-252.204-7008"
     base="concept"><topicmeta><navtitle>252.204-7008 Compliance
-with Safeguarding Covered Defense Information Controls.</navtitle></topicmeta></topicref>
+with Safeguarding Covered Defense I...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7009 Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information."
     href="252.204-7009.dita" outputclass="subtopic"
     props="252.204-7009" audience="DFARS-252.204-7009"
     base="concept"><topicmeta><navtitle>252.204-7009 Limitations
-on the Use or Disclosure of Third-Party Contractor Reported Cyber
-Incident Information.</navtitle></topicmeta></topicref>
+on the Use or Disclosure of Third-...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7010 Requirement for Contractor to Notify DoD if the Contractor’s Activities are Subject to Reporting Under the U.S.-International Atomic Energy Agency Additional Protocol."
     href="252.204-7010.dita" outputclass="subtopic"
     props="252.204-7010" audience="DFARS-252.204-7010"
     base="concept"><topicmeta><navtitle>252.204-7010 Requirement
-for Contractor to Notify DoD if the Contractor’s Activities are
-Subject to Reporting Under the U.S.-International Atomic Energy
-Agency Additional Protocol.</navtitle></topicmeta></topicref>
+for Contractor to Notify DoD if th...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.204-7011 Reserved. "
     href="252.204-7011.dita" outputclass="subtopic"
     props="252.204-7011" audience="DFARS-252.204-7011"
@@ -7862,7 +7829,7 @@ Agency Additional Protocol.</navtitle></topicmeta></topicref>
     href="252.204-7012.dita" outputclass="subtopic"
     props="252.204-7012" audience="DFARS-252.204-7012"
     base="concept"><topicmeta><navtitle>252.204-7012 Safeguarding
-Covered Defense Information and Cyber Incident Reporting.</navtitle></topicmeta></topicref>
+Covered Defense Information and C...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.204-7013 Reserved." href="252.204-7013.dita"
     outputclass="subtopic" props="252.204-7013"
     audience="DFARS-252.204-7013" base="concept"><topicmeta>
@@ -7872,38 +7839,36 @@ Covered Defense Information and Cyber Incident Reporting.</navtitle></topicmeta>
     href="252.204-7014.dita" outputclass="subtopic"
     props="252.204-7014" audience="DFARS-252.204-7014"
     base="concept"><topicmeta><navtitle>252.204-7014 Limitations
-on the Use or Disclosure of Information by Litigation Support Contractors.</navtitle></topicmeta></topicref>
+on the Use or Disclosure of Inform...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7015 Notice of Authorized Disclosure of Information for Litigation Support."
     href="252.204-7015.dita" outputclass="subtopic"
     props="252.204-7015" audience="DFARS-252.204-7015"
     base="concept"><topicmeta><navtitle>252.204-7015 Notice of
-Authorized Disclosure of Information for Litigation Support.</navtitle></topicmeta></topicref>
+Authorized Disclosure of Information...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7016 Covered Defense Telecommunications Equipment or Services—Representation."
     href="252.204-7016.dita" outputclass="subtopic"
     props="252.204-7016" audience="DFARS-252.204-7016"
     base="concept"><topicmeta><navtitle>252.204-7016 Covered Defense
-Telecommunications Equipment or Services—Representation.</navtitle></topicmeta></topicref>
+Telecommunications Equipment o...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7017 Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services—Representation."
     href="252.204-7017.dita" outputclass="subtopic"
     props="252.204-7017" audience="DFARS-252.204-7017"
     base="concept"><topicmeta><navtitle>252.204-7017 Prohibition
-on the Acquisition of Covered Defense Telecommunications Equipment
-or Services—Representation.</navtitle></topicmeta></topicref>
+on the Acquisition of Covered Defe...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7018 Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services."
     href="252.204-7018.dita" outputclass="subtopic"
     props="252.204-7018" audience="DFARS-252.204-7018"
     base="concept"><topicmeta><navtitle>252.204-7018 Prohibition
-on the Acquisition of Covered Defense Telecommunications Equipment
-or Services.</navtitle></topicmeta></topicref>
+on the Acquisition of Covered Defe...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7019 Notice of NIST SP 800-171 DoD Assessment Requirements."
     href="252.204-7019.dita" outputclass="subtopic"
     props="252.204-7019" base="concept"><topicmeta><navtitle>252.204-7019
-Notice of NIST SP 800-171 DoD Assessment Requirements.</navtitle></topicmeta></topicref>
+Notice of NIST SP 800-171 DoD Assessment Requi...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.204-7020 NIST SP 800-171 DoD Assessment Requirements."
     href="252.204-7020.dita" outputclass="subtopic"
@@ -7913,7 +7878,7 @@ NIST SP 800-171 DoD Assessment Requirements.</navtitle></topicmeta></topicref>
     navtitle="252.204-7021 Cybersecurity Maturity Model Certification Requirements."
     href="252.204-7021.dita" outputclass="subtopic"
     props="252.204-7021" base="concept"><topicmeta><navtitle>252.204-7021
-Cybersecurity Maturity Model Certification Requirements.</navtitle></topicmeta></topicref></topicref>
+Cybersecurity Maturity Model Certification Req...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.205 RESERVED" href="252.205.dita"
     outputclass="subtopic" props="252.205" base="concept">
 <topicref
@@ -7921,7 +7886,7 @@ Cybersecurity Maturity Model Certification Requirements.</navtitle></topicmeta><
     href="252.205-7000.dita" outputclass="subtopic"
     props="252.205-7000" audience="DFARS-252.205-7000"
     base="concept"><topicmeta><navtitle>252.205-7000 Provision
-of Information to Cooperative Agreement Holders.</navtitle></topicmeta></topicref></topicref>
+of Information to Cooperative Agreem...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.206 RESERVED" href="252.206.dita"
     outputclass="subtopic" props="252.206" base="concept">
 <topicref navtitle="252.206-7000 Domestic Source Restriction."
@@ -7936,7 +7901,7 @@ Source Restriction.</navtitle></topicmeta></topicref></topicref>
     href="252.208-7000.dita" outputclass="subtopic"
     props="252.208-7000" audience="DFARS-252.208-7000"
     base="concept"><topicmeta><navtitle>252.208-7000 Intent to
-Furnish Precious Metals as Government-Furnished Material.</navtitle></topicmeta></topicref></topicref>
+Furnish Precious Metals as Governmen...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.209 RESERVED" href="252.209.dita"
     outputclass="subtopic" props="252.209" base="concept">
 <topicref navtitle="252.209-7000 Reserved." href="252.209-7000.dita"
@@ -7952,8 +7917,8 @@ Furnish Precious Metals as Government-Furnished Material.</navtitle></topicmeta>
     href="252.209-7002.dita" outputclass="subtopic"
     props="252.209-7002" audience="DFARS-252.209-7002"
     base="concept"><topicmeta><navtitle>252.209-7002 Disclosure
-of Ownership or Control by a Foreign Government</navtitle></topicmeta></topicref>
-<topicref navtitle="252.209-7003 ReserveD." href="252.209-7003.dita"
+of Ownership or Control by a Foreig...</navtitle></topicmeta></topicref>
+<topicref navtitle="252.209-7003 Reserved." href="252.209-7003.dita"
     outputclass="subtopic" props="252.209-7003"
     audience="DFARS-252.209-7003" base="concept"><topicmeta>
 <navtitle>252.209-7003 Reserved.</navtitle></topicmeta></topicref>
@@ -7962,9 +7927,8 @@ of Ownership or Control by a Foreign Government</navtitle></topicmeta></topicref
     href="252.209-7004.dita" outputclass="subtopic"
     props="252.209-7004" audience="DFARS-252.209-7004"
     base="concept"><topicmeta><navtitle>252.209-7004 Subcontracting
-with Firms that are Owned or Controlled by the Government of a Country
-that is a State Sponsor of Terrorism.</navtitle></topicmeta></topicref>
-<topicref navtitle="252.209-7005 ReserveD." href="252.209-7005.dita"
+with Firms that are Owned or Co...</navtitle></topicmeta></topicref>
+<topicref navtitle="252.209-7005 Reserved." href="252.209-7005.dita"
     outputclass="subtopic" props="252.209-7005"
     audience="DFARS-252.209-7005" base="concept"><topicmeta>
 <navtitle>252.209-7005 Reserved.</navtitle></topicmeta></topicref>
@@ -7973,26 +7937,25 @@ that is a State Sponsor of Terrorism.</navtitle></topicmeta></topicref>
     href="252.209-7006.dita" outputclass="subtopic"
     props="252.209-7006" audience="DFARS-252.209-7006"
     base="concept"><topicmeta><navtitle>252.209-7006 Limitations
-on Contractors Acting as Lead System Integrators.</navtitle></topicmeta></topicref>
+on Contractors Acting as Lead Syst...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.209-7007 Prohibited Financial Interests for Lead System Integrators."
     href="252.209-7007.dita" outputclass="subtopic"
     props="252.209-7007" audience="DFARS-252.209-7007"
     base="concept"><topicmeta><navtitle>252.209-7007 Prohibited
-Financial Interests for Lead System Integrators.</navtitle></topicmeta></topicref>
+Financial Interests for Lead System...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.209-7008 Notice of Prohibition Relating to Organizational Conflict of Interest—Major Defense Acquisition Program."
     href="252.209-7008.dita" outputclass="subtopic"
     props="252.209-7008" audience="DFARS-252.209-7008"
     base="concept"><topicmeta><navtitle>252.209-7008 Notice of
-Prohibition Relating to Organizational Conflict of Interest—Major
-Defense Acquisition Program.</navtitle></topicmeta></topicref>
+Prohibition Relating to Organization...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.209-7009 Organizational Conflict of Interest—Major Defense Acquisition Program."
     href="252.209-7009.dita" outputclass="subtopic"
     props="252.209-7009" audience="DFARS-252.209-7009"
     base="concept"><topicmeta><navtitle>252.209-7009 Organizational
-Conflict of Interest—Major Defense Acquisition Program.</navtitle></topicmeta></topicref>
+Conflict of Interest—Major De...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.209-7010 Critical Safety Items."
     href="252.209-7010.dita" outputclass="subtopic"
     props="252.209-7010" audience="DFARS-252.209-7010"
@@ -8003,36 +7966,29 @@ Safety Items.</navtitle></topicmeta></topicref>
     href="252.209-7998.dita" outputclass="subtopic"
     props="252.209-7998" audience="DFARS-252.209-7998"
     base="concept"><topicmeta><navtitle>252.209-7998 Representation
-Regarding Conviction of a Felony Criminal Violation under any Federal
-or State Law.</navtitle></topicmeta></topicref>
+Regarding Conviction of a Felon...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.209-7999 Representation by Corporations Regarding an Unpaid Delinquent Tax Liability or a Felony Conviction under any Federal Law."
     href="252.209-7999.dita" outputclass="subtopic"
     props="252.209-7999" audience="DFARS-252.209-7999"
     base="concept"><topicmeta><navtitle>252.209-7999 Representation
-by Corporations Regarding an Unpaid Delinquent Tax Liability or
-a Felony Conviction under any Federal Law.</navtitle></topicmeta></topicref></topicref>
+by Corporations Regarding an Un...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.211 RESERVED" href="252.211.dita"
     outputclass="subtopic" props="252.211" base="concept">
 <topicref navtitle="252.211-7000 Reserved." href="252.211-7000.dita"
     outputclass="subtopic" props="252.211-7000"
     audience="DFARS-252.211-7000" base="concept"><topicmeta>
 <navtitle>252.211-7000 Reserved.</navtitle></topicmeta></topicref>
-<topicref
-    navtitle="252.211-7001 Availability of Specifications, Standards, and Data Item Descriptions Not Listed in the Acquisition Streamlining and Standardization Information System (ASSIST), and Plans, Drawings, and Other Pertinent Documents."
-    href="252.211-7001.dita" outputclass="subtopic"
-    props="252.211-7001" audience="DFARS-252.211-7001"
-    base="concept"><topicmeta><navtitle>252.211-7001 Availability
-of Specifications, Standards, and Data Item Descriptions Not Listed
-in the Acquisition Streamlining and Standardization Information
-System (ASSIST), and Plans, Drawings, and Other Pertinent Documents.</navtitle></topicmeta></topicref>
+<topicref navtitle="252.211-7001 Reserved." href="252.211-7001.dita"
+    outputclass="subtopic" props="252.211-7001"
+    audience="DFARS-252.211-7001" base="concept"><topicmeta>
+<navtitle>252.211-7001 Reserved.</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.211-7002 Availability for Examination of Specifications, Standards, Plans, Drawings, Data Item Descriptions, and Other Pertinent Documents."
     href="252.211-7002.dita" outputclass="subtopic"
     props="252.211-7002" audience="DFARS-252.211-7002"
     base="concept"><topicmeta><navtitle>252.211-7002 Availability
-for Examination of Specifications, Standards, Plans, Drawings, Data
-Item Descriptions, and Other Pertinent Documents.</navtitle></topicmeta></topicref>
+for Examination of Specifications...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.211-7003 Item Unique Identification and Valuation."
     href="252.211-7003.dita" outputclass="subtopic"
@@ -8081,7 +8037,7 @@ Serial Numbers</navtitle></topicmeta></topicref></topicref>
     href="252.212-7002.dita" outputclass="subtopic"
     props="252.212-7002" audience="DFARS-252.212-7002"
     base="concept"><topicmeta><navtitle>252.212-7002 Pilot Program
-for Acquisition of Military-Purpose Nondevelopmental Items.</navtitle></topicmeta></topicref></topicref>
+for Acquisition of Military-Purp...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.213 RESERVED" href="252.213.dita"
     outputclass="subtopic" props="252.213" base="concept">
 <topicref
@@ -8089,8 +8045,7 @@ for Acquisition of Military-Purpose Nondevelopmental Items.</navtitle></topicmet
     href="252.213-7000.dita" outputclass="subtopic"
     props="252.213-7000" audience="DFARS-252.213-7000"
     base="concept"><topicmeta><navtitle>252.213-7000 Notice to
-Prospective Suppliers on Use of Supplier Performance Risk System
-in Past Performance Evaluations.</navtitle></topicmeta></topicref></topicref>
+Prospective Suppliers on Use of Supp...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.215 RESERVED" href="252.215.dita"
     outputclass="subtopic" props="252.215" base="concept">
 <topicref navtitle="252.215-7000 Reserved." href="252.215-7000.dita"
@@ -8111,28 +8066,25 @@ System Requirements.</navtitle></topicmeta></topicref>
     href="252.215-7003.dita" outputclass="subtopic"
     props="252.215-7003" audience="DFARS-252.215-7003"
     base="concept"><topicmeta><navtitle>252.215-7003 Requirement
-for Submission of Data Other Than Certified Cost or Pricing Data—Canadian
-Commercial Corporation.</navtitle></topicmeta></topicref>
+for Submission of Data Other Than ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.215-7004 Requirement for Submission of Data Other Than Certified Cost or Pricing Data—Modifications—Canadian Commercial Corporation."
     href="252.215-7004.dita" outputclass="subtopic"
     props="252.215-7004" audience="DFARS-252.215-7004"
     base="concept"><topicmeta><navtitle>252.215-7004 Requirement
-for Submission of Data Other Than Certified Cost or Pricing Data—Modifications—Canadian Commercial
-Corporation.</navtitle></topicmeta></topicref>
+for Submission of Data Other Than ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.215-7005 Evaluation Factor for Employing or Subcontracting with Members of the Selected Reserve."
     href="252.215-7005.dita" outputclass="subtopic"
     props="252.215-7005" audience="DFARS-252.215-7005"
     base="concept"><topicmeta><navtitle>252.215-7005 Evaluation
-Factor for Employing or Subcontracting with Members of the Selected
-Reserve.</navtitle></topicmeta></topicref>
+Factor for Employing or Subcontract...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.215-7006 Use of Employees or Individual Subcontractors Who are Members of the Selected Reserve."
     href="252.215-7006.dita" outputclass="subtopic"
     props="252.215-7006" audience="DFARS-252.215-7006"
     base="concept"><topicmeta><navtitle>252.215-7006 Use of Employees
-or Individual Subcontractors Who are Members of the Selected Reserve.</navtitle></topicmeta></topicref>
+or Individual Subcontractors ...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.215-7007 Notice of Intent to Resolicit."
     href="252.215-7007.dita" outputclass="subtopic"
     props="252.215-7007" audience="DFARS-252.215-7007"
@@ -8153,34 +8105,31 @@ Adequacy Checklist.</navtitle></topicmeta></topicref>
     href="252.215-7010.dita" outputclass="subtopic"
     props="252.215-7010" audience="DFARS-252.215-7010"
     base="concept"><topicmeta><navtitle>252.215-7010 Requirements
-for Certified Cost or Pricing Data and Data Other Than Certified
-Cost or Pricing Data.</navtitle></topicmeta></topicref>
+for Certified Cost or Pricing Dat...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.215-7011 Requirements for Submission of Proposals to the Administrative Contracting Officer and Contract Auditor."
     href="252.215-7011.dita" outputclass="subtopic"
     props="252.215-7011" audience="DFARS-252.215-7011"
     base="concept"><topicmeta><navtitle>252.215-7011 Requirements
-for Submission of Proposals to the Administrative Contracting Officer
-and Contract Auditor.</navtitle></topicmeta></topicref>
+for Submission of Proposals to th...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.215-7012 Requirements for Submission of Proposals via Electronic Media."
     href="252.215-7012.dita" outputclass="subtopic"
     props="252.215-7012" audience="DFARS-252.215-7012"
     base="concept"><topicmeta><navtitle>252.215-7012 Requirements
-for Submission of Proposals via Electronic Media.</navtitle></topicmeta></topicref>
+for Submission of Proposals via E...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.215-7013 Supplies and Services Provided by Nontraditional Defense Contractors."
     href="252.215-7013.dita" outputclass="subtopic"
     props="252.215-7013" audience="DFARS-252.215-7013"
     base="concept"><topicmeta><navtitle>252.215-7013 Supplies
-and Services Provided by Nontraditional Defense Contractors.</navtitle></topicmeta></topicref>
+and Services Provided by Nontradition...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.215-7014 Exception from Certified Cost or Pricing Data Requirements for Foreign Military Sales Indirect Offsets."
     href="252.215-7014.dita" outputclass="subtopic"
     props="252.215-7014" audience="DFARS-252.215-7014"
     base="concept"><topicmeta><navtitle>252.215-7014 Exception
-from Certified Cost or Pricing Data Requirements for Foreign Military
-Sales Indirect Offsets.</navtitle></topicmeta></topicref>
+from Certified Cost or Pricing Data ...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.215-7015 Program Should-Cost Review."
     href="252.215-7015.dita" outputclass="subtopic"
     props="252.215-7015" audience="DFARS-252.215-7015"
@@ -8193,35 +8142,31 @@ Review.</navtitle></topicmeta></topicref></topicref>
     href="252.216-7000.dita" outputclass="subtopic"
     props="252.216-7000" audience="DFARS-252.216-7000"
     base="concept"><topicmeta><navtitle>252.216-7000 Economic
-Price Adjustment—Basic Steel, Aluminum, Brass, Bronze, or Copper
-Mill Products.</navtitle></topicmeta></topicref>
+Price Adjustment—Basic Steel, Alumi...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.216-7001 Economic Price Adjustment–Nonstandard Steel Items."
     href="252.216-7001.dita" outputclass="subtopic"
     props="252.216-7001" audience="DFARS-252.216-7001"
     base="concept"><topicmeta><navtitle>252.216-7001 Economic
-Price Adjustment–Nonstandard Steel Items.</navtitle></topicmeta></topicref>
+Price Adjustment–Nonstandard Steel ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.216-7002 Alternate A, Time-and-Materials/Labor-Hour Proposal Requirements – Non-Commercial Item Acquisition with Adequate Price Competition."
     href="252.216-7002.dita" outputclass="subtopic"
     props="252.216-7002" audience="DFARS-252.216-7002"
     base="concept"><topicmeta><navtitle>252.216-7002 Alternate
-A, Time-and-Materials/Labor-Hour Proposal Requirements – Non-Commercial
-Item Acquisition with Adequate Price Competition.</navtitle></topicmeta></topicref>
+A, Time-and-Materials/Labor-Hour Pro...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.216-7003 Economic Price Adjustment—Wage Rates or Material Prices Controlled by a Foreign Government."
     href="252.216-7003.dita" outputclass="subtopic"
     props="252.216-7003" audience="DFARS-252.216-7003"
     base="concept"><topicmeta><navtitle>252.216-7003 Economic
-Price Adjustment—Wage Rates or Material Prices Controlled by a Foreign
-Government.</navtitle></topicmeta></topicref>
+Price Adjustment—Wage Rates or Mate...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.216-7004 Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Government Personnel."
     href="252.216-7004.dita" outputclass="subtopic"
     props="252.216-7004" audience="DFARS-252.216-7004"
     base="concept"><topicmeta><navtitle>252.216-7004 Award Fee
-Reduction or Denial for Jeopardizing the Health or Safety of Government
-Personnel.</navtitle></topicmeta></topicref>
+Reduction or Denial for Jeopardizing...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.216-7005 [Reserved]."
     href="252.216-7005.dita" outputclass="subtopic"
     props="252.216-7005" audience="DFARS-252.216-7005"
@@ -8235,21 +8180,19 @@ Personnel.</navtitle></topicmeta></topicref>
     href="252.216-7007.dita" outputclass="subtopic"
     props="252.216-7007" audience="DFARS-252.216-7007"
     base="concept"><topicmeta><navtitle>252.216-7007 Economic
-Price Adjustment—Basic Steel, Aluminum, Brass, Bronze, or Copper
-Mill Products—Representation.</navtitle></topicmeta></topicref>
+Price Adjustment—Basic Steel, Alumi...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.216-7008 Economic Price Adjustment—Wage Rates or Material Prices Controlled by a Foreign Government—Representation."
     href="252.216-7008.dita" outputclass="subtopic"
     props="252.216-7008" audience="DFARS-252.216-7008"
     base="concept"><topicmeta><navtitle>252.216-7008 Economic
-Price Adjustment—Wage Rates or Material Prices Controlled by a Foreign
-Government—Representation.</navtitle></topicmeta></topicref>
+Price Adjustment—Wage Rates or Mate...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.216-7009 Allowability of Legal Costs Incurred in Connection With a Whistleblower Proceeding."
     href="252.216-7009.dita" outputclass="subtopic"
     props="252.216-7009" audience="DFARS-252.216-7009"
     base="concept"><topicmeta><navtitle>252.216-7009 Allowability
-of Legal Costs Incurred in Connection With a Whistleblower Proceeding.</navtitle></topicmeta></topicref></topicref>
+of Legal Costs Incurred in Connec...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.217 RESERVED" href="252.217.dita"
     outputclass="subtopic" props="252.217" base="concept">
 <topicref
@@ -8257,7 +8200,7 @@ of Legal Costs Incurred in Connection With a Whistleblower Proceeding.</navtitle
     href="252.217-7000.dita" outputclass="subtopic"
     props="252.217-7000" audience="DFARS-252.217-7000"
     base="concept"><topicmeta><navtitle>252.217-7000 Exercise
-of Option to Fulfill Foreign Military Sales Commitments.</navtitle></topicmeta></topicref>
+of Option to Fulfill Foreign Military...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.217-7001 Surge Option."
     href="252.217-7001.dita" outputclass="subtopic"
     props="252.217-7001" audience="DFARS-252.217-7001"
@@ -8400,13 +8343,13 @@ Small Business Growth.</navtitle></topicmeta></topicref>
     href="252.219-7003.dita" outputclass="subtopic"
     props="252.219-7003" audience="DFARS-252.219-7003"
     base="concept"><topicmeta><navtitle>252.219-7003 Small Business
-Subcontracting Plan (DoD Contracts).</navtitle></topicmeta></topicref>
+Subcontracting Plan (DoD Contra...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.219-7004 Small Business Subcontracting Plan (Test Program)."
     href="252.219-7004.dita" outputclass="subtopic"
     props="252.219-7004" audience="DFARS-252.219-7004"
     base="concept"><topicmeta><navtitle>252.219-7004 Small Business
-Subcontracting Plan (Test Program).</navtitle></topicmeta></topicref>
+Subcontracting Plan (Test Progr...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.219-7005 Reserved." href="252.219-7005.dita"
     outputclass="subtopic" props="252.219-7005"
     audience="DFARS-252.219-7005" base="concept"><topicmeta>
@@ -8433,8 +8376,7 @@ Direct Award.</navtitle></topicmeta></topicref>
     href="252.219-7010.dita" outputclass="subtopic"
     props="252.219-7010" audience="DFARS-252.219-7010"
     base="concept"><topicmeta><navtitle>252.219-7010 Notification
-of Competition Limited to Eligible 8(a) Participants—Partnership
-Agreement.</navtitle></topicmeta></topicref>
+of Competition Limited to Eligibl...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.219-7011 Notification to Delay Performance."
     href="252.219-7011.dita" outputclass="subtopic"
     props="252.219-7011" audience="DFARS-252.219-7011"
@@ -8475,19 +8417,19 @@ Italian Inspectorate of Labor.</navtitle></topicmeta></topicref>
     href="252.222-7004.dita" outputclass="subtopic"
     props="252.222-7004" audience="DFARS-252.222-7004"
     base="concept"><topicmeta><navtitle>252.222-7004 Compliance
-with Spanish Social Security Laws and Regulations.</navtitle></topicmeta></topicref>
+with Spanish Social Security Laws a...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.222-7005 Prohibition on Use of Nonimmigrant Aliens—Guam."
     href="252.222-7005.dita" outputclass="subtopic"
     props="252.222-7005" audience="DFARS-252.222-7005"
     base="concept"><topicmeta><navtitle>252.222-7005 Prohibition
-on Use of Nonimmigrant Aliens—Guam.</navtitle></topicmeta></topicref>
+on Use of Nonimmigrant Aliens—Gu...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.222-7006 Restrictions on the Use of Mandatory Arbitration Agreements."
     href="252.222-7006.dita" outputclass="subtopic"
     props="252.222-7006" audience="DFARS-252.222-7006"
     base="concept"><topicmeta><navtitle>252.222-7006 Restrictions
-on the Use of Mandatory Arbitration Agreements.</navtitle></topicmeta></topicref></topicref>
+on the Use of Mandatory Arbitrati...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.223 RESERVED" href="252.223.dita"
     outputclass="subtopic" props="252.223" base="concept">
 <topicref navtitle="252.223-7000 Reserved." href="252.223-7000.dita"
@@ -8504,13 +8446,13 @@ Labels.</navtitle></topicmeta></topicref>
     href="252.223-7002.dita" outputclass="subtopic"
     props="252.223-7002" audience="DFARS-252.223-7002"
     base="concept"><topicmeta><navtitle>252.223-7002 Safety Precautions
-for Ammunition and Explosives.</navtitle></topicmeta></topicref>
+for Ammunition and Explosiv...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.223-7003 Change in Place of Performance—Ammunition and Explosives."
     href="252.223-7003.dita" outputclass="subtopic"
     props="252.223-7003" audience="DFARS-252.223-7003"
     base="concept"><topicmeta><navtitle>252.223-7003 Change in
-Place of Performance—Ammunition and Explosives.</navtitle></topicmeta></topicref>
+Place of Performance—Ammunition an...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.223-7004 Drug-Free Work Force."
     href="252.223-7004.dita" outputclass="subtopic"
     props="252.223-7004" audience="DFARS-252.223-7004"
@@ -8525,13 +8467,13 @@ Work Force.</navtitle></topicmeta></topicref>
     href="252.223-7006.dita" outputclass="subtopic"
     props="252.223-7006" audience="DFARS-252.223-7006"
     base="concept"><topicmeta><navtitle>252.223-7006 Prohibition
-on Storage, Treatment, and Disposal of Toxic or Hazardous Materials.</navtitle></topicmeta></topicref>
+on Storage, Treatment, and Disposa...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.223-7007 Safeguarding Sensitive Conventional Arms, Ammunition, and Explosives."
     href="252.223-7007.dita" outputclass="subtopic"
     props="252.223-7007" audience="DFARS-252.223-7007"
     base="concept"><topicmeta><navtitle>252.223-7007 Safeguarding
-Sensitive Conventional Arms, Ammunition, and Explosives.</navtitle></topicmeta></topicref>
+Sensitive Conventional Arms, Ammu...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.223-7008 Prohibition of Hexavalent Chromium."
     href="252.223-7008.dita" outputclass="subtopic"
     props="252.223-7008" audience="DFARS-252.223-7008"
@@ -8544,7 +8486,7 @@ of Hexavalent Chromium.</navtitle></topicmeta></topicref></topicref>
     href="252.225-7000.dita" outputclass="subtopic"
     props="252.225-7000" audience="DFARS-252.225-7000"
     base="concept"><topicmeta><navtitle>252.225-7000 Buy American—Balance
-of Payments Program Certificate.</navtitle></topicmeta></topicref>
+of Payments Program Cer...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7001 Buy American and Balance of Payments Program."
     href="252.225-7001.dita" outputclass="subtopic"
@@ -8562,21 +8504,19 @@ Country Sources as Subcontractors.</navtitle></topicmeta></topicref>
     href="252.225-7003.dita" outputclass="subtopic"
     props="252.225-7003" audience="DFARS-252.225-7003"
     base="concept"><topicmeta><navtitle>252.225-7003 Report of
-Intended Performance Outside the United States and Canada—Submission
-with Offer.</navtitle></topicmeta></topicref>
+Intended Performance Outside the Uni...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7004 Report of Intended Performance Outside the United States and Canada—Submission after Award."
     href="252.225-7004.dita" outputclass="subtopic"
     props="252.225-7004" audience="DFARS-252.225-7004"
     base="concept"><topicmeta><navtitle>252.225-7004 Report of
-Intended Performance Outside the United States and Canada—Submission
-after Award.</navtitle></topicmeta></topicref>
+Intended Performance Outside the Uni...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7005 Identification of Expenditures in the United States."
     href="252.225-7005.dita" outputclass="subtopic"
     props="252.225-7005" audience="DFARS-252.225-7005"
     base="concept"><topicmeta><navtitle>252.225-7005 Identification
-of Expenditures in the United States.</navtitle></topicmeta></topicref>
+of Expenditures in the United S...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.225-7006 Acquisition of the American Flag."
     href="252.225-7006.dita" outputclass="subtopic"
     props="252.225-7006" audience="DFARS-252.225-7006"
@@ -8587,26 +8527,25 @@ of the American Flag.</navtitle></topicmeta></topicref>
     href="252.225-7007.dita" outputclass="subtopic"
     props="252.225-7007" audience="DFARS-252.225-7007"
     base="concept"><topicmeta><navtitle>252.225-7007 Prohibition
-on Acquisition of Certain Items from Communist Chinese Military
-Companies.</navtitle></topicmeta></topicref>
+on Acquisition of Certain Items fr...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7008 Restriction on Acquisition of Specialty Metals."
     href="252.225-7008.dita" outputclass="subtopic"
     props="252.225-7008" audience="DFARS-252.225-7008"
     base="concept"><topicmeta><navtitle>252.225-7008 Restriction
-on Acquisition of Specialty Metals.</navtitle></topicmeta></topicref>
+on Acquisition of Specialty Metals...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7009 Restriction on Acquisition of Certain Articles Containing Specialty Metals."
     href="252.225-7009.dita" outputclass="subtopic"
     props="252.225-7009" audience="DFARS-252.225-7009"
     base="concept"><topicmeta><navtitle>252.225-7009 Restriction
-on Acquisition of Certain Articles Containing Specialty Metals.</navtitle></topicmeta></topicref>
+on Acquisition of Certain Articles...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7010 Commercial Derivative Military Article—Specialty Metals Compliance Certificate."
     href="252.225-7010.dita" outputclass="subtopic"
     props="252.225-7010" audience="DFARS-252.225-7010"
     base="concept"><topicmeta><navtitle>252.225-7010 Commercial
-Derivative Military Article—Specialty Metals Compliance Certificate.</navtitle></topicmeta></topicref>
+Derivative Military Article—Speci...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7011 Restriction on Acquisition of Supercomputers."
     href="252.225-7011.dita" outputclass="subtopic"
@@ -8633,13 +8572,13 @@ Entry.</navtitle></topicmeta></topicref>
     href="252.225-7015.dita" outputclass="subtopic"
     props="252.225-7015" audience="DFARS-252.225-7015"
     base="concept"><topicmeta><navtitle>252.225-7015 Restriction
-on Acquisition of Hand or Measuring Tools.</navtitle></topicmeta></topicref>
+on Acquisition of Hand or Measurin...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7016 Restriction on Acquisition of Ball and Roller Bearings."
     href="252.225-7016.dita" outputclass="subtopic"
     props="252.225-7016" audience="DFARS-252.225-7016"
     base="concept"><topicmeta><navtitle>252.225-7016 Restriction
-on Acquisition of Ball and Roller Bearings.</navtitle></topicmeta></topicref>
+on Acquisition of Ball and Roller ...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.225-7017 Photovoltaic Devices."
     href="252.225-7017.dita" outputclass="subtopic"
     props="252.225-7017" audience="DFARS-252.225-7017"
@@ -8655,7 +8594,7 @@ Devices—Certificate.</navtitle></topicmeta></topicref>
     href="252.225-7019.dita" outputclass="subtopic"
     props="252.225-7019" audience="DFARS-252.225-7019"
     base="concept"><topicmeta><navtitle>252.225-7019 Restriction
-on Acquisition of Anchor and Mooring Chain.</navtitle></topicmeta></topicref>
+on Acquisition of Anchor and Moori...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.225-7020 Trade Agreements Certificate."
     href="252.225-7020.dita" outputclass="subtopic"
     props="252.225-7020" audience="DFARS-252.225-7020"
@@ -8674,13 +8613,13 @@ Certificate.</navtitle></topicmeta></topicref>
     href="252.225-7023.dita" outputclass="subtopic"
     props="252.225-7023" audience="DFARS-252.225-7023"
     base="concept"><topicmeta><navtitle>252.225-7023 Preference
-for Products or Services from Afghanistan.</navtitle></topicmeta></topicref>
+for Products or Services from Afgha...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7024 Requirement for Products or Services from Afghanistan."
     href="252.225-7024.dita" outputclass="subtopic"
     props="252.225-7024" audience="DFARS-252.225-7024"
     base="concept"><topicmeta><navtitle>252.225-7024 Requirement
-for Products or Services from Afghanistan.</navtitle></topicmeta></topicref>
+for Products or Services from Afgh...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7025 Restriction on Acquisition of Forgings."
     href="252.225-7025.dita" outputclass="subtopic"
@@ -8692,31 +8631,31 @@ on Acquisition of Forgings.</navtitle></topicmeta></topicref>
     href="252.225-7026.dita" outputclass="subtopic"
     props="252.225-7026" audience="DFARS-252.225-7026"
     base="concept"><topicmeta><navtitle>252.225-7026 Acquisition
-Restricted to Products or Services from Afghanistan.</navtitle></topicmeta></topicref>
+Restricted to Products or Services...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7027 Restriction on Contingent Fees for Foreign Military Sales."
     href="252.225-7027.dita" outputclass="subtopic"
     props="252.225-7027" audience="DFARS-252.225-7027"
     base="concept"><topicmeta><navtitle>252.225-7027 Restriction
-on Contingent Fees for Foreign Military Sales.</navtitle></topicmeta></topicref>
+on Contingent Fees for Foreign Mil...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7028 Exclusionary Policies and Practices of Foreign Governments."
     href="252.225-7028.dita" outputclass="subtopic"
     props="252.225-7028" audience="DFARS-252.225-7028"
     base="concept"><topicmeta><navtitle>252.225-7028 Exclusionary
-Policies and Practices of Foreign Governments.</navtitle></topicmeta></topicref>
+Policies and Practices of Foreign...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7029 Acquisition of Uniform Components for Afghan Military or Afghan National Police."
     href="252.225-7029.dita" outputclass="subtopic"
     props="252.225-7029" audience="DFARS-252.225-7029"
     base="concept"><topicmeta><navtitle>252.225-7029 Acquisition
-of Uniform Components for Afghan Military or Afghan National Police.</navtitle></topicmeta></topicref>
+of Uniform Components for Afghan M...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7030 Restriction on Acquisition of Carbon, Alloy, and Armor Steel Plate."
     href="252.225-7030.dita" outputclass="subtopic"
     props="252.225-7030" audience="DFARS-252.225-7030"
     base="concept"><topicmeta><navtitle>252.225-7030 Restriction
-on Acquisition of Carbon, Alloy, and Armor Steel Plate.</navtitle></topicmeta></topicref>
+on Acquisition of Carbon, Alloy, a...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.225-7031 Secondary Arab Boycott of Israel."
     href="252.225-7031.dita" outputclass="subtopic"
     props="252.225-7031" audience="DFARS-252.225-7031"
@@ -8727,7 +8666,7 @@ Arab Boycott of Israel.</navtitle></topicmeta></topicref>
     href="252.225-7032.dita" outputclass="subtopic"
     props="252.225-7032" audience="DFARS-252.225-7032"
     base="concept"><topicmeta><navtitle>252.225-7032 Waiver of
-United Kingdom Levies—Evaluation of Offers.</navtitle></topicmeta></topicref>
+United Kingdom Levies—Evaluation o...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.225-7033 Waiver of United Kingdom Levies."
     href="252.225-7033.dita" outputclass="subtopic"
     props="252.225-7033" audience="DFARS-252.225-7033"
@@ -8742,13 +8681,13 @@ United Kingdom Levies.</navtitle></topicmeta></topicref>
     href="252.225-7035.dita" outputclass="subtopic"
     props="252.225-7035" audience="DFARS-252.225-7035"
     base="concept"><topicmeta><navtitle>252.225-7035 Buy American—Free
-Trade Agreements—Balance of Payments Program Certificate.</navtitle></topicmeta></topicref>
+Trade Agreements—Balance...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7036 Buy American—Free Trade Agreements—Balance of Payments Program."
     href="252.225-7036.dita" outputclass="subtopic"
     props="252.225-7036" audience="DFARS-252.225-7036"
     base="concept"><topicmeta><navtitle>252.225-7036 Buy American—Free
-Trade Agreements—Balance of Payments Program.</navtitle></topicmeta></topicref>
+Trade Agreements—Balance...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7037 Evaluation of Offers for Air Circuit Breakers."
     href="252.225-7037.dita" outputclass="subtopic"
@@ -8760,20 +8699,19 @@ of Offers for Air Circuit Breakers.</navtitle></topicmeta></topicref>
     href="252.225-7038.dita" outputclass="subtopic"
     props="252.225-7038" audience="DFARS-252.225-7038"
     base="concept"><topicmeta><navtitle>252.225-7038 Restriction
-on Acquisition of Air Circuit Breakers.</navtitle></topicmeta></topicref>
+on Acquisition of Air Circuit Brea...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7039 Defense Contractors Performing Private Security Functions Outside the United States."
     href="252.225-7039.dita" outputclass="subtopic"
     props="252.225-7039" audience="DFARS-252.225-7039"
     base="concept"><topicmeta><navtitle>252.225-7039 Defense Contractors
-Performing Private Security Functions Outside the United States.</navtitle></topicmeta></topicref>
+Performing Private Securit...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7040 Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States."
     href="252.225-7040.dita" outputclass="subtopic"
     props="252.225-7040" audience="DFARS-252.225-7040"
     base="concept"><topicmeta><navtitle>252.225-7040 Contractor
-Personnel Supporting U.S. Armed Forces Deployed Outside the United
-States.</navtitle></topicmeta></topicref>
+Personnel Supporting U.S. Armed For...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.225-7041 Correspondence in English."
     href="252.225-7041.dita" outputclass="subtopic"
     props="252.225-7041" audience="DFARS-252.225-7041"
@@ -8789,31 +8727,31 @@ to Perform.</navtitle></topicmeta></topicref>
     href="252.225-7043.dita" outputclass="subtopic"
     props="252.225-7043" audience="DFARS-252.225-7043"
     base="concept"><topicmeta><navtitle>252.225-7043 Antiterrorism/Force
-Protection for Defense Contractors Outside the United States.</navtitle></topicmeta></topicref>
+Protection for Defense Con...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7044 Balance of Payments Program—Construction Material."
     href="252.225-7044.dita" outputclass="subtopic"
     props="252.225-7044" audience="DFARS-252.225-7044"
     base="concept"><topicmeta><navtitle>252.225-7044 Balance of
-Payments Program—Construction Material.</navtitle></topicmeta></topicref>
+Payments Program—Construction Mat...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7045 Balance of Payments Program—Construction Material Under Trade Agreements."
     href="252.225-7045.dita" outputclass="subtopic"
     props="252.225-7045" audience="DFARS-252.225-7045"
     base="concept"><topicmeta><navtitle>252.225-7045 Balance of
-Payments Program—Construction Material Under Trade Agreements.</navtitle></topicmeta></topicref>
+Payments Program—Construction Mat...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7046 Exports by Approved Community Members in Response to the Solicitation. "
     href="252.225-7046.dita" outputclass="subtopic"
     props="252.225-7046" audience="DFARS-252.225-7046"
     base="concept"><topicmeta><navtitle>252.225-7046 Exports by
-Approved Community Members in Response to the Solicitation.</navtitle></topicmeta></topicref>
+Approved Community Members in Respo...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7047 Exports by Approved Community Members in Performance of the Contract."
     href="252.225-7047.dita" outputclass="subtopic"
     props="252.225-7047" audience="DFARS-252.225-7047"
     base="concept"><topicmeta><navtitle>252.225-7047 Exports by
-Approved Community Members in Performance of the Contract.</navtitle></topicmeta></topicref>
+Approved Community Members in Perfo...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.225-7048 Export-Controlled Items."
     href="252.225-7048.dita" outputclass="subtopic"
     props="252.225-7048" audience="DFARS-252.225-7048"
@@ -8824,26 +8762,25 @@ Items.</navtitle></topicmeta></topicref>
     href="252.225-7049.dita" outputclass="subtopic"
     props="252.225-7049" audience="DFARS-252.225-7049"
     base="concept"><topicmeta><navtitle>252.225-7049 Prohibition
-on Acquisition of Certain Foreign Commercial Satellite Services—Representations.</navtitle></topicmeta></topicref>
+on Acquisition of Certain Foreign ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7050 Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism."
     href="252.225-7050.dita" outputclass="subtopic"
     props="252.225-7050" audience="DFARS-252.225-7050"
     base="concept"><topicmeta><navtitle>252.225-7050 Disclosure
-of Ownership or Control by the Government of a Country that is a
-State Sponsor of Terrorism.</navtitle></topicmeta></topicref>
+of Ownership or Control by the Gove...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7051 Prohibition on Acquisition of Certain Foreign Commercial Satellite Services."
     href="252.225-7051.dita" outputclass="subtopic"
     props="252.225-7051" audience="DFARS-252.225-7051"
     base="concept"><topicmeta><navtitle>252.225-7051 Prohibition
-on Acquisition of Certain Foreign Commercial Satellite Services.</navtitle></topicmeta></topicref>
+on Acquisition of Certain Foreign ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.225-7052 Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten."
     href="252.225-7052.dita" outputclass="subtopic"
     props="252.225-7052" audience="DFARS-252.225-7052"
     base="concept"><topicmeta><navtitle>252.225-7052 Restriction
-on the Acquisition of Certain Magnets, Tantalum, and Tungsten.</navtitle></topicmeta></topicref></topicref>
+on the Acquisition of Certain Magn...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.226 RESERVED" href="252.226.dita"
     outputclass="subtopic" props="252.226" base="concept">
 <topicref
@@ -8851,15 +8788,13 @@ on the Acquisition of Certain Magnets, Tantalum, and Tungsten.</navtitle></topic
     href="252.226-7001.dita" outputclass="subtopic"
     props="252.226-7001" audience="DFARS-252.226-7001"
     base="concept"><topicmeta><navtitle>252.226-7001 Utilization
-of Indian Organizations, Indian-Owned Economic Enterprises, and
-Native Hawaiian Small Business Concerns.</navtitle></topicmeta></topicref>
+of Indian Organizations, Indian-Ow...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.226-7002 Representation for Demonstration Project for Contractors Employing Persons with Disabilities."
     href="252.226-7002.dita" outputclass="subtopic"
     props="252.226-7002" audience="DFARS-252.226-7002"
     base="concept"><topicmeta><navtitle>252.226-7002 Representation
-for Demonstration Project for Contractors Employing Persons with
-Disabilities.</navtitle></topicmeta></topicref></topicref>
+for Demonstration Project for C...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.227 RESERVED" href="252.227.dita"
     outputclass="subtopic" props="252.227" base="concept">
 <topicref navtitle="252.227-7000 Non-Estoppel."
@@ -8928,14 +8863,13 @@ and Release Contract.</navtitle></topicmeta></topicref>
     href="252.227-7013.dita" outputclass="subtopic"
     props="252.227-7013" audience="DFARS-252.227-7013"
     base="concept"><topicmeta><navtitle>252.227-7013 Rights in
-Technical Data—Noncommercial Items.</navtitle></topicmeta></topicref>
+Technical Data—Noncommercial Items...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7014 Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation."
     href="252.227-7014.dita" outputclass="subtopic"
     props="252.227-7014" audience="DFARS-252.227-7014"
     base="concept"><topicmeta><navtitle>252.227-7014 Rights in
-Noncommercial Computer Software and Noncommercial Computer Software
-Documentation.</navtitle></topicmeta></topicref>
+Noncommercial Computer Software and ...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.227-7015 Technical Data–Commercial Items."
     href="252.227-7015.dita" outputclass="subtopic"
     props="252.227-7015" audience="DFARS-252.227-7015"
@@ -8952,20 +8886,19 @@ Bid or Proposal Information.</navtitle></topicmeta></topicref>
     href="252.227-7017.dita" outputclass="subtopic"
     props="252.227-7017" audience="DFARS-252.227-7017"
     base="concept"><topicmeta><navtitle>252.227-7017 Identification
-and Assertion of Use, Release, or Disclosure Restrictions.</navtitle></topicmeta></topicref>
+and Assertion of Use, Release, ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7018 Rights in Noncommercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program."
     href="252.227-7018.dita" outputclass="subtopic"
     props="252.227-7018" audience="DFARS-252.227-7018"
     base="concept"><topicmeta><navtitle>252.227-7018 Rights in
-Noncommercial Technical Data and Computer Software—Small Business
-Innovation Research (SBIR) Program.</navtitle></topicmeta></topicref>
+Noncommercial Technical Data and Com...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7019 Validation of Asserted Restrictions—Computer Software."
     href="252.227-7019.dita" outputclass="subtopic"
     props="252.227-7019" audience="DFARS-252.227-7019"
     base="concept"><topicmeta><navtitle>252.227-7019 Validation
-of Asserted Restrictions—Computer Software.</navtitle></topicmeta></topicref>
+of Asserted Restrictions—Computer...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.227-7020 Rights in Special Works."
     href="252.227-7020.dita" outputclass="subtopic"
     props="252.227-7020" audience="DFARS-252.227-7020"
@@ -8986,7 +8919,7 @@ Rights (Unlimited).</navtitle></topicmeta></topicref>
     href="252.227-7023.dita" outputclass="subtopic"
     props="252.227-7023" audience="DFARS-252.227-7023"
     base="concept"><topicmeta><navtitle>252.227-7023 Drawings
-and Other Data to Become Property of Government.</navtitle></topicmeta></topicref>
+and Other Data to Become Property of ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7024 Notice and Approval of Restricted Designs."
     href="252.227-7024.dita" outputclass="subtopic"
@@ -8998,26 +8931,25 @@ Approval of Restricted Designs.</navtitle></topicmeta></topicref>
     href="252.227-7025.dita" outputclass="subtopic"
     props="252.227-7025" audience="DFARS-252.227-7025"
     base="concept"><topicmeta><navtitle>252.227-7025 Limitations
-on the Use or Disclosure of Government-Furnished Information Marked
-with Restrictive Legends.</navtitle></topicmeta></topicref>
+on the Use or Disclosure of Govern...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7026 Deferred Delivery of Technical Data or Computer Software."
     href="252.227-7026.dita" outputclass="subtopic"
     props="252.227-7026" audience="DFARS-252.227-7026"
     base="concept"><topicmeta><navtitle>252.227-7026 Deferred
-Delivery of Technical Data or Computer Software.</navtitle></topicmeta></topicref>
+Delivery of Technical Data or Compute...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7027 Deferred Ordering of Technical Data or Computer Software."
     href="252.227-7027.dita" outputclass="subtopic"
     props="252.227-7027" audience="DFARS-252.227-7027"
     base="concept"><topicmeta><navtitle>252.227-7027 Deferred
-Ordering of Technical Data or Computer Software.</navtitle></topicmeta></topicref>
+Ordering of Technical Data or Compute...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7028 Technical Data or Computer Software Previously Delivered to the Government."
     href="252.227-7028.dita" outputclass="subtopic"
     props="252.227-7028" audience="DFARS-252.227-7028"
     base="concept"><topicmeta><navtitle>252.227-7028 Technical
-Data or Computer Software Previously Delivered to the Government.</navtitle></topicmeta></topicref>
+Data or Computer Software Previously...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.227-7029 Reserved." href="252.227-7029.dita"
     outputclass="subtopic" props="252.227-7029"
     audience="DFARS-252.227-7029" base="concept"><topicmeta>
@@ -9037,7 +8969,7 @@ Data—Withholding of Payment.</navtitle></topicmeta></topicref>
     href="252.227-7032.dita" outputclass="subtopic"
     props="252.227-7032" audience="DFARS-252.227-7032"
     base="concept"><topicmeta><navtitle>252.227-7032 Rights in
-Technical Data and Computer Software (Foreign).</navtitle></topicmeta></topicref>
+Technical Data and Computer Software...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.227-7033 Rights in Shop Drawings."
     href="252.227-7033.dita" outputclass="subtopic"
     props="252.227-7033" audience="DFARS-252.227-7033"
@@ -9060,13 +8992,13 @@ Shop Drawings.</navtitle></topicmeta></topicref>
     href="252.227-7037.dita" outputclass="subtopic"
     props="252.227-7037" audience="DFARS-252.227-7037"
     base="concept"><topicmeta><navtitle>252.227-7037 Validation
-of Restrictive Markings on Technical Data.</navtitle></topicmeta></topicref>
+of Restrictive Markings on Technica...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7038 Patent Rights—Ownership by the Contractor (Large Business)."
     href="252.227-7038.dita" outputclass="subtopic"
     props="252.227-7038" audience="DFARS-252.227-7038"
     base="concept"><topicmeta><navtitle>252.227-7038 Patent Rights—Ownership
-by the Contractor (Large Business).</navtitle></topicmeta></topicref>
+by the Contractor (L...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.227-7039 Patents—Reporting of Subject Inventions."
     href="252.227-7039.dita" outputclass="subtopic"
@@ -9103,8 +9035,7 @@ Detention.</navtitle></topicmeta></topicref>
     href="252.228-7005.dita" outputclass="subtopic"
     props="252.228-7005" audience="DFARS-252.228-7005"
     base="concept"><topicmeta><navtitle>252.228-7005 Mishap Reporting
-and Investigation Involving Aircraft, Missiles, and Space Launch
-Vehicles.</navtitle></topicmeta></topicref>
+and Investigation Involving A...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.228-7006 Compliance with Spanish Laws and Insurance."
     href="252.228-7006.dita" outputclass="subtopic"
@@ -9136,7 +9067,7 @@ with Spanish Laws and Insurance.</navtitle></topicmeta></topicref></topicref>
     href="252.229-7004.dita" outputclass="subtopic"
     props="252.229-7004" audience="DFARS-252.229-7004"
     base="concept"><topicmeta><navtitle>252.229-7004 Status of
-Contractor as a Direct Contractor (Spain).</navtitle></topicmeta></topicref>
+Contractor as a Direct Contractor (S...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.229-7005 Tax Exemptions (Spain)."
     href="252.229-7005.dita" outputclass="subtopic"
     props="252.229-7005" audience="DFARS-252.229-7005"
@@ -9153,7 +9084,7 @@ Tax Exclusion (United Kingdom)</navtitle></topicmeta></topicref>
     href="252.229-7007.dita" outputclass="subtopic"
     props="252.229-7007" audience="DFARS-252.229-7007"
     base="concept"><topicmeta><navtitle>252.229-7007 Verification
-of United States Receipt of Goods.</navtitle></topicmeta></topicref>
+of United States Receipt of Goods...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.229-7008 Relief from Import Duty (United Kingdom)."
     href="252.229-7008.dita" outputclass="subtopic"
@@ -9165,20 +9096,19 @@ Import Duty (United Kingdom).</navtitle></topicmeta></topicref>
     href="252.229-7009.dita" outputclass="subtopic"
     props="252.229-7009" audience="DFARS-252.229-7009"
     base="concept"><topicmeta><navtitle>252.229-7009 Relief from
-Customs Duty and Value Added Tax on Fuel (Passenger Vehicles) (United
-Kingdom).</navtitle></topicmeta></topicref>
+Customs Duty and Value Added Tax o...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.229-7010 Relief from Customs Duty on Fuel (United Kingdom)."
     href="252.229-7010.dita" outputclass="subtopic"
     props="252.229-7010" audience="DFARS-252.229-7010"
     base="concept"><topicmeta><navtitle>252.229-7010 Relief from
-Customs Duty on Fuel (United Kingdom).</navtitle></topicmeta></topicref>
+Customs Duty on Fuel (United Kingd...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.229-7011 Reporting of Foreign Taxes – U.S. Assistance Programs."
     href="252.229-7011.dita" outputclass="subtopic"
     props="252.229-7011" audience="DFARS-252.229-7011"
     base="concept"><topicmeta><navtitle>252.229-7011 Reporting
-of Foreign Taxes – U.S. Assistance Programs.</navtitle></topicmeta></topicref>
+of Foreign Taxes – U.S. Assistance...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.229-7012 Tax Exemptions (Italy)—Representation."
     href="252.229-7012.dita" outputclass="subtopic"
@@ -9214,13 +9144,13 @@ Pool.</navtitle></topicmeta></topicref>
     href="252.232-7002.dita" outputclass="subtopic"
     props="252.232-7002" audience="DFARS-252.232-7002"
     base="concept"><topicmeta><navtitle>252.232-7002 Progress
-Payments for Foreign Military Sales Acquisitions.</navtitle></topicmeta></topicref>
+Payments for Foreign Military Sales A...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.232-7003 Electronic Submission of Payment Requests and Receiving Reports."
     href="252.232-7003.dita" outputclass="subtopic"
     props="252.232-7003" audience="DFARS-252.232-7003"
     base="concept"><topicmeta><navtitle>252.232-7003 Electronic
-Submission of Payment Requests and Receiving Reports.</navtitle></topicmeta></topicref>
+Submission of Payment Requests and ...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.232-7004 DoD Progress Payment Rates."
     href="252.232-7004.dita" outputclass="subtopic"
     props="252.232-7004" audience="DFARS-252.232-7004"
@@ -9231,7 +9161,7 @@ Payment Rates.</navtitle></topicmeta></topicref>
     href="252.232-7005.dita" outputclass="subtopic"
     props="252.232-7005" audience="DFARS-252.232-7005"
     base="concept"><topicmeta><navtitle>252.232-7005 Reimbursement
-of Subcontractor Advance Payments—DoD Pilot Mentor-Protege Program.</navtitle></topicmeta></topicref>
+of Subcontractor Advance Payment...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.232-7006 Wide Area WorkFlow Payment Instructions."
     href="252.232-7006.dita" outputclass="subtopic"
@@ -9254,7 +9184,7 @@ of Claims (Overseas).</navtitle></topicmeta></topicref>
     href="252.232-7009.dita" outputclass="subtopic"
     props="252.232-7009" audience="DFARS-252.232-7009"
     base="concept"><topicmeta><navtitle>252.232-7009 Mandatory
-Payment by Governmentwide Commercial Purchase Card.</navtitle></topicmeta></topicref>
+Payment by Governmentwide Commercial...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.232-7010 Levies on Contract Payments."
     href="252.232-7010.dita" outputclass="subtopic"
     props="252.232-7010" audience="DFARS-252.232-7010"
@@ -9265,25 +9195,25 @@ Contract Payments.</navtitle></topicmeta></topicref>
     href="252.232-7011.dita" outputclass="subtopic"
     props="252.232-7011" audience="DFARS-252.232-7011"
     base="concept"><topicmeta><navtitle>252.232-7011 Payments
-in Support of Emergencies and Contingency Operations.</navtitle></topicmeta></topicref>
+in Support of Emergencies and Conting...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.232-7012 Performance-Based Payments—Whole-Contract Basis."
     href="252.232-7012.dita" outputclass="subtopic"
     props="252.232-7012" audience="DFARS-252.232-7012"
     base="concept"><topicmeta><navtitle>252.232-7012 Performance-Based
-Payments—Whole-Contract Basis.</navtitle></topicmeta></topicref>
+Payments—Whole-Contract Ba...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.232-7013 Performance-Based Payments—Deliverable-Item Basis."
     href="252.232-7013.dita" outputclass="subtopic"
     props="252.232-7013" audience="DFARS-252.232-7013"
     base="concept"><topicmeta><navtitle>252.232-7013 Performance-Based
-Payments—Deliverable-Item Basis.</navtitle></topicmeta></topicref>
+Payments—Deliverable-Item ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.232-7014 Notification of Payment in Local Currency (Afghanistan)."
     href="252.232-7014.dita" outputclass="subtopic"
     props="252.232-7014" audience="DFARS-252.232-7014"
     base="concept"><topicmeta><navtitle>252.232-7014 Notification
-of Payment in Local Currency (Afghanistan).</navtitle></topicmeta></topicref>
+of Payment in Local Currency (Afg...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.232-7015 Performance-Based Payments—Representation."
     href="252.232-7015.dita" outputclass="subtopic"
@@ -9295,14 +9225,13 @@ Payments—Representation.</navtitle></topicmeta></topicref>
     href="252.232-7016.dita" outputclass="subtopic"
     props="252.232-7016" audience="DFARS-252.232-7016"
     base="concept"><topicmeta><navtitle>252.232-7016 Notice of
-Progress Payments or Performance-Based Payments.</navtitle></topicmeta></topicref>
+Progress Payments or Performance-Bas...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.232-7017 Accelerating Payments to Small Business Subcontractors—Prohibition on Fees and Consideration."
     href="252.232-7017.dita" outputclass="subtopic"
     props="252.232-7017" audience="DFARS-252.232-7017"
     base="concept"><topicmeta><navtitle>252.232-7017 Accelerating
-Payments to Small Business Subcontractors—Prohibition on Fees and
-Consideration.</navtitle></topicmeta></topicref></topicref>
+Payments to Small Business Subcon...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.233 RESERVED" href="252.233.dita"
     outputclass="subtopic" props="252.233" base="concept">
 <topicref navtitle="252.233-7000 Reserved." href="252.233-7000.dita"
@@ -9332,7 +9261,7 @@ Management System.</navtitle></topicmeta></topicref>
     href="252.234_7003.dita" outputclass="subtopic"
     props="252.234-7003" audience="DFARS-252.234_7003"
     base="concept"><topicmeta><navtitle>252.234–7003 Notice of
-Cost and Software Data Reporting System.</navtitle></topicmeta></topicref>
+Cost and Software Data Reporting S...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.234-7004 Cost and Software Data Reporting System."
     href="252.234-7004.dita" outputclass="subtopic"
@@ -9346,13 +9275,13 @@ Software Data Reporting System.</navtitle></topicmeta></topicref></topicref>
     href="252.235-7000.dita" outputclass="subtopic"
     props="252.235-7000" audience="DFARS-252.235-7000"
     base="concept"><topicmeta><navtitle>252.235-7000 Indemnification
-Under 10 U.S.C. 2354—Fixed Price.</navtitle></topicmeta></topicref>
+Under 10 U.S.C. 2354—Fixed P...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.235-7001 Indemnification Under 10 U.S.C. 2354—Cost Reimbursement."
     href="252.235-7001.dita" outputclass="subtopic"
     props="252.235-7001" audience="DFARS-252.235-7001"
     base="concept"><topicmeta><navtitle>252.235-7001 Indemnification
-Under 10 U.S.C. 2354—Cost Reimbursement.</navtitle></topicmeta></topicref>
+Under 10 U.S.C. 2354—Cost Re...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.235-7002 Animal Welfare."
     href="252.235-7002.dita" outputclass="subtopic"
     props="252.235-7002" audience="DFARS-252.235-7002"
@@ -9458,26 +9387,25 @@ Prices—Bidding Schedules.</navtitle></topicmeta></topicref>
     href="252.236-7010.dita" outputclass="subtopic"
     props="252.236-7010" audience="DFARS-252.236-7010"
     base="concept"><topicmeta><navtitle>252.236-7010 Overseas
-Military Construction—Preference for United States Firms.</navtitle></topicmeta></topicref>
+Military Construction—Preference fo...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.236-7011 Overseas Architect-Engineer Services—Restriction to United States Firms."
     href="252.236-7011.dita" outputclass="subtopic"
     props="252.236-7011" audience="DFARS-252.236-7011"
     base="concept"><topicmeta><navtitle>252.236-7011 Overseas
-Architect-Engineer Services—Restriction to United States Firms.</navtitle></topicmeta></topicref>
+Architect-Engineer Services—Restric...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.236-7012 Military Construction on Kwajalein Atoll—Evaluation Preference."
     href="252.236-7012.dita" outputclass="subtopic"
     props="252.236-7012" audience="DFARS-252.236-7012"
     base="concept"><topicmeta><navtitle>252.236-7012 Military
-Construction on Kwajalein Atoll—Evaluation Preference.</navtitle></topicmeta></topicref>
+Construction on Kwajalein Atoll—Eva...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.236-7013 Requirement for Competition Opportunity for American Steel Producers, Fabricators, and Manufacturers."
     href="252.236-7013.dita" outputclass="subtopic"
     props="252.236-7013" audience="DFARS-252.236-7013"
     base="concept"><topicmeta><navtitle>252.236-7013 Requirement
-for Competition Opportunity for American Steel Producers, Fabricators,
-and Manufacturers.</navtitle></topicmeta></topicref></topicref>
+for Competition Opportunity for Am...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.237 RESERVED" href="252.237.dita"
     outputclass="subtopic" props="252.237" base="concept">
 <topicref
@@ -9530,7 +9458,7 @@ for Default.</navtitle></topicmeta></topicref>
     href="252.237-7010.dita" outputclass="subtopic"
     props="252.237-7010" audience="DFARS-252.237-7010"
     base="concept"><topicmeta><navtitle>252.237-7010 Prohibition
-on Interrogation of Detainees by Contractor Personnel.</navtitle></topicmeta></topicref>
+on Interrogation of Detainees by C...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.237-7011 Preparation History."
     href="252.237-7011.dita" outputclass="subtopic"
     props="252.237-7011" audience="DFARS-252.237-7011"
@@ -9579,7 +9507,7 @@ of Government Property.</navtitle></topicmeta></topicref>
     href="252.237-7019.dita" outputclass="subtopic"
     props="252.237-7019" audience="DFARS-252.237-7019"
     base="concept"><topicmeta><navtitle>252.237-7019 Training
-for Contractor Personnel Interacting with Detainees.</navtitle></topicmeta></topicref>
+for Contractor Personnel Interacting ...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.237-7020 Reserved." href="252.237-7020.dita"
     outputclass="subtopic" props="252.237-7020"
     audience="DFARS-252.237-7020" base="concept"><topicmeta>
@@ -9605,7 +9533,7 @@ of Essential Contractor Services.</navtitle></topicmeta></topicref>
     href="252.237-7024.dita" outputclass="subtopic"
     props="252.237-7024" audience="DFARS-252.237-7024"
     base="concept"><topicmeta><navtitle>252.237-7024 Notice of
-Continuation of Essential Contractor Services.</navtitle></topicmeta></topicref></topicref>
+Continuation of Essential Contractor...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.239 RESERVED" href="252.239.dita"
     outputclass="subtopic" props="252.239" base="concept">
 <topicref
@@ -9619,7 +9547,7 @@ Against Compromising Emanations.</navtitle></topicmeta></topicref>
     href="252.239-7001.dita" outputclass="subtopic"
     props="252.239-7001" audience="DFARS-252.239-7001"
     base="concept"><topicmeta><navtitle>252.239-7001 Information
-Assurance Contractor Training and Certification.</navtitle></topicmeta></topicref>
+Assurance Contractor Training and ...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.239-7002 Access." href="252.239-7002.dita"
     outputclass="subtopic" props="252.239-7002"
     audience="DFARS-252.239-7002" base="concept"><topicmeta>
@@ -9637,10 +9565,10 @@ Facilities and Services.</navtitle></topicmeta></topicref>
     outputclass="subtopic" props="252.239-7005"
     audience="DFARS-252.239-7005" base="concept"><topicmeta>
 <navtitle>252.239-7005 Reserved.</navtitle></topicmeta></topicref>
-<topicref navtitle="252.239-7006 Tariff Information."
-    href="252.239-7006.dita" outputclass="subtopic"
-    props="252.239-7006" audience="DFARS-252.239-7006"
-    base="concept"><topicmeta><navtitle>252.239-7006 Tariff Information.</navtitle></topicmeta></topicref>
+<topicref navtitle="252.239-7006 Reserved." href="252.239-7006.dita"
+    outputclass="subtopic" props="252.239-7006"
+    audience="DFARS-252.239-7006" base="concept"><topicmeta>
+<navtitle>252.239-7006 Reserved.</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.239-7007 Cancellation or Termination of Orders."
     href="252.239-7007.dita" outputclass="subtopic"
@@ -9673,13 +9601,13 @@ and Equipment Charges.</navtitle></topicmeta></topicref>
     href="252.239-7012.dita" outputclass="subtopic"
     props="252.239-7012" audience="DFARS-252.239-7012"
     base="concept"><topicmeta><navtitle>252.239-7012 Title to
-Telecommunication Facilities and Equipment.</navtitle></topicmeta></topicref>
+Telecommunication Facilities and Equi...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.239-7013 Term of Agreement and Continuation of Services."
     href="252.239-7013.dita" outputclass="subtopic"
     props="252.239-7013" audience="DFARS-252.239-7013"
     base="concept"><topicmeta><navtitle>252.239-7013 Term of Agreement
-and Continuation of Services.</navtitle></topicmeta></topicref>
+and Continuation of Services...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.239-7014 Reserved." href="252.239-7014.dita"
     outputclass="subtopic" props="252.239-7014"
     audience="DFARS-252.239-7014" base="concept"><topicmeta>
@@ -9693,7 +9621,7 @@ and Continuation of Services.</navtitle></topicmeta></topicref>
     href="252.239-7016.dita" outputclass="subtopic"
     props="252.239-7016" audience="DFARS-252.239-7016"
     base="concept"><topicmeta><navtitle>252.239-7016 Telecommunications
-Security Equipment, Devices, Techniques, and Services.</navtitle></topicmeta></topicref>
+Security Equipment, Devices...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.239-7017 Notice of Supply Chain Risk."
     href="252.239-7017.dita" outputclass="subtopic"
     props="252.239-7017" audience="DFARS-252.239-7017"
@@ -9786,12 +9714,12 @@ Purchasing System Administration.</navtitle></topicmeta></topicref></topicref>
     href="252.245_7000.dita" outputclass="subtopic"
     props="252.245-7000" audience="DFARS-252.245_7000"
     base="concept"><topicmeta><navtitle>252.245-7000 Government-Furnished
-Mapping, Charting, and Geodesy Property.</navtitle></topicmeta></topicref>
+Mapping, Charting, and Ge...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.245-7001 Tagging, Labeling, and Marking of Government-Furnished Property."
     href="252.245_7001.dita" outputclass="subtopic"
     props="252.245-7000" base="concept"><topicmeta><navtitle>252.245-7001
-Tagging, Labeling, and Marking of Government-Furnished Property.</navtitle></topicmeta></topicref>
+Tagging, Labeling, and Marking of Government-F...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.245-7002 Reporting Loss of Government Property."
     href="252.245-7002.dita" outputclass="subtopic"
@@ -9803,7 +9731,7 @@ Loss of Government Property.</navtitle></topicmeta></topicref>
     href="252.245-7003.dita" outputclass="subtopic"
     props="252.245-7003" audience="DFARS-252.245-7003"
     base="concept"><topicmeta><navtitle>252.245-7003 Contractor
-Property Management System Administration.</navtitle></topicmeta></topicref>
+Property Management System Administ...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.245-7004 Reporting, Reutilization, and Disposal."
     href="252.245-7004.dita" outputclass="subtopic"
@@ -9837,13 +9765,13 @@ of Potential Safety Issues.</navtitle></topicmeta></topicref>
     href="252.246-7004.dita" outputclass="subtopic"
     props="252.246-7004" audience="DFARS-252.246-7004"
     base="concept"><topicmeta><navtitle>252.246-7004 Safety of
-Facilities, Infrastructure, and Equipment for Military Operations.</navtitle></topicmeta></topicref>
+Facilities, Infrastructure, and Equi...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.246-7005 Notice of Warranty Tracking of Serialized Items."
     href="252.246-7005.dita" outputclass="subtopic"
     props="252.246-7005" audience="DFARS-252.246-7005"
     base="concept"><topicmeta><navtitle>252.246-7005 Notice of
-Warranty Tracking of Serialized Items.</navtitle></topicmeta></topicref>
+Warranty Tracking of Serialized Item...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="252.246-7006 Warranty Tracking of Serialized Items. "
     href="252.246-7006.dita" outputclass="subtopic"
@@ -9855,7 +9783,7 @@ Tracking of Serialized Items.</navtitle></topicmeta></topicref>
     href="252.246-7007.dita" outputclass="subtopic"
     props="252.246-7007" audience="DFARS-252.246-7007"
     base="concept"><topicmeta><navtitle>252.246-7007 Contractor
-Counterfeit Electronic Part Detection and Avoidance System.</navtitle></topicmeta></topicref>
+Counterfeit Electronic Part Detecti...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.246-7008 Sources of Electronic Parts."
     href="252.246-7008.dita" outputclass="subtopic"
     props="252.246-7008" audience="DFARS-252.246-7008"
@@ -9882,7 +9810,7 @@ of Prices.</navtitle></topicmeta></topicref>
     href="252.247-7003.dita" outputclass="subtopic"
     props="252.247-7003" audience="DFARS-252.247-7003"
     base="concept"><topicmeta><navtitle>252.247-7003 Pass-Through
-of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer.</navtitle></topicmeta></topicref>
+of Motor Carrier Fuel Surcharge A...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.247-7004 Reserved." href="252.247-7004.dita"
     outputclass="subtopic" props="252.247-7004"
     audience="DFARS-252.247-7004" base="concept"><topicmeta>
@@ -9963,7 +9891,7 @@ Liability for Loss or Damage.</navtitle></topicmeta></topicref>
     href="252.247-7022.dita" outputclass="subtopic"
     props="252.247-7022" audience="DFARS-252.247-7022"
     base="concept"><topicmeta><navtitle>252.247-7022 Representation
-of Extent of Transportation by Sea.</navtitle></topicmeta></topicref>
+of Extent of Transportation by ...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.247-7023 Transportation of Supplies by Sea."
     href="252.247-7023.dita" outputclass="subtopic"
     props="252.247-7023" audience="DFARS-252.247-7023"
@@ -9983,9 +9911,7 @@ or Repair Work.</navtitle></topicmeta></topicref>
     href="252.247-7026.dita" outputclass="subtopic"
     props="252.247-7026" audience="DFARS-252.247-7026"
     base="concept"><topicmeta><navtitle>252.247-7026 Evaluation
-Preference for Use of Domestic Shipyards — Applicable to Acquisition
-of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous
-Trade.</navtitle></topicmeta></topicref>
+Preference for Use of Domestic Ship...</navtitle></topicmeta></topicref>
 <topicref navtitle="252.247-7027 Riding Gang Member Requirements. "
     href="252.247-7027.dita" outputclass="subtopic"
     props="252.247-7027" audience="DFARS-252.247-7027"
@@ -9996,7 +9922,7 @@ Member Requirements.</navtitle></topicmeta></topicref>
     href="252.247-7028.dita" outputclass="subtopic"
     props="252.247-7028" audience="DFARS-252.247-7028"
     base="concept"><topicmeta><navtitle>252.247-7028 Application
-for U.S. Government Shipping Documentation/Instructions.</navtitle></topicmeta></topicref></topicref>
+for U.S. Government Shipping Docum...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.249 RESERVED" href="252.249.dita"
     outputclass="subtopic" props="252.249" base="concept">
 <topicref navtitle="252.249-7000 Special Termination Costs."
@@ -10013,7 +9939,7 @@ Costs.</navtitle></topicmeta></topicref>
     href="252.249-7002.dita" outputclass="subtopic"
     props="252.249-7002" audience="DFARS-252.249-7002"
     base="concept"><topicmeta><navtitle>252.249-7002 Notification
-of Anticipated Contract Termination or Reduction.</navtitle></topicmeta></topicref></topicref>
+of Anticipated Contract Terminati...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="252.251 RESERVED" href="252.251.dita"
     outputclass="subtopic" props="252.251" base="concept">
 <topicref
@@ -10027,7 +9953,7 @@ From Government Supply Sources.</navtitle></topicmeta></topicref>
     href="252.251-7001.dita" outputclass="subtopic"
     props="252.251-7001" audience="DFARS-252.251-7001"
     base="concept"><topicmeta><navtitle>252.251-7001 Use of Interagency
-Fleet Management System (IFMS) Vehicles and Related Services.</navtitle></topicmeta></topicref></topicref></topicref></topicref>
+Fleet Management System (IF...</navtitle></topicmeta></topicref></topicref></topicref></topicref>
 <topicref navtitle="PART 253 - FORMS" href="PART_253.dita"
     outputclass="Part" props="PART 253" audience="DFARS-PART_253"
     base="NoTitle">
@@ -10043,7 +9969,7 @@ Fleet Management System (IFMS) Vehicles and Related Services.</navtitle></topicm
     href="253.213-70.dita" outputclass="subtopic"
     props="253.213-70" audience="DFARS-253.213-70" base="concept">
 <topicmeta><navtitle>253.213-70 Completion of DD Form 1155, Order
-for Supplies or Services.</navtitle></topicmeta></topicref></topicref>
+for Supplies o...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="253.209 Contractor qualifications."
     href="253.209.dita" outputclass="subtopic" props="253.209"
     audience="DFARS-253.209" base="concept">
@@ -10063,7 +9989,7 @@ RESERVED</navtitle></topicmeta></topicref>
     href="253.215-70.dita" outputclass="subtopic"
     props="253.215-70" audience="DFARS-253.215-70" base="concept">
 <topicmeta><navtitle>253.215-70 DD Form 1547, Record of Weighted
-Guidelines Application.</navtitle></topicmeta></topicref></topicref></topicref>
+Guidelines Appl...</navtitle></topicmeta></topicref></topicref></topicref>
 <topicref navtitle="SUBPART 253.3 —ILLUSTRATION OF FORMS"
     href="SUBPART_253.3.dita" outputclass="SubPart"
     props="SUBPART 253.3" audience="DFARS-SUBPART_253.3"
@@ -10125,7 +10051,7 @@ Parties</navtitle></topicmeta></topicref>
     href="Appendix-id2064F0S0N0A.dita"
     props="Appendix-id2064F0S0N0A" audience="id2064F0S0N0A"
     base="concept"><topicmeta><navtitle>Rule 4. Preparation, Content,
-Organization, Forwarding, and Status of Appeal File</navtitle></topicmeta></topicref>
+Organization, Forwarding, and...</navtitle></topicmeta></topicref>
 <topicref navtitle="Rule 5. Time, Computation, and Extensions"
     href="Appendix-id2064F0S0N0W.dita"
     props="Appendix-id2064F0S0N0W" audience="id2064F0S0N0W"
@@ -10167,7 +10093,7 @@ a Hearing</navtitle></topicmeta></topicref>
     href="Appendix-id2064F0S0N9B.dita"
     props="Appendix-id2064F0S0N9B" audience="id2064F0S0N9B"
     base="concept"><topicmeta><navtitle>12.1 Elections to Utilize
-Small Claims (Expedited) and Accelerated Procedures</navtitle></topicmeta></topicref>
+Small Claims (Expedited) and Acce...</navtitle></topicmeta></topicref>
 <topicref navtitle="12.2 Small Claims (Expedited) Procedure"
     href="Appendix-id2064F0S0NVU.dita"
     props="Appendix-id2064F0S0NVU" audience="id2064F0S0NVU"
@@ -10206,7 +10132,7 @@ Record in Appeals with a Hearing</navtitle></topicmeta></topicref>
     href="Appendix-id2064F0S0NTL.dita"
     props="Appendix-id2064F0S0NTL" audience="id2064F0S0NTL"
     base="concept"><topicmeta><navtitle>Rule 17. Dismissal or
-Default for Failure to Prosecute or Defend</navtitle></topicmeta></topicref>
+Default for Failure to Prosecute or D...</navtitle></topicmeta></topicref>
 <topicref navtitle="Rule 18. Suspensions; Dismissal Without Prejudice"
     href="Appendix-id2064F0S0NLO.dita"
     props="Appendix-id2064F0S0NLO" audience="id2064F0S0NLO"
@@ -10374,9 +10300,7 @@ RR.</navtitle></topicmeta></topicref>
     href="Appendix-id2064F0S0NO9.dita" outputclass="subtopic"
     props="Appendix-id2064F0S0NO9" audience="id2064F0S0NO9"
     base="concept"><topicmeta><navtitle>F- 502 Distribution of
-DD FORM 250 AND DD FORM 250C. Material Inspection and Receiving
-Report Table 1 - Standard Distribution Material Inspection and Receiving
-Report Table 2 - Special Distribution</navtitle></topicmeta></topicref></topicref>
+DD FORM 250 AND DD FORM 250C. Materi...</navtitle></topicmeta></topicref></topicref>
 <topicref
     navtitle="PART 6—PREPARATION OF THE DD FORM 250-1 (LOADING REPORT)"
     href="Appendix-id2064F0Q40BUI.dita" outputclass="SubPart"
@@ -10446,25 +10370,25 @@ AGENCY ACTIVITY ADDRESS NUMBERS</navtitle></topicmeta></topicref>
     href="Appendix-id2064F0Q40AX.dita" outputclass="SubPart"
     props="Appendix-id2064F0Q40AX" audience="id2064F0Q40AX"
     base="NoTitle"><topicmeta><navtitle>PART 7—DEFENSE INFORMATION
-SYSTEMS AGENCY ACTIVITY ADDRESS NUMBERS</navtitle></topicmeta></topicref>
+SYSTEMS AGENCY ACTIVITY ADDRES...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="PART 8—NATIONAL IMAGERY AND MAPPING AGENCY ACTIVITY ADDRESS NUMBERS"
     href="Appendix-id2064F0Q40L7U.dita" outputclass="SubPart"
     props="Appendix-id2064F0Q40L7U" audience="id2064F0Q40L7U"
     base="NoTitle"><topicmeta><navtitle>PART 8—NATIONAL IMAGERY
-AND MAPPING AGENCY ACTIVITY ADDRESS NUMBERS</navtitle></topicmeta></topicref>
+AND MAPPING AGENCY ACTIVITY ADDRE...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="PART 9—DEFENSE THREAT REDUCTION AGENCY ACTIVITY ADDRESS NUMBERS"
     href="Appendix-id2064F0Q40BL.dita" outputclass="SubPart"
     props="Appendix-id2064F0Q40BL" audience="id2064F0Q40BL"
     base="NoTitle"><topicmeta><navtitle>PART 9—DEFENSE THREAT
-REDUCTION AGENCY ACTIVITY ADDRESS NUMBERS</navtitle></topicmeta></topicref>
+REDUCTION AGENCY ACTIVITY ADDRESS N...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="PART 10—MISCELLANEOUS DEFENSE ACTIVITIES ACTIVITY ADDRESS NUMBERS"
     href="Appendix-id2064F0Q40PM.dita" outputclass="SubPart"
     props="Appendix-id2064F0Q40PM" audience="id2064F0Q40PM"
     base="NoTitle"><topicmeta><navtitle>PART 10—MISCELLANEOUS
-DEFENSE ACTIVITIES ACTIVITY ADDRESS NUMBERS</navtitle></topicmeta></topicref>
+DEFENSE ACTIVITIES ACTIVITY ADDRESS...</navtitle></topicmeta></topicref>
 <topicref navtitle="PART 11—DEFENSE MICROELECTRONICS ACTIVITY"
     href="Appendix-id2064F0Q404B.dita" outputclass="SubPart"
     props="Appendix-id2064F0Q404B" audience="id2064F0Q404B"
@@ -10480,13 +10404,13 @@ AGENCY ACTIVITY</navtitle></topicmeta></topicref>
     href="Appendix-id2064F0Q400A.dita" outputclass="SubPart"
     props="Appendix-id2064F0Q400A" audience="id2064F0Q400A"
     base="NoTitle"><topicmeta><navtitle>PART 13—DEFENSE COMMISSARY
-AGENCY ACTIVITY ADDRESS NUMBERS</navtitle></topicmeta></topicref>
+AGENCY ACTIVITY ADDRESS NUMBER...</navtitle></topicmeta></topicref>
 <topicref
     navtitle="PART 14—UNITED STATES SPECIAL OPERATIONS COMMAND ACTIVITY ADDRESS NUMBERS"
     href="Appendix-id2064F0Q404E.dita" outputclass="SubPart"
     props="Appendix-id2064F0Q404E" audience="id2064F0Q404E"
     base="NoTitle"><topicmeta><navtitle>PART 14—UNITED STATES
-SPECIAL OPERATIONS COMMAND ACTIVITY ADDRESS NUMBERS</navtitle></topicmeta></topicref></topicref>
+SPECIAL OPERATIONS COMMAND ACTIVITY...</navtitle></topicmeta></topicref></topicref>
 <topicref navtitle="Appendix H —DEBARMENT AND SUSPENSION PROCEDURES"
     href="Appendix_H.dita" outputclass="Part" props="Appendix H"
     audience="Appendix_H" base="NoTitle">
@@ -10630,7 +10554,7 @@ applicable to credit agreements.</navtitle></topicmeta></topicref>
     href="Appendix-id2064F0S0OAT.dita" outputclass="subtopic"
     props="Appendix-id2064F0S0OAT" audience="id2064F0S0OAT"
     base="concept"><topicmeta><navtitle>I-112.1Reporting requirements
-applicable to Individual Subcontract Reports</navtitle></topicmeta></topicref>
+applicable to Individual Subc...</navtitle></topicmeta></topicref>
 <topicref navtitle="I-112.2Program specific reporting requirements."
     href="Appendix-id2064F0S0O2Z.dita" outputclass="subtopic"
     props="Appendix-id2064F0S0O2Z" audience="id2064F0S0O2Z"
