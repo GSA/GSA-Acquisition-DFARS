@@ -19,7 +19,7 @@
          <p outputclass="List4" class="- topic/p ">(B) The termination contracting officer (TCO) will review the proceedings at least every 60 days to reassess the Government's probable obligation. If any additional funds are excess to the probable settlement requirements, or if it appears that previous release of excess funds will result in a shortage of the amount that will be required for settlement, the TCO will promptly notify the contracting office which will amend the termination data letter. The requiring department will process a MIPR amendment to reflect the reinstatement of funds within 30 days after receiving the amended termination data letter.</p>
          <p outputclass="List4" class="- topic/p ">(C) Upon receipt of a copy of the termination settlement agreement, the requiring department will prepare a MIPR amendment, if required, to remove any remaining excess funds.</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="7"
+            <tgroup cols="2"
                     colsep="0"
                     rowsep="0"
                     outputclass="Table"
@@ -36,49 +36,11 @@
                         colsep="0"
                         class="- topic/colspec "
                         rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="9*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="16*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="16*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+              
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry class="- topic/entry " namest="1" nameend="2">
                         <p class="- topic/p ">TABLE 8-1, TERMINATION DATA LETTER</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -88,9 +50,8 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Termination Data Re:</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
@@ -103,29 +64,12 @@
                         <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Contract No. ___________________________ Termination No. ________________________ </p>
+                        <p class="- topic/p ">Contract No. ___________________________ Termination
+                           No. ________________________ </p>
                         <p class="- topic/p ">Contract _______________________________</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
@@ -135,33 +79,26 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">	(a) As termination action is now in progress on the above contract, the following information is submitted:</p>
-                        <p outputclass="List2" class="- topic/p ">(1) Brief Description of items terminated.</p>
-                        <p outputclass="List2" class="- topic/p ">(2) You are notified that the sum of $________ is available for release under the subject contract. This sum represents the difference between $________, the value of items terminated under the contract, and $________, estimated to be required for settlement of the terminated contract. The estimated amount available for release is allocated by the appropriations cited on the contract as follows:</p>
-                        <p class="- topic/p ">MIPR NO.________ ACCOUNTING CLASSIFICATION________ AMOUNT________</p>
+                        <p class="- topic/p "> (a) As termination action is now in progress on the
+                           above contract, the following information is submitted:</p>
+                        <p outputclass="List2" class="- topic/p ">(1) Brief Description of items
+                           terminated.</p>
+                        <p outputclass="List2" class="- topic/p ">(2) You are notified that the sum
+                           of $________ is available for release under the subject contract. This
+                           sum represents the difference between $________, the value of items
+                           terminated under the contract, and $________, estimated to be required
+                           for settlement of the terminated contract. The estimated amount available
+                           for release is allocated by the appropriations cited on the contract as
+                           follows:</p>
+                        <p class="- topic/p ">MIPR NO.________ ACCOUNTING CLASSIFICATION________
+                           AMOUNT________</p>
                         <p class="- topic/p ">Total available for release at this time $________</p>
-                        <p outputclass="List1" class="- topic/p ">(b) Request you forward an amendment to MIPR ________ on DD Form 448-2 to reflect the reduced quantity and amount of funds available for release.</p>
-                        <p outputclass="List1" class="- topic/p ">(c) Periodic reviews (not less than 60 days) will be made as termination proceedings progress to redetermine the Government's probable obligation.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p outputclass="List1" class="- topic/p ">(b) Request you forward an
+                           amendment to MIPR ________ on DD Form 448-2 to reflect the reduced
+                           quantity and amount of funds available for release.</p>
+                        <p outputclass="List1" class="- topic/p ">(c) Periodic reviews (not less
+                           than 60 days) will be made as termination proceedings progress to
+                           redetermine the Government's probable obligation.</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -174,18 +111,6 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">______________________</p>
                         <p class="- topic/p ">Contracting Officer</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
                      </entry>
                   </row>
                </tbody>

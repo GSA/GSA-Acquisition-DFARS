@@ -97,7 +97,7 @@
          <p class="- topic/p ">THE UNITED STATES OF AMERICA</p>
          <p class="- topic/p "/>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="5"
+            <tgroup cols="1"
                     colsep="1"
                     rowsep="0"
                     outputclass="Table"
@@ -107,87 +107,32 @@
                         colwidth="8*"
                         class="- topic/colspec "
                         rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="22*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="22*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="42*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="5*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+             
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">By</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Date</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(Signature and Title of Contractor </p>
-                        <p class="- topic/p ">Representative)  _______________</p>
+                        <p class="- topic/p ">Representative) _______________</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">By</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Date</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
                      </entry>
                   </row>
                </tbody>

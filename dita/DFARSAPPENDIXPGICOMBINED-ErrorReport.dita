@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="d1e9">
+   <concept id="d1e1">
       <title>Report</title>
       <conbody>
          <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
@@ -19,7 +19,12 @@
                      <entry colname="2" class="- topic/entry ">Type</entry>
                   </row>
                </thead>
-               <tbody class="- topic/tbody "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "/>
+                     <entry colname="2" class="- topic/entry "/>
+                  </row>
+               </tbody>
             </tgroup>
          </table>
       </conbody>
