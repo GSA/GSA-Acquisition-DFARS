@@ -22,7 +22,7 @@
          <p outputclass="List1" class="- topic/p ">(c)(1) The Contractor shall, in addition to providing the information required by FAR 52.232-32, submit information for all payment requests using the following format:</p>
          <p class="- topic/p "/>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="5"
+            <tgroup cols="3"
                     colsep="1"
                     rowsep="0"
                     outputclass="Table"
@@ -42,20 +42,11 @@
                         colwidth="19*"
                         class="- topic/colspec "
                         rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="33*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="11*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">Current performance-based payment(s) event(s) addressed by this request:</p>
+                        <p class="- topic/p ">Current performance-based payment(s) event(s)
+                           addressed by this request:</p>
                         <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
@@ -75,22 +66,11 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Totals</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">(1a)  Negotiated value of all previously completed performance-based payment(s) event(s);</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">(1a) Negotiated value of all previously completed
+                           performance-based payment(s) event(s);</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -101,13 +81,8 @@
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">(1b)  Negotiated value of the current performance-based payment(s) event(s);</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">(1b) Negotiated value of the current performance-based
+                           payment(s) event(s);</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -118,13 +93,8 @@
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">(1c) Cumulative negotiated value of performance-based payment(s) event(s) completed to date (1a) + (1b); and</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">(1c) Cumulative negotiated value of performance-based
+                           payment(s) event(s) completed to date (1a) + (1b); and</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -135,13 +105,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">(2)  Total costs incurred to date.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">(2) Total costs incurred to date.</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>

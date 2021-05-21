@@ -3,7 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-212.301"
+   <concept id="DFARS_212_301"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -124,8 +125,7 @@ as prescribed in <xref href="204.7403.dita#DFARS-204.7403"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.7403</xref>(b),
 to comply with 10 U.S.C. 129d.</p>
-         <p outputclass="List4" class="- topic/p ">(G)
-Use the provision at <xref href="252.204-7016.dita#DFARS-252.204-7016"
+         <p outputclass="List4" class="- topic/p ">(G) Use the provision at <xref href="252.204-7016.dita#DFARS-252.204-7016"
                   base="DFARS-252.204-7016"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.204-7016</xref>,
@@ -136,8 +136,7 @@ as prescribed in <xref href="204.2105.dita#DFARS-204.2105"
                   class="- topic/xref ">204.2105</xref>(a),
 to comply with section 1656 of the National Defense Authorization
 Act for Fiscal Year 2018 (Pub. L. 115-91).</p>
-         <p outputclass="List4" class="- topic/p ">(H)
-Use the provision at <xref href="252.204-7017.dita#DFARS-252.204-7017"
+         <p outputclass="List4" class="- topic/p ">(H) Use the provision at <xref href="252.204-7017.dita#DFARS-252.204-7017"
                   base="DFARS-252.204-7017"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.204-7017</xref>,
@@ -148,8 +147,7 @@ or Services - Representation, as prescribed in <xref href="204.2105.dita#DFARS-2
                   class="- topic/xref ">204.2105</xref>(b), to comply
 with section 1656 of the National Defense Authorization Act for
 Fiscal Year 2018 (Pub. L. 115-91).</p>
-         <p outputclass="List4" class="- topic/p ">(I)
-Use the clause at <xref href="252.204-7018.dita#DFARS-252.204-7018"
+         <p outputclass="List4" class="- topic/p ">(I) Use the clause at <xref href="252.204-7018.dita#DFARS-252.204-7018"
                   base="DFARS-252.204-7018"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.204-7018</xref>,
@@ -160,31 +158,37 @@ Equipment or Services, as prescribed in <xref href="204.2105.dita#DFARS-204.2105
                   class="- topic/xref ">204.2105</xref>(c), to comply
 with section 1656 of the National Defense Authorization Act for
 Fiscal Year 2018 (Pub. L. 115-91).</p>
-         <p outputclass="List4" class="- topic/p ">(J)
-Use the provision at <xref href="252.204-7019.dita#DFARS-252.204-7019"
+         <p outputclass="List4" class="- topic/p ">(J) Use the provision at <xref href="252.204-7019.dita#DFARS-252.204-7019"
                   base="i1380987"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.204-7019</xref> ,
-Notice of NIST SP 800-171 DoD Assessment Requirements, as prescribed in <xref href="204.7304.dita#DFARS-204.7304"
+                  class="- topic/xref ">252.204-7019</xref> , Notice
+of NIST SP 800-171 DoD Assessment Requirements, as prescribed in <xref href="204.7304.dita#DFARS-204.7304"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.7304</xref> (d).</p>
-         <p outputclass="List4" class="- topic/p ">(K)
-Use the clause at <xref href="252.204-7020.dita#DFARS-252.204-7020"
+         <p outputclass="List4" class="- topic/p ">(K) Use the clause at <xref href="252.204-7020.dita#DFARS-252.204-7020"
                   base="i1380987"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.204-7020</xref> ,
-NIST SP 800-171 DoD Assessment Requirements, as prescribed in <xref href="204.7304.dita#DFARS-204.7304"
+                  class="- topic/xref ">252.204-7020</xref> , NIST SP
+800-171 DoD Assessment Requirements, as prescribed in <xref href="204.7304.dita#DFARS-204.7304"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.7304</xref> (e).</p>
-         <p outputclass="List4" class="- topic/p ">(L)
-Use the clause at <xref href="252.204-7021.dita#DFARS-252.204-7021"
+         <p outputclass="List4" class="- topic/p ">(L) Use the clause at <xref href="252.204-7021.dita#DFARS-252.204-7021"
                   base="i1380987"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.204-7021</xref> ,
-Cybersecurity Maturity Model Certification Requirements, as prescribed
-in <xref href="204.7503.dita#DFARS-204.7503"
+                  class="- topic/xref ">252.204-7021</xref> , Cybersecurity
+Maturity Model Certification Requirements, as prescribed in <xref href="204.7503.dita#DFARS-204.7503"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.7503</xref> (a) and (b).</p>
+                  class="- topic/xref ">204.7503</xref> (a)
+and (b).</p>
+         <p outputclass="List4" class="- topic/p ">
+            <ph rev="Revised May 20, 2021" class="- topic/ph ">(M) Use
+the clause at <xref href="252.204-7022.dita#252.204-7022"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.204-7022</xref>, Expediting
+Contract Closeout, as prescribed in <xref href="204.804-70.dita"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">204.804-70</xref>.</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">Part 205 - Publicizing Contract
 Actions.</i> Use the clause at <xref href="252.205-7000.dita#DFARS-252.205-7000"
                   base="DFARS-252.205-7000"

@@ -160,7 +160,7 @@
          <p outputclass="List2" class="- topic/p ">12.  FAR 52.252-4, Alterations in Contract, if required by department/agency procedures.</p>
          <p class="- topic/p "/>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="4"
+            <tgroup cols="2"
                     colsep="0"
                     rowsep="0"
                     outputclass="Table"
@@ -177,18 +177,7 @@
                         colsep="0"
                         class="- topic/colspec "
                         rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="25*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="25*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+              
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -212,9 +201,6 @@
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Date _________________________</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -243,7 +229,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">BY:  _____________________________</p>
+                        <p class="- topic/p ">BY: _____________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -255,9 +241,6 @@
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(Contracting Officer)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -288,7 +271,7 @@
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(NAME OF CONTRACTOR)</p>
-                        <p class="- topic/p ">BY:  __________________________</p>
+                        <p class="- topic/p ">BY: __________________________</p>
                         <p class="- topic/p ">(Title) ________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
