@@ -1,31 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita>
-   <concept id="DFARS-PGI_PGI_201.602-2">
-      <title id="PgpEQy">
-         <ph id="adjinl" props="autonumber">PGI 201.602-2</ph> Responsibilities.</title>
-      <conbody>
-         <p id="CcalzQ">Contracting officers shall inform all individuals performing on their behalf of their delegated roles and responsibilities, and the relationships among the parties.</p>
-         <p id="QJUeOy" outputclass="List1">(d)(i) When designating Department of State personnel as a contracting officer’s representative (COR for contracts executed by DoD in support of Department of State in Iraq), follow the procedures in the Director, Defense Procurement and Acquisition Policy memorandum dated July 11, 2011, Contracting Officer’s Representative Designation—Iraq.</p>
-         <p id="CDeFkC" outputclass="List3">(ii) DoD COR certification standards define minimum COR competencies, experience, and training requirements according to the nature and complexity of the requirement and contract performance risk. These COR certification standards should be considered when developing service requirements, soliciting proposals, and performing surveillance during contract performance. The DoD standards and policy are provided in DoD Instruction 5000.72, DoD Standard for Contracting Officer’s Representative (COR) Certification.</p>
-         <p id="xUijbo" outputclass="List3">(iii) Guidance on the appointment and duties of CORs is provided in the <ph id="BDyUFO" rev="Revised June 10, 2021">DoD COR Guidebook.</ph>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-PGI_PGI_201.602-2"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title id="PgpEQy" class="- topic/title ">
+         <ph id="adjinl" props="autonumber" class="- topic/ph ">PGI
+201.602-2</ph> Responsibilities.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="CcalzQ" class="- topic/p ">Contracting officers shall inform all
+individuals performing on their behalf of their delegated roles
+and responsibilities, and the relationships among the parties.</p>
+         <p id="QJUeOy" outputclass="List1" class="- topic/p ">(d)(i) When designating Department
+of State personnel as a contracting officer’s representative (COR
+for contracts executed by DoD in support of Department of State
+in Iraq), follow the procedures in the Director, Defense Procurement
+and Acquisition Policy memorandum dated July 11, 2011, Contracting
+Officer’s Representative Designation—Iraq.</p>
+         <p id="CDeFkC" outputclass="List3" class="- topic/p ">(ii) DoD COR certification
+standards define minimum COR competencies, experience, and training
+requirements according to the nature and complexity of the requirement
+and contract performance risk. These COR certification standards
+should be considered when developing service requirements, soliciting
+proposals, and performing surveillance during contract performance.
+The DoD standards and policy are provided in DoD Instruction 5000.72, DoD
+Standard for Contracting Officer’s Representative (COR) Certification.</p>
+         <p id="xUijbo" outputclass="List3" class="- topic/p ">(iii) Guidance on the appointment
+and duties of CORs is provided in the <ph id="BDyUFO" rev="Revised June 10, 2021" class="- topic/ph ">DoD COR Guidebook.</ph>
          </p>
-         <p id="iUyIlD" outputclass="List3">(iv) DoD agencies and components shall use the <ph id="qsUyFI" rev="Revised June 10, 2021">Joint Appointment Module (JAM), within in the Procurement Integrated Enterprise Environment (PIEE),</ph> to electronically track COR nominations, appointments, terminations, and training certifications for contracts <ph id="LxVYFu" rev="Revised June 10, 2021">assigned a COR. Components shall use the Surveillance and Performance Monitoring (SPM) Module, located in the PIEE, for all other contract surveillance actions. Further guidance on the use of JAM and SPM Module is available at https://wawf.eb.mil https://piee.eb.mil/piee-landing/.</ph>
+         <p id="iUyIlD" outputclass="List3" class="- topic/p ">(iv) DoD agencies and components
+shall use the <ph id="qsUyFI" rev="Revised June 10, 2021" class="- topic/ph ">Joint
+Appointment Module (JAM), within in the Procurement Integrated Enterprise
+Environment (PIEE),</ph> to electronically track COR nominations,
+appointments, terminations, and training certifications for contracts <ph id="LxVYFu" rev="Revised June 10, 2021" class="- topic/ph ">assigned a COR.
+Components shall use the Surveillance and Performance Monitoring
+(SPM) Module, located in the PIEE, for all other contract surveillance
+actions. Further guidance on the use of JAM and SPM Module is available
+at https://wawf.eb.mil https://piee.eb.mil/piee-landing/.</ph>
          </p>
-         <p id="orOLTI" outputclass="List3">(v) A COR assists in the technical monitoring or administration of a contract.</p>
-         <p id="dvoErz" outputclass="List4">(A) <ph id="ikkfXX" rev="Revised June 10, 2021">Unless an exemption at 201.602-2(d)(v)(A) or (B) applies,</ph>
-            <ph id="CpwRhW" rev="Revised June 10, 2021">c</ph>ontracting officers shall designate a COR for all service contracts, <ph id="uVheCN" rev="Revised June 10, 2021">and supply contracts with cost-reimbursable line items</ph> including both firm-fixed-price and other than firm-fixed-price contracts, awarded by a DoD component or by any other Federal agency on behalf of DoD <ph id="kUMJSP" rev="Revised June 10, 2021">within 3 business days of contract award</ph>. The surveillance activities performed by CORs should be tailored to the dollar value/complexity of the specific contract for which they are designated. For geographically dispersed large contracts with multiple task orders, contracting officers should consider appointing multiple or alternate CORs to assist with surveillance duties. These CORs should have specific duties based on criteria, such as geographic region or distinct task areas, to avoid conflicting or duplicative direction. Contracting officers may exempt service contracts from this requirement when the following three conditions are met:</p>
-         <p id="VqVsUq" outputclass="List4">(<i id="dIfSjh">1</i>) The contract will be awarded using simplified acquisition procedures;</p>
-         <p id="vyHoiN" outputclass="List6">(<i id="xvsYeV">2</i>) The requirement is not complex; and</p>
-         <p id="NhogIS" outputclass="List6">(<i id="MeqwjH">3</i>) The contracting officer documents the file, in writing, with the specific reasons why the appointment of a COR is unnecessary.</p>
-         <p id="JsvZQN" outputclass="List4">(B) For cost reimbursement contracts that are not service contracts, contracting officers shall either retain or delegate surveillance activities to a COR or DCMA.</p>
-         <p id="GkOruc" outputclass="List4">(C) The contracting officer shall <ph id="FMnILP" rev="Revised June 10, 2021">ensure</ph> the written designation required by FAR 1.602-2(d)(7) <ph id="ytAyyH" rev="Revised June 10, 2021">is maintained</ph> in <ph id="CTRNFI" rev="Revised June 10, 2021">JAM or the SPM Module</ph>.</p>
-         <p id="huNpxh" outputclass="List3">(vi) A COR shall maintain an electronic <ph id="ZfkezF" rev="Revised June 10, 2021">COR Surveillance</ph> file in the <ph id="nePZrz" rev="Revised June 10, 2021">SPM Module</ph> for each contract assigned. This file must include, a<ph rev="Revised June 10, 2021">t</ph> a minimum—</p>
-         <p id="BSvHRm" outputclass="List4">(A) A copy of the contracting officer's letter of designation and other documentation describing the COR's duties and responsibilities; and</p>
-         <p id="bAywlN" outputclass="List4">(B) Documentation of actions taken in accordance with the delegation of authority.</p>
-         <p id="zbSJDW" outputclass="List3">(vii) Contracting officers, as well as the requiring activities (or the COR’s supervisor), shall, a<ph rev="Revised June 10, 2021">t</ph> a minimum, annually review the COR’s files for accuracy and completeness. The results of the contracting officer’s review shall be documented in the <ph rev="Revised June 10, 2021">SPM Module</ph>.</p>
-         <p id="GqSlme" outputclass="List3">(viii) Prior to contract closeout, the COR will <ph rev="Revised June 10, 2021">ensure</ph> the COR <ph rev="Revised June 10, 2021">Surveillance</ph> files for the assigned contract <ph rev="Revised June 10, 2021">are complete and available</ph> to the contracting officer <ph rev="Revised June 10, 2021"/>.</p>
+         <p id="orOLTI" outputclass="List3" class="- topic/p ">(v) A COR assists in the
+technical monitoring or administration of a contract.</p>
+         <p id="dvoErz" outputclass="List4" class="- topic/p ">(A) <ph id="ikkfXX" rev="Revised June 10, 2021" class="- topic/ph ">Unless an exemption at <xref href="201.602-2.dita#DFARS-201.602-2"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">201.602-2</xref>(d)(v)(A) or
+(B) applies,</ph> 
+            <ph id="CpwRhW" rev="Revised June 10, 2021" class="- topic/ph ">c</ph>ontracting
+officers shall designate a COR for all service contracts, <ph id="uVheCN" rev="Revised June 10, 2021" class="- topic/ph ">and supply contracts
+with cost-reimbursable line items</ph> including both firm-fixed-price
+and other than firm-fixed-price contracts, awarded by a DoD component
+or by any other Federal agency on behalf of DoD <ph id="kUMJSP" rev="Revised June 10, 2021" class="- topic/ph ">within 3 business days of contract
+award</ph>. The surveillance activities performed by CORs should
+be tailored to the dollar value/complexity of the specific contract
+for which they are designated. For geographically dispersed large
+contracts with multiple task orders, contracting officers should
+consider appointing multiple or alternate CORs to assist with surveillance
+duties. These CORs should have specific duties based on criteria,
+such as geographic region or distinct task areas, to avoid conflicting
+or duplicative direction. Contracting officers may exempt service
+contracts from this requirement when the following three conditions
+are met:</p>
+         <p id="VqVsUq" outputclass="List4" class="- topic/p ">(<i id="dIfSjh" class="+ topic/ph hi-d/i ">1</i>)
+The contract will be awarded using simplified acquisition procedures;</p>
+         <p id="vyHoiN" outputclass="List6" class="- topic/p ">(<i id="xvsYeV" class="+ topic/ph hi-d/i ">2</i>)
+The requirement is not complex; and</p>
+         <p id="NhogIS" outputclass="List6" class="- topic/p ">(<i id="MeqwjH" class="+ topic/ph hi-d/i ">3</i>)
+The contracting officer documents the file, in writing, with the
+specific reasons why the appointment of a COR is unnecessary.</p>
+         <p id="JsvZQN" outputclass="List4" class="- topic/p ">(B) For cost reimbursement
+contracts that are not service contracts, contracting officers shall
+either retain or delegate surveillance activities to a COR or DCMA.</p>
+         <p id="GkOruc" outputclass="List4" class="- topic/p ">(C) The contracting officer
+shall <ph id="FMnILP" rev="Revised June 10, 2021" class="- topic/ph ">ensure</ph> the
+written designation required by FAR 1.602-2(d)(7) <ph id="ytAyyH" rev="Revised June 10, 2021" class="- topic/ph ">is maintained</ph> in <ph id="CTRNFI" rev="Revised June 10, 2021" class="- topic/ph ">JAM or the SPM Module</ph>.</p>
+         <p id="huNpxh" outputclass="List3" class="- topic/p ">(vi) A COR shall maintain
+an electronic <ph id="ZfkezF" rev="Revised June 10, 2021" class="- topic/ph ">COR
+Surveillance</ph> file in the <ph id="nePZrz" rev="Revised June 10, 2021" class="- topic/ph ">SPM Module</ph> for each contract
+assigned. This file must include, a<ph rev="Revised June 10, 2021" class="- topic/ph ">t</ph> a
+minimum—</p>
+         <p id="BSvHRm" outputclass="List4" class="- topic/p ">(A) A copy of the contracting
+officer's letter of designation and other documentation describing
+the COR's duties and responsibilities; and</p>
+         <p id="bAywlN" outputclass="List4" class="- topic/p ">(B) Documentation of actions
+taken in accordance with the delegation of authority.</p>
+         <p id="zbSJDW" outputclass="List3" class="- topic/p ">(vii) Contracting officers,
+as well as the requiring activities (or the COR’s supervisor), shall,
+a<ph rev="Revised June 10, 2021" class="- topic/ph ">t</ph> a minimum, annually review
+the COR’s files for accuracy and completeness. The results of the
+contracting officer’s review shall be documented in the <ph rev="Revised June 10, 2021" class="- topic/ph ">SPM Module</ph>.</p>
+         <p id="GqSlme" outputclass="List3" class="- topic/p ">(viii) Prior to contract
+closeout, the COR will <ph rev="Revised June 10, 2021" class="- topic/ph ">ensure</ph> the
+COR <ph rev="Revised June 10, 2021" class="- topic/ph ">Surveillance</ph> files for
+the assigned contract <ph rev="Revised June 10, 2021" class="- topic/ph ">are complete and
+available</ph> to the contracting officer <ph rev="Revised June 10, 2021" class="- topic/ph "/>.</p>
       </conbody>
    </concept>
 </dita>
