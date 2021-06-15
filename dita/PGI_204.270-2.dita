@@ -14,17 +14,17 @@
          <p outputclass="List1" class="- topic/p ">(a) Contracting officers shall maintain an account in Wide Area WorkFlow (WAWF), which provides access to Electronic Document Access (EDA) to ensure their ability to validate and verify data and documents distributed to EDA, as necessary.</p>
          <p outputclass="List1" class="- topic/p ">(b) Agencies shall perform, upon deployment of any contract writing system or other source of contractual documents to be posted to EDA, an analysis to verify adequate controls are in place to ensure that contract documents including attachments, and contract data posted to EDA are accurate representations of the contract. Analyses performed shall include the following—</p>
          <p outputclass="List2" class="- topic/p ">(1) For documents posted in document formats (e.g., Portable Document Format (PDF)), verification that the electronic versions of contract documents posted to EDA are accurate representations of the contract; however, the electronic version is not required to display visual signatures; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) For data sent to EDA in the data standards at PGI <ph xtrc="PGIxref" class="- topic/ph ">
+         <p outputclass="List2" class="- topic/p ">(2) For data sent to EDA in the data standards at PGI 
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="DFARS-PGI_PGI_204.201"
-                     href="PGI_204.201.dita#DFARS-PGI_PGI_204.201">204.201</xref>
-            </ph>, review of the data posted to EDA against the contract documents verified under PGI <ph xtrc="PGIxref" class="- topic/ph ">
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_204.201"
+                  href="PGI_204.201.dita#DFARS-PGI_PGI_204.201">204.201</xref>
+            , review of the data posted to EDA against the contract documents verified under PGI 
                <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="DFARS-PGI_PGI_204.270"
-                     href="PGI_204.270.dita#DFARS-PGI_PGI_204.270">204.270</xref>
-            </ph>(b)(1) to ensure the contract data rendered in EDA is an accurate representation of the underlying contract. To facilitate this review process, all feeds of data to EDA in the Procurement Data Standard are initially placed in a view only evaluation mode, where the data is not available to other systems or outside users pending verification. Upon completion of the review of data, contracting organizations shall notify the EDA program office of the results of the review, with a list of the issuing offices of the contractual actions, the identifier of the system sending the actions, the version or versions of the data standards to which the review applies, and the locations of the systems sending the actions, directing one of the following decisions—</p>
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_204.270"
+                  href="PGI_204.270.dita#DFARS-PGI_PGI_204.270">204.270</xref>
+            (b)(1) to ensure the contract data rendered in EDA is an accurate representation of the underlying contract. To facilitate this review process, all feeds of data to EDA in the Procurement Data Standard are initially placed in a view only evaluation mode, where the data is not available to other systems or outside users pending verification. Upon completion of the review of data, contracting organizations shall notify the EDA program office of the results of the review, with a list of the issuing offices of the contractual actions, the identifier of the system sending the actions, the version or versions of the data standards to which the review applies, and the locations of the systems sending the actions, directing one of the following decisions—</p>
          <p outputclass="List3" class="- topic/p ">(i) Delete all data sent to date (in this case the system remains in evaluation status pending further review);</p>
          <p outputclass="List3" class="- topic/p ">(ii) Delete all data sent to date, and change all subsequent data from 'evaluation' to 'compliant' status; or</p>
          <p outputclass="List3" class="- topic/p ">(iii) Retain all data sent to date, and change all subsequent data from 'evaluation' to 'compliant' status.</p>

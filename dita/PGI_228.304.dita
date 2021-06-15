@@ -25,7 +25,7 @@
          <p outputclass="List2" class="- topic/p ">(3) Use the agreement in Table 28-1, Insurance Rating Plan Agreement, when the Government assumes contractor premium payments upon contract termination or completion.</p>
          <p outputclass="List2" class="- topic/p ">(4) The Federal Tort Claims Act provides protection for Government employees while driving Government-owned vehicles in the performance of their assigned duties. Include the endorsement in Table 28-2, Automobile Insurance Policy Endorsement, in automobile liability insurance policies provided under the National Defense Projects Rating Plan.</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="9"
+            <tgroup cols="3"
                     colsep="0"
                     rowsep="0"
                     outputclass="Table"
@@ -48,67 +48,14 @@
                         colsep="0"
                         class="- topic/colspec "
                         rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="8"
-                        colname="8"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="9"
-                        colname="9"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+              
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry class="- topic/entry " namest="1" nameend="3">
                         <p class="- topic/p ">TABLE 28-1, INSURANCE RATING PLAN RATING AGREEMENT</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
@@ -130,20 +77,8 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
@@ -156,47 +91,14 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">	It is agreed that 100 percent* of the return premiums and premium refunds (and dividends) due or to become due the prime contractor under the policies to which the National Defense Projects Rating Plan Endorsement made a part of policy __________________ applies are hereby assigned to and shall be paid to the United States of America, and the prime contractor directs the Company to make such payments to the office designated for contract administration acting for and on account of the United States of America.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">	The United States of America hereby assumes and agrees to fulfill all present and future obligations of the prime contractor with respect to the payment of 100 percent* of the premiums under said policies.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "> It is agreed that 100 percent* of the return premiums
+                           and premium refunds (and dividends) due or to become due the prime
+                           contractor under the policies to which the National Defense Projects
+                           Rating Plan Endorsement made a part of policy __________________ applies
+                           are hereby assigned to and shall be paid to the United States of America,
+                           and the prime contractor directs the Company to make such payments to the
+                           office designated for contract administration acting for and on account
+                           of the United States of America.</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -215,22 +117,13 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">	This agreement, upon acceptance by the prime contractor, the United States of America, and the Company shall be effective from _____________________________</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "> The United States of America hereby assumes and
+                           agrees to fulfill all present and future obligations of the prime
+                           contractor with respect to the payment of 100 percent* of the premiums
+                           under said policies.</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -249,6 +142,21 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "> This agreement, upon acceptance by the prime
+                           contractor, the United States of America, and the Company shall be
+                           effective from _____________________________</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
@@ -269,11 +177,14 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Accepted_______________________ (Date)</p>
                      </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">_______________________ (Name of Insurance
+                           Company)</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -284,51 +195,14 @@
                         <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">_______________________ (Name of Insurance Company)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">By _____________________(Title of Official
+                           Signing)</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">By _____________________(Title of Official Signing)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
@@ -345,15 +219,6 @@
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Accepted_______________________ (Date)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -369,46 +234,20 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">By ____________________ (Authorized Representative)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">By ____________________ (Authorized
+                           Representative)</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
@@ -429,15 +268,6 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -449,11 +279,14 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">By ____________________ (Authorized
+                           Representative)</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -461,33 +294,10 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">By ____________________ (Authorized Representative)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">*In the event the Government has less than a 100 percent interest in premium funds or dividends, modify the assignment to reflect the percentage of interest and extent of the Government's assumption of additional premium obligation.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p ">*In the event the Government has less than a 100
+                           percent interest in premium funds or dividends, modify the assignment to
+                           reflect the percentage of interest and extent of the Government's
+                           assumption of additional premium obligation.</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>

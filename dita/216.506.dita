@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-216.506"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -10,9 +11,7 @@
          <ph props="autonumber" class="- topic/ph ">216.506</ph> Solicitation provisions
 and contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p rev="Revised August 31, 2020"
-            outputclass="List1"
-            class="- topic/p "> </p>
+         <p outputclass="List1" class="- topic/p "> </p>
          <p outputclass="List1" class="- topic/p ">(S-70) Use the provisions at <xref href="252.215-7007.dita#DFARS-252.215-7007"
                   base="DFARS-252.215-7007"
                   outputclass="fm:ParaNumOnly"

@@ -2,21 +2,27 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_201.170-2"
             outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 201.170-2</ph> Pre-award Peer Reviews.</title>
+         <ph props="autonumber" class="- topic/ph ">PGI 201.170-2</ph> Pre-award Peer
+Reviews.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Pre-award Peer Reviews for competitive acquisitions shall be conducted prior to each of the following three phases of the acquisition:</p>
+         <p outputclass="List1" class="- topic/p ">(a) Pre-award Peer Reviews for
+competitive acquisitions shall be conducted prior to each of the
+following three phases of the acquisition:</p>
          <p outputclass="List2" class="- topic/p ">(1) Issuance of the solicitation.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Request for final proposal revisions (if applicable).</p>
+         <p outputclass="List2" class="- topic/p ">(2) Request for final proposal revisions
+(if applicable).</p>
          <p outputclass="List2" class="- topic/p ">(3) Contract award.</p>
-         <p outputclass="List1" class="- topic/p ">(b) Pre-award Peer Reviews for non-competitive acquisitions shall be conducted prior to each of the following two phases of the acquisition:</p>
-         <p class="- topic/p ">Negotiation.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Pre-award Peer Reviews for non-competitive
+acquisitions shall be conducted prior to each of the following two
+phases of the acquisition:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Negotiation.</p>
          <p outputclass="List2" class="- topic/p ">(2) Contract award.</p>
       </conbody>
    </concept>

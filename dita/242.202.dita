@@ -2,44 +2,93 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-242.202"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">242.202</ph> Assignment of contract administration.</title>
+         <ph props="autonumber" class="- topic/ph ">242.202</ph> Assignment of contract
+administration.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)(i)  DoD activities shall not retain any contract for administration that requires performance of any contract administration function at or near contractor facilities, except contracts for—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  The National Security Agency;</p>
-         <p outputclass="List4" class="- topic/p ">(B)  Research and development with universities;</p>
-         <p outputclass="List4" class="- topic/p ">(C)  Flight training;</p>
-         <p outputclass="List4" class="- topic/p ">(D)  Management and professional support services;</p>
-         <p outputclass="List4" class="- topic/p ">(E)  Mapping, charting, and geodesy services;</p>
-         <p outputclass="List4" class="- topic/p ">(F)  Base, post, camp, and station purchases;</p>
-         <p outputclass="List4" class="- topic/p ">(G)  Operation or maintenance of, or installation of equipment at, radar or communication network sites;</p>
-         <p outputclass="List4" class="- topic/p ">(H)  Communications services;</p>
-         <p outputclass="List4" class="- topic/p ">(I)  Installation, operation, and maintenance of space-track sensors and relays;</p>
-         <p outputclass="List4" class="- topic/p ">(J)  Dependents Medicare program contracts;</p>
-         <p outputclass="List4" class="- topic/p ">(K)  Stevedoring contracts;</p>
-         <p outputclass="List4" class="- topic/p ">(L)  Construction and maintenance of military and civil public works, including harbors, docks, port facilities, military housing, development of recreational facilities, water resources, flood control, and public utilities;</p>
-         <p outputclass="List4" class="- topic/p ">(M)  Architect-engineer services;</p>
-         <p outputclass="List4" class="- topic/p ">(N)  Airlift and sealift services (Air Mobility Command and Military Sealift Command may perform contract administration services at contractor locations involved solely in performance of airlift or sealift contracts);</p>
-         <p outputclass="List4" class="- topic/p ">(O)  Subsistence supplies;</p>
-         <p outputclass="List4" class="- topic/p ">(P)  Ballistic missile sites (contract administration offices may perform supporting administration of these contracts at missile activation sites during the installation, test, and checkout of the missiles and associated equipment);  </p>
-         <p outputclass="List4" class="- topic/p ">(Q)  Operation and maintenance of, or installation of equipment at, military test ranges, facilities, and installations; and</p>
-         <p outputclass="List4" class="- topic/p ">(R)  The Defense Energy Support Center, Defense Logistics Agency.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Contract administration functions for base, post, camp, and station contracts on a military installation are normally the responsibility of the installation or tenant commander.  However, the Defense Contract Management Agency (DCMA) shall, upon request of the military department, and subject to prior agreement, perform contract administration services on a military installation.</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  DCMA shall provide preaward survey assistance for post, camp, and station work performed on a military installation.  The contracting office and the DCMA preaward survey monitor should jointly determine the scope of the survey and individual responsibilities.</p>
-         <p outputclass="List3" class="- topic/p ">(iv)  To avoid duplication, contracting offices shall not locate their personnel at contractor facilities, except—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  In support of contracts retained for administration in accordance with paragraph (a)(i) of this section; or</p>
-         <p outputclass="List4" class="- topic/p ">(B)  As permitted under Subpart 242.74.</p>
-         <p outputclass="List1" class="- topic/p ">(e)(1)(A)  In special circumstances, a contract administration office may request support from a component not listed in the Federal Directory of Contract Administration Services Components (available via the Internet at  https://pubapp.dcma.mil/CASD/main.jsp).  An example is a situation where the contractor's work site is on a military base and a base organization is asked to provide support.  Before formally sending the request, coordinate with the office concerned to ensure that resources are available for, and capable of, providing the support.</p>
-         <p outputclass="List4" class="- topic/p ">(B)  When requesting support on a subcontract that includes foreign military sale (FMS) requirements, the contract administration office shall—</p>
+         <p outputclass="List1" class="- topic/p ">(a)(i) DoD activities shall not
+retain any contract for administration that requires performance
+of any contract administration function at or near contractor facilities,
+except contracts for—</p>
+         <p outputclass="List4" class="- topic/p ">(A) The National Security Agency;</p>
+         <p outputclass="List4" class="- topic/p ">(B) Research and development with universities;</p>
+         <p outputclass="List4" class="- topic/p ">(C) Flight training;</p>
+         <p outputclass="List4" class="- topic/p ">(D) Management and professional support
+services;</p>
+         <p outputclass="List4" class="- topic/p ">(E) Mapping, charting, and geodesy services;</p>
+         <p outputclass="List4" class="- topic/p ">(F) Base, post, camp, and station purchases;</p>
+         <p outputclass="List4" class="- topic/p ">(G) Operation or maintenance of, or installation
+of equipment at, radar or communication network sites;</p>
+         <p outputclass="List4" class="- topic/p ">(H) Communications services;</p>
+         <p outputclass="List4" class="- topic/p ">(I) Installation, operation, and maintenance
+of space-track sensors and relays;</p>
+         <p outputclass="List4" class="- topic/p ">(J) Dependents Medicare program contracts;</p>
+         <p outputclass="List4" class="- topic/p ">(K) Stevedoring contracts;</p>
+         <p outputclass="List4" class="- topic/p ">(L) Construction and maintenance of military
+and civil public works, including harbors, docks, port facilities,
+military housing, development of recreational facilities, water
+resources, flood control, and public utilities;</p>
+         <p outputclass="List4" class="- topic/p ">(M) Architect-engineer services;</p>
+         <p outputclass="List4" class="- topic/p ">(N) Airlift and sealift services (Air Mobility
+Command and Military Sealift Command may perform contract administration
+services at contractor locations involved solely in performance
+of airlift or sealift contracts);</p>
+         <p outputclass="List4" class="- topic/p ">(O) Subsistence supplies;</p>
+         <p outputclass="List4" class="- topic/p ">(P) Ballistic missile sites (contract administration
+offices may perform supporting administration of these contracts at
+missile activation sites during the installation, test, and checkout
+of the missiles and associated equipment);</p>
+         <p outputclass="List4" class="- topic/p ">(Q) Operation and maintenance of, or installation
+of equipment at, military test ranges, facilities, and installations; and</p>
+         <p outputclass="List4" class="- topic/p ">(R) The Defense Energy Support Center,
+Defense Logistics Agency.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Contract administration functions
+for base, post, camp, and station contracts on a military installation
+are normally the responsibility of the installation or tenant commander.
+However, the Defense Contract Management Agency (DCMA) shall, upon
+request of the military department, and subject to prior agreement,
+perform contract administration services on a military installation.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) DCMA shall provide preaward survey
+assistance for post, camp, and station work performed on a military
+installation. The contracting office and the DCMA preaward survey
+monitor should jointly determine the scope of the survey and individual
+responsibilities.</p>
+         <p outputclass="List3" class="- topic/p ">(iv) To avoid duplication, contracting
+offices shall not locate their personnel at contractor facilities,
+except—</p>
+         <p outputclass="List4" class="- topic/p ">(A) In support of contracts retained for
+administration in accordance with paragraph (a)(i) of this section;
+or</p>
+         <p outputclass="List4" class="- topic/p ">(B) As permitted under Subpart 242.74.</p>
+         <p outputclass="List1" class="- topic/p ">(e)(1)(A) In special circumstances, a contract
+administration office may request support from a component not listed
+in the Federal Directory of Contract Administration Services Components
+(available via the Internet at <ph rev="Revised May 20, 2021" class="- topic/ph ">
+               <xref href="https://piee.eb.mil/pcm/xhtml/unauth/index.xhtml"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://piee.eb.mil/pcm/xhtml/unauth/index.xhtml</xref>
+            </ph>).
+An example is a situation where the contractor's work site is on
+a military base and a base organization is asked to provide support.
+Before formally sending the request, coordinate with the office
+concerned to ensure that resources are available for, and capable
+of, providing the support.</p>
+         <p outputclass="List4" class="- topic/p ">(B) When requesting support on a subcontract
+that includes foreign military sale (FMS) requirements, the contract administration
+office shall—</p>
          <p outputclass="List6" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(1)</i>  Mark “FMS Requirement” on the face of the documents; and</p>
+            <i class="+ topic/ph hi-d/i ">(1)</i> Mark “FMS Requirement” on the
+face of the documents; and</p>
          <p outputclass="List6" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(2)</i>  For each FMS case involved, provide the FMS case identifier, associated item quantities, DoD prime contract number, and prime contract line/subline item number.</p>
+            <i class="+ topic/ph hi-d/i ">(2)</i> For each FMS case involved,
+provide the FMS case identifier, associated item quantities, DoD
+prime contract number, and prime contract line/subline item number.</p>
       </conbody>
    </concept>
 </dita>

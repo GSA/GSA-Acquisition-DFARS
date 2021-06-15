@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-PGI_PGI_239.7406"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
@@ -12,8 +13,8 @@
 or pricing data and data other than certified cost or pricing data.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Examples of instances where certified cost or pricing
-data, if required in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR 15.403-4</ph>, or data other than certified
-cost or pricing data, if required in accordance with<ph xtrc="FARxref" class="- topic/ph "> FAR 15.403-3</ph>, may be necessary
+data, if required in accordance with FAR 15.403-4, or data other than certified
+cost or pricing data, if required in accordance with FAR 15.403-3, may be necessary
 to support price reasonableness include—</p>
          <p outputclass="List2" class="- topic/p ">(1) Nontariffed services;</p>
          <p outputclass="List2" class="- topic/p ">(2) Special rates and charges not included

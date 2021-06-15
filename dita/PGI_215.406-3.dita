@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-PGI_PGI_215.406-3"
             outputclass="4"
             ditaarch:DITAArchVersion="1.2"
@@ -59,20 +60,20 @@ other signatures required by local policy/procedure.</p>
          <p outputclass="List4" class="- topic/p ">(C) The documentation shall be uploaded
 to CBAR no later than 30 days after award of the contract action
 associated with the negotiation and shall include both the prenegotiation
-objectives required by <ph xtrc="FARxref" class="- topic/ph ">FAR 15.406-1</ph> and
-PGI <ph xtrc="PGIxref" class="- topic/ph ">
+objectives required by FAR 15.406-1 and
+PGI 
                <xref href="PGI_215.406-1.dita#DFARS-PGI_PGI_215.406-1"
-                     base="DFARS-PGI_PGI_215.406-1"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">215.406-1</xref>
-            </ph>,
+                  base="DFARS-PGI_PGI_215.406-1"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">215.406-1</xref>
+            ,
 and the record of negotiations (i.e. the Price Negotiation Memoranda
-required by <ph xtrc="FARxref" class="- topic/ph ">FAR 15.406-3</ph> and PGI <ph xtrc="PGIxref" class="- topic/ph ">
+required by FAR 15.406-3 and PGI 
                <xref href="#DFARS-PGI_PGI_215.406-3"
-                     base="DFARS-PGI_PGI_215.406-3"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">215.406-3</xref>
-            </ph>).
+                  base="DFARS-PGI_PGI_215.406-3"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">215.406-3</xref>
+            ).
 The contracting officer shall complete the “description of acquisition”
 field with keywords and searchable terms to identify the products
 and services acquired. Additionally, the contracting officer shall
