@@ -1,122 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_208.7304"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 208.7304</ph> Refined precious metals.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">The following refined precious metals are currently managed by<i class="+ topic/ph hi-d/i "/>DSCP:</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="1*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="3.98*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <p class="- topic/p ">Precious Metal</p>
-                        </p>
+<dita>
+   <concept id="DFARS-PGI_PGI_208.7304">
+      <title>
+         <ph props="autonumber">PGI 208.7304</ph> Refined precious metals.</title>
+      <conbody>
+         <p id="qDiuic">The following refined precious metals are currently managed byDSCP:</p>
+         <table colsep="0" rowsep="0">
+            <tgroup cols="2" colsep="0" outputclass="Table" rowsep="0">
+               <colspec colname="1" colnum="1" colwidth="20*"/>
+               <colspec colname="2" colnum="2" colwidth="80*"/>
+               <tbody>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="LSeXZJ"/>
+                        <p id="HzYute">Precious Metal</p>
+                        <p id="RdDzeS"/>
                      </entry>
-                     <entry class="- topic/entry ">National Stock Number (NSN)</entry>
+                     <entry>National Stock Number (NSN)</entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="ysyrWK"/>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p id="KLNDoi"/>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Gold</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="PgKQGz">Gold</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-00-042-7733</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Silver</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-00-106-9432</p>
+                     <entry>
+                        <p id="HnnGTC">9660-00-042-7733</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Platinum Granules</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="LtGVJa">Silver</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-00-042-7768</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Platinum Sponge</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-00-151-4050</p>
+                     <entry>
+                        <p id="gOEvOM">9660-00-106-9432</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Palladium Granules</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="MJHpLh">Platinum Granules</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-00-042-7765</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Palladium Sponge</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-01-039-0320</p>
+                     <entry>
+                        <p id="oopLEP">9660-00-042-7768</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Rhodium </p>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="pduiDf">Platinum Sponge</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-01-010-2625</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Iridium </p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-00-011-1937</p>
+                     <entry>
+                        <p id="KVrzke">9660-00-151-4050</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Ruthenium</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="adYpdi">Palladium Granules</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9660-01-039-0313</p>
+                     <entry>
+                        <p id="oWeeqr">9660-00-042-7765</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="crOfod">Palladium Sponge</p>
+                     </entry>
+                     <entry>
+                        <p id="bXLruY">9660-01-039-0320</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="KinlIS">Rhodium</p>
+                     </entry>
+                     <entry>
+                        <p id="oVjAqk">9660-01-010-2625</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="OYjwvU">Iridium</p>
+                     </entry>
+                     <entry>
+                        <p id="ovEsRQ">9660-00-011-1937</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p id="qaNvuK">Ruthenium</p>
+                     </entry>
+                     <entry>
+                        <p id="iGSmLA">9660-01-039-0313</p>
                      </entry>
                   </row>
                </tbody>
