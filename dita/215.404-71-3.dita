@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="DFARS-215.404-71-3">
       <title>
@@ -148,7 +148,7 @@
                      <entry align="right" colname="4">0 to 2.</entry>
                   </row>
                   <row rowsep="1">
-                     <entry align="left" colname="1" colsep="0">Cost-plus-incentive-<ph rev="Revised May 20, 2021">fee</ph>
+                     <entry align="left" colname="1" colsep="0">Cost-plus-incentive-<ph>fee</ph>
                      </entry>
                      <entry align="right" colname="2" colsep="0">(4)</entry>
                      <entry align="right" colname="3" colsep="0">1.0</entry>

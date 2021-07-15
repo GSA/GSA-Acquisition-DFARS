@@ -2,16 +2,17 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_242.1203"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 242.1203</ph> Processing agreements.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1)  For contracts awarded by the military departments, provide notices to the following addressees instead of individual contracting or contract administration offices:</p>
+         <p outputclass="List2" class="- topic/p ">(1) For contracts awarded by the
+military departments, provide notices to the following addressees
+instead of individual contracting or contract administration offices:</p>
          <p class="- topic/p "/>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="2"
@@ -23,47 +24,47 @@
                         colname="1"
                         colwidth="25*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="75*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Army</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@mail.mil</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Navy</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">RDAJ&amp;As.fct@navy.mil</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Air Force</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">AFMC.PK.Workflow-02@us.af.mil</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">National Aeronautics and Space Administration</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">National Aeronautics and Space Administration</p>
-                        <p class="- topic/p ">ATTN:  Office of Procurement, Program Operations Division</p>
-                        <p class="- topic/p ">300 E Street, SW</p>
+                        <p class="- topic/p ">ATTN:
+Office of Procurement, Program Operations Division</p>
+                        <p class="- topic/p ">300 E Street,
+SW</p>
                         <p class="- topic/p ">Washington, DC 20546-0001</p>
                      </entry>
                   </row>
@@ -71,19 +72,34 @@
             </tgroup>
          </table>
          <p outputclass="List2" class="- topic/p "/>
-         <p outputclass="List2" class="- topic/p ">(2)  Lists of affected contracts accompanying a notice of successor in interest should include the information at FAR 42.1204(e)(2).</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Lists of affected contracts accompanying a notice of a name change should include the information at FAR 42.1205(a)(3).</p>
-         <p outputclass="List2" class="- topic/p ">(4)  On notices sent to the addressees in paragraph (1) of this section, include a consolidated list for all subordinate contracting offices of the addressee.</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Before making any substantial alterations or additions to the novation agreement format at FAR 42.1204(i), coordinate with the addressees in paragraph (1) of this section that have contracts with the contractor.  Resolve any objections before executing the agreement.</p>
-         <p outputclass="List2" class="- topic/p ">(6)  If the National Aeronautics and Space Administration (NASA) wants a separate agreement with the contractor, continue to process the agreement only for DoD.</p>
-         <p outputclass="List2" class="- topic/p ">(7)  In addition to the requirements of FAR 42.1203(g) and PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+         <p outputclass="List2" class="- topic/p ">(2) Lists of affected contracts accompanying
+a notice of successor in interest should include the information
+at FAR 42.1204(e)(2).</p>
+         <p outputclass="List2" class="- topic/p ">(3) Lists of affected contracts accompanying
+a notice of a name change should include the information at FAR 42.1205(a)(3).</p>
+         <p outputclass="List2" class="- topic/p ">(4) On notices sent to the addressees in
+paragraph (1) of this section, include a consolidated list for all
+subordinate contracting offices of the addressee.</p>
+         <p outputclass="List2" class="- topic/p ">(5) Before making any substantial alterations
+or additions to the novation agreement format at FAR 42.1204(i),
+coordinate with the addressees in paragraph (1) of this section
+that have contracts with the contractor. Resolve any objections before
+executing the agreement.</p>
+         <p outputclass="List2" class="- topic/p ">(6) If the National Aeronautics and Space
+Administration (NASA) wants a separate agreement with the contractor,
+continue to process the agreement only for DoD.</p>
+         <p outputclass="List2" class="- topic/p ">(7) In addition to the requirements of
+FAR 42.1203(g) and PGI <xref href="PGI_204.201.dita#DFARS-PGI_PGI_204.201"
                   base="DFARS-PGI_PGI_204.201"
-                  href="PGI_204.201.dita#DFARS-PGI_PGI_204.201">204.201</xref>
-            , make distribution to—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The physical address or a copy to the email addresses in paragraph (1) of this section; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The appropriate Military Surface Deployment and Distribution Command area command for agreements affecting contracts and basic agreements for storage and related services for personal property of military and civilian personnel — two copies:</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.201</xref> ,
+make distribution to—</p>
+         <p outputclass="List3" class="- topic/p ">(i) The physical address or a copy to the
+email addresses in paragraph (1) of this section; and</p>
+         <p outputclass="List3" class="- topic/p ">(ii) The appropriate Military Surface Deployment
+and Distribution Command area command for agreements affecting contracts
+and basic agreements for storage and related services for personal
+property of military and civilian personnel — two copies:</p>
          <p class="- topic/p "/>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="2"
@@ -95,53 +111,65 @@
                         colname="1"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Commander</p>
                         <p class="- topic/p ">Eastern Area</p>
-                        <p class="- topic/p ">Military Surface Deployment </p>
-                        <p class="- topic/p "> and Distribution Command</p>
-                        <p class="- topic/p ">ATTN:  MTE-LO</p>
-                        <p class="- topic/p ">Bayonne, NJ  07002</p>
+                        <p class="- topic/p ">Military
+Surface Deployment</p>
+                        <p class="- topic/p ">and Distribution Command</p>
+                        <p class="- topic/p ">ATTN: MTE-LO</p>
+                        <p class="- topic/p ">Bayonne,
+NJ 07002</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Commander</p>
                         <p class="- topic/p ">Western Area</p>
-                        <p class="- topic/p ">Military Surface Deployment </p>
-                        <p class="- topic/p "> and Distribution Command</p>
-                        <p class="- topic/p ">Oakland Army Base</p>
-                        <p class="- topic/p ">ATTN:  MTW-LO</p>
-                        <p class="- topic/p ">Oakland, CA  94626</p>
+                        <p class="- topic/p ">Military
+Surface Deployment</p>
+                        <p class="- topic/p ">and Distribution Command</p>
+                        <p class="- topic/p ">Oakland
+Army Base</p>
+                        <p class="- topic/p ">ATTN: MTW-LO</p>
+                        <p class="- topic/p ">Oakland, CA 94626</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
          <p outputclass="List2" class="- topic/p "/>
-         <p outputclass="List2" class="- topic/p ">(8)  In addition to the distribution requirements of FAR 42.1203(h)(4) and PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+         <p outputclass="List2" class="- topic/p ">(8) In addition to the distribution requirements
+of FAR 42.1203(h)(4) and PGI <xref href="PGI_204.201.dita#DFARS-PGI_PGI_204.201"
                   base="DFARS-PGI_PGI_204.201"
-                  href="PGI_204.201.dita#DFARS-PGI_PGI_204.201">204.201</xref>
-            –</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Send two copies to the physical address or a copy to the email addresses in paragraph (1) of this section.  The list of contracts may be confined to those issued by that department.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Do not send copies to NASA or the commands in paragraph (7)(ii) of this section.  They will issue their own modifications.</p>
-         <p outputclass="List2" class="- topic/p ">(9)  Report the novation agreement or name change modification for each of the affected contracts to FPDS (see PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.201</xref> –</p>
+         <p outputclass="List3" class="- topic/p ">(i) Send two copies to the physical address
+or a copy to the email addresses in paragraph (1) of this section.
+The list of contracts may be confined to those issued by that department.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Do not send copies to NASA or the
+commands in paragraph (7)(ii) of this section. They will issue their
+own modifications.</p>
+         <p outputclass="List2" class="- topic/p ">(9) Report the novation agreement or name
+change modification for each of the affected contracts to FPDS (see
+PGI <xref href="PGI_204.606.dita#DFARS-PGI_PGI_204.606"
                   base="DFARS-PGI_PGI_204.606"
-                  href="PGI_204.606.dita#DFARS-PGI_PGI_204.606">204.606</xref>
-            (4)(iv) and (v)).</p>
-         <p outputclass="List2" class="- topic/p ">(10)  The contracting officer responsible for execution of a change-of-name agreement (see FAR Subpart 42.12) must submit the agreement to DLIS-SBB.  If there are no current contracts, each contracting and contract administration office receiving notification of changes from the commercial entity must forward a copy of the change notice annotated with the CAGE code to DLIS-SBB unless the change notice indicates that DLIS-SBB already has been notified.</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.606</xref> (4)(iv)
+and (v)).</p>
+         <p outputclass="List2" class="- topic/p ">(10) The contracting officer responsible
+for execution of a change-of-name agreement (see FAR Subpart 42.12)
+must submit the agreement to DLIS-SBB. If there are no current contracts,
+each contracting and contract administration office receiving notification
+of changes from the commercial entity must forward a copy of the
+change notice annotated with the CAGE code to DLIS-SBB unless the
+change notice indicates that DLIS-SBB already has been notified.</p>
       </conbody>
    </concept>
 </dita>
