@@ -359,18 +359,18 @@
                          audience="DFARS-PGI_PGI_204.1670"
                          base="concept"/>
             </topicref>
-            <topicref navtitle="PGI 204.17- SERVICE CONTRACT INVENTORY"
+            <topicref navtitle="          PGI 204.17          - SERVICE CONTRACT INVENTORY       "
                       href="PGI_204.17.dita"
                       outputclass="SubPart"
                       props="PGI 204.17"
                       audience="DFARS-PGI_PGI_204.17"
                       base="NoTitle">
-               <topicref navtitle="PGI 204.1703Reporting requirements."
+               <topicref navtitle="          PGI 204.1703           Reporting requirements.       "
                          href="PGI_204.1703.dita"
                          outputclass="subtopic"
                          props="PGI 204.1703"
                          audience="DFARS-PGI_PGI_204.1703"
-                         base="NoTitle"/>
+                         base="concept"/>
             </topicref>
             <topicref navtitle="PGI 204.18 —COMMERCIAL AND GOVERNMENT ENTITY CODE"
                       href="PGI_204.18.dita"
@@ -3057,6 +3057,26 @@
                             props="PGI 225.7018-4"
                             audience="DFARS-PGI_PGI_225.7018-4"
                             base="concept"/>
+               </topicref>
+               <topicref navtitle="PGI 225.7019 Reserved."
+                         href="PGI_225.7019.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="PGI 225.7019"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle/>
+                  </topicmeta>
+                  <topicref navtitle="PGI 225.7019-3 Waiver."
+                            href="PGI_225.7019-3.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="PGI 225.7019-3"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle/>
+                     </topicmeta>
+                  </topicref>
                </topicref>
             </topicref>
             <topicref navtitle="PGI 225.72 —REPORTING CONTRACT PERFORMANCE OUTSIDE THE UNITED STATES"
