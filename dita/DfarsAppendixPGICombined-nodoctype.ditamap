@@ -2382,7 +2382,7 @@
                       props="SUBPART 212.3"
                       outputclass="SubPart"
                       audience="DFARS-SUBPART_212.3">
-               <topicref navtitle="212.301 Solicitation provisions&#xA;and contract clauses for the acquisition of commercial items."
+               <topicref navtitle="212.301 Solicitation provisions and contract clauses for the acquisition of commercial items."
                          base="concept"
                          href="212.301.dita"
                          props="212.301"
@@ -6362,56 +6362,38 @@
                             outputclass="subtopic"
                             audience="DFARS-225.7018-5"/>
                </topicref>
-               <topicref navtitle="225.7019 Prohibition on use&#xA;of certain energy sourced from inside the Russian Federation."
+               <topicref navtitle="225.7019 Prohibition on use of certain energy sourced from inside the Russian Federation."
                          base="concept"
                          href="225.7019.dita"
                          props="225.7019"
                          outputclass="subtopic"
-                         type="concept">
-                  <topicmeta>
-                     <navtitle/>
-                  </topicmeta>
+                      	 audience="DFARS-225.7019">
                   <topicref navtitle="225.7019-1 Definitions."
                             base="concept"
                             href="225.7019-1.dita"
                             props="225.7019-1"
                             outputclass="subtopic"
-                            type="concept">
-                     <topicmeta>
-                        <navtitle/>
-                     </topicmeta>
-                  </topicref>
+							audience="DFARS-225.7019-1"/>                           
                   <topicref navtitle="225.7019-2 Prohibition."
                             base="concept"
                             href="225.7019-2.dita"
                             props="225.7019-2"
                             outputclass="subtopic"
-                            type="concept">
-                     <topicmeta>
-                        <navtitle/>
-                     </topicmeta>
-                  </topicref>
+							audience="DFARS-225.7019-2"/>
                   <topicref navtitle="225.7019-3 Waiver."
                             base="concept"
                             href="225.7019-3.dita"
                             props="225.7019-3"
                             outputclass="subtopic"
-                            type="concept">
-                     <topicmeta>
-                        <navtitle/>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="225.7019-4 Solicitation provision&#xA;and contract clause."
+                            audience="DFARS-225.7019-3"/>                   
+                  <topicref navtitle="225.7019-4 Solicitation provision and contract clause."
                             base="concept"
                             href="225.7019-4.dita"
                             props="225.7019-4"
                             outputclass="subtopic"
-                            type="concept">
-                     <topicmeta>
-                        <navtitle/>
-                     </topicmeta>
-                  </topicref>
-               </topicref>
+                            audience="225.7019-4"/>
+							</topicref>
+               
             </topicref>
             <topicref navtitle="SUBPART 225.71 —OTHER RESTRICTIONS ON FOREIGN ACQUISITION"
                       base="NoTitle"
@@ -12989,27 +12971,20 @@
                             props="252.225-7052"
                             outputclass="subtopic"
                             audience="DFARS-252.225-7052"/>
-                  <topicref navtitle="252.225-7053 Representation&#xA;Regarding Prohibition on Use of Certain Energy Sourced from Inside&#xA;the Russian Federation."
+                  <topicref navtitle="252.225-7053 Representation Regarding Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation."
                             base="concept"
                             href="252.225-7053.dita"
                             props="252.225-7053"
                             outputclass="subtopic"
-                            type="concept">
-                     <topicmeta>
-                        <navtitle/>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="252.225-7054 Representation&#xA;Regarding Prohibition on Use of Certain Energy Sourced from Inside&#xA;the Russian Federation."
+                            audience="DFARS-252.225-7053"/>
+                  <topicref navtitle="252.225-7054 Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation."
                             base="concept"
                             href="252.225-7054.dita"
                             props="252.225-7054"
                             outputclass="subtopic"
-                            type="concept">
-                     <topicmeta>
-                        <navtitle/>
-                     </topicmeta>
+                            audience="DFARS-252.225-7054"/>                    
                   </topicref>
-               </topicref>
+               
                <topicref navtitle="252.226 RESERVED"
                          base="concept"
                          href="252.226.dita"
@@ -18329,22 +18304,15 @@
                          href="PGI_225.7019.dita"
                          props="PGI 225.7019"
                          outputclass="subtopic"
-                         type="concept">
-                  <topicmeta>
-                     <navtitle/>
-                  </topicmeta>
+                         audience="DFARS-PGI_PGI_225.7019">
                   <topicref navtitle="PGI 225.7019-3 Waiver."
                             base="concept"
                             href="PGI_225.7019-3.dita"
                             props="PGI 225.7019-3"
                             outputclass="subtopic"
-                            type="concept">
-                     <topicmeta>
-                        <navtitle/>
-                     </topicmeta>
+                            audience="DFARS-PGI_PGI_225.7019-3"/>
                   </topicref>
                </topicref>
-            </topicref>
             <topicref navtitle="PGI 225.72 —REPORTING CONTRACT PERFORMANCE OUTSIDE THE UNITED STATES"
                       base="NoTitle"
                       href="PGI_225.72.dita"
