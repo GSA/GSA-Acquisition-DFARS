@@ -633,7 +633,7 @@
                          props="204.804"
                          audience="DFARS-204.804"
                          base="concept">
-                  <topicref navtitle="204.804-70Contract clause."
+                  <topicref navtitle="             204.804-70                     Contract clause.       "
                             href="204.804-70.dita"
                             outputclass="subtopic"
                             props="204.804"
@@ -717,36 +717,36 @@
                          audience="DFARS-204.1671"
                          base="concept"/>
             </topicref>
-            <topicref navtitle="SUBPART 204.17 - SERVICE CONTRACTS INVENTORY"
+            <topicref navtitle="          SUBPART 204.17           - SERVICE CONTRACTS INVENTORY       "
                       href="SUBPART_204.17.dita"
                       outputclass="SubPart"
                       props="SUBPART 204.17"
                       audience="DFARS-SUBPART_204.17"
                       base="NoTitle">
-               <topicref navtitle="204.1700Scope of subpart."
+               <topicref navtitle="204.1700 Scope of subpart."
                          href="204.1700.dita"
                          outputclass="subtopic"
                          props="204.1700"
                          audience="DFARS-204.1700"
-                         base="NoTitle"/>
-               <topicref navtitle="204.1701Definitions."
+                         base="concept"/>
+               <topicref navtitle="204.1701 Definitions."
                          href="204.1701.dita"
                          outputclass="subtopic"
                          props="204.1701"
                          audience="DFARS-204.1701"
-                         base="NoTitle"/>
-               <topicref navtitle="204.1703Reporting requirements."
+                         base="concept"/>
+               <topicref navtitle="          204.1703           Reporting requirements.       "
                          href="204.1703.dita"
                          outputclass="subtopic"
                          props="204.1701"
                          audience="DFARS-204.1703"
-                         base="NoTitle"/>
-               <topicref navtitle="204.1705Contract clauses."
+                         base="concept"/>
+               <topicref navtitle="          204.1705          Contract clauses.       "
                          href="204.1705.dita"
                          outputclass="subtopic"
                          props="SUBPART 204.18"
                          audience="DFARS-204.1705"
-                         base="NoTitle"/>
+                         base="concept"/>
             </topicref>
             <topicref navtitle="SUBPART 204.18 —COMMERCIAL AND GOVERNMENT ENTITY CODE"
                       href="SUBPART_204.18.dita"
@@ -5212,7 +5212,7 @@
                          props="223.7301"
                          audience="DFARS-223.7301"
                          base="concept"/>
-               <topicref navtitle="223.7302Reserved."
+               <topicref navtitle="223.7302          Reserved.       "
                          href="223.7302.dita"
                          outputclass="subtopic"
                          props="223.7302"
@@ -6363,6 +6363,37 @@
                             audience="DFARS-225.7018-5"
                             base="concept"/>
                </topicref>
+               <topicref navtitle="225.7019 Prohibition on use of certain energy sourced from inside the Russian Federation."
+                         href="225.7019.dita"
+                         outputclass="subtopic"
+                         props="225.7019"
+                         audience="DFARS-225.7019"
+                         base="concept">
+                  <topicref navtitle="225.7019-1 Definitions."
+                            href="225.7019-1.dita"
+                            outputclass="subtopic"
+                            props="225.7019-1"
+                            audience="DFARS-225.7019-1"
+                            base="concept"/>
+                  <topicref navtitle="225.7019-2 Prohibition."
+                            href="225.7019-2.dita"
+                            outputclass="subtopic"
+                            props="225.7019-2"
+                            audience="DFARS-225.7019-2"
+                            base="concept"/>
+                  <topicref navtitle="225.7019-3 Waiver."
+                            href="225.7019-3.dita"
+                            outputclass="subtopic"
+                            props="225.7019-3"
+                            audience="DFARS-225.7019-3"
+                            base="concept"/>
+                  <topicref navtitle="225.7019-4 Solicitation provision and contract clause."
+                            href="225.7019-4.dita"
+                            outputclass="subtopic"
+                            props="225.7019-4"
+                            audience="225.7019-4"
+                            base="concept"/>
+               </topicref>
             </topicref>
             <topicref navtitle="SUBPART 225.71 —OTHER RESTRICTIONS ON FOREIGN ACQUISITION"
                       href="SUBPART_225.71.dita"
@@ -6463,12 +6494,16 @@
                          props="225.7301"
                          audience="DFARS-225.7301"
                          base="concept">
-                  <topicref navtitle="225.7301-1 Requirement to use firm-fixed-price contracts."
+                  <topicref navtitle="225.7301-1 Reserved."
                             href="225.7301-1.dita"
                             outputclass="subtopic"
                             props="225.7301-1"
                             audience="DFARS-225.7301-1"
-                            base="concept"/>
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>225.7301-1 Reserved.</navtitle>
+                     </topicmeta>
+                  </topicref>
                   <topicref navtitle="225.7301-2 Solicitation approval for sole source contracts."
                             href="225.7301-2.dita"
                             outputclass="subtopic"
@@ -11846,12 +11881,12 @@
                             outputclass="subtopic"
                             props="252.204-7021"
                             base="concept"/>
-                  <topicref navtitle="252.204-7022Expediting Contract Closeout."
+                  <topicref navtitle="             252.204-7022                     Expediting Contract Closeout.       "
                             href="252.204-7022.dita"
                             outputclass="subtopic"
                             props="252.204-7022"
                             base="concept"/>
-                  <topicref navtitle="252.204-7023 Reporting Requirements for Contracted Services."
+                  <topicref navtitle="          252.204-7023 Reporting Requirements for Contracted Services.       "
                             href="252.204-7023.dita"
                             outputclass="subtopic"
                             props="252.204-7023"
@@ -12935,6 +12970,18 @@
                             outputclass="subtopic"
                             props="252.225-7052"
                             audience="DFARS-252.225-7052"
+                            base="concept"/>
+                  <topicref navtitle="252.225-7053 Representation Regarding Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation."
+                            href="252.225-7053.dita"
+                            outputclass="subtopic"
+                            props="252.225-7053"
+                            audience="DFARS-252.225-7053"
+                            base="concept"/>
+                  <topicref navtitle="252.225-7054 Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation."
+                            href="252.225-7054.dita"
+                            outputclass="subtopic"
+                            props="252.225-7054"
+                            audience="DFARS-252.225-7054"
                             base="concept"/>
                </topicref>
                <topicref navtitle="252.226 RESERVED"
