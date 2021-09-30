@@ -2,20 +2,37 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_213.201"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 213.201</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(g)(i) The higher micro-purchase thresholds in FAR 13.201(g) are authorized for purchases that have a clear and direct relationship to the support of a declared contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 et seq.; or to support response to an emergency or major disaster (42 U.S.C. 5122). To determine if a declaration has been made that authorizes the use of the higher micro- purchase thresholds review the following websites: </p>
-         <p outputclass="List4" class="- topic/p ">(A) Declared domestic contingency operations are listed at http://www.acq.osd.mil/dpap/pacc/cc/domestic_emergencies.html. </p>
-         <p outputclass="List4" class="- topic/p ">(B) Declared overseas contingency operations are listed at http://www.acq.osd.mil/dpap/pacc/cc/international_operations.html.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) "United States," as used in this section, is defined in FAR 2.101(b).</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Except as provided in paragraph (iv) of this section, the following tables illustrate the micro-purchase threshold based on the physical location of the Government purchaser and, for services, the place of performance:</p>
+         <p outputclass="List1" class="- topic/p ">(g)(i) The higher micro-purchase
+thresholds in FAR 13.201(g) are authorized for purchases that have
+a clear and direct relationship to the support of a declared contingency
+operation; to facilitate defense against or recovery from cyber,
+nuclear, biological, chemical, or radiological attack; to support
+a request from the Secretary of State or the Administrator of the United
+States Agency for International Development to facilitate provision
+of international disaster assistance pursuant to 22 U.S.C. 2292
+et seq.; or to support response to an emergency or major disaster
+(42 U.S.C. 5122). To determine if a declaration has been made that
+authorizes the use of the higher micro- purchase thresholds review
+the following websites:</p>
+         <p outputclass="List4" class="- topic/p ">(A) Declared domestic contingency operations
+are listed at http://www.acq.osd.mil/dpap/pacc/cc/domestic_emergencies.html.</p>
+         <p outputclass="List4" class="- topic/p ">(B) Declared overseas contingency operations
+are listed at http://www.acq.osd.mil/dpap/pacc/cc/international_operations.html.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) "United States," as used in this section,
+is defined in FAR 2.101(b).</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Except as provided in paragraph (iv)
+of this section, the following tables illustrate the micro-purchase
+threshold based on the physical location of the Government purchaser
+and, for services, the place of performance:</p>
          <p outputclass="List4" class="- topic/p ">(A) For supplies—</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="2"
@@ -27,43 +44,45 @@
                         colname="1"
                         colwidth="51*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="49*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Government Purchaser Physical Location</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Authorized Micro-Purchase Threshold</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Inside United States</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">$20,000</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Outside United States</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">$30,000</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <ph rev="Revised September 29, 2021" class="- topic/ph ">$35,000</ph>
+                        </p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List4" class="- topic/p ">(B) For services, including acquisitions of services subject to 41 U.S.C. chapter 67, Service Contract Labor Standards—</p>
+         <p outputclass="List4" class="- topic/p ">(B) For services, including acquisitions
+of services subject to 41 U.S.C. chapter 67, Service Contract Labor
+Standards—</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="3"
                     colsep="0"
@@ -74,72 +93,82 @@
                         colname="1"
                         colwidth="29*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="38*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="33*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Government Purchaser Physical Location</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Place of </p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Place of</p>
                         <p class="- topic/p ">Performance</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Authorized </p>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Authorized</p>
                         <p class="- topic/p ">Micro-Purchase Threshold</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Inside United States</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Inside or Outside United States</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">$20,000</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Outside United States</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Inside United States</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">$20,000</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Outside United States</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Outside United States</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">$30,000</p>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <ph rev="Revised September 29, 2021" class="- topic/ph ">$35,000</ph>
+                        </p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List3" class="- topic/p ">(iv)(A) Government purchasers located inside the United States are prohibited from using the $30,000 contingency micro-purchase threshold, unless specifically authorized by statute. </p>
-         <p outputclass="List4" class="- topic/p ">(B) The $2,000 micro-purchase threshold for acquisitions of construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction), remains unchanged in the event of a declared contingency operation; a cyber, nuclear, biological, chemical, or radiological attack; a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 et seq.; or an emergency or major disaster (42 U.S.C. 5122), regardless of the criteria described above.</p>
+         <p outputclass="List3" class="- topic/p ">(iv)(A) Government purchasers located inside
+the United States are prohibited from using the <ph rev="Revised September 29, 2021" class="- topic/ph ">$35,000</ph> contingency micro-purchase
+threshold, unless specifically authorized by statute.</p>
+         <p outputclass="List4" class="- topic/p ">(B) The $2,000 micro-purchase threshold
+for acquisitions of construction subject to 40 U.S.C. chapter 31,
+subchapter IV, Wage Rate Requirements (Construction), remains unchanged
+in the event of a declared contingency operation; a cyber, nuclear,
+biological, chemical, or radiological attack; a request from the
+Secretary of State or the Administrator of the United States Agency
+for International Development to facilitate provision of international
+disaster assistance pursuant to 22 U.S.C. 2292 et seq.; or an emergency
+or major disaster (42 U.S.C. 5122), regardless of the criteria described
+above.</p>
       </conbody>
    </concept>
 </dita>
