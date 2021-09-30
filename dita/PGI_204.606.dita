@@ -2,27 +2,26 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_204.606"
             outputclass="3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.606</ph> Reporting data.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Do not enter a generic DUNS number used for reporting
-to the Federal Procurement Data System (FPDS) (see FAR Subpart 4.6), nor a generic
-CAGE code that corresponds to a generic DUNS number, on any contractual
-document. These generic codes shall only be used for reporting to
-FPDS. Using the generic codes on actual contract actions masks the
-true identity of the vendor and immediately makes any accurate electronic
-processing of invoices, receiving reports, and payments impossible;
-and can, in fact, result in misdirected payments. As a reminder
-FAR Subpart 4.18 requires
-each contractor be identified by its actual CAGE code on contract
-actions; there is no exemption to the requirement for an actual
-CAGE code.</p>
+to the Federal Procurement Data System (FPDS) (see FAR Subpart 4.6),
+nor a generic CAGE code that corresponds to a generic DUNS number,
+on any contractual document. These generic codes shall only be used
+for reporting to FPDS. Using the generic codes on actual contract
+actions masks the true identity of the vendor and immediately makes
+any accurate electronic processing of invoices, receiving reports,
+and payments impossible; and can, in fact, result in misdirected
+payments. As a reminder FAR Subpart 4.18 requires each contractor
+be identified by its actual CAGE code on contract actions; there
+is no exemption to the requirement for an actual CAGE code.</p>
          <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Methods of reporting to FPDS</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Individual contract action report
 (CAR) (one CAR per contract action)</i>. The normal method of reporting
@@ -56,7 +55,7 @@ as a best practice if the award was not accomplished using the Governmentwide
 commercial purchase card (GPC) or a Standard Form 44. Additionally, when
 the purchase order or definitive contract being awarded is in response
 to a contingency, an individual report is required when the value
-of the award is greater than $25,000, not the MPT of $30,000 referenced in
+of the award is greater than $25,000, not the MPT of<ph rev="Revised September 29, 2021" class="- topic/ph "> $35,000</ph> referenced in
 FAR part 2.</p>
          <p outputclass="List4" class="- topic/p ">(C) See paragraphs (1)(ii) and (iii) of
 this section for exceptions to individual reporting.</p>
@@ -167,21 +166,17 @@ BPA should be reported using the BPA call format.</p>
 section cover the different sections of an FPDS contract action
 report, as presented to the user in the system. Not every data element
 is addressed here, as many are self-explanatory. Users should also consult
-the FPDS User Manual referenced in PGI 
-               <xref href="PGI_204.602.dita#DFARS-PGI_PGI_204.602"
+the FPDS User Manual referenced in PGI <xref href="PGI_204.602.dita#DFARS-PGI_PGI_204.602"
                   base="DFARS-PGI_PGI_204.602"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.602</xref>
-            (1)(iii)
+                  class="- topic/xref ">204.602</xref> (1)(iii)
 for more complete descriptions and examples. Also, the instructions
 in this section use data field names based on what is shown to the
 user while entering data in FPDS; for more specific information,
-review the FPDS Data Element Dictionary referenced in PGI 
-               <xref href="PGI_204.602.dita#DFARS-PGI_PGI_204.602"
+review the FPDS Data Element Dictionary referenced in PGI <xref href="PGI_204.602.dita#DFARS-PGI_PGI_204.602"
                   base="DFARS-PGI_PGI_204.602"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.602</xref>
-            (1)(i).</p>
+                  class="- topic/xref ">204.602</xref> (1)(i).</p>
          <p outputclass="List3" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">FPDS Entry – Document Information
 Section</i>.</p>
          <p outputclass="List4" class="- topic/p ">(A) Enter the new contract, agreement,
@@ -456,8 +451,8 @@ Critical Functions.”</p>
 “Other Functions” and either “Closely Associated” or “Critical Functions,” select
 only the “Closely Associated” or “Critical Functions” value.</p>
          <p outputclass="List4" class="- topic/p ">(C) Enter “Yes” in the “Multiyear Contract”
-field if the procurement is a multiyear contract in accordance with FAR 17.1; otherwise
-enter “No.”</p>
+field if the procurement is a multiyear contract in accordance with
+FAR 17.1; otherwise enter “No.”</p>
          <p outputclass="List4" class="- topic/p ">(D) Enter the full name of the program,
 not an acronym or abbreviation, in the “Major Program” field if
 there is an associated program name. Contracts and agreements with
@@ -479,8 +474,7 @@ Award IDV” field:</p>
 the contract action is—</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) One of several indefinite-delivery
 indefinite-quantity (IDIQ) contracts awarded under a single solicitation
-in accordance with FAR
-16.504(c);</p>
+in accordance with FAR 16.504(c);</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) One of several blanket purchase
 agreements (BPAs) awarded against a Federal Supply Schedule in accordance
 with FAR 8.405-3;</p>
@@ -519,8 +513,8 @@ use or limited to one or more specific Military Services or Defense Agencies.</p
 enter “Yes” if certified cost and pricing data were obtained. Enter
 “Not Obtained – Waived” if the requirement for certified cost and
 pricing data was waived. Enter “No” if certified cost or pricing
-data were not obtained and no waiver was required. See FAR 15.403for the
-requirements for certified cost and pricing data.</p>
+data were not obtained and no waiver was required. See FAR 15.403for
+the requirements for certified cost and pricing data.</p>
          <p outputclass="List4" class="- topic/p ">(J) Enter “Yes” in the “Purchase Card as
 Payment Method” field if the GPC was used as the method of payment
 or as both the method of purchase and payment for the contract action.
@@ -552,25 +546,21 @@ situation applies.</p>
          <p outputclass="List4" class="- topic/p ">(O) <i class="+ topic/ph hi-d/i ">Consolidated Contract</i>.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Enter “Consolidated Requirements”
 when the requirements meet the definition of “Consolidation or consolidated
-requirement” at FAR
-2.101 but a written determination was not made because the
-estimated value of the requirements were at or below $2 million,
-or the requirements are bundled and a written determination for
-bundling is required.</p>
+requirement” at FAR 2.101 but a written determination was not made
+because the estimated value of the requirements were at or below
+$2 million, or the requirements are bundled and a written determination
+for bundling is required.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Enter “Consolidated Requirements
 with Written Determination” when the requirements meet the definition
-of "Consolidation or consolidated requirement" at FAR 2.101 and a written determination
-is made in accordance with FAR
-7.107-2.</p>
+of "Consolidation or consolidated requirement" at FAR 2.101 and
+a written determination is made in accordance with FAR 7.107-2.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) Enter “Consolidated Requirements
-Under FAR 7.107-1(b)
-Exceptions” when the requirements meet the definition of "Consolidation
-or consolidated requirement" at FAR 2.101 but do not require a written
-determination in accordance with FAR 7.107-1(b).</p>
+Under FAR 7.107-1(b) Exceptions” when the requirements meet the definition
+of "Consolidation or consolidated requirement" at FAR 2.101 but
+do not require a written determination in accordance with FAR 7.107-1(b).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) Enter “Not Consolidated” when
 the requirements do not meet the definition of "Consolidation or
-consolidated requirement" at FAR
-2.101.</p>
+consolidated requirement" at FAR 2.101.</p>
          <p outputclass="List4" class="- topic/p ">(P) Enter “1” in the “Number of Actions”
 data field unless using Express Reporting procedures described in
 paragraph (1)(iii) of this section.</p>
@@ -581,11 +571,11 @@ Standards,” “Materials, Supplies, Articles, and Equipment,” and
 “Construction Wage Rate Requirements” data elements, answer “Yes”
 if the acts apply to any of the line items on the award. Choose
 “Not Applicable” if the act itself is not applicable based on implementation
-requirements in the FAR for each act (see FAR subparts 22.10, 22.6, and 22.4, respectively),
-or choose “No” if the act is applicable, but the associated clauses
-were not included in the award. For the “Clinger-Cohen Act”, choose
-“No” if either the Act is not applicable or the planning requirements
-from the act were not accomplished.</p>
+requirements in the FAR for each act (see FAR subparts 22.10, 22.6,
+and 22.4, respectively), or choose “No” if the act is applicable, but
+the associated clauses were not included in the award. For the “Clinger-Cohen
+Act”, choose “No” if either the Act is not applicable or the planning
+requirements from the act were not accomplished.</p>
          <p outputclass="List4" class="- topic/p ">(B) Indicate in the “Interagency Contracting
 Authority” data field if the action is subject to the Economy Act,
 a different statutory authority, or if interagency authorities are
@@ -598,9 +588,9 @@ by the contractor that is required by the contract. Multiple values
 may be selected.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) If none of the reporting requirements
 apply, select “None of the Above.”</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Select “Service Contract Inventory FAR 4.17” if FAR
-clause 52.204-14, Service Contract Reporting Requirements, is present
-in the contract.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Select “Service Contract Inventory
+FAR 4.17” if FAR clause 52.204-14, Service Contract Reporting Requirements,
+is present in the contract.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) Select “Employment Eligibility
 Verification (52.222-54)” if FAR clause 52.222-54, Employment Eligibility
 Verification, is included in the contract or if 52.212-5, Contract
@@ -691,13 +681,12 @@ on the FPDS website under the “Worksite” section under “Reference”.</p>
 when the requirements meet the definition of “Bundling” at FAR 2.101.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Enter “Substantially Bundled
 Requirements” when the requirements meet the definition of “Bundling”
-at FAR 2.101 but
-has an estimated value outlined at FAR 7.107-4, Substantial bundling.</p>
+at FAR 2.101 but has an estimated value outlined at FAR 7.107-4,
+Substantial bundling.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) Enter “Bundled Requirements
-Under a FAR 7.107-1(b)
-Exception” when the requirements meet the definition of “Bundling”
-at FAR 2.101 but
-do not require a written determination in accordance with FAR 7.107-1(b).</p>
+Under a FAR 7.107-1(b) Exception” when the requirements meet the
+definition of “Bundling” at FAR 2.101 but do not require a written
+determination in accordance with FAR 7.107-1(b).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) Enter “Not Bundled” when the
 requirements do not meet the definition of “Bundling” at FAR 2.101.</p>
          <p outputclass="List4" class="- topic/p ">(D) Enter in the “DoD Acquisition Program”
@@ -743,13 +732,12 @@ to be used inside the United States, choose one of the following:</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) “Manufactured in the U.S.” when
 the supplies that are considered domestic end products (see FAR 25.101).</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) “Manufactured Outside the U.S.
-– Trade Agreements” when the supplies are acquired subject to a Trade
-Agreement (see FAR 25.4)
-where the Buy American Act requirements have been waived.</p>
+– Trade Agreements” when the supplies are acquired subject to a
+Trade Agreement (see FAR 25.4) where the Buy American Act requirements
+have been waived.</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iii</i>) The exception to the Buy American
 Act that was used in the procurement when the supplies are considered
-foreign end products (see FAR
-25.103):</p>
+foreign end products (see FAR 25.103):</p>
          <p outputclass="List8" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">A</i>) “Manufactured Outside the U.S.
 – Public Interest.”</p>
          <p outputclass="List8" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">B</i>) “Manufactured Outside the U.S.
@@ -771,9 +759,8 @@ origin is one of the current qualifying countries at DFARS <xref href="225.003.d
 data field, choose the most applicable answer regarding the ownership
 of the contractor.</p>
          <p outputclass="List4" class="- topic/p ">(H) Indicate whether Government Furnished
-Property (GFP), (see FAR
-45.101), is included on the award in the “GFE/GFP Provided
-Under This Action” data field.</p>
+Property (GFP), (see FAR 45.101), is included on the award in the “GFE/GFP
+Provided Under This Action” data field.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) When reporting modifications
 to previously reported award, the CAR should carry the same value
 for this data element as was on the CAR for the initial award unless
@@ -801,17 +788,15 @@ of sustainability incorporated into the contract or order. If there
 is a combination of the attributes on the contract that does not
 exist in the list below, choose the one from the list that most
 closely reflects the situation on the contract.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">
-               FAR 52.223-4 included</i>. Use when
-the contract includes the requirement for recovered materials in
-accordance with FAR Subpart 23.4 and
-provision 52.223-4, Recovered Material Certification, was included
-in the solicitation.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) <i class="+ topic/ph hi-d/i ">
-               FAR 52.223-4 and 52.223-9 included</i>.
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">FAR 52.223-4 included</i>.
 Use when the contract includes the requirement for recovered materials
-in accordance with FAR Subpart 23.4, provision 52.223-4 was included
-in the solicitation, and clause 52.223-9 is included in the contract.</p>
+in accordance with FAR Subpart 23.4 and provision 52.223-4, Recovered
+Material Certification, was included in the solicitation.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) <i class="+ topic/ph hi-d/i ">FAR 52.223-4 and 52.223-9
+included</i>. Use when the contract includes the requirement for
+recovered materials in accordance with FAR Subpart 23.4, provision
+52.223-4 was included in the solicitation, and clause 52.223-9 is
+included in the contract.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) <i class="+ topic/ph hi-d/i ">No clauses included and no
 sustainability included</i>. Use when the contract includes neither
 requirements nor provisions/clauses for recovered materials or energy
@@ -825,56 +810,50 @@ in accordance with FAR Subpart 23.4.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">6</i>) <i class="+ topic/ph hi-d/i ">Environmentally preferable</i>.
 Use when the contract includes the requirement for environmentally
 preferable products or services in accordance with FAR Subpart 23.7.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">7</i>) <i class="+ topic/ph hi-d/i ">
-               FAR 52.223-4 and energy efficient</i>.
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">7</i>) <i class="+ topic/ph hi-d/i ">FAR 52.223-4 and energy efficient</i>.
 Use when the contract includes the requirement for–</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Recovered materials in accordance
-with FAR Subpart 23.4 and
-provision 52.223-4 was included in the solicitation; and</p>
+with FAR Subpart 23.4 and provision 52.223-4 was included in the solicitation;
+and</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Energy efficient products or
 services in accordance with FAR Subpart 23.2.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">8</i>) <i class="+ topic/ph hi-d/i ">
-               FAR 52.223-4 and biobased</i>. Use
-when the contract includes the requirement for–</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">8</i>) <i class="+ topic/ph hi-d/i ">FAR 52.223-4 and biobased</i>.
+Use when the contract includes the requirement for–</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Recovered materials in accordance
-with FAR Subpart 23.4 and
-provision 52.223-4 was included in the solicitation; and</p>
+with FAR Subpart 23.4 and provision 52.223-4 was included in the solicitation;
+and</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Biobased products or services
 in accordance with FAR Subpart 23.4.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">9</i>) <i class="+ topic/ph hi-d/i ">
-               FAR 52.223-4 and environmentally
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">9</i>) <i class="+ topic/ph hi-d/i ">FAR 52.223-4 and environmentally
 preferabl</i>e. Use when the contract includes the requirement for–</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Recovered materials in accordance
-with FAR Subpart 23.4 and
-provision 52.223-4 was included in the solicitation; and</p>
+with FAR Subpart 23.4 and provision 52.223-4 was included in the solicitation;
+and</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Environmentally preferable
 products or services in accordance with FAR Subpart 23.7.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">10</i>) FAR 52.223-4, <i class="+ topic/ph hi-d/i ">biobased and energy
-efficient</i>. Use when the contract includes the requirement for–</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">10</i>) FAR 52.223-4, <i class="+ topic/ph hi-d/i ">biobased and
+energy efficient</i>. Use when the contract includes the requirement
+for–</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Recovered materials in accordance
-with FAR Subpart 23.4 and
-provision 52.223-4 was included in the solicitation;</p>
+with FAR Subpart 23.4 and provision 52.223-4 was included in the solicitation;</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Energy efficient products or
 services in accordance with FAR Subpart 23.2; and</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iii</i>) Biobased products or services
 in accordance with FAR Subpart 23.4.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">11</i>) <i class="+ topic/ph hi-d/i ">
-               FAR 52.223-4, biobased and environmentally
-preferable</i>. Use when the contract includes the requirement for–</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">11</i>) <i class="+ topic/ph hi-d/i ">FAR 52.223-4, biobased and
+environmentally preferable</i>. Use when the contract includes the
+requirement for–</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Recovered materials in accordance
-with FAR Subpart 23.4 and
-provision 52.223-4 was included in the solicitation;</p>
+with FAR Subpart 23.4 and provision 52.223-4 was included in the solicitation;</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Biobased products or services
 in accordance with FAR Subpart 23.4; and</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iii</i>) Environmentally preferable
 products or services in accordance with FAR Subpart 23.7.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">12</i>) <i class="+ topic/ph hi-d/i ">
-               FAR 52.223-4, biobased, energy efficient
-and environmentally preferable</i>. Use when the contract includes the
-requirement for–</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">12</i>) <i class="+ topic/ph hi-d/i ">FAR 52.223-4, biobased,
+energy efficient and environmentally preferable</i>. Use when the
+contract includes the requirement for–</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Recovered materials in accordance
-with FAR Subpart 23.4 and
-provision 52.223-4 was included in the solicitation;</p>
+with FAR Subpart 23.4 and provision 52.223-4 was included in the solicitation;</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Energy efficient products or
 services in accordance with FAR Subpart 23.2;</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iii</i>) Biobased products or services
@@ -909,8 +888,7 @@ code for contract actions using sealed bid procedures (FAR part
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">5</i>) <i class="+ topic/ph hi-d/i ">Two Step</i>. Use this code
 for contract actions that use a combination of sealed bids and negotiated
 procedures (FAR 6.102).</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">6</i>) <i class="+ topic/ph hi-d/i ">Architect-Engineer FAR 6.102
-            </i>.
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">6</i>) <i class="+ topic/ph hi-d/i ">Architect-Engineer FAR 6.102</i>.
 Use this code if the action resulted from selection of sources for
 architect-engineer contracts pursuant to FAR 6.102(d)(1).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">7</i>) <i class="+ topic/ph hi-d/i ">Basic Research</i>. Use this
@@ -937,16 +915,15 @@ were “Simplified Acquisition”), to include for the Commercial Item
 Test Program.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) <i class="+ topic/ph hi-d/i ">Full and Open Competition
 (F&amp;OC)</i>. Report this if the contract action resulted from
-an award pursuant to FAR
-6.102(a), Sealed bids; FAR
-6.102(b), Competitive proposals; FAR 6.102(c), Combination; or any other
-competitive method that did not exclude sources of any type.</p>
+an award pursuant to FAR 6.102(a), Sealed bids; FAR 6.102(b), Competitive
+proposals; FAR 6.102(c), Combination; or any other competitive method
+that did not exclude sources of any type.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) <i class="+ topic/ph hi-d/i ">F&amp;OC after Exclusion
 of Sources</i>. Report this when sources are excluded before competition.
-(Note: This terminology is broader than FAR Subpart 6.2, which includes set-aside actions
-and actions to establish or maintain alternate sources, in that
-it also includes actions justified by a justification and approval
-that provided for competition).</p>
+(Note: This terminology is broader than FAR Subpart 6.2, which includes
+set-aside actions and actions to establish or maintain alternate
+sources, in that it also includes actions justified by a justification
+and approval that provided for competition).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) <i class="+ topic/ph hi-d/i ">Not Available for Competition</i>.
 Report this if the contract action is not available for competition
 (i.e., contract actions where the solicitation procedure was “Only
@@ -1013,13 +990,14 @@ completion of this field, the FPDS user should advise the agency
 FPDS so that the contracting office for the multiple-award contract
 can be notified and pursue correction.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">Urgency</i>. Report this
-if the action was justified pursuant to FAR 8.405- 6(a)(1)(i)(A) or 16.505(b)(2)(i)(A).</p>
+if the action was justified pursuant to FAR 8.405- 6(a)(1)(i)(A)
+or 16.505(b)(2)(i)(A).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) <i class="+ topic/ph hi-d/i ">Only One Source</i>. Other
-– Report if the action was justified pursuant to FAR 8.405-6(a)(1)(i)(B) or 16.505(b)(2)(i)(B).</p>
+– Report if the action was justified pursuant to FAR 8.405-6(a)(1)(i)(B)
+or 16.505(b)(2)(i)(B).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) <i class="+ topic/ph hi-d/i ">Follow-On Delivery Order
 Following Competitive Initial Order</i>. Report this if the action
-was justified pursuant to FAR
-8.405-6(a)(1)(i)(C) or 16.505(b)(2)(i)(C).</p>
+was justified pursuant to FAR 8.405-6(a)(1)(i)(C) or 16.505(b)(2)(i)(C).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) <i class="+ topic/ph hi-d/i ">Minimum Guarantee</i>. Report
 this if it was necessary to place an order to satisfy a minimum
 amount guaranteed to the contractor. See FAR 16.505(b)(2)(i)(D).</p>
@@ -1029,18 +1007,18 @@ purchase by made from a specified source. See FAR16.505(b)(2)(i)(E).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">6</i>) <i class="+ topic/ph hi-d/i ">Fair Opportunity Given</i>.
 Report this if fair opportunity was given pursuant to FAR 16.505(b)(1).</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">7</i>) <i class="+ topic/ph hi-d/i ">Competitive Set-Aside</i>.
-Report this if the order was set aside pursuant to FAR 19.502-4(c) and a sub-set of multiple-award
-contract holders meeting the set-aside criteria were provided fair
-opportunity to submit an offer. If this value is selected, also
-choose the appropriate set-aside in the “Type of Set-Aside” field.
-Do not select this value if the original multiple award contract
-itself was set-aside or partially set-aside.</p>
+Report this if the order was set aside pursuant to FAR 19.502-4(c)
+and a sub-set of multiple-award contract holders meeting the set-aside
+criteria were provided fair opportunity to submit an offer. If this
+value is selected, also choose the appropriate set-aside in the
+“Type of Set-Aside” field. Do not select this value if the original
+multiple award contract itself was set-aside or partially set-aside.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">8</i>) <i class="+ topic/ph hi-d/i ">Sole Source.</i> Report this
-if the order was issued pursuant to FAR 19.502-4(c) and awarded to a
-single contract holder meeting the socio-economic criteria without
-providing fair opportunity to other multiple-award contract holders.
-If this value is selected, also choose the appropriate value in
-the “Type of Set-Aside” field.</p>
+if the order was issued pursuant to FAR 19.502-4(c) and awarded
+to a single contract holder meeting the socio-economic criteria
+without providing fair opportunity to other multiple-award contract
+holders. If this value is selected, also choose the appropriate
+value in the “Type of Set-Aside” field.</p>
          <p outputclass="List4" class="- topic/p ">(G) If an award did not provide for full
 and open competition; or in the case of simplified acquisition,
 did not provide the maximum extent of competition practicable; select
@@ -1049,30 +1027,27 @@ represents the justification used.</p>
          <p outputclass="List4" class="- topic/p ">(H) In the “Commercial Item Acquisition
 Procedures” data field, indicate whether commercial procedures were
 (1) used for commercial items, (2) used for supplies or services
-pursuant to FAR 12.102(f),
-(3) used for services pursuant to FAR 12.102(g), or (4) not used.</p>
+pursuant to FAR 12.102(f), (3) used for services pursuant to FAR
+12.102(g), or (4) not used.</p>
          <p outputclass="List4" class="- topic/p ">(I) In the “Simplified Procedures for Certain
 Commercial Items” data field, indicate if the contract action utilized procedures
 under FAR 13.5.</p>
          <p outputclass="List4" class="- topic/p ">(J) In the “A-76 Action” data field, indicate
 if the contract action resulted from an A-76 / FAIR Act competitive sourcing
 process. Note, however, that DoD is currently under a moratorium
-from procuring services using these procedures. See PGI 
-               <xref href="PGI_207.302.dita#DFARS-PGI_PGI_207.302"
+from procuring services using these procedures. See PGI <xref href="PGI_207.302.dita#DFARS-PGI_PGI_207.302"
                   base="DFARS-PGI_PGI_207.302"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">207.302</xref>
-             for
+                  class="- topic/xref ">207.302</xref> for
 more information.</p>
          <p outputclass="List4" class="- topic/p ">(K) In the “Local Area Set Aside” data
 field, indicate if the contract action resulted from a local area
-set-aside in accordance with FAR
-26.202.</p>
+set-aside in accordance with FAR 26.202.</p>
          <p outputclass="List4" class="- topic/p ">(L) In the “FedBizOpps” data field, enter
 “Yes” if the award was greater than $25,000 in value and subject
-to FAR 5.2 synopsis
-requirements. Enter “No” if the award was greater than $25,000 in
-value, but an exception to synopsis requirements applied.</p>
+to FAR 5.2 synopsis requirements. Enter “No” if the award was greater
+than $25,000 in value, but an exception to synopsis requirements
+applied.</p>
          <p class="- topic/p ">Enter “Not Applicable” if the award was less than or equal to
 $25,000 in value.</p>
          <p outputclass="List4" class="- topic/p ">(M) <i class="+ topic/ph hi-d/i ">Number of Offers</i>.</p>
@@ -1157,10 +1132,8 @@ actually accomplishes the close out of the award.</p>
 Action” value in the “Reason for Modification” field unless transferring the
 contract to a non-DoD contracting office (e.g., Department of Interior).</p>
          <p outputclass="List3" class="- topic/p ">(v) Modifications for novations (see FAR
-Subpart 42.12 and
-DFARS subpart 242.12)
-shall use “Novation Agreement” in the “Reason for Modification”
-field.</p>
+Subpart 42.12 and DFARS subpart 242.12) shall use “Novation Agreement” in
+the “Reason for Modification” field.</p>
          <p outputclass="List4" class="- topic/p ">(A) When this value is used, the contracting
 officer shall enter the appropriate DUNS number for the contractor
 in the modification contract action report. FPDS will then bring
@@ -1176,16 +1149,15 @@ recorded on the modification contract action report. Subsequent
 contract action reports will reflect the size entered on this modification
 contract action report (see FAR subparts 19.301-2 and 19.301-3).</p>
          <p outputclass="List3" class="- topic/p ">(vi) Modifications for contractor name
-changes that do not require a novation (see FAR Subpart 42.12 and DFARS
-Subpart 242.12)
-shall use “Vendor DUNS Change” in the “Reason for Modification”
-field. When this value is used, the contracting officer shall enter
-the appropriate DUNS number for the contractor in the modification
-contract action report. FPDS will then bring over the current vendor
-name and address from the contractor’s SAM record for that DUNS
-number into the modification contract action report. Subsequent
-contract action reports will show the updated DUNS number and vendor
-name.</p>
+changes that do not require a novation (see FAR Subpart 42.12 and
+DFARS Subpart 242.12) shall use “Vendor DUNS Change” in the “Reason
+for Modification” field. When this value is used, the contracting
+officer shall enter the appropriate DUNS number for the contractor
+in the modification contract action report. FPDS will then bring
+over the current vendor name and address from the contractor’s SAM
+record for that DUNS number into the modification contract action
+report. Subsequent contract action reports will show the updated DUNS
+number and vendor name.</p>
          <p outputclass="List3" class="- topic/p ">(vii) Modifications for contractor address
 changes that do not require a novation shall use “Vendor Address
 Change” in the “Reason for Modification” field. When this value
@@ -1193,13 +1165,12 @@ is used, FPDS will bring over the current address from the contractor’s
 SAM record into the modification contract action report. Subsequent
 contract action reports will show the updated address.</p>
          <p outputclass="List3" class="- topic/p ">(viii) Modifications for re-representation
-actions (see FAR 19.301-2 and
-19.301-3) shall use either “Re-representation” or “Re-representation
-of Non-Novated Merger/Acquisition”, as appropriate, in the “Reason
-for Modification” field. When this value is used, FPDS allows the
-contracting officer to update the “Contracting Officer’s Determination of
-Business Size” data field. The contracting officer shall ensure
-that the contractor’s current size status is appropriately recorded
+actions (see FAR 19.301-2 and 19.301-3) shall use either “Re-representation” or
+“Re-representation of Non-Novated Merger/Acquisition”, as appropriate,
+in the “Reason for Modification” field. When this value is used,
+FPDS allows the contracting officer to update the “Contracting Officer’s
+Determination of Business Size” data field. The contracting officer
+shall ensure that the contractor’s current size status is appropriately recorded
 on the modification contract action report. Subsequent contract
 action reports will reflect the size entered on this modification
 contract action report.</p>
@@ -1207,8 +1178,7 @@ contract action report.</p>
 “Termination for Default” or “Termination for Cause” in the “Reason
 for Modification” data field, the user must also report the termination
 to the Federal Awardee Performance and Integrity Information System
-(FAPIIS) in accordance with FAR
-42.1503(h) requirements.</p>
+(FAPIIS) in accordance with FAR 42.1503(h) requirements.</p>
          <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Reporting awards where the GPC is
 both the method of purchase and payment</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) Do not report open-market purchases
@@ -1239,34 +1209,29 @@ Officer’s Determination of Business Size” selection.</p>
 officers are not required to separately report such awards to FPDS.</p>
          <p outputclass="List2" class="- topic/p ">(6) <i class="+ topic/ph hi-d/i ">Using generic DUNS numbers</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) Generic DUNS numbers may only be used
-for reporting to FPDS in accordance with FAR 4.605(c) or paragraph 
-               <xref href="#DFARS-PGI_PGI_204.606"
+for reporting to FPDS in accordance with FAR 4.605(c) or paragraph <xref href="#DFARS-PGI_PGI_204.606"
                   base="DFARS-PGI_PGI_204.606"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.606</xref>
-            (5)(ii)(C)
-of this section. Note that if a generic DUNS number is used on the
+                  class="- topic/xref ">204.606</xref> (5)(ii)(C) of
+this section. Note that if a generic DUNS number is used on the
 report to FPDS, systems that prepopulate data based on the DUNS
 number reported to FPDS may not be able to use the DUNS number for
 further reporting on that contract action because the contractor
 identification information is not accurately reflected. For example,
 assessing officials cannot report past performance reports to the
 Contractor Performance Assessment Reporting System (CPARS) (see
-FAR Subpart 42.15)
-if a generic DUNS number was used to report the action to FPDS.
-Additionally, some reporting requirements placed on the contractor,
-such as subcontract reporting required by FAR subparts 4.14 and 19.7, are not able
-to be completed. Therefore, it is important that the use of generic
-DUNS numbers in reporting to FPDS be rare and only when necessary.</p>
+FAR Subpart 42.15) if a generic DUNS number was used to report the
+action to FPDS. Additionally, some reporting requirements placed
+on the contractor, such as subcontract reporting required by FAR
+subparts 4.14 and 19.7, are not able to be completed. Therefore,
+it is important that the use of generic DUNS numbers in reporting
+to FPDS be rare and only when necessary.</p>
          <p outputclass="List3" class="- topic/p ">(ii) The following generic DUNS numbers
 are available for use in contract reporting only if the conditions
-in FAR 4.605(c)
-or paragraph 
-               <xref href="#DFARS-PGI_PGI_204.606"
+in FAR 4.605(c) or paragraph <xref href="#DFARS-PGI_PGI_204.606"
                   base="DFARS-PGI_PGI_204.606"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.606</xref>
-            (5)(ii)(C)
+                  class="- topic/xref ">204.606</xref> (5)(ii)(C)
 of this section apply:</p>
          <p outputclass="List4" class="- topic/p ">(A) DUNS 167445928 – Student Workers in
 Laboratories. Used to report actions awarded to student workers
@@ -1321,10 +1286,11 @@ action reports indicates whether an award is still open or officially
 or order (i.e., includes all modifications to that contract or order).
 Values in this field will either be null (blank), indicating that
 the contract is still open; or “Closed,” indicating the contract
-or order has completed closeout activities in accordance with FAR 4.804, as supplemented. Awards
-without the “Closed” status are assumed to still be open and either
-still within the established delivery dates or period of performance,
-or in a post-performance period preparing for closeout.</p>
+or order has completed closeout activities in accordance with FAR
+4.804, as supplemented. Awards without the “Closed” status are assumed
+to still be open and either still within the established delivery
+dates or period of performance, or in a post-performance period
+preparing for closeout.</p>
          <p outputclass="List3" class="- topic/p ">(ii) The “Status” is changed to “Closed”
 in one of three ways:</p>
          <p outputclass="List4" class="- topic/p ">(A) User reports a modification using “Closeout”
