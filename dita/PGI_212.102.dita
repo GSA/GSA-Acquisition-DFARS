@@ -5,114 +5,171 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_212.102"
             outputclass="3"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 212.102</ph> Applicability.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(i) <i class="+ topic/ph hi-d/i ">Commercial item determination</i>.</p>
-         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised September 29, 2021" class="- topic/ph ">A</ph>) <i class="+ topic/ph hi-d/i ">Making
-the commercial item determination</i>.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">
-               <ph rev="Revised September 29, 2021" class="- topic/ph ">1</ph>
-            </i>)
-Before making a commercial item determination, the contracting officer
-shall search for a prior DoD commercial item determination (see
-paragraph (a)(ii)) for the same item in the DoD Commercial Item
-Database at h<?FM MARKER [Hypertext] message URL https://piee.eb.mil/?>ttps://piee.eb.mil/.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">
-               <ph rev="Revised September 29, 2021" class="- topic/ph ">2</ph>
-            </i>)
-In accordance with <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2380&amp;num=0&amp;edition=prelim"
+         <p outputclass="List4" class="- topic/p ">(A) <i class="+ topic/ph hi-d/i ">Making the commercial item determination</i>.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Before making a commercial item
+determination, the contracting officer shall search <ph rev="Revised October 29, 2021" class="- topic/ph ">the DoD Commercial Item Database
+at <xref href="https://piee.eb.mil"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://piee.eb.mil?>ttps://piee.eb.mil</xref> for
+the item and an associated commercial item determination or the decision
+that the item is not commercial in accordance with the commercial
+item definition at FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">2.101</xref>
+            </ph>.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) In accordance with <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2380&amp;num=0&amp;edition=prelim"
                   format="html"
                   scope="external"
-                  class="- topic/xref ">10 U.S.C. 2380</xref>(b)(1),
-the contracting officer may—</p>
-         <p outputclass="List7" class="- topic/p ">
-            <ph rev="Revised September 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">i</i>)
-Request support from the Defense Contract Management Agency (DCMA)
-by sending an email to DCMA Commercial Item Group (CIG) at d<?FM MARKER [Hypertext] message URL mailto:dcma.boston-ma.eastern-rc.mbx.Commercial@mail.mil?>cma.boston-ma.eastern-rc.mbx.Commercial@mail.mil;</ph>
-         </p>
-         <p outputclass="List7" class="- topic/p ">
-            <ph rev="Revised September 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">ii</i>)
-Request support from the cognizant Defense Contract Audit Agency
-(DCAA) office;</ph>
-         </p>
-         <p outputclass="List7" class="- topic/p ">
-            <ph rev="Revised September 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">iii</i>)
-Request support from other appropriate experts in DoD such as program
-office technical evaluators, program managers, cognizant engineers,
-or other contracting officers; or</ph>
-         </p>
-         <p outputclass="List7" class="- topic/p ">
-            <ph rev="Revised September 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">iv</i>)
-Consider the views of appropriate public and private sector entities
-such as documents provided by the contractor asserting commerciality
-to include technical drawings, product or catalog descriptions, or
-national stock numbers.</ph>
-         </p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">10
+U.S.C. 2380</xref>(b)(1), the contracting officer may—</p>
+         <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Request
+            support from the Defense Contract Management Agency (DCMA) by sending an email to DCMA
+            Commercial Item Group (CIG) at <xref href="mailto:dcma.boston-ma.eastern-rc.mbx.Commercial@mail.mil"
+                  class="- topic/xref "
+                  format="html"
+                  scope="external"><?FM MARKER [Hypertext] message URL mailto:dcma.boston-ma.eastern-rc.mbx.Commercial@mail.mil?></xref>;</p>
+         <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Request support from the cognizant
+Defense Contract Audit Agency (DCAA) office;</p>
+         <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iii</i>) Request support from other
+appropriate experts in DoD such as program office technical evaluators, program
+managers, cognizant engineers, or other contracting officers; or</p>
+         <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iv</i>) Consider the views of appropriate
+public and private sector entities such as documents provided by the
+contractor asserting commerciality to include technical drawings,
+product or catalog descriptions, or national stock numbers.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) The contracting officer may
+make the commercial item determination <ph rev="Revised October 29, 2021" class="- topic/ph ">or the decision that the item
+is not commercial in accordance with the commercial item definition
+at FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">2.101</xref>
+            </ph> or
+request a DCMA CIG contracting officer make the determination <ph rev="Revised October 29, 2021" class="- topic/ph ">or the decision that the item
+is not commercial in accordance with the commercial item definition
+at FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">2.101</xref>
+            </ph> by
+submitting a request to <xref format="html"
+                  scope="external"
+                  href="mailto:dcma.boston-ma.eastern-rc.mbx.Commercial@mail.mil"
+                  class="- topic/xref "><?FM MARKER [Hypertext] message URL mailto:dcma.boston-ma.eastern-rc.mbx.Commercial@mail.mil?></xref>.
+The contracting officer may withdraw the request<ph rev="Revised October 29, 2021" class="- topic/ph "> </ph>at any point
+prior to the determination being made.</p>
+         <p outputclass="List4" class="- topic/p ">(B) <i class="+ topic/ph hi-d/i ">Documenting the commercial item
+determination</i>.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>)The contracting officer making
+the determination shall document the market research and rationale
+supporting a conclusion that the item is <ph rev="Revised October 29, 2021" class="- topic/ph ">or is not commercial and include
+it in the contract file</ph>.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>)Particular care must be taken
+when documenting determinations involving “modifications of a type
+customarily available in the marketplace,” and items only “offered
+for sale, lease, or license to the general public” but not yet actually
+sold, leased, or licensed. In these situations, the documentation
+must clearly detail the particulars of the modifications and sales
+offers. When such items lack sufficient market pricing <ph rev="Revised October 29, 2021" class="- topic/ph ">information</ph>, additional
+diligence must be given to determinations that prices are fair and
+reasonable as required by FAR subpart 15.4.</p>
          <p outputclass="List6" class="- topic/p ">
-            <ph rev="Revised September 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">3</i>)
-The contracting officer may make the commercial item determination
-or request a (DCMA) CIG contracting officer make the determination
-by submitting a request to d<?FM MARKER [Hypertext] message URL mailto:dcma.boston-ma.eastern-rc.mbx.Commercial@mail.mil?>cma.boston-ma.eastern-rc.mbx.Commercial@mail.mil.
-The contracting officer may withdraw the request for a DCMA CIG
-commercial item determination at any point prior to the determination
-being made.</ph>
+            <ph rev="Revised October 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">3</i>)
+The contracting officer shall include the part number, the national
+stock number, or both, as applicable, in the commercial item determination
+or the decision that the item does not meet the commercial item
+definition at FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">2.101</xref>.</ph>
          </p>
-         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised September 29, 2021" class="- topic/ph ">B</ph>) <i class="+ topic/ph hi-d/i ">Documenting
-the commercial item determination</i>.</p>
-         <p outputclass="List6" class="- topic/p ">
-            <ph rev="Revised September 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">1</i>)The
-contracting officer making the determination shall document the
-market research and rationale supporting a conclusion that the item
-is commercial.</ph>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) <ph rev="Revised October 29, 2021" class="- topic/ph ">The
+contracting officer shall include the commercial item determination
+or the decision that the item does not meet the commercial item
+definition at FAR 2.101 in the contract file.</ph>
          </p>
-         <p outputclass="List6" class="- topic/p ">
-            <ph rev="Revised September 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">2</i>)
-Particular care must be taken when documenting determinations involving
-“modifications of a type customarily available in the marketplace,”
-and items only “offered for sale, lease, or license to the general public”
-but not yet actually sold, leased, or licensed. In these situations,
-the documentation must clearly detail the particulars of the modifications
-and sales offers. When such items lack sufficient market pricing history,
-additional diligence must be given to determinations that prices
-are fair and reasonable as required by FAR subpart 15.4.</ph>
-         </p>
-         <p outputclass="List6" class="- topic/p ">
-            <ph rev="Revised September 29, 2021" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">3</i>)
-Contracting officers shall include the commercial item determination
-in the contract file.</ph>
-         </p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">
-               <ph rev="Revised September 29, 2021" class="- topic/ph ">4</ph>
-            </i>) <i class="+ topic/ph hi-d/i ">DoD
+         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised October 29, 2021" class="- topic/ph ">C</ph>) <i class="+ topic/ph hi-d/i ">DoD
 commercial item database</i>. In accordance with <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2380&amp;num=0&amp;edition=prelim"
                   format="html"
                   scope="external"
-                  class="- topic/xref ">10 U.S.C. 2380</xref>(b)(2),
-within 30 days of contract award, the contracting officer making
-the determination shall upload the signed commercial item determination
-to the DoD Commercial Item Database at <ph rev="Revised September 29, 2021" class="- topic/ph ">
-               <xref href="https://piee.eb.mil"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">10
+U.S.C. 2380</xref>(b)(2), within 30 days of contract award, the
+contracting officer making the determination shall upload the signed
+commercial item determination <ph rev="Revised October 29, 2021" class="- topic/ph ">or
+the decision that the item does not meet the commercial item definition
+at FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
                      format="html"
                      scope="external"
-                     class="- topic/xref ">https://piee.eb.mil</xref>
-            </ph>.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Prior commercial item determination</i>.
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">2.101</xref>
+            </ph> to
+the DoD Commercial Item Database at <xref href="https://piee.eb.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https://piee.eb.mil?>ttps://piee.eb.mil</xref>. <ph rev="Revised October 29, 2021" class="- topic/ph ">The only documentation that
+is required to be uploaded to the database is the commercial item
+determination or the decision that the item is not commercial. Contracting
+officers shall avoid uploading any data marked as proprietary or
+controlled unclassified information to the Commercial Item Database.</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Prior commercial item determination</i>.</p>
+         <p outputclass="List4" class="- topic/p ">(<ph rev="Revised October 29, 2021" class="- topic/ph ">A</ph>)
 If a prior DoD commercial item determination for the same item is
 made by a military department, defense agency, or another component
 of DoD, contracting officers may presume that the prior commercial
 item determination shall serve as a determination for subsequent
 procurements of such item, unless the process is followed to overturn
 the prior determination (see DFARS <xref href="212.102.dita#DFARS-212.102"
-                  base="DFARS-212.102"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">212.102</xref>(a)(ii)(B)).</p>
-         <p outputclass="List3" class="- topic/p ">(<ph rev="Revised September 29, 2021" class="- topic/ph ">iv</ph>) <i class="+ topic/ph hi-d/i ">Commercial
-item guidebook</i>. See the Department of Defense Guidebook for
-Acquiring Commercial Items, Part A: Commercial Item Determination,
+                  class="- topic/xref "><?FM MARKER [Hypertext] message URL https://www.acq.osd.mil/dpap/dars/dfars/html/current/212_1.htm#212.102?>212.102</xref>(a)(ii)(B)). <ph rev="Revised October 29, 2021" class="- topic/ph ">If there is no prior commercial
+item determination, see PGI 212.102(a)(ii)(B)</ph>.</p>
+         <p outputclass="List4" class="- topic/p ">
+            <ph rev="Revised October 29, 2021" class="- topic/ph ">(B)
+If the DoD Commercial Item Database contains a prior decision that
+an item does not meet the definition of a commercial item at FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">2.101</xref>,
+the contracting officer may use the prior decision to serve as the
+decision for subsequent procurements of the same item. To promote
+consistent acquisition procedures across DoD, contracting officers
+should consult contracting activities that regularly procure the
+item to understand the basis for determining that the item does
+not meet the commercial item definition at FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">2.101</xref>.
+If there is no prior commercial item determination or prior decision
+that an item does not meet the definition of a commercial item at
+FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">2.101</xref>,
+see PGI 212.102(a)(i)(A).</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">(iv) <i class="+ topic/ph hi-d/i ">Commercial item guidebook</i>.
+See the <xref href="https://www.acq.osd.mil/dpap/dars/pgi/docs/DoD_Guidebook_PartA_Commercial_Item_Determination_07_10_19.pdf"
+                  format="pdf"
+                  scope="external"
+                  class="- topic/xref ">D<?FM MARKER [Hypertext] message URL https://www.acq.osd.mil/dpap/dars/pgi/docs/DoD_Guidebook_PartA_Commercial_Item_Determination_07_10_19.pdf?>epartment of Defense Guidebook
+for Acquiring Commercial Items, Part A: Commercial Item Determination</xref>,
 for detailed guidance and practical examples on improving the consistency
 and timeliness of commercial item determinations to include a template
 for new commercial item determinations and for general information

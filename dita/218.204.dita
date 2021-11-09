@@ -2,37 +2,45 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-218.204"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">218.204</ph> Humanitarian or peacekeeping operation.</title>
+         <ph props="autonumber" class="- topic/ph ">218.204</ph>
+         <ph rev="Revised October 29, 2021" class="- topic/ph "> Humanitarian or peacekeeping
+operation.</ph>
+      </title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">The following requirements do not apply to acquisitions that, as determined by the head of the contracting activity, are in support of humanitarian or peacekeeping operations:</p>
-         <p outputclass="List1" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Policy for item unique identification at <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+         <p class="- topic/p ">The following requirements do not apply to acquisitions
+that, as determined by the head of the contracting activity, are
+in support of humanitarian or peacekeeping operations:</p>
+         <p outputclass="List1" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Policy for item unique identification
+at <xref href="211.274-2.dita#DFARS-211.274-2"
                      base="DFARS-211.274-2"
-                     href="211.274-2.dita#DFARS-211.274-2">211.274-2</xref>(a).</i> See <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">211.274-2</xref>(a).</i> See <xref href="211.274-2.dita#DFARS-211.274-2"
                   base="DFARS-211.274-2"
-                  href="211.274-2.dita#DFARS-211.274-2">211.274-2</xref>(b).</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">211.274-2</xref>(b).</p>
          <p outputclass="List1" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Only one offer requirements at sections</i> 
-            <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+            <xref href="215.371-2.dita#DFARS-215.371-2"
                   base="DFARS-215.371-2"
-                  href="215.371-2.dita#DFARS-215.371-2">215.371-2</xref>. See <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">215.371-2</xref>. See <xref href="215.371-4.dita#DFARS-215.371-4"
                   base="DFARS-215.371-4"
-                  href="215.371-4.dita#DFARS-215.371-4">215.371-4</xref>(a)(2).</p>
-         <p outputclass="List1" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Approval of determination and findings for time-and-materials or labor-hour contracts at <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">215.371-4</xref>(a)(2).</p>
+         <p outputclass="List1" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Approval of determination and findings
+for time-and-materials or labor-hour contracts at <xref href="216.601.dita#DFARS-216.601"
                      base="DFARS-216.601"
-                     href="216.601.dita#DFARS-216.601">216.601</xref>(d)(i)(A)(1) and (2).</i> See <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">216.601</xref>(d)(i)(A)(1) and
+(2).</i> See <xref href="216.601.dita#DFARS-216.601"
                   base="DFARS-216.601"
-                  href="216.601.dita#DFARS-216.601">216.601</xref>(d)(3).</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">216.601</xref>(d)(3).</p>
       </conbody>
    </concept>
 </dita>

@@ -1,236 +1,341 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS-PART_208">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="DFARS-PART_208"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">PART 208 - REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="208.002.dita#DFARS-208.002">208.002 Priorities for use of mandatory supply sources.</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li rev="Revised October 29, 2021" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="208.002.dita#DFARS-208.002"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">208.002
+Priorities for use of mandatory Government supply sources.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.4.dita#DFARS-SUBPART_208.4">SUBPART 208.4 —FEDERAL SUPPLY SCHEDULES</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="SUBPART_208.4.dita#DFARS-SUBPART_208.4"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">SUBPART 208.4 —FEDERAL SUPPLY SCHEDULES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.404.dita#DFARS-208.404">208.404 Use of Federal Supply Schedules.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.404.dita#DFARS-208.404"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.404 Use of Federal Supply Schedules.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.405.dita#DFARS-208.405">208.405 Ordering procedures for Federal Supply Schedules.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.405.dita#DFARS-208.405"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.405
+Ordering procedures for Federal Supply Schedules.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="208.405-6.dita#DFARS-208.405-6">208.405-6 Limiting sources.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="208.405-6.dita#DFARS-208.405-6"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">208.405-6
+Limiting sources.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.406.dita#DFARS-208.406">208.406 Ordering activity responsibilities.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.406.dita#DFARS-208.406"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.406
+Ordering activity responsibilities.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="208.406-1.dita#DFARS-208.406-1">208.406-1 Order placement.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="208.406-1.dita#DFARS-208.406-1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">208.406-1 Order placement.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.6.dita#DFARS-SUBPART_208.6">SUBPART 208.6 —ACQUISITION FROM FEDERAL PRISON INDUSTRIES, INC.</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="SUBPART_208.6.dita#DFARS-SUBPART_208.6"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">SUBPART 208.6 —ACQUISITION FROM FEDERAL
+PRISON INDUSTRIES, INC.</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.602.dita#DFARS-208.602">208.602 Reserved</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.602.dita#DFARS-208.602"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.602
+Reserved</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="208.602-70.dita#DFARS-208.602-70">208.602-70 Acquisition of items for which FPI has a significant market share.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="208.602-70.dita#DFARS-208.602-70"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">208.602-70
+Acquisition of items for which FPI has a significant market share.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.606.dita#DFARS-208.606">208.606 Evaluating FPI performance.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.606.dita#DFARS-208.606"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.606
+Evaluating FPI performance.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.7.dita#DFARS-SUBPART_208.7">SUBPART 208.7 —ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="SUBPART_208.7.dita#DFARS-SUBPART_208.7"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">SUBPART 208.7 —ACQUISITION FROM NONPROFIT
+AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.705.dita#DFARS-208.705">208.705 Procedures.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.705.dita#DFARS-208.705"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.705 Procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.70.dita#DFARS-SUBPART_208.70">SUBPART 208.70 —COORDINATED ACQUISITION</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="SUBPART_208.70.dita#DFARS-SUBPART_208.70"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">SUBPART 208.70 —COORDINATED ACQUISITION</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7000.dita#DFARS-208.7000">208.7000 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7000.dita#DFARS-208.7000"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7000
+Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7001.dita#DFARS-208.7001">208.7001 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7001.dita#DFARS-208.7001"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7001 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7002.dita#DFARS-208.7002">208.7002 Assignment authority.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7002.dita#DFARS-208.7002"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7002 Assignment authority.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="208.7002-1.dita#DFARS-208.7002-1">208.7002-1 Acquiring department responsibilities.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="208.7002-1.dita#DFARS-208.7002-1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">208.7002-1
+Acquiring department responsibilities.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="208.7002-2.dita#DFARS-208.7002-2">208.7002-2 Requiring department responsibilities.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="208.7002-2.dita#DFARS-208.7002-2"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">208.7002-2 Requiring department responsibilities.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7003.dita#DFARS-208.7003">208.7003 Applicability.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7003.dita#DFARS-208.7003"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7003 Applicability.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="208.7003-1.dita#DFARS-208.7003-1">208.7003-1 Assignments under integrated materiel management (IMM).</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="208.7003-1.dita#DFARS-208.7003-1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">208.7003-1
+Assignments under integrated materiel management (IMM).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="208.7003-2.dita#DFARS-208.7003-2">208.7003-2 Assignments under coordinated acquisition.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="208.7003-2.dita#DFARS-208.7003-2"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">208.7003-2 Assignments under coordinated
+acquisition.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7004.dita#DFARS-208.7004">208.7004 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7004.dita#DFARS-208.7004"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7004 Procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7005.dita#DFARS-208.7005">208.7005 Military interdepartmental purchase requests.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7005.dita#DFARS-208.7005"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7005 Military interdepartmental purchase
+requests.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7006.dita#DFARS-208.7006">208.7006 Coordinated acquisition assignments.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.71.dita#DFARS-SUBPART_208.71">SUBPART 208.71 —ACQUISITION FOR NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA)</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7100.dita#DFARS-208.7100">208.7100 Authorization.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7101.dita#DFARS-208.7101">208.7101 Policy.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7102.dita#DFARS-208.7102">208.7102 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7006.dita#DFARS-208.7006"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7006 Coordinated acquisition assignments.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.72.dita#DFARS-SUBPART_208.72">SUBPART 208.72</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="SUBPART_208.71.dita#DFARS-SUBPART_208.71"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">SUBPART 208.71 —ACQUISITION FOR NATIONAL
+AERONAUTICS AND SPACE ADMINISTRATION (NASA)</xref>
                </p>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.73.dita#DFARS-SUBPART_208.73">SUBPART 208.73 —USE OF GOVERNMENT-OWNED PRECIOUS METALS</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7301.dita#DFARS-208.7301">208.7301 Definitions.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7100.dita#DFARS-208.7100"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7100
+Authorization.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7302.dita#DFARS-208.7302">208.7302 Policy.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7101.dita#DFARS-208.7101"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7101 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7303.dita#DFARS-208.7303">208.7303 Procedures.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7304.dita#DFARS-208.7304">208.7304 Refined precious metals.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7305.dita#DFARS-208.7305">208.7305 Contract clause.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7102.dita#DFARS-208.7102"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7102 Procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_208.74.dita#DFARS-SUBPART_208.74">SUBPART 208.74 —ENTERPRISE SOFTWARE AGREEMENTS</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="SUBPART_208.72.dita#DFARS-SUBPART_208.72"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">SUBPART 208.72</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7400.dita#DFARS-208.7400">208.7400 Scope of subpart.</xref>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="SUBPART_208.73.dita#DFARS-SUBPART_208.73"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">SUBPART 208.73 —USE OF GOVERNMENT-OWNED
+PRECIOUS METALS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7301.dita#DFARS-208.7301"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7301
+Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7401.dita#DFARS-208.7401">208.7401 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7302.dita#DFARS-208.7302"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7302 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7402.dita#DFARS-208.7402">208.7402 General.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7303.dita#DFARS-208.7303"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7303 Procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="208.7403.dita#DFARS-208.7403">208.7403 Acquisition procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7304.dita#DFARS-208.7304"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7304 Refined precious metals.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7305.dita#DFARS-208.7305"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7305 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="SUBPART_208.74.dita#DFARS-SUBPART_208.74"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">SUBPART 208.74 —ENTERPRISE SOFTWARE AGREEMENTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7400.dita#DFARS-208.7400"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7400
+Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7401.dita#DFARS-208.7401"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7401 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7402.dita#DFARS-208.7402"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7402 General.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="208.7403.dita#DFARS-208.7403"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">208.7403 Acquisition procedures.</xref>
                      </p>
                   </li>
                </ul>
