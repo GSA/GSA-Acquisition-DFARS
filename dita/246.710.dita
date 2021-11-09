@@ -2,65 +2,73 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-246.710"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">246.710</ph> Contract clauses.</title>
+         <ph props="autonumber" class="- topic/ph ">246.710</ph> 
+         <ph rev="Revised October 29, 2021" class="- topic/ph ">C</ph>ontract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1)  Use a clause substantially the same as the basic or one of the alternates of the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+         <p outputclass="List2" class="- topic/p ">(1) Use a clause substantially
+the same as the basic or one of the alternates of the clause at <xref href="252.246-7001.dita#DFARS-252.246-7001"
                   base="i1384018"
-                  href="252.246-7001.dita#DFARS-252.246-7001">252.246-7001</xref>
-            , Warranty of Data, in solicitations and contracts that include the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.246-7001</xref> , Warranty
+of Data, in solicitations and contracts that include the clause
+at <xref href="252.227-7013.dita#DFARS-252.227-7013"
                   base="i1382636"
-                  href="252.227-7013.dita#DFARS-252.227-7013">252.227-7013</xref>
-            , Rights in Technical Data and Computer Software, when there is a need for greater protection or period of liability than provided by the inspection and warranty clauses prescribed in FAR part 46.</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Use the basic clause in solicitations and contracts that are not firm-fixed price or fixed-price incentive.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Use alternate I in fixed-price-incentive solicitations and contracts.</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Use alternate II in firm-fixed-price solicitations and contracts.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.227-7013</xref> , Rights
+in Technical Data and Computer Software, when there is a need for
+greater protection or period of liability than provided by the inspection
+and warranty clauses prescribed in FAR part 46.</p>
+         <p outputclass="List3" class="- topic/p ">(i) Use the basic clause in solicitations
+and contracts that are not firm-fixed price or fixed-price incentive.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Use alternate I in fixed-price-incentive
+solicitations and contracts.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Use alternate II in firm-fixed-price
+solicitations and contracts.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Use the clause at <xref href="252.246-7002.dita#DFARS-252.246-7002"
                   base="i1384047"
-                  href="252.246-7002.dita#DFARS-252.246-7002">252.246-7002</xref>
-            , Warranty of Construction (Germany), instead of the clause at FAR 52.246-21, Warranty of Construction, in solicitations and contracts for construction when a fixed-price contract will be awarded and contract performance will be in Germany.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  When the solicitation includes the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.246-7002</xref> , Warranty
+of Construction (Germany), instead of the clause at FAR 52.246-21,
+Warranty of Construction, in solicitations and contracts for construction
+when a fixed-price contract will be awarded and contract performance
+will be in Germany.</p>
+         <p outputclass="List2" class="- topic/p ">(3) When the solicitation includes the
+clause at <xref href="252.211-7003.dita#DFARS-252.211-7003"
                   base="i1381238"
-                  href="252.211-7003.dita#DFARS-252.211-7003">252.211-7003</xref>
-            , Item Unique Identification and Valuation, which is prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.211-7003</xref> ,
+Item Unique Identification and Valuation, which is prescribed in <xref href="211.274-6.dita#DFARS-211.274-6"
                   base="i1377938"
-                  href="211.274-6.dita#DFARS-211.274-6">211.274-6</xref>
-            (a), and it is anticipated that the resulting contract will include a warranty for serialized items—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Use the provision at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">211.274-6</xref> (a), and it
+is anticipated that the resulting contract will include a warranty
+for serialized items—</p>
+         <p outputclass="List3" class="- topic/p ">(i) Use the provision at <xref href="252.246-7005.dita#DFARS-252.246-7005"
                   base="i1384066"
-                  href="252.246-7005.dita#DFARS-252.246-7005">252.246-7005</xref>
-            , Notice of Warranty Tracking of Serialized Items, in the solicitation if the Government does not specify a warranty and offerors will be required to enter data with the offer;</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.246-7005</xref> , Notice
+of Warranty Tracking of Serialized Items, in the solicitation if
+the Government does not specify a warranty and offerors will be
+required to enter data with the offer;</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Use the clause at <xref href="252.246-7006.dita#DFARS-252.246-7006"
                   base="i1384075"
-                  href="252.246-7006.dita#DFARS-252.246-7006">252.246-7006</xref>
-            , Warranty Tracking of Serialized Items, in the solicitation and contract; and</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Include the following warranty attachments, available at https://www.pdrep.csd.disa.mil/pdrep_files/other/wsr.htm, in the solicitation and contract and see 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.246-7006</xref> , Warranty
+Tracking of Serialized Items, in the solicitation and contract;
+and</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Include the following warranty attachments,
+available at https://www.pdrep.csd.disa.mil/pdrep_files/other/wsr.htm,
+in the solicitation and contract and see <xref href="246.710-70.dita#DFARS-246.710-70"
                   base="i1380685"
-                  href="246.710-70.dita#DFARS-246.710-70">246.710-70</xref>
-            :</p>
-         <p outputclass="List4" class="- topic/p ">(A)  Warranty Tracking Information.</p>
-         <p outputclass="List4" class="- topic/p ">(B)  Source of Repair Instructions.</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">246.710-70</xref> :</p>
+         <p outputclass="List4" class="- topic/p ">(A) Warranty Tracking Information.</p>
+         <p outputclass="List4" class="- topic/p ">(B) Source of Repair Instructions.</p>
       </conbody>
    </concept>
 </dita>

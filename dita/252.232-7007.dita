@@ -2,78 +2,156 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-252.232-7007"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.232-7007</ph> Limitation of Government’s Obligation.</title>
+         <ph props="autonumber" class="- topic/ph ">252.232-7007</ph> Limitation of
+Government’s Obligation.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1380169"
-                  href="232.705-70.dita#DFARS-232.705-70">232.705-70</xref>
-            , use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">LIMITATION OF GOVERNMENT’S OBLIGATION (APR 2014)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Contract line item(s)  <i class="+ topic/ph hi-d/i ">[Contracting Officer insert after negotiations]</i> is/are incrementally funded.  For this/these item(s), the sum of $ <i class="+ topic/ph hi-d/i ">[Contracting Officer insert after negotiations] </i> of the total price is presently available for payment and allotted to this contract.  An allotment schedule is set forth in paragraph (j) of this clause.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  For item(s) identified in paragraph (a) of this clause, the Contractor agrees to perform up to the point at which the total amount payable by the Government, including reimbursement in the event of termination of those item(s) for the Government’s convenience, approximates the total amount currently allotted to the contract.  The Contractor is not authorized to continue work on those item(s) beyond that point.  The Government will not be obligated in any event to reimburse the Contractor in excess of the amount allotted to the contract for those item(s) regardless of anything to the contrary in the clause entitled “Termination for Convenience of the Government.”  As used in this clause, the total amount payable by the Government in the event of termination of applicable contract line item(s) for convenience includes costs, profit, and estimated termination settlement costs for those item(s).</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Notwithstanding the dates specified in the allotment schedule in paragraph (j) of this clause, the Contractor will notify the Contracting Officer in writing at least ninety days prior to the date when, in the Contractor’s best judgment, the work will reach the point at which the total amount payable by the Government, including any cost for termination for convenience, will approximate 85 percent of the total amount then allotted to the contract for performance of the applicable item(s).  The notification will state (1) the estimated date when that point will be reached and (2) an estimate of additional funding, if any, needed to continue performance of applicable line items up to the next scheduled date for allotment of funds identified in paragraph (j) of this clause, or to a mutually agreed upon substitute date.  The notification will also advise the Contracting Officer of the estimated amount of additional funds that will be required for the timely performance of the item(s) funded pursuant to this clause, for a subsequent period as may be specified in the allotment schedule in paragraph (j) of this clause or otherwise agreed to by the parties.  If after such notification additional funds are not allotted by the date identified in the Contractor’s notification, or by an agreed substitute date, the Contracting Officer will terminate any item(s) for which additional funds have not been allotted, pursuant to the clause of this contract entitled “Termination for Convenience of the Government.”</p>
-         <p outputclass="List1" class="- topic/p ">(d)  When additional funds are allotted for continued performance of the contract line item(s) identified in paragraph (a) of this clause, the parties will agree as to the period of contract performance which will be covered by the funds.  The provisions of paragraphs (b) through (d) of this clause will apply in like manner to the additional allotted funds and agreed substitute date, and the contract will be modified accordingly.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  If, solely by reason of failure of the Government to allot additional funds, by the dates indicated below, in amounts sufficient for timely performance of the contract line item(s) identified in paragraph (a) of this clause, the Contractor incurs additional costs or is delayed in the performance of the work under this contract and if additional funds are allotted, an equitable adjustment will be made in the price or prices (including appropriate target, billing, and ceiling prices where applicable) of the item(s), or in the time of delivery, or both.  Failure to agree to any such equitable adjustment hereunder will be a dispute concerning a question of fact within the meaning of the clause entitled “Disputes.”</p>
-         <p outputclass="List1" class="- topic/p ">(f)  The Government may at any time prior to termination allot additional funds for the performance of the contract line item(s) identified in paragraph (a) of this clause.</p>
-         <p outputclass="List1" class="- topic/p ">(g)  The termination provisions of this clause do not limit the rights of the Government under the clause entitled “Default.”  The provisions of this clause are limited to the work and allotment of funds for the contract line item(s) set forth in paragraph (a) of this clause.  This clause no longer applies once the contract is fully funded except with regard to the rights or obligations of the parties concerning equitable adjustments negotiated under paragraphs (d) and (e) of this clause.</p>
-         <p outputclass="List1" class="- topic/p ">(h)  Nothing in this clause affects the right of the Government to terminate this contract pursuant to the clause of this contract entitled “Termination for Convenience of the Government.”</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Nothing in this clause shall be construed as authorization of voluntary services whose acceptance is otherwise prohibited under 31 U.S.C. 1342.</p>
-         <p outputclass="List1" class="- topic/p ">(j)  The parties contemplate that the Government will allot funds to this contract in accordance with the following schedule:</p>
+         <p class="- topic/p ">As prescribed in<ph rev="Revised October 29, 2021" class="- topic/ph ">
+               <xref href="232.706-70.dita#DFARS-232.706-70"
+                     base="i1380169"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "> 232.706-70</xref>
+            </ph>, use
+the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">LIMITATION OF GOVERNMENT’S OBLIGATION
+(APR 2014)</p>
+         <p outputclass="List1" class="- topic/p ">(a) Contract line item(s) <i class="+ topic/ph hi-d/i ">[Contracting
+Officer insert after negotiations]</i> is/are incrementally funded.
+For this/these item(s), the sum of $ <i class="+ topic/ph hi-d/i ">[Contracting Officer insert
+after negotiations]</i> of the total price is presently available
+for payment and allotted to this contract. An allotment schedule
+is set forth in paragraph (j) of this clause.</p>
+         <p outputclass="List1" class="- topic/p ">(b) For item(s) identified in paragraph
+(a) of this clause, the Contractor agrees to perform up to the point
+at which the total amount payable by the Government, including reimbursement
+in the event of termination of those item(s) for the Government’s
+convenience, approximates the total amount currently allotted to
+the contract. The Contractor is not authorized to continue work
+on those item(s) beyond that point. The Government will not be obligated
+in any event to reimburse the Contractor in excess of the amount
+allotted to the contract for those item(s) regardless of anything
+to the contrary in the clause entitled “Termination for Convenience
+of the Government.” As used in this clause, the total amount payable
+by the Government in the event of termination of applicable contract
+line item(s) for convenience includes costs, profit, and estimated
+termination settlement costs for those item(s).</p>
+         <p outputclass="List1" class="- topic/p ">(c) Notwithstanding the dates specified
+in the allotment schedule in paragraph (j) of this clause, the Contractor
+will notify the Contracting Officer in writing at least ninety days
+prior to the date when, in the Contractor’s best judgment, the work will
+reach the point at which the total amount payable by the Government,
+including any cost for termination for convenience, will approximate
+85 percent of the total amount then allotted to the contract for
+performance of the applicable item(s). The notification will state
+(1) the estimated date when that point will be reached and (2) an
+estimate of additional funding, if any, needed to continue performance
+of applicable line items up to the next scheduled date for allotment
+of funds identified in paragraph (j) of this clause, or to a mutually
+agreed upon substitute date. The notification will also advise the
+Contracting Officer of the estimated amount of additional funds
+that will be required for the timely performance of the item(s)
+funded pursuant to this clause, for a subsequent period as may be
+specified in the allotment schedule in paragraph (j) of this clause
+or otherwise agreed to by the parties. If after such notification
+additional funds are not allotted by the date identified in the
+Contractor’s notification, or by an agreed substitute date, the
+Contracting Officer will terminate any item(s) for which additional
+funds have not been allotted, pursuant to the clause of this contract
+entitled “Termination for Convenience of the Government.”</p>
+         <p outputclass="List1" class="- topic/p ">(d) When additional funds are allotted
+for continued performance of the contract line item(s) identified
+in paragraph (a) of this clause, the parties will agree as to the
+period of contract performance which will be covered by the funds.
+The provisions of paragraphs (b) through (d) of this clause will
+apply in like manner to the additional allotted funds and agreed
+substitute date, and the contract will be modified accordingly.</p>
+         <p outputclass="List1" class="- topic/p ">(e) If, solely by reason of failure of
+the Government to allot additional funds, by the dates indicated
+below, in amounts sufficient for timely performance of the contract
+line item(s) identified in paragraph (a) of this clause, the Contractor
+incurs additional costs or is delayed in the performance of the
+work under this contract and if additional funds are allotted, an equitable
+adjustment will be made in the price or prices (including appropriate
+target, billing, and ceiling prices where applicable) of the item(s),
+or in the time of delivery, or both. Failure to agree to any such
+equitable adjustment hereunder will be a dispute concerning a question
+of fact within the meaning of the clause entitled “Disputes.”</p>
+         <p outputclass="List1" class="- topic/p ">(f) The Government may at any time prior
+to termination allot additional funds for the performance of the
+contract line item(s) identified in paragraph (a) of this clause.</p>
+         <p outputclass="List1" class="- topic/p ">(g) The termination provisions of this
+clause do not limit the rights of the Government under the clause
+entitled “Default.” The provisions of this clause are limited to
+the work and allotment of funds for the contract line item(s) set
+forth in paragraph (a) of this clause. This clause no longer applies
+once the contract is fully funded except with regard to the rights
+or obligations of the parties concerning equitable adjustments negotiated
+under paragraphs (d) and (e) of this clause.</p>
+         <p outputclass="List1" class="- topic/p ">(h) Nothing in this clause affects the
+right of the Government to terminate this contract pursuant to the
+clause of this contract entitled “Termination for Convenience of
+the Government.”</p>
+         <p outputclass="List3" class="- topic/p ">(i) Nothing in this clause shall be construed
+as authorization of voluntary services whose acceptance is otherwise
+prohibited under 31 U.S.C. 1342.</p>
+         <p outputclass="List1" class="- topic/p ">(j) The parties contemplate that the Government
+will allot funds to this contract in accordance with the following
+schedule:</p>
          <p class="- topic/p "/>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="2"
-                    colsep="1"
+                    colsep="0"
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
                <colspec colnum="1"
                         colname="1"
                         colwidth="74*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        colsep="0"
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="26*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        colsep="0"
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">On execution of contract</p>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">  
+                        <p class="- topic/p ">On execution
+of contract</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">$ ________</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">(month) (day), (year)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">$ ________</p>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">(month) (day), (year)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">$ ________</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">(month) (day),
+(year)</p>
+                     </entry>
+                     <entry colname="2" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">$ ________</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">(month) (day),
+(year)</p>
+                     </entry>
+                     <entry colname="2" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">$ ________</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" class="- topic/entry ">
                         <p class="- topic/p ">(month) (day), (year)</p>
                      </entry>
-                     <entry class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">$ ________</p>
                      </entry>
                   </row>

@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-		<topic id="DFARS-SUBPART_222.6">
-			   <title outputclass="Subpart">
-				     <ph props="autonumber" class="- topic/ph ">SUBPART 222.6</ph> — CONTRACTS FOR MATERIALS, SUPPLIES, ARTICLES, AND EQUIPMENT EXCEEDING $15,000</title>
-		</topic>
-	</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="DFARS-SUBPART_222.6"
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
+      <title outputclass="Subpart" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">SUBPART
+222.6</ph>—CONTRACTS FOR MATERIALS, SUPPLIES, ARTICLES, AND EQUIPMENT<ph rev="Revised October 29, 2021" class="- topic/ph "> </ph>
+      </title>
+   </topic>
+</dita>

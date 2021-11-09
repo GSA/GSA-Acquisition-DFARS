@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-		<topic id="DFARS-SUBPART_225.74">
-			   <title outputclass="Subpart">
-				     <ph props="autonumber" class="- topic/ph ">SUBPART 225.74</ph> —DEFENSE CONTRACTORS OUTSIDE THE UNITED STATES</title>
-			   <titlealts class="- topic/titlealts ">
-				     <searchtitle xtrf="Removed"
-                      xtrc="Ctr"
-                      translate="no"
-                      class="- topic/searchtitle ">(Removed June 26, 2015)</searchtitle>
-			   </titlealts>
-		</topic>
-	</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="DFARS-SUBPART_225.74"
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
+      <title outputclass="Subpart" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">SUBPART
+225.74</ph>—<ph rev="Revised October 29, 2021" class="- topic/ph ">Reserved</ph>
+      </title>
+      <body class="- topic/body "/>
+   </topic>
+</dita>
