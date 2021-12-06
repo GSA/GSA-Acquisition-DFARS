@@ -4,13 +4,12 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <topic id="DFARS-PART_215"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
           ditaarch:DITAArchVersion="1.2"
           class="- topic/topic ">
       <title class="- topic/title ">PART 215 - CONTRACTING BY NEGOTIATION</title>
       <body class="- topic/body ">
          <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" rev="Revised October 29, 2021" class="- topic/li ">
+            <li props="Subpart" class="- topic/li ">
                <p class="- topic/p ">
                   <xref href="SUBPART_215.1.dita#DFARS-SUBPART_215.1"
                         outputclass="fm:TOC"
@@ -243,7 +242,7 @@ the requirement for additional cost or pricing data.</xref>
                         class="- topic/xref ">SUBPART 215.4 —CONTRACT PRICING</xref>
                </p>
                <ul otherprops="TOC" class="- topic/ul ">
-                  <li rev="Revised October 29, 2021" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref href="215.401.dita#DFARS-215.401"
                               outputclass="fm:TOC"
@@ -434,7 +433,7 @@ RESERVED</xref>
 Prenegotiation objectives.</xref>
                            </p>
                         </li>
-                        <li rev="Revised October 29, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="215.406-2.dita#DFARS-215.406-2"
                                     outputclass="fm:TOC"

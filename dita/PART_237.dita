@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <topic id="DFARS-PART_237"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
           ditaarch:DITAArchVersion="1.2"
           class="- topic/topic ">
       <title class="- topic/title ">PART 237 - SERVICE CONTRACTING</title>
@@ -78,12 +77,11 @@ of services, and supplies and equipment.</xref>
                                     class="- topic/xref ">237.102-75 Defense Acquisition Guidebook.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
+                        <li class="- topic/li " rev="Revised November 30, 2021">
                            <p class="- topic/p ">
                               <xref href="237.102-76.dita#DFARS-237.102-76"
                                     outputclass="fm:TOC"
-                                    class="- topic/xref ">237.102-76 Review criteria for the acquisition
-of services.</xref>
+                                    class="- topic/xref ">237.102-76 Reserved.</xref>
                            </p>
                         </li>
                         <li class="- topic/li ">
@@ -524,7 +522,7 @@ Definition.</xref>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" rev="Revised October 29, 2021" class="- topic/li ">
+            <li props="Subpart" class="- topic/li ">
                <p class="- topic/p ">
                   <xref href="SUBPART_237.76.dita#DFARS-SUBPART_237.76"
                         outputclass="fm:TOC"
