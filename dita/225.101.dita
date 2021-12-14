@@ -2,21 +2,28 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-225.101"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.101</ph> GENERAL.</title>
+         <ph props="autonumber" class="- topic/ph ">225.101</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) For DoD, the following two-part test determines whether a manufactured end product is a domestic end product:</p>
-         <p outputclass="List3" class="- topic/p ">(i) The end product is manufactured in the United States; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The cost of its U.S. and qualifying country components exceeds 50 percent of the cost of all its components. This test is applied to end products only and not to individual components.</p>
-         <p outputclass="List1" class="- topic/p ">(c) Additional exceptions that allow the purchase of foreign end products are listed at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+         <p outputclass="List1" class="- topic/p ">(a) For DoD, the following two-part
+test determines whether a manufactured end product is a domestic
+end product:</p>
+         <p outputclass="List3" class="- topic/p ">(i) The end product is manufactured in
+the United States; and</p>
+         <p outputclass="List3" class="- topic/p ">(ii) The cost of its U.S. and qualifying
+country components exceeds 50 percent of the cost of all its components.
+This test is applied to end products only and not to individual
+components.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Additional exceptions that allow the
+purchase of foreign end products are listed at <xref href="225.103.dita#DFARS-225.103"
                   base="DFARS-225.103"
-                  href="225.103.dita#DFARS-225.103">225.103</xref>.</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">225.103</xref>.</p>
       </conbody>
    </concept>
 </dita>
