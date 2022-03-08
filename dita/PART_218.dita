@@ -1,86 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <topic id="DFARS-PART_218"
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS-PART_218">
       <title class="- topic/title ">PART 218 - EMERGENCY ACQUISITIONS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="SUBPART_218.1.dita#DFARS-SUBPART_218.1"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">SUBPART 218.1 —AVAILABLE ACQUISITION
-FLEXIBILITIES</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_218.1.dita#DFARS-SUBPART_218.1">SUBPART 218.1 —AVAILABLE ACQUISITION FLEXIBILITIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="218.170.dita#DFARS-218.170"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">218.170
-Additional acquisition flexibilities.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.170.dita#DFARS-218.170">218.170 Additional acquisition flexibilities.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="SUBPART_218.2.dita#DFARS-SUBPART_218.2"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">SUBPART 218.2 —EMERGENCY ACQUISITION
-FLEXIBILITIES</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_218.2.dita#DFARS-SUBPART_218.2">SUBPART 218.2 —EMERGENCY ACQUISITION FLEXIBILITIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="218.201.dita#DFARS-218.201"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">218.201
-Contingency operation.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.201.dita#DFARS-218.201">218.201 Contingency operation.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="218.202.dita#DFARS-218.202"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">218.202
-Defense or recovery from certain events.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.202.dita#DFARS-218.202">218.202 Defense or recovery from certain events.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="218.203.dita#DFARS-218.203"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">218.203
-Emergency declaration, or major disaster declaration.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.203.dita#DFARS-218.203">218.203 Emergency declaration, or major disaster declaration.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="218.204.dita#DFARS-218.204"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">218.204
-Humanitarian or peacekeeping operation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.204.dita#DFARS-218.204">218.204 Humanitarian or peacekeeping operation.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="218.270.dita#DFARS-218.270"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">218.270
-Head of contracting activity determinations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.270.dita#DFARS-218.270">218.270 Head of contracting activity determinations.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="218.271.dita#DFARS-218.271"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">218.271
-Use of electronic business tools.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.271.dita#DFARS-218.271">218.271 Use of electronic business tools.</xref>
                      </p>
                   </li>
                </ul>

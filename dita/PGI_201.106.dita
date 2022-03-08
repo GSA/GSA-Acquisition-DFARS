@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_201.106"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -26,14 +25,12 @@ control numbers apply:</p>
                         colname="1"
                         colwidth="49*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="51*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -144,6 +141,20 @@ control numbers apply:</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">
+                           <xref href="SUBPART_245.1.dita#DFARS-SUBPART_245.1"
+                                 base="DFARS-245.302"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">245.1</xref> 
+                           <ph rev="Revised February 28, 2022" class="- topic/ph "/>
+                        </p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0557</ph>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">
                            <xref href="245.302.dita#DFARS-245.302"
                                  base="DFARS-245.302"
                                  outputclass="fm:ParaNumOnly"
@@ -155,9 +166,7 @@ control numbers apply:</p>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           245.604-3(b)
-and3(d)</p>
+                        <p class="- topic/p ">245.604-3(b) and3(d)</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">0704-0246</p>
@@ -213,6 +222,21 @@ and3(d)</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">0704-0478</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="252.204-7023.dita#DFARS-252.204-7023"
+                                 base="DFARS-252.204-7012"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0519</ph>
+                        </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -374,6 +398,36 @@ and3(d)</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">
+                           <xref href="252.215-7008.dita#DFARS-252.215-7008"
+                                 base="DFARS-252.204-7012"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">252.215-7008</xref>
+                        </p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0574</ph>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="252.215-7010.dita#DFARS-252.215-7010"
+                                 base="DFARS-252.204-7012"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">252.215-7010</xref>
+                        </p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0574</ph>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">
                            <xref href="252.216-7000.dita#DFARS-252.216-7000"
                                  base="DFARS-252.216-7000"
                                  outputclass="fm:ParaNumOnly"
@@ -406,7 +460,7 @@ and3(d)</p>
                                  class="- topic/xref ">252.216-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p class="- topic/p ">0704-0259</p>
                      </entry>
                   </row>
@@ -563,7 +617,7 @@ and3(d)</p>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                        <p class="- topic/p ">0704-0229</p>  
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -1154,19 +1208,6 @@ and3(d)</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">
-                           <xref href="252.239-7006.dita#DFARS-252.239-7006"
-                                 base="DFARS-252.239-7006"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.239-7006</xref>
-                        </p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0341</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
                            <xref href="252.239-7009.dita#DFARS-252.239-7009"
                                  base="DFARS-252.239-7009"
                                  outputclass="fm:ParaNumOnly"
@@ -1265,7 +1306,9 @@ and3(d)</p>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0481</p>
+                        <p class="- topic/p ">
+                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0441</ph>
+                        </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -1278,7 +1321,9 @@ and3(d)</p>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0481</p>
+                        <p class="- topic/p ">
+                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0441</ph>
+                        </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -1291,7 +1336,8 @@ and3(d)</p>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0541</p>
+                        <p class="- topic/p ">0704-0<ph rev="Revised February 28, 2022" class="- topic/ph ">441</ph>
+                        </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">

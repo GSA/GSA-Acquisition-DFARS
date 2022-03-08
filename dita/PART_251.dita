@@ -1,72 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <topic id="DFARS-PART_251"
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS-PART_251">
       <title class="- topic/title ">PART 251 - USE OF GOVERNMENT SOURCES BY CONTRACTORS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="SUBPART_251.1.dita#DFARS-SUBPART_251.1"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">SUBPART 251.1 —CONTRACTOR USE OF GOVERNMENT
-SUPPLY SOURCES</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_251.1.dita#DFARS-SUBPART_251.1">SUBPART 251.1 —CONTRACTOR USE OF GOVERNMENT SUPPLY SOURCES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="251.101.dita#DFARS-251.101"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">251.101
-Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="251.101.dita#DFARS-251.101">251.101 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="251.102.dita#DFARS-251.102"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">251.102
-Authorization to use Government supply sources.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="251.102.dita#DFARS-251.102">251.102 Authorization to use Government supply sources.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="251.107.dita#DFARS-251.107"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">251.107
-Contract clause.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="251.107.dita#DFARS-251.107">251.107 Contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="SUBPART_251.2.dita#DFARS-SUBPART_251.2"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">SUBPART 251.2 —CONTRACTOR USE OF INTERAGENCY
-FLEET MANAGEMENT SYSTEM (IFMS)  </xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="251.202.dita#DFARS-251.202">251.202 Authorization.</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="251.202.dita#DFARS-251.202"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">251.202 Authorization.</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="251.205.dita#DFARS-251.205"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">251.205
-Contract clause.</xref>
-                     </p>
-                  </li>
-               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="251.205.dita#DFARS-251.205">251.205 Contract clause.</xref>
+               </p>
             </li>
          </ul>
       </body>
