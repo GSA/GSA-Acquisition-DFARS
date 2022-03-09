@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-225.7017-3"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -26,7 +25,7 @@ countries, as defined in <xref href="225.003.dita#DFARS-225.003"
                   class="- topic/xref ">225.003</xref> . </p>
          <p outputclass="List1" class="- topic/p ">(b) Buy American—unreasonable cost. For
 a covered contract that utilizes photovoltaic devices valued at
-less than <ph rev="Revised December 30, 2021" class="- topic/ph ">$183,000</ph>, the
+less than <ph class="- topic/ph ">$183,000</ph>, the
 exception for unreasonable cost may apply (see FAR 25.103(c). If
 the cost of a foreign photovoltaic device plus 50 percent is less
 than the cost of a domestic photovoltaic device, then the foreign
@@ -40,7 +39,7 @@ under the acquisition by a Free Trade Agreement, depending upon
 dollar threshold (see FAR subpart 25.4).</p>
          <p outputclass="List2" class="- topic/p ">(2) World Trade Organization—Government
 Procurement Agreement. For covered contracts that utilize photovoltaic devices
-that are valued at <ph rev="Revised December 30, 2021" class="- topic/ph ">$183,000</ph> or
+that are valued at <ph class="- topic/ph ">$183,000</ph> or
 more, only U.S.-made photovoltaic devices, designated country photovoltaic devices,
 or qualifying country photovoltaic devices may be utilized.</p>
       </conbody>

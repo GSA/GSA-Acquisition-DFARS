@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-237.102-71"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-237.102-71" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">237.102-71</ph> Limitation on service contracts for military flight simulators.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -23,10 +18,7 @@
          <p outputclass="List4" class="- topic/p ">(C)  A discussion of the benefits to be realized from the alternative.</p>
          <p outputclass="List4" class="- topic/p ">(D)  A best value determination of each alternative and a detailed explanation of the life-cycle cost calculations used in the determination.</p>
          <p outputclass="List1" class="- topic/p ">(c)  When reviewing requirements or participating in acquisition planning that would result in a military department or defense agency acquiring a military flight simulator, the contracting officer shall notify the program officials of the prohibition in paragraph (b) of this subsection.  If the program officials decide to request a waiver from the Secretary of Defense under paragraph (b) of this subsection, the contracting officer shall follow the procedures at PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_237.102-71"
-                  href="PGI_237.102-71.dita#DFARS-PGI_PGI_237.102-71">237.102-71</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_237.102-71" href="PGI_237.102-71.dita#DFARS-PGI_PGI_237.102-71" xtrc="237.102-71">PGI 237.102-71</xref>
             .</p>
       </conbody>
    </concept>

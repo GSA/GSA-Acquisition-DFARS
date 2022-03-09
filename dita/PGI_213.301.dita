@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_213.301"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_213.301" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 213.301</ph> Governmentwide commercial purchase card.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List2" class="- topic/p ">(1) A Governmentwide commercial purchase card program is a program that is authorized pursuant to a delegation of contracting authority and designation as a DoD contracting activity for the purpose of streamlining the purchase and payment processes for supplies and services by use of a Government-issued purchase card.</p>
          <p outputclass="List2" class="- topic/p ">(2) Governmentwide commercial purchase card programs cannot be established or operated unless contracting authority is granted in accordance with governing laws and regulations, and delegated through a contracting activity identified at PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_202.101"
-                  href="PGI_202.101.dita#DFARS-PGI_PGI_202.101">202.101</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_202.101" href="PGI_202.101.dita#DFARS-PGI_PGI_202.101" xtrc="202.101">PGI 202.101</xref>
             . Further guidance regarding establishment, operation, and oversight of Governmentwide commercial purchase card programs can be found in the “Department of Defense Government Charge Card Guidebook for Establishing and Managing Purchase, Travel, and Fuel Card Programs” at http://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html.</p>
       </conbody>
    </concept>

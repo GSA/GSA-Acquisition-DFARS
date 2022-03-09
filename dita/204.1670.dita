@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-204.1670"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-204.1670" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">204.1670</ph> Cross reference to
 Federal Procurement Data System.</title>
@@ -13,10 +9,7 @@ Federal Procurement Data System.</title>
          <p class="- topic/p ">Detailed guidance on mapping PIID and supplementary
 PIID numbers stored in the Electronic Data Access system to data elements
 reported in the Federal Procurement Data System can be found in
-PGI <xref href="PGI_204.1670.dita#DFARS-PGI_PGI_204.1670"
-                  base="DFARS-PGI_PGI_204.1670"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.1670</xref>.</p>
+PGI <xref href="PGI_204.1670.dita#DFARS-PGI_PGI_204.1670" base="DFARS-PGI_PGI_204.1670" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="204.1670">PGI 204.1670</xref>.</p>
       </conbody>
    </concept>
 </dita>
