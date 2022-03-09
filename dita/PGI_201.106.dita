@@ -1,1545 +1,1433 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-PGI_PGI_201.106"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 201.106</ph> OMB approval under
-the Paperwork Reduction Act.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">The information collection and record keeping requirements
-contained in the Defense Federal Acquisition Regulations Supplement
-(DFARS) and Procedures, Guidance, and Information (PGI) have been
-approved by the Office of Management and Budget. The following OMB
-control numbers apply:</p>
-         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="49*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="51*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <thead class="- topic/thead ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">DFARS Segment</p>
+<dita>
+   <concept id="DFARS-PGI_PGI_201.106">
+      <title>
+         <ph props="autonumber">PGI 201.106</ph> OMB approval under the Paperwork Reduction Act.</title>
+      <conbody>
+         <p id="uLKdAg">The information collection and record keeping requirements contained in the Defense Federal Acquisition Regulations Supplement (DFARS) and Procedures, Guidance, and Information (PGI) have been approved by the Office of Management and Budget. The following OMB control numbers apply:</p>
+         <table colsep="0" rowsep="0">
+            <tgroup cols="2" colsep="0" outputclass="Table" rowsep="0">
+               <thead>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="qhKXez">DFARS Segment</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">OMB Control No.</p>
+                     <entry colname="2">
+                        <p id="YqmGHL">OMB Control No.</p>
                      </entry>
                   </row>
                </thead>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="215.403-5.dita#DFARS-215.403-5"
-                                 base="DFARS-215.403-5"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">215.403-5</xref>
+               <tbody>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="lCyegz">
+                           <xref base="DFARS-215.403-5"
+                                 href="215.403-5.dita#DFARS-215.403-5"
+                                 outputclass="fm:ParaNumOnly">215.403-5</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0497</p>
+                     <entry colname="2">
+                        <p id="SDQTyD">0704-0497</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="217.7004.dita#DFARS-217.7004"
-                                 base="DFARS-217.7004"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">217.7004</xref>(a)</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="wkmHBh">
+                           <xref base="DFARS-217.7004"
+                                 href="217.7004.dita#DFARS-217.7004"
+                                 outputclass="fm:ParaNumOnly">217.7004</xref>(a)</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0214</p>
+                     <entry colname="2">
+                        <p id="jLeIOt">0704-0214</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="217.7404-3.dita#DFARS-217.7404-3"
-                                 base="DFARS-217.7404-3"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">217.7404-3</xref>(b)</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="IOVLbD">
+                           <xref base="DFARS-217.7404-3"
+                                 href="217.7404-3.dita#DFARS-217.7404-3"
+                                 outputclass="fm:ParaNumOnly">217.7404-3</xref>(b)</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0214</p>
+                     <entry colname="2">
+                        <p id="nVSTCA">0704-0214</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="217.7505.dita#DFARS-217.7505"
-                                 base="DFARS-217.7505"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">217.7505</xref>(d)</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="rpyFUG">
+                           <xref base="DFARS-217.7505"
+                                 href="217.7505.dita#DFARS-217.7505"
+                                 outputclass="fm:ParaNumOnly">217.7505</xref>(d)</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0214</p>
+                     <entry colname="2">
+                        <p id="CoCMyu">0704-0214</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="231.205-18.dita#DFARS-231.205-18"
-                                 base="DFARS-231.205-18"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">231.205-18</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="vreAWp">
+                           <xref base="DFARS-231.205-18"
+                                 href="231.205-18.dita#DFARS-231.205-18"
+                                 outputclass="fm:ParaNumOnly">231.205-18</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0483</p>
+                     <entry colname="2">
+                        <p id="JSdqfT">0704-0483</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">232.10</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="eCSFtH">232.10</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0359</p>
+                     <entry colname="2">
+                        <p id="HSKoGe">0704-0359</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="239.7408.dita#DFARS-239.7408"
-                                 base="DFARS-239.7408"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">239.7408</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="lEzJaA">
+                           <xref base="DFARS-239.7408"
+                                 href="239.7408.dita#DFARS-239.7408"
+                                 outputclass="fm:ParaNumOnly">239.7408</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0341</p>
+                     <entry colname="2">
+                        <p id="qPViOL">0704-0341</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="242.1106.dita#DFARS-242.1106"
-                                 base="DFARS-242.1106"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">242.1106</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="BFIgWB">
+                           <xref base="DFARS-242.1106"
+                                 href="242.1106.dita#DFARS-242.1106"
+                                 outputclass="fm:ParaNumOnly">242.1106</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0250</p>
+                     <entry colname="2">
+                        <p id="yGkwCv">0704-0250</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="SUBPART_245.1.dita#DFARS-SUBPART_245.1"
-                                 base="DFARS-245.302"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">245.1</xref> 
-                           <ph rev="Revised February 28, 2022" class="- topic/ph "/>
+                  <row>
+                     <entry colname="1">
+                        <p id="PcfPzC">
+                           <ph id="kr99fz7" rev="Revised 28, 2022 February">
+                              <xref href="SUBPART_245.1.dita#DFARS-SUBPART_245.1"
+                                    outputclass="fm:ParaNumOnly">245.1</xref>
+                           </ph>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0557</ph>
+                     <entry colname="2">
+                        <p id="piHkuj">
+                           <ph id="750zxu4p" rev="Revised 28, 2022 February">0704-0557</ph>
+                        </p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="245.302.dita#DFARS-245.302"
-                                 base="DFARS-245.302"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">245.302</xref>(1)(i)</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="UmCbLG">
+                           <xref base="DFARS-245.302"
+                                 href="245.302.dita#DFARS-245.302"
+                                 outputclass="fm:ParaNumOnly">245.302</xref>(1)(i)</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0246</p>
+                     <entry colname="2">
+                        <p id="AOcTZM">0704-0246</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">245.604-3(b) and3(d)</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="VkbgwF">245.604-3(b) and3(d)</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0246</p>
+                     <entry colname="2">
+                        <p id="DisIhv">0704-0246</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.204-7000.dita#DFARS-252.204-7000"
-                                 base="DFARS-252.204-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.204-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="uGYwUl">
+                           <xref base="DFARS-252.204-7000"
+                                 href="252.204-7000.dita#DFARS-252.204-7000"
+                                 outputclass="fm:ParaNumOnly">252.204-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0225</p>
+                     <entry colname="2">
+                        <p id="cCxAYj">0704-0225</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.204-7008.dita#DFARS-252.204-7008"
-                                 base="DFARS-252.204-7008"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.204-7008</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="IyOfti">
+                           <xref base="DFARS-252.204-7008"
+                                 href="252.204-7008.dita#DFARS-252.204-7008"
+                                 outputclass="fm:ParaNumOnly">252.204-7008</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0478</p>
+                     <entry colname="2">
+                        <p id="EMbBLg">0704-0478</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.204-7010.dita#DFARS-252.204-7010"
-                                 base="DFARS-252.204-7010"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.204-7010</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ujOVfg">
+                           <xref base="DFARS-252.204-7010"
+                                 href="252.204-7010.dita#DFARS-252.204-7010"
+                                 outputclass="fm:ParaNumOnly">252.204-7010</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0454</p>
+                     <entry colname="2">
+                        <p id="pqEXOd">0704-0454</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.204-7012.dita#DFARS-252.204-7012"
-                                 base="DFARS-252.204-7012"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.204-7012</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ImNIZA">
+                           <xref base="DFARS-252.204-7012"
+                                 href="252.204-7012.dita#DFARS-252.204-7012"
+                                 outputclass="fm:ParaNumOnly">252.204-7012</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0478</p>
+                     <entry colname="2">
+                        <p id="UCXqCl">0704-0478</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.204-7023.dita#DFARS-252.204-7023"
-                                 base="DFARS-252.204-7012"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref "/>
+                  <row>
+                     <entry colname="1">
+                        <p id="wPgXMm">
+                           <ph id="visd6kx" rev="Revised February 28, 2022"><xref
+                                 href="252.204-7023.dita#changeme_1626286572440"
+                                 outputclass="fm:ParaNumOnly" base="DFARS-252.204-7023"
+                                 >252.204-7023</xref></ph>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0519</ph>
+                     <entry colname="2">
+                        <p id="IDAexS">
+                           <ph id="jwa3rod" rev="Revised 28, 2022 February">0704-0519</ph>
                         </p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.205-7000.dita#DFARS-252.205-7000"
-                                 base="DFARS-252.205-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.205-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="zWGzfO">
+                           <xref base="DFARS-252.205-7000"
+                                 href="252.205-7000.dita#DFARS-252.205-7000"
+                                 outputclass="fm:ParaNumOnly">252.205-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0286</p>
+                     <entry colname="2">
+                        <p id="BJOEoF">0704-0286</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.208-7000.dita#DFARS-252.208-7000"
-                                 base="DFARS-252.208-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.208-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="tqKbDI">
+                           <xref base="DFARS-252.208-7000"
+                                 href="252.208-7000.dita#DFARS-252.208-7000"
+                                 outputclass="fm:ParaNumOnly">252.208-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0187</p>
+                     <entry colname="2">
+                        <p id="ZYTwtP">0704-0187</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.209-7001.dita#DFARS-252.209-7001"
-                                 base="DFARS-252.209-7001"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.209-7001</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="XeaVei">
+                           <xref base="DFARS-252.209-7001"
+                                 href="252.209-7001.dita#DFARS-252.209-7001"
+                                 outputclass="fm:ParaNumOnly">252.209-7001</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0187</p>
+                     <entry colname="2">
+                        <p id="JHtbRg">0704-0187</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.209-7002.dita#DFARS-252.209-7002"
-                                 base="DFARS-252.209-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.209-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="KKdUUk">
+                           <xref base="DFARS-252.209-7002"
+                                 href="252.209-7002.dita#DFARS-252.209-7002"
+                                 outputclass="fm:ParaNumOnly">252.209-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0187</p>
+                     <entry colname="2">
+                        <p id="UfWIru">0704-0187</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.209-7004.dita#DFARS-252.209-7004"
-                                 base="DFARS-252.209-7004"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.209-7004</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="SdrFjf">
+                           <xref base="DFARS-252.209-7004"
+                                 href="252.209-7004.dita#DFARS-252.209-7004"
+                                 outputclass="fm:ParaNumOnly">252.209-7004</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0187</p>
+                     <entry colname="2">
+                        <p id="kHFONG">0704-0187</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.209-7008.dita#DFARS-252.209-7008"
-                                 base="DFARS-252.209-7008"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.209-7008</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="CABOwn">
+                           <xref base="DFARS-252.209-7008"
+                                 href="252.209-7008.dita#DFARS-252.209-7008"
+                                 outputclass="fm:ParaNumOnly">252.209-7008</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0477</p>
+                     <entry colname="2">
+                        <p id="mCuPon">0704-0477</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.211-7004.dita#DFARS-252.211-7004"
-                                 base="DFARS-252.211-7004"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.211-7004</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="sCOPqR">
+                           <xref base="DFARS-252.211-7004"
+                                 href="252.211-7004.dita#DFARS-252.211-7004"
+                                 outputclass="fm:ParaNumOnly">252.211-7004</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0398</p>
+                     <entry colname="2">
+                        <p id="PrFJax">0704-0398</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.211-7005.dita#DFARS-252.211-7005"
-                                 base="DFARS-252.211-7005"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.211-7005</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="iMHCch">
+                           <xref base="DFARS-252.211-7005"
+                                 href="252.211-7005.dita#DFARS-252.211-7005"
+                                 outputclass="fm:ParaNumOnly">252.211-7005</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0398</p>
+                     <entry colname="2">
+                        <p id="erytgt">0704-0398</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.211-7006.dita#DFARS-252.211-7006"
-                                 base="DFARS-252.211-7006"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.211-7006</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="bgEZsf">
+                           <xref base="DFARS-252.211-7006"
+                                 href="252.211-7006.dita#DFARS-252.211-7006"
+                                 outputclass="fm:ParaNumOnly">252.211-7006</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0434</p>
+                     <entry colname="2">
+                        <p id="XuwTFx">0704-0434</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.211-7007.dita#DFARS-252.211-7007"
-                                 base="DFARS-252.211-7007"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.211-7007</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="zxEVVk">
+                           <xref base="DFARS-252.211-7007"
+                                 href="252.211-7007.dita#DFARS-252.211-7007"
+                                 outputclass="fm:ParaNumOnly">252.211-7007</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0398</p>
+                     <entry colname="2">
+                        <p id="AsBmYX">0704-0398</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.215-7002.dita#DFARS-252.215-7002"
-                                 base="DFARS-252.215-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.215-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="KDeeFL">
+                           <xref base="DFARS-252.215-7002"
+                                 href="252.215-7002.dita#DFARS-252.215-7002"
+                                 outputclass="fm:ParaNumOnly">252.215-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0232</p>
+                     <entry colname="2">
+                        <p id="nkMoCG">0704-0232</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.215-7005.dita#DFARS-252.215-7005"
-                                 base="DFARS-252.215-7005"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.215-7005</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="kWgTma">
+                           <xref base="DFARS-252.215-7005"
+                                 href="252.215-7005.dita#DFARS-252.215-7005"
+                                 outputclass="fm:ParaNumOnly">252.215-7005</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0446</p>
+                     <entry colname="2">
+                        <p id="mdDbmH">0704-0446</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.215-7008.dita#DFARS-252.215-7008"
-                                 base="DFARS-252.204-7012"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.215-7008</xref>
+                  <row>
+                     <entry colname="1">
+                        <p id="zFjReV">
+                           <ph id="pen2zona" rev="Revised 28, 2022 February">
+                              <xref href="252.215-7008.dita#DFARS-252.215-7008"
+                                    outputclass="fm:ParaNumOnly">252.215-7008</xref>
+                           </ph>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0574</ph>
+                     <entry colname="2">
+                        <p id="HMInuM">
+                           <ph id="0wbj8nx9" rev="Revised 28, 2022 February">0704-0574</ph>
                         </p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.215-7010.dita#DFARS-252.215-7010"
-                                 base="DFARS-252.204-7012"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.215-7010</xref>
+                  <row>
+                     <entry colname="1">
+                        <p id="RfKbYQ">
+                           <ph id="zr94qv5" rev="Revised 28, 2022 February">
+                              <xref href="252.215-7010.dita#DFARS-252.215-7010"
+                                    outputclass="fm:ParaNumOnly">252.215-7010</xref>
+                           </ph>
+                        </p>
+                     </entry>
+                     <entry colname="2">
+                        <p id="BoiVXt">
+                           <ph id="wf6nxn" rev="Revised 28, 2022 February">0704-0574</ph>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0574</ph>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="CpdSth">
+                           <xref base="DFARS-252.216-7000"
+                                 href="252.216-7000.dita#DFARS-252.216-7000"
+                                 outputclass="fm:ParaNumOnly">252.216-7000</xref>
                         </p>
+                     </entry>
+                     <entry colname="2">
+                        <p id="FxqtuK">0704-0259</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.216-7000.dita#DFARS-252.216-7000"
-                                 base="DFARS-252.216-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.216-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="teEWLk">
+                           <xref base="DFARS-252.216-7001"
+                                 href="252.216-7001.dita#DFARS-252.216-7001"
+                                 outputclass="fm:ParaNumOnly">252.216-7001</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0259</p>
+                     <entry colname="2">
+                        <p id="JvMGAX">0704-0259</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.216-7001.dita#DFARS-252.216-7001"
-                                 base="DFARS-252.216-7001"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.216-7001</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="hlekzf">
+                           <xref base="DFARS-252.216-7003"
+                                 href="252.216-7003.dita#DFARS-252.216-7003"
+                                 outputclass="fm:ParaNumOnly">252.216-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0259</p>
+                     <entry colname="2">
+                        <p id="AdxmuZ">0704-0259</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.216-7003.dita#DFARS-252.216-7003"
-                                 base="DFARS-252.216-7003"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.216-7003</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ZAGSEF">
+                           <xref base="DFARS-252.217-7012"
+                                 href="252.217-7012.dita#DFARS-252.217-7012"
+                                 outputclass="fm:ParaNumOnly">252.217-7012</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">  
-                        <p class="- topic/p ">0704-0259</p>
+                     <entry colname="2">
+                        <p id="DFzhxz">0704-0214</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.217-7012.dita#DFARS-252.217-7012"
-                                 base="DFARS-252.217-7012"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.217-7012</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="PNJPac">
+                           <xref base="DFARS-252.217-7026"
+                                 href="252.217-7026.dita#DFARS-252.217-7026"
+                                 outputclass="fm:ParaNumOnly">252.217-7026</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0214</p>
+                     <entry colname="2">
+                        <p id="QgNeoS">0704-0214</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.217-7026.dita#DFARS-252.217-7026"
-                                 base="DFARS-252.217-7026"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.217-7026</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="rQOmRn">
+                           <xref base="DFARS-252.217-7028"
+                                 href="252.217-7028.dita#DFARS-252.217-7028"
+                                 outputclass="fm:ParaNumOnly">252.217-7028</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0214</p>
+                     <entry colname="2">
+                        <p id="QnzOVl">0704-0214</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.217-7028.dita#DFARS-252.217-7028"
-                                 base="DFARS-252.217-7028"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.217-7028</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="yTLUtT">
+                           <xref base="DFARS-252.219-7003"
+                                 href="252.219-7003.dita#DFARS-252.219-7003"
+                                 outputclass="fm:ParaNumOnly">252.219-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0214</p>
+                     <entry colname="2">
+                        <p id="mbCIrn">0704-0386</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.219-7003.dita#DFARS-252.219-7003"
-                                 base="DFARS-252.219-7003"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.219-7003</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="cnrDLF">
+                           <xref base="DFARS-252.223-7001"
+                                 href="252.223-7001.dita#DFARS-252.223-7001"
+                                 outputclass="fm:ParaNumOnly">252.223-7001</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0386</p>
+                     <entry colname="2">
+                        <p id="szaAQQ">0704-0272</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.223-7001.dita#DFARS-252.223-7001"
-                                 base="DFARS-252.223-7001"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.223-7001</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="bobhSv">
+                           <xref base="DFARS-252.223-7002"
+                                 href="252.223-7002.dita#DFARS-252.223-7002"
+                                 outputclass="fm:ParaNumOnly">252.223-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0272</p>
+                     <entry colname="2">
+                        <p id="TCpwtt">0704-0272</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.223-7002.dita#DFARS-252.223-7002"
-                                 base="DFARS-252.223-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.223-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="YiPVML">
+                           <xref base="DFARS-252.223-7003"
+                                 href="252.223-7003.dita#DFARS-252.223-7003"
+                                 outputclass="fm:ParaNumOnly">252.223-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0272</p>
+                     <entry colname="2">
+                        <p id="UOShtU">0704-0272</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.223-7003.dita#DFARS-252.223-7003"
-                                 base="DFARS-252.223-7003"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.223-7003</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="gGhhXA">
+                           <xref base="DFARS-252.223-7004"
+                                 href="252.223-7004.dita#DFARS-252.223-7004"
+                                 outputclass="fm:ParaNumOnly">252.223-7004</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0272</p>
+                     <entry colname="2">
+                        <p id="NJSWTa">0704-0272</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.223-7004.dita#DFARS-252.223-7004"
-                                 base="DFARS-252.223-7004"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.223-7004</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="GIAfhe">
+                           <xref base="DFARS-252.223-7007"
+                                 href="252.223-7007.dita#DFARS-252.223-7007"
+                                 outputclass="fm:ParaNumOnly">252.223-7007</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0272</p>
+                     <entry colname="2">
+                        <p id="phrRZu">0704-0272</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.223-7007.dita#DFARS-252.223-7007"
-                                 base="DFARS-252.223-7007"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.223-7007</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="dIVtXD">
+                           <xref base="DFARS-252.225-7000"
+                                 href="252.225-7000.dita#DFARS-252.225-7000"
+                                 outputclass="fm:ParaNumOnly">252.225-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0272</p>
+                     <entry colname="2">
+                        <p id="UWsNcK">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7000.dita#DFARS-252.225-7000"
-                                 base="DFARS-252.225-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="CHuiGC">
+                           <xref base="DFARS-252.225-7003"
+                                 href="252.225-7003.dita#DFARS-252.225-7003"
+                                 outputclass="fm:ParaNumOnly">252.225-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="tSOpVm">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7003.dita#DFARS-252.225-7003"
-                                 base="DFARS-252.225-7003"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7003</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="Hctacx">
+                           <xref base="DFARS-252.225-7004"
+                                 href="252.225-7004.dita#DFARS-252.225-7004"
+                                 outputclass="fm:ParaNumOnly">252.225-7004</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="gIHisB">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7004.dita#DFARS-252.225-7004"
-                                 base="DFARS-252.225-7004"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7004</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="bAPnVc">
+                           <xref base="DFARS-252.225-7005"
+                                 href="252.225-7005.dita#DFARS-252.225-7005"
+                                 outputclass="fm:ParaNumOnly">252.225-7005</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>  
+                     <entry colname="2">
+                        <p id="QwodFr">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7005.dita#DFARS-252.225-7005"
-                                 base="DFARS-252.225-7005"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7005</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="kVqQPr">
+                           <xref base="DFARS-252.225-7010"
+                                 href="252.225-7010.dita#DFARS-252.225-7010"
+                                 outputclass="fm:ParaNumOnly">252.225-7010</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="sGRZlj">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7010.dita#DFARS-252.225-7010"
-                                 base="DFARS-252.225-7010"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7010</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="tRLFPK">
+                           <xref base="DFARS-252.225-7013"
+                                 href="252.225-7013.dita#DFARS-252.225-7013"
+                                 outputclass="fm:ParaNumOnly">252.225-7013</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="dAoiab">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7013.dita#DFARS-252.225-7013"
-                                 base="DFARS-252.225-7013"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7013</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ZEaPvh">
+                           <xref base="DFARS-252.225-7018"
+                                 href="252.225-7018.dita#DFARS-252.225-7018"
+                                 outputclass="fm:ParaNumOnly">252.225-7018</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="PGFEpY">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7018.dita#DFARS-252.225-7018"
-                                 base="DFARS-252.225-7018"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7018</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="moCVNl">
+                           <xref base="DFARS-252.225-7020"
+                                 href="252.225-7020.dita#DFARS-252.225-7020"
+                                 outputclass="fm:ParaNumOnly">252.225-7020</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="KZRLfK">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7020.dita#DFARS-252.225-7020"
-                                 base="DFARS-252.225-7020"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7020</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="iYoHun">
+                           <xref base="DFARS-252.225-7021"
+                                 href="252.225-7021.dita#DFARS-252.225-7021"
+                                 outputclass="fm:ParaNumOnly">252.225-7021</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="ZYZLwQ">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7021.dita#DFARS-252.225-7021"
-                                 base="DFARS-252.225-7021"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7021</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="KthtIF">
+                           <xref base="DFARS-252.225-7023"
+                                 href="252.225-7023.dita#DFARS-252.225-7023"
+                                 outputclass="fm:ParaNumOnly">252.225-7023</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="AaNigR">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7023.dita#DFARS-252.225-7023"
-                                 base="DFARS-252.225-7023"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7023</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="gKRvUj">
+                           <xref base="DFARS-252.225-7025"
+                                 href="252.225-7025.dita#DFARS-252.225-7025"
+                                 outputclass="fm:ParaNumOnly">252.225-7025</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="Blevgl">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7025.dita#DFARS-252.225-7025"
-                                 base="DFARS-252.225-7025"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7025</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="HgweAe">
+                           <xref base="DFARS-252.225-7032"
+                                 href="252.225-7032.dita#DFARS-252.225-7032"
+                                 outputclass="fm:ParaNumOnly">252.225-7032</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="smTWBS">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7032.dita#DFARS-252.225-7032"
-                                 base="DFARS-252.225-7032"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7032</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="LiJhoX">
+                           <xref base="DFARS-252.225-7033"
+                                 href="252.225-7033.dita#DFARS-252.225-7033"
+                                 outputclass="fm:ParaNumOnly">252.225-7033</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="wchRuU">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7033.dita#DFARS-252.225-7033"
-                                 base="DFARS-252.225-7033"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7033</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="AdnhOb">
+                           <xref base="DFARS-252.225-7035"
+                                 href="252.225-7035.dita#DFARS-252.225-7035"
+                                 outputclass="fm:ParaNumOnly">252.225-7035</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="xXGoOO">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7035.dita#DFARS-252.225-7035"
-                                 base="DFARS-252.225-7035"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7035</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="gdKnjZ">
+                           <xref base="DFARS-252.225-7039"
+                                 href="252.225-7039.dita#DFARS-252.225-7039"
+                                 outputclass="fm:ParaNumOnly">252.225-7039</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="uiMBJA">0704-0549</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7039.dita#DFARS-252.225-7039"
-                                 base="DFARS-252.225-7039"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7039</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ubAbWa">
+                           <xref base="DFARS-252.225-7040"
+                                 href="252.225-7040.dita#DFARS-252.225-7040"
+                                 outputclass="fm:ParaNumOnly">252.225-7040</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0549</p>
+                     <entry colname="2">
+                        <p id="sAMmvt">0704-0460</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7040.dita#DFARS-252.225-7040"
-                                 base="DFARS-252.225-7040"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7040</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="hkLWfl">
+                           <xref base="DFARS-252.225-7046"
+                                 href="252.225-7046.dita#DFARS-252.225-7046"
+                                 outputclass="fm:ParaNumOnly">252.225-7046</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0460</p>
+                     <entry colname="2">
+                        <p id="qDQoqX">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7046.dita#DFARS-252.225-7046"
-                                 base="DFARS-252.225-7046"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7046</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="epIWKY">
+                           <xref base="DFARS-252.225-7049"
+                                 href="252.225-7049.dita#DFARS-252.225-7049"
+                                 outputclass="fm:ParaNumOnly">252.225-7049</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="Qxrmms">0704-0525</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7049.dita#DFARS-252.225-7049"
-                                 base="DFARS-252.225-7049"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7049</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="wUjytP">
+                           <xref base="DFARS-252.225-7050"
+                                 href="252.225-7050.dita#DFARS-252.225-7050"
+                                 outputclass="fm:ParaNumOnly">252.225-7050</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0525</p>
+                     <entry colname="2">
+                        <p id="ocLzOb">0704-0187</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.225-7050.dita#DFARS-252.225-7050"
-                                 base="DFARS-252.225-7050"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.225-7050</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="zkQnlE">
+                           <xref base="DFARS-252.227-7013"
+                                 href="252.227-7013.dita#DFARS-252.227-7013"
+                                 outputclass="fm:ParaNumOnly">252.227-7013</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0187</p>
+                     <entry colname="2">
+                        <p id="xanRIQ">0704-0369</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.227-7013.dita#DFARS-252.227-7013"
-                                 base="DFARS-252.227-7013"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.227-7013</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="gOvNtq">
+                           <xref base="DFARS-252.227-7014"
+                                 href="252.227-7014.dita#DFARS-252.227-7014"
+                                 outputclass="fm:ParaNumOnly">252.227-7014</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0369</p>
+                     <entry colname="2">
+                        <p id="PvbbvV">0704-0369</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.227-7014.dita#DFARS-252.227-7014"
-                                 base="DFARS-252.227-7014"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.227-7014</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ttDdGx">
+                           <xref base="DFARS-252.227-7017"
+                                 href="252.227-7017.dita#DFARS-252.227-7017"
+                                 outputclass="fm:ParaNumOnly">252.227-7017</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0369</p>
+                     <entry colname="2">
+                        <p id="tjmZaR">0704-0369</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.227-7017.dita#DFARS-252.227-7017"
-                                 base="DFARS-252.227-7017"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.227-7017</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="IznZhe">
+                           <xref base="DFARS-252.227-7018"
+                                 href="252.227-7018.dita#DFARS-252.227-7018"
+                                 outputclass="fm:ParaNumOnly">252.227-7018</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0369</p>
+                     <entry colname="2">
+                        <p id="eGDdPq">0704-0369</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.227-7018.dita#DFARS-252.227-7018"
-                                 base="DFARS-252.227-7018"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.227-7018</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="yNEbKS">
+                           <xref base="DFARS-252.227-7019"
+                                 href="252.227-7019.dita#DFARS-252.227-7019"
+                                 outputclass="fm:ParaNumOnly">252.227-7019</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0369</p>
+                     <entry colname="2">
+                        <p id="glKYQL">0704-0369</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.227-7019.dita#DFARS-252.227-7019"
-                                 base="DFARS-252.227-7019"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.227-7019</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="QKIeul">
+                           <xref base="DFARS-252.227-7025"
+                                 href="252.227-7025.dita#DFARS-252.227-7025"
+                                 outputclass="fm:ParaNumOnly">252.227-7025</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0369</p>
+                     <entry colname="2">
+                        <p id="FnfZkA">0704-0369</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.227-7025.dita#DFARS-252.227-7025"
-                                 base="DFARS-252.227-7025"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.227-7025</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="LzkflE">
+                           <xref base="DFARS-252.227-7028"
+                                 href="252.227-7028.dita#DFARS-252.227-7028"
+                                 outputclass="fm:ParaNumOnly">252.227-7028</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0369</p>
+                     <entry colname="2">
+                        <p id="jUIcKr">0704-0369</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.227-7028.dita#DFARS-252.227-7028"
-                                 base="DFARS-252.227-7028"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.227-7028</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="BiJAPL">
+                           <xref base="DFARS-252.227-7037"
+                                 href="252.227-7037.dita#DFARS-252.227-7037"
+                                 outputclass="fm:ParaNumOnly">252.227-7037</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0369</p>
+                     <entry colname="2">
+                        <p id="xlcFxb">0704-0369</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.227-7037.dita#DFARS-252.227-7037"
-                                 base="DFARS-252.227-7037"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.227-7037</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="zleKEr">
+                           <xref base="DFARS-252.228-7000"
+                                 href="252.228-7000.dita#DFARS-252.228-7000"
+                                 outputclass="fm:ParaNumOnly">252.228-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0369</p>
+                     <entry colname="2">
+                        <p id="rUAoYP">0704-0216</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.228-7000.dita#DFARS-252.228-7000"
-                                 base="DFARS-252.228-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.228-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ddteQi">
+                           <xref base="DFARS-252.228-7005"
+                                 href="252.228-7005.dita#DFARS-252.228-7005"
+                                 outputclass="fm:ParaNumOnly">252.228-7005</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0216</p>
+                     <entry colname="2">
+                        <p id="pUDeak">0704-0216</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.228-7005.dita#DFARS-252.228-7005"
-                                 base="DFARS-252.228-7005"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.228-7005</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="HbsFlU">
+                           <xref base="DFARS-252.228-7006"
+                                 href="252.228-7006.dita#DFARS-252.228-7006"
+                                 outputclass="fm:ParaNumOnly">252.228-7006</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0216</p>
+                     <entry colname="2">
+                        <p id="Ahfhze">0704-0216</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.228-7006.dita#DFARS-252.228-7006"
-                                 base="DFARS-252.228-7006"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.228-7006</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="AENjdi">
+                           <xref base="DFARS-252.229-7010"
+                                 href="252.229-7010.dita#DFARS-252.229-7010"
+                                 outputclass="fm:ParaNumOnly">252.229-7010</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0216</p>
+                     <entry colname="2">
+                        <p id="NiWRwT">0704-0390</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.229-7010.dita#DFARS-252.229-7010"
-                                 base="DFARS-252.229-7010"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.229-7010</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="Qfgdcr">
+                           <xref base="DFARS-252.232-7002"
+                                 href="252.232-7002.dita#DFARS-252.232-7002"
+                                 outputclass="fm:ParaNumOnly">252.232-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0390</p>
+                     <entry colname="2">
+                        <p id="tyFyQY">0704-0321</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.232-7002.dita#DFARS-252.232-7002"
-                                 base="DFARS-252.232-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.232-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="lYbNOH">
+                           <xref base="DFARS-252.232-7007"
+                                 href="252.232-7007.dita#DFARS-252.232-7007"
+                                 outputclass="fm:ParaNumOnly">252.232-7007</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0321</p>
+                     <entry colname="2">
+                        <p id="ZNMOBp">0704-0359</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.232-7007.dita#DFARS-252.232-7007"
-                                 base="DFARS-252.232-7007"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.232-7007</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="LrDgbH">
+                           <xref base="DFARS-252.234-7002"
+                                 href="252.234-7002.dita#DFARS-252.234-7002"
+                                 outputclass="fm:ParaNumOnly">252.234-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0359</p>
+                     <entry colname="2">
+                        <p id="JEDLAq">0704-0479</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.234-7002.dita#DFARS-252.234-7002"
-                                 base="DFARS-252.234-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.234-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="UysmLz">
+                           <xref base="DFARS-252.235-7000"
+                                 href="252.235-7000.dita#DFARS-252.235-7000"
+                                 outputclass="fm:ParaNumOnly">252.235-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0479</p>
+                     <entry colname="2">
+                        <p id="YyimkK">0704-0187</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.235-7000.dita#DFARS-252.235-7000"
-                                 base="DFARS-252.235-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.235-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ocxMKo">
+                           <xref base="DFARS-252.235-7001"
+                                 href="252.235-7001.dita#DFARS-252.235-7001"
+                                 outputclass="fm:ParaNumOnly">252.235-7001</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0187</p>
+                     <entry colname="2">
+                        <p id="MOGmOm">0704-0187</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.235-7001.dita#DFARS-252.235-7001"
-                                 base="DFARS-252.235-7001"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.235-7001</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="BfjmHv">
+                           <xref base="DFARS-252.235-7003"
+                                 href="252.235-7003.dita#DFARS-252.235-7003"
+                                 outputclass="fm:ParaNumOnly">252.235-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0187</p>
+                     <entry colname="2">
+                        <p id="AVrRUy">0704-0187</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.235-7003.dita#DFARS-252.235-7003"
-                                 base="DFARS-252.235-7003"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.235-7003</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="ZTRmFk">
+                           <xref base="DFARS-252.236-7000"
+                                 href="252.236-7000.dita#DFARS-252.236-7000"
+                                 outputclass="fm:ParaNumOnly">252.236-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0187</p>
+                     <entry colname="2">
+                        <p id="VqjzEa">0704-0255</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.236-7000.dita#DFARS-252.236-7000"
-                                 base="DFARS-252.236-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.236-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="QuTwMt">
+                           <xref base="DFARS-252.236-7002"
+                                 href="252.236-7002.dita#DFARS-252.236-7002"
+                                 outputclass="fm:ParaNumOnly">252.236-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0255</p>
+                     <entry colname="2">
+                        <p id="FfpZZR">0704-0255</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.236-7002.dita#DFARS-252.236-7002"
-                                 base="DFARS-252.236-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.236-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="euqkFU">
+                           <xref base="DFARS-252.236-7003"
+                                 href="252.236-7003.dita#DFARS-252.236-7003"
+                                 outputclass="fm:ParaNumOnly">252.236-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0255</p>
+                     <entry colname="2">
+                        <p id="Lfejdd">0704-0255</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.236-7003.dita#DFARS-252.236-7003"
-                                 base="DFARS-252.236-7003"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.236-7003</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="kxSHoL">
+                           <xref base="DFARS-252.236-7004"
+                                 href="252.236-7004.dita#DFARS-252.236-7004"
+                                 outputclass="fm:ParaNumOnly">252.236-7004</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0255</p>
+                     <entry colname="2">
+                        <p id="YJQACE">0704-0255</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.236-7004.dita#DFARS-252.236-7004"
-                                 base="DFARS-252.236-7004"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.236-7004</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="hXhnFa">
+                           <xref base="DFARS-252.236-7010"
+                                 href="252.236-7010.dita#DFARS-252.236-7010"
+                                 outputclass="fm:ParaNumOnly">252.236-7010</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0255</p>
+                     <entry colname="2">
+                        <p id="NyyrFh">0704-0255</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.236-7010.dita#DFARS-252.236-7010"
-                                 base="DFARS-252.236-7010"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.236-7010</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="xGrSVJ">
+                           <xref base="DFARS-252.236-7012"
+                                 href="252.236-7012.dita#DFARS-252.236-7012"
+                                 outputclass="fm:ParaNumOnly">252.236-7012</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0255</p>
+                     <entry colname="2">
+                        <p id="IkITaU">0704-0255</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.236-7012.dita#DFARS-252.236-7012"
-                                 base="DFARS-252.236-7012"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.236-7012</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="FgsqqN">
+                           <xref base="DFARS-252.237-7000"
+                                 href="252.237-7000.dita#DFARS-252.237-7000"
+                                 outputclass="fm:ParaNumOnly">252.237-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0255</p>
+                     <entry colname="2">
+                        <p id="MLPmBS">0704-0231</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.237-7000.dita#DFARS-252.237-7000"
-                                 base="DFARS-252.237-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.237-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="DcJQtj">
+                           <xref base="DFARS-252.237-7011"
+                                 href="252.237-7011.dita#DFARS-252.237-7011"
+                                 outputclass="fm:ParaNumOnly">252.237-7011</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0231</p>
+                     <entry colname="2">
+                        <p id="TOYMei">0704-0231</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.237-7011.dita#DFARS-252.237-7011"
-                                 base="DFARS-252.237-7011"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.237-7011</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="xgYFFW">
+                           <xref base="DFARS-252.237-7023"
+                                 href="252.237-7023.dita#DFARS-252.237-7023"
+                                 outputclass="fm:ParaNumOnly">252.237-7023</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0231</p>
+                     <entry colname="2">
+                        <p id="jKHWRv">0704-0231</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.237-7023.dita#DFARS-252.237-7023"
-                                 base="DFARS-252.237-7023"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.237-7023</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="rbuZjH">
+                           <xref base="DFARS-252.237-7024"
+                                 href="252.237-7024.dita#DFARS-252.237-7024"
+                                 outputclass="fm:ParaNumOnly">252.237-7024</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0231</p>
+                     <entry colname="2">
+                        <p id="jFLOQA">0704-0231</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.237-7024.dita#DFARS-252.237-7024"
-                                 base="DFARS-252.237-7024"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.237-7024</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="sIZxME">
+                           <xref base="DFARS-252.239-7000"
+                                 href="252.239-7000.dita#DFARS-252.239-7000"
+                                 outputclass="fm:ParaNumOnly">252.239-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0231</p>
+                     <entry colname="2">
+                        <p id="bcupAn">0704-0341</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.239-7000.dita#DFARS-252.239-7000"
-                                 base="DFARS-252.239-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.239-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="jIVtmS">
+                           <xref base="DFARS-252.239-7006"
+                                 href="252.239-7006.dita#DFARS-252.239-7006"
+                                 outputclass="fm:ParaNumOnly">252.239-7006</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0341</p>
+                     <entry colname="2">
+                        <p id="qQVSpk">0704-0341</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.239-7009.dita#DFARS-252.239-7009"
-                                 base="DFARS-252.239-7009"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.239-7009</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="wKeGFW">
+                           <xref base="DFARS-252.239-7009"
+                                 href="252.239-7009.dita#DFARS-252.239-7009"
+                                 outputclass="fm:ParaNumOnly">252.239-7009</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0478</p>
+                     <entry colname="2">
+                        <p id="wlgIyl">0704-0478</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.239-7010.dita#DFARS-252.239-7010"
-                                 base="DFARS-252.239-7010"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.239-7010</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="RdOHlk">
+                           <xref base="DFARS-252.239-7010"
+                                 href="252.239-7010.dita#DFARS-252.239-7010"
+                                 outputclass="fm:ParaNumOnly">252.239-7010</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0478</p>
+                     <entry colname="2">
+                        <p id="lFzzEG">0704-0478</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.242-7004.dita#DFARS-252.242-7004"
-                                 base="DFARS-252.242-7004"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.242-7004</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="fzVszU">
+                           <xref base="DFARS-252.242-7004"
+                                 href="252.242-7004.dita#DFARS-252.242-7004"
+                                 outputclass="fm:ParaNumOnly">252.242-7004</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0250</p>
+                     <entry colname="2">
+                        <p id="FmbLUU">0704-0250</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.243-7002.dita#DFARS-252.243-7002"
-                                 base="DFARS-252.243-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.243-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="sKzZUW">
+                           <xref base="DFARS-252.243-7002"
+                                 href="252.243-7002.dita#DFARS-252.243-7002"
+                                 outputclass="fm:ParaNumOnly">252.243-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0397</p>
+                     <entry colname="2">
+                        <p id="viBcfK">0704-0397</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.244-7001.dita#DFARS-252.244-7001"
-                                 base="DFARS-252.244-7001"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.244-7001</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="eqthgZ">
+                           <xref base="DFARS-252.244-7001"
+                                 href="252.244-7001.dita#DFARS-252.244-7001"
+                                 outputclass="fm:ParaNumOnly">252.244-7001</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0253</p>
+                     <entry colname="2">
+                        <p id="xgfLoR">0704-0253</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.245-7003.dita#DFARS-252.245-7003"
-                                 base="DFARS-252.245-7003"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.245-7003</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="qugjTd">
+                           <xref base="DFARS-252.245-7003"
+                                 href="252.245-7003.dita#DFARS-252.245-7003"
+                                 outputclass="fm:ParaNumOnly">252.245-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0246</p>
+                     <entry colname="2">
+                        <p id="qqhZWR">0704-0246</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.246-7003.dita#DFARS-252.246-7003"
-                                 base="DFARS-252.246-7003"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.246-7003</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="vKPVwp">
+                           <xref base="DFARS-252.246-7003"
+                                 href="252.246-7003.dita#DFARS-252.246-7003"
+                                 outputclass="fm:ParaNumOnly">252.246-7003</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0441</p>
+                     <entry colname="2">
+                        <p id="OJkBwt">0704-0441</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.246-7005.dita#DFARS-252.246-7005"
-                                 base="DFARS-252.246-7005"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.246-7005</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="LoHALl">
+                           <xref base="DFARS-252.246-7005"
+                                 href="252.246-7005.dita#DFARS-252.246-7005"
+                                 outputclass="fm:ParaNumOnly">252.246-7005</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0441</ph>
+                     <entry colname="2">
+                        <p id="bHZRVT">
+                           <ph id="6r5wbquk" rev="Revised 28, 2022 February">0704-0441</ph>
                         </p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.246-7006.dita#DFARS-252.246-7006"
-                                 base="DFARS-252.246-7006"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.246-7006</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="LPLKMd">
+                           <xref base="DFARS-252.246-7006"
+                                 href="252.246-7006.dita#DFARS-252.246-7006"
+                                 outputclass="fm:ParaNumOnly">252.246-7006</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <ph rev="Revised February 28, 2022" class="- topic/ph ">0704-0441</ph>
+                     <entry colname="2">
+                        <p id="fALvbe">
+                           <ph id="udenrtff" rev="Revised 28, 2022 February">0704-0441</ph>
                         </p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.246-7008.dita#DFARS-252.246-7008"
-                                 base="DFARS-252.246-7008"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.246-7008</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="gPiSrK">
+                           <xref base="DFARS-252.246-7008"
+                                 href="252.246-7008.dita#DFARS-252.246-7008"
+                                 outputclass="fm:ParaNumOnly">252.246-7008</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0<ph rev="Revised February 28, 2022" class="- topic/ph ">441</ph>
+                     <entry colname="2">
+                        <p id="YEbqLb">
+                           <ph id="op4nfgzl" rev="Revised 28, 2022 February">0704-0441</ph>
                         </p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.247-7000.dita#DFARS-252.247-7000"
-                                 base="DFARS-252.247-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.247-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="rqKuEO">
+                           <xref base="DFARS-252.247-7000"
+                                 href="252.247-7000.dita#DFARS-252.247-7000"
+                                 outputclass="fm:ParaNumOnly">252.247-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="KNSXfl">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.247-7001.dita#DFARS-252.247-7001"
-                                 base="DFARS-252.247-7001"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.247-7001</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="wVNxIg">
+                           <xref base="DFARS-252.247-7001"
+                                 href="252.247-7001.dita#DFARS-252.247-7001"
+                                 outputclass="fm:ParaNumOnly">252.247-7001</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="vNwKHO">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.247-7002.dita#DFARS-252.247-7002"
-                                 base="DFARS-252.247-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.247-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="XFCrXT">
+                           <xref base="DFARS-252.247-7002"
+                                 href="252.247-7002.dita#DFARS-252.247-7002"
+                                 outputclass="fm:ParaNumOnly">252.247-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="aTCzjv">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.247-7007.dita#DFARS-252.247-7007"
-                                 base="DFARS-252.247-7007"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.247-7007</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="VDakyy">
+                           <xref base="DFARS-252.247-7007"
+                                 href="252.247-7007.dita#DFARS-252.247-7007"
+                                 outputclass="fm:ParaNumOnly">252.247-7007</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="qqyISC">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.247-7022.dita#DFARS-252.247-7022"
-                                 base="DFARS-252.247-7022"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.247-7022</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="DsYbal">
+                           <xref base="DFARS-252.247-7022"
+                                 href="252.247-7022.dita#DFARS-252.247-7022"
+                                 outputclass="fm:ParaNumOnly">252.247-7022</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="pvfyPG">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.247-7023.dita#DFARS-252.247-7023"
-                                 base="DFARS-252.247-7023"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.247-7023</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="aSuvaT">
+                           <xref base="DFARS-252.247-7023"
+                                 href="252.247-7023.dita#DFARS-252.247-7023"
+                                 outputclass="fm:ParaNumOnly">252.247-7023</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="mqWkQy">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.247-7026.dita#DFARS-252.247-7026"
-                                 base="DFARS-252.247-7026"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.247-7026</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="HiyUqK">
+                           <xref base="DFARS-252.247-7026"
+                                 href="252.247-7026.dita#DFARS-252.247-7026"
+                                 outputclass="fm:ParaNumOnly">252.247-7026</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="YqhJAh">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.247-7028.dita#DFARS-252.247-7028"
-                                 base="DFARS-252.247-7028"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.247-7028</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="RXEiTh">
+                           <xref base="DFARS-252.247-7028"
+                                 href="252.247-7028.dita#DFARS-252.247-7028"
+                                 outputclass="fm:ParaNumOnly">252.247-7028</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="xrBHKD">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.249-7002.dita#DFARS-252.249-7002"
-                                 base="DFARS-252.249-7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.249-7002</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="Rahgyq">
+                           <xref base="DFARS-252.249-7002"
+                                 href="252.249-7002.dita#DFARS-252.249-7002"
+                                 outputclass="fm:ParaNumOnly">252.249-7002</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0533</p>
+                     <entry colname="2">
+                        <p id="NrNKSs">0704-0533</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="252.251-7000.dita#DFARS-252.251-7000"
-                                 base="DFARS-252.251-7000"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">252.251-7000</xref>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="guICPi">
+                           <xref base="DFARS-252.251-7000"
+                                 href="252.251-7000.dita#DFARS-252.251-7000"
+                                 outputclass="fm:ParaNumOnly">252.251-7000</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0252</p>
+                     <entry colname="2">
+                        <p id="mymssZ">0704-0252</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Appendix F</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="pkIRtW">Appendix F</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0248</p>
+                     <entry colname="2">
+                        <p id="AzRsVv">0704-0248</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Appendix I</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="OJpKWA">Appendix I</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0332</p>
+                     <entry colname="2">
+                        <p id="hONjib">0704-0332</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">DD Form 1348-1A</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="QTIzQR">DD Form 1348-1A</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0246</p>
+                     <entry colname="2">
+                        <p id="qnKPwL">0704-0246</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">DD Form 1639</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="WTwgQE">DD Form 1639</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0246</p>
+                     <entry colname="2">
+                        <p id="oiXEwL">0704-0246</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">DD Form 1659</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="OGHGlP">DD Form 1659</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0245</p>
+                     <entry colname="2">
+                        <p id="CsROKv">0704-0245</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">DD Form 2063</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="wgFzTS">DD Form 2063</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0231</p>
+                     <entry colname="2">
+                        <p id="EwtWBA">0704-0231</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">DD Form 2139</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="VejkIw">DD Form 2139</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0229</p>
+                     <entry colname="2">
+                        <p id="HiXBBf">0704-0229</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">DD Form 250</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="tsFWXy">DD Form 250</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0248</p>
+                     <entry colname="2">
+                        <p id="mMOMxo">0704-0248</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">DD Form 250-1</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p id="NBtulJ">DD Form 250-1</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">0704-0248</p>
+                     <entry colname="2">
+                        <p id="VDXBFh">0704-0248</p>
                      </entry>
                   </row>
                </tbody>

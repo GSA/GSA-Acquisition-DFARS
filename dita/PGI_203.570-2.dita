@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_203.570-2"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_203.570-2" outputclass="4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 203.570-2</ph> Prohibition period.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -17,10 +11,7 @@
          <p outputclass="List3" class="- topic/p ">(iii) Forward the request to the head of the agency or designee for approval if the contracting officer decides the waiver may be in the interest of national security.</p>
          <p outputclass="List2" class="- topic/p ">(2) The head of the agency or designee shall report all waivers granted, and the reasons for granting the waiver, to the Under Secretary of Defense (Acquisition, Technology, and Logistics), who will forward the report to Congress as required by 10 U.S.C. 2408(a)(3).</p>
          <p outputclass="List2" class="- topic/p ">(3) Guidance on using the Exclusions section of the System for Award Management is available at PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_209.105-1"
-                  href="PGI_209.105-1.dita#DFARS-PGI_PGI_209.105-1">209.105-1</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_209.105-1" href="PGI_209.105-1.dita#DFARS-PGI_PGI_209.105-1" xtrc="209.105-1">PGI 209.105-1</xref>
             .</p>
          <p outputclass="List1" class="- topic/p ">(b) Submit a copy of the determination to Bureau of Justice Assistance, U.S. Department of Justice, 810 Seventh Street, NW, Washington, DC 20531.</p>
       </conbody>

@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-225.103"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-225.103" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.103</ph> Exceptions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(i)(A) Public interest exceptions for certain countries are in 
-               <xref href="225.872.dita#DFARS-225.872"
-                  base="DFARS-225.872"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.872</xref>
+               <xref href="225.872.dita#DFARS-225.872" base="DFARS-225.872" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.872">225.872</xref>
             .</p>
          <p outputclass="List4" class="- topic/p ">(B) For procurements covered by the World Trade Organization Government Procurement Agreement, the Under Secretary of Defense (Acquisition, Technology, and Logistics) has determined that it is inconsistent with the public interest to apply the Buy American statute to end products that are substantially transformed in the United States.</p>
          <p outputclass="List3" class="- topic/p ">(ii)(A) Normally, use the evaluation procedures in subpart 225.5, but consider recommending a public interest exception if the purposes of the Buy American statute are not served, or in order to meet a need set forth in 10 U.S.C. 2533. For example, a public interest exception may be appropriate—</p>
@@ -29,10 +21,7 @@
          <p outputclass="List3" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(ii)</i> In order not to impair integration of the military and commercial industrial base.</p>
          <p outputclass="List4" class="- topic/p ">(B) Except as provided in PGI 
-               <xref href="PGI_225.872-4.dita#DFARS-PGI_PGI_225.872-4"
-                  base="DFARS-PGI_PGI_225.872-4"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.872-4</xref>
+               <xref href="PGI_225.872-4.dita#DFARS-PGI_PGI_225.872-4" base="DFARS-PGI_PGI_225.872-4" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.872-4">PGI 225.872-4</xref>
             , process a determination for a public interest exception after consideration of the factors in 10 U.S.C. 2533—</p>
          <p outputclass="List6" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(1)</i> At a level above the contracting officer for acquisitions valued at or below the simplified acquisition threshold;</p>

@@ -1,47 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_201.304"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_201.304" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 201.304</ph> Agency control and compliance procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(4) Plans for controlling the use of clauses or provisions other than those prescribed by the FAR or DFARS (local clauses), as required by DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-201.304"
-                  href="201.304.dita#DFARS-201.304">201.304</xref>(4), shall include procedures to ensure that a local clause—</p>
+         <p outputclass="List2" class="- topic/p ">(4) Plans for controlling the use of clauses or provisions other than those prescribed by the FAR or DFARS (local clauses), as required by DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-201.304" href="201.304.dita#DFARS-201.304" xtrc="201.304">201.304</xref>(4), shall include procedures to ensure that a local clause—</p>
          <p outputclass="List4" class="- topic/p ">(A) Is evaluated to determine whether the local clause constitutes a significant revision (see 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_201.301"
-                  href="PGI_201.301.dita#DFARS-PGI_PGI_201.301">201.301</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_201.301" href="PGI_201.301.dita#DFARS-PGI_PGI_201.301" xtrc="201.301">PGI 201.301</xref>
             (b));</p>
          <p outputclass="List4" class="- topic/p ">(B) Is numbered in accordance with FAR 52.1 and DFARS 252.1 (see 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_252.103"
-                  href="PGI_252.103.dita#DFARS-PGI_PGI_252.103">252.103</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_252.103" href="PGI_252.103.dita#DFARS-PGI_PGI_252.103" xtrc="252.103">PGI 252.103</xref>
             );</p>
          <p outputclass="List4" class="- topic/p ">(C) Is accompanied by a prescription in the appropriate part and subpart of the department or agency FAR supplement where the subject matter of the clause receives its primary treatment;</p>
          <p outputclass="List4" class="- topic/p ">(D) If it constitutes a significant revision—</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Is published for public comment in the Federal Register in accordance with FAR 1.501 and DFARS 201.501;</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Complies with the Paperwork Reduction Act 1980 (44 USC chapter 35), in accordance with FAR 1.106and 1.301;</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) As a matter of policy, complies with the Regulatory Flexibility Act (5 U.S.C. 601, <i class="+ topic/ph hi-d/i ">et seq.</i>); and</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) Is approved in accordance with DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-201.304"
-                  href="201.304.dita#DFARS-201.304">201.304</xref>; and</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) Is approved in accordance with DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-201.304" href="201.304.dita#DFARS-201.304" xtrc="201.304">201.304</xref>; and</p>
          <p outputclass="List4" class="- topic/p ">(E) Is published with a prescription as a final rule in the Federal Register in order to amend the department or agency’s chapter of Title 48 of the Code of Federal Regulations (CFR), if it is to be used on a repetitive basis.</p>
          <p outputclass="List2" class="- topic/p ">(5)(A) Prior to publication for public comment in the Federal Register of a local clause that constitutes a significant revision (see 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_201.301"
-                  href="PGI_201.301.dita#DFARS-PGI_PGI_201.301">201.301</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_201.301" href="PGI_201.301.dita#DFARS-PGI_PGI_201.301" xtrc="201.301">PGI 201.301</xref>
             (b)), departments and agencies shall submit, in accordance with agency procedures, the following information electronically via email to the Director, Defense Acquisition Regulation (DAR) Council, at osd.clause.control@mail.mil:</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) The name of the requesting department or agency.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) The name, email address and phone number of the point of contract for the local clause and the department or agency clause control point of contact.</p>
