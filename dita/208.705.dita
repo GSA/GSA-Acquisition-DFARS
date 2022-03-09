@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-208.705"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-208.705" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">208.705</ph> Procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="LightBlueText" class="- topic/p ">See DoD Class Deviation<xref href="http://www.acq.osd.mil/dpap/policy/policyvault/USA005039-13-DPAP.pdf"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref "> 2013-O0018</xref>, Past
+         <p outputclass="LightBlueText" class="- topic/p ">See DoD Class Deviation<xref href="http://www.acq.osd.mil/dpap/policy/policyvault/USA005039-13-DPAP.pdf" format="html" scope="external" class="- topic/xref "> 2013-O0018</xref>, Past
 Performance Evaluation Thresholds and Reporting Requirements, issued
 on September 24, 2013. This class deviation requires past performance
 reporting for contracts awarded under FAR <ph props="autonumber" class="- topic/ph ">subpart
@@ -22,10 +14,7 @@ are Blind or Severely Handicapped, when the thresholds in this deviation
 are exceeded. This deviation is effective until incorporated in
 the DFARS or rescinded.</p>
          <p class="- topic/p ">Follow the procedures at PGI 
-               <xref href="PGI_208.705.dita#DFARS-PGI_PGI_208.705"
-                  base="DFARS-PGI_PGI_208.705"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">208.705</xref>
+               <xref href="PGI_208.705.dita#DFARS-PGI_PGI_208.705" base="DFARS-PGI_PGI_208.705" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="208.705">PGI 208.705</xref>
              when
 placing orders with central nonprofit agencies.</p>
       </conbody>

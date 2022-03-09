@@ -4,22 +4,15 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-206.001"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+   <concept id="DFARS-206.001" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">206.001</ph> Applicability.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b)  As authorized by 10 U.S.C. 1091, contracts awarded to individuals using the procedures at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-237.104"
-                  href="237.104.dita#DFARS-237.104">237.104</xref>
-            (b)(ii) are exempt from the competition requirements of FAR Part 6.</p>
-         <p class="- topic/p ">(S-70)  Also excepted from this part are follow-on production contracts for products developed pursuant to the “other transactions” authority of 10 U.S.C. 2371 for prototype projects when—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The other transaction agreement includes provisions for a follow-on production contract;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The contracting officer receives sufficient information from the agreements officer and the project manager for the prototype other transaction agreement, which documents that the conditions set forth in 10 U.S.C. 2371 note, subsections (f)(2)(A) and (B) (see 32 CFR 3.9(d)), have been met; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The contracting officer establishes quantities and prices for the follow-on production contract that do not exceed the quantities and target prices established in the other transaction agreement.</p>
+         <p outputclass="List1" class="- topic/p ">(b) As authorized by 10 U.S.C. 1091, contracts
+            awarded to individuals using the procedures at <xref outputclass="fm:ParaNumOnly"
+               class="- topic/xref " base="DFARS-237.104" href="237.104.dita#DFARS-237.104"
+               >237.104</xref> (b)(ii) are exempt from the competition requirements of FAR Part 6<ph
+               rev="Revised February 28, 2022">.</ph></p>
       </conbody>
    </concept>
 </dita>

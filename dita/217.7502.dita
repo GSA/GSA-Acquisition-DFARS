@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-217.7502"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-217.7502" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">217.7502</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -14,22 +9,13 @@
          <p outputclass="List1" class="- topic/p ">(a)  May acquire replenishment parts concurrently with production of the end item.</p>
          <p outputclass="List1" class="- topic/p ">(b)  Shall provide for full and open competition when fully adequate drawings and any other needed data are available with the right to use for acquisition purposes (see Part 227).  However—</p>
          <p outputclass="List2" class="- topic/p ">(1)  When data is not available for a competitive acquisition, use one of the procedures in PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_217.7504"
-                  href="PGI_217.7504.dita#DFARS-PGI_PGI_217.7504">217.7504</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_217.7504" href="PGI_217.7504.dita#DFARS-PGI_PGI_217.7504" xtrc="217.7504">PGI 217.7504</xref>
             .</p>
          <p outputclass="List2" class="- topic/p ">(2)  Replenishment parts must be acquired so as to ensure the safe, dependable, and effective operation of the equipment.  Where this assurance is not possible with new sources, competition may be limited to the original manufacturer of the equipment or other sources that have previously manufactured or furnished the parts as long as the action is justified.  See 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-209.270"
-                  href="209.270.dita#DFARS-209.270">209.270</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-209.270" href="209.270.dita#DFARS-209.270" xtrc="209.270">209.270</xref>
              for requirements applicable to replenishment parts for aviation or ship critical safety items.</p>
          <p outputclass="List1" class="- topic/p ">(c)  Shall follow the limitations on price increases in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-217.7505"
-                  href="217.7505.dita#DFARS-217.7505">217.7505</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-217.7505" href="217.7505.dita#DFARS-217.7505" xtrc="217.7505">217.7505</xref>
             .</p>
       </conbody>
    </concept>

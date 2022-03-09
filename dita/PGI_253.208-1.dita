@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_253.208-1"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_253.208-1" outputclass="4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 253.208-1</ph>  DD Form 448, Military Interdepartmental Purchase Request.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)  Use the DD Form 448 as prescribed in PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1495348"
-                  href="PGI_208.70.dita#i1495348">208.70</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1495348" href="PGI_208.70.dita#i1495348">208.70</xref>
             .</p>
          <p outputclass="List1" class="- topic/p ">(b)  Prepare MIPR information in uniform contract format when possible.  Overprint of fixed repetitive information is authorized.</p>
          <p outputclass="List1" class="- topic/p ">(c)  Instructions for completion of DD Form 448.</p>
@@ -50,10 +41,7 @@
          <p outputclass="List3" class="- topic/p ">(vi)  If the names and addresses of invoicing and payment offices are provided the acquiring department after submission of the MIPR, the requiring department also must provide the DoDAAD code for each payment office.</p>
          <p outputclass="List2" class="- topic/p ">(7)  BLOCK 14.  Enter allotment data for the acquisition of supplies.  Enter each citation in Item 14 in the appropriate space as follows:</p>
          <p outputclass="List3" class="- topic/p ">(i)  Accounting Classification Reference Number (ACRN).  If the ACRN procedures of PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_204.7107"
-                  href="PGI_204.7107.dita#DFARS-PGI_PGI_204.7107">204.7107</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_204.7107" href="PGI_204.7107.dita#DFARS-PGI_PGI_204.7107" xtrc="204.7107">PGI 204.7107</xref>
              are used in the MIPR to relate allotment data to the MIPR item or delivery, enter the ACRN for each fund citation.  (The acquiring department, when preparing the contract, is not required to use the ACRN assigned to a fund citation in the MIPR.)</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Appropriation.  Enter the ten positions as follows:</p>
          <p outputclass="List4" class="- topic/p ">(A)  First and second - Treasury Department number identifying the department or agency to which the appropriation applies or has been transferred.</p>
