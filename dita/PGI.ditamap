@@ -6,24 +6,22 @@
 <?Fm BoolCondExpr "DITA-Topicref" State 0?>
 <?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll False?>
-<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-     title="DFARS"
-     outputclass="dfars">
+<map title="DFARS" outputclass="dfars">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              href="VolumeIII-Parts201to253_PGI.dita"
              outputclass="Volume"
              props="VolumeIII-Parts201to253 PGI"
-             audience="NoTitle"
+             audience="id1617M0T7027"
              otherprops="NoProp"
              base="NoTitle">
       <topicref navtitle="Defense Federal Acquisition Regulation - PGI"
                 href="Cover_PGI.dita"
                 props="Cover PGI"
-                audience="NoTitle"
+                audience="id16werw2KV"
                 otherprops="NoProp"
                 base="NoTitle">
          <topicmeta>
@@ -40,14 +38,15 @@ Federal Acquisition Regulation - PGI</navtitle>
              base="NoTitle">
       <topicref navtitle="Defense Federal Acquisition Regulation"
                 href="DFARpgi_a.dita"
-                outputclass="subtopic"
+                outputclass=""
                 props="DFARpgi a"
                 audience="PGI_DFAR_a"
-                base="NoTitle">
+                base="NoTitle"
+                otherprops="">
          <topicref navtitle="PGI PART 201 - FEDERAL ACQUISITION REGULATIONS SYSTEM"
                    href="PGI_PART_201.dita"
                    outputclass="Part"
-                   props="PGI PART_201"
+                   props="PGI PART 201"
                    audience="DFARS-PGI_PART_201"
                    base="NoTitle">
             <topicref navtitle="PGI 201.1 —PURPOSE, AUTHORITY, ISSUANCE"
@@ -78,40 +77,43 @@ under the Paperwork Reduction Act.</navtitle>
 acquisition-related dollar thresholds...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 201.170 Peer reviews."
+               <topicref navtitle="PGI 201.170 &#xA;         Peer reviews.&#xA;      "
                          href="PGI_201.170.dita"
                          outputclass="subtopic"
                          props="PGI 201.170"
                          audience="DFARS-PGI_PGI_201.170"
                          base="concept">
-                  <topicref navtitle="PGI 201.170-1 Objectives of peer reviews."
+                  <topicref navtitle="PGI 201.170-1 &#xA;         Objectives of peer reviews.&#xA;      "
                             href="PGI_201.170-1.dita"
                             outputclass="subtopic"
                             props="PGI 201.170-1"
                             audience="DFARS-PGI_PGI_201.170-1"
                             base="concept">
                      <topicmeta>
-                        <navtitle>PGI 201.170-1 Objectives of peer reviews.</navtitle>
+                        <navtitle>PGI 201.170-1 Objectives
+of peer reviews.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 201.170-2 Pre-award peer reviews."
+                  <topicref navtitle="PGI 201.170-2&#xA;          Pre-award peer reviews.&#xA;      "
                             href="PGI_201.170-2.dita"
                             outputclass="subtopic"
                             props="PGI 201.170-2"
                             audience="DFARS-PGI_PGI_201.170-2"
                             base="concept">
                      <topicmeta>
-                        <navtitle>PGI 201.170-2 Pre-award peer reviews.</navtitle>
+                        <navtitle>PGI 201.170-2 Pre-award
+peer reviews.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 201.170-3 Administration of peer reviews."
+                  <topicref navtitle="PGI 201.170-3 Administration&#xA;of peer reviews."
                             href="PGI_201.170-3.dita"
                             outputclass="subtopic"
                             props="PGI 201.170-3"
                             audience="DFARS-PGI_PGI_201.170-3"
                             base="concept">
                      <topicmeta>
-                        <navtitle>PGI 201.170-3 Administration of peer reviews.</navtitle>
+                        <navtitle>PGI 201.170-3 Administration
+of peer reviews.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -156,10 +158,10 @@ and compliance procedures.</navtitle>
                          props="PGI 201.602"
                          audience="DFARS-PGI_PGI_201.602"
                          base="concept">
-                  <topicref navtitle="PGI 201.602-2 Responsibilities."
+                  <topicref navtitle="PGI &#xA;201.602-2 Responsibilities."
                             href="PGI_201.602-2.dita"
                             outputclass="subtopic"
-                            props="PGI 201.602-2"
+                            props="PGI  201.602-2"
                             audience="DFARS-PGI_PGI_201.602-2"
                             base="concept">
                      <topicmeta>
@@ -172,7 +174,7 @@ and compliance procedures.</navtitle>
          <topicref navtitle="PGI PART 202 - DEFINITIONS OF WORDS AND TERMS"
                    href="PGI_PART_202.dita"
                    outputclass="Part"
-                   props="PGI PART_202"
+                   props="PGI PART 202"
                    audience="DFARS-PGI_PART_202"
                    base="NoTitle">
             <topicref navtitle="PGI 202.1 —DEFINITIONS"
@@ -196,7 +198,7 @@ and compliance procedures.</navtitle>
          <topicref navtitle="PGI PART 203 - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
                    href="PGI_PART_203.dita"
                    outputclass="Part"
-                   props="PGI PART_203"
+                   props="PGI PART 203"
                    audience="DFARS-PGI_PART_203"
                    base="NoTitle">
             <topicref navtitle="PGI 203.1 —SAFEGUARDS"
@@ -259,7 +261,7 @@ period.</navtitle>
          <topicref navtitle="PGI PART 204 - ADMINISTRATIVE AND INFORMATION MATTERS"
                    href="PGI_PART_204.dita"
                    outputclass="Part"
-                   props="PGI PART_204"
+                   props="PGI PART 204"
                    audience="DFARS-PGI_PART_204"
                    base="NoTitle">
             <topicref navtitle="PGI 204.1 —CONTRACT EXECUTION"
@@ -296,7 +298,7 @@ officer's signature.</navtitle>
                      <navtitle>PGI 204.201 Procedures.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 204.270 Electronic Document Access."
+               <topicref navtitle="PGI 204.270"
                          href="PGI_204.270.dita"
                          outputclass="subtopic"
                          props="PGI 204.270"
@@ -322,7 +324,7 @@ officer's signature.</navtitle>
                       base="NoTitle">
                <topicref navtitle="PGI 204.402 —General."
                          href="PGI_204.402.dita"
-                         outputclass="subtopic"
+                         outputclass="SubPart"
                          props="PGI 204.402"
                          audience="DFARS-PGI_PGI_204.402"
                          base="concept">
@@ -482,17 +484,17 @@ to Federal Procurement Data Sy...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 204.17 - SERVICE CONTRACT INVENTORY"
+            <topicref navtitle="&#xA;         PGI 204.17&#xA;         - SERVICE CONTRACT INVENTORY&#xA;      "
                       href="PGI_204.17.dita"
                       outputclass="SubPart"
                       props="PGI 204.17"
-                      audience="DFARS-PGI_PGI_204.17"
+                      audience="DFARS_PGI_PGI_204.17"
                       base="NoTitle">
-               <topicref navtitle="PGI 204.1703 Reporting requirements."
+               <topicref navtitle="&#xA;         PGI&#xA;204.1703 &#xA;         Reporting requirements.&#xA;      "
                          href="PGI_204.1703.dita"
                          outputclass="subtopic"
                          props="PGI 204.1703"
-                         audience="DFARS-PGI_PGI_204.1703"
+                         audience="DFARS_PGI_PGI_204.1703"
                          base="concept">
                   <topicmeta>
                      <navtitle>PGI 204.1703 Reporting
@@ -504,7 +506,7 @@ requirements.</navtitle>
                       href="PGI_204.18.dita"
                       outputclass="SubPart"
                       props="PGI 204.18"
-                      audience="DFARS-PGI_PGI_204.18"
+                      audience="i1495012"
                       base="NoTitle">
                <topicref navtitle="PGI 204.1870 Procedures."
                          href="PGI_204.1870.dita"
@@ -523,7 +525,7 @@ requirements.</navtitle>
 to contracting officers.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 204.1870-2 Maintenance of the CAGE file."
+                  <topicref navtitle="PGI 204.1870-2 Maintenance&#xA;of the CAGE file."
                             href="PGI_204.1870-2.dita"
                             outputclass="subtopic"
                             props="PGI 204.1870-2"
@@ -706,14 +708,15 @@ assessment activities.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_b.dita"
-                outputclass="subtopic"
+                outputclass=""
                 props="DFARpgi b"
                 audience="PGI_DFAR_b"
-                base="NoTitle">
+                base="NoTitle"
+                otherprops="">
          <topicref navtitle="PGI PART 205 - PUBLICIZING CONTRACT ACTIONS"
                    href="PGI_PART_205.dita"
                    outputclass="Part"
-                   props="PGI PART_205"
+                   props="PGI PART 205"
                    audience="DFARS-PGI_PART_205"
                    base="NoTitle">
             <topicref navtitle="PGI 205.2 —SYNOPSES OF PROPOSED CONTRACT ACTIONS"
@@ -738,7 +741,7 @@ and transmittal of synopses.</navtitle>
          <topicref navtitle="PGI PART 206 - COMPETITION REQUIREMENTS"
                    href="PGI_PART_206.dita"
                    outputclass="Part"
-                   props="PGI PART_206"
+                   props="PGI PART 206"
                    audience="DFARS-PGI_PART_206"
                    base="NoTitle">
             <topicref navtitle="PGI 206.000 Scope of part."
@@ -750,6 +753,21 @@ and transmittal of synopses.</navtitle>
                <topicmeta>
                   <navtitle>PGI 206.000 Scope of part.</navtitle>
                </topicmeta>
+            </topicref>
+            <topicref navtitle="PGI 206.001 Reserved"
+                      href="PGI_206.001.dita"
+                      audience="dxztPx"
+                      otherprops=""
+                      base="NoTitle"
+                      props="PGI 206.001 Reserved"
+                      outputclass="subtopic">
+               <topicref navtitle="Exception for prototype projects for follow-on production contracts."
+                         href="PGI_206.001-70.dita"
+                         audience="fxPGOF"
+                         otherprops=""
+                         base="NoTitle"
+                         props=""
+                         outputclass="subtopic"/>
             </topicref>
             <topicref navtitle="PGI 206.2 —FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES "
                       href="PGI_206.2.dita"
@@ -848,7 +866,7 @@ of the justification.</navtitle>
          <topicref navtitle="PGI PART 207 - ACQUISITION PLANNING"
                    href="PGI_PART_207.dita"
                    outputclass="Part"
-                   props="PGI PART_207"
+                   props="PGI PART 207"
                    audience="DFARS-PGI_PART_207"
                    base="NoTitle">
             <topicref navtitle="PGI 207.1 —ACQUISITION PLANS"
@@ -868,7 +886,7 @@ of the justification.</navtitle>
 responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 207.105 Contents of written acquisition plans."
+               <topicref navtitle="PGI 207.105 Contents of written&#xA;acquisition plans."
                          href="PGI_207.105.dita"
                          outputclass="subtopic"
                          props="PGI 207.105"
@@ -953,10 +971,10 @@ requirements.</navtitle>
          <topicref navtitle="PGI PART 208 - REQUIRED SOURCES OF SUPPLIES AND SERVICES"
                    href="PGI_PART_208.dita"
                    outputclass="Part"
-                   props="PGI PART_208"
+                   props="PGI PART 208"
                    audience="DFARS-PGI_PART_208"
                    base="NoTitle">
-            <topicref navtitle="PGI 208.002 Priorities for use of mandatory Government sources."
+            <topicref navtitle="PGI 208.002 Priorities for&#xA;use of mandatory Government sources."
                       href="PGI_208.002.dita"
                       outputclass="subtopic"
                       props="PGI 208.002"
@@ -976,8 +994,9 @@ for use of mandatory Government sour...</navtitle>
                <topicref navtitle="PGI 208.405 Reserved"
                          href="PGI_208.405.dita"
                          outputclass="subtopic"
-                         props="PGI 208.405"
-                         base="concept">
+                         props="PGI 208.405 Reserved"
+                         base="concept"
+                         audience="DFARS-PGI_PGI_208.405">
                   <topicref navtitle="PGI 208.405-6 Limiting sources."
                             href="PGI_208.405-6.dita"
                             outputclass="subtopic"
@@ -1018,11 +1037,12 @@ sources.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 208.7—ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED"
+            <topicref navtitle="PGI 208.7—ACQUISITION&#xA;FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY&#xA;DISABLED"
                       href="PGI_208.7.dita"
                       outputclass="SubPart"
-                      props="PGI 208.4"
-                      base="NoTitle">
+                      props="PGI 208.7"
+                      base="NoTitle"
+                      audience="i207NEA00K5Z">
                <topicmeta>
                   <navtitle>PGI 208.7—ACQUISITION
 FROM NONPROFIT AGENCIES EMPLOYING P...</navtitle>
@@ -1207,7 +1227,7 @@ costs.</navtitle>
                   <topicref navtitle="ASSIGNMENTS_PART_1 —ARMY ASSIGNMENTS"
                             href="ASSIGNMENTS_PART1.dita"
                             outputclass="subtopic"
-                            props="ASSIGNMENTS PART_1"
+                            props="PART_1"
                             audience="DFARS-PGI_ASSIGNMENTS_PART_1"
                             base="concept">
                      <topicmeta>
@@ -1217,7 +1237,7 @@ costs.</navtitle>
                   <topicref navtitle="ASSIGNMENTS_PART2 —NAVY ASSIGNMENTS"
                             href="ASSIGNMENTS_PART2.dita"
                             outputclass="subtopic"
-                            props="ASSIGNMENTS PART2"
+                            props="PART2"
                             audience="DFARS-PGI_ASSIGNMENTS_PART2"
                             base="concept">
                      <topicmeta>
@@ -1228,7 +1248,7 @@ ASSIGNMENTS</navtitle>
                   <topicref navtitle="ASSIGNMENTS_PART3 —AIR FORCE ASSIGNMENTS"
                             href="ASSIGNMENTS_PART3.dita"
                             outputclass="subtopic"
-                            props="ASSIGNMENTS PART3"
+                            props="PART3"
                             audience="DFARS-PGI_ASSIGNMENTS_PART3"
                             base="concept">
                      <topicmeta>
@@ -1236,10 +1256,10 @@ ASSIGNMENTS</navtitle>
 FORCE ASSIGNMENTS</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="ASSIGNMENTS_PART4 —DEFENSE LOGISTICS AGENCY ASSIGNMENTS"
+                  <topicref navtitle="ASSIGNMENTS_PART4 —DEFENSE&#xA;LOGISTICS AGENCY ASSIGNMENTS"
                             href="ASSIGNMENTS_PART4.dita"
                             outputclass="subtopic"
-                            props="ASSIGNMENTS PART4"
+                            props="PART4"
                             audience="DFARS-PGI_ASSIGNMENTS_PART4"
                             base="concept">
                      <topicmeta>
@@ -1250,7 +1270,7 @@ LOGISTICS AGENCY ASSIGNMENTS</navtitle>
                   <topicref navtitle="ASSIGNMENTS_PART5 —DEFENSE THREAT REDUCTION AGENCY ASSIGNMENTS"
                             href="ASSIGNMENTS_PART5.dita"
                             outputclass="subtopic"
-                            props="ASSIGNMENTS PART5"
+                            props="PART5"
                             audience="DFARS-PGI_ASSIGNMENTS_PART5"
                             base="concept">
                      <topicmeta>
@@ -1261,7 +1281,7 @@ THREAT REDUCTION AGENCY ASSIGN...</navtitle>
                   <topicref navtitle="ASSIGNMENTS_PART6 —GENERAL SERVICES ADMINISTRATION ASSIGNMENTS"
                             href="ASSIGNMENTS_PART6.dita"
                             outputclass="subtopic"
-                            props="ASSIGNMENTS PART6"
+                            props="PART6"
                             audience="DFARS-PGI_ASSIGNMENTS_PART6"
                             base="concept">
                      <topicmeta>
@@ -1397,7 +1417,7 @@ procedures.</navtitle>
          <topicref navtitle="PGI PART 209 - CONTRACTOR QUALIFICATIONS"
                    href="PGI_PART_209.dita"
                    outputclass="Part"
-                   props="PGI PART_209"
+                   props="PGI PART 209"
                    audience="DFARS-PGI_PART_209"
                    base="NoTitle">
             <topicref navtitle="PGI 209.1 —RESPONSIBLE PROSPECTIVE CONTRACTORS"
@@ -1410,7 +1430,8 @@ procedures.</navtitle>
                          href="PGI_209.105.dita"
                          outputclass="subtopic"
                          props="PGI 209.105"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_209.105">
                   <topicref navtitle="PGI 209.105-1 Obtaining Information."
                             href="PGI_209.105-1.dita"
                             outputclass="subtopic"
@@ -1595,7 +1616,7 @@ engineering and technical assistance ...</navtitle>
          <topicref navtitle="PGI PART 210 - MARKET RESEARCH"
                    href="PGI_PART_210.dita"
                    outputclass="Part"
-                   props="PGI PART_210"
+                   props="PGI PART 210"
                    audience="DFARS-PGI_PART_210"
                    base="NoTitle">
             <topicref navtitle="PGI 210.002 Procedures."
@@ -1623,7 +1644,7 @@ report guide for improving the ...</navtitle>
          <topicref navtitle="PGI PART 211 - DESCRIBING AGENCY NEEDS"
                    href="PGI_PART_211.dita"
                    outputclass="Part"
-                   props="PGI PART_211"
+                   props="PGI PART 211"
                    audience="DFARS-PGI_PART_211"
                    base="NoTitle">
             <topicref navtitle="PGI 211.1 —SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS"
@@ -1650,7 +1671,7 @@ to one manufacturer.</navtitle>
                       props="PGI 211.2"
                       audience="i1495536"
                       base="NoTitle">
-               <topicref navtitle="PGI 211.201 Identification and availability of          specifications."
+               <topicref navtitle="PGI 211.201 Identification and availability of&#xA;         specifications."
                          href="PGI_211.201.dita"
                          outputclass="subtopic"
                          props="PGI 211.201"
@@ -1722,7 +1743,7 @@ REQUESTS</navtitle>
          <topicref navtitle="PGI PART 212 - ACQUISITION OF COMMERCIAL ITEMS"
                    href="PGI_PART_212.dita"
                    outputclass="Part"
-                   props="PGI PART_212"
+                   props="PGI PART 212"
                    audience="DFARS-PGI_PART_212"
                    base="NoTitle">
             <topicref navtitle="PGI 212.1 —ACQUISITION OF COMMERCIAL ITEMS—GENERAL"
@@ -1800,14 +1821,15 @@ requirements.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_c.dita"
-                outputclass="subtopic"
+                outputclass=""
                 props="DFARpgi c"
                 audience="PGI_DFAR_c"
-                base="NoTitle">
-         <topicref navtitle="PGI PART 213 - SIMPLIFIED ACQUISITION PROCEDURES"
+                base="NoTitle"
+                otherprops="">
+         <topicref navtitle="PGI PART 213 - SIMPLIFIED ACQUISITION&#xA;PROCEDURES"
                    href="PGI_PART_213.dita"
                    outputclass="Part"
-                   props="PGI PART_213"
+                   props="PGI PART 213"
                    audience="DFARS-PGI_PART_213"
                    base="NoTitle">
             <topicref navtitle="PGI 213.1 —PROCEDURES"
@@ -1906,7 +1928,7 @@ Order-Invoice-Voucher.</navtitle>
          <topicref navtitle="PGI PART 215 - CONTRACTING BY NEGOTIATION"
                    href="PGI_PART_215.dita"
                    outputclass="Part"
-                   props="PGI PART_215"
+                   props="PGI PART 215"
                    audience="DFARS-PGI_PART_215"
                    base="NoTitle">
             <topicref navtitle="PGI 215.1 –SOURCE SELECTION PROCESSES AND TECHNIQUES"
@@ -1919,8 +1941,9 @@ Order-Invoice-Voucher.</navtitle>
                          href="PGI_215.101.dita"
                          outputclass="subtopic"
                          props="PGI 215.101"
-                         base="concept">
-                  <topicref navtitle="PGI 215.101-2-70 Limitations and prohibitions."
+                         base="concept"
+                         audience="DFARS-PGI_PGI_215.101">
+                  <topicref navtitle="PGI 215.101-2-70 Limitations&#xA;and prohibitions."
                             href="PGI_215.101-2-70.dita"
                             outputclass="subtopic"
                             props="PGI 215.101-2-70"
@@ -2030,7 +2053,7 @@ competition.</navtitle>
                          props="PGI 215.403"
                          audience="DFARS-PGI_PGI_215.403"
                          base="concept">
-                  <topicref navtitle="PGI 215.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35)."
+                  <topicref navtitle="PGI 215.403-1 Prohibition on&#xA;obtaining certified cost or pricing data (10 U.S.C. 2306a and 41&#xA;U.S.C. chapter 35)."
                             href="PGI_215.403-1.dita"
                             outputclass="subtopic"
                             props="PGI 215.403-1"
@@ -2041,7 +2064,7 @@ competition.</navtitle>
 on obtaining certified cost or pr...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 215.403-3 Requiring data other than certified cost or pricing data."
+                  <topicref navtitle="PGI 215.403-3 Requiring data&#xA;other than certified cost or pricing data."
                             href="PGI_215.403-3.dita"
                             outputclass="subtopic"
                             props="PGI 215.403-3"
@@ -2059,7 +2082,7 @@ data other than certified cost or p...</navtitle>
                          props="PGI 215.404"
                          audience="DFARS-PGI_PGI_215.404"
                          base="concept">
-                  <topicref navtitle="PGI 215.404-1 Proposal analysis techniques."
+                  <topicref navtitle="PGI 215.404-1 Proposal analysis&#xA;techniques."
                             href="PGI_215.404-1.dita"
                             outputclass="subtopic"
                             props="PGI 215.404-1"
@@ -2130,8 +2153,9 @@ capital employed.</navtitle>
                          href="PGI_215.406.dita"
                          outputclass="subtopic"
                          props="PGI 215.406"
-                         base="concept">
-                  <topicref navtitle="PGI 215.406-1 Prenegotiation objectives."
+                         base="concept"
+                         audience="DFARS-PGI_PGI_215.406">
+                  <topicref navtitle="PGI 215.406-1 Prenegotiation&#xA;objectives."
                             href="PGI_215.406-1.dita"
                             outputclass="subtopic"
                             props="PGI 215.406-1"
@@ -2142,11 +2166,12 @@ capital employed.</navtitle>
 objectives.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 215.406-2 Prenegotiation objectives."
+                  <topicref navtitle="PGI 215.406-2 Prenegotiation&#xA;objectives."
                             href="PGI_215.406-2.dita"
                             outputclass="subtopic"
                             props="PGI 215.406-2"
-                            base="concept">
+                            base="concept"
+                            audience="DFARS-PGI_PGI_215.406-2">
                      <topicmeta>
                         <navtitle>PGI
 215.406-2 Prenegotiation objectives.</navtitle>
@@ -2168,7 +2193,8 @@ the negotiation.</navtitle>
                          href="PGI_215.407.dita"
                          outputclass="subtopic"
                          props="PGI 215.407"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_215.407">
                   <topicref navtitle="PGI 215.407-2 Make-or-buy programs."
                             href="PGI_215.407-2.dita"
                             outputclass="subtopic"
@@ -2226,7 +2252,7 @@ data prices.</navtitle>
          <topicref navtitle="PGI PART 216 - TYPES OF CONTRACTS"
                    href="PGI_PART_216.dita"
                    outputclass="Part"
-                   props="PGI PART_216"
+                   props="PGI PART 216"
                    audience="DFARS-PGI_PART_216"
                    base="NoTitle">
             <topicref navtitle="PGI 216.1 —SELECTING CONTRACT TYPES"
@@ -2430,7 +2456,7 @@ agreements.</navtitle>
          <topicref navtitle="PGI PART 217 - SPECIAL CONTRACTING METHODS"
                    href="PGI_PART_217.dita"
                    outputclass="Part"
-                   props="PGI PART_217"
+                   props="PGI PART 217"
                    audience="DFARS-PGI_PART_217"
                    base="NoTitle">
             <topicref navtitle="PGI 217.1 —MULTIYEAR CONTRACTING"
@@ -2439,7 +2465,7 @@ agreements.</navtitle>
                       props="PGI 217.1"
                       audience="i1495992"
                       base="NoTitle">
-               <topicref navtitle="PGI 217.174 Multiyear contracts for electricity from renewable energy sources."
+               <topicref navtitle="PGI 217.174 Multiyear contracts&#xA;for electricity from renewable energy sources."
                          href="PGI_217.174.dita"
                          outputclass="subtopic"
                          props="PGI 217.174"
@@ -2536,7 +2562,7 @@ Non...</navtitle>
                          props="PGI 217.7103"
                          audience="DFARS-PGI_PGI_217.7103"
                          base="concept">
-                  <topicref navtitle="PGI 217.7103-1 Content and format of master agreements."
+                  <topicref navtitle="PGI 217.7103-1 Content and&#xA;format of master agreements."
                             href="PGI_217.7103-1.dita"
                             outputclass="subtopic"
                             props="PGI 217.7103-1"
@@ -2592,7 +2618,8 @@ costs not readily ascertainable.</navtitle>
                          href="PGI_217.7404.dita"
                          outputclass="subtopic"
                          props="PGI 217.7404"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_217.7404">
                   <topicref navtitle="PGI 217.7404-1 Authorization."
                             href="PGI_217.7404-1.dita"
                             outputclass="subtopic"
@@ -2686,7 +2713,7 @@ of parts when data is not availabl...</navtitle>
                <topicref navtitle="SPARE_PART_1 —GENERAL"
                          href="SPARE_PART_1.dita"
                          outputclass="subtopic"
-                         props="SPARE PART_1"
+                         props="PART_1"
                          audience="DFARS-PGI_SPARE_PART_1"
                          base="concept">
                   <topicref navtitle="1-101 Applicability."
@@ -3021,7 +3048,7 @@ Responsibilities.</navtitle>
                <topicref navtitle="SPARE_PART_2 —BREAKOUT CODING"
                          href="SPARE_PART_2.dita"
                          outputclass="subtopic"
-                         props="SPARE PART_2"
+                         props="PART_2"
                          audience="DFARS-PGI_SPARE_PART_2"
                          base="concept">
                   <topicref navtitle="2-200 Scope."
@@ -3120,7 +3147,7 @@ Improving part status.</navtitle>
                <topicref navtitle="SPARE_PART_3 —IDENTIFICATION, SELECTION, AND SCREENING OF PARTS"
                          href="SPARE_PART_3.dita"
                          outputclass="subtopic"
-                         props="SPARE PART_3"
+                         props="PART_3"
                          audience="DFARS-PGI_SPARE_PART_3"
                          base="concept">
                   <topicref navtitle="3-300 General."
@@ -3264,7 +3291,7 @@ Limited screening procedures.</navtitle>
                <topicref navtitle="SPARE_PART_4 —CONTRACTOR'S ASSISTANCE"
                          href="SPARE_PART_4.dita"
                          outputclass="subtopic"
-                         props="SPARE PART_4"
+                         props="PART_4"
                          audience="DFARS-PGI_SPARE_PART_4"
                          base="concept">
                   <topicref navtitle="4-400 General."
@@ -3293,7 +3320,7 @@ Contractor's technical evaluation procedures.</navtitle>
                <topicref navtitle="SPARE_PART_5 —REPORTING SYSTEM"
                          href="SPARE_PART_5.dita"
                          outputclass="subtopic"
-                         props="SPARE PART_5"
+                         props="PART_5"
                          audience="DFARS-PGI_SPARE_PART_5"
                          base="concept">
                   <topicref navtitle="5-500 General."
@@ -3376,7 +3403,7 @@ Reporting instructions.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 217.78 DELETED (NO CURRENT PGI TEXT)"
+            <topicref navtitle="PGI 217.78 DELETED&#xA;(NO CURRENT PGI TEXT)"
                       href="PGI_217.78.dita"
                       outputclass="SubPart"
                       props="PGI 217.78"
@@ -3390,7 +3417,7 @@ Reporting instructions.</navtitle>
          <topicref navtitle="PGI PART 218 - EMERGENCY ACQUISITIONS"
                    href="PGI_PART_218.dita"
                    outputclass="Part"
-                   props="PGI PART_218"
+                   props="PGI PART 218"
                    audience="DFARS-PGI_PART_218"
                    base="NoTitle">
             <topicref navtitle="PGI 218.2 —EMERGENCY ACQUISITION FLEXIBILITIES"
@@ -3422,14 +3449,15 @@ business tools.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_d.dita"
-                outputclass="subtopic"
+                outputclass=""
                 props="DFARpgi d"
                 audience="PGI_DFAR_d"
-                base="NoTitle">
+                base="NoTitle"
+                otherprops="">
          <topicref navtitle="PGI PART 219 - SMALL BUSINESS PROGRAMS"
                    href="PGI_PART_219.dita"
                    outputclass="Part"
-                   props="PGI PART_219"
+                   props="PGI PART 219"
                    audience="DFARS-PGI_PART_219"
                    base="NoTitle">
             <topicref navtitle="PGI 219.2 —POLICIES"
@@ -3651,7 +3679,7 @@ acquisitions for the 8(a) Program.</navtitle>
          <topicref navtitle="PGI PART 222 - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS"
                    href="PGI_PART_222.dita"
                    outputclass="Part"
-                   props="PGI PART_222"
+                   props="PGI PART 222"
                    audience="DFARS-PGI_PART_222"
                    base="NoTitle">
             <topicref navtitle="PGI 222.1 —BASIC LABOR POLICIES"
@@ -3775,7 +3803,8 @@ requirements.</navtitle>
                          href="PGI_222.1008.dita"
                          outputclass="subtopic"
                          props="PGI 222.1008"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_222.1008">
                   <topicref navtitle="PGI 222.1008-1 Obtaining wage determinations."
                             href="PGI_222.1008-1.dita"
                             outputclass="subtopic"
@@ -3855,7 +3884,7 @@ and remedies.</navtitle>
          <topicref navtitle="PGI PART 223 - ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE"
                    href="PGI_PART_223.dita"
                    outputclass="Part"
-                   props="PGI PART_223"
+                   props="PGI PART 223"
                    audience="DFARS-PGI_PART_223"
                    base="NoTitle">
             <topicref navtitle="PGI 223.3 —HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA"
@@ -3921,7 +3950,7 @@ and approval.</navtitle>
          <topicref navtitle="PGI PART 225 - INTERNATIONAL ACQUISITION"
                    href="PGI_PART_225.dita"
                    outputclass="Part"
-                   props="PGI PART_225"
+                   props="PGI PART 225"
                    audience="DFARS-PGI_PART_225"
                    base="NoTitle">
             <topicref navtitle="PGI 225.001 General."
@@ -3955,7 +3984,7 @@ of acquisition of end products manufa...</navtitle>
                   <navtitle>PGI 225.3 CONTRACTS PERFORMED OUTSIDE THE UNITED STATES</navtitle>
                </topicmeta>
             </topicref>
-            <topicref navtitle="PGI 225.370 Contracts requiring performance or delivery in a foreign country."
+            <topicref navtitle="PGI 225.370 Contracts requiring&#xA;performance or delivery in a foreign country."
                       href="PGI_225.370.dita"
                       outputclass="subtopic"
                       props="PGI 225.370"
@@ -4099,13 +4128,13 @@ prohibition.</navtitle>
                <topicref navtitle="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism."
                          href="PGI_225.771.dita"
                          outputclass="subtopic"
-                         props="PGI 225.771"
+                         props="225.771"
                          audience="DFARS-PGI____225.771"
                          base="concept">
                   <topicref navtitle="225.771-3 Notification."
                             href="PGI_225.771-3.dita"
                             outputclass="subtopic"
-                            props="PGI 225.771-3"
+                            props="225.771-3"
                             audience="DFARS-PGI____225.771-3"
                             base="concept">
                      <topicmeta>
@@ -4396,7 +4425,7 @@ determination.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="PGI 225.7019 Prohibition on use of certain energy sourced from inside the Russian Federation."
+               <topicref navtitle="PGI 225.7019 Prohibition on&#xA;use of certain energy sourced from inside the Russian Federation."
                          href="PGI_225.7019.dita"
                          outputclass="subtopic"
                          props="PGI 225.7019"
@@ -4546,7 +4575,7 @@ doing business with a foreign govern...</navtitle>
 procedures.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 225.7703-2 Determination requirements."
+                  <topicref navtitle="PGI 225.7703-2 Determination&#xA;requirements."
                             href="PGI_225.7703-2.dita"
                             outputclass="subtopic"
                             props="PGI 225.7703-2"
@@ -4631,7 +4660,7 @@ requirements.</navtitle>
          <topicref navtitle="PGI PART 226 - OTHER SOCIOECONOMIC PROGRAMS"
                    href="PGI_PART_226.dita"
                    outputclass="Part"
-                   props="PGI PART_226"
+                   props="PGI PART 226"
                    audience="DFARS-PGI_PART_226"
                    base="NoTitle">
             <topicref navtitle="PGI 226.1 —INDIAN INCENTIVE PROGRAM"
@@ -4662,14 +4691,15 @@ requirements.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_e.dita"
-                outputclass="subtopic"
+                outputclass=""
                 props="DFARpgi e"
                 audience="PGI_DFAR_e"
-                base="NoTitle">
+                base="NoTitle"
+                otherprops="">
          <topicref navtitle="PGI PART 228 - BONDS AND INSURANCE"
                    href="PGI_PART_228.dita"
                    outputclass="Part"
-                   props="PGI PART_228"
+                   props="PGI PART 228"
                    audience="DFARS-PGI_PART_228"
                    base="NoTitle">
             <topicref navtitle="PGI 228.3 —INSURANCE"
@@ -4716,7 +4746,7 @@ clauses.</navtitle>
          <topicref navtitle="PGI PART 229 - TAXES"
                    href="PGI_PART_229.dita"
                    outputclass="Part"
-                   props="PGI PART_229"
+                   props="PGI PART 229"
                    audience="DFARS-PGI_PART_229"
                    base="NoTitle">
             <topicref navtitle="PGI 229.1 —GENERAL"
@@ -4831,7 +4861,7 @@ required by HM Customs and Excis...</navtitle>
          <topicref navtitle="PGI PART 230 - COST ACCOUNTING STANDARDS"
                    href="PGI_PART_230.dita"
                    outputclass="Part"
-                   props="PGI PART_230"
+                   props="PGI PART 230"
                    audience="DFARS-PGI_PART_230"
                    base="NoTitle">
             <topicref navtitle="PGI 230.2 —CAS PROGRAM REQUIREMENTS "
@@ -4855,7 +4885,7 @@ required by HM Customs and Excis...</navtitle>
          <topicref navtitle="PGI PART 231 - CONTRACT COST PRINCIPLES AND PROCEDURES"
                    href="PGI_PART_231.dita"
                    outputclass="Part"
-                   props="PGI PART_231"
+                   props="PGI PART 231"
                    audience="DFARS-PGI_PART_231"
                    base="NoTitle">
             <topicref navtitle="PGI 231.2 —CONTRACTS WITH COMMERCIAL ORGANIZATIONS"
@@ -4880,7 +4910,7 @@ restructuring costs.</navtitle>
          <topicref navtitle="PGI PART 232 - CONTRACT FINANCING"
                    href="PGI_PART_232.dita"
                    outputclass="Part"
-                   props="PGI PART_232"
+                   props="PGI PART 232"
                    audience="DFARS-PGI_PART_232"
                    base="NoTitle">
             <topicref navtitle="PGI 232.070 Responsibilities."
@@ -4903,7 +4933,8 @@ restructuring costs.</navtitle>
                          href="PGI_232.409.dita"
                          outputclass="subtopic"
                          props="PGI 232.409"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_232.409">
                   <topicref navtitle="PGI 232.409-1 Recommendation for approval."
                             href="PGI_232.409-1.dita"
                             outputclass="subtopic"
@@ -4938,7 +4969,8 @@ determination, and authorization.</navtitle>
                          href="PGI_232.501.dita"
                          outputclass="subtopic"
                          props="PGI 232.501"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_232.501">
                   <topicref navtitle="PGI 232.501-2 Unusual progress payments."
                             href="PGI_232.501-2.dita"
                             outputclass="subtopic"
@@ -5059,7 +5091,7 @@ procedures.</navtitle>
          <topicref navtitle="PGI PART 233 - PROTESTS, DISPUTES, AND APPEALS"
                    href="PGI_PART_233.dita"
                    outputclass="Part"
-                   props="PGI PART_233"
+                   props="PGI PART 233"
                    audience="DFARS-PGI_PART_233"
                    base="NoTitle">
             <topicref navtitle="PGI 233.1 —PROTESTS"
@@ -5120,14 +5152,15 @@ officer's authority.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_f.dita"
-                outputclass="subtopic"
+                outputclass=""
                 props="DFARpgi f"
                 audience="PGI_DFAR_f"
-                base="NoTitle">
-         <topicref navtitle="PGI PART 234 - MAJOR SYSTEM ACQUISITION"
+                base="NoTitle"
+                otherprops="">
+         <topicref navtitle="PGI PART 234 - MAJOR SYSTEM&#xA;ACQUISITION"
                    href="PGI_PART_234.dita"
                    outputclass="Part"
-                   props="PGI PART_234"
+                   props="PGI PART 234"
                    audience="DFARS-PGI_PART_234"
                    base="NoTitle">
             <topicref navtitle="PGI 234.2 —EARNED VALUE MANAGEMENT SYSTEM"
@@ -5185,7 +5218,7 @@ officer's authority.</navtitle>
          <topicref navtitle="PGI PART 235 - RESEARCH AND DEVELOPMENT CONTRACTING"
                    href="PGI_PART_235.dita"
                    outputclass="Part"
-                   props="PGI PART_235"
+                   props="PGI PART 235"
                    audience="DFARS-PGI_PART_235"
                    base="NoTitle">
             <topicref navtitle="PGI 235.010 Scientific and technical reports."
@@ -5200,10 +5233,10 @@ and technical reports.</navtitle>
                </topicmeta>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI PART 236 - CONSTRUCTION AND ARCHITECT — ENGINEER CONTRACTS"
+         <topicref navtitle="PGI PART 236 - CONSTRUCTION&#xA;AND ARCHITECT — ENGINEER CONTRACTS"
                    href="PGI_PART_236.dita"
                    outputclass="Part"
-                   props="PGI PART_236"
+                   props="PGI PART 236"
                    audience="DFARS-PGI_PART_236"
                    base="NoTitle">
             <topicref navtitle="PGI 236.2 —SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION"
@@ -5286,10 +5319,10 @@ criteria.</navtitle>
          <topicref navtitle="PGI PART 237 - SERVICE CONTRACTING"
                    href="PGI_PART_237.dita"
                    outputclass="Part"
-                   props="PGI PART_237"
+                   props="PGI PART 237"
                    audience="DFARS-PGI_PART_237"
                    base="NoTitle">
-            <topicref navtitle="PGI 237.1 —SERVICE CONTRACTS—GENERAL"
+            <topicref navtitle="PGI 237.1 —SERVICE&#xA;CONTRACTS—GENERAL"
                       href="PGI_237.1.dita"
                       outputclass="SubPart"
                       props="PGI 237.1"
@@ -5299,7 +5332,8 @@ criteria.</navtitle>
                          href="PGI_237.102.dita"
                          outputclass="subtopic"
                          props="PGI 237.102"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_237.102">
                   <topicref navtitle="PGI 237.102-70 Prohibition on contracting for firefighting or security-guard functions."
                             href="PGI_237.102-70.dita"
                             outputclass="subtopic"
@@ -5322,7 +5356,7 @@ on contracting for firefighting ...</navtitle>
 on service contracts for military...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 237.102-73 Prohibition on contracts for services of senior mentors."
+                  <topicref navtitle="PGI 237.102-73 Prohibition&#xA;on contracts for services of senior mentors."
                             href="PGI_237.102-73.dita"
                             outputclass="subtopic"
                             props="PGI 237.102-73"
@@ -5333,7 +5367,7 @@ on service contracts for military...</navtitle>
 on contracts for services of sen...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 237.102-74 Taxonomy for the acquisition of services and supplies &amp; equipment."
+                  <topicref navtitle="PGI 237.102-74 Taxonomy for&#xA;the acquisition of services and supplies &amp; equipment."
                             href="PGI_237.102-74.dita"
                             outputclass="subtopic"
                             props="PGI 237.102-74"
@@ -5355,7 +5389,7 @@ for the acquisition of services and...</navtitle>
 Acquisition Guidebook.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 237.102-76Reserved."
+                  <topicref navtitle="PGI 237.102-76&#xA;         Reserved."
                             href="PGI_237.102-76.dita"
                             outputclass="subtopic"
                             props="PGI 237.102-76"
@@ -5387,7 +5421,7 @@ requirements roadmap tool.</navtitle>
 research report guide for improving t...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 237.102-79 Private sector notification requirements in support of in-sourcing actions."
+                  <topicref navtitle="PGI 237.102-79 Private sector&#xA;notification requirements in support of in-sourcing actions."
                             href="PGI_237.102-79.dita"
                             outputclass="subtopic"
                             props="PGI 237.102-79"
@@ -5428,13 +5462,13 @@ surveillance.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 237.2 —ADVISORY AND ASSISTANCE SERVICES"
+            <topicref navtitle="PGI 237.2 —ADVISORY&#xA;AND ASSISTANCE SERVICES"
                       href="PGI_237.2.dita"
                       outputclass="SubPart"
                       props="PGI 237.2"
                       audience="i1497319"
                       base="NoTitle">
-               <topicref navtitle="PGI 237.270 Acquisition of audit services."
+               <topicref navtitle="PGI 237.270 Acquisition of&#xA;audit services."
                          href="PGI_237.270.dita"
                          outputclass="subtopic"
                          props="PGI 237.270"
@@ -5446,7 +5480,7 @@ of audit services.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 237.5 —MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS"
+            <topicref navtitle="PGI 237.5 —MANAGEMENT&#xA;OVERSIGHT OF SERVICE CONTRACTS"
                       href="PGI_237.5.dita"
                       outputclass="SubPart"
                       props="PGI 237.5"
@@ -5464,7 +5498,7 @@ responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 237.70 —MORTUARY SERVICES"
+            <topicref navtitle="PGI 237.70 —MORTUARY&#xA;SERVICES"
                       href="PGI_237.70.dita"
                       outputclass="SubPart"
                       props="PGI 237.70"
@@ -5472,7 +5506,7 @@ responsibilities.</navtitle>
                       base="NoTitle">
                <topicref navtitle="PGI 237.7002 AREA OF PERFORMANCE AND DISTRIBUTION OF CONTRACTS."
                          href="PGI_237.7002.dita"
-                         outputclass="subtopic"
+                         outputclass="SubPart"
                          props="PGI 237.7002"
                          audience="i1497334"
                          base="NoTitle">
@@ -5486,7 +5520,7 @@ OF CONTRA...</navtitle>
          <topicref navtitle="PGI PART 239 - ACQUISITION OF INFORMATION TECHNOLOGY"
                    href="PGI_PART_239.dita"
                    outputclass="Part"
-                   props="PGI PART_239"
+                   props="PGI PART 239"
                    audience="DFARS-PGI_PART_239"
                    base="NoTitle">
             <topicref navtitle="PGI 239.71 —SECURITY AND PRIVACY FOR COMPUTER SYSTEMS"
@@ -5530,7 +5564,7 @@ assurance contractor training an...</navtitle>
                      <navtitle>PGI 239.7402 Policy.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 239.7405 Delegated authority for telecommunications resources."
+               <topicref navtitle="PGI 239.7405 Delegated authority&#xA;for telecommunications resources."
                          href="PGI_239.7405.dita"
                          outputclass="subtopic"
                          props="PGI 239.7405"
@@ -5541,7 +5575,7 @@ assurance contractor training an...</navtitle>
 authority for telecommunications res...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 239.7406 Certified cost or pricing data and data other than certified cost or pricing data."
+               <topicref navtitle="PGI 239.7406 Certified cost&#xA;or pricing data and data other than certified cost or pricing data."
                          href="PGI_239.7406.dita"
                          outputclass="subtopic"
                          props="PGI 239.7406"
@@ -5649,16 +5683,16 @@ assessment activities.</navtitle>
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI PART 241 - ACQUISITION OF UTILITY SERVICES"
+         <topicref navtitle="PGI PART 241 - ACQUISITION&#xA;OF UTILITY SERVICES"
                    href="PGI_PART_241.dita"
                    outputclass="Part"
-                   props="PGI PART_241"
+                   props="PGI PART 241"
                    audience="DFARS-PGI_PART_241"
                    base="NoTitle">
-            <topicref navtitle="PGI 241.1— GENERAL"
+            <topicref navtitle="PGI 241.1—&#xA;GENERAL"
                       href="PGI_241.1--.dita"
                       outputclass="SubPart"
-                      props="PGI 241.1--"
+                      props="PGI 241.1"
                       audience="i1497393"
                       base="NoTitle">
                <topicref navtitle="PGI 241.103 Statutory and delegated authority."
@@ -5676,7 +5710,7 @@ and delegated authority.</navtitle>
             <topicref navtitle="PGI 241.2— ACQUIRING UTILITY SERVICES"
                       href="PGI_241.2--.dita"
                       outputclass="SubPart"
-                      props="PGI 241.2--"
+                      props="PGI 241.2"
                       audience="i1497399"
                       base="NoTitle">
                <topicref navtitle="PGI 241.202 Procedures."
@@ -5711,14 +5745,15 @@ and delegated authority.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_g.dita"
-                outputclass="subtopic"
+                outputclass=""
                 props="DFARpgi g"
                 audience="PGI_DFAR_g"
-                base="NoTitle">
+                base="NoTitle"
+                otherprops="">
          <topicref navtitle="PGI PART 242 - CONTRACT ADMINISTRATION"
                    href="PGI_PART_242.dita"
                    outputclass="Part"
-                   props="PGI PART_242"
+                   props="PGI PART 242"
                    audience="DFARS-PGI_PART_242"
                    base="NoTitle">
             <topicref navtitle="PGI 242.002 Interagency agreements."
@@ -5752,19 +5787,19 @@ functions.</navtitle>
                <topicref navtitle="PGI 242.302(a)(S-72) —Surveillance of the contractor’s implementation of the Synchronized Predeployment and Operational Tracker (SPOT)"
                          href="PGI_242.302Surveillance.dita"
                          outputclass="subtopic"
-                         props="PGI 242.302Surveillance"
-                         audience="DFARS-PGI_PGI_242.302"
+                         props="PGI 242.302"
+                         audience="DFARS-PGI_PGI_242.302Surveillance"
                          base="concept">
                   <topicmeta>
                      <navtitle>PGI 242.302(a)(S-72) —Surveillance
 of the contractor’s ...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 242.302(a)(S-75) —Monitoring contractor costs"
+               <topicref navtitle="PGI 242.302(a)(S-75) —Monitoring&#xA;contractor costs"
                          href="PGI_242.302Monitoring.dita"
                          outputclass="subtopic"
-                         props="PGI 242.302Monitoring"
-                         audience="DFARS-PGI_PGI_242.302"
+                         props="PGI 242.302"
+                         audience="DFARS-PGI_PGI_242.302Monitoring"
                          base="concept">
                   <topicmeta>
                      <navtitle>PGI 242.302(a)(S-75) —Monitoring
@@ -5772,21 +5807,24 @@ contractor costs</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 242.7 — INDIRECT COST RATES"
+            <topicref navtitle="PGI 242.7 —&#xA;INDIRECT COST RATES"
                       href="PGI_242.7.dita"
                       outputclass="SubPart"
                       props="PGI 242.7"
-                      base="NoTitle">
+                      base="NoTitle"
+                      audience="i207NK0I305Z">
                <topicref navtitle="PGI 242.705 Final indirect cost rates."
                          href="PGI_242.705.dita"
                          outputclass="subtopic"
                          props="PGI 242.705"
-                         base="concept">
-                  <topicref navtitle="PGI 242.705-1 Contracting officer determination procedure."
+                         base="concept"
+                         audience="DFARS-PGI_PGI_242.705">
+                  <topicref navtitle="PGI 242.705-1 Contracting officer&#xA;determination procedure."
                             href="PGI_242.705-1.dita"
                             outputclass="subtopic"
                             props="PGI 242.705-1"
-                            base="concept">
+                            base="concept"
+                            audience="DFARS-PGI_PGI_242.705-1">
                      <topicmeta>
                         <navtitle>PGI
 242.705-1 Contracting officer determination procedure.</navtitle>
@@ -5818,7 +5856,7 @@ agreements.</navtitle>
                       props="PGI 242.70"
                       audience="i1497485"
                       base="NoTitle">
-               <topicref navtitle="PGI 242.7000 Contractor business system deficiencies."
+               <topicref navtitle="PGI 242.7000 Contractor business&#xA;system deficiencies."
                          href="PGI_242.7000.dita"
                          outputclass="subtopic"
                          props="PGI 242.7000"
@@ -5830,7 +5868,7 @@ business system deficiencies.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 242.71—VOLUNTARY REFUNDS"
+            <topicref navtitle="PGI 242.71—VOLUNTARY&#xA;REFUNDS"
                       href="PGI_242.71.dita"
                       outputclass="SubPart"
                       props="PGI 242.71"
@@ -5919,7 +5957,7 @@ business system deficiencies.</navtitle>
          <topicref navtitle="PGI PART 243 - CONTRACT MODIFICATIONS"
                    href="PGI_PART_243.dita"
                    outputclass="Part"
-                   props="PGI PART_243"
+                   props="PGI PART 243"
                    audience="DFARS-PGI_PART_243"
                    base="NoTitle">
             <topicref navtitle="PGI 243.1 —GENERAL"
@@ -5980,7 +6018,7 @@ of requests for equitable adju...</navtitle>
          <topicref navtitle="PGI PART 244 - SUBCONTRACTING POLICIES AND PROCEDURES"
                    href="PGI_PART_244.dita"
                    outputclass="Part"
-                   props="PGI PART_244"
+                   props="PGI PART 244"
                    audience="DFARS-PGI_PART_244"
                    base="NoTitle">
             <topicref navtitle="PGI 244.2 —CONSENT TO SUBCORACTNT"
@@ -6018,7 +6056,8 @@ requirements.</navtitle>
                          href="PGI_244.305.dita"
                          outputclass="subtopic"
                          props="PGI 244.305"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_244.305">
                   <topicref navtitle="PGI 244.305-70  Policy."
                             href="PGI_244.305-70.dita"
                             outputclass="subtopic"
@@ -6035,7 +6074,7 @@ requirements.</navtitle>
          <topicref navtitle="PGI PART 245 - GOVERNMENT PROPERTY"
                    href="PGI_PART_245.dita"
                    outputclass="Part"
-                   props="PGI PART_245"
+                   props="PGI PART 245"
                    audience="DFARS-PGI_PART_245"
                    base="NoTitle">
             <topicref navtitle="PGI 245.1 - GENERAL "
@@ -6048,7 +6087,8 @@ requirements.</navtitle>
                          href="PGI_245.102.dita"
                          outputclass="subtopic"
                          props="PGI 245.102"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_245.102">
                   <topicref navtitle="PGI 245.102-70  Policy."
                             href="PGI_245.102-70.dita"
                             outputclass="subtopic"
@@ -6077,7 +6117,7 @@ requirements.</navtitle>
 Government property to contractor...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 245.103-71 Transferring Government property accountability."
+                  <topicref navtitle="PGI 245.103-71 Transferring&#xA;Government property accountability."
                             href="PGI_245.103-71.dita"
                             outputclass="subtopic"
                             props="PGI 245.103-71"
@@ -6088,7 +6128,7 @@ Government property to contractor...</navtitle>
 Government property accountabil...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 245.103-72 Government-furnished property attachments to solicitations and awards."
+                  <topicref navtitle="PGI 245.103-72 Government-furnished&#xA;property attachments to solicitations and awards."
                             href="PGI_245.103-72.dita"
                             outputclass="subtopic"
                             props="PGI 245.103-72"
@@ -6210,7 +6250,7 @@ of contractor-acquired property.</navtitle>
                       props="PGI 245.6"
                       audience="i1497741"
                       base="NoTitle">
-               <topicref navtitle="PGI 245.602-70 Plant clearance procedures."
+               <topicref navtitle="PGI 245.602-70 Plant clearance&#xA;procedures."
                          href="PGI_245.602-70.dita"
                          outputclass="subtopic"
                          props="PGI 245.602-70"
@@ -6226,7 +6266,7 @@ procedures.</navtitle>
          <topicref navtitle="PGI PART 246 - QUALITY ASSURANCE"
                    href="PGI_PART_246.dita"
                    outputclass="Part"
-                   props="PGI PART_246"
+                   props="PGI PART 246"
                    audience="DFARS-PGI_PART_246"
                    base="NoTitle">
             <topicref navtitle="PGI 246.1 —GENERAL"
@@ -6314,13 +6354,13 @@ stamping.</navtitle>
                <topicref navtitle="246.408 Single-agency assignments of Government contract quality assurance."
                          href="PGI_246.408.dita"
                          outputclass="subtopic"
-                         props="PGI 246.408"
+                         props="246.408"
                          audience="DFARS-PGI____246.408"
                          base="concept">
                   <topicref navtitle="246.408-71 Aircraft."
                             href="PGI_246.408-71.dita"
                             outputclass="subtopic"
-                            props="PGI 246.408-71"
+                            props="246.408-71"
                             audience="DFARS-PGI____246.408-71"
                             base="concept">
                      <topicmeta>
@@ -6349,7 +6389,8 @@ stamping.</navtitle>
                          href="PGI_246.710.dita"
                          outputclass="subtopic"
                          props="PGI 246.710"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_246.710">
                   <topicref navtitle="PGI 246.710-70  Warranty attachments."
                             href="PGI_246.710-70.dita"
                             outputclass="subtopic"
@@ -6367,7 +6408,7 @@ attachments.</navtitle>
          <topicref navtitle="PGI PART 247 - TRANSPORTATION"
                    href="PGI_PART_247.dita"
                    outputclass="Part"
-                   props="PGI PART_247"
+                   props="PGI PART 247"
                    audience="DFARS-PGI_PART_247"
                    base="NoTitle">
             <topicref navtitle="PGI 247.001 Definitions."
@@ -6400,7 +6441,8 @@ attachments.</navtitle>
                          href="PGI_247.271.dita"
                          outputclass="subtopic"
                          props="PGI 247.271"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_247.271">
                   <topicref navtitle="PGI 247.271-2  Procedures."
                             href="PGI_247.271-2.dita"
                             outputclass="subtopic"
@@ -6492,7 +6534,7 @@ Transportation Control and Moveme...</navtitle>
          <topicref navtitle="PGI PART 249 - TERMINATION OF CONTRACTS"
                    href="PGI_PART_249.dita"
                    outputclass="Part"
-                   props="PGI PART_249"
+                   props="PGI PART 249"
                    audience="DFARS-PGI_PART_249"
                    base="NoTitle">
             <topicref navtitle="PGI 249.1 —GENERAL PRINCIPLES"
@@ -6559,7 +6601,7 @@ on pricing of the terminated effo...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="PGI 249.110 Settlement negotiation memorandum."
+               <topicref navtitle="PGI 249.110 Settlement negotiation&#xA;memorandum."
                          href="PGI_249.110.dita"
                          outputclass="subtopic"
                          props="PGI 249.110"
@@ -6601,10 +6643,10 @@ notification on significant cont...</navtitle>
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI PART 250 - EXTRAORDINARY CONTRACTUAL ACTIONS"
+         <topicref navtitle="PGI PART 250 - EXTRAORDINARY&#xA;CONTRACTUAL ACTIONS"
                    href="PGI_PART_250.dita"
                    outputclass="Part"
-                   props="PGI PART_250"
+                   props="PGI PART 250"
                    audience="DFARS-PGI_PART_250"
                    base="NoTitle">
             <topicref navtitle="PGI 250.1 —EXTRAORDINARY CONTRACTUAL ACTIONS"
@@ -6673,20 +6715,21 @@ cases.</navtitle>
          <topicref navtitle="PGI PART 251 - USE OF GOVERNMENT SOURCES BY CONTRACTORS"
                    href="PGI_PART_251.dita"
                    outputclass="Part"
-                   props="PGI PART_251"
+                   props="PGI PART 251"
                    audience="DFARS-PGI_PART_251"
                    base="NoTitle">
             <topicref navtitle="PGI 251.1— CONTRACTOR USE OF GOVERNMENT SUPPLY SOURCES"
                       href="PGI_251.1--.dita"
                       outputclass="SubPart"
-                      props="PGI 251.1--"
+                      props="PGI 251.1"
                       audience="i1498004"
                       base="NoTitle">
-               <topicref navtitle="          PGI 251.101 Policy."
+               <topicref navtitle="&#xA;         PGI&#xA;251.101 Policy."
                          href="PGI_251.101.dita"
                          outputclass="subtopic"
                          props="PGI 251.101"
-                         base="concept">
+                         base="concept"
+                         audience="DFARS-PGI_PGI_251.101">
                   <topicmeta>
                      <navtitle>PGI
 251.101 Policy.</navtitle>
@@ -6722,14 +6765,15 @@ office responsibilities.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_h.dita"
-                outputclass="subtopic"
+                outputclass=""
                 props="DFARpgi h"
                 audience="PGI_DFAR_h"
-                base="NoTitle">
+                base="NoTitle"
+                otherprops="">
          <topicref navtitle="PGI PART 252 - CLAUSES"
                    href="PGI_PART_252.dita"
                    outputclass="Part"
-                   props="PGI PART_252"
+                   props="PGI PART 252"
                    audience="DFARS-PGI_PART_252"
                    base="NoTitle">
             <topicref navtitle="PGI 252.1 —INSTRUCTIONS FOR USING PROVISIONS AND CLAUSES"
@@ -6738,7 +6782,7 @@ office responsibilities.</navtitle>
                       props="PGI 252.1"
                       audience="i1498018"
                       base="NoTitle">
-               <topicref navtitle="PGI 252.103 Identification of provisions and clauses."
+               <topicref navtitle="PGI 252.103 Identification&#xA;of provisions and clauses."
                          href="PGI_252.103.dita"
                          outputclass="subtopic"
                          props="PGI 252.103"
@@ -6754,24 +6798,26 @@ of provisions and clauses.</navtitle>
          <topicref navtitle="PGI PART 253 - FORMS"
                    href="PGI_PART_253.dita"
                    outputclass="Part"
-                   props="PGI PART_253"
+                   props="PGI PART 253"
                    audience="DFARS-PGI_PART_253"
                    base="NoTitle">
             <topicref navtitle="PGI 253.209 CONTRACTOR QUALIFICATIONS"
                       href="PGI_253.209.dita"
                       outputclass="subtopic"
                       props="PGI 253.209"
-                      base="concept">
+                      base="concept"
+                      audience="DFARS-PGI_PGI_253.209">
                <topicmeta>
                   <navtitle>PGI
 253.209 CONTRACTOR QUALIFICATIONS</navtitle>
                </topicmeta>
             </topicref>
-            <topicref navtitle="PGI 253.2 — PRESCRIPTION OF FORMS"
+            <topicref navtitle="PGI 253.2 —&#xA;PRESCRIPTION OF FORMS"
                       href="PGI_253.2.dita"
                       outputclass="SubPart"
                       props="PGI 253.2"
-                      base="NoTitle">
+                      base="NoTitle"
+                      audience="i207UE0O015Z">
                <topicref navtitle="PGI 253.204 Reserved"
                          href="PGI_253.204.dita"
                          outputclass="subtopic"
@@ -6817,7 +6863,7 @@ of provisions and clauses.</navtitle>
                          props="PGI 253.213"
                          audience="DFARS-PGI_PGI_253.213"
                          base="concept">
-                  <topicref navtitle="PGI 253.213-70 Completion of DD Form 1155, Order for Supplies or Services."
+                  <topicref navtitle="PGI 253.213-70 Completion of&#xA;DD Form 1155, Order for Supplies or Services."
                             href="PGI_253.213-70.dita"
                             outputclass="subtopic"
                             props="PGI 253.213-70"
@@ -6835,7 +6881,7 @@ of DD Form 1155, Order for Suppli...</navtitle>
                          props="PGI 253.215"
                          audience="DFARS-PGI_PGI_253.215"
                          base="concept">
-                  <topicref navtitle="PGI 253.215-70 DD Form 1547, Record of Weighted Guidelines Application."
+                  <topicref navtitle="PGI 253.215-70 DD Form 1547,&#xA;Record of Weighted Guidelines Application."
                             href="PGI_253.215-70.dita"
                             outputclass="subtopic"
                             props="PGI 253.215-70"
@@ -6853,7 +6899,7 @@ of DD Form 1155, Order for Suppli...</navtitle>
                          props="PGI 253.219"
                          audience="DFARS-PGI_PGI_253.219"
                          base="concept">
-                  <topicref navtitle="PGI 253.219-70 DD Form 2579, Small Business Coordination Record."
+                  <topicref navtitle="PGI 253.219-70 DD Form 2579,&#xA;Small Business Coordination Record."
                             href="PGI_253.219-70.dita"
                             outputclass="subtopic"
                             props="PGI 253.219-70"
@@ -6866,11 +6912,12 @@ of DD Form 1155, Order for Suppli...</navtitle>
                   </topicref>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 253.3 — ILLUSTRATION OF FORMS"
+            <topicref navtitle="PGI 253.3 —&#xA;ILLUSTRATION OF FORMS"
                       href="PGI_253.3.dita"
                       outputclass="SubPart"
                       props="PGI 253.3"
-                      base="NoTitle">
+                      base="NoTitle"
+                      audience="i207UE0R90Y4">
                <topicmeta>
                   <navtitle>PGI 253.3 — ILLUSTRATION
 OF FORMS</navtitle>
