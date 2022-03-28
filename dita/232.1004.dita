@@ -2,23 +2,60 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-232.1004"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">232.1004</ph> Procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Establishing performance-based finance payment amounts.</i>
+         <p id="cVAqAP" outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Establishing
+performance-based finance payment amounts.</i>
          </p>
-         <p outputclass="List3" class="- topic/p ">(i)  The contracting officer should include in a solicitation both the progress payments and performance-based payments provisions and clauses prescribed in this part, when considering both types of payment methods.  Only one type of financing will be included in the resultant contract, except as may be authorized on separate orders subject to FAR 32.1003(c)).</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The contracting officer shall analyze the performance-based payment schedule using the performance-based payments (PBP) analysis tool.  The PBP analysis tool is on the DPC website in the Cost, Pricing &amp; Finance section, Performance Based Payments - Guide Book &amp; Analysis Tool tab, at  http://www.acq.osd.mil/dpap/cpic/cp/Performance_based_payments.html.</p>
-         <p outputclass="List4" class="- topic/p ">(A)  When considering performance-based payments, obtain from the offeror/contractor a proposed performance-based payments schedule that includes all performance-based payments events, completion criteria and event values along with the projected monthly expenditure profile in order to negotiate the value of the performance events such that the performance-based payments are not expected to result in an unreasonably low or negative level of contractor investment in the contract.</p>
-         <p class="- topic/p ">If performance-based payments are deemed practical, the Government will evaluate and negotiate the details of the performance-based payments schedule.</p>
-         <p outputclass="List4" class="- topic/p ">(B)  For modifications to contracts that already use performance-based payments financing, the basis for negotiation must include performance-based payments.  The PBP analysis tool will be used in the same manner to help determine the price for the modification;</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  The contracting officer shall document in the contract file that the performance-based payment schedule provides a mutually beneficial settlement position that reflects adequate consideration to the Government for the improved contractor cash flow.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">Instructions for multiple appropriations</i>.  If the contract contains foreign military sales requirements, the contracting officer shall provide instructions for distribution of the contract financing payments to each country’s account.</p>
+         <p id="PUUwFU" outputclass="List3" class="- topic/p ">(i) The contracting officer
+should include in a solicitation both the progress payments and
+performance-based payments provisions and clauses prescribed in
+this part, when considering both types of payment methods. Only
+one type of financing will be included in the resultant contract,
+except as may be authorized on separate orders subject to FAR 32.1003(c)).</p>
+         <p id="PFeEcP" outputclass="List3" class="- topic/p ">(ii) The contracting officer
+shall analyze the performance-based payment schedule using the performance-based
+payments (PBP) analysis tool. The PBP analysis tool is on the DPC
+website in the <ph id="dexuf45k" rev="Revised 18, March 2022" class="- topic/ph ">Price,
+Cost and Finance</ph> section. The PBP analysis tool and Performance
+Based Payment - Guide <ph id="5c9yg7zo" rev="Revised 18, March 2022" class="- topic/ph ">book
+are available</ph> at <ph id="r8lp6zyb" rev="Revised March 18, 2022" class="- topic/ph ">
+               <xref href="https://www.acq.osd.mil/asda/dpc/pcf/pricing-topics.html#pdp"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/pcf/pricing-topics.html#pdp</xref>
+            </ph>.</p>
+         <p id="bQkhLn" outputclass="List4" class="- topic/p ">(A) When considering performance-based
+payments, obtain from the offeror/contractor a proposed performance-based
+payments schedule that includes all performance-based payments events,
+completion criteria and event values along with the projected monthly
+expenditure profile in order to negotiate the value of the performance
+events such that the performance-based payments are not expected
+to result in an unreasonably low or negative level of contractor
+investment in the contract.</p>
+         <p id="oYxUPJ" class="- topic/p ">If performance-based payments are deemed practical,
+the Government will evaluate and negotiate the details of the performance-based
+payments schedule.</p>
+         <p id="MvYXJz" outputclass="List4" class="- topic/p ">(B) For modifications to
+contracts that already use performance-based payments financing,
+the basis for negotiation must include performance-based payments.
+The PBP analysis tool will be used in the same manner to help determine
+the price for the modification;</p>
+         <p id="XoHdgm" outputclass="List3" class="- topic/p ">(iii) The contracting officer
+shall document in the contract file that the performance-based payment
+schedule provides a mutually beneficial settlement position that
+reflects adequate consideration to the Government for the improved contractor
+cash flow.</p>
+         <p id="gXCsRc" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Instructions for multiple
+appropriations</i>. If the contract contains foreign military sales
+requirements, the contracting officer shall provide instructions
+for distribution of the contract financing payments to each country’s
+account.</p>
       </conbody>
    </concept>
 </dita>

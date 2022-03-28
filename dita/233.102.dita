@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-233.102"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">233.102</ph> General.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">If the Government exercises the authority provided in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-239.7305"
-                  href="239.7305.dita#DFARS-239.7305">239.7305</xref>
-            (d) to limit disclosure of information, no action undertaken by the Government under such authority shall be subject to review in a bid protest before the Government Accountability Office or in any Federal court (see subpart 239.73).</p>
+<dita>
+   <concept id="DFARS-233.102">
+      <title>
+         <ph props="autonumber">233.102</ph> General.</title>
+      <conbody>
+         <p id="xUzHHD">If the Government exercises the authority provided in <xref base="DFARS-239.7305"
+                  href="239.7305.dita#DFARS-239.7305"
+                  outputclass="fm:ParaNumOnly">239.7305</xref> (d) to limit disclosure of information, no action undertaken by the Government under such authority shall be subject to review in a bid protest before the Government Accountability Office <ph id="tm657l1i" rev="Revised 18, March 2022">(GAO)</ph> or in any Federal court (see subpart <xref href="SUBPART_239.73.dita#DFARS-SUBPART_239.73"
+                  outputclass="fm:ParaNumOnly">239.73</xref>).</p>
       </conbody>
    </concept>
 </dita>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-241.202" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-241.202"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">241.202</ph> Procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -11,7 +16,11 @@
          <p outputclass="List3" class="- topic/p ">(iii)  Connection charge, refundable.  Use a refundable connection charge when the supplier refuses to provide the facilities based on lack of capital or published rules which prohibit providing up-front funding.  The contract should provide for refund of the connection charge within five years unless a longer period or omission of the refund requirement is authorized by the service power procurement officer or designee.</p>
          <p outputclass="List3" class="- topic/p ">(iv)  Connection and service charges, nonrefundable.  The Government may pay certain nonrefundable, nonrecurring charges including service initiation charges, a contribution in aid of construction, membership fees, and charges required by the supplier's rules and regulations to be paid by the customer.  If possible, consider sharing with other than Government users the use of (and costs for) facilities when large nonrefundable charges are required.</p>
          <p outputclass="List2" class="- topic/p ">(2)  <i class="+ topic/ph hi-d/i ">Construction and labor requirements.</i>Follow the procedures at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_241.202" href="PGI_241.202.dita#DFARS-PGI_PGI_241.202" xtrc="241.202">PGI 241.202</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_241.202"
+                  href="PGI_241.202.dita#DFARS-PGI_PGI_241.202"
+                  xtrc="241.202">241.202</xref>
             (2) for construction and labor requirements associated with connection and service charges.</p>
       </conbody>
    </concept>

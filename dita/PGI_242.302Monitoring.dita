@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-PGI_PGI_242.302Monitoring" outputclass="3" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-PGI_PGI_242.302Monitoring"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 242.302</ph>(a)(S-75) —Monitoring
 contractor costs</title>
@@ -140,9 +146,17 @@ having the primary responsibility for performing the reviews.</p>
 by the ACO and DFARS. Reviews will be performed by the assigned organization
 during the coordination phase of the cost monitoring plan, except
 when DFARS makes a specific organizational assignment. For example,
-Subpart <xref href="244.301.dita#DFARS-244.301" base="DFARS-244.301" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="244.301">244.301</xref> makes the ACO
+Subpart <xref href="244.301.dita#DFARS-244.301"
+                  base="DFARS-244.301"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="244.301">244.301</xref> makes the ACO
 responsible for leading contractor purchasing system reviews and 
-               <xref href="PGI_215.407-5.dita#DFARS-PGI_PGI_215.407-5" base="DFARS-PGI_PGI_215.407-5" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.407-5">PGI 215.407-5</xref>
+               <xref href="PGI_215.407-5.dita#DFARS-PGI_PGI_215.407-5"
+                  base="DFARS-PGI_PGI_215.407-5"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="215.407-5">215.407-5</xref>
             -70(c)(3)
 makes the DCAA auditor responsible for leading estimating system
 reviews on behalf of the ACO.</p>

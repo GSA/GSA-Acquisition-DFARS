@@ -1,52 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_204.201"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 204.201</ph> Procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1) The procuring contracting officer (PCO) retains the original signed contract for the contract file. Administrative contracting officers and termination contracting officers provide the original of each modification to the PCO for retention in the contract file. Unless otherwise directed by department/agency procedures, the office issuing the orders maintains the original of orders under basic ordering agreements and the original of provisioning orders; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) Ensure that distribution of contracts and modifications is consistent with security directives.</p>
-         <p outputclass="List3" class="- topic/p ">(3) Use the following distribution procedures instead of those at FAR 4.201(b) through (f): </p>
-         <p outputclass="List4" class="- topic/p ">(i) Contracts and modifications shall be distributed electronically (except as provided at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.270-1"
-                  href="204.270-1.dita#DFARS-204.270-1">204.270-1</xref>(a)) using the following methods:</p>
-         <p outputclass="List4" class="- topic/p ">(A) Indexed Portable Document Format files shall be sent via the Global Exchange system (GEX) to the Electronic Document Access (EDA) (http://eda.ogden.disa.mil) system to provide a human-readable copy of contract documents.</p>
-         <p outputclass="List4" class="- topic/p ">(B) Electronic data files depicting the contract shall be sent in at least one of the following formats via the GEX to EDA and to systems supporting specific offices as set forth in paragraph (ii) below. (Note that the GEX can be used to translate from the formats below to other formats. Organizations should send both formats in parallel unless validation failures have been eliminated.)</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) American National Standards Institute X.12 Electronic Data Interchange standard transaction sets 850 and 860.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Department of Defense Procurement Data Standard (PDS) Extensible Markup Language (XML) format: http://www.acq.osd.mil/dpap/pdi/eb/procurement_data_standard.html</p>
-         <p outputclass="List3" class="- topic/p ">(ii) After contract execution, provide an electronic data file copy of the contract and modifications in either X.12 or PDS XML to the following:</p>
-         <p outputclass="List4" class="- topic/p ">(A) The contract administration office, if the contracting officer delegates contract administration to another office (see FAR Subpart 42.2). The contracting officer also should provide the contract administration office with a copy of the contract distribution list, indicating those offices that should receive copies of modifications, and any changes to the list as they occur.</p>
-         <p outputclass="List4" class="- topic/p ">(B) The payment office. Provide any modification that changes the payment office to both the new and the old payment offices.</p>
-         <p outputclass="List4" class="- topic/p ">(C) Each accounting office whose funds are cited in the contract.</p>
-         <p outputclass="List4" class="- topic/p ">(D) Each consignee specified in the contract. A transshipping terminal is not a consignee. The Defense Logistics Agency (DLA) is authorized to prescribe alternate procedures for distribution of contract documents in DLA Europe and Africa.</p>
-         <p outputclass="List4" class="- topic/p ">(E) The military interdepartmental purchase request requiring activity in the case of coordinated acquisition.</p>
-         <p outputclass="List4" class="- topic/p ">(F) The receiving activity, if the contract or modification provides initial or amended shipping instructions under DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.1603"
-                  href="204.1603.dita#DFARS-204.1603">204.1603</xref>(b)(2)(ii)(<i class="+ topic/ph hi-d/i ">1</i>)(<i class="+ topic/ph hi-d/i ">ii</i>) and (<i class="+ topic/ph hi-d/i ">iii</i>).</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Provide electronic notice of award via EDA to the following:</p>
-         <p outputclass="List4" class="- topic/p ">(A)(<i class="+ topic/ph hi-d/i ">1</i>) The appropriate Defense Contract Audit Agency (DCAA) office, as listed in DCAAP 5100.1, Directory of DCAA Offices, or as obtained through the DCAA cognizant field audit office locator, both available via the Internet at http://www.dcaa.mil, if the contract or modification is one of the following types:</p>
-         <p outputclass="List3" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Cost-reimbursement.</p>
-         <p outputclass="List3" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Time-and-materials.</p>
-         <p outputclass="List3" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iii</i>) Labor-hour.</p>
-         <p outputclass="List3" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iv</i>) Fixed-price with provisions for redetermination, cost incentives, economic price adjustment based on cost, or cost allowability.</p>
-         <p outputclass="List3" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">v</i>) Any other contract that requires audit service.</p>
-         <p outputclass="List2" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) If there is a question as to the appropriate DCAA field audit office, request the assistance of the DCAA financial liaison advisor or the nearest DCAA field audit office.</p>
-         <p outputclass="List4" class="- topic/p ">(B) Those organizations required to perform contract administration support functions (e.g., when manufacturing is performed at multiple sites, provide a copy to the contract administration office cognizant of each location). </p>
-         <p outputclass="List4" class="- topic/p ">(C) The cognizant administrative contracting officer when the contract is not assigned for administration but contains a Cost Accounting Standards clause. Indicate that the copy is provided “For Cost Accounting Standards Administration Only” (see FAR 30.601(b)); and</p>
-         <p outputclass="List4" class="- topic/p ">(D) The cognizant Defense Security Service office listed in DoD 5100.76-M, Physical Security of Sensitive Conventional Arms, Ammunition, and Explosives, when the clause at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.223-7007"
-                  href="252.223-7007.dita#DFARS-252.223-7007">252.223-7007</xref>, Safeguarding Sensitive Conventional Arms, Ammunition, and Explosives, is included in the contract. An extract of the pertinent information can be provided instead of the contract.</p>
-         <p outputclass="List3" class="- topic/p ">(iv) If electronic distribution is not available, provide one paper copy to each location identified in paragraphs (3)(i) through (iii) of this section.</p>
+<dita>
+   <concept id="DFARS-PGI_PGI_204.201" outputclass="3">
+      <title>
+         <ph props="autonumber">PGI 204.201</ph> Procedures.</title>
+      <conbody>
+         <p id="LkNGuf" outputclass="List2">(1) The procuring contracting officer (PCO) retains the original signed contract for the contract file. Administrative contracting officers and termination contracting officers provide the original of each modification to the PCO for retention in the contract file. Unless otherwise directed by department/agency procedures, the office issuing the orders maintains the original of orders under basic ordering agreements and the original of provisioning orders; and</p>
+         <p id="HismIk" outputclass="List2">(2) Ensure that distribution of contracts and modifications is consistent with security directives.</p>
+         <p id="FhTgoJ" outputclass="List3">(3) Use the following distribution procedures instead of those at FAR 4.201(b) through (f):</p>
+         <p id="mHRdhC" outputclass="List4">(i) Contracts and modifications shall be distributed electronically (except as provided at DFARS <xref base="DFARS-204.270-1"
+                  href="204.270-1.dita#DFARS-204.270-1"
+                  outputclass="fm:ParaNumOnly">204.270-1</xref>(a)) using the following methods:</p>
+         <p id="DRbfHu" outputclass="List4">(A) Indexed Portable Document Format files shall be sent via the Global Exchange system (GEX) to the Electronic Document Access (EDA) (http://eda.ogden.disa.mil) system to provide a human-readable copy of contract documents.</p>
+         <p id="MLHhBJ" outputclass="List4">(B) Electronic data files depicting the contract shall be sent in at least one of the following formats via the GEX to EDA and to systems supporting specific offices as set forth in paragraph (ii) below. (Note that the GEX can be used to translate from the formats below to other formats. Organizations should send both formats in parallel unless validation failures have been eliminated.)</p>
+         <p id="geBBIK" outputclass="List6">(<i>1</i>) American National Standards Institute X.12 Electronic Data Interchange standard transaction sets 850 and 860.</p>
+         <p id="VGloDi" outputclass="List6">(<i>2</i>) Department of Defense Procurement Data Standard (PDS) Extensible Markup Language (XML) format: <xref format="html"
+                  href="https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html"
+                  scope="external">https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html</xref>
+            <ph id="i8mj6g4l" rev="Revised March 18, 2022">.</ph>
+         </p>
+         <p id="gyyzoK" outputclass="List3">(ii) After contract execution, provide an electronic data file copy of the contract and modifications in either X.12 or PDS XML to the following:</p>
+         <p id="PnoaYv" outputclass="List4">(A) The contract administration office, if the contracting officer delegates contract administration to another office (see FAR Subpart 42.2). The contracting officer also should provide the contract administration office with a copy of the contract distribution list, indicating those offices that should receive copies of modifications, and any changes to the list as they occur.</p>
+         <p id="oGPahy" outputclass="List4">(B) The payment office. Provide any modification that changes the payment office to both the new and the old payment offices.</p>
+         <p id="KydyJi" outputclass="List4">(C) Each accounting office whose funds are cited in the contract.</p>
+         <p id="baywPb" outputclass="List4">(D) Each consignee specified in the contract. A transshipping terminal is not a consignee. The Defense Logistics Agency (DLA) is authorized to prescribe alternate procedures for distribution of contract documents in DLA Europe and Africa.</p>
+         <p id="zHDJTe" outputclass="List4">(E) The military interdepartmental purchase request requiring activity in the case of coordinated acquisition.</p>
+         <p id="zwYuFq" outputclass="List4">(F) The receiving activity, if the contract or modification provides initial or amended shipping instructions under DFARS <xref base="DFARS-204.1603"
+                  href="204.1603.dita#DFARS-204.1603"
+                  outputclass="fm:ParaNumOnly">204.1603</xref>(b)(2)(ii)(<i>1</i>)(<i>ii</i>) and (<i>iii</i>).</p>
+         <p id="pzBFPj" outputclass="List3">(iii) Provide electronic notice of award via EDA to the following:</p>
+         <p id="lzmHvR" outputclass="List4">(A)(<i>1</i>) The appropriate Defense Contract Audit Agency (DCAA) office, as listed in DCAAP 5100.1, Directory of DCAA Offices, or as obtained through the DCAA cognizant field audit office locator, both available via the Internet at http://www.dcaa.mil, if the contract or modification is one of the following types:</p>
+         <p id="snXlgY" outputclass="List3">(<i>i</i>) Cost-reimbursement.</p>
+         <p id="sOfPdp" outputclass="List3">(<i>ii</i>) Time-and-materials.</p>
+         <p id="jIOwsR" outputclass="List3">(<i>iii</i>) Labor-hour.</p>
+         <p id="SqiIbM" outputclass="List3">(<i>iv</i>) Fixed-price with provisions for redetermination, cost incentives, economic price adjustment based on cost, or cost allowability.</p>
+         <p id="PPIkjs" outputclass="List3">(<i>v</i>) Any other contract that requires audit service.</p>
+         <p id="ybzier" outputclass="List2">(<i>2</i>) If there is a question as to the appropriate DCAA field audit office, request the assistance of the DCAA financial liaison advisor or the nearest DCAA field audit office.</p>
+         <p id="BXekrG" outputclass="List4">(B) Those organizations required to perform contract administration support functions (e.g., when manufacturing is performed at multiple sites, provide a copy to the contract administration office cognizant of each location).</p>
+         <p id="HRXhwC" outputclass="List4">(C) The cognizant administrative contracting officer when the contract is not assigned for administration but contains a Cost Accounting Standards clause. Indicate that the copy is provided “For Cost Accounting Standards Administration Only” (see FAR 30.601(b)); and</p>
+         <p id="fwuXVd" outputclass="List4">(D) The cognizant Defense Security Service office listed in DoD 5100.76-M, Physical Security of Sensitive Conventional Arms, Ammunition, and Explosives, when the clause at DFARS <xref base="DFARS-252.223-7007"
+                  href="252.223-7007.dita#DFARS-252.223-7007"
+                  outputclass="fm:ParaNumOnly">252.223-7007</xref>, Safeguarding Sensitive Conventional Arms, Ammunition, and Explosives, is included in the contract. An extract of the pertinent information can be provided instead of the contract.</p>
+         <p id="NAZJfl" outputclass="List3">(iv) If electronic distribution is not available, provide one paper copy to each location identified in paragraphs (3)(i) through (iii) of this section.</p>
       </conbody>
    </concept>
 </dita>

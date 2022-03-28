@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-242.7203" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-242.7203"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">242.7203</ph> Review procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -13,9 +18,17 @@
          <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Reporting of findings</i>. The auditor or functional specialist shall document findings and recommendations in a report to the contracting officer. If the auditor or functional specialist identifies any significant MMAS deficiencies, the report shall describe the deficiencies in sufficient detail to allow the contracting officer to understand the deficiencies.</p>
          <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Initial determination</i>. (i) The contracting officer shall review findings and recommendations and, if there are no significant deficiencies, shall promptly notify the contractor, in writing, that the contractor's MMAS is acceptable and approved; or</p>
          <p outputclass="List3" class="- topic/p ">(ii) If the contracting officer finds that there are one or more significant deficiencies (as defined in the clause at 
-               <xref href="252.242-7004.dita#DFARS-252.242-7004" base="i1383859" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.242-7004">252.242-7004</xref>
+               <xref href="252.242-7004.dita#DFARS-252.242-7004"
+                  base="i1383859"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.242-7004">252.242-7004</xref>
             , Material Management and Accounting System) due to the contractor’s failure to meet one or more of the MMAS system criteria in the clause at 
-               <xref href="252.242-7004.dita#DFARS-252.242-7004" base="i1383859" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.242-7004">252.242-7004</xref>
+               <xref href="252.242-7004.dita#DFARS-252.242-7004"
+                  base="i1383859"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.242-7004">252.242-7004</xref>
             , Material Management and Accounting System, the contracting officer shall—</p>
          <p outputclass="List4" class="- topic/p ">(A) Promptly make an initial written determination on any significant deficiencies and notify the contractor, in writing, providing a description of each significant deficiency in sufficient detail to allow the contractor to understand the deficiency;</p>
          <p outputclass="List4" class="- topic/p ">(B) Request the contractor to respond, in writing, to the initial determination within 30 days; and</p>
@@ -25,13 +38,25 @@
          <p outputclass="List4" class="- topic/p ">(B) Significant deficiencies remain. The notice shall identify any remaining significant deficiencies, and indicate the adequacy of any proposed or completed corrective action. The contracting officer shall—</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Request that the contractor, within 45 days of receipt of the final determination, either correct the deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the deficiencies;</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Disapprove the system in accordance with the clause at 
-               <xref href="252.242-7004.dita#DFARS-252.242-7004" base="i1383859" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.242-7004">252.242-7004</xref>
+               <xref href="252.242-7004.dita#DFARS-252.242-7004"
+                  base="i1383859"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.242-7004">252.242-7004</xref>
             , Material Management and Accounting System; and</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) Withhold payments in accordance with the clause at 
-               <xref href="252.242-7005.dita#DFARS-252.242-7005" base="i1383876" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.242-7005">252.242-7005</xref>
+               <xref href="252.242-7005.dita#DFARS-252.242-7005"
+                  base="i1383876"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.242-7005">252.242-7005</xref>
             , Contractor Business Systems, if the clause is included in the contract.</p>
          <p outputclass="List3" class="- topic/p ">(ii) Follow the procedures relating to monitoring a contractor's corrective action and the correction of significant deficiencies in PGI 
-               <xref href="PGI_242.7203.dita#DFARS-PGI_PGI_242.7203" base="DFARS-PGI_PGI_242.7203" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="242.7203">PGI 242.7203</xref>
+               <xref href="PGI_242.7203.dita#DFARS-PGI_PGI_242.7203"
+                  base="DFARS-PGI_PGI_242.7203"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="242.7203">242.7203</xref>
             .</p>
          <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">System approval</i>. The contracting officer shall promptly approve a previously disapproved MMAS and notify the contractor when the contracting officer determines that there are no remaining significant deficiencies.</p>
          <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Contracting officer notifications</i>. The cognizant contracting officer shall promptly distribute copies of a determination to approve a system, disapprove a system and withhold payments, or approve a previously disapproved system and release withheld payments to the auditor; payment office; affected contracting officers at the buying activities; and cognizant contracting officers in contract administration activities.</p>

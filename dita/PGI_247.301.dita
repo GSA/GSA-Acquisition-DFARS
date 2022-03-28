@@ -2,17 +2,23 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_247.301"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 247.301</ph> General.  Transportation guidance relating to Governmentwide commercial purchase card purchases is available in the Department of Defense Government Charge </title>
+         <ph props="autonumber" class="- topic/ph ">PGI 247.301</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Card Guidebook for Establishing and Managing Purchase, Travel, and Fuel Card Programs, </p>
-         <p class="- topic/p ">Appendix C, at http://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html.</p>
+         <p id="ywrtrt" class="- topic/p ">Transportation guidance relating to Governmentwide
+commercial purchase card purchases is available in the Department
+of Defense Government ChargeCard Guidebook for Establishing and
+Managing Purchase, Travel, and Fuel Card Programs, Appendix C, at <ph rev="Revised March 18, 2022" class="- topic/ph ">
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs-guides.html"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/pc/docs-guides.html</xref>
+            </ph>.</p>
       </conbody>
    </concept>
 </dita>

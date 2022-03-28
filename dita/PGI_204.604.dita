@@ -2,17 +2,33 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-PGI_PGI_204.604"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.604</ph> Responsibilities.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1) The OSD Procurement Data Improvement Plan, posted at http://www.acq.osd.mil/dpap/pdi/eb/dataimp.html#, applies to each of the military services and agencies with procurement authority, and identifies the data validation requirements and responsibilities that support the annual Department of Defense certification identified at FAR 4.604(c). These review requirements encompass contract action reports submitted to FPDS, terminations for default and other documents submitted to the Federal Awardee Performance and Integrity Information System (FAPIIS), and other reporting and posting requirements.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Contract action reports (CARs) must be completed in compliance with the timelines established in FAR 4.604(b)(2) and (3). CARs or their data are not available for public view or for non-DoD use until 90 days after the “Date Signed” data element in order to minimize risk to military operations.</p>
+         <p id="kgBgkM" outputclass="List2" class="- topic/p ">(1) The OSD Procurement
+Data Improvement Plan, posted at<ph rev="Revised March 18, 2022" class="- topic/ph ">
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/cap/data-improvement.html"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/cap/data-improvement.html</xref>
+            </ph>,
+applies to each of the military services and agencies with procurement
+authority, and identifies the data validation requirements and responsibilities
+that support the annual Department of Defense certification identified
+at FAR 4.604(c). These review requirements encompass contract action
+reports submitted to FPDS, terminations for default and other documents
+submitted to the Federal Awardee Performance and Integrity Information
+System (FAPIIS), and other reporting and posting requirements.</p>
+         <p id="xhwYFc" outputclass="List2" class="- topic/p ">(2) Contract action reports
+(CARs) must be completed in compliance with the timelines established
+in FAR 4.604(b)(2) and (3). CARs or their data are not available
+for public view or for non-DoD use until 90 days after the “Date
+Signed” data element in order to minimize risk to military operations.</p>
       </conbody>
    </concept>
 </dita>

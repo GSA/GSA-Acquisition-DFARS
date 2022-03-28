@@ -6,10 +6,12 @@
 <?Fm BoolCondExpr "DITA-Topicref" State 0?>
 <?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll False?>
-<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+     title="DFARS"
+     outputclass="dfars">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              href="VolumeIII-Parts201to253_PGI.dita"
@@ -38,11 +40,9 @@ Federal Acquisition Regulation - PGI</navtitle>
              base="NoTitle">
       <topicref navtitle="Defense Federal Acquisition Regulation"
                 href="DFARpgi_a.dita"
-                outputclass=""
                 props="DFARpgi a"
                 audience="PGI_DFAR_a"
-                base="NoTitle"
-                otherprops="">
+                base="NoTitle">
          <topicref navtitle="PGI PART 201 - FEDERAL ACQUISITION REGULATIONS SYSTEM"
                    href="PGI_PART_201.dita"
                    outputclass="Part"
@@ -77,13 +77,13 @@ under the Paperwork Reduction Act.</navtitle>
 acquisition-related dollar thresholds...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 201.170 &#xA;         Peer reviews.&#xA;      "
+               <topicref navtitle="PGI 201.170           Peer reviews.       "
                          href="PGI_201.170.dita"
                          outputclass="subtopic"
                          props="PGI 201.170"
                          audience="DFARS-PGI_PGI_201.170"
                          base="concept">
-                  <topicref navtitle="PGI 201.170-1 &#xA;         Objectives of peer reviews.&#xA;      "
+                  <topicref navtitle="PGI 201.170-1 Objectives of peer reviews."
                             href="PGI_201.170-1.dita"
                             outputclass="subtopic"
                             props="PGI 201.170-1"
@@ -94,7 +94,7 @@ acquisition-related dollar thresholds...</navtitle>
 of peer reviews.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 201.170-2&#xA;          Pre-award peer reviews.&#xA;      "
+                  <topicref navtitle="PGI 201.170-2           Pre-award peer reviews.       "
                             href="PGI_201.170-2.dita"
                             outputclass="subtopic"
                             props="PGI 201.170-2"
@@ -105,7 +105,7 @@ of peer reviews.</navtitle>
 peer reviews.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 201.170-3 Administration&#xA;of peer reviews."
+                  <topicref navtitle="PGI 201.170-3 Administration of peer reviews."
                             href="PGI_201.170-3.dita"
                             outputclass="subtopic"
                             props="PGI 201.170-3"
@@ -158,7 +158,7 @@ and compliance procedures.</navtitle>
                          props="PGI 201.602"
                          audience="DFARS-PGI_PGI_201.602"
                          base="concept">
-                  <topicref navtitle="PGI &#xA;201.602-2 Responsibilities."
+                  <topicref navtitle="PGI  201.602-2 Responsibilities."
                             href="PGI_201.602-2.dita"
                             outputclass="subtopic"
                             props="PGI  201.602-2"
@@ -298,7 +298,7 @@ officer's signature.</navtitle>
                      <navtitle>PGI 204.201 Procedures.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 204.270"
+               <topicref navtitle="PGI 204.270ElectronicDataAccess."
                          href="PGI_204.270.dita"
                          outputclass="subtopic"
                          props="PGI 204.270"
@@ -324,7 +324,7 @@ officer's signature.</navtitle>
                       base="NoTitle">
                <topicref navtitle="PGI 204.402 —General."
                          href="PGI_204.402.dita"
-                         outputclass="SubPart"
+                         outputclass="subtopic"
                          props="PGI 204.402"
                          audience="DFARS-PGI_PGI_204.402"
                          base="concept">
@@ -484,13 +484,13 @@ to Federal Procurement Data Sy...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="&#xA;         PGI 204.17&#xA;         - SERVICE CONTRACT INVENTORY&#xA;      "
+            <topicref navtitle="          PGI 204.17          - SERVICE CONTRACT INVENTORY       "
                       href="PGI_204.17.dita"
                       outputclass="SubPart"
                       props="PGI 204.17"
                       audience="DFARS_PGI_PGI_204.17"
                       base="NoTitle">
-               <topicref navtitle="&#xA;         PGI&#xA;204.1703 &#xA;         Reporting requirements.&#xA;      "
+               <topicref navtitle="          PGI 204.1703           Reporting requirements.       "
                          href="PGI_204.1703.dita"
                          outputclass="subtopic"
                          props="PGI 204.1703"
@@ -525,7 +525,7 @@ requirements.</navtitle>
 to contracting officers.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 204.1870-2 Maintenance&#xA;of the CAGE file."
+                  <topicref navtitle="PGI 204.1870-2 Maintenance of the CAGE file."
                             href="PGI_204.1870-2.dita"
                             outputclass="subtopic"
                             props="PGI 204.1870-2"
@@ -708,11 +708,9 @@ assessment activities.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_b.dita"
-                outputclass=""
                 props="DFARpgi b"
                 audience="PGI_DFAR_b"
-                base="NoTitle"
-                otherprops="">
+                base="NoTitle">
          <topicref navtitle="PGI PART 205 - PUBLICIZING CONTRACT ACTIONS"
                    href="PGI_PART_205.dita"
                    outputclass="Part"
@@ -756,18 +754,20 @@ and transmittal of synopses.</navtitle>
             </topicref>
             <topicref navtitle="PGI 206.001 Reserved"
                       href="PGI_206.001.dita"
-                      audience="dxztPx"
-                      otherprops=""
-                      base="NoTitle"
+                      outputclass="SubPart"
                       props="PGI 206.001 Reserved"
-                      outputclass="subtopic">
-               <topicref navtitle="Exception for prototype projects for follow-on production contracts."
+                      audience="dxztPx"
+                      base="NoTitle">
+               <topicref navtitle="PGI 206.001-70Exception for prototype projects for follow-on production contracts."
                          href="PGI_206.001-70.dita"
+                         outputclass="subtopic"
                          audience="fxPGOF"
-                         otherprops=""
-                         base="NoTitle"
-                         props=""
-                         outputclass="subtopic"/>
+                         base="NoTitle">
+                  <topicmeta>
+                     <navtitle>Exception
+for prototype projects for follow-on production contracts.</navtitle>
+                  </topicmeta>
+               </topicref>
             </topicref>
             <topicref navtitle="PGI 206.2 —FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES "
                       href="PGI_206.2.dita"
@@ -886,7 +886,7 @@ of the justification.</navtitle>
 responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 207.105 Contents of written&#xA;acquisition plans."
+               <topicref navtitle="PGI 207.105 Contents of written acquisition plans."
                          href="PGI_207.105.dita"
                          outputclass="subtopic"
                          props="PGI 207.105"
@@ -974,7 +974,7 @@ requirements.</navtitle>
                    props="PGI PART 208"
                    audience="DFARS-PGI_PART_208"
                    base="NoTitle">
-            <topicref navtitle="PGI 208.002 Priorities for&#xA;use of mandatory Government sources."
+            <topicref navtitle="PGI 208.002 Priorities for use of mandatory Government sources."
                       href="PGI_208.002.dita"
                       outputclass="subtopic"
                       props="PGI 208.002"
@@ -995,8 +995,8 @@ for use of mandatory Government sour...</navtitle>
                          href="PGI_208.405.dita"
                          outputclass="subtopic"
                          props="PGI 208.405 Reserved"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_208.405">
+                         audience="DFARS-PGI_PGI_208.405"
+                         base="concept">
                   <topicref navtitle="PGI 208.405-6 Limiting sources."
                             href="PGI_208.405-6.dita"
                             outputclass="subtopic"
@@ -1037,15 +1037,15 @@ sources.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 208.7—ACQUISITION&#xA;FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY&#xA;DISABLED"
+            <topicref navtitle="PGI 208.7—ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED"
                       href="PGI_208.7.dita"
                       outputclass="SubPart"
                       props="PGI 208.7"
-                      base="NoTitle"
-                      audience="i207NEA00K5Z">
+                      audience="i207NEA00K5Z"
+                      base="NoTitle">
                <topicmeta>
-                  <navtitle>PGI 208.7—ACQUISITION
-FROM NONPROFIT AGENCIES EMPLOYING P...</navtitle>
+                  <navtitle>PGI
+208.7—ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING P...</navtitle>
                </topicmeta>
             </topicref>
             <topicref navtitle="PGI 208.70 —COORDINATED ACQUISITION"
@@ -1231,7 +1231,8 @@ costs.</navtitle>
                             audience="DFARS-PGI_ASSIGNMENTS_PART_1"
                             base="concept">
                      <topicmeta>
-                        <navtitle>ASSIGNMENTS_PART_1 —ARMY ASSIGNMENTS</navtitle>
+                        <navtitle>ASSIGNMENTS_PART_1 —ARMY
+ASSIGNMENTS</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="ASSIGNMENTS_PART2 —NAVY ASSIGNMENTS"
@@ -1256,7 +1257,7 @@ ASSIGNMENTS</navtitle>
 FORCE ASSIGNMENTS</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="ASSIGNMENTS_PART4 —DEFENSE&#xA;LOGISTICS AGENCY ASSIGNMENTS"
+                  <topicref navtitle="ASSIGNMENTS_PART4 —DEFENSE LOGISTICS AGENCY ASSIGNMENTS"
                             href="ASSIGNMENTS_PART4.dita"
                             outputclass="subtopic"
                             props="PART4"
@@ -1430,8 +1431,8 @@ procedures.</navtitle>
                          href="PGI_209.105.dita"
                          outputclass="subtopic"
                          props="PGI 209.105"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_209.105">
+                         audience="DFARS-PGI_PGI_209.105"
+                         base="concept">
                   <topicref navtitle="PGI 209.105-1 Obtaining Information."
                             href="PGI_209.105-1.dita"
                             outputclass="subtopic"
@@ -1671,7 +1672,7 @@ to one manufacturer.</navtitle>
                       props="PGI 211.2"
                       audience="i1495536"
                       base="NoTitle">
-               <topicref navtitle="PGI 211.201 Identification and availability of&#xA;         specifications."
+               <topicref navtitle="PGI 211.201 Identification and availability of          specifications."
                          href="PGI_211.201.dita"
                          outputclass="subtopic"
                          props="PGI 211.201"
@@ -1717,17 +1718,17 @@ unique item identification.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="PGI 211.70 — PURCHASE REQUESTS "
-                         href="PGI_211.70.dita"
-                         outputclass="subtopic"
-                         props="PGI 211.70"
-                         audience="DFARS-PGI_PGI_211.70"
-                         base="concept">
-                  <topicmeta>
-                     <navtitle>PGI 211.70 — PURCHASE
+            </topicref>
+            <topicref navtitle="PGI 211.70 — PURCHASE REQUESTS"
+                      href="PGI_211.70.dita"
+                      outputclass="subtopic"
+                      props="PGI 211.70"
+                      audience="DFARS-PGI_PGI_211.70"
+                      base="concept">
+               <topicmeta>
+                  <navtitle>PGI 211.70 — PURCHASE
 REQUESTS</navtitle>
-                  </topicmeta>
-               </topicref>
+               </topicmeta>
                <topicref navtitle="PGI 211.7001 Procedures."
                          href="PGI_211.7001.dita"
                          outputclass="subtopic"
@@ -1821,12 +1822,10 @@ requirements.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_c.dita"
-                outputclass=""
                 props="DFARpgi c"
                 audience="PGI_DFAR_c"
-                base="NoTitle"
-                otherprops="">
-         <topicref navtitle="PGI PART 213 - SIMPLIFIED ACQUISITION&#xA;PROCEDURES"
+                base="NoTitle">
+         <topicref navtitle="PGI PART 213 - SIMPLIFIED ACQUISITION PROCEDURES"
                    href="PGI_PART_213.dita"
                    outputclass="Part"
                    props="PGI PART 213"
@@ -1941,9 +1940,9 @@ Order-Invoice-Voucher.</navtitle>
                          href="PGI_215.101.dita"
                          outputclass="subtopic"
                          props="PGI 215.101"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_215.101">
-                  <topicref navtitle="PGI 215.101-2-70 Limitations&#xA;and prohibitions."
+                         audience="DFARS-PGI_PGI_215.101"
+                         base="concept">
+                  <topicref navtitle="PGI 215.101-2-70 Limitations and prohibitions."
                             href="PGI_215.101-2-70.dita"
                             outputclass="subtopic"
                             props="PGI 215.101-2-70"
@@ -2053,7 +2052,7 @@ competition.</navtitle>
                          props="PGI 215.403"
                          audience="DFARS-PGI_PGI_215.403"
                          base="concept">
-                  <topicref navtitle="PGI 215.403-1 Prohibition on&#xA;obtaining certified cost or pricing data (10 U.S.C. 2306a and 41&#xA;U.S.C. chapter 35)."
+                  <topicref navtitle="PGI 215.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35)."
                             href="PGI_215.403-1.dita"
                             outputclass="subtopic"
                             props="PGI 215.403-1"
@@ -2064,7 +2063,7 @@ competition.</navtitle>
 on obtaining certified cost or pr...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 215.403-3 Requiring data&#xA;other than certified cost or pricing data."
+                  <topicref navtitle="PGI 215.403-3 Requiring data other than certified cost or pricing data."
                             href="PGI_215.403-3.dita"
                             outputclass="subtopic"
                             props="PGI 215.403-3"
@@ -2082,7 +2081,7 @@ data other than certified cost or p...</navtitle>
                          props="PGI 215.404"
                          audience="DFARS-PGI_PGI_215.404"
                          base="concept">
-                  <topicref navtitle="PGI 215.404-1 Proposal analysis&#xA;techniques."
+                  <topicref navtitle="PGI 215.404-1 Proposal analysis techniques."
                             href="PGI_215.404-1.dita"
                             outputclass="subtopic"
                             props="PGI 215.404-1"
@@ -2153,9 +2152,9 @@ capital employed.</navtitle>
                          href="PGI_215.406.dita"
                          outputclass="subtopic"
                          props="PGI 215.406"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_215.406">
-                  <topicref navtitle="PGI 215.406-1 Prenegotiation&#xA;objectives."
+                         audience="DFARS-PGI_PGI_215.406"
+                         base="concept">
+                  <topicref navtitle="PGI 215.406-1 Prenegotiation objectives."
                             href="PGI_215.406-1.dita"
                             outputclass="subtopic"
                             props="PGI 215.406-1"
@@ -2166,15 +2165,15 @@ capital employed.</navtitle>
 objectives.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 215.406-2 Prenegotiation&#xA;objectives."
+                  <topicref navtitle="PGI 215.406-2 Prenegotiation objectives."
                             href="PGI_215.406-2.dita"
                             outputclass="subtopic"
                             props="PGI 215.406-2"
-                            base="concept"
-                            audience="DFARS-PGI_PGI_215.406-2">
+                            audience="DFARS-PGI_PGI_215.406-2"
+                            base="concept">
                      <topicmeta>
-                        <navtitle>PGI
-215.406-2 Prenegotiation objectives.</navtitle>
+                        <navtitle>PGI 215.406-2 Prenegotiation
+objectives.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="PGI 215.406-3 Documenting the negotiation."
@@ -2193,8 +2192,8 @@ the negotiation.</navtitle>
                          href="PGI_215.407.dita"
                          outputclass="subtopic"
                          props="PGI 215.407"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_215.407">
+                         audience="DFARS-PGI_PGI_215.407"
+                         base="concept">
                   <topicref navtitle="PGI 215.407-2 Make-or-buy programs."
                             href="PGI_215.407-2.dita"
                             outputclass="subtopic"
@@ -2465,7 +2464,7 @@ agreements.</navtitle>
                       props="PGI 217.1"
                       audience="i1495992"
                       base="NoTitle">
-               <topicref navtitle="PGI 217.174 Multiyear contracts&#xA;for electricity from renewable energy sources."
+               <topicref navtitle="PGI 217.174 Multiyear contracts for electricity from renewable energy sources."
                          href="PGI_217.174.dita"
                          outputclass="subtopic"
                          props="PGI 217.174"
@@ -2562,7 +2561,7 @@ Non...</navtitle>
                          props="PGI 217.7103"
                          audience="DFARS-PGI_PGI_217.7103"
                          base="concept">
-                  <topicref navtitle="PGI 217.7103-1 Content and&#xA;format of master agreements."
+                  <topicref navtitle="PGI 217.7103-1 Content and format of master agreements."
                             href="PGI_217.7103-1.dita"
                             outputclass="subtopic"
                             props="PGI 217.7103-1"
@@ -2618,8 +2617,8 @@ costs not readily ascertainable.</navtitle>
                          href="PGI_217.7404.dita"
                          outputclass="subtopic"
                          props="PGI 217.7404"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_217.7404">
+                         audience="DFARS-PGI_PGI_217.7404"
+                         base="concept">
                   <topicref navtitle="PGI 217.7404-1 Authorization."
                             href="PGI_217.7404-1.dita"
                             outputclass="subtopic"
@@ -2703,669 +2702,669 @@ integrated with production.</navtitle>
 of parts when data is not availabl...</navtitle>
                   </topicmeta>
                </topicref>
-            </topicref>
-            <topicref navtitle="PGI 217.7506 —SPARE PARTS BREAKOUT PROGRAM "
-                      href="PGI_217.7506.dita"
-                      outputclass="SubPart"
-                      props="PGI 217.7506"
-                      audience="i1496053"
-                      base="NoTitle">
-               <topicref navtitle="SPARE_PART_1 —GENERAL"
-                         href="SPARE_PART_1.dita"
+               <topicref navtitle="PGI 217.7506 —SPARE PARTS BREAKOUT PROGRAM "
+                         href="PGI_217.7506.dita"
                          outputclass="subtopic"
-                         props="PART_1"
-                         audience="DFARS-PGI_SPARE_PART_1"
-                         base="concept">
-                  <topicref navtitle="1-101 Applicability."
-                            href="1-101.dita"
+                         props="PGI 217.7506"
+                         audience="i1496053"
+                         base="NoTitle">
+                  <topicref navtitle="SPARE_PART_1 —GENERAL"
+                            href="SPARE_PART_1.dita"
                             outputclass="subtopic"
-                            props="1-101"
-                            audience="DFARS-PGI_1-101"
+                            props="PART_1"
+                            audience="DFARS-PGI_SPARE_PART_1"
                             base="concept">
-                     <topicmeta>
-                        <navtitle>1-101
+                     <topicref navtitle="1-101 Applicability."
+                               href="1-101.dita"
+                               outputclass="subtopic"
+                               props="1-101"
+                               audience="DFARS-PGI_1-101"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>1-101
 Applicability.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="1-103 Definitions."
-                            href="1-103.dita"
-                            outputclass="subtopic"
-                            props="1-103"
-                            audience="DFARS-PGI_1-103"
-                            base="concept">
-                     <topicref navtitle="1-103.1 Acquisition method code (AMC)."
-                               href="1-103.1.dita"
-                               props="1-103.1"
-                               audience="DFARS-PGI_1-103.1"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.1 Acquisition method code (AMC).</navtitle>
                         </topicmeta>
                      </topicref>
-                     <topicref navtitle="1-103.2 Acquisition method code conference."
-                               href="1-103.2.dita"
-                               props="1-103.2"
-                               audience="DFARS-PGI_1-103.2"
+                     <topicref navtitle="1-103 Definitions."
+                               href="1-103.dita"
+                               outputclass="subtopic"
+                               props="1-103"
+                               audience="DFARS-PGI_1-103"
+                               base="concept">
+                        <topicref navtitle="1-103.1 Acquisition method code (AMC)."
+                                  href="1-103.1.dita"
+                                  props="1-103.1"
+                                  audience="DFARS-PGI_1-103.1"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.1 Acquisition method code (AMC).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.2 Acquisition method code conference."
+                                  href="1-103.2.dita"
+                                  props="1-103.2"
+                                  audience="DFARS-PGI_1-103.2"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.2 Acquisition method code conference.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.3 Acquisition method suffix code (AMSC)."
+                                  href="1-103.3.dita"
+                                  props="1-103.3"
+                                  audience="DFARS-PGI_1-103.3"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.3 Acquisition method suffix code (AMSC).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.4 Actual manufacturer."
+                                  href="1-103.4.dita"
+                                  props="1-103.4"
+                                  audience="DFARS-PGI_1-103.4"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.4 Actual manufacturer.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.5 Altered item drawing."
+                                  href="1-103.5.dita"
+                                  props="1-103.5"
+                                  audience="DFARS-PGI_1-103.5"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.5 Altered item drawing.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.6 Annual buy quantity."
+                                  href="1-103.6.dita"
+                                  props="1-103.6"
+                                  audience="DFARS-PGI_1-103.6"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.6 Annual buy quantity.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.7 Annual buy value (ABV)."
+                                  href="1-103.7.dita"
+                                  props="1-103.7"
+                                  audience="DFARS-PGI_1-103.7"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.7 Annual buy value (ABV).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.8 Bailment."
+                                  href="1-103.8.dita"
+                                  props="1-103.8"
+                                  audience="DFARS-PGI_1-103.8"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.8 Bailment.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.9 Breakout."
+                                  href="1-103.9.dita"
+                                  props="1-103.9"
+                                  audience="DFARS-PGI_1-103.9"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.9 Breakout.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.10 Competition."
+                                  href="1-103.10.dita"
+                                  props="1-103.10"
+                                  audience="DFARS-PGI_1-103.10"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.10 Competition.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.11 Contractor technical information code (CTIC)."
+                                  href="1-103.11.dita"
+                                  props="1-103.11"
+                                  audience="DFARS-PGI_1-103.11"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.11 Contractor technical information code (CTIC).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.12 Design control activity."
+                                  href="1-103.12.dita"
+                                  props="1-103.12"
+                                  audience="DFARS-PGI_1-103.12"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.12 Design control activity.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.13 Direct purchase."
+                                  href="1-103.13.dita"
+                                  props="1-103.13"
+                                  audience="DFARS-PGI_1-103.13"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.13 Direct purchase.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.14 Engineering drawings."
+                                  href="1-103.14.dita"
+                                  props="1-103.14"
+                                  audience="DFARS-PGI_1-103.14"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.14 Engineering drawings.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.15 Extended dollar value."
+                                  href="1-103.15.dita"
+                                  props="1-103.15"
+                                  audience="DFARS-PGI_1-103.15"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.15 Extended dollar value.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.16 Full and open competition."
+                                  href="1-103.16.dita"
+                                  props="1-103.16"
+                                  audience="DFARS-PGI_1-103.16"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.16 Full and open competition.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.17 Full screening."
+                                  href="1-103.17.dita"
+                                  props="1-103.17"
+                                  audience="DFARS-PGI_1-103.17"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.17 Full screening.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.18 Immediate (live) buy."
+                                  href="1-103.18.dita"
+                                  props="1-103.18"
+                                  audience="DFARS-PGI_1-103.18"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.18 Immediate (live) buy.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.19 Life cycle buy value."
+                                  href="1-103.19.dita"
+                                  props="1-103.19"
+                                  audience="DFARS-PGI_1-103.19"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.19 Life cycle buy value.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.20 Limited competition."
+                                  href="1-103.20.dita"
+                                  props="1-103.20"
+                                  audience="DFARS-PGI_1-103.20"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.20 Limited competition.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.21 Limited screening."
+                                  href="1-103.21.dita"
+                                  props="1-103.21"
+                                  audience="DFARS-PGI_1-103.21"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.21 Limited screening.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.22 Manufacture."
+                                  href="1-103.22.dita"
+                                  props="1-103.22"
+                                  audience="DFARS-PGI_1-103.22"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.22 Manufacture.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.23 Prime contractor."
+                                  href="1-103.23.dita"
+                                  props="1-103.23"
+                                  audience="DFARS-PGI_1-103.23"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.23 Prime contractor.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.24 Provisioning."
+                                  href="1-103.24.dita"
+                                  props="1-103.24"
+                                  audience="DFARS-PGI_1-103.24"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.24 Provisioning.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.25 Qualification."
+                                  href="1-103.25.dita"
+                                  props="1-103.25"
+                                  audience="DFARS-PGI_1-103.25"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.25 Qualification.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.26 Replenishment part."
+                                  href="1-103.26.dita"
+                                  props="1-103.26"
+                                  audience="DFARS-PGI_1-103.26"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.26 Replenishment part.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.27 Reverse engineering."
+                                  href="1-103.27.dita"
+                                  props="1-103.27"
+                                  audience="DFARS-PGI_1-103.27"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.27 Reverse engineering.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.28 Selected item drawing."
+                                  href="1-103.28.dita"
+                                  props="1-103.28"
+                                  audience="DFARS-PGI_1-103.28"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.28 Selected item drawing.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.29 Source."
+                                  href="1-103.29.dita"
+                                  props="1-103.29"
+                                  audience="DFARS-PGI_1-103.29"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.29 Source.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.30 Source approval."
+                                  href="1-103.30.dita"
+                                  props="1-103.30"
+                                  audience="DFARS-PGI_1-103.30"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.30 Source approval.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.31 Source control drawing."
+                                  href="1-103.31.dita"
+                                  props="1-103.31"
+                                  audience="DFARS-PGI_1-103.31"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.31 Source control drawing.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="1-103.32 Technical data."
+                                  href="1-103.32.dita"
+                                  props="1-103.32"
+                                  audience="DFARS-PGI_1-103.32"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>1-103.32 Technical data.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                     </topicref>
+                     <topicref navtitle="1-104 General policies."
+                               href="1-104.dita"
+                               outputclass="subtopic"
+                               props="1-104"
+                               audience="DFARS-PGI_1-104"
                                base="concept">
                         <topicmeta>
-                           <navtitle>1-103.2 Acquisition method code conference.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.3 Acquisition method suffix code (AMSC)."
-                               href="1-103.3.dita"
-                               props="1-103.3"
-                               audience="DFARS-PGI_1-103.3"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.3 Acquisition method suffix code (AMSC).</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.4 Actual manufacturer."
-                               href="1-103.4.dita"
-                               props="1-103.4"
-                               audience="DFARS-PGI_1-103.4"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.4 Actual manufacturer.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.5 Altered item drawing."
-                               href="1-103.5.dita"
-                               props="1-103.5"
-                               audience="DFARS-PGI_1-103.5"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.5 Altered item drawing.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.6 Annual buy quantity."
-                               href="1-103.6.dita"
-                               props="1-103.6"
-                               audience="DFARS-PGI_1-103.6"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.6 Annual buy quantity.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.7 Annual buy value (ABV)."
-                               href="1-103.7.dita"
-                               props="1-103.7"
-                               audience="DFARS-PGI_1-103.7"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.7 Annual buy value (ABV).</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.8 Bailment."
-                               href="1-103.8.dita"
-                               props="1-103.8"
-                               audience="DFARS-PGI_1-103.8"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.8 Bailment.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.9 Breakout."
-                               href="1-103.9.dita"
-                               props="1-103.9"
-                               audience="DFARS-PGI_1-103.9"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.9 Breakout.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.10 Competition."
-                               href="1-103.10.dita"
-                               props="1-103.10"
-                               audience="DFARS-PGI_1-103.10"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.10 Competition.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.11 Contractor technical information code (CTIC)."
-                               href="1-103.11.dita"
-                               props="1-103.11"
-                               audience="DFARS-PGI_1-103.11"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.11 Contractor technical information code (CTIC).</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.12 Design control activity."
-                               href="1-103.12.dita"
-                               props="1-103.12"
-                               audience="DFARS-PGI_1-103.12"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.12 Design control activity.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.13 Direct purchase."
-                               href="1-103.13.dita"
-                               props="1-103.13"
-                               audience="DFARS-PGI_1-103.13"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.13 Direct purchase.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.14 Engineering drawings."
-                               href="1-103.14.dita"
-                               props="1-103.14"
-                               audience="DFARS-PGI_1-103.14"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.14 Engineering drawings.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.15 Extended dollar value."
-                               href="1-103.15.dita"
-                               props="1-103.15"
-                               audience="DFARS-PGI_1-103.15"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.15 Extended dollar value.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.16 Full and open competition."
-                               href="1-103.16.dita"
-                               props="1-103.16"
-                               audience="DFARS-PGI_1-103.16"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.16 Full and open competition.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.17 Full screening."
-                               href="1-103.17.dita"
-                               props="1-103.17"
-                               audience="DFARS-PGI_1-103.17"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.17 Full screening.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.18 Immediate (live) buy."
-                               href="1-103.18.dita"
-                               props="1-103.18"
-                               audience="DFARS-PGI_1-103.18"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.18 Immediate (live) buy.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.19 Life cycle buy value."
-                               href="1-103.19.dita"
-                               props="1-103.19"
-                               audience="DFARS-PGI_1-103.19"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.19 Life cycle buy value.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.20 Limited competition."
-                               href="1-103.20.dita"
-                               props="1-103.20"
-                               audience="DFARS-PGI_1-103.20"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.20 Limited competition.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.21 Limited screening."
-                               href="1-103.21.dita"
-                               props="1-103.21"
-                               audience="DFARS-PGI_1-103.21"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.21 Limited screening.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.22 Manufacture."
-                               href="1-103.22.dita"
-                               props="1-103.22"
-                               audience="DFARS-PGI_1-103.22"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.22 Manufacture.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.23 Prime contractor."
-                               href="1-103.23.dita"
-                               props="1-103.23"
-                               audience="DFARS-PGI_1-103.23"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.23 Prime contractor.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.24 Provisioning."
-                               href="1-103.24.dita"
-                               props="1-103.24"
-                               audience="DFARS-PGI_1-103.24"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.24 Provisioning.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.25 Qualification."
-                               href="1-103.25.dita"
-                               props="1-103.25"
-                               audience="DFARS-PGI_1-103.25"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.25 Qualification.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.26 Replenishment part."
-                               href="1-103.26.dita"
-                               props="1-103.26"
-                               audience="DFARS-PGI_1-103.26"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.26 Replenishment part.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.27 Reverse engineering."
-                               href="1-103.27.dita"
-                               props="1-103.27"
-                               audience="DFARS-PGI_1-103.27"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.27 Reverse engineering.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.28 Selected item drawing."
-                               href="1-103.28.dita"
-                               props="1-103.28"
-                               audience="DFARS-PGI_1-103.28"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.28 Selected item drawing.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.29 Source."
-                               href="1-103.29.dita"
-                               props="1-103.29"
-                               audience="DFARS-PGI_1-103.29"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.29 Source.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.30 Source approval."
-                               href="1-103.30.dita"
-                               props="1-103.30"
-                               audience="DFARS-PGI_1-103.30"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.30 Source approval.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.31 Source control drawing."
-                               href="1-103.31.dita"
-                               props="1-103.31"
-                               audience="DFARS-PGI_1-103.31"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.31 Source control drawing.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="1-103.32 Technical data."
-                               href="1-103.32.dita"
-                               props="1-103.32"
-                               audience="DFARS-PGI_1-103.32"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>1-103.32 Technical data.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                  </topicref>
-                  <topicref navtitle="1-104 General policies."
-                            href="1-104.dita"
-                            outputclass="subtopic"
-                            props="1-104"
-                            audience="DFARS-PGI_1-104"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>1-104
+                           <navtitle>1-104
 General policies.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="1-105 Responsibilities."
-                            href="1-105.dita"
-                            outputclass="subtopic"
-                            props="1-105"
-                            audience="DFARS-PGI_1-105"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>1-105
+                        </topicmeta>
+                     </topicref>
+                     <topicref navtitle="1-105 Responsibilities."
+                               href="1-105.dita"
+                               outputclass="subtopic"
+                               props="1-105"
+                               audience="DFARS-PGI_1-105"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>1-105
 Responsibilities.</navtitle>
-                     </topicmeta>
+                        </topicmeta>
+                     </topicref>
                   </topicref>
-               </topicref>
-               <topicref navtitle="SPARE_PART_2 —BREAKOUT CODING"
-                         href="SPARE_PART_2.dita"
-                         outputclass="subtopic"
-                         props="PART_2"
-                         audience="DFARS-PGI_SPARE_PART_2"
-                         base="concept">
-                  <topicref navtitle="2-200 Scope."
-                            href="2-200.dita"
+                  <topicref navtitle="SPARE_PART_2 —BREAKOUT CODING"
+                            href="SPARE_PART_2.dita"
                             outputclass="subtopic"
-                            props="2-200"
-                            audience="DFARS-PGI_2-200"
+                            props="PART_2"
+                            audience="DFARS-PGI_SPARE_PART_2"
                             base="concept">
-                     <topicmeta>
-                        <navtitle>2-200
+                     <topicref navtitle="2-200 Scope."
+                               href="2-200.dita"
+                               outputclass="subtopic"
+                               props="2-200"
+                               audience="DFARS-PGI_2-200"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>2-200
 Scope.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="2-201 Coding."
-                            href="2-201.dita"
-                            outputclass="subtopic"
-                            props="2-201"
-                            audience="DFARS-PGI_2-201"
-                            base="concept">
-                     <topicref navtitle="2-201.1 Acquisition method codes."
-                               href="2-201.1.dita"
-                               props="2-201.1"
-                               audience="DFARS-PGI_2-201.1"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>2-201.1 Acquisition method codes.</navtitle>
                         </topicmeta>
                      </topicref>
-                     <topicref navtitle="2-201.2 Acquisition method suffix codes."
-                               href="2-201.2.dita"
-                               props="2-201.2"
-                               audience="DFARS-PGI_2-201.2"
+                     <topicref navtitle="2-201 Coding."
+                               href="2-201.dita"
+                               outputclass="subtopic"
+                               props="2-201"
+                               audience="DFARS-PGI_2-201"
+                               base="concept">
+                        <topicref navtitle="2-201.1 Acquisition method codes."
+                                  href="2-201.1.dita"
+                                  props="2-201.1"
+                                  audience="DFARS-PGI_2-201.1"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>2-201.1 Acquisition method codes.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="2-201.2 Acquisition method suffix codes."
+                                  href="2-201.2.dita"
+                                  props="2-201.2"
+                                  audience="DFARS-PGI_2-201.2"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>2-201.2 Acquisition method suffix codes.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="2-201.3 Contractor technical information codes."
+                                  href="2-201.3.dita"
+                                  props="2-201.3"
+                                  audience="DFARS-PGI_2-201.3"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>2-201.3 Contractor technical information codes.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                     </topicref>
+                     <topicref navtitle="2-202 Assignment of codes."
+                               href="2-202.dita"
+                               outputclass="subtopic"
+                               props="2-202"
+                               audience="DFARS-PGI_2-202"
                                base="concept">
                         <topicmeta>
-                           <navtitle>2-201.2 Acquisition method suffix codes.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="2-201.3 Contractor technical information codes."
-                               href="2-201.3.dita"
-                               props="2-201.3"
-                               audience="DFARS-PGI_2-201.3"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>2-201.3 Contractor technical information codes.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                  </topicref>
-                  <topicref navtitle="2-202 Assignment of codes."
-                            href="2-202.dita"
-                            outputclass="subtopic"
-                            props="2-202"
-                            audience="DFARS-PGI_2-202"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>2-202
+                           <navtitle>2-202
 Assignment of codes.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="2-203 Improving part status."
-                            href="2-203.dita"
-                            outputclass="subtopic"
-                            props="2-203"
-                            audience="DFARS-PGI_2-203"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>2-203
+                        </topicmeta>
+                     </topicref>
+                     <topicref navtitle="2-203 Improving part status."
+                               href="2-203.dita"
+                               outputclass="subtopic"
+                               props="2-203"
+                               audience="DFARS-PGI_2-203"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>2-203
 Improving part status.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="2-204 Communication of codes."
-                            href="2-204.dita"
-                            outputclass="subtopic"
-                            props="2-204"
-                            audience="DFARS-PGI_2-204"
-                            base="concept">
-                     <topicref navtitle="2-204.1 Communication media."
-                               href="2-204.1.dita"
-                               props="2-204.1"
-                               audience="DFARS-PGI_2-204.1"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>2-204.1 Communication media.</navtitle>
                         </topicmeta>
                      </topicref>
-                     <topicref navtitle="2-204.2 Responsibilities."
-                               href="2-204.2.dita"
-                               props="2-204.2"
-                               audience="DFARS-PGI_2-204.2"
+                     <topicref navtitle="2-204 Communication of codes."
+                               href="2-204.dita"
+                               outputclass="subtopic"
+                               props="2-204"
+                               audience="DFARS-PGI_2-204"
                                base="concept">
-                        <topicmeta>
-                           <navtitle>2-204.2 Responsibilities.</navtitle>
-                        </topicmeta>
+                        <topicref navtitle="2-204.1 Communication media."
+                                  href="2-204.1.dita"
+                                  props="2-204.1"
+                                  audience="DFARS-PGI_2-204.1"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>2-204.1 Communication media.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="2-204.2 Responsibilities."
+                                  href="2-204.2.dita"
+                                  props="2-204.2"
+                                  audience="DFARS-PGI_2-204.2"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>2-204.2 Responsibilities.</navtitle>
+                           </topicmeta>
+                        </topicref>
                      </topicref>
                   </topicref>
-               </topicref>
-               <topicref navtitle="SPARE_PART_3 —IDENTIFICATION, SELECTION, AND SCREENING OF PARTS"
-                         href="SPARE_PART_3.dita"
-                         outputclass="subtopic"
-                         props="PART_3"
-                         audience="DFARS-PGI_SPARE_PART_3"
-                         base="concept">
-                  <topicref navtitle="3-300 General."
-                            href="3-300.dita"
+                  <topicref navtitle="SPARE_PART_3 —IDENTIFICATION, SELECTION, AND SCREENING OF PARTS"
+                            href="SPARE_PART_3.dita"
                             outputclass="subtopic"
-                            props="3-300"
-                            audience="DFARS-PGI_3-300"
+                            props="PART_3"
+                            audience="DFARS-PGI_SPARE_PART_3"
                             base="concept">
-                     <topicmeta>
-                        <navtitle>3-300
+                     <topicref navtitle="3-300 General."
+                               href="3-300.dita"
+                               outputclass="subtopic"
+                               props="3-300"
+                               audience="DFARS-PGI_3-300"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>3-300
 General.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="3-301 Identification and selection procedures."
-                            href="3-301.dita"
-                            outputclass="subtopic"
-                            props="3-301"
-                            audience="DFARS-PGI_3-301"
-                            base="concept">
-                     <topicref navtitle="3-301.1 Parts entering the inventory."
-                               href="3-301.1.dita"
-                               props="3-301.1"
-                               audience="DFARS-PGI_3-301.1"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>3-301.1 Parts entering the inventory.</navtitle>
                         </topicmeta>
                      </topicref>
-                     <topicref navtitle="3-301.2 Annual buy forecasts."
-                               href="3-301.2.dita"
-                               props="3-301.2"
-                               audience="DFARS-PGI_3-301.2"
+                     <topicref navtitle="3-301 Identification and selection procedures."
+                               href="3-301.dita"
+                               outputclass="subtopic"
+                               props="3-301"
+                               audience="DFARS-PGI_3-301"
+                               base="concept">
+                        <topicref navtitle="3-301.1 Parts entering the inventory."
+                                  href="3-301.1.dita"
+                                  props="3-301.1"
+                                  audience="DFARS-PGI_3-301.1"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-301.1 Parts entering the inventory.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="3-301.2 Annual buy forecasts."
+                                  href="3-301.2.dita"
+                                  props="3-301.2"
+                                  audience="DFARS-PGI_3-301.2"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-301.2 Annual buy forecasts.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="3-301.3 Immediate buy requirements."
+                                  href="3-301.3.dita"
+                                  props="3-301.3"
+                                  audience="DFARS-PGI_3-301.3"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-301.3 Immediate buy requirements.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="3-301.4 Suspect AMC/AMSC."
+                                  href="3-301.4.dita"
+                                  props="3-301.4"
+                                  audience="DFARS-PGI_3-301.4"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-301.4 Suspect AMC/AMSC.</navtitle>
+                           </topicmeta>
+                        </topicref>
+                     </topicref>
+                     <topicref navtitle="3-302 Screening."
+                               href="3-302.dita"
+                               outputclass="subtopic"
+                               props="3-302"
+                               audience="DFARS-PGI_3-302"
                                base="concept">
                         <topicmeta>
-                           <navtitle>3-301.2 Annual buy forecasts.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="3-301.3 Immediate buy requirements."
-                               href="3-301.3.dita"
-                               props="3-301.3"
-                               audience="DFARS-PGI_3-301.3"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>3-301.3 Immediate buy requirements.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="3-301.4 Suspect AMC/AMSC."
-                               href="3-301.4.dita"
-                               props="3-301.4"
-                               audience="DFARS-PGI_3-301.4"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>3-301.4 Suspect AMC/AMSC.</navtitle>
-                        </topicmeta>
-                     </topicref>
-                  </topicref>
-                  <topicref navtitle="3-302 Screening."
-                            href="3-302.dita"
-                            outputclass="subtopic"
-                            props="3-302"
-                            audience="DFARS-PGI_3-302"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>3-302
+                           <navtitle>3-302
 Screening.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="3-303 Full screening procedures."
-                            href="3-303.dita"
-                            outputclass="subtopic"
-                            props="3-303"
-                            audience="DFARS-PGI_3-303"
-                            base="concept">
-                     <topicref navtitle="3-303.1 Data collection phase (step 1)."
-                               href="3-303.1.dita"
-                               props="3-303.1"
-                               audience="DFARS-PGI_3-303.1"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>3-303.1 Data collection phase (step 1).</navtitle>
                         </topicmeta>
                      </topicref>
-                     <topicref navtitle="3-303.2 Data evaluation phase (steps 2-14)."
-                               href="3-303.2.dita"
-                               props="3-303.2"
-                               audience="DFARS-PGI_3-303.2"
+                     <topicref navtitle="3-303 Full screening procedures."
+                               href="3-303.dita"
+                               outputclass="subtopic"
+                               props="3-303"
+                               audience="DFARS-PGI_3-303"
+                               base="concept">
+                        <topicref navtitle="3-303.1 Data collection phase (step 1)."
+                                  href="3-303.1.dita"
+                                  props="3-303.1"
+                                  audience="DFARS-PGI_3-303.1"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-303.1 Data collection phase (step 1).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="3-303.2 Data evaluation phase (steps 2-14)."
+                                  href="3-303.2.dita"
+                                  props="3-303.2"
+                                  audience="DFARS-PGI_3-303.2"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-303.2 Data evaluation phase (steps 2-14).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="3-303.3 Data completion phase (steps 15-21)."
+                                  href="3-303.3.dita"
+                                  props="3-303.3"
+                                  audience="DFARS-PGI_3-303.3"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-303.3 Data completion phase (steps 15-21).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="3-303.4 Technical evaluation phase (steps 22-37)."
+                                  href="3-303.4.dita"
+                                  props="3-303.4"
+                                  audience="DFARS-PGI_3-303.4"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-303.4 Technical evaluation phase (steps 22-37).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="3-303.5 Economic evaluation phase (steps 38-56)."
+                                  href="3-303.5.dita"
+                                  props="3-303.5"
+                                  audience="DFARS-PGI_3-303.5"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-303.5 Economic evaluation phase (steps 38-56).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                        <topicref navtitle="3-303.6 Supply feedback phase (steps 57-65)."
+                                  href="3-303.6.dita"
+                                  props="3-303.6"
+                                  audience="DFARS-PGI_3-303.6"
+                                  base="concept">
+                           <topicmeta>
+                              <navtitle>3-303.6 Supply feedback phase (steps 57-65).</navtitle>
+                           </topicmeta>
+                        </topicref>
+                     </topicref>
+                     <topicref navtitle="3-304 Limited screening procedures."
+                               href="3-304.dita"
+                               outputclass="subtopic"
+                               props="3-304"
+                               audience="DFARS-PGI_3-304"
                                base="concept">
                         <topicmeta>
-                           <navtitle>3-303.2 Data evaluation phase (steps 2-14).</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="3-303.3 Data completion phase (steps 15-21)."
-                               href="3-303.3.dita"
-                               props="3-303.3"
-                               audience="DFARS-PGI_3-303.3"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>3-303.3 Data completion phase (steps 15-21).</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="3-303.4 Technical evaluation phase (steps 22-37)."
-                               href="3-303.4.dita"
-                               props="3-303.4"
-                               audience="DFARS-PGI_3-303.4"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>3-303.4 Technical evaluation phase (steps 22-37).</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="3-303.5 Economic evaluation phase (steps 38-56)."
-                               href="3-303.5.dita"
-                               props="3-303.5"
-                               audience="DFARS-PGI_3-303.5"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>3-303.5 Economic evaluation phase (steps 38-56).</navtitle>
-                        </topicmeta>
-                     </topicref>
-                     <topicref navtitle="3-303.6 Supply feedback phase (steps 57-65)."
-                               href="3-303.6.dita"
-                               props="3-303.6"
-                               audience="DFARS-PGI_3-303.6"
-                               base="concept">
-                        <topicmeta>
-                           <navtitle>3-303.6 Supply feedback phase (steps 57-65).</navtitle>
-                        </topicmeta>
-                     </topicref>
-                  </topicref>
-                  <topicref navtitle="3-304 Limited screening procedures."
-                            href="3-304.dita"
-                            outputclass="subtopic"
-                            props="3-304"
-                            audience="DFARS-PGI_3-304"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>3-304
+                           <navtitle>3-304
 Limited screening procedures.</navtitle>
-                     </topicmeta>
+                        </topicmeta>
+                     </topicref>
                   </topicref>
-               </topicref>
-               <topicref navtitle="SPARE_PART_4 —CONTRACTOR'S ASSISTANCE"
-                         href="SPARE_PART_4.dita"
-                         outputclass="subtopic"
-                         props="PART_4"
-                         audience="DFARS-PGI_SPARE_PART_4"
-                         base="concept">
-                  <topicref navtitle="4-400 General."
-                            href="4-400.dita"
+                  <topicref navtitle="SPARE_PART_4 —CONTRACTOR'S ASSISTANCE"
+                            href="SPARE_PART_4.dita"
                             outputclass="subtopic"
-                            props="4-400"
-                            audience="DFARS-PGI_4-400"
+                            props="PART_4"
+                            audience="DFARS-PGI_SPARE_PART_4"
                             base="concept">
-                     <topicmeta>
-                        <navtitle>4-400
+                     <topicref navtitle="4-400 General."
+                               href="4-400.dita"
+                               outputclass="subtopic"
+                               props="4-400"
+                               audience="DFARS-PGI_4-400"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>4-400
 General.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="4-401 Contractor's technical evaluation procedures."
-                            href="4-401.dita"
-                            outputclass="subtopic"
-                            props="4-401"
-                            audience="DFARS-PGI_4-401"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>4-401
+                        </topicmeta>
+                     </topicref>
+                     <topicref navtitle="4-401 Contractor's technical evaluation procedures."
+                               href="4-401.dita"
+                               outputclass="subtopic"
+                               props="4-401"
+                               audience="DFARS-PGI_4-401"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>4-401
 Contractor's technical evaluation procedures.</navtitle>
-                     </topicmeta>
+                        </topicmeta>
+                     </topicref>
                   </topicref>
-               </topicref>
-               <topicref navtitle="SPARE_PART_5 —REPORTING SYSTEM"
-                         href="SPARE_PART_5.dita"
-                         outputclass="subtopic"
-                         props="PART_5"
-                         audience="DFARS-PGI_SPARE_PART_5"
-                         base="concept">
-                  <topicref navtitle="5-500 General."
-                            href="5-500.dita"
+                  <topicref navtitle="SPARE_PART_5 —REPORTING SYSTEM"
+                            href="SPARE_PART_5.dita"
                             outputclass="subtopic"
-                            props="5-500"
-                            audience="DFARS-PGI_5-500"
+                            props="PART_5"
+                            audience="DFARS-PGI_SPARE_PART_5"
                             base="concept">
-                     <topicmeta>
-                        <navtitle>5-500
+                     <topicref navtitle="5-500 General."
+                               href="5-500.dita"
+                               outputclass="subtopic"
+                               props="5-500"
+                               audience="DFARS-PGI_5-500"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>5-500
 General.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="5-501 Reports."
-                            href="5-501.dita"
-                            outputclass="subtopic"
-                            props="5-501"
-                            audience="DFARS-PGI_5-501"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>5-501
+                        </topicmeta>
+                     </topicref>
+                     <topicref navtitle="5-501 Reports."
+                               href="5-501.dita"
+                               outputclass="subtopic"
+                               props="5-501"
+                               audience="DFARS-PGI_5-501"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>5-501
 Reports.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="5-502 Reporting procedures."
-                            href="5-502.dita"
-                            outputclass="subtopic"
-                            props="5-502"
-                            audience="DFARS-PGI_5-502"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>5-502
+                        </topicmeta>
+                     </topicref>
+                     <topicref navtitle="5-502 Reporting procedures."
+                               href="5-502.dita"
+                               outputclass="subtopic"
+                               props="5-502"
+                               audience="DFARS-PGI_5-502"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>5-502
 Reporting procedures.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="5-503 Reporting instructions."
-                            href="5-503.dita"
-                            outputclass="subtopic"
-                            props="5-503"
-                            audience="DFARS-PGI_5-503"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>5-503
+                        </topicmeta>
+                     </topicref>
+                     <topicref navtitle="5-503 Reporting instructions."
+                               href="5-503.dita"
+                               outputclass="subtopic"
+                               props="5-503"
+                               audience="DFARS-PGI_5-503"
+                               base="concept">
+                        <topicmeta>
+                           <navtitle>5-503
 Reporting instructions.</navtitle>
-                     </topicmeta>
+                        </topicmeta>
+                     </topicref>
                   </topicref>
                </topicref>
             </topicref>
@@ -3403,7 +3402,7 @@ Reporting instructions.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 217.78 DELETED&#xA;(NO CURRENT PGI TEXT)"
+            <topicref navtitle="PGI 217.78 DELETED (NO CURRENT PGI TEXT)"
                       href="PGI_217.78.dita"
                       outputclass="SubPart"
                       props="PGI 217.78"
@@ -3449,11 +3448,9 @@ business tools.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_d.dita"
-                outputclass=""
                 props="DFARpgi d"
                 audience="PGI_DFAR_d"
-                base="NoTitle"
-                otherprops="">
+                base="NoTitle">
          <topicref navtitle="PGI PART 219 - SMALL BUSINESS PROGRAMS"
                    href="PGI_PART_219.dita"
                    outputclass="Part"
@@ -3803,8 +3800,8 @@ requirements.</navtitle>
                          href="PGI_222.1008.dita"
                          outputclass="subtopic"
                          props="PGI 222.1008"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_222.1008">
+                         audience="DFARS-PGI_PGI_222.1008"
+                         base="concept">
                   <topicref navtitle="PGI 222.1008-1 Obtaining wage determinations."
                             href="PGI_222.1008-1.dita"
                             outputclass="subtopic"
@@ -3974,7 +3971,7 @@ and approval.</navtitle>
 of acquisition of end products manufa...</navtitle>
                </topicmeta>
             </topicref>
-            <topicref navtitle="PGI 225.3 CONTRACTS PERFORMED OUTSIDE THE UNITED STATES"
+            <topicref navtitle="PGI 225.3 —CONTRACTS PERFORMED OUTSIDE THE UNITED STATES"
                       href="PGI_225.3.dita"
                       outputclass="subtopic"
                       props="PGI 225.3"
@@ -3983,84 +3980,84 @@ of acquisition of end products manufa...</navtitle>
                <topicmeta>
                   <navtitle>PGI 225.3 CONTRACTS PERFORMED OUTSIDE THE UNITED STATES</navtitle>
                </topicmeta>
-            </topicref>
-            <topicref navtitle="PGI 225.370 Contracts requiring&#xA;performance or delivery in a foreign country."
-                      href="PGI_225.370.dita"
-                      outputclass="subtopic"
-                      props="PGI 225.370"
-                      audience="DFARS-PGI_PGI_225.370"
-                      base="concept">
-               <topicmeta>
-                  <navtitle>PGI 225.370 Contracts
+               <topicref navtitle="PGI 225.370 Contracts requiring performance or delivery in a foreign country."
+                         href="PGI_225.370.dita"
+                         outputclass="subtopic"
+                         props="PGI 225.370"
+                         audience="DFARS-PGI_PGI_225.370"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>PGI 225.370 Contracts
 requiring performance or delivery in ...</navtitle>
-               </topicmeta>
-            </topicref>
-            <topicref navtitle="PGI 225.371 Contractor personnel supporting U.S. Armed Forces deployed outside the United States."
-                      href="PGI_225.371.dita"
-                      outputclass="subtopic"
-                      props="PGI 225.371"
-                      audience="DFARS-PGI_PGI_225.371"
-                      base="concept">
-               <topicref navtitle="PGI 225.371-2 Definitions."
-                         href="PGI_225.371-2.dita"
-                         outputclass="subtopic"
-                         props="PGI 225.371-2"
-                         audience="DFARS-PGI_PGI_225.371-2"
-                         base="concept">
-                  <topicmeta>
-                     <navtitle>PGI 225.371-2 Definitions.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 225.371-3 Government support."
-                         href="PGI_225.371-3.dita"
+               <topicref navtitle="PGI 225.371 Contractor personnel supporting U.S. Armed Forces deployed outside the United States."
+                         href="PGI_225.371.dita"
                          outputclass="subtopic"
-                         props="PGI 225.371-3"
-                         audience="DFARS-PGI_PGI_225.371-3"
+                         props="PGI 225.371"
+                         audience="DFARS-PGI_PGI_225.371"
                          base="concept">
-                  <topicmeta>
-                     <navtitle>PGI 225.371-3 Government
+                  <topicref navtitle="PGI 225.371-2 Definitions."
+                            href="PGI_225.371-2.dita"
+                            outputclass="subtopic"
+                            props="PGI 225.371-2"
+                            audience="DFARS-PGI_PGI_225.371-2"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>PGI 225.371-2 Definitions.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="PGI 225.371-3 Government support."
+                            href="PGI_225.371-3.dita"
+                            outputclass="subtopic"
+                            props="PGI 225.371-3"
+                            audience="DFARS-PGI_PGI_225.371-3"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>PGI 225.371-3 Government
 support.</navtitle>
-                  </topicmeta>
-               </topicref>
-               <topicref navtitle="PGI 225.371-5 Contract clauses."
-                         href="PGI_225.371-5.dita"
-                         outputclass="subtopic"
-                         props="PGI 225.371-5"
-                         audience="DFARS-PGI_PGI_225.371-5"
-                         base="concept">
-                  <topicmeta>
-                     <navtitle>PGI 225.371-5 Contract
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="PGI 225.371-5 Contract clauses."
+                            href="PGI_225.371-5.dita"
+                            outputclass="subtopic"
+                            props="PGI 225.371-5"
+                            audience="DFARS-PGI_PGI_225.371-5"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>PGI 225.371-5 Contract
 clauses.</navtitle>
-                  </topicmeta>
+                     </topicmeta>
+                  </topicref>
                </topicref>
-            </topicref>
-            <topicref navtitle="PGI 225.372 Antiterrorism/force protection."
-                      href="PGI_225.372.dita"
-                      outputclass="subtopic"
-                      props="PGI 225.372"
-                      audience="DFARS-PGI_PGI_225.372"
-                      base="concept">
-               <topicref navtitle="PGI 225.372-1 General."
-                         href="PGI_225.372-1.dita"
+               <topicref navtitle="PGI 225.372 Antiterrorism/force protection."
+                         href="PGI_225.372.dita"
                          outputclass="subtopic"
-                         props="PGI 225.372-1"
-                         audience="DFARS-PGI_PGI_225.372-1"
+                         props="PGI 225.372"
+                         audience="DFARS-PGI_PGI_225.372"
+                         base="concept">
+                  <topicref navtitle="PGI 225.372-1 General."
+                            href="PGI_225.372-1.dita"
+                            outputclass="subtopic"
+                            props="PGI 225.372-1"
+                            audience="DFARS-PGI_PGI_225.372-1"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>PGI 225.372-1 General.</navtitle>
+                     </topicmeta>
+                  </topicref>
+               </topicref>
+               <topicref navtitle="PGI 225.373 Contract administration in support of contingency operations."
+                         href="PGI_225.373.dita"
+                         outputclass="subtopic"
+                         props="PGI 225.373"
+                         audience="DFARS-PGI_PGI_225.373"
                          base="concept">
                   <topicmeta>
-                     <navtitle>PGI 225.372-1 General.</navtitle>
+                     <navtitle>PGI 225.373 Contract administration
+in support of contingen...</navtitle>
                   </topicmeta>
                </topicref>
-            </topicref>
-            <topicref navtitle="PGI 225.373 Contract administration in support of contingency operations."
-                      href="PGI_225.373.dita"
-                      outputclass="subtopic"
-                      props="PGI 225.373"
-                      audience="DFARS-PGI_PGI_225.373"
-                      base="concept">
-               <topicmeta>
-                  <navtitle>PGI 225.373 Contract administration
-in support of contingen...</navtitle>
-               </topicmeta>
             </topicref>
             <topicref navtitle="PGI 225.5 —EVALUATING FOREIGN OFFERS—SUPPLY CONTRACTS"
                       href="PGI_225.5.dita"
@@ -4425,7 +4422,7 @@ determination.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="PGI 225.7019 Prohibition on&#xA;use of certain energy sourced from inside the Russian Federation."
+               <topicref navtitle="PGI 225.7019 Prohibition on use of certain energy sourced from inside the Russian Federation."
                          href="PGI_225.7019.dita"
                          outputclass="subtopic"
                          props="PGI 225.7019"
@@ -4575,7 +4572,7 @@ doing business with a foreign govern...</navtitle>
 procedures.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 225.7703-2 Determination&#xA;requirements."
+                  <topicref navtitle="PGI 225.7703-2 Determination requirements."
                             href="PGI_225.7703-2.dita"
                             outputclass="subtopic"
                             props="PGI 225.7703-2"
@@ -4691,11 +4688,9 @@ requirements.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_e.dita"
-                outputclass=""
                 props="DFARpgi e"
                 audience="PGI_DFAR_e"
-                base="NoTitle"
-                otherprops="">
+                base="NoTitle">
          <topicref navtitle="PGI PART 228 - BONDS AND INSURANCE"
                    href="PGI_PART_228.dita"
                    outputclass="Part"
@@ -4933,8 +4928,8 @@ restructuring costs.</navtitle>
                          href="PGI_232.409.dita"
                          outputclass="subtopic"
                          props="PGI 232.409"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_232.409">
+                         audience="DFARS-PGI_PGI_232.409"
+                         base="concept">
                   <topicref navtitle="PGI 232.409-1 Recommendation for approval."
                             href="PGI_232.409-1.dita"
                             outputclass="subtopic"
@@ -4969,8 +4964,8 @@ determination, and authorization.</navtitle>
                          href="PGI_232.501.dita"
                          outputclass="subtopic"
                          props="PGI 232.501"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_232.501">
+                         audience="DFARS-PGI_PGI_232.501"
+                         base="concept">
                   <topicref navtitle="PGI 232.501-2 Unusual progress payments."
                             href="PGI_232.501-2.dita"
                             outputclass="subtopic"
@@ -5152,12 +5147,10 @@ officer's authority.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_f.dita"
-                outputclass=""
                 props="DFARpgi f"
                 audience="PGI_DFAR_f"
-                base="NoTitle"
-                otherprops="">
-         <topicref navtitle="PGI PART 234 - MAJOR SYSTEM&#xA;ACQUISITION"
+                base="NoTitle">
+         <topicref navtitle="PGI PART 234 - MAJOR SYSTEM ACQUISITION"
                    href="PGI_PART_234.dita"
                    outputclass="Part"
                    props="PGI PART 234"
@@ -5233,7 +5226,7 @@ and technical reports.</navtitle>
                </topicmeta>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI PART 236 - CONSTRUCTION&#xA;AND ARCHITECT — ENGINEER CONTRACTS"
+         <topicref navtitle="PGI PART 236 - CONSTRUCTION AND ARCHITECT — ENGINEER CONTRACTS"
                    href="PGI_PART_236.dita"
                    outputclass="Part"
                    props="PGI PART 236"
@@ -5322,7 +5315,7 @@ criteria.</navtitle>
                    props="PGI PART 237"
                    audience="DFARS-PGI_PART_237"
                    base="NoTitle">
-            <topicref navtitle="PGI 237.1 —SERVICE&#xA;CONTRACTS—GENERAL"
+            <topicref navtitle="PGI 237.1 —SERVICE CONTRACTS—GENERAL"
                       href="PGI_237.1.dita"
                       outputclass="SubPart"
                       props="PGI 237.1"
@@ -5332,8 +5325,8 @@ criteria.</navtitle>
                          href="PGI_237.102.dita"
                          outputclass="subtopic"
                          props="PGI 237.102"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_237.102">
+                         audience="DFARS-PGI_PGI_237.102"
+                         base="concept">
                   <topicref navtitle="PGI 237.102-70 Prohibition on contracting for firefighting or security-guard functions."
                             href="PGI_237.102-70.dita"
                             outputclass="subtopic"
@@ -5356,7 +5349,7 @@ on contracting for firefighting ...</navtitle>
 on service contracts for military...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 237.102-73 Prohibition&#xA;on contracts for services of senior mentors."
+                  <topicref navtitle="PGI 237.102-73 Prohibition on contracts for services of senior mentors."
                             href="PGI_237.102-73.dita"
                             outputclass="subtopic"
                             props="PGI 237.102-73"
@@ -5367,7 +5360,7 @@ on service contracts for military...</navtitle>
 on contracts for services of sen...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 237.102-74 Taxonomy for&#xA;the acquisition of services and supplies &amp; equipment."
+                  <topicref navtitle="PGI 237.102-74 Taxonomy for the acquisition of services and supplies &amp; equipment."
                             href="PGI_237.102-74.dita"
                             outputclass="subtopic"
                             props="PGI 237.102-74"
@@ -5389,7 +5382,7 @@ for the acquisition of services and...</navtitle>
 Acquisition Guidebook.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 237.102-76&#xA;         Reserved."
+                  <topicref navtitle="PGI 237.102-76          Reserved."
                             href="PGI_237.102-76.dita"
                             outputclass="subtopic"
                             props="PGI 237.102-76"
@@ -5421,7 +5414,7 @@ requirements roadmap tool.</navtitle>
 research report guide for improving t...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 237.102-79 Private sector&#xA;notification requirements in support of in-sourcing actions."
+                  <topicref navtitle="PGI 237.102-79 Private sector notification requirements in support of in-sourcing actions."
                             href="PGI_237.102-79.dita"
                             outputclass="subtopic"
                             props="PGI 237.102-79"
@@ -5462,13 +5455,13 @@ surveillance.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 237.2 —ADVISORY&#xA;AND ASSISTANCE SERVICES"
+            <topicref navtitle="PGI 237.2 —ADVISORY AND ASSISTANCE SERVICES"
                       href="PGI_237.2.dita"
                       outputclass="SubPart"
                       props="PGI 237.2"
                       audience="i1497319"
                       base="NoTitle">
-               <topicref navtitle="PGI 237.270 Acquisition of&#xA;audit services."
+               <topicref navtitle="PGI 237.270 Acquisition of audit services."
                          href="PGI_237.270.dita"
                          outputclass="subtopic"
                          props="PGI 237.270"
@@ -5480,7 +5473,7 @@ of audit services.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 237.5 —MANAGEMENT&#xA;OVERSIGHT OF SERVICE CONTRACTS"
+            <topicref navtitle="PGI 237.5 —MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS"
                       href="PGI_237.5.dita"
                       outputclass="SubPart"
                       props="PGI 237.5"
@@ -5498,7 +5491,7 @@ responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 237.70 —MORTUARY&#xA;SERVICES"
+            <topicref navtitle="PGI 237.70 —MORTUARY SERVICES"
                       href="PGI_237.70.dita"
                       outputclass="SubPart"
                       props="PGI 237.70"
@@ -5506,7 +5499,7 @@ responsibilities.</navtitle>
                       base="NoTitle">
                <topicref navtitle="PGI 237.7002 AREA OF PERFORMANCE AND DISTRIBUTION OF CONTRACTS."
                          href="PGI_237.7002.dita"
-                         outputclass="SubPart"
+                         outputclass="subtopic"
                          props="PGI 237.7002"
                          audience="i1497334"
                          base="NoTitle">
@@ -5564,7 +5557,7 @@ assurance contractor training an...</navtitle>
                      <navtitle>PGI 239.7402 Policy.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 239.7405 Delegated authority&#xA;for telecommunications resources."
+               <topicref navtitle="PGI 239.7405 Delegated authority for telecommunications resources."
                          href="PGI_239.7405.dita"
                          outputclass="subtopic"
                          props="PGI 239.7405"
@@ -5575,7 +5568,7 @@ assurance contractor training an...</navtitle>
 authority for telecommunications res...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 239.7406 Certified cost&#xA;or pricing data and data other than certified cost or pricing data."
+               <topicref navtitle="PGI 239.7406 Certified cost or pricing data and data other than certified cost or pricing data."
                          href="PGI_239.7406.dita"
                          outputclass="subtopic"
                          props="PGI 239.7406"
@@ -5683,13 +5676,13 @@ assessment activities.</navtitle>
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI PART 241 - ACQUISITION&#xA;OF UTILITY SERVICES"
+         <topicref navtitle="PGI PART 241 - ACQUISITION OF UTILITY SERVICES"
                    href="PGI_PART_241.dita"
                    outputclass="Part"
                    props="PGI PART 241"
                    audience="DFARS-PGI_PART_241"
                    base="NoTitle">
-            <topicref navtitle="PGI 241.1—&#xA;GENERAL"
+            <topicref navtitle="PGI 241.1— GENERAL"
                       href="PGI_241.1--.dita"
                       outputclass="SubPart"
                       props="PGI 241.1"
@@ -5745,11 +5738,9 @@ and delegated authority.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_g.dita"
-                outputclass=""
                 props="DFARpgi g"
                 audience="PGI_DFAR_g"
-                base="NoTitle"
-                otherprops="">
+                base="NoTitle">
          <topicref navtitle="PGI PART 242 - CONTRACT ADMINISTRATION"
                    href="PGI_PART_242.dita"
                    outputclass="Part"
@@ -5795,7 +5786,7 @@ functions.</navtitle>
 of the contractor’s ...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="PGI 242.302(a)(S-75) —Monitoring&#xA;contractor costs"
+               <topicref navtitle="PGI 242.302(a)(S-75) —Monitoring contractor costs"
                          href="PGI_242.302Monitoring.dita"
                          outputclass="subtopic"
                          props="PGI 242.302"
@@ -5807,27 +5798,27 @@ contractor costs</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 242.7 —&#xA;INDIRECT COST RATES"
+            <topicref navtitle="PGI 242.7 — INDIRECT COST RATES"
                       href="PGI_242.7.dita"
                       outputclass="SubPart"
                       props="PGI 242.7"
-                      base="NoTitle"
-                      audience="i207NK0I305Z">
+                      audience="i207NK0I305Z"
+                      base="NoTitle">
                <topicref navtitle="PGI 242.705 Final indirect cost rates."
                          href="PGI_242.705.dita"
                          outputclass="subtopic"
                          props="PGI 242.705"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_242.705">
-                  <topicref navtitle="PGI 242.705-1 Contracting officer&#xA;determination procedure."
+                         audience="DFARS-PGI_PGI_242.705"
+                         base="concept">
+                  <topicref navtitle="PGI 242.705-1 Contracting officer determination procedure."
                             href="PGI_242.705-1.dita"
                             outputclass="subtopic"
                             props="PGI 242.705-1"
-                            base="concept"
-                            audience="DFARS-PGI_PGI_242.705-1">
+                            audience="DFARS-PGI_PGI_242.705-1"
+                            base="concept">
                      <topicmeta>
-                        <navtitle>PGI
-242.705-1 Contracting officer determination procedure.</navtitle>
+                        <navtitle>PGI 242.705-1 Contracting
+officer determination procedure.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -5856,7 +5847,7 @@ agreements.</navtitle>
                       props="PGI 242.70"
                       audience="i1497485"
                       base="NoTitle">
-               <topicref navtitle="PGI 242.7000 Contractor business&#xA;system deficiencies."
+               <topicref navtitle="PGI 242.7000 Contractor business system deficiencies."
                          href="PGI_242.7000.dita"
                          outputclass="subtopic"
                          props="PGI 242.7000"
@@ -5868,7 +5859,7 @@ business system deficiencies.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 242.71—VOLUNTARY&#xA;REFUNDS"
+            <topicref navtitle="PGI 242.71—VOLUNTARY REFUNDS"
                       href="PGI_242.71.dita"
                       outputclass="SubPart"
                       props="PGI 242.71"
@@ -6056,8 +6047,8 @@ requirements.</navtitle>
                          href="PGI_244.305.dita"
                          outputclass="subtopic"
                          props="PGI 244.305"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_244.305">
+                         audience="DFARS-PGI_PGI_244.305"
+                         base="concept">
                   <topicref navtitle="PGI 244.305-70  Policy."
                             href="PGI_244.305-70.dita"
                             outputclass="subtopic"
@@ -6087,8 +6078,8 @@ requirements.</navtitle>
                          href="PGI_245.102.dita"
                          outputclass="subtopic"
                          props="PGI 245.102"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_245.102">
+                         audience="DFARS-PGI_PGI_245.102"
+                         base="concept">
                   <topicref navtitle="PGI 245.102-70  Policy."
                             href="PGI_245.102-70.dita"
                             outputclass="subtopic"
@@ -6117,7 +6108,7 @@ requirements.</navtitle>
 Government property to contractor...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 245.103-71 Transferring&#xA;Government property accountability."
+                  <topicref navtitle="PGI 245.103-71 Transferring Government property accountability."
                             href="PGI_245.103-71.dita"
                             outputclass="subtopic"
                             props="PGI 245.103-71"
@@ -6128,7 +6119,7 @@ Government property to contractor...</navtitle>
 Government property accountabil...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="PGI 245.103-72 Government-furnished&#xA;property attachments to solicitations and awards."
+                  <topicref navtitle="PGI 245.103-72 Government-furnished property attachments to solicitations and awards."
                             href="PGI_245.103-72.dita"
                             outputclass="subtopic"
                             props="PGI 245.103-72"
@@ -6250,7 +6241,7 @@ of contractor-acquired property.</navtitle>
                       props="PGI 245.6"
                       audience="i1497741"
                       base="NoTitle">
-               <topicref navtitle="PGI 245.602-70 Plant clearance&#xA;procedures."
+               <topicref navtitle="PGI 245.602-70 Plant clearance procedures."
                          href="PGI_245.602-70.dita"
                          outputclass="subtopic"
                          props="PGI 245.602-70"
@@ -6389,8 +6380,8 @@ stamping.</navtitle>
                          href="PGI_246.710.dita"
                          outputclass="subtopic"
                          props="PGI 246.710"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_246.710">
+                         audience="DFARS-PGI_PGI_246.710"
+                         base="concept">
                   <topicref navtitle="PGI 246.710-70  Warranty attachments."
                             href="PGI_246.710-70.dita"
                             outputclass="subtopic"
@@ -6441,8 +6432,8 @@ attachments.</navtitle>
                          href="PGI_247.271.dita"
                          outputclass="subtopic"
                          props="PGI 247.271"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_247.271">
+                         audience="DFARS-PGI_PGI_247.271"
+                         base="concept">
                   <topicref navtitle="PGI 247.271-2  Procedures."
                             href="PGI_247.271-2.dita"
                             outputclass="subtopic"
@@ -6472,15 +6463,15 @@ provisions, schedule formats, an...</navtitle>
                       props="PGI 247.3"
                       audience="i1497846"
                       base="NoTitle">
-               <topicref navtitle="PGI 247.301 General.  Transportation guidance relating to Governmentwide commercial purchase card purchases is available in the Department of Defense Government Charge "
+               <topicref navtitle="PGI 247.301 General."
                          href="PGI_247.301.dita"
                          outputclass="subtopic"
                          props="PGI 247.301"
                          audience="DFARS-PGI_PGI_247.301"
                          base="concept">
                   <topicmeta>
-                     <navtitle>PGI 247.301 General. Transportation
-guidance relating to Go...</navtitle>
+                     <navtitle>PGI 247.301 General. Transportation guidance relating
+to Go...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="PGI 247.305 Solicitation provisions, contract clauses, and transportation factors."
@@ -6601,7 +6592,7 @@ on pricing of the terminated effo...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="PGI 249.110 Settlement negotiation&#xA;memorandum."
+               <topicref navtitle="PGI 249.110 Settlement negotiation memorandum."
                          href="PGI_249.110.dita"
                          outputclass="subtopic"
                          props="PGI 249.110"
@@ -6643,7 +6634,7 @@ notification on significant cont...</navtitle>
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI PART 250 - EXTRAORDINARY&#xA;CONTRACTUAL ACTIONS"
+         <topicref navtitle="PGI PART 250 - EXTRAORDINARY CONTRACTUAL ACTIONS"
                    href="PGI_PART_250.dita"
                    outputclass="Part"
                    props="PGI PART 250"
@@ -6724,15 +6715,14 @@ cases.</navtitle>
                       props="PGI 251.1"
                       audience="i1498004"
                       base="NoTitle">
-               <topicref navtitle="&#xA;         PGI&#xA;251.101 Policy."
+               <topicref navtitle="          PGI 251.101 Policy."
                          href="PGI_251.101.dita"
                          outputclass="subtopic"
                          props="PGI 251.101"
-                         base="concept"
-                         audience="DFARS-PGI_PGI_251.101">
+                         audience="DFARS-PGI_PGI_251.101"
+                         base="concept">
                   <topicmeta>
-                     <navtitle>PGI
-251.101 Policy.</navtitle>
+                     <navtitle>PGI 251.101 Policy.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="PGI 251.102 Authorization to use Government supply sources."
@@ -6765,11 +6755,9 @@ office responsibilities.</navtitle>
              base="NoTitle">
       <topicref navtitle="PGI Defense Federal Acquisition Regulation"
                 href="DFARpgi_h.dita"
-                outputclass=""
                 props="DFARpgi h"
                 audience="PGI_DFAR_h"
-                base="NoTitle"
-                otherprops="">
+                base="NoTitle">
          <topicref navtitle="PGI PART 252 - CLAUSES"
                    href="PGI_PART_252.dita"
                    outputclass="Part"
@@ -6782,7 +6770,7 @@ office responsibilities.</navtitle>
                       props="PGI 252.1"
                       audience="i1498018"
                       base="NoTitle">
-               <topicref navtitle="PGI 252.103 Identification&#xA;of provisions and clauses."
+               <topicref navtitle="PGI 252.103 Identification of provisions and clauses."
                          href="PGI_252.103.dita"
                          outputclass="subtopic"
                          props="PGI 252.103"
@@ -6805,19 +6793,19 @@ of provisions and clauses.</navtitle>
                       href="PGI_253.209.dita"
                       outputclass="subtopic"
                       props="PGI 253.209"
-                      base="concept"
-                      audience="DFARS-PGI_PGI_253.209">
+                      audience="DFARS-PGI_PGI_253.209"
+                      base="concept">
                <topicmeta>
-                  <navtitle>PGI
-253.209 CONTRACTOR QUALIFICATIONS</navtitle>
+                  <navtitle>PGI 253.209 CONTRACTOR
+QUALIFICATIONS</navtitle>
                </topicmeta>
             </topicref>
-            <topicref navtitle="PGI 253.2 —&#xA;PRESCRIPTION OF FORMS"
+            <topicref navtitle="PGI 253.2 — PRESCRIPTION OF FORMS"
                       href="PGI_253.2.dita"
                       outputclass="SubPart"
                       props="PGI 253.2"
-                      base="NoTitle"
-                      audience="i207UE0O015Z">
+                      audience="i207UE0O015Z"
+                      base="NoTitle">
                <topicref navtitle="PGI 253.204 Reserved"
                          href="PGI_253.204.dita"
                          outputclass="subtopic"
@@ -6863,7 +6851,7 @@ of provisions and clauses.</navtitle>
                          props="PGI 253.213"
                          audience="DFARS-PGI_PGI_253.213"
                          base="concept">
-                  <topicref navtitle="PGI 253.213-70 Completion of&#xA;DD Form 1155, Order for Supplies or Services."
+                  <topicref navtitle="PGI 253.213-70 Completion of DD Form 1155, Order for Supplies or Services."
                             href="PGI_253.213-70.dita"
                             outputclass="subtopic"
                             props="PGI 253.213-70"
@@ -6881,7 +6869,7 @@ of DD Form 1155, Order for Suppli...</navtitle>
                          props="PGI 253.215"
                          audience="DFARS-PGI_PGI_253.215"
                          base="concept">
-                  <topicref navtitle="PGI 253.215-70 DD Form 1547,&#xA;Record of Weighted Guidelines Application."
+                  <topicref navtitle="PGI 253.215-70 DD Form 1547, Record of Weighted Guidelines Application."
                             href="PGI_253.215-70.dita"
                             outputclass="subtopic"
                             props="PGI 253.215-70"
@@ -6899,7 +6887,7 @@ of DD Form 1155, Order for Suppli...</navtitle>
                          props="PGI 253.219"
                          audience="DFARS-PGI_PGI_253.219"
                          base="concept">
-                  <topicref navtitle="PGI 253.219-70 DD Form 2579,&#xA;Small Business Coordination Record."
+                  <topicref navtitle="PGI 253.219-70 DD Form 2579, Small Business Coordination Record."
                             href="PGI_253.219-70.dita"
                             outputclass="subtopic"
                             props="PGI 253.219-70"
@@ -6912,15 +6900,15 @@ of DD Form 1155, Order for Suppli...</navtitle>
                   </topicref>
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 253.3 —&#xA;ILLUSTRATION OF FORMS"
+            <topicref navtitle="PGI 253.3 — ILLUSTRATION OF FORMS"
                       href="PGI_253.3.dita"
                       outputclass="SubPart"
                       props="PGI 253.3"
-                      base="NoTitle"
-                      audience="i207UE0R90Y4">
+                      audience="i207UE0R90Y4"
+                      base="NoTitle">
                <topicmeta>
-                  <navtitle>PGI 253.3 — ILLUSTRATION
-OF FORMS</navtitle>
+                  <navtitle>PGI
+253.3 — ILLUSTRATION OF FORMS</navtitle>
                </topicmeta>
             </topicref>
          </topicref>

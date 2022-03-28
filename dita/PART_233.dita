@@ -3,10 +3,11 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DFARS-PART_233">
-      <title class="- topic/title ">PART 233 - PROTESTS, DISPUTES, AND APPEALS</title>
+      <title>
+         <ph props="autonumber">PART 233</ph> - PROTESTS, DISPUTES, AND APPEALS</title>
       <body>
          <ul otherprops="TOC">
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_233.1.dita#DFARS-SUBPART_233.1">SUBPART 233.1 —PROTESTS</xref>
                </p>
@@ -14,6 +15,11 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="233.102.dita#DFARS-233.102">233.102 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="233.104.dita#IHlBrY">233.104 Protests to GAO.</xref>
                      </p>
                   </li>
                   <li>
@@ -28,7 +34,7 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_233.2.dita#DFARS-SUBPART_233.2">SUBPART 233.2 —DISPUTES AND APPEALS</xref>
                </p>
@@ -52,8 +58,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="233.215.dita#DFARS-233.215">233.215 
-         Contract clauses.</xref>
+                        <xref outputclass="fm:TOC" href="233.215.dita#DFARS-233.215">233.215 Contract clauses.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
