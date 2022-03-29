@@ -1,48 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="DFARS-209.104-1">
-      <title>
-         <ph props="autonumber">209.104-1</ph> General standards.</title>
-      <conbody>
-         <p id="vAUJZQ" outputclass="List1">(e) For cost-reimbursement or incentive type contracts, or contracts which provide for progress payments based on costs or on a percentage or stage of completion, the prospective contractor’s accounting system and related internal controls must provide reasonable assurance that—</p>
-         <p id="VpSIdb" outputclass="List3">(i) Applicable laws and regulations are complied with;</p>
-         <p id="PmErQR" outputclass="List3">(ii) The accounting system and cost data are reliable;</p>
-         <p id="GLTMLv" outputclass="List3">(iii) Risk of misallocations and mischarges are minimized; and</p>
-         <p id="WlbXtB" outputclass="List3">(iv) Contract allocations and charges are consistent with invoice procedures.</p>
-         <p id="gnMryf" outputclass="List1">(g)(i) <i>Ownership or control by the government of a country that is a state sponsor of terrorism</i>. See <xref base="DFARS-225.771"
-                  href="225.771.dita#DFARS-225.771"
-                  outputclass="fm:ParaNumOnly">225.771</xref>
-            <ph id="13hctew" rev="Revised March 18, 2022">.</ph>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-209.104-1"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">209.104-1</ph> General standards.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="vAUJZQ" outputclass="List1" class="- topic/p ">(e) For cost-reimbursement
+or incentive type contracts, or contracts which provide for progress
+payments based on costs or on a percentage or stage of completion,
+the prospective contractor’s accounting system and related internal
+controls must provide reasonable assurance that—</p>
+         <p id="VpSIdb" outputclass="List3" class="- topic/p ">(i) Applicable laws and regulations
+are complied with;</p>
+         <p id="PmErQR" outputclass="List3" class="- topic/p ">(ii) The accounting system
+and cost data are reliable;</p>
+         <p id="GLTMLv" outputclass="List3" class="- topic/p ">(iii) Risk of misallocations
+and mischarges are minimized; and</p>
+         <p id="WlbXtB" outputclass="List3" class="- topic/p ">(iv) Contract allocations
+and charges are consistent with invoice procedures.</p>
+         <p id="gnMryf" outputclass="List1" class="- topic/p ">(g)(i) <i class="+ topic/ph hi-d/i ">Ownership or control
+by the government of a country that is a state sponsor of terrorism</i>.
+See <xref href="225.771.dita#DFARS-225.771"
+                  base="DFARS-225.771"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">225.771</xref>
+            <ph rev="Revised March 18, 2022" class="- topic/ph ">.</ph>
          </p>
-         <p id="vpsWAZ" outputclass="List3">(ii) <i>Ownership or control by a foreign government when access to proscribed information is required to perform the contract.</i>
+         <p id="vpsWAZ" outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Ownership or control
+by a foreign government when access to proscribed information is
+required to perform the contract.</i>
          </p>
-         <p id="opNqyv" outputclass="List4">(A) Under 10 U.S.C. 2536(a), no DoD contract under a national security program may be awarded to an entity controlled by a foreign government if that entity requires access to proscribed information to perform the contract.</p>
-         <p id="SEfOjx" outputclass="List4">(B) Whenever the contracting officer has a question about application of the provision at <xref base="i1381117"
-                  href="252.209-7002.dita#DFARS-252.209-7002"
-                  outputclass="fm:ParaNumOnly">252.209-7002</xref> , the contracting officer may seek advice from the Security Directorate, Office of the Deputy Under Secretary of Defense, Human Intelligence, Counterintelligence, and Security.</p>
-         <p id="cRbURf" outputclass="List4">(C) In accordance with 10 U.S.C. 2536(b)(1)(A), the Secretary of Defense may waive the prohibition in paragraph (g)(ii)(A) of this subsection upon determining that the waiver is essential to the national security interests of the United States. The Secretary has delegated authority to grant this waiver to the Undersecretary of Defense for Intelligence. Waiver requests, prepared by the requiring activity in coordination with the contracting officer, shall be processed through the Director of Defense Procurement and Acquisition Policy, Office of the Under Secretary of Defense (Acquisition, Technology, and Logistics), and shall include a proposed national interest determination. The proposed national interest determination, prepared by the requiring activity in coordination with the contracting officer, shall include:</p>
-         <p id="JlcELu" outputclass="List6">
-            <i>(1)</i> Identification of the proposed awardee, with a synopsis of its foreign ownership (include solicitation and other reference numbers to identify the action);</p>
-         <p id="bxUhye" outputclass="List6">
-            <i>(2)</i> General description of the acquisition and performance requirements;</p>
-         <p id="KKIPdU" outputclass="List6">
-            <i>(3)</i> Identification of the national security interests involved and the ways in which award of the contract helps advance those interests;</p>
-         <p id="WYewIZ" outputclass="List6">
-            <i>(4)</i> A statement as to availability of another entity with the capacity, capability and technical expertise to satisfy defense acquisition, technology base, or industrial base requirements; and</p>
-         <p id="xGBYzj" outputclass="List6">
-            <i>(5)</i> A description of any alternate means available to satisfy the requirement, e.g., use of substitute products or technology or alternate approaches to accomplish the program objectives<i>.</i>
+         <p id="opNqyv" outputclass="List4" class="- topic/p ">(A) Under 10 U.S.C. 2536(a),
+no DoD contract under a national security program may be awarded
+to an entity controlled by a foreign government if that entity requires
+access to proscribed information to perform the contract.</p>
+         <p id="SEfOjx" outputclass="List4" class="- topic/p ">(B) Whenever the contracting
+officer has a question about application of the provision at <xref href="252.209-7002.dita#DFARS-252.209-7002"
+                  base="i1381117"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.209-7002</xref> , the contracting
+officer may seek advice from the Security Directorate, Office of
+the Deputy Under Secretary of Defense, Human Intelligence, Counterintelligence,
+and Security.</p>
+         <p id="cRbURf" outputclass="List4" class="- topic/p ">(C) In accordance with 10
+U.S.C. 2536(b)(1)(A), the Secretary of Defense may waive the prohibition
+in paragraph (g)(ii)(A) of this subsection upon determining that
+the waiver is essential to the national security interests of the United
+States. The Secretary has delegated authority to grant this waiver
+to the Undersecretary of Defense for Intelligence. Waiver requests,
+prepared by the requiring activity in coordination with the contracting
+officer, shall be processed through the Director of Defense Procurement
+and Acquisition Policy, Office of the Under Secretary of Defense
+(Acquisition, Technology, and Logistics), and shall include a proposed
+national interest determination. The proposed national interest
+determination, prepared by the requiring activity in coordination
+with the contracting officer, shall include:</p>
+         <p id="JlcELu" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(1)</i> Identification
+of the proposed awardee, with a synopsis of its foreign ownership
+(include solicitation and other reference numbers to identify the
+action);</p>
+         <p id="bxUhye" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(2)</i> General description
+of the acquisition and performance requirements;</p>
+         <p id="KKIPdU" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(3)</i> Identification
+of the national security interests involved and the ways in which
+award of the contract helps advance those interests;</p>
+         <p id="WYewIZ" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(4)</i> A statement as
+to availability of another entity with the capacity, capability
+and technical expertise to satisfy defense acquisition, technology
+base, or industrial base requirements; and</p>
+         <p id="xGBYzj" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(5)</i> A description
+of any alternate means available to satisfy the requirement, e.g.,
+use of substitute products or technology or alternate approaches
+to accomplish the program objectives<i class="+ topic/ph hi-d/i ">.</i>
          </p>
-         <p id="aKhMAD" outputclass="List4">(D) In accordance with 10 U.S.C. 2536(b)(1)(B), the Secretary of Defense may, in the case of a contract awarded for environmental restoration, remediation, or waste management at a DoD facility, waive the prohibition in paragraph (g)(ii)(A) of this subsection upon—</p>
-         <p id="KOIzRZ" outputclass="List6">
-            <i>(1)</i> Determining that—</p>
-         <p id="uzwAZF" outputclass="List7">
-            <i>(i)</i> The waiver will advance the environmental restoration, remediation, or waste management objectives of DoD and will not harm the national security interests of the United States; and</p>
-         <p id="UWLaUL" outputclass="List7">
-            <i>(ii)</i> The entity to which the contract is awarded is controlled by a foreign government with which the Secretary is authorized to exchange Restricted Data under section 144 c. of the Atomic Energy Act of 1954 (42 U.S.C. 2164(c)); and</p>
-         <p id="xUCzPv" outputclass="List6">
-            <i>(2)</i> Notifying Congress of the decision to grant the waiver. The contract may be awarded only after the end of the 45-day period beginning on the date the notification is received by the appropriate Congressional committees.</p>
+         <p id="aKhMAD" outputclass="List4" class="- topic/p ">(D) In accordance with 10
+U.S.C. 2536(b)(1)(B), the Secretary of Defense may, in the case
+of a contract awarded for environmental restoration, remediation,
+or waste management at a DoD facility, waive the prohibition in
+paragraph (g)(ii)(A) of this subsection upon—</p>
+         <p id="KOIzRZ" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(1)</i> Determining that—</p>
+         <p id="uzwAZF" outputclass="List7" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(i)</i> The waiver will
+advance the environmental restoration, remediation, or waste management
+objectives of DoD and will not harm the national security interests
+of the United States; and</p>
+         <p id="UWLaUL" outputclass="List7" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(ii)</i> The entity to
+which the contract is awarded is controlled by a foreign government
+with which the Secretary is authorized to exchange Restricted Data
+under section 144 c. of the Atomic Energy Act of 1954 (42 U.S.C.
+2164(c)); and</p>
+         <p id="xUCzPv" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(2)</i> Notifying Congress
+of the decision to grant the waiver. The contract may be awarded
+only after the end of the 45-day period beginning on the date the
+notification is received by the appropriate Congressional committees.</p>
       </conbody>
    </concept>
 </dita>

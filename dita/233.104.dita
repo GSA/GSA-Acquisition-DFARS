@@ -1,56 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="IHlBrY">
-      <title outputclass="subtopic">
-         <ph props="autonumber">233.104</ph>
-         <ph id="04wbccxi" rev="Revised 18, March 2022">Protests to GAO.</ph>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-233.104"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">233.104</ph>
+         <ph rev="Revised March 18, 2022" class="- topic/ph "> Protests to GAO.</ph>
       </title>
-      <body>
-         <p id="izdEgb" outputclass="List1">
-            <ph id="d20dt2j3" rev="Revised 18, March 2022">(c) Protests after award. (1) In lieu of the time periods in FAR</ph>
-            <ph id="uwlogxv" rev="Revised 18, March 2022">
-               <xref format="html"
-                     href="https://www.acquisition.gov/far/part-33#FAR_33_104"
-                     scope="external">33.104</xref>
-            </ph>
-            <ph id="zua2gmy" rev="Revised 18, March 2022">(c)(1), contracting officers shall immediately suspend performance or terminate the awarded contract, task order, or delivery order upon notice from the GAO of a protest filed within the time periods listed in paragraphs (c)(1)(A) through (D) of this section, whichever is later, except as provided in FAR</ph>
-            <ph id="9qfvgckc" rev="Revised 18, March 2022">
-               <xref format="html"
-                     href="https://www.acquisition.gov/far/part-33#FAR_33_104"
-                     scope="external">33.104</xref>
-            </ph>
-            <ph id="ngnkax15" rev="Revised 18, March 2022">(c)(2) and (3)?</ph>
-         </p>
-         <p id="svYAFD" outputclass="List4">
-            <ph id="br56t86u" rev="Revised 18, March 2022">(A) Within 10 days after the date of contract award;</ph>
-         </p>
-         <p id="pXTDzv" outputclass="List4">
-            <ph id="2h54wzaa" rev="Revised 18, March 2022">(B) Within 10 days after the date a task order or delivery order is issued, where the value exceeds $25 million (10 U.S.C. 2304c(e));</ph>
-         </p>
-         <p id="paDnIv" outputclass="List4">
-            <ph id="fyw0naul" rev="Revised 18, March 2022">(C) Within 5 days after a debriefing date offered to the protestor under a timely debriefing request in accordance with FAR</ph>
-            <ph id="in5axj1b" rev="Revised 18, March 2022">
-               <xref format="html"
-                     href="https://www.acquisition.gov/far/part-15#FAR_15_506"
-                     scope="external">15.506</xref>
-            </ph>
-            <ph id="qc7ct3c8" rev="Revised 18, March 2022">regardless of whether the protestor rejected the offered debriefing date, unless an earlier debriefing date is negotiated as a result; or</ph>
-         </p>
-         <p id="MQrKAH" outputclass="List4">
-            <ph id="r29gk5v" rev="Revised 18, March 2022">(D) Within 5 days after a postaward debriefing under FAR</ph>
-            <ph id="hb2257ql" rev="Revised 18, March 2022">
-               <xref format="html"
-                     href="https://www.acquisition.gov/far/part-15#FAR_15_506"
-                     scope="external">15.506</xref>
-            </ph>
-            <ph id="vt5mr5d" rev="Revised 18, March 2022">is concluded in accordance with</ph>
-            <ph id="dqw1hgm" rev="Revised 18, March 2022">
-               <xref href="215.506-70.dita#fjmuoH" outputclass="fm:ParaNumOnly">215.506-70</xref>
-            </ph>
-            <ph id="h45sq3a9" rev="Revised 18, March 2022">(b).</ph>
-         </p>
-      </body>
-   </topic>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="izdEgb"
+            rev="Revised March 18, 2022"
+            outputclass="List1"
+            class="- topic/p ">(c)
+Protests after award. (1) In lieu of the time periods in FAR <xref href="https://www.acquisition.gov/far/part-33#FAR_33_104"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">33.104</xref> (c)(1), contracting
+officers shall immediately suspend performance or terminate the
+awarded contract, task order, or delivery order upon notice from
+the GAO of a protest filed within the time periods listed in paragraphs
+(c)(1)(A) through (D) of this section, whichever is later, except
+as provided in FAR <xref href="https://www.acquisition.gov/far/part-33#FAR_33_104"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">33.104</xref> (c)(2) and
+(3)—</p>
+         <p id="svYAFD"
+            rev="Revised March 18, 2022"
+            outputclass="List4"
+            class="- topic/p ">(A)
+Within 10 days after the date of contract award;</p>
+         <p id="pXTDzv"
+            rev="Revised March 18, 2022"
+            outputclass="List4"
+            class="- topic/p ">(B)
+Within 10 days after the date a task order or delivery order is
+issued, where the value exceeds $25 million (10 U.S.C. 2304c(e));</p>
+         <p id="paDnIv"
+            rev="Revised March 18, 2022"
+            outputclass="List4"
+            class="- topic/p ">(C)
+Within 5 days after a debriefing date offered to the protestor under
+a timely debriefing request in accordance with FAR <xref href="https://www.acquisition.gov/far/part-15#FAR_15_506"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">15.506</xref> regardless
+of whether the protestor rejected the offered debriefing date, unless
+an earlier debriefing date is negotiated as a result; or</p>
+         <p id="MQrKAH"
+            rev="Revised March 18, 2022"
+            outputclass="List4"
+            class="- topic/p ">(D)
+Within 5 days after a postaward debriefing under FAR <xref href="https://www.acquisition.gov/far/part-15#FAR_15_506"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">15.506</xref> is concluded
+in accordance with <xref href="215.506-70.dita#DFARS-215.506-70"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">215.506-70</xref> (b).</p>
+      </conbody>
+   </concept>
 </dita>
