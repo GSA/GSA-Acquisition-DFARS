@@ -4,23 +4,19 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-215.570"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+      domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+      ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept "
+      rev="Revised March 18, 2022">
       <title outputclass="subtopic" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">215.570</ph> 
-         <ph id="zyy52lng" rev="Revised March 18, 2022" class="- topic/ph ">Solicitation
-provision.</ph>
-      </title>
+         <ph props="autonumber" class="- topic/ph ">215.570</ph>
+         <ph id="zyy52lng" class="- topic/ph ">Solicitation provision.</ph></title>
       <conbody class="- topic/body  concept/conbody ">
-         <p rev="Revised March 28, 2022" class="- topic/p ">Use the provision at
-252.215-7016, Notification to Offerors—Postaward Debriefings, in
-competitive negotiated solicitations for contract awards valued
-at $10 million or more, including solicitations using FAR<xref href="https://www.acquisition.gov/far/part-12"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref "> part 12</xref> procedures for the acquisition
-of commercial items.</p>
+         <p class="- topic/p ">Use the provision at 252.215-7016, Notification to Offerors—Postaward
+            Debriefings, in competitive negotiated solicitations for contract awards valued at $10
+            million or more, including solicitations using FAR<xref
+               href="https://www.acquisition.gov/far/part-12" format="html" scope="external"
+               class="- topic/xref "> part 12</xref> procedures for the acquisition of commercial
+            items.</p>
       </conbody>
    </concept>
 </dita>
