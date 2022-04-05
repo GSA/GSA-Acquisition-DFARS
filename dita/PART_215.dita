@@ -3,15 +3,13 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DFARS-PART_215">
-      <title class="- topic/title ">PART 215 - CONTRACTING BY NEGOTIATION</title>
+      <title>
+         <ph props="autonumber">PART 215</ph> - CONTRACTING BY NEGOTIATION</title>
       <body>
          <ul otherprops="TOC">
-            <li>
+            <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_215.1.dita#DFARS-SUBPART_215.1">SUBPART
-215.1—SOURCE SELECTION
-PROCESSES AND TECHNIQUES
-      </xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_215.1.dita#DFARS-SUBPART_215.1">SUBPART 215.1 —SOURCE SELECTION PROCESSES AND TECHNIQUES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -40,7 +38,7 @@ PROCESSES AND TECHNIQUES
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_215.2.dita#DFARS-SUBPART_215.2">SUBPART 215.2 —SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</xref>
                </p>
@@ -69,7 +67,7 @@ PROCESSES AND TECHNIQUES
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_215.3.dita#DFARS-SUBPART_215.3">SUBPART 215.3 —SOURCE SELECTION</xref>
                </p>
@@ -86,8 +84,7 @@ PROCESSES AND TECHNIQUES
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="215.304.dita#DFARS-215.304">215.304 Evaluation factors
-and significant subfactors.</xref>
+                        <xref outputclass="fm:TOC" href="215.304.dita#DFARS-215.304">215.304 Evaluation factors and significant subfactors.</xref>
                      </p>
                   </li>
                   <li>
@@ -161,16 +158,14 @@ and significant subfactors.</xref>
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_215.4.dita#DFARS-SUBPART_215.4">SUBPART 215.4 —CONTRACT PRICING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="215.401.dita#DFARS-215.401">215.401
-          Definitions.
-      </xref>
+                        <xref outputclass="fm:TOC" href="215.401.dita#DFARS-215.401">215.401 Definitions.</xref>
                      </p>
                   </li>
                   <li>
@@ -252,13 +247,12 @@ and significant subfactors.</xref>
                               </li>
                               <li>
                                  <p>
-                                    <xref outputclass="fm:TOC" href="215.404-71-4.dita#DFARS-215.404-71-4">215.404-71-4 Facilities capital
-employed.</xref>
+                                    <xref outputclass="fm:TOC" href="215.404-71-4.dita#DFARS-215.404-71-4">215.404-71-4 Facilities capital employed.</xref>
                                  </p>
                               </li>
                               <li>
                                  <p>
-                                    <xref outputclass="fm:TOC" href="215.404-71-5.dita#DFARS-215.404-71-5">215.404-71-5  Cost efficiency factor.</xref>
+                                    <xref outputclass="fm:TOC" href="215.404-71-5.dita#DFARS-215.404-71-5">215.404-71-5 Cost efficiency factor.</xref>
                                  </p>
                               </li>
                            </ul>
@@ -297,10 +291,7 @@ employed.</xref>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="215.406-2.dita#DFARS-215.406-2">215.406-2
-          Certificate of current cost
-or pricing data.
-      </xref>
+                              <xref outputclass="fm:TOC" href="215.406-2.dita#DFARS-215.406-2">215.406-2 Certificate of current cost or pricing data.</xref>
                            </p>
                         </li>
                         <li>
@@ -342,7 +333,7 @@ or pricing data.
                            <ul otherprops="TOC">
                               <li>
                                  <p>
-                                    <xref outputclass="fm:TOC" href="215.407-5-70.dita#DFARS-215.407-5-70">215.407-5-70  Disclosure, maintenance, and review requirements.</xref>
+                                    <xref outputclass="fm:TOC" href="215.407-5-70.dita#DFARS-215.407-5-70">215.407-5-70 Disclosure, maintenance, and review requirements.</xref>
                                  </p>
                               </li>
                            </ul>
@@ -361,7 +352,7 @@ or pricing data.
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_215.5.dita#DFARS-SUBPART_215.5">SUBPART 215.5 —PREAWARD, AWARD, AND POSTAWARD NOTIFICATIONS, PROTESTS, AND MISTAKES</xref>
                </p>
@@ -374,6 +365,18 @@ or pricing data.
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="215.506.dita#DFARS-215.506">215.506 Postaward debriefing of offerors.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised March 18, 2022">
+                           <p>
+                              <xref outputclass="fm:TOC" href="215.506-70.dita#DFARS-215.506-70">215.506-70 Opportunity for follow-up questions.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li rev="Revised March 18, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="215.570.dita#DFARS-215.570">215.570 Solicitation provision.</xref>
                      </p>
                   </li>
                </ul>

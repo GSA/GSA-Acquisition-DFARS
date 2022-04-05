@@ -1,26 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-225.772-3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-225.772-3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.772-3</ph> Procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(1)  The contracting officer shall not award to any  source that is a foreign satellite service provider or is offering satellite services provided by a foreign entity if such award presents an unacceptable cybersecurity risk, as determined by the Under Secretary of Defense for Acquisition and Sustainment or the Under Secretary of Defense for Policy. </p>
          <p outputclass="List2" class="- topic/p ">(2)  When procuring commercial satellite services from a foreign entity, the contracting officer shall review the exclusion records in the System for Award Management (SAM) database as required at FAR 9.405, to ensure that an entity identified in, or otherwise known to be involved in, the otherwise successful offer is not listed as ineligible in the SAM database (see FAR 9.405).</p>
          <p outputclass="List1" class="- topic/p ">(b)  If an offeror discloses information in accordance with paragraph (c) of the provision 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382492" href="252.225-7049.dita#DFARS-252.225-7049" xtrc="252.225-7049">252.225-7049</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382492"
+                  href="252.225-7049.dita#DFARS-252.225-7049"
+                  xtrc="252.225-7049">252.225-7049</xref>
             , Prohibition on Acquisition of  Certain Foreign Commercial Satellite Services—Representations, the contracting officer—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Shall forward the information regarding the offeror through agency channels to the address at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_225.772-3" href="PGI_225.772-3.dita#DFARS-PGI_PGI_225.772-3" xtrc="225.772-3">PGI 225.772-3</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_225.772-3"
+                  href="PGI_225.772-3.dita#DFARS-PGI_PGI_225.772-3"
+                  xtrc="225.772-3">225.772-3</xref>
             ; and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Shall not award to that offeror, unless an exception is determined to apply in accordance with 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378954" href="225.772-4.dita#DFARS-225.772-4" xtrc="225.772-4">225.772-4</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378954"
+                  href="225.772-4.dita#DFARS-225.772-4"
+                  xtrc="225.772-4">225.772-4</xref>
             .</p>
          <p outputclass="List1" class="- topic/p ">(c)(1)  If the otherwise successful offeror provides negative responses to all representations in the provision at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382492" href="252.225-7049.dita#DFARS-252.225-7049" xtrc="252.225-7049">252.225-7049</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382492"
+                  href="252.225-7049.dita#DFARS-252.225-7049"
+                  xtrc="252.225-7049">252.225-7049</xref>
             , the contracting officer may rely on the representations, unless the contracting officer has an independent reason to question the representations.</p>
          <p outputclass="List2" class="- topic/p ">(2)  If the contracting officer has an independent reason to question a negative representation of the otherwise successful offeror, the contracting officer shall consult with the office specified in PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_225.772-3" href="PGI_225.772-3.dita#DFARS-PGI_PGI_225.772-3" xtrc="225.772-3">PGI 225.772-3</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_225.772-3"
+                  href="PGI_225.772-3.dita#DFARS-PGI_PGI_225.772-3"
+                  xtrc="225.772-3">225.772-3</xref>
             , prior to deciding whether to award to that offeror.</p>
       </conbody>
    </concept>

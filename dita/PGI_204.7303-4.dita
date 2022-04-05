@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_204.7303-4" outputclass="4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_204.7303-4"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.7303-4</ph> DoD damage assessment activities.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Prior to initiating damage assessment activities, the contracting officer shall verify that any contract identified in the cyber incident report includes the clause at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.204-7012" href="252.204-7012.dita#DFARS-252.204-7012" xtrc="252.204-7012">252.204-7012</xref>. If the contracting officer determines that a contract identified in the report does not contain the clause, the contracting officer shall notify the requiring activity that damage assessment activities, if required, may be determined to constitute a change to the contract.</p>
+         <p outputclass="List1" class="- topic/p ">(a) Prior to initiating damage assessment activities, the contracting officer shall verify that any contract identified in the cyber incident report includes the clause at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.204-7012"
+                  href="252.204-7012.dita#DFARS-252.204-7012"
+                  xtrc="252.204-7012">252.204-7012</xref>. If the contracting officer determines that a contract identified in the report does not contain the clause, the contracting officer shall notify the requiring activity that damage assessment activities, if required, may be determined to constitute a change to the contract.</p>
          <p outputclass="List1" class="- topic/p ">(b) In cases of cyber incidents involving multiple contracts, a single contracting officer will be designated to coordinate with the contractor regarding media submission (see 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_204.7303-3" href="PGI_204.7303-3.dita#DFARS-PGI_PGI_204.7303-3" xtrc="204.7303-3">PGI 204.7303-3</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_204.7303-3"
+                  href="PGI_204.7303-3.dita#DFARS-PGI_PGI_204.7303-3"
+                  xtrc="204.7303-3">204.7303-3</xref>
             (a)(2)).</p>
-         <p outputclass="List1" class="- topic/p ">(c) If the requiring activity requests the contracting officer to obtain media, as defined in DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.204-7012" href="252.204-7012.dita#DFARS-252.204-7012" xtrc="252.204-7012">252.204-7012</xref>, from the contractor, the contracting officer shall—</p>
+         <p outputclass="List1" class="- topic/p ">(c) If the requiring activity requests the contracting officer to obtain media, as defined in DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.204-7012"
+                  href="252.204-7012.dita#DFARS-252.204-7012"
+                  xtrc="252.204-7012">252.204-7012</xref>, from the contractor, the contracting officer shall—</p>
          <p outputclass="List2" class="- topic/p ">(1) Provide a written request for the media;</p>
          <p outputclass="List2" class="- topic/p ">(2) Provide the contractor with the “Instructions for Media Submission” document available at http://www.acq.osd.mil/dpap/dars/pgi/docs/Instructions_for_Submitting_Media.docx; and</p>
          <p outputclass="List2" class="- topic/p ">(3) Provide a copy of the request to DC3, electronically via email at dcise@dc3.mil, and the requiring activity.</p>

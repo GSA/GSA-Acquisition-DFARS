@@ -3,10 +3,10 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DFARS-PART_229">
-      <title class="- topic/title ">PART 229 - TAXES</title>
+      <title class="- topic/title "><ph props="autonumber">PART 229</ph> - TAXES</title>
       <body>
          <ul otherprops="TOC">
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_229.1.dita#DFARS-SUBPART_229.1">SUBPART 229.1 —GENERAL</xref>
                </p>
@@ -45,7 +45,7 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_229.4.dita#DFARS-SUBPART_229.4">SUBPART 229.4 —CONTRACT CLAUSES</xref>
                </p>
@@ -57,15 +57,14 @@
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="229.402-70.dita#DFARS-229.402-70">229.402-70 Additional provisions
-and clauses.</xref>
+                              <xref outputclass="fm:TOC" href="229.402-70.dita#DFARS-229.402-70">229.402-70 Additional provisions and clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_229.70.dita#DFARS-SUBPART_229.70">SUBPART 229.70 —SPECIAL PROCEDURES FOR OVERSEAS CONTRACTS</xref>
                </p>
