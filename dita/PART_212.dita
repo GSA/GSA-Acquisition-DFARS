@@ -3,15 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DFARS-PART_212">
-      <title class="- topic/title ">PART 212 - ACQUISITION OF COMMERCIAL ITEMS</title>
+      <title class="- topic/title "><ph props="autonumber">PART 212</ph> - ACQUISITION OF COMMERCIAL ITEMS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="212.001.dita#DFARS-212.001">212.001 Definitions.  As used in this part—</xref>
+                  <xref outputclass="fm:TOC" href="212.001.dita#DFARS-212.001">212.001 Definitions. As used in this part—</xref>
                </p>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_212.1.dita#DFARS-SUBPART_212.1">SUBPART 212.1 —ACQUISITION OF COMMERCIAL ITEMS - GENERAL</xref>
                </p>
@@ -23,7 +23,7 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_212.2.dita#DFARS-SUBPART_212.2">SUBPART 212.2 —SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL ITEMS</xref>
                </p>
@@ -75,15 +75,14 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_212.3.dita#DFARS-SUBPART_212.3">SUBPART 212.3 —SOLICITATION PROVISIONS AND CONTRACT CLAUSES FOR THE ACQUISITION OF COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="212.301.dita#DFARS-212.301">212.301 Solicitation provisions
-and contract clauses for the acquisition of commercial items.</xref>
+                        <xref outputclass="fm:TOC" href="212.301.dita#DFARS-212.301">212.301 Solicitation provisions and contract clauses for the acquisition of commercial items.</xref>
                      </p>
                   </li>
                   <li>
@@ -93,13 +92,9 @@ and contract clauses for the acquisition of commercial items.</xref>
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_212.5.dita#DFARS-SUBPART_212.5">SUBPART
-212.5 —APPLICABILITY OF CERTAIN LAWS TO THE ACQUISITION OF
-COMMERCIAL ITEMS AND COMMERCIALLY AVAILABLE
-OFF-THE-SHELF ITEMS
-      </xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_212.5.dita#DFARS-SUBPART_212.5">SUBPART 212.5 —APPLICABILITY OF CERTAIN LAWS TO THE ACQUISITION OF COMMERCIAL ITEMS AND COMMERCIALLY AVAILABLE OFF-THE-SHELF ITEMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -114,13 +109,12 @@ OFF-THE-SHELF ITEMS
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="212.505.dita#DFARS-212.505">212.505 Applicability of certain
-laws to contracts for the acquisition of COTS items.</xref>
+                        <xref outputclass="fm:TOC" href="212.505.dita#DFARS-212.505">212.505 Applicability of certain laws to contracts for the acquisition of COTS items.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_212.6.dita#DFARS-SUBPART_212.6">SUBPART 212.6 —STREAMLINED PROCEDURES FOR EVALUATION AND SOLICITATION FOR COMMERCIAL ITEMS</xref>
                </p>
@@ -132,7 +126,7 @@ laws to contracts for the acquisition of COTS items.</xref>
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_212.70.dita#DFARS-SUBPART_212.70">SUBPART 212.70 —LIMITATION ON CONVERSION OF PROCUREMENT FROM COMMERCIAL ACQUISITION PROCEDURES</xref>
                </p>
@@ -149,7 +143,7 @@ laws to contracts for the acquisition of COTS items.</xref>
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_212.71.dita#DFARS-SUBPART_212.71">SUBPART 212.71 —PILOT PROGRAM FOR ACQUISITION OF MILITARY-PURPOSE NONDEVELOPMENTAL ITEMS</xref>
                </p>
@@ -171,8 +165,7 @@ laws to contracts for the acquisition of COTS items.</xref>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="212.7102-1.dita#DFARS-212.7102-1">212.7102-1 Contracts under
-the program.</xref>
+                              <xref outputclass="fm:TOC" href="212.7102-1.dita#DFARS-212.7102-1">212.7102-1 Contracts under the program.</xref>
                            </p>
                         </li>
                         <li>

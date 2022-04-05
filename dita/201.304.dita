@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-201.304" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-201.304"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">201.304</ph> Agency control and compliance procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -14,13 +19,25 @@
          <p outputclass="List3" class="- topic/p ">(i)  The certification requirement is specifically imposed by statute; or</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Written justification for such certification is provided to the Secretary of Defense by USD(AT&amp;L), and the Secretary of Defense approves in writing the inclusion of such certification requirement.</p>
          <p outputclass="List2" class="- topic/p ">(3)  Contracting activities must obtain the appropriate approval (see 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-201.404" href="201.404.dita#DFARS-201.404" xtrc="201.404">201.404</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-201.404"
+                  href="201.404.dita#DFARS-201.404"
+                  xtrc="201.404">201.404</xref>
             ) for any class deviation (as defined in FAR Subpart 1.4) from the FAR or DFARS, before its inclusion in a department/agency or component supplement or any other contracting regulation document such as a policy letter or clause book.</p>
          <p outputclass="List2" class="- topic/p ">(4)  Each department and agency must develop and, upon approval by OUSD(AT&amp;L)DPAP, implement, maintain, and comply with a plan for controlling the use of clauses other than those prescribed by FAR or DFARS.  Additional information on department and agency clause control plan requirements is available at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_201.304" href="PGI_201.304.dita#DFARS-PGI_PGI_201.304" xtrc="201.304">PGI 201.304</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_201.304"
+                  href="PGI_201.304.dita#DFARS-PGI_PGI_201.304"
+                  xtrc="201.304">201.304</xref>
             (4).</p>
          <p outputclass="List2" class="- topic/p ">(5)  Departments and agencies must submit requests for the Secretary of Defense, USD(AT&amp;L), and OUSD(AT&amp;L)DPAP approvals required by this section through the Director of the DAR Council.  Procedures for requesting approval of department and agency clauses are provided at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_201.304" href="PGI_201.304.dita#DFARS-PGI_PGI_201.304" xtrc="201.304">PGI 201.304</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_201.304"
+                  href="PGI_201.304.dita#DFARS-PGI_PGI_201.304"
+                  xtrc="201.304">201.304</xref>
             (5).</p>
          <p outputclass="List2" class="- topic/p ">(6)  The Director of Defense Procurement and Acquisition Policy publishes changes to the DFARS in the Federal Register and electronically via the World Wide Web.  Each change includes an effective date. Unless guidance accompanying a change states otherwise, contracting officers must include any new or revised clauses, provisions, or forms in solicitations issued on or after the effective date of the change.</p>
       </conbody>

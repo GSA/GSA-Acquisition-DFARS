@@ -1,31 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="DFARS-213.301">
-      <title>
-         <ph props="autonumber">213.301</ph> Governmentwide commercial purchase card.</title>
-      <conbody>
-         <p>Follow the procedures at PGI <xref base="DFARS-PGI_PGI_213.301" href="PGI_213.301.dita#DFARS-PGI_PGI_213.301" outputclass="fm:ParaNumOnly" xtrc="213.301">PGI 213.301</xref> for authorizing, establishing, and operating a Governmentwide commercial purchase card program.</p>
-         <p outputclass="List2">(1) “United States,” as used in this section, means the 50 States and the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, Wake Island, Johnston Island, Canton Island, the outer Continental Shelf, and any other place subject to the jurisdiction of the United States (but not including leased bases).</p>
-         <p outputclass="List2">(2) An individual appointed in accordance with <xref base="i1377456" href="201.603-3.dita#DFARS-201.603-3" outputclass="fm:ParaNumOnly" xtrc="201.603-3">201.603-3</xref> (a) also may use the Governmentwide commercial purchase card to make a purchase that exceeds the micro-purchase threshold but does not exceed $25,000, if—</p>
-         <p outputclass="List3">(i) The purchase—</p>
-         <p outputclass="List4">(A) Is made outside the United States for use outside the United States; and</p>
-         <p outputclass="List4">(B) Is for a commercial item; but</p>
-         <p outputclass="List4">(C) Is not for work to be performed by employees recruited within the United States;</p>
-         <p outputclass="List4">(D) Is not for supplies or services originating from, or transported from or through, sources identified in FAR Subpart 25.7;</p>
-         <p outputclass="List4">(E) Is not for ball or roller bearings as end items;</p>
-         <p outputclass="List4">(F) Does not require access to classified or Privacy Act information; and</p>
-         <p outputclass="List4">(G) Does not require transportation of supplies by sea; and</p>
-         <p outputclass="List3">(ii) The individual making the purchase—</p>
-         <p outputclass="List4">(A) Is authorized and trained in accordance with agency procedures;</p>
-         <p outputclass="List4">(B) Complies with the requirements of FAR 8.002 in making the purchase; and</p>
-         <p outputclass="List4">(C) Seeks maximum practicable competition for the purchase in accordance with FAR 13.104(b).</p>
-         <p outputclass="List2">(3) A contracting officer supporting a contingency operation as defined in 10 U.S.C. 101(a)(13) or a humanitarian or peacekeeping operation as defined in 10 U.S.C. 2302(8) also may use the Governmentwide commercial purchase card to make a purchase that exceeds the micro-purchase threshold but does not exceed the simplified acquisition threshold, if—</p>
-         <p outputclass="List3">(i) The supplies or services being purchased are immediately available;</p>
-         <p outputclass="List3">(ii) One delivery and one payment will be made; and</p>
-         <p outputclass="List3">(iii) The requirements of paragraphs (2)(i) and (ii) of this section are met.</p>
-         <p outputclass="List2">(4) Guidance on DoD purchase, travel, and fuel card programs is available in the “Department of Defense Government Charge Card Guidebook for Establishing and Managing Purchase, Travel, and Fuel Card Programs” at <xref format="html" href="https://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html" scope="external">https://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html</xref>. Additional guidance on the fuel card programs is available at <xref format="html" href="https://www.dla.mil/Energy/Offers/Products/GovernmentFuel/" scope="external">https://www.dla.mil/Energy/Offers/Products/GovernmentFuel/</xref>
-            .</p>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-213.301"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">213.301</ph> Governmentwide commercial
+purchase card.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="Jhpjxa" class="- topic/p ">Follow the procedures at PGI <xref href="PGI_213.301.dita#DFARS-PGI_PGI_213.301"
+                  base="DFARS-PGI_PGI_213.301"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">213.301</xref> for
+authorizing, establishing, and operating a Governmentwide commercial
+purchase card program.</p>
+         <p id="gFxJXN" outputclass="List2" class="- topic/p ">(1) “United States,” as used
+in this section, means the 50 States and the District of Columbia,
+the Commonwealth of Puerto Rico, the Virgin Islands, the Commonwealth
+of the Northern Mariana Islands, Guam, American Samoa, Wake Island, Johnston
+Island, Canton Island, the outer Continental Shelf, and any other
+place subject to the jurisdiction of the United States (but not
+including leased bases).</p>
+         <p id="jkusVF" outputclass="List2" class="- topic/p ">(2) An individual appointed
+in accordance with <xref href="201.603-3.dita#DFARS-201.603-3"
+                  base="i1377456"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">201.603-3</xref> (a)
+also may use the Governmentwide commercial purchase card to make
+a purchase that exceeds the micro-purchase threshold but does not
+exceed $25,000, if—</p>
+         <p id="kFSEHk" outputclass="List3" class="- topic/p ">(i) The purchase—</p>
+         <p id="Pfojgb" outputclass="List4" class="- topic/p ">(A) Is made outside the United
+States for use outside the United States; and</p>
+         <p id="IgVCJq" outputclass="List4" class="- topic/p ">(B) Is for a commercial item;
+but</p>
+         <p id="aZJykx" outputclass="List4" class="- topic/p ">(C) Is not for work to be
+performed by employees recruited within the United States;</p>
+         <p id="CvaEOP" outputclass="List4" class="- topic/p ">(D) Is not for supplies or
+services originating from, or transported from or through, sources
+identified in FAR Subpart 25.7;</p>
+         <p id="LVsjqy" outputclass="List4" class="- topic/p ">(E) Is not for ball or roller
+bearings as end items;</p>
+         <p id="UmxIkx" outputclass="List4" class="- topic/p ">(F) Does not require access
+to classified or Privacy Act information; and</p>
+         <p id="rjvucT" outputclass="List4" class="- topic/p ">(G) Does not require transportation
+of supplies by sea; and</p>
+         <p id="prxvrn" outputclass="List3" class="- topic/p ">(ii) The individual making
+the purchase—</p>
+         <p id="GOkVaj" outputclass="List4" class="- topic/p ">(A) Is authorized and trained
+in accordance with agency procedures;</p>
+         <p id="WzMKhJ" outputclass="List4" class="- topic/p ">(B) Complies with the requirements
+of FAR 8.002 in making the purchase; and</p>
+         <p id="KKTudk" outputclass="List4" class="- topic/p ">(C) Seeks maximum practicable
+competition for the purchase in accordance with FAR 13.104(b).</p>
+         <p id="nmbfNR" outputclass="List2" class="- topic/p ">(3) A contracting officer
+supporting a contingency operation as defined in 10 U.S.C. 101(a)(13)
+or a humanitarian or peacekeeping operation as defined in 10 U.S.C.
+2302(8) also may use the Governmentwide commercial purchase card
+to make a purchase that exceeds the micro-purchase threshold but
+does not exceed the simplified acquisition threshold, if—</p>
+         <p id="WfOxwy" outputclass="List3" class="- topic/p ">(i) The supplies or services
+being purchased are immediately available;</p>
+         <p id="DgkFSC" outputclass="List3" class="- topic/p ">(ii) One delivery and one
+payment will be made; and</p>
+         <p id="CJzKVV" outputclass="List3" class="- topic/p ">(iii) The requirements of
+paragraphs (2)(i) and (ii) of this section are met.</p>
+         <p id="iTXRzX" outputclass="List2" class="- topic/p ">(4) Guidance on DoD purchase,
+travel, and fuel card programs is available in the “Department of
+Defense Government Charge Card Guidebook for Establishing and Managing
+Purchase, Travel, and Fuel Card Programs” at<ph id="edg8oxm" rev="Revised March 18, 2022" class="- topic/ph ">
+               <xref href="https://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/pc/docs-guides.html</xref>
+  .</ph>
+Additional guidance on the fuel card programs is available at <xref href="https://www.dla.mil/Energy/Offers/Products/GovernmentFuel/"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.dla.mil/Energy/Offers/Products/GovernmentFuel/</xref>.</p>
       </conbody>
    </concept>
 </dita>

@@ -3,15 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DFARS-PART_253">
-      <title class="- topic/title ">PART 253 - FORMS</title>
+      <title class="- topic/title "><ph props="autonumber">PART 253</ph> - FORMS</title>
       <body>
          <ul otherprops="TOC">
-            <li>
+            <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_253.2.dita#DFARS-SUBPART_253.2">SUBPART
-253.2—PRESCRIPTION OF
-FORMS
-      </xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_253.2.dita#DFARS-SUBPART_253.2">SUBPART 253.2 —PRESCRIPTION OF FORMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -57,7 +54,7 @@ FORMS
                   </li>
                </ul>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_253.3.dita#DFARS-SUBPART_253.3">SUBPART 253.3 —ILLUSTRATION OF FORMS</xref>
                </p>
