@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-PGI_PGI_225.7003-3"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-PGI_PGI_225.7003-3" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 225.7003-3</ph> Exceptions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(b)(2) <i class="+ topic/ph hi-d/i ">Report of COTS items</i>.</p>
-         <p class="- topic/p ">If a department or agency uses the exception at DFARS <xref href="225.7003-3.dita#DFARS-225.7003-3"
-                  base="DFARS-225.7003-3"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="225.7003-3">225.7003-3</xref>(b)(2) for an
+         <p class="- topic/p ">If a department or agency uses the exception at DFARS <xref href="225.7003-3.dita#DFARS-225.7003-3" base="DFARS-225.7003-3" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7003-3">225.7003-3</xref>(b)(2) for an
 acquisition of COTS end items valued at $5 million or more per item,
 the department or agency shall address use of the exception in a
 year-end report, to be prepared and submitted as follows:</p>
@@ -75,19 +65,11 @@ magnets are samarium-cobalt magnets and neodymium-iron-boron magnets.
 Only samarium-cobalt magnets contain specialty metals and are subject
 to the restrictions of 10 U.S.C. 2533b in this section, as well
 as the restrictions of 10 U.S.C. 2533c at 
-               <xref href="PGI_225.7018.dita#DFARS-PGI_PGI_225.7018"
-                  base="DFARS-PGI_PGI_225.7018"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="225.7018">225.7018</xref>
+               <xref href="PGI_225.7018.dita#DFARS-PGI_PGI_225.7018" base="DFARS-PGI_PGI_225.7018" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7018">PGI 225.7018</xref>
             .
 Neodymium-iron-boron magnets are only subject to the restrictions
 of 10 U.S.C. 2533c at 
-               <xref href="PGI_225.7018.dita#DFARS-PGI_PGI_225.7018"
-                  base="DFARS-PGI_PGI_225.7018"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="225.7018">225.7018</xref>
+               <xref href="PGI_225.7018.dita#DFARS-PGI_PGI_225.7018" base="DFARS-PGI_PGI_225.7018" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7018">PGI 225.7018</xref>
             ,
 because they do not contain specialty metals. There are no other
 commonly used magnets that contain specialty metals.</p>
@@ -96,29 +78,10 @@ commonly used magnets that contain specialty metals.</p>
          <p class="- topic/p ">COTS = Commercially available off-the-shelf</p>
          <p class="- topic/p ">SmCo = Samarium Cobalt</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="3"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="40*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="32*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="28*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="3" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="40*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="32*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="28*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -141,7 +104,7 @@ item</p>
                         <p class="- topic/p ">NOT restricted</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">*</p>
                      </entry>
                   </row>
@@ -181,10 +144,7 @@ an item manufactured in a qualifying country are still subject to
 the requirements of 10 U.S.C. 2533c, because there is no exception
 in 10 U.S.C. 2533c for items manufactured in a qualifying country
 comparable to the exception at 
-               <xref href="#DFARS-PGI_PGI_225.7003-3"
-                  base="DFARS-PGI_PGI_225.7003-3"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.7003-3</xref>
+               <xref href="#DFARS-PGI_PGI_225.7003-3" base="DFARS-PGI_PGI_225.7003-3" outputclass="fm:ParaNumOnly" class="- topic/xref ">225.7003-3</xref>
             (b)(4)
 to the specialty metal restrictions of 10 U.S.C. 2533b.</p>
          <p outputclass="List4" class="- topic/p ">(D) Even if samarium-cobalt magnets are
@@ -192,20 +152,12 @@ determined to be domestically nonavailable under this section, the
 restrictions of 10 U.S.C. 2533c still apply unless samarium-cobalt
 magnets melted or produced outside a covered country are also determined
 to be nonavailable in accordance with 
-               <xref href="PGI_225.7018-4.dita#DFARS-PGI_PGI_225.7018-4"
-                  base="DFARS-PGI_PGI_225.7018-4"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="225.7018-4">225.7018-4</xref>
+               <xref href="PGI_225.7018-4.dita#DFARS-PGI_PGI_225.7018-4" base="DFARS-PGI_PGI_225.7018-4" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7018-4">PGI 225.7018-4</xref>
             .</p>
          <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Compliance for commercial derivative
 military articles</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) A department or agency requesting a
-determination or approval from USD(A&amp;S) in accordance with DFARS <xref href="225.7003-3.dita#DFARS-225.7003-3"
-                  base="DFARS-225.7003-3"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="225.7003-3">225.7003-3</xref>(c) shall submit
+determination or approval from USD(A&amp;S) in accordance with DFARS <xref href="225.7003-3.dita#DFARS-225.7003-3" base="DFARS-225.7003-3" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7003-3">225.7003-3</xref>(c) shall submit
 the request, including the proposed determination, to—</p>
          <p class="- topic/p ">Principal Director, Defense Pricing and Contracting</p>
          <p class="- topic/p ">ATTN: OUSD(A&amp;S) DPC/CP</p>
@@ -216,18 +168,10 @@ and Contracting, will forward the request to USD(A&amp;S) as appropriate.</p>
          <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">National security waiver</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) A department or agency shall request
 a national security waiver of the restrictions of 10 U.S.C. 2533b
-from USD(A&amp;S) in accordance with DFARS <xref href="225.7003-3.dita#DFARS-225.7003-3"
-                  base="DFARS-225.7003-3"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="225.7003-3">225.7003-3</xref>(d) in a timely
+from USD(A&amp;S) in accordance with DFARS <xref href="225.7003-3.dita#DFARS-225.7003-3" base="DFARS-225.7003-3" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7003-3">225.7003-3</xref>(d) in a timely
 manner after discovering or being informed of a specialty metals
 noncompliance in an item, or component thereof, listed at 
-               <xref href="PGI_225.7003-2.dita#DFARS-PGI_PGI_225.7003-2"
-                  base="DFARS-PGI_PGI_225.7003-2"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="225.7003-2">225.7003-2</xref>
+               <xref href="PGI_225.7003-2.dita#DFARS-PGI_PGI_225.7003-2" base="DFARS-PGI_PGI_225.7003-2" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7003-2">PGI 225.7003-2</xref>
             (a)
 and covered by 10 U.S.C. 2533b. The department or agency shall submit
 the request, via the chain of command, including the draft determination

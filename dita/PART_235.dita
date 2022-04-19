@@ -3,7 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DFARS-PART_235">
-      <title class="- topic/title "><ph props="autonumber">PART 235</ph> - RESEARCH AND DEVELOPMENT CONTRACTING</title>
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 235</ph> - RESEARCH AND DEVELOPMENT CONTRACTING</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -99,7 +100,7 @@
                   <xref outputclass="fm:TOC" href="235.072.dita#DFARS-235.072">235.072 Additional contract clauses.</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_235.70.dita#DFARS-SUBPART_235.70">SUBPART 235.70</xref>
                </p>

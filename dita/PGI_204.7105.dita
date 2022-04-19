@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_204.7105"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-PGI_PGI_204.7105" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.7105</ph> Contract exhibits and attachments.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -22,11 +16,7 @@
          <p outputclass="List3" class="- topic/p ">(ii) Not separately priced. Include prices in a priced contract line item or subline item.</p>
          <p outputclass="List2" class="- topic/p ">(7) The contracting officer may append attachments to exhibits, as long as the attachment does not identify a deliverable requirement that has not been established by a contract line item or subline item or exhibit line item.</p>
          <p outputclass="List2" class="- topic/p ">(8) Include exhibit line items and associated information in the electronically distributed contract documents identified in PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_204.201"
-                  href="PGI_204.201.dita#DFARS-PGI_PGI_204.201"
-                  xtrc="204.201">204.201</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_204.201" href="PGI_204.201.dita#DFARS-PGI_PGI_204.201" xtrc="204.201">PGI 204.201</xref>
             (3)(i)(A) and (B).</p>
          <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Numbering exhibits and attachments</i>.</p>
          <p outputclass="List2" class="- topic/p ">(1) Use alpha characters to identify exhibits. The alpha characters shall be either single or double capital letters. Do not use the letters I or O.</p>
@@ -35,11 +25,7 @@
          <p outputclass="List2" class="- topic/p ">(4) If the exhibit has more than one page, cite the procurement instrument identification number, exhibit identifier, and applicable contract line or subline item number on each page.</p>
          <p outputclass="List2" class="- topic/p ">(5) Use numbers to identify attachments.</p>
          <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Numbering exhibit line items</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(1) Criteria for establishing. The criteria for establishing exhibit line items are the same as those for establishing contract line items (see DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.7103"
-                  href="204.7103.dita#DFARS-204.7103"
-                  xtrc="204.7103">204.7103</xref>).</p>
+         <p outputclass="List2" class="- topic/p ">(1) Criteria for establishing. The criteria for establishing exhibit line items are the same as those for establishing contract line items (see DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-204.7103" href="204.7103.dita#DFARS-204.7103" xtrc="204.7103">204.7103</xref>).</p>
          <p outputclass="List2" class="- topic/p ">(2) Procedures for numbering.</p>
          <p outputclass="List3" class="- topic/p ">(i) Number items in an exhibit in a manner similar to contract line items.</p>
          <p outputclass="List3" class="- topic/p ">(ii) Number line items using a four-position number.</p>
@@ -49,23 +35,9 @@
          <p outputclass="List2" class="- topic/p ">(3) Examples.</p>
          <p outputclass="List3" class="- topic/p ">(i) Two-position serial number for double letter exhibit identifier.</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="38*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="62*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="38*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="62*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -156,23 +128,9 @@
          </table>
          <p outputclass="List3" class="- topic/p ">(ii) Three-position numbers.</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="35*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="65*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="35*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="65*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-209.571-1"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-209.571-1" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">209.571-1</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -37,11 +32,7 @@
          <p outputclass="List4" class="- topic/p ">(J)  Developing work statements (but see paragraph (ii)(B) of this definition).</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Does not include—</p>
          <p outputclass="List4" class="- topic/p ">(A)  Design and development work of design and development contractors, in accordance with FAR 9.505-2(a)(3) or FAR 9.505-2(b)(3), and the guidance at PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_209.571-7"
-                  href="PGI_209.571-7.dita#DFARS-PGI_PGI_209.571-7"
-                  xtrc="209.571-7">209.571-7</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_209.571-7" href="PGI_209.571-7.dita#DFARS-PGI_PGI_209.571-7" xtrc="209.571-7">PGI 209.571-7</xref>
             ; or</p>
          <p outputclass="List4" class="- topic/p ">(B)  Preparation of work statements by contractors, acting as industry representatives, under the supervision and control of Government representatives, in accordance with FAR 9.505-2(b)(1)(ii).</p>
       </conbody>
