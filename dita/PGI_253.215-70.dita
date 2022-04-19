@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-PGI_PGI_253.215-70"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-PGI_PGI_253.215-70" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 253.215-70</ph> DD Form 1547,
 Record of Weighted Guidelines Application.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a) Use the DD Form 1547 as prescribed
-in DFARS <xref href="215.404-70.dita#DFARS-215.404-70"
-                  base="DFARS-215.404-70"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="215.404-70">215.404-70</xref> and <xref href="215.404-71.dita#DFARS-215.404-71"
-                  base="DFARS-215.404-71"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="215.404-71">215.404-71</xref>.</p>
+in DFARS <xref href="215.404-70.dita#DFARS-215.404-70" base="DFARS-215.404-70" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-70">215.404-70</xref> and <xref href="215.404-71.dita#DFARS-215.404-71" base="DFARS-215.404-71" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-71">215.404-71</xref>.</p>
          <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">General instructions</i>.</p>
          <p outputclass="List2" class="- topic/p ">(1) Report amounts as they relate to the
 price of the contract action without regard to funding status (e.g.,
@@ -78,25 +64,11 @@ establishment code number.</p>
          <p outputclass="List2" class="- topic/p ">(9) BLOCK 9—DOD CLAIMANT PROGRAM.</p>
          <p outputclass="List2" class="- topic/p ">(10) BLOCK 10—CONTRACT TYPE CODE. Enter
 the appropriate code—</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="74*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="26*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="74*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="26*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -128,29 +100,15 @@ the appropriate code—</p>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p outputclass="List2" class="- topic/p ">(11) BLOCK 11—TYPE EFFORT. Enter the appropriate
 code—</p>
-         <p class="- topic/p "/>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
+         <p class="- topic/p "></p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="74*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="26*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="74*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="26*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -176,28 +134,14 @@ code—</p>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p outputclass="List2" class="- topic/p ">(12) BLOCK 12—USE CODE. Enter the appropriate
 code for use of the weighted guidelines method—</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="88*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="12*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="88*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="12*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -210,11 +154,7 @@ code for use of the weighted guidelines method—</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Standard weighted guidelines method (DFARS 
-                              <xref href="PGI_215.404-71.dita#DFARS-PGI_PGI_215.404-71"
-                                 base="DFARS-PGI_PGI_215.404-71"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref "
-                                 xtrc="215.404-71">215.404-71</xref>
+                              <xref href="PGI_215.404-71.dita#DFARS-PGI_PGI_215.404-71" base="DFARS-PGI_PGI_215.404-71" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-71">PGI 215.404-71</xref>
                            -2(c)(1))</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -223,11 +163,7 @@ code for use of the weighted guidelines method—</p>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Alternate structured approach (DFARS <xref href="215.404-73.dita#DFARS-215.404-73"
-                                 base="DFARS-215.404-73"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref "
-                                 xtrc="215.404-73">215.404-73</xref>)</p>
+                        <p class="- topic/p ">Alternate structured approach (DFARS <xref href="215.404-73.dita#DFARS-215.404-73" base="DFARS-215.404-73" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-73">215.404-73</xref>)</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">4</p>
@@ -235,11 +171,7 @@ code for use of the weighted guidelines method—</p>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Modified weighted guidelines approach (DFARS <xref href="215.404-72.dita#DFARS-215.404-72"
-                                 base="DFARS-215.404-72"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref "
-                                 xtrc="215.404-72">215.404-72</xref>)</p>
+                        <p class="- topic/p ">Modified weighted guidelines approach (DFARS <xref href="215.404-72.dita#DFARS-215.404-72" base="DFARS-215.404-72" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-72">215.404-72</xref>)</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">5</p>
@@ -248,11 +180,7 @@ code for use of the weighted guidelines method—</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Technology incentive (DFARS 
-                              <xref href="PGI_215.404-71.dita#DFARS-PGI_PGI_215.404-71"
-                                 base="DFARS-PGI_PGI_215.404-71"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref "
-                                 xtrc="215.404-71">215.404-71</xref>
+                              <xref href="PGI_215.404-71.dita#DFARS-PGI_PGI_215.404-71" base="DFARS-PGI_PGI_215.404-71" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-71">PGI 215.404-71</xref>
                            -2(c)(2))</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -261,16 +189,16 @@ code for use of the weighted guidelines method—</p>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List2" class="- topic/p "/>
+         <p outputclass="List2" class="- topic/p "></p>
          <p outputclass="List2" class="- topic/p ">(13) BLOCKS 13 through 20—COST CATEGORY
 OBJECTIVE. Enter the prenegotiation objectives. Include contractor independent
 research and development/bid and proposal in the general and administrative
@@ -278,28 +206,16 @@ expenses in Block 19.</p>
          <p outputclass="List2" class="- topic/p ">(14) BLOCKS 21 through 29—WEIGHTED GUIDELINES
 PROFIT FACTORS. Enter the amounts determined in accordance with DFARS 215.404-71 or
 215.404-72. This section is not required to be completed when
-using an alternate structured approach (DFARS <xref href="215.404-73.dita#DFARS-215.404-73"
-                  base="DFARS-215.404-73"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="215.404-73">215.404-73</xref>).</p>
+using an alternate structured approach (DFARS <xref href="215.404-73.dita#DFARS-215.404-73" base="DFARS-215.404-73" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-73">215.404-73</xref>).</p>
          <p outputclass="List2" class="- topic/p ">(15) BLOCK 30—TOTAL PROFIT OBJECTIVE. Enter
 the total of Blocks 23, 24, 25, 27, 28, and 29. This section is
 not required to be completed when using an alternate structured
-approach (DFARS <xref href="215.404-73.dita#DFARS-215.404-73"
-                  base="DFARS-215.404-73"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="215.404-73">215.404-73</xref>).</p>
+approach (DFARS <xref href="215.404-73.dita#DFARS-215.404-73" base="DFARS-215.404-73" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-73">215.404-73</xref>).</p>
          <p outputclass="List2" class="- topic/p ">(16) BLOCKS 31 through 35—NEGOTIATION SUMMARY.
 Complete as indicated on the form. For fixed-price type contracts
 negotiated on a total price basis, enter the contracting officer's
 best estimates of cost and profit. When using an alternate structured
-approach, see DFARS <xref href="215.404-73.dita#DFARS-215.404-73"
-                  base="DFARS-215.404-73"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="215.404-73">215.404-73</xref>(b)(2)
+approach, see DFARS <xref href="215.404-73.dita#DFARS-215.404-73" base="DFARS-215.404-73" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-73">215.404-73</xref>(b)(2)
 for offsets.</p>
          <p outputclass="List2" class="- topic/p ">(17) BLOCKS 36 through 39—CONTRACTING OFFICER
 APPROVAL. The contracting officer shall sign the form. Include a
