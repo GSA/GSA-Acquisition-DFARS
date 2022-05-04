@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-215.404-71-4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-215.404-71-4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">215.404-71-4</ph> Facilities capital
 employed.</title>
@@ -19,7 +24,11 @@ CASB-CMF and cost of money factors (48 CFR 9904.414 and FAR 31.205-10); and</p>
          <p outputclass="List2" class="- topic/p ">(2) DD Form 1861, Contract Facilities Capital
 Cost of Money.</p>
          <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Use of DD Form 1861</i>. See PGI 
-               <xref href="PGI_215.404-71.dita#DFARS-PGI_PGI_215.404-71" base="DFARS-PGI_PGI_215.404-71" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-71">PGI 215.404-71</xref>
+               <xref href="PGI_215.404-71.dita#DFARS-PGI_PGI_215.404-71"
+                  base="DFARS-PGI_PGI_215.404-71"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="215.404-71">PGI 215.404-71</xref>
             -4(c)
 for obtaining field pricing support for preparing DD Form 1861.</p>
          <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Purpose</i>. The DD Form 1861 provides
@@ -76,23 +85,56 @@ Do not include cost of money as part of the cost base.</p>
 Assess and weight the profit objective for risk associated with
 facilities capital employed in accordance with the profit guidelines
 at 
-               <xref href="215.404-71.dita#DFARS-215.404-71" base="i1378203" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-71">215.404-71</xref>
+               <xref href="215.404-71.dita#DFARS-215.404-71"
+                  base="i1378203"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="215.404-71">215.404-71</xref>
             -4.</p>
          <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Determination</i>. The following
 extract from the DD Form 1547 has been annotated to explain the
 process.</p>
-         <p class="- topic/p "></p>
+         <p class="- topic/p "/>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="5" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="32*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="19*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="20*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="17*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="5"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="11*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="32*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="19*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="20*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">Item</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
@@ -163,7 +205,7 @@ Capital Employed</p>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List2" class="- topic/p "></p>
+         <p outputclass="List2" class="- topic/p "/>
          <p outputclass="List2" class="- topic/p ">(1) Select a value from the list in paragraph
 (f) of this subsection using the evaluation criteria in paragraph
 (g) of this subsection.</p>
@@ -189,10 +231,29 @@ of intracompany transfers has been included in Block 20 at price
          <p outputclass="List2" class="- topic/p ">(3) Multiply (1) by (2).</p>
          <p outputclass="List1" class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">Values: Normal and designated ranges</i>.</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="3" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="30*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="30*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="41*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="3"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="30*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="30*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="41*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">

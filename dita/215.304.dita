@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-215.304" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-215.304"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">215.304</ph> Evaluation factors
 and significant subfactors.</title>
@@ -18,7 +23,11 @@ officer shall evaluate the extent to which offerors identify and
 commit to small business performance of the contract, whether as
 a joint venture, teaming arrangement, or subcontractor.</p>
          <p outputclass="List4" class="- topic/p ">(A) See PGI 
-               <xref href="PGI_215.304.dita#DFARS-PGI_PGI_215.304" base="DFARS-PGI_PGI_215.304" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.304">PGI 215.304</xref>
+               <xref href="PGI_215.304.dita#DFARS-PGI_PGI_215.304"
+                  base="DFARS-PGI_PGI_215.304"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="215.304">PGI 215.304</xref>
             (c)(i)(A)
 for examples of evaluation factors.</p>
          <p outputclass="List4" class="- topic/p ">(B) Proposals addressing the extent of
@@ -31,7 +40,11 @@ that small businesses are specifically identified in proposals,
 the small businesses considered in the evaluation shall be listed
 in any subcontracting plan submitted pursuant to FAR 52.219-9 to
 facilitate compliance with 
-               <xref href="252.219-7003.dita#DFARS-252.219-7003" base="DFARS-239.7301" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.219-7003">252.219-7003</xref>
+               <xref href="252.219-7003.dita#DFARS-252.219-7003"
+                  base="DFARS-239.7301"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.219-7003">252.219-7003</xref>
             .</p>
          <p outputclass="List3" class="- topic/p ">(ii) In accordance with 10 U.S.C. 2436,
 consider the purchase of capital assets (including machine tools)
@@ -49,15 +62,27 @@ selection process for major defense acquisition programs.</p>
 supply chain risk (see subpart 239.73) when acquiring information
 technology, whether as a service or as a supply, that is a covered
 system, is a part of a covered system, or is in support of a covered
-system, as defined in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-239.7301" href="239.7301.dita#DFARS-239.7301" xtrc="239.7301">239.7301</xref>. For additional guidance see PGI 
-               <xref href="PGI_215.304.dita#DFARS-PGI_PGI_215.304" base="DFARS-PGI_PGI_215.304" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.304">PGI 215.304</xref>
+system, as defined in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-239.7301"
+                  href="239.7301.dita#DFARS-239.7301"
+                  xtrc="239.7301">239.7301</xref>. For additional guidance see PGI 
+               <xref href="PGI_215.304.dita#DFARS-PGI_PGI_215.304"
+                  base="DFARS-PGI_PGI_215.304"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="215.304">PGI 215.304</xref>
             (c)(v).</p>
          <p outputclass="List3" class="- topic/p ">(vi) Ensure source selections emphasize
 sustainment factors and objective reliability and maintainability
 evaluation criteria in competitive contracts for the—</p>
          <p outputclass="List4" class="- topic/p ">(A) Technical maturation and risk reduction
 phase of weapon system design (see guidance at PGI 
-               <xref href="PGI_207.105.dita#DFARS-PGI_PGI_207.105" base="DFARS-PGI_PGI_207.105" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="207.105">PGI 207.105</xref>
+               <xref href="PGI_207.105.dita#DFARS-PGI_PGI_207.105"
+                  base="DFARS-PGI_PGI_207.105"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="207.105">PGI 207.105</xref>
             (b)(14)(ii)(<i class="+ topic/ph hi-d/i ">2</i>));</p>
          <p outputclass="List4" class="- topic/p ">(B) Engineering and manufacturing development
 phase of a weapon system, including embedded software (10 U.S.C.
@@ -65,7 +90,11 @@ phase of a weapon system, including embedded software (10 U.S.C.
          <p outputclass="List4" class="- topic/p ">(C) Production and deployment phase of
 a weapon system, including embedded software (10 U.S.C. 2443).</p>
          <p outputclass="List3" class="- topic/p ">(vii) See 
-               <xref href="226.7202.dita#DFARS-226.7202" base="DFARS-226.7202" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="226.7202">226.7202</xref>
+               <xref href="226.7202.dita#DFARS-226.7202"
+                  base="DFARS-226.7202"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="226.7202">226.7202</xref>
              for an additional
 evaluation factor required in solicitations when using the Demonstration
 Project for Contractors Employing Persons with Disabilities.</p>

@@ -1,20 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-215.371-2" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-215.371-2"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">215.371-2</ph> Promote competition.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Except as provided in sections 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378099" href="215.371-4.dita#DFARS-215.371-4" xtrc="215.371-4">215.371-4</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378099"
+                  href="215.371-4.dita#DFARS-215.371-4"
+                  xtrc="215.371-4">215.371-4</xref>
              and 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378104" href="215.371-5.dita#DFARS-215.371-5" xtrc="215.371-5">215.371-5</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378104"
+                  href="215.371-5.dita#DFARS-215.371-5"
+                  xtrc="215.371-5">215.371-5</xref>
             —</p>
          <p outputclass="List1" class="- topic/p ">(a)  If only one offer is received when competitive procedures were used and the solicitation allowed fewer than 30 days for receipt of proposals, the contracting officer shall—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Consult with the requiring activity as to whether the requirements document should be revised in order to promote more competition (see FAR 6.502(b) and 11.002); and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Resolicit, allowing an additional period of at least 30 days for receipt of proposals; and</p>
          <p outputclass="List1" class="- topic/p ">(b)  For competitive solicitations in which more than one potential offeror expressed an interest in an acquisition, but only one offer was ultimately received, follow the procedures at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_215.371-2" href="PGI_215.371-2.dita#DFARS-PGI_PGI_215.371-2" xtrc="215.371-2">PGI 215.371-2</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_215.371-2"
+                  href="PGI_215.371-2.dita#DFARS-PGI_PGI_215.371-2"
+                  xtrc="215.371-2">PGI 215.371-2</xref>
             .</p>
       </conbody>
    </concept>

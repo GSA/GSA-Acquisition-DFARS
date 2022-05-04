@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-204.7302" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-204.7302"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">204.7302</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -15,8 +19,11 @@ time of award to have at least a Basic NIST SP 800-171 DoD Assessment
 that is current (i.e., not more than 3 years old unless a lesser
 time is specified in the solicitation) (see 252.204-7019).</p>
          <p outputclass="List2" class="- topic/p ">(3) The NIST SP 800-171 DoD Assessment
-Methodology is located at<ph rev="Revised March 18, 2022" class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171" format="html" scope="external" class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
+Methodology is located at<ph class="- topic/ph ">
+               <xref href="https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
             </ph>.</p>
          <p outputclass="List2" class="- topic/p ">(4) High NIST SP 800-171 DoD Assessments
 will be conducted by Government personnel using NIST SP 800-171A, “Assessing
@@ -43,7 +50,11 @@ isolated; and</p>
          <p outputclass="List3" class="- topic/p ">(iii) Media (or access to covered contractor
 information systems and equipment) upon request.</p>
          <p outputclass="List2" class="- topic/p ">(2) Contracting officers shall refer to
-PGI <xref href="PGI_204.7303-4.dita#DFARS-PGI_PGI_204.7303-4" base="DFARS-PGI_PGI_204.7303-4" outputclass="fm:ParaNumOnly" xtrc="204.7303-4" class="- topic/xref ">PGI 204.7303-4</xref> (c) for instructions on
+PGI <xref href="PGI_204.7303-4.dita#DFARS-PGI_PGI_204.7303-4"
+                  base="DFARS-PGI_PGI_204.7303-4"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="204.7303-4"
+                  class="- topic/xref ">PGI 204.7303-4</xref> (c) for instructions on
 contractor submissions of media and malicious software.</p>
          <p outputclass="List1" class="- topic/p ">(c) Information shared by the contractor
 may include contractor attributional/ proprietary information that
@@ -56,14 +67,26 @@ that includes contractor attributional/proprietary information.</p>
 a contractor or subcontractor shall not, by itself, be interpreted
 as evidence that the contractor or subcontractor has failed to provide
 adequate security on their covered contractor information systems,
-or has otherwise failed to meet the requirements of the clause at <xref href="252.204-7012.dita#DFARS-252.204-7012" base="i1380987" outputclass="fm:ParaNumOnly" xtrc="252.204-7012" class="- topic/xref ">252.204-7012</xref> ,
+or has otherwise failed to meet the requirements of the clause at <xref href="252.204-7012.dita#DFARS-252.204-7012"
+                  base="i1380987"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="252.204-7012"
+                  class="- topic/xref ">252.204-7012</xref> ,
 Safeguarding Covered Defense Information and Cyber Incident Reporting.
 When a cyber incident is reported, the contracting officer shall
 consult with the DoD component Chief Information Officer/cyber security
-office prior to assessing contractor compliance (see PGI <xref href="PGI_204.7303-3.dita#DFARS-PGI_PGI_204.7303-3" base="DFARS-PGI_PGI_204.7303-3" outputclass="fm:ParaNumOnly" xtrc="204.7303-3" class="- topic/xref ">PGI 204.7303-3</xref> (a)(3)). The contracting
+office prior to assessing contractor compliance (see PGI <xref href="PGI_204.7303-3.dita#DFARS-PGI_PGI_204.7303-3"
+                  base="DFARS-PGI_PGI_204.7303-3"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="204.7303-3"
+                  class="- topic/xref ">PGI 204.7303-3</xref> (a)(3)). The contracting
 officer shall consider such cyber incidents in the context of an
 overall assessment of a contractor’s compliance with the requirements
-of the clause at <xref href="252.204-7012.dita#DFARS-252.204-7012" base="i1380987" outputclass="fm:ParaNumOnly" xtrc="252.204-7012" class="- topic/xref ">252.204-7012</xref> .</p>
+of the clause at <xref href="252.204-7012.dita#DFARS-252.204-7012"
+                  base="i1380987"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="252.204-7012"
+                  class="- topic/xref ">252.204-7012</xref> .</p>
          <p outputclass="List1" class="- topic/p ">(e) Support services contractors directly
 supporting Government activities related to safeguarding covered
 defense information and cyber incident reporting (e.g., forensic

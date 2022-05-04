@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-216.402-2" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-216.402-2"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">216.402-2</ph> Performance incentives.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="ZRIpxE" outputclass="List2" class="- topic/p ">(1) See PGI <xref href="PGI_216.402-2.dita#DFARS-PGI_PGI_216.402-2" base="DFARS-PGI_PGI_216.402-2" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="216.402-2">PGI 216.402-2</xref> for
+         <p id="ZRIpxE" outputclass="List2" class="- topic/p ">(1) See PGI <xref href="PGI_216.402-2.dita#DFARS-PGI_PGI_216.402-2"
+                  base="DFARS-PGI_PGI_216.402-2"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="216.402-2">PGI 216.402-2</xref> for
 guidance on establishing performance incentives.</p>
          <p id="WkiOSf" outputclass="List2" class="- topic/p ">(2) Contracting officers
 shall ensure requirements about the payment of incentive fees or
@@ -19,7 +27,7 @@ of incentive fees to the contractor, based on achievement of design
 specification requirements for reliability and maintainability of
 weapons systems under the contract; or</p>
          <p id="WQKCDf" outputclass="List3" class="- topic/p ">(ii) The imposition of penalties
-to be paid by the contractor to the Government for <ph rev="Revised March 18, 2022" class="- topic/ph ">failure</ph> to achieve such
+to be paid by the contractor to the Government for <ph class="- topic/ph ">failure</ph> to achieve such
 design specification requirements (10 U.S.C. 2443).</p>
       </conbody>
    </concept>

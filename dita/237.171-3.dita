@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-237.171-3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-237.171-3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">237.171-3</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -9,7 +14,11 @@
          <p outputclass="List2" class="- topic/p ">(1)  Receive Government-provided training regarding the international obligations and laws of the United States applicable to the detention of personnel, including the Geneva Conventions; and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Provide a copy of the training receipt document to the contractor.</p>
          <p outputclass="List1" class="- topic/p ">(b)  The combatant commander responsible for the area where the detention or interrogation facility is located will arrange for the training and a training receipt document to be provided to contractor personnel.  For information on combatant commander geographic areas of responsibility and point of contact information for each command, see PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_237.171-3" href="PGI_237.171-3.dita#DFARS-PGI_PGI_237.171-3" xtrc="237.171-3">PGI 237.171-3</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_237.171-3"
+                  href="PGI_237.171-3.dita#DFARS-PGI_PGI_237.171-3"
+                  xtrc="237.171-3">PGI 237.171-3</xref>
             (b).</p>
       </conbody>
    </concept>
