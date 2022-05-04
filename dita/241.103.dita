@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-241.103" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-241.103"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">241.103</ph> Statutory and delegated authority.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List2" class="- topic/p ">(1) The contracting officer may enter into a utility service contract related to the conveyance of a utility system for a period not to exceed 50 years (10 U.S.C.2688(d)(2)).</p>
          <p outputclass="List2" class="- topic/p ">(2) The contracting officer may enter into an energy savings contract under 10 U.S.C. 2913 for a period not to exceed 25 years.</p>
          <p outputclass="List2" class="- topic/p ">(3) See 
-               <xref href="217.174.dita#DFARS-217.174" base="DFARS-217.174" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="217.174">217.174</xref>
+               <xref href="217.174.dita#DFARS-217.174"
+                  base="DFARS-217.174"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="217.174">217.174</xref>
              for authority to enter into multiyear contracts for electricity from renewable energy sources.</p>
          <p outputclass="List2" class="- topic/p ">(4) See PGI 
-               <xref href="PGI_241.103.dita#DFARS-PGI_PGI_241.103" base="DFARS-PGI_PGI_241.103" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="241.103">PGI 241.103</xref>
+               <xref href="PGI_241.103.dita#DFARS-PGI_PGI_241.103"
+                  base="DFARS-PGI_PGI_241.103"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="241.103">PGI 241.103</xref>
              for statutory authorities and maximum contract periods for utility and energy contracts.</p>
       </conbody>
    </concept>

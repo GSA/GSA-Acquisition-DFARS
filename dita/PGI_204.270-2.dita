@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-PGI_PGI_204.270-2" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-PGI_PGI_204.270-2"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.270-2</ph> Procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -23,8 +28,16 @@ that the electronic versions of contract documents posted to EDA
 are accurate representations of the contract; however, the electronic
 version is not required to display visual signatures; and</p>
          <p id="cOYhXq" outputclass="List2" class="- topic/p ">(2) For data sent to EDA
-in the data standards at <xref href="PGI_204.201.dita#DFARS-PGI_PGI_204.201" base="DFARS-PGI_PGI_204.201" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="204.201">PGI 204.201</xref>, review of the data posted to EDA against the contract
-documents verified under <xref href="PGI_204.270.dita#DFARS-PGI_PGI_204.270" base="DFARS-PGI_PGI_204.270" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="204.270">PGI 204.270</xref> (b)(1) to ensure the contract data rendered in EDA
+in the data standards at <xref href="PGI_204.201.dita#DFARS-PGI_PGI_204.201"
+                  base="DFARS-PGI_PGI_204.201"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="204.201">PGI 204.201</xref>, review of the data posted to EDA against the contract
+documents verified under <xref href="PGI_204.270.dita#DFARS-PGI_PGI_204.270"
+                  base="DFARS-PGI_PGI_204.270"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="204.270">PGI 204.270</xref> (b)(1) to ensure the contract data rendered in EDA
 is an accurate representation of the underlying contract. To facilitate
 this review process, all feeds of data to EDA in the Procurement
 Data Standard are initially placed in a view only evaluation mode,
@@ -62,8 +75,11 @@ the steps taken to resolve the deficiency in the CDR.</p>
          <p id="YMAVJr" outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">The CDR process</i>.</p>
          <p id="OrDwIF" outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Creation</i>. A CDR
 is created when a deficiency is identified in the procurement instrument.
-A list of types of CDR deficiencies is available at<ph rev="Revised March 18, 2022" class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html" format="html" scope="external" class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html</xref>
+A list of types of CDR deficiencies is available at<ph class="- topic/ph ">
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html</xref>
            .</ph>
 The specifics of the deficiency shall be documented in the description
 in enough detail to provide the assignee an understanding of the

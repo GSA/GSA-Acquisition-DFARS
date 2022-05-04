@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="DFARS-216.505">
       <title>
@@ -13,11 +14,27 @@
          </p>
          <p id="GcHyIc" outputclass="List2">(1) <i>Fair opportunity.</i>
          </p>
-         <p id="BRIAHP" outputclass="List4">(A) See <xref base="DFARS-215.101-2" href="215.101-2.dita#DFARS-215.101-2" outputclass="fm:ParaNumOnly" xtrc="215.101-2">215.101-2</xref>-70 for the limitations and prohibitions on the use of the lowest price technically acceptable source selection process, which are applicable to orders placed against multiple award indefinite delivery contracts.</p>
-         <p id="uGWfmt" outputclass="List4">(B) See <xref base="DFARS-217.7801" href="217.7801.dita#DFARS-217.7801" outputclass="fm:ParaNumOnly" xtrc="217.7801">217.7801</xref> for the prohibition on the use of reverse auctions for personal protective equipment and aviation critical safety items.</p>
-         <p id="RNWBHZ" outputclass="List2">(2) <i>Exceptions to the fair opportunity process.</i> For an order exceeding the simplified acquisition threshold, that is a follow-on to an order previously issued for the same supply or service based on a justification for an exception to fair opportunity citing the authority at FAR <xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_16_505" scope="external">16.505</xref>(b)(2)(i)(B) or (C), follow the procedures at <xref href="PGI_216.505.dita#DFARS-PGI_PGI_216.505" outputclass="fm:ParaNumOnly" xtrc="216.505">PGI 216.505</xref>(b)(2).</p>
-         <p id="ExqGWD" outputclass="List2" rev="Revised March 18, 2022">(6) Postaward notices and debriefing of awardees for orders exceeding $6 million. In addition to the notice required at FAR <xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_16_505" scope="external">16.505</xref>(b)(6), a written or oral postaward debriefing of successful and unsuccessful awardees is required for task orders and delivery orders valued at $10 million or more (section 818 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91)).</p>
-         <p id="qCrFXO" outputclass="List3" rev="Revised March 18, 2022">(ii) Follow the procedures at <xref href="216.506.dita#DFARS-216.506" outputclass="fm:ParaNumOnly" xtrc="216.506">216.506</xref> and <xref href="215.506-70.dita#DFARS-215.506-70" outputclass="fm:ParaNumOnly" xtrc="216.506-70">215.506-70</xref> when providing the postaward debriefing to successful and unsuccessful awardees for task orders or delivery orders valued at $10 million or more.</p>
+         <p id="BRIAHP" outputclass="List4">(A) See <xref base="DFARS-215.101-2"
+                  href="215.101-2.dita#DFARS-215.101-2"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="215.101-2">215.101-2</xref>-70 for the limitations and prohibitions on the use of the lowest price technically acceptable source selection process, which are applicable to orders placed against multiple award indefinite delivery contracts.</p>
+         <p id="uGWfmt" outputclass="List4">(B) See <xref base="DFARS-217.7801"
+                  href="217.7801.dita#DFARS-217.7801"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="217.7801">217.7801</xref> for the prohibition on the use of reverse auctions for personal protective equipment and aviation critical safety items.</p>
+         <p id="RNWBHZ" outputclass="List2">(2) <i>Exceptions to the fair opportunity process.</i> For an order exceeding the simplified acquisition threshold, that is a follow-on to an order previously issued for the same supply or service based on a justification for an exception to fair opportunity citing the authority at FAR <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_16_505"
+                  scope="external">16.505</xref>(b)(2)(i)(B) or (C), follow the procedures at <xref href="PGI_216.505.dita#DFARS-PGI_PGI_216.505"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="216.505">PGI 216.505</xref>(b)(2).</p>
+         <p id="ExqGWD" outputclass="List2">(6) Postaward notices and debriefing of awardees for orders exceeding $6 million. In addition to the notice required at FAR <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_16_505"
+                  scope="external">16.505</xref>(b)(6), a written or oral postaward debriefing of successful and unsuccessful awardees is required for task orders and delivery orders valued at $10 million or more (section 818 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91)).</p>
+         <p id="qCrFXO" outputclass="List3">(ii) Follow the procedures at <xref href="216.506.dita#DFARS-216.506"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="216.506">216.506</xref> and <xref href="215.506-70.dita#DFARS-215.506-70"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="216.506-70">215.506-70</xref> when providing the postaward debriefing to successful and unsuccessful awardees for task orders or delivery orders valued at $10 million or more.</p>
       </conbody>
    </concept>
 </dita>

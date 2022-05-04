@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-225.772-4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-225.772-4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.772-4</ph> Exception.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)  The prohibitions in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378940" href="225.772-2.dita#DFARS-225.772-2" xtrc="225.772-2">225.772-2</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378940"
+                  href="225.772-2.dita#DFARS-225.772-2"
+                  xtrc="225.772-2">225.772-2</xref>
             (a) and (b) do not apply if–</p>
          <p outputclass="List2" class="- topic/p ">(1)  The Under Secretary of Defense for Acquisition and Sustainment, or the  Under Secretary of Defense for Policy, without power of redelegation, determines that it is in the national security interest of the United States to enter into such contract; and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Not later than seven days before entering into such contract, the Under Secretary of Defense making the determination in paragraph (a)(1) of this section, in consultation with the Director of National Intelligence, submits to the congressional defense committees a national security assessment, in accordance with 10 U.S.C. 2279.</p>
          <p outputclass="List1" class="- topic/p ">(b)  If requesting an exception pursuant to paragraph (a) of this section, the contracting officer shall forward the request through agency channels to the address at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_225.772-3" href="PGI_225.772-3.dita#DFARS-PGI_PGI_225.772-3" xtrc="225.772-3">PGI 225.772-3</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_225.772-3"
+                  href="PGI_225.772-3.dita#DFARS-PGI_PGI_225.772-3"
+                  xtrc="225.772-3">PGI 225.772-3</xref>
             , providing any available information necessary for the Under Secretary of Defense making the determination in paragraph (a)(1) of this section to evaluate the request and perform a national security assessment, in accordance with 10 U.S.C. 2279.</p>
       </conbody>
    </concept>

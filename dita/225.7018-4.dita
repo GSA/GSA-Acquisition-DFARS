@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-225.7018-4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS-225.7018-4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.7018-4</ph> Nonavailability
 determination.</title>
@@ -11,7 +16,11 @@ determinations</i>.</p>
          <p outputclass="List2" class="- topic/p ">(1) The head of the contracting activity
 is authorized to make a nonavailability determination described
 in 
-               <xref href="225.7018-3.dita#DFARS-225.7018-3" base="i1379344" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7018-3">225.7018-3</xref>
+               <xref href="225.7018-3.dita#DFARS-225.7018-3"
+                  base="i1379344"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="225.7018-3">225.7018-3</xref>
             (d) on
 an individual basis (i.e., applies to only one contract).</p>
          <p outputclass="List2" class="- topic/p ">(2) The
@@ -20,10 +29,17 @@ analysis and written certification by the requiring activity that
 describes, with specificity, why alternatives that would not require
 a nonavailability determination are unacceptable. The template for
 an individual nonavailability determination is available at 
-               <xref href="PGI_225.7018-4.dita#DFARS-PGI_PGI_225.7018-4" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7018-4">PGI 225.7018-4</xref>(a)(2).</p>
+               <xref href="PGI_225.7018-4.dita#DFARS-PGI_PGI_225.7018-4"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="225.7018-4">PGI 225.7018-4</xref>(a)(2).</p>
          <p outputclass="List2" class="- topic/p ">(3) Provide to USD(A&amp;S) DASD (Industrial
 Policy), in accordance with the procedures at PGI 
-               <xref href="PGI_225.7018-4.dita#DFARS-PGI_PGI_225.7018-4" base="DFARS-PGI_PGI_225.7018-4" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7018-4">PGI 225.7018-4</xref>
+               <xref href="PGI_225.7018-4.dita#DFARS-PGI_PGI_225.7018-4"
+                  base="DFARS-PGI_PGI_225.7018-4"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="225.7018-4">PGI 225.7018-4</xref>
             (a)(4)—</p>
          <p outputclass="List3" class="- topic/p ">(i) A copy of individual nonavailability
 determinations with supporting documentation; and</p>
@@ -33,7 +49,11 @@ determinationsare requested, but denied.</p>
          <p class="- topic/p ">A class nonavailability determination (i.e., a nonavailability
 determinations that applies to more than one contract) requires the
 approval of the USD(A&amp;S). Follow the procedures at PGI 
-               <xref href="PGI_225.7018-4.dita#DFARS-PGI_PGI_225.7018-4" base="DFARS-PGI_PGI_225.7018-4" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.7018-4">PGI 225.7018-4</xref>
+               <xref href="PGI_225.7018-4.dita#DFARS-PGI_PGI_225.7018-4"
+                  base="DFARS-PGI_PGI_225.7018-4"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="225.7018-4">PGI 225.7018-4</xref>
             (b)
 when submitting a request for a class nonavailability determination.</p>
          <p outputclass="List2" class="- topic/p ">(1) At least 30 days before making a nonavailability

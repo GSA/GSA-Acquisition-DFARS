@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-239.7407" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS-239.7407"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">239.7407</ph> Type of contract.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">When acquiring telecommunications services, the contracting officer may use a basic agreement (see FAR 16.702) in conjunction with communication service authorizations.  When using this method, follow the procedures at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_239.7407" href="PGI_239.7407.dita#DFARS-PGI_PGI_239.7407" xtrc="239.7407">PGI 239.7407</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_239.7407"
+                  href="PGI_239.7407.dita#DFARS-PGI_PGI_239.7407"
+                  xtrc="239.7407">PGI 239.7407</xref>
             .</p>
       </conbody>
    </concept>
