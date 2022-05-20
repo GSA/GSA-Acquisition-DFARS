@@ -1,64 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-252.227-7025"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_252.227-7025" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.227-7025</ph> Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.7103-6"
-                  href="227.7103-6.dita#DFARS-227.7103-6">227.7103-6</xref>(c), 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="227.7104.dita#DFARS-227.7104"
-                  base="DFARS-227.7104"
-                  class="- topic/xref ">227.7104</xref>
+         <p class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-227.7103-6" href="227.7103-6.dita#DFARS_227.7103-6">227.7103-6</xref>(c), 
+               <xref outputclass="fm:ParaNumOnly" href="227.7104.dita#DFARS_227.7104" base="DFARS-227.7104" class="- topic/xref ">227.7104</xref>
             (f)(1), or 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="227.7203-6.dita#DFARS-227.7203-6"
-                  base="i1379842"
-                  class="- topic/xref ">227.7203-6</xref>
+               <xref outputclass="fm:ParaNumOnly" href="227.7203-6.dita#DFARS_227.7203-6" base="i1379842" class="- topic/xref ">227.7203-6</xref>
             (d), use the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">LIMITATIONS ON THE USE OR DISCLOSURE OF GOVERNMENT-FURNISHED INFORMATION MARKED WITH RESTRICTIVE LEGENDS (MAY 2013)</p>
          <p outputclass="List1" class="- topic/p ">(a)(1) For contracts in which the Government will furnish the Contractor with technical data, the terms "covered Government support contractor," "limited rights," and "Government purpose rights" are defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7013.dita#DFARS-252.227-7013"
-                  base="i1382636"
-                  class="- topic/xref ">252.227-7013</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7013.dita#DFARS_252.227-7013" base="i1382636" class="- topic/xref ">252.227-7013</xref>
             , Rights in Technical Data–Noncommercial Items.</p>
          <p outputclass="List2" class="- topic/p ">(2) For contracts in which the Government will furnish the Contractor with computer software or computer software documentation, the terms "covered Government support contractor," "government purpose rights," and "restricted rights" are defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7014.dita#DFARS-252.227-7014"
-                  base="i1382699"
-                  class="- topic/xref ">252.227-7014</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7014.dita#DFARS_252.227-7014" base="i1382699" class="- topic/xref ">252.227-7014</xref>
             , Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation.</p>
          <p outputclass="List2" class="- topic/p ">(3) For Small Business Innovation Research program contracts, the terms "covered Government support contractor," “limited rights,” “restricted rights,” and “SBIR data rights” are defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7018.dita#DFARS-252.227-7018"
-                  base="i1382791"
-                  class="- topic/xref ">252.227-7018</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7018.dita#DFARS_252.227-7018" base="i1382791" class="- topic/xref ">252.227-7018</xref>
             , Rights in Noncommercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program.</p>
          <p outputclass="List1" class="- topic/p ">(b) Technical data or computer software provided to the Contractor as Government-furnished information (GFI) under this contract may be subject to restrictions on use, modification, reproduction, release, performance, display, or further disclosure.</p>
          <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">GFI marked with limited rights, restricted rights, or SBIR data rights legends</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) The Contractor shall use, modify, reproduce, perform, or display technical data received from the Government with limited rights legends, computer software received with restricted rights legends, or SBIR technical data or computer software received with SBIR data rights legends (during the SBIR data protection period) only in the performance of this contract. The Contractor shall not, without the express written permission of the party whose name appears in the legend, release or disclose such data or software to any unauthorized person.</p>
          <p outputclass="List3" class="- topic/p ">(ii) If the Contractor is a covered Government support contractor, the Contractor is also subject to the additional terms and conditions at paragraph (b)(5) of this clause.</p>
          <p outputclass="List2" class="- topic/p ">(2) GFI marked with government purpose rights legends. The Contractor shall use technical data or computer software received from the Government with government purpose rights legends for government purposes only. The Contractor shall not, without the express written permission of the party whose name appears in the restrictive legend, use, modify, reproduce, release, perform, or display such data or software for any commercial purpose or disclose such data or software to a person other than its subcontractors, suppliers, or prospective subcontractors or suppliers, who require the data or software to submit offers for, or perform, contracts under this contract. Prior to disclosing the data or software, the Contractor shall require the persons to whom disclosure will be made to complete and sign the non-disclosure agreement at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="227.7103-7.dita#DFARS-227.7103-7"
-                  base="i1379644"
-                  class="- topic/xref ">227.7103-7</xref>
+               <xref outputclass="fm:ParaNumOnly" href="227.7103-7.dita#DFARS_227.7103-7" base="i1379644" class="- topic/xref ">227.7103-7</xref>
             .</p>
          <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">GFI marked with specially negotiated license rights legends</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) The Contractor shall use, modify, reproduce, release, perform, or display technical data or computer software received from the Government with specially negotiated license legends only as permitted in the license. Such data or software may not be released or disclosed to other persons unless permitted by the license and, prior to release or disclosure, the intended recipient has completed the non-disclosure agreement at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="227.7103-7.dita#DFARS-227.7103-7"
-                  base="i1379644"
-                  class="- topic/xref ">227.7103-7</xref>
+               <xref outputclass="fm:ParaNumOnly" href="227.7103-7.dita#DFARS_227.7103-7" base="i1379644" class="- topic/xref ">227.7103-7</xref>
             . The Contractor shall modify paragraph (1)(c) of the non-disclosure agreement to reflect the recipient's obligations regarding use, modification, reproduction, release, performance, display, and disclosure of the data or software.</p>
          <p outputclass="List3" class="- topic/p ">(ii) If the Contractor is a covered Government support contractor, the Contractor may also be subject to some or all of the additional terms and conditions at paragraph (b)(5) of this clause, to the extent such terms and conditions are required by the specially negotiated license.</p>
          <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">GFI technical data marked with commercial restrictive legends</i>.</p>

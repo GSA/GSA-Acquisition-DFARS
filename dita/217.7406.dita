@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-217.7406"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_217.7406" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">217.7406</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -18,10 +13,7 @@
          <p outputclass="List2" class="- topic/p ">(5) Any other type of contract providing for the use of UCAs; and</p>
          <p outputclass="List2" class="- topic/p ">(6) Unpriced change orders with an estimated value exceeding $5 million.</p>
          <p outputclass="List1" class="- topic/p ">(b)(1) Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.217-7027.dita#DFARS-252.217-7027"
-                  base="i1381708"
-                  class="- topic/xref ">252.217-7027</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.217-7027.dita#DFARS_252.217-7027" base="i1381708" class="- topic/xref ">252.217-7027</xref>
             , Contract Definitization, in—</p>
          <p outputclass="List3" class="- topic/p ">(i) All UCAs;</p>
          <p outputclass="List3" class="- topic/p ">(ii) Solicitations associated with UCAs;</p>

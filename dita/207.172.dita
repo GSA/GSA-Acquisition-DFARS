@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-207.172"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_207.172" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">207.172</ph> Human research.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Any DoD component sponsoring research involving human subjects—</p>
          <p outputclass="List1" class="- topic/p ">(a)  Is responsible for oversight of compliance with 32 CFR Part 219, Protection of Human Subjects; and</p>
          <p outputclass="List1" class="- topic/p ">(b)  Must have a Human Research Protection Official, as defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383408"
-                  href="252.235-7004.dita#DFARS-252.235-7004">252.235-7004</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1383408" href="252.235-7004.dita#DFARS_252.235-7004">252.235-7004</xref>
             , Protection of Human Subjects, and identified in the DoD component’s Human Research Protection Management Plan.  This official is responsible for the oversight and execution of the requirements of the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383408"
-                  href="252.235-7004.dita#DFARS-252.235-7004">252.235-7004</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1383408" href="252.235-7004.dita#DFARS_252.235-7004">252.235-7004</xref>
              and shall be identified in acquisition planning.</p>
       </conbody>
    </concept>

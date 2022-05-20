@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-PGI_PGI_250.101-3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_250.101-3" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 250.101-3</ph> Records.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(1) Departments and agencies shall-</p>
          <p outputclass="List2" class="- topic/p ">(i) Prepare a preliminary record when a
 request for a contract adjustment under FAR 50.103 is filed (see
-DFARS <xref href="250.103-5.dita#DFARS-250.103-5"
-                  base="DFARS-250.103-5"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">250.103-5</xref>(1)).</p>
+DFARS <xref href="250.103-5.dita#DFARS_250.103-5" base="DFARS-250.103-5" outputclass="fm:ParaNumOnly" class="- topic/xref ">250.103-5</xref>(1)).</p>
          <p outputclass="List2" class="- topic/p ">(ii) Prepare a final record stating the
-disposition of the request (see PGI <xref href="250.103-6.dita#DFARS-250.103-6"
-                  base="DFARS-250.103-6"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">250.103-6</xref>).</p>
+disposition of the request (see PGI <xref href="250.103-6.dita#DFARS_250.103-6" base="DFARS-250.103-6" outputclass="fm:ParaNumOnly" class="- topic/xref ">250.103-6</xref>).</p>
          <p outputclass="List2" class="- topic/p ">(iii) Designate the offices or officials
 responsible for preparing, submitting, and receiving all records
 required by DFARS Subpart 250.1. Records shall be maintained by
@@ -78,39 +68,24 @@ as for paragraph (2)(vi) of this section.</p>
 the appropriate action; e.g., "Modification," "New Contract," or
 "Letter of Denial."</p>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="10"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="FormatA"
-                    class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="4" colname="4" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="5" colname="5" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="6" colname="6" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="7" colname="7" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="8" colname="8" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="9" colname="9" colwidth="10*" class="- topic/colspec "/>
-               <colspec colnum="10"
-                        colname="10"
-                        colwidth="10*"
-                        class="- topic/colspec "/>
+            <tgroup cols="10" colsep="1" rowsep="0" outputclass="FormatA" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="2" colname="2" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="3" colname="3" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="4" colname="4" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="5" colname="5" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="6" colname="6" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="7" colname="7" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="8" colname="8" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="9" colname="9" colwidth="10*" class="- topic/colspec " />
+               <colspec colnum="10" colname="10" colwidth="10*" class="- topic/colspec " />
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="2"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry "> 
+                     <entry namest="1" nameend="2" colsep="0" rowsep="0" class="- topic/entry "> 
                         □
 PRELIMINARY
                      </entry>
-                     <entry namest="3"
-                            nameend="8"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="3" nameend="8" colsep="0" rowsep="0" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">RECORD OF</p>
                         <p outputclass="Ctr" class="- topic/p ">REQUEST
 FOR ADJUSTMENT</p>
@@ -123,22 +98,18 @@ FOR ADJUSTMENT</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="2"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="1" nameend="2" colsep="0" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">
                            DATE
 OF REQUEST
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
                      <entry namest="9" nameend="10" class="- topic/entry "> 
                         DATE RECEIVED BY GOVERNMENT
                      </entry>
@@ -154,29 +125,21 @@ NAME AND ADDRESS</p>
                      <entry namest="1" nameend="10" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">NAME AND ADDRESS
 OF CONTRACTOR'S REPRESENTATIVE, IF ANY</p>
-                        <p class="- topic/p "> </p>
+                        <p class="- topic/p ">&#xa0;</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="5"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="1" nameend="5" colsep="0" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">COGNIZANT
 CONTRACTING OFFICER OR OFFICE</p>
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry namest="6" nameend="10" class="- topic/entry ">
                         <p class="- topic/p ">PROCURING ACTIVITY</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="5"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="1" nameend="5" colsep="0" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">PROPERTY
 OR SERVICE INVOLVED</p>
                      </entry>
@@ -186,22 +149,14 @@ DATE OF REQUEST</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="3"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="1" nameend="3" colsep="0" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">
                            CONTRACT
 NUMBER
                         </p>
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry namest="4"
-                            nameend="5"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="4" nameend="5" colsep="0" rowsep="0" class="- topic/entry ">
                         DATE 
                         
                      </entry>
@@ -211,56 +166,40 @@ NUMBER
                      <entry namest="8" nameend="10" class="- topic/entry ">TYPE OF CONTRACT</entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="5"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="1" nameend="5" colsep="0" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">CATEGORY
 OF CASE</p>
-                        <p class="- topic/p "> </p>
+                        <p class="- topic/p ">&#xa0;</p>
                      </entry>
                      <entry namest="6" nameend="10" class="- topic/entry ">
                         <p class="- topic/p ">AMOUNT OF DESCRIPTION OF REQUEST</p>
-                        <p class="- topic/p "> </p>
+                        <p class="- topic/p ">&#xa0;</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="8"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="1" nameend="8" colsep="0" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">ACTION
 BELOW SECRETARIAL LEVEL</p>
-                        <p class="- topic/p "> </p>
+                        <p class="- topic/p ">&#xa0;</p>
                      </entry>
                      <entry namest="9" nameend="10" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">DATE</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="8"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="1" nameend="8" colsep="0" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">ACTION
 BY CAB</p>
-                        <p class="- topic/p "> </p>
+                        <p class="- topic/p ">&#xa0;</p>
                      </entry>
                      <entry namest="9" nameend="10" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">DATE</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
-                     <entry namest="1"
-                            nameend="8"
-                            colsep="0"
-                            rowsep="0"
-                            class="- topic/entry ">
+                     <entry namest="1" nameend="8" colsep="0" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">IMPLEMENTATION</p>
-                        <p class="- topic/p "> </p>
+                        <p class="- topic/p ">&#xa0;</p>
                      </entry>
                      <entry namest="9" nameend="10" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">
@@ -272,14 +211,14 @@ BY CAB</p>
                      <entry namest="1" nameend="10" rowsep="0" class="- topic/entry ">
                         <p class="- topic/p ">ADDITIONAL DATA
 OR REMARKS</p>
-                        <p class="- topic/p "> </p>
+                        <p class="- topic/p ">&#xa0;</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry namest="1" nameend="5" colsep="0" class="- topic/entry ">
                         <p class="- topic/p ">DATE THIS RECORD
 SIGNED</p>
-                        <p class="- topic/p "> </p>
+                        <p class="- topic/p ">&#xa0;</p>
                      </entry>
                      <entry namest="6" nameend="10" class="- topic/entry ">
                         <p class="- topic/p ">SIGNATURE</p>

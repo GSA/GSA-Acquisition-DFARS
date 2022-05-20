@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-PGI_PGI_245.201-70"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_PGI_245.201-70" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 245.201-70</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -69,10 +63,7 @@ for such characteristics as dimensions, measure, magnitude, electrical
 rating, etc. Also, the numerical designator for a unit of issue
 described in table 53, unit of issue codes, DoD 4100.39-M, Federal Logistics
 Information System (FLIS) Procedures, volume 10. See http://www.dla.mil/HQ/InformationOperations/Offers/Services/TrainingandReference/FLISProcedures.aspx.</p>
-         <p outputclass="List2" class="- topic/p ">(13) “Reparable.” See DFARS clause <xref href="252.211-7007.dita#DFARS-252.211-7007"
-                  base="DFARS-252.211-7007"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.211-7007</xref>.</p>
+         <p outputclass="List2" class="- topic/p ">(13) “Reparable.” See DFARS clause <xref href="252.211-7007.dita#DFARS_252.211-7007" base="DFARS-252.211-7007" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.211-7007</xref>.</p>
          <p outputclass="List2" class="- topic/p ">(14) “Requiring activity” means the DoD
 organization, or part of an organization, that identifies and defines
 a requirement for supplies or services, and requests the initiation
@@ -89,22 +80,19 @@ type designators are as follows:</p>
 Type Designation System, February 17, 1998.</p>
          <p outputclass="List3" class="- topic/p ">(ii) Aerospace Vehicles: DoD 4120.15-L,
 Model Designation of Military Aerospace Vehicles, May 12, 2004.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Aerospace Engines and Equipment:<i class="+ topic/ph hi-d/i "/> MIL-HDBK-1812,
+         <p outputclass="List3" class="- topic/p ">(iii) Aerospace Engines and Equipment:<i class="+ topic/ph hi-d/i "></i> MIL-HDBK-1812,
 Type Designation, Assignment and Method of Obtaining, February 14,
 1997.</p>
-         <p outputclass="List3" class="- topic/p ">(iv) Ships:<i class="+ topic/ph hi-d/i "/> SECNAVINST 5030.8, Classification
+         <p outputclass="List3" class="- topic/p ">(iv) Ships:<i class="+ topic/ph hi-d/i "></i> SECNAVINST 5030.8, Classification
 of Naval Ships and Craft, November 21, 2006.</p>
-         <p outputclass="List3" class="- topic/p ">(v) Army Watercraft:<i class="+ topic/ph hi-d/i "/> AR 56-9, Watercraft,
+         <p outputclass="List3" class="- topic/p ">(v) Army Watercraft:<i class="+ topic/ph hi-d/i "></i> AR 56-9, Watercraft,
 February 7, 2002</p>
          <p outputclass="List3" class="- topic/p ">(vi) Army Nomenclature: MIL-STD-1464A (AR),
 Army Nomenclature System, May 15, 1987.</p>
          <p outputclass="List3" class="- topic/p ">(vii) Navy Nomenclature: MIL-STD-1661(OS),
 Mark and Mod Nomenclature System, August 1, 1978.</p>
          <p outputclass="List2" class="- topic/p ">(17) “Unique item identifier (UII).” See
-DFARS clause <xref href="252.211-7003.dita#DFARS-252.211-7003"
-                  base="DFARS-252.211-7003"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.211-7003</xref>.</p>
+DFARS clause <xref href="252.211-7003.dita#DFARS_252.211-7003" base="DFARS-252.211-7003" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.211-7003</xref>.</p>
          <p outputclass="List2" class="- topic/p ">(18) “Unit of measure” means a measurement
 term, as listed in Table 81, Unit of Measure Designations, Volume
 10, DoD 4100.39-M, Federal Logistics Information System, used in

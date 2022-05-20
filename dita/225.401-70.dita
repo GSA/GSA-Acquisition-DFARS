@@ -1,40 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-225.401-70"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_225.401-70" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.401-70</ph> End products subject to trade agreements.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Acquisitions of end products in the following product service groups (PSGs) are covered by trade agreements if the value of the acquisition is at or above the applicable trade agreement threshold and no exception applies. If an end product is not in one of the listed groups, the trade agreements do not apply. The definition of Caribbean Basin country end products in FAR 25.003 excludes those end products that are not eligible for duty-free treatment under 19 U.S.C. 2703(b). Therefore certain watches, watch parts, and luggage from certain Caribbean Basin countries are not eligible products. However, 
-               <xref href="225.003.dita#DFARS-225.003"
-                  base="DFARS-225.003"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.003</xref>
+               <xref href="225.003.dita#DFARS_225.003" base="DFARS-225.003" outputclass="fm:ParaNumOnly" class="- topic/xref ">225.003</xref>
              expands the definition of Caribbean Basin country end products to include petroleum and any product derived from petroleum, in accordance with Section 8094 of Pub. L. 103-139.</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="10*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="90*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="10*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="90*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
@@ -46,10 +24,10 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -527,7 +505,7 @@
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
       </conbody>
    </concept>
 </dita>

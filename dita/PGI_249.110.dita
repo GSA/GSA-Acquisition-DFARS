@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-PGI_PGI_249.110"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_PGI_249.110" outputclass="3" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 249.110</ph> Settlement negotiation
 memorandum.</title>
@@ -23,19 +17,10 @@ Part I of the format in Table 49-1 and Part II of the format in
 Table 49-2, Settlement Memorandum for Cost-Reimbursement Contracts,
 for the termination contracting officer's settlement memorandum
 for cost-reimbursement contracts:</p>
-         <p class="- topic/p "/>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <p class="- topic/p "></p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -85,70 +70,36 @@ is filed on other than inventory basis.</p>
 whom (audit, engineering, legal, or other).</p>
          <p class="- topic/p ">PART II—SUMMARY OF CONTRACTOR'S CLAIM AND NEGOTIATED SETTLEMENT</p>
          <p class="- topic/p ">Prepare a summary substantially as follows:</p>
-         <p class="- topic/p "/>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="23*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="14*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <p class="- topic/p "></p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="23*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="17*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="14*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="15*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="15*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="6" colname="6" colwidth="15*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">Item</p>
                         <p class="- topic/p ">Claimed</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">Contractor's Proposal</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">Dollars Accepted</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">Costs Questioned</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">Unresolved Items</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
@@ -157,7 +108,7 @@ whom (audit, engineering, legal, or other).</p>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">1. Contractor's costs as set forth
 on settlement proposal. Metals, raw materials, etc.</p>
                         <p class="- topic/p ">Total</p>
@@ -177,47 +128,47 @@ progress &amp; advance payments</p>
                         <p class="- topic/p ">11. Net payments requested</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                </thead>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p class="- topic/p ">PART III—DISCUSSION OF SETTLEMENT</p>
          <p class="- topic/p ">1. Contractor's cost.</p>
          <p class="- topic/p ">a. If the settlement was negotiated on the basis of individual
@@ -266,100 +217,51 @@ has been accounted for.</p>
          <p class="- topic/p ">12. Special tooling. If involved, furnish comment on disposition.</p>
          <p class="- topic/p ">13. Summary of settlement. Summarize the settlement in tabular
 form substantially as follows:</p>
-         <p class="- topic/p "/>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="9"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="13*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="13*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="8"
-                        colname="8"
-                        colwidth="13*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="9"
-                        colname="9"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <p class="- topic/p "></p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="9" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="6" colname="6" colwidth="13*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="7" colname="7" colwidth="13*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="8" colname="8" colwidth="13*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="9" colname="9" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                </thead>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Amount</p>
@@ -368,17 +270,17 @@ form substantially as follows:</p>
                         <p class="- topic/p ">Amount</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Claimed</p>
@@ -387,19 +289,19 @@ form substantially as follows:</p>
                         <p class="- topic/p ">Allowed</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -407,442 +309,433 @@ form substantially as follows:</p>
 credits)</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Plus: Subcontractor charges (after disposal credits)</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Gross settlement:</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Less: disposal credits—Prime</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Net settlement—Less:</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Prior payment credits (this settlement)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Previous partial settlements</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Other credits or deductions</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Net payment:</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Total contract price (complete termination)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Contract Price of Items Terminated (for
 partial termination)—Less:</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Total payments to date</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Net payment from this settlement</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Fund reserved for reservations</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Reduction in contract price</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p class="- topic/p ">14. Exclusions. Describe any proposed reservation of rights to
 the Government or to the contractor.</p>
          <p class="- topic/p ">15. Include a statement that the settlement is fair and reasonable
 for the Government and the contractor. The contracting officer shall
 sign and date the memorandum.</p>
-         <p class="- topic/p "/>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <p class="- topic/p "></p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -852,20 +745,11 @@ sign and date the memorandum.</p>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
-         <p class="- topic/p "/>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <p class="- topic/p "></p>
+         <p class="- topic/p "></p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -876,7 +760,7 @@ CONTRACTS</p>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p class="- topic/p ">PART II—SUMMARY OF SETTLEMENT</p>
          <p class="- topic/p ">1. Summary. Summarize the proposed settlement in tabular form
 substantially as shown in Tables 49-3 and 49-4. Partial settlements
@@ -919,37 +803,13 @@ identify and explain the reason for inclusion of such costs.</p>
 with subcontractors.</p>
          <p outputclass="List2" class="- topic/p ">(12) Use the following summary where settlement
 includes costs and fixed-fee in a complete termination:</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="topbot" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="4"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="42*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="42*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="4" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="42*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="42*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -958,8 +818,8 @@ includes costs and fixed-fee in a complete termination:</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">$_______</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -968,8 +828,8 @@ includes costs and fixed-fee in a complete termination:</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">_______</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -978,8 +838,8 @@ includes costs and fixed-fee in a complete termination:</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">_______</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -989,9 +849,9 @@ includes costs and fixed-fee in a complete termination:</p>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1001,9 +861,9 @@ includes costs and fixed-fee in a complete termination:</p>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1012,8 +872,8 @@ includes costs and fixed-fee in a complete termination:</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">_______</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1022,8 +882,8 @@ includes costs and fixed-fee in a complete termination:</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">$_______</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1033,8 +893,8 @@ fee</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">_______</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1044,9 +904,9 @@ fee</p>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1056,19 +916,19 @@ fee</p>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Final contract price</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1076,14 +936,14 @@ fee</p>
 of costs and $_______ for adjusted fixed fee)</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">_______</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1092,13 +952,13 @@ of costs and $_______ for adjusted fixed fee)</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">_______</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p outputclass="List2" class="- topic/p ">(13) Plant clearance. Indicate dollar value
 of termination inventory and state whether plant clearance has been
 completed. Attach consolidated plant clearance report (SF 1424,
@@ -1108,18 +968,9 @@ all Government property has been accounted for.</p>
          <p outputclass="List2" class="- topic/p ">(15) Include a statement that the settlement
 is fair and reasonable to the Government and the contractor. The
 contracting officer shall sign and date the memorandum.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1129,136 +980,67 @@ contracting officer shall sign and date the memorandum.</p>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="13"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="8"
-                        colname="8"
-                        colwidth="7*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="9"
-                        colname="9"
-                        colwidth="7*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="10"
-                        colname="10"
-                        colwidth="7*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="11"
-                        colname="11"
-                        colwidth="7*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="12"
-                        colname="12"
-                        colwidth="7*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="13"
-                        colname="13"
-                        colwidth="10*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <p class="- topic/p "></p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="13" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="6" colname="6" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="7" colname="7" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="8" colname="8" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="9" colname="9" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="10" colname="10" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="11" colname="11" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="12" colname="12" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="13" colname="13" colwidth="10*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
                         <p class="- topic/p ">AMOUNT CLAIMED</p>
@@ -1267,25 +1049,25 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">AMOUNT ALLOWED</p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">1. Previous reimbursed costs—Prime and Subs</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">$</p>
@@ -1294,21 +1076,21 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">$</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1321,27 +1103,27 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1354,27 +1136,27 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">$</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1387,27 +1169,27 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">$</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1420,27 +1202,27 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1453,27 +1235,27 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">$</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1486,31 +1268,31 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">$__________</p>
@@ -1519,31 +1301,31 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">$_________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">___________</p>
@@ -1552,64 +1334,64 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Less: Deductions not reflected in Items 1-7</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">a. Disposal credits</p>
@@ -1618,72 +1400,72 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">$_______</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="10" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="11" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">b. Other charges against contractor</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="10" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="11" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">arising from contract</p>
@@ -1692,132 +1474,132 @@ contracting officer shall sign and date the memorandum.</p>
                         <p class="- topic/p ">$_______</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="10" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="11" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">8. Net settlement</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">$</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Less: Prior payment credits</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="10" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">9. Net payment</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">$</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1826,37 +1608,37 @@ previous partial settlements effected on account of this particular
 termination):</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Aggregate gross amount of previous settlements</p>
@@ -1865,31 +1647,31 @@ termination):</p>
                         <p class="- topic/p ">$_________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Aggregate net amount of previous partial settlements</p>
@@ -1898,31 +1680,31 @@ termination):</p>
                         <p class="- topic/p ">$_________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Aggregate net payment provided in previous
@@ -1932,98 +1714,98 @@ partial settlements</p>
                         <p class="- topic/p ">$_________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Aggregate amount allowed for prime contractor acquired property</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">taken over by the Government in connection with
 previous</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">partial settlements</p>
@@ -2032,93 +1814,44 @@ previous</p>
                         <p class="- topic/p ">$_________</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                     <entry colname="12" class="- topic/entry "/>
-                     <entry colname="13" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="11" class="- topic/entry " />
+                     <entry colname="12" class="- topic/entry " />
+                     <entry colname="13" class="- topic/entry " />
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
-         <p class="- topic/p "/>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="9"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="9*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="8"
-                        colname="8"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="9"
-                        colname="9"
-                        colwidth="8*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <p class="- topic/p "></p>
+         <p class="- topic/p "></p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="9" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="6" colname="6" colwidth="20*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="7" colname="7" colwidth="9*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="8" colname="8" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="9" colname="9" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -2126,25 +1859,25 @@ previous</p>
 ON SF 1437*</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Amounts Claimed by</p>
@@ -2153,21 +1886,21 @@ ON SF 1437*</p>
                         <p class="- topic/p ">Auditor's Recommendation</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -2186,21 +1919,21 @@ ON SF 1437*</p>
                         <p class="- topic/p ">TCO's</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Proposal</p>
@@ -2215,16 +1948,16 @@ ON SF 1437*</p>
                         <p class="- topic/p ">Computation</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2232,28 +1965,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">1. Direct material</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2261,28 +1994,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">2. Direct labor</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2290,28 +2023,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">3. Indirect factory expense</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2320,28 +2053,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">special tools</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2349,28 +2082,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">5. Other costs</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2379,28 +2112,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">expenses</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2408,28 +2141,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">7. Fee</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2437,28 +2170,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">8. Settlement expense</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2466,28 +2199,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">9. Settlement with subs</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2495,28 +2228,28 @@ ON SF 1437*</p>
                         <p class="- topic/p ">10. Total costs (Items 1-9)</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -2525,26 +2258,26 @@ ON SF 1437*</p>
 of technical personnel as required.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
       </conbody>
    </concept>
 </dita>

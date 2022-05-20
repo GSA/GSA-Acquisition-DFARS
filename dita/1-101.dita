@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_1-101"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_1-101" outputclass="4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">1-101</ph> Applicability.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -15,10 +9,7 @@
          <p outputclass="List2" class="- topic/p ">(1) Any centrally managed replenishment or provisioned part (hereinafter referred to as “part”) for military systems and equipment; and</p>
          <p outputclass="List2" class="- topic/p ">(2) All DoD personnel involved with design control, acquisition, and management of such parts including, but not limited to, project/program/system managers, technical personnel, contracting officers, legal counsel, inventory managers, inspectors, and small business specialists and technical advisors.</p>
          <p outputclass="List1" class="- topic/p ">(b) The Spare Parts Breakout Program does not apply to—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Component breakout (see DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-207.171"
-                  href="207.171.dita#DFARS-207.171">207.171</xref>);</p>
+         <p outputclass="List2" class="- topic/p ">(1) Component breakout (see DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-207.171" href="207.171.dita#DFARS_207.171">207.171</xref>);</p>
          <p outputclass="List2" class="- topic/p ">(2) Foreign military sale peculiar items;</p>
          <p outputclass="List2" class="- topic/p ">(3) Insurance items (e.g., one-time buy);</p>
          <p outputclass="List2" class="- topic/p ">(4) Obsolete items;</p>

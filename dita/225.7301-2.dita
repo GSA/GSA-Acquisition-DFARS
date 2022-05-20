@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-225.7301-2"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_225.7301-2" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.7301-2</ph> Solicitation approval for sole source contracts.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">The contracting officer shall coordinate through agency channels with the Principal Director, Defense Pricing and Contracting, prior to issuing a solicitation for a firm-fixed-price sole source contract type for U.S./FMS combined requirements for a major system that has an estimated contract value that exceeds $500 million.  See also 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-201.170"
-                  href="201.170.dita#DFARS-201.170"
-                  xtrc="201.170">201.170</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-201.170" href="201.170.dita#DFARS_201.170" xtrc="201.170">201.170</xref>
              and PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_216.403-1"
-                  href="PGI_216.403-1.dita#DFARS-PGI_PGI_216.403-1"
-                  xtrc="216.403-1">PGI 216.403-1</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_216.403-1" href="PGI_216.403-1.dita#DFARS_PGI_PGI_216.403-1" xtrc="216.403-1">PGI 216.403-1</xref>
             (1)(ii)(B) and (C).</p>
       </conbody>
    </concept>

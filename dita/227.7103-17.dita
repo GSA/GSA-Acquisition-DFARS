@@ -1,31 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-227.7103-17"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_227.7103-17" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">227.7103-17</ph> Overseas contracts with foreign sources.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)  The clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382960"
-                  href="252.227-7032.dita#DFARS-252.227-7032">252.227-7032</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382960" href="252.227-7032.dita#DFARS_252.227-7032">252.227-7032</xref>
             , Rights in Technical Data and Computer Software (Foreign), may be used in contracts with foreign contractors to be performed overseas, except Canadian purchases (see paragraph (c) of this subsection), in lieu of the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382636"
-                  href="252.227-7013.dita#DFARS-252.227-7013">252.227-7013</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382636" href="252.227-7013.dita#DFARS_252.227-7013">252.227-7013</xref>
             , Rights in Technical Data–Noncommercial Items, when the Government requires the unrestricted right to use, modify, reproduce, perform, display, release or disclose all technical data to be delivered under the contract.  Do not use the clause in contracts for existing or special works.</p>
          <p outputclass="List1" class="- topic/p ">(b)  When the Government does not require unlimited rights, the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382960"
-                  href="252.227-7032.dita#DFARS-252.227-7032">252.227-7032</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382960" href="252.227-7032.dita#DFARS_252.227-7032">252.227-7032</xref>
              may be modified to accommodate the needs of a specific overseas procurement situation.  The Government should obtain rights in the technical data that are not less than the rights the Government would have obtained under the data rights clause(s) prescribed in this part for a comparable procurement performed within the United States or its outlying areas.</p>
          <p outputclass="List1" class="- topic/p ">(c)  Contracts for Canadian purchases shall include the appropriate data rights clause prescribed in this part for a comparable procurement performed within the United States or its outlying areas.</p>
       </conbody>

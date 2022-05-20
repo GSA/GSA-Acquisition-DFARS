@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-PGI_PGI_204.7103"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_204.7103" outputclass="3" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.7103</ph> Contract line
 items.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="gyoJJP" outputclass="List1" class="- topic/p ">(a) Separately identifiable
 contract line and subline items (i.e., all except those with characteristics
-described in DFARS <xref href="204.7103-1.dita#DFARS-204.7103-1"
-                  base="DFARS-204.7103-1"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.7103-1</xref>(a)(2)(iii)
-or <xref href="204.7104-1.dita#DFARS-204.7104-1"
-                  base="DFARS-204.7104-1"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.7104-1</xref>(a))
+described in DFARS <xref href="204.7103-1.dita#DFARS_204.7103-1" base="DFARS-204.7103-1" outputclass="fm:ParaNumOnly" class="- topic/xref ">204.7103-1</xref>(a)(2)(iii)
+or <xref href="204.7104-1.dita#DFARS_204.7104-1" base="DFARS-204.7104-1" outputclass="fm:ParaNumOnly" class="- topic/xref ">204.7104-1</xref>(a))
 shall include a description of the item or service being procured,
 the associated Product or Service Code (PSC), the quantity, a unit
 of measure, defined acceptance and inspection locations and requirements,
@@ -36,10 +25,7 @@ the ‘Worksite’ section under ‘Reference’.</p>
          <p id="fjbPYy" outputclass="List2" class="- topic/p ">(2) The list of available
 units of measure is on the Defense <ph id="a8e47df7r" class="- topic/ph ">Pricing and Contracting</ph> website
 at<ph class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/docs/pds/Line_Item_UoM_List.xlsx"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/docs/pds/Line_Item_UoM_List.xlsx</xref>
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/docs/pds/Line_Item_UoM_List.xlsx" format="html" scope="external" class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/docs/pds/Line_Item_UoM_List.xlsx</xref>
            .</ph>
          </p>
          <p id="ZODwno" outputclass="List2" class="- topic/p ">(3) Delivery and acceptance
@@ -92,42 +78,14 @@ illustrate when the requirements at paragraph (a) apply—</p>
 subline items. The rule applies to subline items 0001AA and 0001AB.
 It does not apply to the line item 0001, because it does not have
 a deliverable.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="2" colname="2" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="3" colname="3" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="4" colname="4" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="5" colname="5" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="6" colname="6" colwidth="17*" colsep="0" class="- topic/colspec " />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -157,16 +115,16 @@ a deliverable.</p>
                         <p id="egjMdq" class="- topic/p ">Widgets</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="iUYzfN" class="- topic/p "/>
+                        <p id="iUYzfN" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="BHausY" class="- topic/p "/>
+                        <p id="BHausY" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="rDKXJl" class="- topic/p "/>
+                        <p id="rDKXJl" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="euEVGZ" class="- topic/p "/>
+                        <p id="euEVGZ" class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -216,42 +174,14 @@ a deliverable.</p>
 items. The rule applies to line item 0001. It does not apply to
 subline items 000101, 000102, and 000103 because they do not have
 deliverables.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="2" colname="2" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="3" colname="3" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="4" colname="4" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="5" colname="5" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="6" colname="6" colwidth="17*" colsep="0" class="- topic/colspec " />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -304,16 +234,16 @@ Study</p>
 $20,000)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="bBhfDp" class="- topic/p "/>
+                        <p id="bBhfDp" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="KzdsWX" class="- topic/p "/>
+                        <p id="KzdsWX" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="juuNeX" class="- topic/p "/>
+                        <p id="juuNeX" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="InTmqZ" class="- topic/p "/>
+                        <p id="InTmqZ" class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -326,16 +256,16 @@ $20,000)</p>
 $20,000)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="OCWXIu" class="- topic/p "/>
+                        <p id="OCWXIu" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="TaYzwc" class="- topic/p "/>
+                        <p id="TaYzwc" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="fxDJCM" class="- topic/p "/>
+                        <p id="fxDJCM" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="ffyFkl" class="- topic/p "/>
+                        <p id="ffyFkl" class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -347,16 +277,16 @@ $20,000)</p>
                         <p id="LiiirI" class="- topic/p ">(AC: $20,000)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="pdRRct" class="- topic/p "/>
+                        <p id="pdRRct" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="cjoVcS" class="- topic/p "/>
+                        <p id="cjoVcS" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="UyPlRy" class="- topic/p "/>
+                        <p id="UyPlRy" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="EsSyyq" class="- topic/p "/>
+                        <p id="EsSyyq" class="- topic/p "></p>
                      </entry>
                   </row>
                </tbody>
@@ -364,42 +294,14 @@ $20,000)</p>
          </table>
          <p id="bwarBq" outputclass="List2" class="- topic/p ">(3) Line item with no subline
 items. The rule applies.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="2" colname="2" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="3" colname="3" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="4" colname="4" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="5" colname="5" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="6" colname="6" colwidth="17*" colsep="0" class="- topic/colspec " />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -446,42 +348,14 @@ items. The rule applies.</p>
          </table>
          <p id="JiJudv" outputclass="List2" class="- topic/p ">(4) Line item is parent to
 an exhibit. The rule applies to the exhibit lines.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="2" colname="2" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="3" colname="3" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="4" colname="4" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="5" colname="5" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="6" colname="6" colwidth="17*" colsep="0" class="- topic/colspec " />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -512,16 +386,16 @@ an exhibit. The rule applies to the exhibit lines.</p>
                         <p id="VEPNCQ" class="- topic/p ">($117.00)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="vqHOxU" class="- topic/p "/>
+                        <p id="vqHOxU" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="fVRBSj" class="- topic/p "/>
+                        <p id="fVRBSj" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="FUJKHj" class="- topic/p "/>
+                        <p id="FUJKHj" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="TnwzNy" class="- topic/p "/>
+                        <p id="TnwzNy" class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -570,42 +444,14 @@ an exhibit. The rule applies to the exhibit lines.</p>
          <p id="eFBFvJ" outputclass="List2" class="- topic/p ">(5) Line is parent to a subline
 item which refers to an exhibit. The rule applies to the exhibit
 lines.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="17*"
-                        colsep="0"
-                        class="- topic/colspec "/>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="2" colname="2" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="3" colname="3" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="4" colname="4" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="5" colname="5" colwidth="17*" colsep="0" class="- topic/colspec " />
+               <colspec colnum="6" colname="6" colwidth="17*" colsep="0" class="- topic/colspec " />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -635,16 +481,16 @@ lines.</p>
                         <p id="jdVeVK" class="- topic/p ">Widget program</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="lDOTOI" class="- topic/p "/>
+                        <p id="lDOTOI" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="hWhRSd" class="- topic/p "/>
+                        <p id="hWhRSd" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="uAOLOE" class="- topic/p "/>
+                        <p id="uAOLOE" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="SYkJRb" class="- topic/p "/>
+                        <p id="SYkJRb" class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -676,16 +522,16 @@ lines.</p>
                         <p id="HsaZNX" class="- topic/p ">($117.00)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="gsSEux" class="- topic/p "/>
+                        <p id="gsSEux" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="FJPFbK" class="- topic/p "/>
+                        <p id="FJPFbK" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="aaXNqA" class="- topic/p "/>
+                        <p id="aaXNqA" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="RcVZJK" class="- topic/p "/>
+                        <p id="RcVZJK" class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">

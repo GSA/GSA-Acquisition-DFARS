@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-252.228-7001"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_252.228-7001" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.228-7001</ph> Ground and Flight Risk.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
-               <xref href="228.370.dita#DFARS-228.370"
-                  base="DFARS-228.370"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">228.370</xref>
+               <xref href="228.370.dita#DFARS_228.370" base="DFARS-228.370" outputclass="fm:ParaNumOnly" class="- topic/xref ">228.370</xref>
             (b), use the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">GROUND AND FLIGHT RISK (JUN 2010)</p>
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
@@ -64,7 +56,7 @@
          <p outputclass="List2" class="- topic/p ">(6) Is sustained while the aircraft is being worked on and is a direct result of the work unless such damage, loss, or destruction would be covered by insurance which would have been maintained by the Contractor, but for the Government's assumption of risk.</p>
          <p outputclass="List1" class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">Contractor’s share of loss and Contractor’s deductible under the</i> Government’s self-insurance.</p>
          <p outputclass="List2" class="- topic/p ">(1) The Contractor assumes the risk of loss and shall be responsible for the Contractor’s share of loss under the Government’s self-insurance. That share is the lesser of—</p>
-         <p outputclass="List3" class="- topic/p "/>
+         <p outputclass="List3" class="- topic/p "></p>
          <p outputclass="List3" class="- topic/p ">(i) The first $100,000 of loss or damage to aircraft in the open, during operation, or in flight resulting from each separate event, except for reasonable wear and tear and to the extent the loss or damage is caused by negligence of Government personnel; or</p>
          <p outputclass="List3" class="- topic/p ">(ii) Twenty percent of the price or estimated cost of this contract.</p>
          <p outputclass="List2" class="- topic/p ">(2) If the Government elects to require that the aircraft be replaced or restored by the Contractor to its condition immediately prior to the damage, the equitable adjustment in the price authorized by paragraph (j) of this clause shall not include the dollar amount of the risk assumed by the Contractor.</p>
@@ -87,7 +79,7 @@
          <p outputclass="List3" class="- topic/p ">(iii) All known interests in commingled property of which aircraft are a part; and</p>
          <p outputclass="List3" class="- topic/p ">(iv) The insurance, if any, covering the interest in commingled property.</p>
          <p outputclass="List2" class="- topic/p ">(2) The Contracting Officer will make an equitable adjustment for expenditures made by the Contractor in performing the obligations under this paragraph.</p>
-         <p outputclass="List1" class="- topic/p ">(j) <i class="+ topic/ph hi-d/i ">Loss prior to delivery.</i>(1)<i class="+ topic/ph hi-d/i "/> If prior to delivery and acceptance by the Government, aircraft is damaged, lost, or destroyed and the Government assumed the risk, the Government shall either—</p>
+         <p outputclass="List1" class="- topic/p ">(j) <i class="+ topic/ph hi-d/i ">Loss prior to delivery.</i>(1)<i class="+ topic/ph hi-d/i "></i> If prior to delivery and acceptance by the Government, aircraft is damaged, lost, or destroyed and the Government assumed the risk, the Government shall either—</p>
          <p outputclass="List3" class="- topic/p ">(i) Require that the aircraft be replaced or restored by the Contractor to the condition immediately prior to the damage, in which event the Contracting Officer will make an equitable adjustment in the contract price and the time for contract performance; or</p>
          <p outputclass="List3" class="- topic/p ">(ii) Terminate this contract with respect to the aircraft. Notwithstanding the provisions in any other termination clause under this contract, in the event of termination, the Contractor shall be paid the contract price for the aircraft (or, if applicable, any work to be performed on the aircraft) less any amount the Contracting Officer determines—</p>
          <p outputclass="List4" class="- topic/p ">(A) It would have cost the Contractor to complete the aircraft (or any work to be performed on the aircraft) together with anticipated profit on uncompleted work; and</p>

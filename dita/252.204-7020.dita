@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-252.204-7020"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.204-7020" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.204-7020</ph> NIST SP 800-171
 DoD Assessment Requirements.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="xsQYda" class="- topic/p ">As prescribed in <xref href="204.7304.dita#DFARS-204.7304"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.7304</xref> (e),
+         <p id="xsQYda" class="- topic/p ">As prescribed in <xref href="204.7304.dita#DFARS_204.7304" outputclass="fm:ParaNumOnly" class="- topic/xref ">204.7304</xref> (e),
 use the following clause:</p>
          <p id="ZAudzo" outputclass="Ctr_SmCaps" class="- topic/p ">NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS
 (MAR 2022)</p>
@@ -71,10 +65,7 @@ The Contractor shall provide access to its facilities, systems,
 and personnel necessary for the Government to conduct a Medium or
 High NIST SP 800-171 DoD Assessment, as described in NIST SP 800-171
 DoD Assessment Methodology at <ph id="ui8olmks" class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
+               <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html" format="html" scope="external" class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
             </ph>,
 if necessary.</p>
          <p id="jsKokg" outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Procedures</i>. Summary
@@ -113,17 +104,13 @@ plans are addressed in the email described at paragraph (b)(1)(i)
 of this section, the Contractor shall use the following format for
 the report:</p>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="Choice"
-                    class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="6" colname="6" colwidth="17*" class="- topic/colspec "/>
+            <tgroup cols="6" colsep="1" rowsep="0" outputclass="Choice" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec " />
+               <colspec colnum="2" colname="2" colwidth="17*" class="- topic/colspec " />
+               <colspec colnum="3" colname="3" colwidth="17*" class="- topic/colspec " />
+               <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec " />
+               <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec " />
+               <colspec colnum="6" colname="6" colwidth="17*" class="- topic/colspec " />
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -149,62 +136,62 @@ architecture</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p id="yeyppG" class="- topic/p "/>
+                        <p id="yeyppG" class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p id="sDSKpb" class="- topic/p "/>
+                        <p id="sDSKpb" class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="PutjlH" class="- topic/p "/>
+                        <p id="PutjlH" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="uqMCfa" class="- topic/p "/>
+                        <p id="uqMCfa" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="rjDHfk" class="- topic/p "/>
+                        <p id="rjDHfk" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="RiJwcn" class="- topic/p "/>
+                        <p id="RiJwcn" class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p id="UpIGTN" class="- topic/p "/>
+                        <p id="UpIGTN" class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p id="MRozAy" class="- topic/p "/>
+                        <p id="MRozAy" class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="CZtqEj" class="- topic/p "/>
+                        <p id="CZtqEj" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="hsACiZ" class="- topic/p "/>
+                        <p id="hsACiZ" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="YEymtP" class="- topic/p "/>
+                        <p id="YEymtP" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="NKyoPO" class="- topic/p "/>
+                        <p id="NKyoPO" class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p id="HMnupk" class="- topic/p "/>
+                        <p id="HMnupk" class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p id="algiHX" class="- topic/p "/>
+                        <p id="algiHX" class="- topic/p "></p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="kvWDWj" class="- topic/p "/>
+                        <p id="kvWDWj" class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="btrGUw" class="- topic/p "/>
+                        <p id="btrGUw" class="- topic/p "></p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="MSPXtE" class="- topic/p "/>
+                        <p id="MSPXtE" class="- topic/p "></p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="vjMSyN" class="- topic/p "/>
+                        <p id="vjMSyN" class="- topic/p "></p>
                      </entry>
                   </row>
                </tbody>
@@ -238,10 +225,7 @@ of action developed in accordance with NIST SP 800-171.</p>
 and High Assessment summary level scores to the Contractor and offer
 the opportunity for rebuttal and adjudication of assessment summary
 level scores prior to posting the summary level scores to SPRS (see SPRS
-User’s Guide <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
-                  format="pdf"
-                  scope="external"
-                  class="- topic/xref ">https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>).</p>
+User’s Guide <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf" format="pdf" scope="external" class="- topic/xref ">https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>).</p>
          <p id="rkJedD" outputclass="List2" class="- topic/p ">(2) Upon completion of each
 assessment, the contractor has 14 business days to provide additional
 information to demonstrate that they meet any security requirements
@@ -279,10 +263,7 @@ subject to the implementation of NIST SP 800-171 security requirements,
 in accordance with DFARS clause 252.204-7012 of this contract, unless
 the subcontractor has completed, within the last 3 years, at least
 a Basic NIST SP 800-171 DoD Assessment, as described in <ph id="mcie6gy" class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
+               <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html" format="html" scope="external" class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
             </ph>,
 for all covered contractor information systems relevant to its offer
 that are not part of an information technology service or system
@@ -292,10 +273,7 @@ not have summary level scores of a current NIST SP 800-171 DoD Assessment
 (i.e., not more than 3 years old unless a lesser time is specified
 in the solicitation) posted in SPRS, the subcontractor may conduct
 and submit a Basic Assessment, in accordance with the NIST SP 800-171
-DoD Assessment Methodology, to <xref href="mailto:webptsmh@navy.mil"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">mailto:webptsmh@navy.mil</xref> for
+DoD Assessment Methodology, to <xref href="mailto:webptsmh@navy.mil" format="html" scope="external" class="- topic/xref ">mailto:webptsmh@navy.mil</xref> for
 posting to SPRS along with the information required by paragraph
 (d) of this clause.</p>
          <p id="xCHzLY" outputclass="Ctr" class="- topic/p ">(End of clause)</p>

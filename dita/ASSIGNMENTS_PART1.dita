@@ -1,46 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-PGI_ASSIGNMENTS_PART_1"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_ASSIGNMENTS_PART_1" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">ASSIGNMENTS_PART_1</ph> —ARMY ASSIGNMENTS</title>
       <conbody class="- topic/body  concept/conbody ">
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="4"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="28*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="28*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="28*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="4" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="15*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="28*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="28*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="28*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -49,25 +19,25 @@
                         <p class="- topic/p ">Class Code</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">Commodity</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Electronic Equipment</p>
@@ -78,8 +48,8 @@ See FSC 5821 under Navy listings for assignment of certain commercially
 developed radio sets (i.e., developed without the use of Government
 funds).</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -94,8 +64,8 @@ as listed in Department of Army Supply Manuals/</p>
 It does not apply to Navy ordnance type guns; MK 11 and MK 12, 20mm
 gun; and aircraft gun mounts.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -109,8 +79,8 @@ and equipment therefor, as listed in Department of the Army Supply
 Manuals/Catalogs. It does not apply to Naval ordnance type guns
 and aircraft gun mounts.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -123,8 +93,8 @@ assignment applies to guns, 75mm through 125mm, and parts and equipment
 therefor, as listed in Department of Army Supply Manuals/Catalogs.
 It does not apply to Naval ordnance type guns.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -133,8 +103,8 @@ It does not apply to Naval ordnance type guns.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Guns over 125mm through 150mm</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -143,8 +113,8 @@ It does not apply to Naval ordnance type guns.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Guns over 150mm through 200mm</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -153,8 +123,8 @@ It does not apply to Naval ordnance type guns.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Guns over 200mm through 300mm</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -167,8 +137,8 @@ apply to guns, over 125mm, and parts and equipment therefor, as
 listed in Department of Army Supply Manuals/Catalogs. They do not
 apply to Naval ordnance type guns.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -177,8 +147,8 @@ apply to Naval ordnance type guns.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Chemical Weapons and Equipment</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -193,8 +163,8 @@ to Naval ordnance type and airborne type, with the exception of 2.75
 inch rocket launchers which are included in this partial FSC assignment
 to the Department of the Army.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -207,12 +177,12 @@ in Two or More Classes</p>
 the following items:</p>
                         <p class="- topic/p ">National stock number nomenclature</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">1090-563-7232</p>
@@ -229,24 +199,24 @@ Supply</p>
                         <p class="- topic/p ">Wrench Corrector</p>
                         <p class="- topic/p ">Reticle Assembly</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="2" class="- topic/entry "/>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="2" class="- topic/entry " />
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">(“P” after the FSC number indicates a partial
 FSC assignment)</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry "/>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="2" class="- topic/entry " />
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -261,8 +231,8 @@ It does not apply to Naval ordnance type; line throwing guns (which
 are under DoD Coordinated Acquisition assignment to the Department
 of the Navy); and aircraft type miscellaneous weapons.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -271,8 +241,8 @@ of the Navy); and aircraft type miscellaneous weapons.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Fire Control Directors</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -281,8 +251,8 @@ of the Navy); and aircraft type miscellaneous weapons.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Fire Control Computing Sights and Devices</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -291,8 +261,8 @@ of the Navy); and aircraft type miscellaneous weapons.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Fire Control Systems, Complete</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -301,8 +271,8 @@ of the Navy); and aircraft type miscellaneous weapons.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Optical Sighting and Ranging Equipment</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -311,8 +281,8 @@ of the Navy); and aircraft type miscellaneous weapons.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Fire Control Stabilizing Mechanisms</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -322,8 +292,8 @@ of the Navy); and aircraft type miscellaneous weapons.</p>
                         <p class="- topic/p ">Fire Control Designating and Indicating
 Equipment</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -333,8 +303,8 @@ Equipment</p>
                         <p class="- topic/p ">Fire Control Transmitting and Receiving
 Equipment, Except Airborne</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -343,8 +313,8 @@ Equipment, Except Airborne</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Fire Control Radar Equipment, Except Airborne</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -357,8 +327,8 @@ above nine partial FSC assignments apply to fire control equipment,
 as listed in Department of the Army Supply Manuals/Catalogs. They
 do not apply to Naval ordnance type and aircraft type.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -371,8 +341,8 @@ assignment applies to ammunition through 30mm as listed in Department
 of Army Supply Manuals/Catalogs. It does not apply to Naval ordnance
 type and ammunition for the MK 11 and MK 12, 20mm gun</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -389,8 +359,8 @@ is responsible for the acquisition of fillers and the loading, assembling,
 and packing of toxicological, incapacitating riot control, smoke
 and incendiary munitions.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -405,8 +375,8 @@ apply to Naval ordnance type. The Army is responsible for the acquisition
 of fillers and the loading, assembling, and packing of toxicological,
 incapacitating riot control, smoke and incendiary munitions.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -421,8 +391,8 @@ type. The Army is responsible for the acquisition of fillers and
 the loading, assembling, and packing of toxicological, incapacitating
 riot control, smoke and incendiary munitions.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -439,8 +409,8 @@ packing of toxicological, incapacitating riot control, smoke and
 incendiary munitions, and for other loading, assembling, and packing
 in excess of Navy owned capacity.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -449,8 +419,8 @@ in excess of Navy owned capacity.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Grenades</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -491,8 +461,8 @@ to the Navy. However, the Department of the Army is responsible
 for acquisition of filler and for filling of all smoke and toxicological
 rockets.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -501,8 +471,8 @@ rockets.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Land Mines</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -511,8 +481,8 @@ rockets.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Military Chemical Agents</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -523,8 +493,8 @@ rockets.</p>
                         <p class="- topic/p ">This partial assignment
 does not apply to shipboard and aircraft pyrotechnics.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -560,8 +530,8 @@ percussion cap</p>
                         <p class="- topic/p ">It does not apply to Navy underwater demolition
 requirements.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -591,8 +561,8 @@ A-3</p>
 does not apply to production capacity for any of the above listed explosives
 at the U.S. Naval Propellant Plant, Indian Head, Maryland.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -604,8 +574,8 @@ and Components</p>
                         <p class="- topic/p ">This partial assignment is reserved pending
 Services agreement as to items to be included in the assignment.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -614,8 +584,8 @@ Services agreement as to items to be included in the assignment.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Military Biological Agents</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -628,8 +598,8 @@ applies to Fuzes and Primers for Army assigned ammunition. It does
 not apply to Naval ordnance type, which is under DoD Coordinated Acquisition
 assignment to the Department of the Navy; and guided missile fuzes.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -638,8 +608,8 @@ assignment to the Department of the Navy; and guided missile fuzes.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Locomotives</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -648,8 +618,8 @@ assignment to the Department of the Navy; and guided missile fuzes.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Rail Cars</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -659,8 +629,8 @@ assignment to the Department of the Navy; and guided missile fuzes.</p>
                         <p class="- topic/p ">Locomotive and Rail Car Accessories and
 Components</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -669,8 +639,8 @@ Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Track Materials, Railroad</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -679,8 +649,8 @@ Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Passenger Motor Vehicles</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -705,8 +675,8 @@ not apply to commercial, non-tactical, passenger carrying vehicles
 and trucks which are assigned for DoD Coordinated Acquisition to
 the General Services Administration.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -721,8 +691,8 @@ Coordinated Acquisition assignment, and airport crash rescue trailer
 units which are under DoD Coordinated Acquisition assignment to
 the Department of the Air Force.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -733,8 +703,8 @@ the Department of the Air Force.</p>
                         <p class="- topic/p ">This
 partial assignment does not apply to bicycles and tricycles.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -743,8 +713,8 @@ partial assignment does not apply to bicycles and tricycles.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Tanks and Self-propelled Weapons</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -753,8 +723,8 @@ partial assignment does not apply to bicycles and tricycles.</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Tractors, Track Laying, High-Speed</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -764,8 +734,8 @@ partial assignment does not apply to bicycles and tricycles.</p>
                         <p class="- topic/p ">Vehicular Cab, Body, and Frame Structural
 Components</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -774,8 +744,8 @@ Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Vehicular Power Transmission Components</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -785,8 +755,8 @@ Components</p>
                         <p class="- topic/p ">Vehicular Brake, Steering, Axle, Wheel,
 and Track Components</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -795,8 +765,8 @@ and Track Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Vehicular Furniture and Accessories</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -805,8 +775,8 @@ and Track Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Miscellaneous Vehicular Components</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -815,8 +785,8 @@ and Track Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Tires and Tubes, Pneumatic, except Aircraft</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -825,8 +795,8 @@ and Track Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Tires, solid and cushion</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -836,8 +806,8 @@ and Track Components</p>
                         <p class="- topic/p ">Tire Rebuilding and Tire and Tube Repair
 Materials</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -847,8 +817,8 @@ Materials</p>
                         <p class="- topic/p ">Gasoline Reciprocating Engines, except Aircraft
 and Components</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -857,8 +827,8 @@ and Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Engine Fuel System Components, Nonaircraft</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -867,8 +837,8 @@ and Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Engine Electrical System Components, Nonaircraft</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -877,8 +847,8 @@ and Components</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Engine Cooling System Components, Nonaircraft</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -888,8 +858,8 @@ and Components</p>
                         <p class="- topic/p ">Engine Air and Oil Filters, Strainers and
 Cleaners, Nonaircraft</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -898,8 +868,8 @@ Cleaners, Nonaircraft</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Miscellaneous Engine Accessories, Nonaircraft</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -911,8 +881,8 @@ Cleaners, Nonaircraft</p>
 assignment applies only to equipment developed by or under the sponsorship
 of the Department of the Army.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -923,8 +893,8 @@ of the Department of the Army.</p>
                         <p class="- topic/p ">This
 partial assignment applies only to items peculiar to chemical warfare.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -936,8 +906,8 @@ partial assignment applies only to items peculiar to chemical warfare.</p>
 assignment applies only to military respiratory protective equipment
 for chemical warfare.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -949,8 +919,8 @@ for chemical warfare.</p>
 partial assignment applies only to military (wire) equipment, field
 type.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -962,8 +932,8 @@ type.</p>
 partial assignment applies only to military (wire) equipment, field
 type.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -975,8 +945,8 @@ except Airborne</p>
                         <p class="- topic/p ">This partial assignment applies only to military
 (wire) equipment, field type.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -987,8 +957,8 @@ except Airborne</p>
                         <p class="- topic/p ">This partial assignment
 applies to MIL type, dry cell batteries, only.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1000,8 +970,8 @@ and Testing Instruments</p>
                         <p class="- topic/p ">This partial assignment applies only
 to instruments for testing military (wire) equipment, field type.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1013,12 +983,12 @@ to instruments for testing military (wire) equipment, field type.</p>
 assignment applies to the following watches; aircraft instrument
 panel clocks; cases and spare parts therefor:</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Master navigation watches; pocket watches;
@@ -1027,8 +997,8 @@ timers; aircraft clocks; aircraft panel clocks; mechanical aircraft
 clocks; navigation watch cases; pocket watch cases; watch holders;
 watch case assemblies and watch movements.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1044,8 +1014,8 @@ the developing department is the department which awarded the developmental
 contract, notwithstanding that other departments may have provided
 funds for the development.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1056,8 +1026,8 @@ funds for the development.</p>
                         <p class="- topic/p ">This
 partial assignment applies only to items peculiar to chemical warfare.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1068,8 +1038,8 @@ partial assignment applies only to items peculiar to chemical warfare.</p>
                         <p class="- topic/p ">This
 partial assignment applies to jewel bearings only.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1080,8 +1050,8 @@ partial assignment applies to jewel bearings only.</p>
                         <p class="- topic/p ">This partial assignment applies only
 to items peculiar to chemical warfare.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1094,8 +1064,8 @@ applies only to items peculiar to Army assignments under weapons,
 fire control equipment, ammunition and explosives, and chemical
 and biological warfare.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1109,8 +1079,8 @@ of Army Catalogs SC 6910, ML/IL and SC 6920 ML/IL. It does not apply
 to clay pigeons in Department of Army Catalogs SC 6910, ML/IL and
 SC 6920 ML/IL. It does not apply to clay pigeons.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1122,8 +1092,8 @@ SC 6920 ML/IL. It does not apply to clay pigeons.</p>
 partial assignment applies only to code training sets, code practice
 equipment, and other telephone and telegraph training devices.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1135,8 +1105,8 @@ equipment, and other telephone and telegraph training devices.</p>
 applies only to reels and spools for military (wire) equipment,
 field type.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1150,8 +1120,8 @@ packages, and containers peculiar to Army assignments under ammunitions, explosi
 and chemical and biological warfare as listed in Department of Army
 Catalog SC 8140 IL and SC 8140 ML.</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry " />
                   </row>
                </tbody>
             </tgroup>

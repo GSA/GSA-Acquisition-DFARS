@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-252.247-7023"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_252.247-7023" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.247-7023</ph> Transportation of Supplies by Sea.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Basic. As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="247.574.dita#DFARS-247.574"
-                  base="DFARS-247.574"
-                  class="- topic/xref ">247.574</xref>
+               <xref outputclass="fm:ParaNumOnly" href="247.574.dita#DFARS_247.574" base="DFARS-247.574" class="- topic/xref ">247.574</xref>
             (b) and (b)(1), use the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">TRANSPORTATION OF SUPPLIES BY SEA—BASIC (FEB 2019)</p>
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
@@ -67,41 +59,17 @@
          <p outputclass="List2" class="- topic/p ">(2) Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
          <p outputclass="List2" class="- topic/p ">(3) Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
          <p outputclass="List2" class="- topic/p ">(4) Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer. The Contractor shall describe these shipments in the following format:</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="4"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="16*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="29*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="30*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="25*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="4" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="16*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="29*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="30*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">ITEM DESCRIPTION</p>
@@ -110,22 +78,22 @@
                         <p class="- topic/p ">CONTRACT LINE ITEMS</p>
                      </entry>
                      <entry colname="4" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                         <p class="- topic/p ">QUANTITY</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -133,19 +101,19 @@
                         <p class="- topic/p ">TOTAL</p>
                      </entry>
                      <entry colname="2" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List1" class="- topic/p "/>
+         <p outputclass="List1" class="- topic/p "></p>
          <p outputclass="List1" class="- topic/p ">(g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
          <p outputclass="List1" class="- topic/p ">(h) If the Contractor indicated in response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor shall—</p>
          <p outputclass="List2" class="- topic/p ">(1) Notify the Contracting Officer of that fact; and</p>
@@ -156,10 +124,7 @@
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section ">
             <p class="- topic/p ">Alternate I. As prescribed in 
-                  <xref outputclass="fm:ParaNumOnly"
-                     href="247.574.dita#DFARS-247.574"
-                     base="DFARS-247.574"
-                     class="- topic/xref ">247.574</xref>
+                  <xref outputclass="fm:ParaNumOnly" href="247.574.dita#DFARS_247.574" base="DFARS-247.574" class="- topic/xref ">247.574</xref>
                (b) and (b)(2), use the following clause, which uses a different paragraph (b) than the basic clause:</p>
             <p outputclass="Ctr_SmCaps" class="- topic/p ">TRANSPORTATION OF SUPPLIES BY SEA—ALTERNATE I (FEB 2019)</p>
             <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
@@ -207,41 +172,17 @@
             <p outputclass="List2" class="- topic/p ">(2) Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
             <p outputclass="List2" class="- topic/p ">(3) Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
             <p outputclass="List2" class="- topic/p ">(4) Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer. The Contractor shall describe these shipments in the following format:</p>
-            <p class="- topic/p "/>
+            <p class="- topic/p "></p>
             <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-               <tgroup cols="4"
-                       colsep="0"
-                       rowsep="0"
-                       outputclass="Table"
-                       class="- topic/tgroup ">
-                  <colspec colnum="1"
-                           colname="1"
-                           colwidth="16*"
-                           colsep="0"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
-                  <colspec colnum="2"
-                           colname="2"
-                           colwidth="29*"
-                           colsep="0"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
-                  <colspec colnum="3"
-                           colname="3"
-                           colwidth="30*"
-                           colsep="0"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
-                  <colspec colnum="4"
-                           colname="4"
-                           colwidth="25*"
-                           colsep="0"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
+               <tgroup cols="4" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+                  <colspec colnum="1" colname="1" colwidth="16*" colsep="0" class="- topic/colspec " rowheader="headers" />
+                  <colspec colnum="2" colname="2" colwidth="29*" colsep="0" class="- topic/colspec " rowheader="headers" />
+                  <colspec colnum="3" colname="3" colwidth="30*" colsep="0" class="- topic/colspec " rowheader="headers" />
+                  <colspec colnum="4" colname="4" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers" />
                   <tbody class="- topic/tbody ">
                      <row rowsep="0" class="- topic/row ">
                         <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p ">ITEM DESCRIPTION</p>
@@ -250,22 +191,22 @@
                            <p class="- topic/p ">CONTRACT LINE ITEMS</p>
                         </entry>
                         <entry colname="4" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                            <p class="- topic/p ">QUANTITY</p>
                         </entry>
                      </row>
                      <row rowsep="0" class="- topic/row ">
                         <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="4" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                      </row>
                      <row rowsep="0" class="- topic/row ">
@@ -273,19 +214,19 @@
                            <p class="- topic/p ">TOTAL</p>
                         </entry>
                         <entry colname="2" colsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="3" colsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="4" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                      </row>
                   </tbody>
                </tgroup>
             </table>
-            <p outputclass="List1" class="- topic/p "/>
+            <p outputclass="List1" class="- topic/p "></p>
             <p outputclass="List1" class="- topic/p ">(g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
             <p outputclass="List1" class="- topic/p ">(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor—</p>
             <p outputclass="List2" class="- topic/p ">(1) Shall notify the Contracting Officer of that fact; and</p>
@@ -295,10 +236,7 @@
             <p outputclass="List2" class="- topic/p ">(2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.</p>
             <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
             <p class="- topic/p ">Alternate II. As prescribed in 
-                  <xref outputclass="fm:ParaNumOnly"
-                     href="247.574.dita#DFARS-247.574"
-                     base="DFARS-247.574"
-                     class="- topic/xref ">247.574</xref>
+                  <xref outputclass="fm:ParaNumOnly" href="247.574.dita#DFARS_247.574" base="DFARS-247.574" class="- topic/xref ">247.574</xref>
                (b) and (b)(3), use the following clause, which uses a different paragraph (b) than the basic clause:</p>
             <p outputclass="Ctr_SmCaps" class="- topic/p ">TRANSPORTATION OF SUPPLIES BY SEA—ALTERNATE II (FEB 2019)</p>
             <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
@@ -346,41 +284,17 @@
             <p outputclass="List2" class="- topic/p ">(2) Ocean transportation was used and only U.S.-flag vessels were used for all ocean shipments under the contract;</p>
             <p outputclass="List2" class="- topic/p ">(3) Ocean transportation was used, and the Contractor had the written consent of the Contracting Officer for all foreign-flag ocean transportation; or</p>
             <p outputclass="List2" class="- topic/p ">(4) Ocean transportation was used and some or all of the shipments were made on foreign-flag vessels without the written consent of the Contracting Officer. The Contractor shall describe these shipments in the following format:</p>
-            <p class="- topic/p "/>
+            <p class="- topic/p "></p>
             <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-               <tgroup cols="4"
-                       colsep="0"
-                       rowsep="0"
-                       outputclass="Table"
-                       class="- topic/tgroup ">
-                  <colspec colnum="1"
-                           colname="1"
-                           colwidth="16*"
-                           colsep="0"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
-                  <colspec colnum="2"
-                           colname="2"
-                           colwidth="29*"
-                           colsep="0"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
-                  <colspec colnum="3"
-                           colname="3"
-                           colwidth="30*"
-                           colsep="0"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
-                  <colspec colnum="4"
-                           colname="4"
-                           colwidth="25*"
-                           colsep="0"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
+               <tgroup cols="4" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+                  <colspec colnum="1" colname="1" colwidth="16*" colsep="0" class="- topic/colspec " rowheader="headers" />
+                  <colspec colnum="2" colname="2" colwidth="29*" colsep="0" class="- topic/colspec " rowheader="headers" />
+                  <colspec colnum="3" colname="3" colwidth="30*" colsep="0" class="- topic/colspec " rowheader="headers" />
+                  <colspec colnum="4" colname="4" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers" />
                   <tbody class="- topic/tbody ">
                      <row rowsep="0" class="- topic/row ">
                         <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                            <p class="- topic/p ">ITEM DESCRIPTION</p>
@@ -389,22 +303,22 @@
                            <p class="- topic/p ">CONTRACT LINE ITEMS</p>
                         </entry>
                         <entry colname="4" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                            <p class="- topic/p ">QUANTITY</p>
                         </entry>
                      </row>
                      <row rowsep="0" class="- topic/row ">
                         <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="4" rowsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                      </row>
                      <row rowsep="0" class="- topic/row ">
@@ -412,19 +326,19 @@
                            <p class="- topic/p ">TOTAL</p>
                         </entry>
                         <entry colname="2" colsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="3" colsep="1" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                         <entry colname="4" class="- topic/entry ">
-                           <p class="- topic/p "/>
+                           <p class="- topic/p "></p>
                         </entry>
                      </row>
                   </tbody>
                </tgroup>
             </table>
-            <p outputclass="List1" class="- topic/p "/>
+            <p outputclass="List1" class="- topic/p "></p>
             <p outputclass="List1" class="- topic/p ">(g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.</p>
             <p outputclass="List1" class="- topic/p ">(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies, but the contractor learns after the award of the contract that supplies will be transported by sea, the Contractor shall notify the Contracting Officer of that fact.</p>
             <p outputclass="List1" class="- topic/p ">(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:</p>

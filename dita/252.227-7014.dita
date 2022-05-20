@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-252.227-7014"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_252.227-7014" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.227-7014</ph> Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
-               <xref href="227.7203-6.dita#DFARS-227.7203-6"
-                  base="i1379842"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7203-6</xref>
+               <xref href="227.7203-6.dita#DFARS_227.7203-6" base="i1379842" outputclass="fm:ParaNumOnly" class="- topic/xref ">227.7203-6</xref>
             (a)(1), use the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">RIGHTS IN NONCOMMERCIAL COMPUTER SOFTWARE AND NONCOMMERCIAL COMPUTER SOFTWARE DOCUMENTATION (FEB 2014)</p>
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause—</p>
@@ -28,17 +20,11 @@
          <p outputclass="List2" class="- topic/p ">(4) “Computer software” means computer programs, source code, source code listings, object code listings, design details, algorithms, processes, flow charts, formulae, and related material that would enable the software to be reproduced, recreated, or recompiled. Computer software does not include computer databases or computer software documentation.</p>
          <p outputclass="List2" class="- topic/p ">(5) “Computer software documentation” means owner's manuals, user's manuals, installation instructions, operating instructions, and other similar items, regardless of storage medium, that explain the capabilities of the computer software or provide instructions for using the software.</p>
          <p outputclass="List2" class="- topic/p ">(6) "Covered Government support contractor" means a contractor (other than a litigation support contractor covered by 
-               <xref href="252.204-7014.dita#DFARS-252.204-7014"
-                  base="i1381025"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.204-7014</xref>
+               <xref href="252.204-7014.dita#DFARS_252.204-7014" base="i1381025" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.204-7014</xref>
             ) under a contract, the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government’s management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), provided that the contractor—</p>
          <p outputclass="List3" class="- topic/p ">(i) Is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and</p>
          <p outputclass="List3" class="- topic/p ">(ii) Receives access to technical data or computer software for performance of a Government contract that contains the clause at 
-               <xref href="252.227-7025.dita#DFARS-252.227-7025"
-                  base="i1382915"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7025</xref>
+               <xref href="252.227-7025.dita#DFARS_252.227-7025" base="i1382915" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends.</p>
          <p outputclass="List2" class="- topic/p ">(7) “Developed” means that—</p>
          <p outputclass="List3" class="- topic/p ">(i) A computer program has been successfully operated in a computer and tested to the extent sufficient to demonstrate to reasonable persons skilled in the art that the program can reasonably be expected to perform its intended purpose;</p>
@@ -65,37 +51,22 @@
          <p outputclass="List3" class="- topic/p ">(v) Permit contractors or subcontractors performing service contracts (see 37.101 of the Federal Acquisition Regulation) in support of this or a related contract to use computer software to diagnose and correct deficiencies in a computer program, to modify computer software to enable a computer program to be combined with, adapted to, or merged with other computer programs or when necessary to respond to urgent tactical situations, provided that—</p>
          <p outputclass="List4" class="- topic/p ">(A) The Government notifies the party which has granted restricted rights that a release or disclosure to particular contractors or subcontractors was made;</p>
          <p outputclass="List4" class="- topic/p ">(B) Such contractors or subcontractors are subject to the use and non-disclosure agreement at 
-               <xref href="227.7103-7.dita#DFARS-227.7103-7"
-                  base="i1379644"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7103-7</xref>
+               <xref href="227.7103-7.dita#DFARS_227.7103-7" base="i1379644" outputclass="fm:ParaNumOnly" class="- topic/xref ">227.7103-7</xref>
              of the Defense Federal Acquisition Regulation Supplement (DFARS) or are Government contractors receiving access to the software for performance of a Government contract that contains the clause at DFARS 
-               <xref href="252.227-7025.dita#DFARS-252.227-7025"
-                  base="i1382915"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7025</xref>
+               <xref href="252.227-7025.dita#DFARS_252.227-7025" base="i1382915" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends;</p>
          <p outputclass="List4" class="- topic/p ">(C) The Government shall not permit the recipient to decompile, disassemble, or reverse engineer the software, or use software decompiled, disassembled, or reverse engineered by the Government pursuant to paragraph (a)(15)(iv) of this clause, for any other purpose; and</p>
          <p outputclass="List4" class="- topic/p ">(D) Such use is subject to the limitations in paragraphs (a)(15)(i) through (iii) of this clause;</p>
          <p outputclass="List3" class="- topic/p ">(vi) Permit contractors or subcontractors performing emergency repairs or overhaul of items or components of items procured under this or a related contract to use the computer software when necessary to perform the repairs or overhaul, or to modify the computer software to reflect the repairs or overhaul made, provided that—</p>
          <p outputclass="List4" class="- topic/p ">(A) The intended recipient is subject to the use and non-disclosure agreement at DFARS 
-               <xref href="227.7103-7.dita#DFARS-227.7103-7"
-                  base="i1379644"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7103-7</xref>
+               <xref href="227.7103-7.dita#DFARS_227.7103-7" base="i1379644" outputclass="fm:ParaNumOnly" class="- topic/xref ">227.7103-7</xref>
              or is a Government contractor receiving access to the software for performance of a Government contract that contains the clause at DFARS 
-               <xref href="252.227-7025.dita#DFARS-252.227-7025"
-                  base="i1382915"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7025</xref>
+               <xref href="252.227-7025.dita#DFARS_252.227-7025" base="i1382915" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends;</p>
          <p outputclass="List4" class="- topic/p ">(B) The Government shall not permit the recipient to decompile, disassemble, or reverse engineer the software, or use software decompiled, disassembled, or reverse engineered by the Government pursuant to paragraph (a)(15)(iv) of this clause, for any other purpose; and</p>
          <p outputclass="List4" class="- topic/p ">(C) Such use is subject to the limitations in paragraphs (a)(15)(i) through (iii) of this clause; and</p>
          <p outputclass="List3" class="- topic/p ">(vii) Permit covered Government support contractors in the performance of covered Government support contracts that contain the clause at 
-               <xref href="252.227-7025.dita#DFARS-252.227-7025"
-                  base="i1382915"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7025</xref>
+               <xref href="252.227-7025.dita#DFARS_252.227-7025" base="i1382915" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends, to use, modify, reproduce, perform, display, or release or disclose the computer software to a person authorized to receive restricted rights computer software, provided that—</p>
          <p outputclass="List4" class="- topic/p ">(A) The Government shall not permit the covered Government support contractor to decompile, disassemble, or reverse engineer the software, or use software decompiled, disassembled, or reverse engineered by the Government pursuant to paragraph (a)(15)(iv) of this clause, for any other purpose; and</p>
          <p outputclass="List4" class="- topic/p ">(B) Such use is subject to the limitations in paragraphs (a)(15)(i) through (iv) of this clause.</p>
@@ -115,16 +86,10 @@
          <p outputclass="List3" class="- topic/p ">(ii) Government purpose rights shall remain in effect for a period of five years unless a different period has been negotiated. Upon expiration of the five-year or other negotiated period, the Government shall have unlimited rights in the computer software or computer software documentation. The government purpose rights period shall commence upon execution of the contract, subcontract, letter contract (or similar contractual instrument), contract modification, or option exercise that required development of the computer software.</p>
          <p outputclass="List3" class="- topic/p ">(iii) The Government shall not release or disclose computer software in which it has government purpose rights to any other person unless—</p>
          <p outputclass="List4" class="- topic/p ">(A) Prior to release or disclosure, the intended recipient is subject to the use and non-disclosure agreement at DFARS 
-               <xref href="227.7103-7.dita#DFARS-227.7103-7"
-                  base="i1379644"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7103-7</xref>
+               <xref href="227.7103-7.dita#DFARS_227.7103-7" base="i1379644" outputclass="fm:ParaNumOnly" class="- topic/xref ">227.7103-7</xref>
             ; or</p>
          <p outputclass="List4" class="- topic/p ">(B) The recipient is a Government contractor receiving access to the software or documentation for performance of a Government contract that contains the clause at DFARS 
-               <xref href="252.227-7025.dita#DFARS-252.227-7025"
-                  base="i1382915"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7025</xref>
+               <xref href="252.227-7025.dita#DFARS_252.227-7025" base="i1382915" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government Furnished Information Marked with Restrictive Legends.</p>
          <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Restricted rights</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) The Government shall have restricted rights in noncommercial computer software required to be delivered or otherwise provided to the Government under this contract that were developed exclusively at private expense.</p>
@@ -134,10 +99,7 @@
          <p outputclass="List4" class="- topic/p ">(B) The Contractor will be notified of such release or disclosure;</p>
          <p outputclass="List4" class="- topic/p ">(C) The Contractor (or the party asserting restrictions, as identified in the restricted rights legend) may require each such covered Government support contractor to enter into a non-disclosure agreement directly with the Contractor (or the party asserting restrictions) regarding the covered Government support contractor’s use of such software, or alternatively, that the Contractor (or party asserting restrictions) may waive in writing the requirement for a non-disclosure agreement; and</p>
          <p outputclass="List4" class="- topic/p ">(D) Any such non-disclosure agreement shall address the restrictions on the covered Government support contractor's use of the restricted rights software as set forth in the clause at 
-               <xref href="252.227-7025.dita#DFARS-252.227-7025"
-                  base="i1382915"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7025</xref>
+               <xref href="252.227-7025.dita#DFARS_252.227-7025" base="i1382915" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends. The non-disclosure agreement shall not include any additional terms and conditions unless mutually agreed to by the parties to the non-disclosure agreement.</p>
          <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Specifically negotiated license rights</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) The standard license rights granted to the Government under paragraphs (b)(1) through (b)(3) of this clause, including the period during which the Government shall have government purpose rights in computer software, may be modified by mutual agreement to provide such rights as the parties consider appropriate but shall not provide the Government lesser rights in computer software than are enumerated in paragraph (a)(15) of this clause or lesser rights in computer software documentation than are enumerated in paragraph (a)(14) of the Rights in Technical Data—Noncommercial Items clause of this contract.</p>
@@ -156,47 +118,23 @@
          <p outputclass="List2" class="- topic/p ">(3) In addition to the assertions made in the Attachment, other assertions may be identified after award when based on new information or inadvertent omissions unless the inadvertent omissions would have materially affected the source selection decision. Such identification and assertion shall be submitted to the Contracting Officer as soon as practicable prior to the scheduled date for delivery of the software, in the following format, and signed by an official authorized to contractually obligate the Contractor:</p>
          <p class="- topic/p ">Identification and Assertion of Restrictions on the Government's Use, Release, or Disclosure of Computer Software.</p>
          <p class="- topic/p ">The Contractor asserts for itself, or the persons identified below, that the Government's rights to use, release, or disclose the following computer software should be restricted:</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="4"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="29*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="23*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="24*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="24*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="4" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="29*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="23*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="24*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="24*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Computer Software</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Name of Person</p>
@@ -247,30 +185,16 @@
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p class="- topic/p ">*Generally, development at private expense, either exclusively or partially, is the only basis for asserting restrictions on the Government's rights to use, release, or disclose computer software.</p>
          <p class="- topic/p ">**Indicate whether development was exclusively or partially at private expense. If development was not at private expense, enter the specific reason for asserting that the Government's rights should be restricted.</p>
          <p class="- topic/p ">***Enter asserted rights category (e.g., restricted or government purpose rights in computer software, government purpose license rights from a prior contract, rights in SBIR software generated under another contract, or specifically negotiated licenses).</p>
          <p class="- topic/p ">****Corporation, individual, or other person, as appropriate.</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="46*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="54*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="46*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="54*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
@@ -290,7 +214,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">______________________________</p>
@@ -307,349 +231,237 @@
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p class="- topic/p ">(End of identification and assertion)</p>
          <p outputclass="List2" class="- topic/p ">(4) When requested by the Contracting Officer, the Contractor shall provide sufficient information to enable the Contracting Officer to evaluate the Contractor's assertions. The Contracting Officer reserves the right to add the Contractor's assertions to the Attachment and validate any listed assertion, at a later date, in accordance with the procedures of the Validation of Asserted Restrictions—Computer Software clause of this contract.</p>
          <p outputclass="List1" class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">Marking requirements</i>. The Contractor, and its subcontractors or suppliers, may only assert restrictions on the Government's rights to use, modify, reproduce, release, perform, display, or disclose computer software by marking the deliverable software or documentation subject to restriction. Except as provided in paragraph (f)(5) of this clause, only the following legends are authorized under this contract: the government purpose rights legend at paragraph (f)(2) of this clause; the restricted rights legend at paragraph (f)(3) of this clause; or the special license rights legend at paragraph (f)(4) of this clause; and/or a notice of copyright as prescribed under 17 U.S.C. 401 or 402.</p>
          <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">General marking instructions</i>. The Contractor, or its subcontractors or suppliers, shall conspicuously and legibly mark the appropriate legend on all computer software that qualify for such markings. The authorized legends shall be placed on the transmittal document or software storage container and each page, or portions thereof, of printed material containing computer software for which restrictions are asserted. Computer software transmitted directly from one computer or computer terminal to another shall contain a notice of asserted restrictions. However, instructions that interfere with or delay the operation of computer software in order to display a restrictive rights legend or other license statement at any time prior to or during use of the computer software, or otherwise cause such interference or delay, shall not be inserted in software that will or might be used in combat or situations that simulate combat conditions, unless the Contracting Officer's written permission to deliver such software has been obtained prior to delivery. Reproductions of computer software or any portions thereof subject to asserted restrictions, shall also reproduce the asserted restrictions.</p>
          <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Government purpose rights markings</i>. Computer software delivered or otherwise furnished to the Government with government purpose rights shall be marked as follows:</p>
          <p class="- topic/p ">GOVERNMENT PURPOSE RIGHTS</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="10"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="6*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="6*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="8"
-                        colname="8"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="9"
-                        colname="9"
-                        colwidth="3*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="10"
-                        colname="10"
-                        colwidth="3*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="10" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="6*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="6*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="15*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="6" colname="6" colwidth="15*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="7" colname="7" colwidth="15*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="8" colname="8" colwidth="15*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="9" colname="9" colwidth="3*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="10" colname="10" colwidth="3*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Contract No.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Contractor Name</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Contractor Address</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Expiration Date</p>
                      </entry>
                      <entry colname="3" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry " />
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p class="- topic/p ">The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by paragraph (b)(2) of the Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of the software or portions thereof marked with this legend must also reproduce the markings.</p>
          <p class="- topic/p ">(End of legend)</p>
          <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Restricted rights markings</i>. Software delivered or otherwise furnished to the Government with restricted rights shall be marked with the following legend:</p>
          <p class="- topic/p ">RESTRICTED RIGHTS</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="9"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="6*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="6*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="11*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="8"
-                        colname="8"
-                        colwidth="3*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="9"
-                        colname="9"
-                        colwidth="3*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="9" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="6*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="6*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="20*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="6" colname="6" colwidth="20*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="7" colname="7" colwidth="20*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="8" colname="8" colwidth="3*" colsep="0" class="- topic/colspec " rowheader="headers" />
+               <colspec colnum="9" colname="9" colwidth="3*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Contract No.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Contractor Name</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Contractor Address</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="2" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="3" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
                      <entry colname="4" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                        <p class="- topic/p "></p>
                      </entry>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry " />
+                     <entry colname="6" class="- topic/entry " />
+                     <entry colname="7" class="- topic/entry " />
+                     <entry colname="8" class="- topic/entry " />
+                     <entry colname="9" class="- topic/entry " />
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p class="- topic/p ">The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by paragraph (b)(3) of the Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation clause contained in the above identified contract. Any reproduction of computer software or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such software must promptly notify the above named Contractor.</p>
          <p class="- topic/p ">(End of legend)</p>
          <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Special license rights markings</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) Computer software or computer software documentation in which the Government's rights stem from a specifically negotiated license shall be marked with the following legend:</p>
          <p class="- topic/p ">SPECIAL LICENSE RIGHTS</p>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" class="- topic/colspec " rowheader="headers" />
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -659,7 +471,7 @@
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p class="- topic/p "></p>
          <p class="- topic/p ">(End of legend)</p>
          <p outputclass="List3" class="- topic/p ">(ii) For purposes of this clause, special licenses do not include government purpose license rights acquired under a prior contract (see paragraph (b)(5) of this clause).</p>
          <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Pre-existing markings</i>. If the terms of a prior contract or license permitted the Contractor to restrict the Government's rights to use, modify, release, perform, display, or disclose computer software or computer software documentation and those restrictions are still applicable, the Contractor may mark such software or documentation with the appropriate restrictive legend for which the software qualified under the prior contract or license. The marking procedures in paragraph (f)(1) of this clause shall be followed.</p>
@@ -685,10 +497,7 @@
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <p class="- topic/p ">ALTERNATE I (JUN 1995)</p>
          <p class="- topic/p ">As prescribed in 
-               <xref href="227.7203-6.dita#DFARS-227.7203-6"
-                  base="i1379842"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7203-6</xref>
+               <xref href="227.7203-6.dita#DFARS_227.7203-6" base="i1379842" outputclass="fm:ParaNumOnly" class="- topic/xref ">227.7203-6</xref>
             (a)(2), add the following paragraph (l) to the basic clause:</p>
          <p outputclass="List1" class="- topic/p ">(l) <i class="+ topic/ph hi-d/i ">Publication for sale.</i>
          </p>

@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_208.7303"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_208.7303" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 208.7303</ph> Procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List2" class="- topic/p ">(1) Item managers and contracting officers will use the PMIC and/or other relevant data furnished with a purchase request to determine the applicability of this subpart.</p>
          <p outputclass="List2" class="- topic/p ">(2) When an offeror advises of a precious metals requirement, the contracting officer shall use the procedures in Chapter 11 of DoD 4160.21-M, Defense Materiel Disposition Manual, to determine availability of required precious metal assets and current Government-furnished materiel (GFM) unit prices. If the precious metals are available, the contracting officer shall evaluate offers and award the contract on the basis of the offer that is in the best interest of the Government.</p>
-         <p outputclass="List2" class="- topic/p ">(3) When the clause prescribed by DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-208.7305"
-                  href="208.7305.dita#DFARS-208.7305">208.7305</xref> is included in a solicitation, the contracting officer shall ensure that Section B, Schedule of Supplies or Services and Prices, is structured to—</p>
+         <p outputclass="List2" class="- topic/p ">(3) When the clause prescribed by DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-208.7305" href="208.7305.dita#DFARS_208.7305">208.7305</xref> is included in a solicitation, the contracting officer shall ensure that Section B, Schedule of Supplies or Services and Prices, is structured to—</p>
          <p outputclass="List3" class="- topic/p ">(i) Permit insertion of alternate prices for each deliverable contract line item number that uses precious metals; and</p>
          <p outputclass="List3" class="- topic/p ">(ii) Use dual pricing evaluation procedures.</p>
       </conbody>

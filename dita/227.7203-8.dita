@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-227.7203-8"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_227.7203-8" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">227.7203-8</ph> Deferred delivery and deferred ordering of computer software and computer software documentation.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Deferred delivery.</i>  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382930"
-                  href="252.227-7026.dita#DFARS-252.227-7026">252.227-7026</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382930" href="252.227-7026.dita#DFARS_252.227-7026">252.227-7026</xref>
             , Deferred Delivery of Technical Data or Computer Software, when it is in the Government's interests to defer the delivery of computer software or computer software documentation.  The clause permits the contracting officer to require the delivery of data identified as “deferred delivery” data or computer software at any time until two years after acceptance by the Government of all items (other than technical data or computer software) under the contract or contract termination, whichever is later.  The obligation of subcontractors or suppliers to deliver such data expires two years after the date the prime contractor accepts the last item from the subcontractor or supplier for use in the performance of the contract.  The contract must specify the computer software or computer software documentation that is subject to deferred delivery.  The contracting officer shall notify the contractor sufficiently in advance of the desired delivery date for such software or documentation to permit timely delivery.</p>
          <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Deferred ordering</i>.  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382935"
-                  href="252.227-7027.dita#DFARS-252.227-7027">252.227-7027</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382935" href="252.227-7027.dita#DFARS_252.227-7027">252.227-7027</xref>
             , Deferred Ordering of Technical Data or Computer Software, when a firm requirement for software or documentation has not been established prior to contract award but there is a potential need for computer software or computer software documentation.  Under this clause, the contracting officer may order any computer software or computer software documentation generated in the performance of the contract or any subcontract thereunder at any time until three years after acceptance of all items (other than technical data or computer software) under the contract or contract termination, whichever is later.  The obligation of subcontractors to deliver such technical data or computer software expires three years after the date the contractor accepts the last item under the subcontract.  When the software or documentation are ordered, the delivery dates shall be negotiated and the contractor compensated only for converting the software or documentation into the prescribed form, reproduction costs, and delivery costs. </p>
       </conbody>
    </concept>

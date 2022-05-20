@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-252.211-7003"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.211-7003" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.211-7003</ph> Item Unique Identification
 and Valuation.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="TaTEIv" class="- topic/p ">As prescribed in <xref href="211.274-6.dita#DFARS-211.274-6"
-                  base="i1377938"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">211.274-6</xref> (a)(1), use
+         <p id="TaTEIv" class="- topic/p ">As prescribed in <xref href="211.274-6.dita#DFARS_211.274-6" base="i1377938" outputclass="fm:ParaNumOnly" class="- topic/xref ">211.274-6</xref> (a)(1), use
 the following clause:</p>
          <p id="FQsddN" outputclass="Ctr_SmCaps" class="- topic/p ">ITEM UNIQUE IDENTIFICATION AND VALUATION
 (MAR 2022)</p>
@@ -46,10 +39,7 @@ defines the general category or intended use of the data that follows.</p>
 means a unique identification method that is in commercial use and
 has been recognized by DoD. All DoD recognized unique identification
 equivalents are listed at <ph id="q4gq5xpk" class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html" format="html" scope="external" class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
             </ph>.</p>
          <p id="RxJFAI" class="- topic/p ">“DoD item unique identification” means a system
 of marking items delivered to DoD with unique item identifiers that
@@ -130,10 +120,7 @@ identification equivalent.</p>
 to indicate which method of uniquely identifying a part has been
 used. The current list of accepted unique item identifier types
 is maintained at<ph class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html" format="html" scope="external" class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
             </ph>.</p>
          <p id="XrbpeT" outputclass="List1" class="- topic/p ">(b) The Contractor shall
 deliver all items under a contract line, subline, or exhibit line
@@ -311,10 +298,7 @@ submit the information required by paragraphs (d) and (e) of this
 clause as follows:</p>
          <p id="wMsrgn" outputclass="List2" class="- topic/p ">(1) End items shall be reported
 using the receiving report capability in Wide Area WorkFlow (WAWF)
-in accordance with the clause at <xref href="252.232-7003.dita#DFARS-252.232-7003"
-                  base="i1383228"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.232-7003</xref>. If WAWF
+in accordance with the clause at <xref href="252.232-7003.dita#DFARS_252.232-7003" base="i1383228" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.232-7003</xref>. If WAWF
 is not required by this contract, and the contractor is not using
 WAWF, follow the procedures at http://dodprocurementtoolbox.com/site/uidregistry/.</p>
          <p id="dLzJTP" outputclass="List2" class="- topic/p ">(2) Embedded items shall

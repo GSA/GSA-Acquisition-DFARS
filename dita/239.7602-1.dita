@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-239.7602-1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_239.7602-1" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">239.7602-1</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -30,10 +26,7 @@ services in accordance with the Cloud Computing Security Requirements
 Guide (SRG) (version in effect at the time the solicitation is issued
 or as authorized by the contracting officer) found at 
                <i class="+ topic/ph hi-d/i ">
-               <xref href="https://public.cyber.mil/dccs/"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://public.cyber.mil/dccs/</xref>
+               <xref href="https://public.cyber.mil/dccs/" format="html" scope="external" class="- topic/xref ">https://public.cyber.mil/dccs/</xref>
             </i>
             .</p>
          <p outputclass="List2" class="- topic/p ">(2) The contracting officer may award a

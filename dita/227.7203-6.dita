@@ -1,88 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-227.7203-6"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_227.7203-6" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">227.7203-6</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)(1) Use the clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.227-7014"
-                  href="252.227-7014.dita#DFARS-252.227-7014">252.227-7014</xref>, Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation, in solicitations and contracts when the successful offeror(s) will be required to deliver computer software or computer software documentation.  Do not use the clause when the only deliverable items are technical data (other than computer software documentation), commercial computer software or commercial computer software documentation, commercial items (see <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.7102-3"
-                  href="227.7102-3.dita#DFARS-227.7102-3">227.7102-3</xref>), special works (see <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.7205"
-                  href="227.7205.dita#DFARS-227.7205">227.7205</xref>), or contracts under the Small Business Innovation Research Program (see <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.7104"
-                  href="227.7104.dita#DFARS-227.7104">227.7104</xref>).  Except as provided in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.7107-2"
-                  href="227.7107-2.dita#DFARS-227.7107-2">227.7107-2</xref>, do not use the clause in architect-engineer and construction contracts.</p>
+         <p outputclass="List1" class="- topic/p ">(a)(1) Use the clause at <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.227-7014" href="252.227-7014.dita#DFARS_252.227-7014">252.227-7014</xref>, Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation, in solicitations and contracts when the successful offeror(s) will be required to deliver computer software or computer software documentation.  Do not use the clause when the only deliverable items are technical data (other than computer software documentation), commercial computer software or commercial computer software documentation, commercial items (see <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-227.7102-3" href="227.7102-3.dita#DFARS_227.7102-3">227.7102-3</xref>), special works (see <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-227.7205" href="227.7205.dita#DFARS_227.7205">227.7205</xref>), or contracts under the Small Business Innovation Research Program (see <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-227.7104" href="227.7104.dita#DFARS_227.7104">227.7104</xref>).  Except as provided in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-227.7107-2" href="227.7107-2.dita#DFARS_227.7107-2">227.7107-2</xref>, do not use the clause in architect-engineer and construction contracts.</p>
          <p outputclass="List2" class="- topic/p ">(2) Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7014.dita#DFARS-252.227-7014"
-                  base="i1382699"
-                  class="- topic/xref ">252.227-7014</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7014.dita#DFARS_252.227-7014" base="i1382699" class="- topic/xref ">252.227-7014</xref>
              with its Alternate I in research contracts when the contracting officer determines, in consultation with counsel, that public dissemination by the contractor would be—</p>
          <p outputclass="List3" class="- topic/p ">(i) In the interest of the Government; and</p>
          <p outputclass="List3" class="- topic/p ">(ii) Facilitated by the Government relinquishing its right to publish the work for sale, or to have others publish the work for sale on behalf of the Government.</p>
          <p outputclass="List1" class="- topic/p ">(b) Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7016.dita#DFARS-252.227-7016"
-                  base="i1382771"
-                  class="- topic/xref ">252.227-7016</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7016.dita#DFARS_252.227-7016" base="i1382771" class="- topic/xref ">252.227-7016</xref>
             , Rights in Bid or Proposal Information, in solicitations and contracts that include the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7014.dita#DFARS-252.227-7014"
-                  base="i1382699"
-                  class="- topic/xref ">252.227-7014</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7014.dita#DFARS_252.227-7014" base="i1382699" class="- topic/xref ">252.227-7014</xref>
             .</p>
          <p outputclass="List1" class="- topic/p ">(c) Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7019.dita#DFARS-252.227-7019"
-                  base="i1382855"
-                  class="- topic/xref ">252.227-7019</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7019.dita#DFARS_252.227-7019" base="i1382855" class="- topic/xref ">252.227-7019</xref>
             , Validation of Asserted Restrictions—Computer Software, in solicitations and contracts that include the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7014.dita#DFARS-252.227-7014"
-                  base="i1382699"
-                  class="- topic/xref ">252.227-7014</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7014.dita#DFARS_252.227-7014" base="i1382699" class="- topic/xref ">252.227-7014</xref>
             . The clause provides procedures for the validation of asserted restrictions on the Government's rights to use, release, or disclose computer software.</p>
          <p outputclass="List1" class="- topic/p ">(d) Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7025.dita#DFARS-252.227-7025"
-                  base="i1382915"
-                  class="- topic/xref ">252.227-7025</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7025.dita#DFARS_252.227-7025" base="i1382915" class="- topic/xref ">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends, in solicitations and contracts when it is anticipated that the Government will provide the contractor (other than a litigation support contractor covered by 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.204-7014.dita#DFARS-252.204-7014"
-                  base="i1381025"
-                  class="- topic/xref ">252.204-7014</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.204-7014.dita#DFARS_252.204-7014" base="i1381025" class="- topic/xref ">252.204-7014</xref>
             ), for performance of its contract, computer software or computer software documentation marked with another contractor's restrictive legend(s).</p>
          <p outputclass="List1" class="- topic/p ">(e) Use the provision at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7028.dita#DFARS-252.227-7028"
-                  base="i1382940"
-                  class="- topic/xref ">252.227-7028</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7028.dita#DFARS_252.227-7028" base="i1382940" class="- topic/xref ">252.227-7028</xref>
             , Technical Data or Computer Software Previously Delivered to the Government, in solicitations when the resulting contract will require the contractor to deliver computer software or computer software documentation. The provision requires offerors to identify any software or documentation specified in the solicitation as deliverable items that are the same or substantially the same as software or documentation which the offeror has delivered or is obligated to deliver, either as a contractor or subcontractor, under any other federal agency contract.</p>
          <p outputclass="List1" class="- topic/p ">(f) Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7037.dita#DFARS-252.227-7037"
-                  base="i1382985"
-                  class="- topic/xref ">252.227-7037</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7037.dita#DFARS_252.227-7037" base="i1382985" class="- topic/xref ">252.227-7037</xref>
             , Validation of Restrictive Markings on Technical Data, in solicitations and contracts that include the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.227-7014.dita#DFARS-252.227-7014"
-                  base="i1382699"
-                  class="- topic/xref ">252.227-7014</xref>
+               <xref outputclass="fm:ParaNumOnly" href="252.227-7014.dita#DFARS_252.227-7014" base="i1382699" class="- topic/xref ">252.227-7014</xref>
              when the contractor will be required to deliver noncommercial computer software documentation (technical data). The clause implements statutory requirements under 10 U.S.C. 2321. Paragraph (e) of the clause contains information that must be included in a formal challenge.</p>
       </conbody>
    </concept>

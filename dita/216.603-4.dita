@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-216.603-4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_216.603-4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">216.603-4</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(b)(2) See 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="217.7405.dita#DFARS-217.7405"
-                  base="DFARS-217.7405"
-                  class="- topic/xref ">217.7405</xref>
+               <xref outputclass="fm:ParaNumOnly" href="217.7405.dita#DFARS_217.7405" base="DFARS-217.7405" class="- topic/xref ">217.7405</xref>
             (a) for additional guidance regarding use of the clause at FAR 52.216-24, Limitation of Government Liability.</p>
-         <p outputclass="List2" class="- topic/p ">(3) Use the clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.217-7027"
-                  href="252.217-7027.dita#DFARS-252.217-7027">252.217-7027</xref>, Contract Definitization, in accordance with its prescription 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="217.7406.dita#DFARS-217.7406"
-                  base="DFARS-217.7406"
-                  class="- topic/xref ">217.7406</xref>
+         <p outputclass="List2" class="- topic/p ">(3) Use the clause at <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.217-7027" href="252.217-7027.dita#DFARS_252.217-7027">252.217-7027</xref>, Contract Definitization, in accordance with its prescription 
+               <xref outputclass="fm:ParaNumOnly" href="217.7406.dita#DFARS_217.7406" base="DFARS-217.7406" class="- topic/xref ">217.7406</xref>
             (b), instead of the clause at FAR 52.216-25, Contract Definitization.</p>
       </conbody>
    </concept>

@@ -1,42 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-205.301"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_205.301" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">205.301</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(S-70) <i class="+ topic/ph hi-d/i ">Synopsis of exceptions to domestic source requirements.</i>
          </p>
-         <p outputclass="List2" class="- topic/p ">(i) In accordance with 10 U.S.C. 2533a(k), contracting officers also must synopsize through the GPE, awards exceeding the simplified acquisition threshold that are for the acquisition of any clothing, fiber, yarn, or fabric items described in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7002-1"
-                  href="225.7002-1.dita#DFARS-225.7002-1">225.7002-1</xref>(a)(1)(ii) through (x), if -</p>
-         <p outputclass="List3" class="- topic/p ">(A) The Secretary concerned has determined that domestic items are not available, in accordance with <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7002-2"
-                  href="225.7002-2.dita#DFARS-225.7002-2">225.7002-2</xref>(b); or</p>
-         <p outputclass="List3" class="- topic/p ">(B) The acquisition is for chemical warfare protective clothing, and the contracting officer has determined that an exception to domestic source requirements applies because the acquisition furthers an agreement with a qualifying country, in accordance with <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7002-2"
-                  href="225.7002-2.dita#DFARS-225.7002-2">225.7002-2</xref>(n).</p>
+         <p outputclass="List2" class="- topic/p ">(i) In accordance with 10 U.S.C. 2533a(k), contracting officers also must synopsize through the GPE, awards exceeding the simplified acquisition threshold that are for the acquisition of any clothing, fiber, yarn, or fabric items described in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.7002-1" href="225.7002-1.dita#DFARS_225.7002-1">225.7002-1</xref>(a)(1)(ii) through (x), if -</p>
+         <p outputclass="List3" class="- topic/p ">(A) The Secretary concerned has determined that domestic items are not available, in accordance with <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.7002-2" href="225.7002-2.dita#DFARS_225.7002-2">225.7002-2</xref>(b); or</p>
+         <p outputclass="List3" class="- topic/p ">(B) The acquisition is for chemical warfare protective clothing, and the contracting officer has determined that an exception to domestic source requirements applies because the acquisition furthers an agreement with a qualifying country, in accordance with <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.7002-2" href="225.7002-2.dita#DFARS_225.7002-2">225.7002-2</xref>(n).</p>
          <p outputclass="List2" class="- topic/p ">(ii) The synopsis must be submitted in sufficient time to permit its publication not later than 7 days after contract award.</p>
          <p outputclass="List2" class="- topic/p ">(iii) In addition to the information otherwise required in a synopsis of contract award, the synopsis must include one of the following statements as applicable:</p>
-         <p outputclass="List3" class="- topic/p ">(A) “The exception at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7002-2"
-                  href="225.7002-2.dita#DFARS-225.7002-2">225.7002-2</xref>(b) applies to this acquisition, because the Secretary concerned has determined that items grown, reprocessed, reused, or produced in the United States cannot be acquired as and when needed in satisfactory quality and sufficient quantity at U.S. market prices.”</p>
-         <p outputclass="List3" class="- topic/p ">(B) “The exception at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7002-2"
-                  href="225.7002-2.dita#DFARS-225.7002-2">225.7002-2</xref>(n) applies to this acquisition, because the contracting officer has determined that this acquisition of chemical warfare protective clothing furthers an agreement with a qualifying country identified in DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.003"
-                  href="225.003.dita#DFARS-225.003">225.003</xref>(10).”</p>
+         <p outputclass="List3" class="- topic/p ">(A) “The exception at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.7002-2" href="225.7002-2.dita#DFARS_225.7002-2">225.7002-2</xref>(b) applies to this acquisition, because the Secretary concerned has determined that items grown, reprocessed, reused, or produced in the United States cannot be acquired as and when needed in satisfactory quality and sufficient quantity at U.S. market prices.”</p>
+         <p outputclass="List3" class="- topic/p ">(B) “The exception at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.7002-2" href="225.7002-2.dita#DFARS_225.7002-2">225.7002-2</xref>(n) applies to this acquisition, because the contracting officer has determined that this acquisition of chemical warfare protective clothing furthers an agreement with a qualifying country identified in DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.003" href="225.003.dita#DFARS_225.003">225.003</xref>(10).”</p>
       </conbody>
    </concept>
 </dita>

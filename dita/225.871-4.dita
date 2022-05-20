@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-225.871-4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_225.871-4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.871-4</ph> Statutory waivers.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -23,11 +18,7 @@
          <p outputclass="List2" class="- topic/p ">(3)  The cargo preference laws of the United States, including the Military Cargo Preference Act of 1904 (10 U.S.C. 2631) and the Cargo Preference Act of 1954 (46 U.S.C. 1241(b)); or</p>
          <p outputclass="List2" class="- topic/p ">(4)  Any of the financial management responsibilities administered by the Secretary of the Treasury.</p>
          <p outputclass="List1" class="- topic/p ">(c)  To request a waiver under a cooperative project, follow the procedures at PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_225.871-4"
-                  href="PGI_225.871-4.dita#DFARS-PGI_PGI_225.871-4"
-                  xtrc="225.871-4">PGI 225.871-4</xref>
+               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_225.871-4" href="PGI_225.871-4.dita#DFARS_PGI_PGI_225.871-4" xtrc="225.871-4">PGI 225.871-4</xref>
             .</p>
          <p outputclass="List1" class="- topic/p ">(d)  Obtain the approval of the Deputy Secretary of Defense before committing to make a waiver in an agreement or a contract.</p>
       </conbody>

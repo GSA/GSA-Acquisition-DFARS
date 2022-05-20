@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_225.001"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_225.001" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 225.001</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -17,14 +11,8 @@
          <p outputclass="List4" class="- topic/p ">(A) Statute (see DFARS Subpart 225.70); or</p>
          <p outputclass="List4" class="- topic/p ">(B) DoD policy (see DFARS Subpart 225.71,FAR 6.302-3, and DoD Directive 5230.11, Disclosure of Classified Military Information to Foreign Governments and International Organizations).</p>
          <p outputclass="List3" class="- topic/p ">(ii) If an exception to or waiver of a restriction in DFARS Subpart 225.70 or 225.71 would result in award of a foreign end product, apply the policies and procedures of the Buy American statute or the Balance of Payments Program, and, if applicable, the trade agreements.</p>
-         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Memoranda of understanding or other international agreements</i>. Determine whether the offered product is the product of one of the qualifying countries listed in DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.872-1"
-                  href="225.872-1.dita#DFARS-225.872-1">225.872-1</xref>.</p>
-         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Trade agreements</i>. If the product is not an eligible product, a qualifying country end product, or a U.S.-made end product, purchase of the foreign end product may be prohibited (see FAR 25.403(c) and DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.403"
-                  href="225.403.dita#DFARS-225.403">225.403</xref>(c)).</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Memoranda of understanding or other international agreements</i>. Determine whether the offered product is the product of one of the qualifying countries listed in DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.872-1" href="225.872-1.dita#DFARS_225.872-1">225.872-1</xref>.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Trade agreements</i>. If the product is not an eligible product, a qualifying country end product, or a U.S.-made end product, purchase of the foreign end product may be prohibited (see FAR 25.403(c) and DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.403" href="225.403.dita#DFARS_225.403">225.403</xref>(c)).</p>
          <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Other trade sanctions and prohibited sources</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) Determine whether the offeror complies with the secondary Arab boycott of Israel. Award to such offerors may be prohibited (see DFARS Subpart 225.76).</p>
          <p outputclass="List3" class="- topic/p ">(ii) Determine whether the offeror is a prohibited source (see FAR Subpart 25.7 and DFARS Subpart 225.7).</p>
