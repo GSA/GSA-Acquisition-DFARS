@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS_252.204-7019" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.204-7019"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.204-7019</ph> Notice of NIST
 SP 800-171 DoD Assessment Requirements.</title>
@@ -26,7 +30,10 @@ information system that is relevant to the offer, contract, task
 order, or delivery order. The Basic, Medium, and High NIST SP 800-171
 DoD Assessments are described in the NIST SP 800-171 DoD Assessment
 Methodology located at <ph id="g586jcd" class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html" format="html" scope="external" class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
+               <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
             </ph>.</p>
          <p id="sDcTZh" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Procedures</i>.</p>
          <p id="wUNVHv" outputclass="List2" class="- topic/p ">(1) The Offeror shall verify
@@ -75,13 +82,17 @@ plans are addressed in the email described at paragraph (d)(1)(i)
 of this section, the Offeror shall use the following format for
 the report:</p>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="6" colsep="1" rowsep="0" outputclass="Choice" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec " />
-               <colspec colnum="2" colname="2" colwidth="17*" class="- topic/colspec " />
-               <colspec colnum="3" colname="3" colwidth="17*" class="- topic/colspec " />
-               <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec " />
-               <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec " />
-               <colspec colnum="6" colname="6" colwidth="17*" class="- topic/colspec " />
+            <tgroup cols="6"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="Choice"
+                    class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="17*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="17*" class="- topic/colspec "/>
+               <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec "/>
+               <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec "/>
+               <colspec colnum="6" colname="6" colwidth="17*" class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -107,62 +118,62 @@ architecture</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p id="QkgcXF" class="- topic/p "></p>
+                        <p id="QkgcXF" class="- topic/p "/>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p id="vXqVQv" class="- topic/p "></p>
+                        <p id="vXqVQv" class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="YRuRkW" class="- topic/p "></p>
+                        <p id="YRuRkW" class="- topic/p "/>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="AypkwL" class="- topic/p "></p>
+                        <p id="AypkwL" class="- topic/p "/>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="DXFJvj" class="- topic/p "></p>
+                        <p id="DXFJvj" class="- topic/p "/>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="mPXfar" class="- topic/p "></p>
+                        <p id="mPXfar" class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p id="isMjdD" class="- topic/p "></p>
+                        <p id="isMjdD" class="- topic/p "/>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p id="xKzNWx" class="- topic/p "></p>
+                        <p id="xKzNWx" class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="wxZixS" class="- topic/p "></p>
+                        <p id="wxZixS" class="- topic/p "/>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="yRVJDd" class="- topic/p "></p>
+                        <p id="yRVJDd" class="- topic/p "/>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="OOkNIF" class="- topic/p "></p>
+                        <p id="OOkNIF" class="- topic/p "/>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="lHADmd" class="- topic/p "></p>
+                        <p id="lHADmd" class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p id="wIFeLG" class="- topic/p "></p>
+                        <p id="wIFeLG" class="- topic/p "/>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p id="SgXSKp" class="- topic/p "></p>
+                        <p id="SgXSKp" class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p id="EyROxs" class="- topic/p "></p>
+                        <p id="EyROxs" class="- topic/p "/>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p id="JHhNhq" class="- topic/p "></p>
+                        <p id="JHhNhq" class="- topic/p "/>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p id="RdcDxN" class="- topic/p "></p>
+                        <p id="RdcDxN" class="- topic/p "/>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p id="axiptd" class="- topic/p "></p>
+                        <p id="axiptd" class="- topic/p "/>
                      </entry>
                   </row>
                </tbody>
@@ -200,7 +211,10 @@ Information (PI).</p>
          <p id="DvBkxK" outputclass="List3" class="- topic/p ">(ii) Authorized representatives
 of the Offeror for which the assessment was conducted may access
 SPRS to view their own summary level scores, in accordance with
-the SPRS Software User’s Guide for Awardees/Contractors available at <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf" format="pdf" scope="external" class="- topic/xref ">https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>.</p>
+the SPRS Software User’s Guide for Awardees/Contractors available at <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
+                  format="pdf"
+                  scope="external"
+                  class="- topic/xref ">https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>.</p>
          <p id="QZroFC" outputclass="List3" class="- topic/p ">(iii) A High NIST SP 800-171
 DoD Assessment may result in documentation in addition to that listed
 in this section. DoD will retain and protect any such documentation

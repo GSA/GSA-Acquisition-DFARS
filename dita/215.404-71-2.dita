@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_215.404-71-2" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_215.404-71-2"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">215.404-71-2</ph> Performance risk.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -18,13 +23,41 @@ are met; and</p>
          <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Determination.</i> The following
 extract from the DD Form 1547 is annotated to describe the process.</p>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="6" colsep="1" rowsep="0" outputclass="FormatA" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="17*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="17*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="6" colname="6" colwidth="17*" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="6"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="FormatA"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" colsep="0" class="- topic/entry ">Item</entry>
@@ -72,14 +105,34 @@ criteria in paragraphs (d) and (e) of this subsection.</p>
          <p outputclass="List2" class="- topic/p ">(3) Compute the composite as shown in the
 following example:</p>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="4" colsep="1" rowsep="0" outputclass="FormatA" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="25*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="25*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="25*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="25*" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="4"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="FormatA"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="25*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="25*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="25*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="25*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry " />
+                     <entry colname="1" colsep="0" class="- topic/entry "/>
                      <entry colname="2" colsep="0" class="- topic/entry ">Assigned weighting (percent)</entry>
                      <entry colname="3" colsep="0" class="- topic/entry ">Assigned value (percent)</entry>
                      <entry colname="4" class="- topic/entry ">Weighted value (percent)</entry>
@@ -102,7 +155,7 @@ Control</entry>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="0" align="left" class="- topic/entry ">Composite Value</entry>
                      <entry colname="2" colsep="0" align="right" class="- topic/entry ">100</entry>
-                     <entry colname="3" colsep="0" align="right" class="- topic/entry " />
+                     <entry colname="3" colsep="0" align="right" class="- topic/entry "/>
                      <entry colname="4" align="right" class="- topic/entry ">
                         4.6
                      </entry>
@@ -116,13 +169,29 @@ capital cost of money.</p>
          <p outputclass="List2" class="- topic/p ">(5) Multiply (3) by (4).</p>
          <p outputclass="List1" class="- topic/p ">(c) Values: Normal and designated ranges.</p>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="3" colsep="1" rowsep="0" outputclass="FormatA" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="33*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="33*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="33*" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="3"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="FormatA"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="33*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="33*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="33*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry " />
+                     <entry colname="1" colsep="0" class="- topic/entry "/>
                      <entry colname="2" colsep="0" class="- topic/entry ">Normal value (percent)</entry>
                      <entry colname="3" class="- topic/entry ">Designated range</entry>
                   </row>

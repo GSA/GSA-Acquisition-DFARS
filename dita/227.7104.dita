@@ -1,48 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_227.7104" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_227.7104"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">227.7104</ph> Contracts under the Small Business Innovation Research (SBIR) Program.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382791" href="252.227-7018.dita#DFARS_252.227-7018">252.227-7018</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382791"
+                  href="252.227-7018.dita#DFARS_252.227-7018">252.227-7018</xref>
             , Rights in Noncommercial Technical Data and Computer Software–Small Business Innovation Research (SBIR) Program, when technical data or computer software will be generated during performance of contracts under the SBIR program.</p>
          <p outputclass="List1" class="- topic/p ">(b)  Under the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382791" href="252.227-7018.dita#DFARS_252.227-7018">252.227-7018</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382791"
+                  href="252.227-7018.dita#DFARS_252.227-7018">252.227-7018</xref>
             , the Government obtains SBIR data rights in technical data and computer software generated under the contract and marked with the SBIR data rights legend.  SBIR data rights provide the Government limited rights in such technical data and restricted rights in such computer software during the SBIR data protection period commencing with contract award and ending five years after completion of the project under which the data were generated.  Upon expiration of the five-year restrictive license, the Government has unlimited rights in the SBIR technical data and computer software.  </p>
          <p outputclass="List1" class="- topic/p ">(c)  During the SBIR data protection period, the Government may not release or disclose SBIR technical data or computer software to any person except as authorized for limited rights technical data or restricted rights computer software, respectively.</p>
          <p outputclass="List1" class="- topic/p ">(d)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382791" href="252.227-7018.dita#DFARS_252.227-7018">252.227-7018</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382791"
+                  href="252.227-7018.dita#DFARS_252.227-7018">252.227-7018</xref>
              with its Alternate I in research contracts when the contracting officer determines, in consultation with counsel, that public dissemination by the contractor would be—</p>
          <p outputclass="List2" class="- topic/p ">(1)  In the interest of the Government; and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Facilitated by the Government relinquishing its right to publish the work for sale, or to have others publish the work for sale on behalf of the Government.</p>
          <p outputclass="List1" class="- topic/p ">(e)  Use the following provision and clauses in SBIR solicitations and contracts that include the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382791" href="252.227-7018.dita#DFARS_252.227-7018">252.227-7018</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382791"
+                  href="252.227-7018.dita#DFARS_252.227-7018">252.227-7018</xref>
             :</p>
          <p outputclass="List2" class="- topic/p ">(1)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382771" href="252.227-7016.dita#DFARS_252.227-7016">252.227-7016</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382771"
+                  href="252.227-7016.dita#DFARS_252.227-7016">252.227-7016</xref>
             , Rights in Bid or Proposal Information;</p>
          <p outputclass="List2" class="- topic/p ">(2)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382786" href="252.227-7017.dita#DFARS_252.227-7017">252.227-7017</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382786"
+                  href="252.227-7017.dita#DFARS_252.227-7017">252.227-7017</xref>
             , Identification and Assertion of Use, Release, or Disclosure Restrictions;</p>
          <p outputclass="List2" class="- topic/p ">(3)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382855" href="252.227-7019.dita#DFARS_252.227-7019">252.227-7019</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382855"
+                  href="252.227-7019.dita#DFARS_252.227-7019">252.227-7019</xref>
             , Validation of Asserted Restrictions–Computer Software;</p>
          <p outputclass="List2" class="- topic/p ">(4)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382950" href="252.227-7030.dita#DFARS_252.227-7030">252.227-7030</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382950"
+                  href="252.227-7030.dita#DFARS_252.227-7030">252.227-7030</xref>
             , Technical Data–Withholding of Payment; and</p>
          <p outputclass="List2" class="- topic/p ">(5)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382985" href="252.227-7037.dita#DFARS_252.227-7037">252.227-7037</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382985"
+                  href="252.227-7037.dita#DFARS_252.227-7037">252.227-7037</xref>
             , Validation of Restrictive Markings on Technical Data (paragraph (e) of the clause contains information that must be included in a challenge).</p>
          <p outputclass="List1" class="- topic/p ">(f)  Use the following clauses and provision in SBIR solicitations and contracts in accordance with the guidance at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1379639" href="227.7103-6.dita#DFARS_227.7103-6">227.7103-6</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1379639"
+                  href="227.7103-6.dita#DFARS_227.7103-6">227.7103-6</xref>
             (c) and (d):</p>
          <p outputclass="List2" class="- topic/p ">(1)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382915" href="252.227-7025.dita#DFARS_252.227-7025">252.227-7025</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382915"
+                  href="252.227-7025.dita#DFARS_252.227-7025">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends; and</p>
          <p outputclass="List2" class="- topic/p ">(2)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382940" href="252.227-7028.dita#DFARS_252.227-7028">252.227-7028</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382940"
+                  href="252.227-7028.dita#DFARS_252.227-7028">252.227-7028</xref>
             , Technical Data or Computer Software Previously Delivered to the Government.</p>
       </conbody>
    </concept>

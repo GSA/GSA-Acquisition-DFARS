@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_204.1603" outputclass="3" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_PGI_204.1603"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.1603</ph> Procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -16,21 +22,75 @@ Enterprise Business System (EBS).</p>
          <p outputclass="List2" class="- topic/p ">(1) Examples of proper numbering for positions
 2-6 (the first position will be either A or P) are as follows:</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="10" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="17*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="17*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="6" colname="6" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="7" colname="7" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="8" colname="8" colwidth="9*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="9" colname="9" colwidth="9*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="10" colname="10" colwidth="9*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="10"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="8"
+                        colname="8"
+                        colwidth="9*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="9"
+                        colname="9"
+                        colwidth="9*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="10"
+                        colname="10"
+                        colwidth="9*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">Normal modification</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -39,37 +99,37 @@ use</p>
                         <p class="- topic/p ">by the Air Force only)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">Shipping Instructions</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry " />
-                     <entry colname="5" class="- topic/entry " />
-                     <entry colname="6" class="- topic/entry " />
-                     <entry colname="7" class="- topic/entry " />
-                     <entry colname="8" class="- topic/entry " />
-                     <entry colname="9" class="- topic/entry " />
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry "/>
+                     <entry colname="7" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
-                     <entry colname="2" class="- topic/entry " />
-                     <entry colname="3" class="- topic/entry " />
-                     <entry colname="4" class="- topic/entry " />
-                     <entry colname="5" class="- topic/entry " />
-                     <entry colname="6" class="- topic/entry " />
-                     <entry colname="7" class="- topic/entry " />
-                     <entry colname="8" class="- topic/entry " />
-                     <entry colname="9" class="- topic/entry " />
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="2" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry "/>
+                     <entry colname="7" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">00001 — 99999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">K0001</p>
@@ -81,7 +141,7 @@ use</p>
                         <p class="- topic/p ">K9999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">S0001</p>
@@ -92,14 +152,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">S9999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">then</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">KA001</p>
@@ -111,7 +171,7 @@ use</p>
                         <p class="- topic/p ">KZ999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">SA001</p>
@@ -122,14 +182,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">SZ999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">A0001 — A9999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">L0001</p>
@@ -141,7 +201,7 @@ use</p>
                         <p class="- topic/p ">L9999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">T0001</p>
@@ -152,14 +212,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">T9999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">B0001 — B9999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">LA001</p>
@@ -171,7 +231,7 @@ use</p>
                         <p class="- topic/p ">LZ999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">TA001</p>
@@ -182,14 +242,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">TZ999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">and so on to</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">M0001</p>
@@ -201,7 +261,7 @@ use</p>
                         <p class="- topic/p ">M9999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">U0001</p>
@@ -212,14 +272,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">U9999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">H0001 — H9999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">MA001</p>
@@ -231,7 +291,7 @@ use</p>
                         <p class="- topic/p ">MZ999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">UA001</p>
@@ -242,14 +302,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">UZ999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">then</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">N0001</p>
@@ -261,7 +321,7 @@ use</p>
                         <p class="- topic/p ">N9999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">V0001</p>
@@ -272,14 +332,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">V9999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">J0001 — J9999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">NA001</p>
@@ -291,7 +351,7 @@ use</p>
                         <p class="- topic/p ">NZ999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">VA001</p>
@@ -302,14 +362,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">VZ999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">then</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">P0001</p>
@@ -321,7 +381,7 @@ use</p>
                         <p class="- topic/p ">P9999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">W0001</p>
@@ -332,14 +392,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">W9999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">R0001 — R9999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">PA001</p>
@@ -351,7 +411,7 @@ use</p>
                         <p class="- topic/p ">PZ999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">WA001</p>
@@ -362,14 +422,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">WZ999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">then</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">Q0001</p>
@@ -381,7 +441,7 @@ use</p>
                         <p class="- topic/p ">Q9999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">X0001</p>
@@ -392,14 +452,14 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">X9999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">AA001 — HZ999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">QA001</p>
@@ -411,7 +471,7 @@ use</p>
                         <p class="- topic/p ">QZ999</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">XA001</p>
@@ -422,56 +482,56 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">XZ999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">then</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">JA001 — JZ999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">Y0001</p>
@@ -482,26 +542,26 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">Y9999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">RA001 — RZ999</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p class="- topic/p ">YA001</p>
@@ -512,7 +572,7 @@ use</p>
                      <entry colname="9" class="- topic/entry ">
                         <p class="- topic/p ">YZ999</p>
                      </entry>
-                     <entry colname="10" class="- topic/entry " />
+                     <entry colname="10" class="- topic/entry "/>
                   </row>
                </tbody>
             </tgroup>

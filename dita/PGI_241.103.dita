@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_241.103" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_241.103"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 241.103</ph> Statutory and delegated authority.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Summary of Statutory Authority for Utility/Energy Purchases </p>
-         <p class="- topic/p "></p>
+         <p class="- topic/p "/>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="3" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="47*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="33*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="21*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="3"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="47*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="33*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="21*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -63,7 +88,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry " namest="1" nameend="3">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">* Section 8093 of Public Law 100-202 specifically
                            precludes the Federal Government from expending appropriated funds to
                            purchase electricity in a manner inconsistent with State law and
@@ -72,7 +97,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry " namest="1" nameend="3">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">** 5 years in support of facilities and installations
                            (10 U.S.C. 2306b) and 4 years for military family housing (10 U.S.C.
                            2829).</p>
@@ -80,7 +105,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry " namest="1" nameend="3">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">*** GSA has delegated to DoD its authority, under 40
                            U.S.C. 501(b), to enter into utility service contracts for periods not
                            exceeding 10 years. Absent this authority, the length of DoD utility
@@ -92,7 +117,7 @@
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "></p>
+         <p class="- topic/p "/>
       </conbody>
    </concept>
 </dita>

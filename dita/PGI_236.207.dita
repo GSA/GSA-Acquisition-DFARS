@@ -1,20 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_236.207" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_236.207"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 236.207</ph> Pricing Fixed-Price Construction Contracts.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(70) <i class="+ topic/ph hi-d/i ">Definition</i>: “lump sum” means a single payment of money, as opposed to a series of payments made over time.</p>
          <p outputclass="List3" class="- topic/p ">(i) An example of a line item with lump sum pricing in accordance with DFARS 204.71 is as follows:</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="29*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="16*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="18*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="6" colname="6" colwidth="18*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="6"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="11*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="29*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="16*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="18*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="18*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -65,13 +105,47 @@
          <p class="- topic/p ">Note that payment would occur upon completion and acceptance of the entire effort. Progress payments based on estimates of the percentage of completion (see FAR 52.232-5—Payments Under Fixed-Price Construction Contracts) could occur prior to that point.</p>
          <p outputclass="List3" class="- topic/p ">(ii) An example of a line item with unit pricing in accordance with DFARS 204.71 is as follows:</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="13*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="31*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="17*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="9*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="12*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="6" colname="6" colwidth="18*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="6"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="13*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="31*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="9*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="12*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="18*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">

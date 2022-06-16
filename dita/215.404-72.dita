@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_215.404-72" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_215.404-72"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">215.404-72</ph> Modified weighted guidelines method for nonprofit organizations other than FFRDCs.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -11,19 +16,31 @@
          <p outputclass="List2" class="- topic/p ">(3)  Whose activities do not involve influencing legislation or political campaigning for any candidate for public office; and</p>
          <p outputclass="List2" class="- topic/p ">(4)  That is exempted from Federal income taxation under section 501 of the Internal Revenue Code.</p>
          <p outputclass="List1" class="- topic/p ">(b)  For nonprofit organizations that are entities that have been identified by the Secretary of Defense or a Secretary of a Department as receiving sustaining support on a cost-plus-fixed-fee basis from a particular DoD department or agency, compute a fee objective for covered actions using the weighted guidelines method in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378203" href="215.404-71.dita#DFARS_215.404-71">215.404-71</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378203"
+                  href="215.404-71.dita#DFARS_215.404-71">215.404-71</xref>
             , with the following modifications:</p>
          <p outputclass="List2" class="- topic/p ">(1)  <i class="+ topic/ph hi-d/i ">Modifications to performance risk (Blocks 21-23 of the DD Form 1547).</i>
          </p>
          <p outputclass="List3" class="- topic/p ">(i)  If the contracting officer assigns a value from the standard designated range (see 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378203" href="215.404-71.dita#DFARS_215.404-71">215.404-71</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378203"
+                  href="215.404-71.dita#DFARS_215.404-71">215.404-71</xref>
             -2(c)), reduce the fee objective by an amount equal to 1 percent of the costs in Block 20 of the DD Form 1547.  Show the net (reduced) amount on the DD Form 1547.</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Do not assign a value from the technology incentive designated range.</p>
          <p outputclass="List2" class="- topic/p ">(2)  <i class="+ topic/ph hi-d/i ">Modifications to contract type risk (Block 24 of the DD Form 1547).</i>  Use a designated range of –1 percent to 0 percent instead of the values in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378203" href="215.404-71.dita#DFARS_215.404-71">215.404-71</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378203"
+                  href="215.404-71.dita#DFARS_215.404-71">215.404-71</xref>
             -3.  There is no normal value.</p>
          <p outputclass="List1" class="- topic/p ">(c)  For all other nonprofit organizations except FFRDCs, compute a fee objective for covered actions using the weighted guidelines method in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378203" href="215.404-71.dita#DFARS_215.404-71">215.404-71</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378203"
+                  href="215.404-71.dita#DFARS_215.404-71">215.404-71</xref>
             , modified as described in paragraph (b)(1) of this subsection.</p>
       </conbody>
    </concept>

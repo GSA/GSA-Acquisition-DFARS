@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_225.373" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_225.373"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 225.373</ph> Contract administration in support of contingency operations.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -16,7 +22,11 @@
          <p outputclass="List3" class="- topic/p ">(ii) The memorandum of agreement should take into consideration the combat support agency’s core competencies, workload priorities, and contract administration services support parameters for accepting requests for contract administration services support.</p>
          <p outputclass="List3" class="- topic/p ">(iii) A combat support agency shall not be assigned to perform tasks outside its mission functions, responsibilities, or core competencies.</p>
          <p outputclass="List3" class="- topic/p ">(iv) Contracting officers contemplating requesting contract administration support in a contingency area from a combat support agency should first ascertain whether such a memorandum of agreement exists by contacting their combat support agency point of contact and/or checking the combatant commander operational contract support website (referenced in DFARS PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_225.370" href="PGI_225.370.dita#DFARS_PGI_PGI_225.370" xtrc="225.370">PGI 225.370</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_225.370"
+                  href="PGI_225.370.dita#DFARS_PGI_PGI_225.370"
+                  xtrc="225.370">225.370</xref>
             ).</p>
          <p outputclass="List3" class="- topic/p ">(v) The following is a notional format for a memorandum of agreement for contract administration services support;</p>
          <p outputclass="List4" class="- topic/p ">(A) Purpose: Outline formal procedures for requesting contract administration services support, describe objectives associated with combat support agency providing such support.</p>
@@ -32,8 +42,16 @@
          <p outputclass="List4" class="- topic/p ">(F) Joint resolution process – procedures in the event of disagreement on actions to be supported by the combat support agency.</p>
          <p outputclass="List4" class="- topic/p ">(G) Term of the Agreement and Modification - length of time the agreement will be in effect and procedures for the parties to modify or terminate it.</p>
          <p outputclass="List2" class="- topic/p ">(4) Disputes regarding requested support should be resolved at the lowest management level possible, through a predetermined resolution process. When support issues arise that affect the ability of a combat support agency to provide contract administration support that cannot be resolved at lower management levels, follow procedures set forth in DoDI 3000.06, Combat Support Agencies, paragraphs 5.6.8 and 5.6.9, (http://www.dtic.mil/whs/directives/corres/pdf/300006p.pdf).</p>
-         <p outputclass="List2" class="- topic/p ">(5) Responsibilities of the head of the contracting activity for contingency contract closeout are addressed at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-204.804" href="204.804.dita#DFARS_204.804" xtrc="204.804">204.804</xref>(2). See also planning considerations at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_207.105" href="PGI_207.105.dita#DFARS_PGI_PGI_207.105" xtrc="207.105">PGI 207.105</xref>
+         <p outputclass="List2" class="- topic/p ">(5) Responsibilities of the head of the contracting activity for contingency contract closeout are addressed at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-204.804"
+                  href="204.804.dita#DFARS_204.804"
+                  xtrc="204.804">204.804</xref>(2). See also planning considerations at PGI 
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_207.105"
+                  href="PGI_207.105.dita#DFARS_PGI_PGI_207.105"
+                  xtrc="207.105">207.105</xref>
             (b)(20)(C)(8).</p>
       </conbody>
    </concept>

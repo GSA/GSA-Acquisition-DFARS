@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_216.470" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_216.470"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 216.470</ph> Other applications of award fees.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -14,14 +20,53 @@
          <p outputclass="List2" class="- topic/p ">(4) An award review board and procedures are established for conduct of the evaluation.</p>
          <p outputclass="List2" class="- topic/p ">(5) The administrative costs of evaluation do not exceed the expected benefits.</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="7" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="6" colname="6" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="7" colname="7" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="7"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry " namest="1" nameend="7">
@@ -30,10 +75,10 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Submarginal</p>
@@ -80,7 +125,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(A-2)</p>
@@ -109,7 +154,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(A-3)</p>
@@ -168,7 +213,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(B-2)</p>
@@ -196,7 +241,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(B-3)</p>
@@ -259,7 +304,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(B-5)</p>
@@ -318,7 +363,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(C-2)</p>
@@ -345,7 +390,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(C-3)</p>
@@ -375,24 +420,113 @@
             </tgroup>
          </table>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="17" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="6" colname="6" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="7" colname="7" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="8" colname="8" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="9" colname="9" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="10" colname="10" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="11" colname="11" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="12" colname="12" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="13" colname="13" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="14" colname="14" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="15" colname="15" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="16" colname="16" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="17" colname="17" colwidth="2*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="17"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="8"
+                        colname="8"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="9"
+                        colname="9"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="10"
+                        colname="10"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="11"
+                        colname="11"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="12"
+                        colname="12"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="13"
+                        colname="13"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="14"
+                        colname="14"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="15"
+                        colname="15"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="16"
+                        colname="16"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="17"
+                        colname="17"
+                        colwidth="2*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -400,52 +534,52 @@
                            REPORT</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -456,49 +590,49 @@
                         <p class="- topic/p ">Period of ____________________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -509,49 +643,49 @@
                         <p class="- topic/p ">Contract Number ______________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -562,49 +696,49 @@
                         <p class="- topic/p ">Contractor ____________________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -615,49 +749,49 @@
                         <p class="- topic/p ">Date of Report _________________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -668,102 +802,102 @@
                         <p class="- topic/p ">PNS Technical Monitor/s________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">____________________________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -783,37 +917,37 @@
                         <p class="- topic/p ">EVALUATION RATING</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">CATEGORY FACTOR</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">EFFICIENCY RATING</p>
@@ -821,185 +955,185 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">A-1 Adher-ence to Plan Schedule</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.40</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">A-2 Action on</p>
                         <p class="- topic/p ">Anticipated Delays</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.30</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">A-3 Plan Maintenance</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.30</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Total Item Weighed Rating</p>
@@ -1017,37 +1151,37 @@
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -1058,339 +1192,339 @@
                         <p class="- topic/p ">QUALITY OF WORK</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">B-1 Work Appearance</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.15</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">B-2 Thorough-ness and Accuracy of Work</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.30</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">B-3 Engineering Competence</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.20</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">B-4 Liaison Effectiveness</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.15</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">B-5 Indepen-dence and Initiative</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">________</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.15</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Total Item Weighed Rating</p>
@@ -1411,49 +1545,88 @@
                         <p class="- topic/p ">__________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "></p>
+         <p class="- topic/p "/>
          <table frame="topbot" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="7" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="14*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="16*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="5*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="5*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="3*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="6" colname="6" colwidth="10*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="7" colname="7" colwidth="3*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="7"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="16*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="5*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="5*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="3*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="10*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="3*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -1464,105 +1637,105 @@
                            COSTS</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">C-1 Utilization of Personnel</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">_______</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.30</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">C-2 Control of all Direct Charges Other than Labor</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">_______</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.30</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">C-3 Performance to Cost Estimate</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">_______</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "> x</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">.40</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">__________</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Total Item Weighed Rating</p>
@@ -1585,45 +1758,45 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">TOTAL WEIGHT RATING
                            _________________________________</p>
                      </entry>
-                     <entry />
-                     <entry />
-                     <entry />
-                     <entry />
-                     <entry />
+                     <entry/>
+                     <entry/>
+                     <entry/>
+                     <entry/>
+                     <entry/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Rated by:
                            _________________________________________________</p>
                      </entry>
-                     <entry />
-                     <entry />
-                     <entry />
-                     <entry />
-                     <entry />
+                     <entry/>
+                     <entry/>
+                     <entry/>
+                     <entry/>
+                     <entry/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Signature(s)
                            _______________________________________________</p>
                      </entry>
-                     <entry />
-                     <entry />
-                     <entry />
-                     <entry />
-                     <entry />
+                     <entry/>
+                     <entry/>
+                     <entry/>
+                     <entry/>
+                     <entry/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry " namest="1" nameend="7">

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_204.1870-2" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_PGI_204.1870-2"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.1870-2</ph> Maintenance
 of the CAGE file.</title>
@@ -65,7 +71,10 @@ physical address will be requested (i.e., specific additions of
 suites, floors, or room numbers) to distinguish between the two
 entities. If no more specific physical address is able to be identified,
 then documentation such as that listed in PGI 
-               <xref href="#DFARS_PGI_PGI_204.1870-2" base="DFARS-PGI_PGI_204.1870-2" outputclass="fm:ParaNumOnly" class="- topic/xref ">204.1870-2</xref>
+               <xref href="#DFARS_PGI_PGI_204.1870-2"
+                  base="DFARS-PGI_PGI_204.1870-2"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.1870-2</xref>
             (c)(3)(i)(A)
 will be requested to ensure that the entities are separate legal
 entities.</p>
@@ -96,7 +105,10 @@ Dun &amp; Bradstreet (D&amp;B) record to begin the process and then
 proceed to update and submit their SAM registration for validation.
 If the update includes a change to the entity’s legal business name,
 the additional steps at PGI 
-               <xref href="#DFARS_PGI_PGI_204.1870-2" base="DFARS-PGI_PGI_204.1870-2" outputclass="fm:ParaNumOnly" class="- topic/xref ">204.1870-2</xref>
+               <xref href="#DFARS_PGI_PGI_204.1870-2"
+                  base="DFARS-PGI_PGI_204.1870-2"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.1870-2</xref>
             (c)(3)(i)(C)
 will be necessary.</p>
          <p outputclass="List4" class="- topic/p ">(B) For CAGE records for which there is

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_216.601" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_216.601"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">216.601</ph> Time-and-materials contracts.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -28,7 +33,10 @@
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">5</i>)  Describe the actions planned to minimize the use of time-and-materials and labor-hour contracts on future acquisitions for the same requirements.</p>
          <p outputclass="List4" class="- topic/p ">(C)  <i class="+ topic/ph hi-d/i ">Indefinite-delivery contracts</i>.  For indefinite-delivery contracts, the contracting officer shall structure contracts that authorize time-and-materials orders to also authorize orders on a cost-reimbursement, incentive, or fixed-price basis, to the maximum extent practicable.</p>
          <p outputclass="List1" class="- topic/p ">(e)  <i class="+ topic/ph hi-d/i ">Solicitation provisions</i>.  Use the provision at FAR 52.216-29, Time-and-Materials/Labor-Hour Proposal Requirements – Non-Commercial Item Acquisition with Adequate Price Competition, with 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1381510" href="252.216-7002.dita#DFARS_252.216-7002">252.216-7002</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1381510"
+                  href="252.216-7002.dita#DFARS_252.216-7002">252.216-7002</xref>
             , Alternate A, in solicitations contemplating the use of a time-and-materials or labor-hour contract type for non-commercial items if the price is expected to be based on adequate competition.</p>
       </conbody>
    </concept>

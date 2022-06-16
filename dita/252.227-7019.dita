@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.227-7019" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_252.227-7019"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.227-7019</ph> Validation of Asserted Restrictions—Computer Software.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
-               <xref href="227.7104.dita#DFARS_227.7104" base="DFARS-227.7104" outputclass="fm:ParaNumOnly" class="- topic/xref ">227.7104</xref>
+               <xref href="227.7104.dita#DFARS_227.7104"
+                  base="DFARS-227.7104"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">227.7104</xref>
             (e)(3) or 
-               <xref href="227.7203-6.dita#DFARS_227.7203-6" base="i1379842" outputclass="fm:ParaNumOnly" class="- topic/xref ">227.7203-6</xref>
+               <xref href="227.7203-6.dita#DFARS_227.7203-6"
+                  base="i1379842"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">227.7203-6</xref>
             (c), use the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">VALIDATION OF ASSERTED RESTRICTIONS—COMPUTER SOFTWARE (SEP 2016)</p>
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i>
@@ -54,9 +65,15 @@
          <p outputclass="List3" class="- topic/p ">(ii) File suit in an appropriate court within ninety (90) days from such date; or</p>
          <p outputclass="List3" class="- topic/p ">(iii) File suit within one year after the date of the Contracting Officer's final decision if the Contractor had provided notice of intent to file suit within ninety (90) days following the date of the Contracting Officer's final decision.</p>
          <p outputclass="List2" class="- topic/p ">(3) The agency head, on a nondelegable basis, may determine that urgent or compelling circumstances do not permit awaiting the filing of suit in an appropriate court, or the rendering of a decision by a court of competent jurisdiction or Board of Contract Appeals. In that event, the agency head shall notify the Contractor of the urgent or compelling circumstances. Notwithstanding paragraph (g)(1) of this clause, the Contractor agrees that the agency may use, modify, reproduce, release, perform, display, or disclose computer software marked with (i) government purpose legends for any purpose, and authorize others to do so; or (ii) restricted or special license rights for government purposes only. The Government agrees not to release or disclose such software unless, prior to release or disclosure, the intended recipient is subject to the use and non-disclosure agreement at 
-               <xref href="227.7103-7.dita#DFARS_227.7103-7" base="i1379644" outputclass="fm:ParaNumOnly" class="- topic/xref ">227.7103-7</xref>
+               <xref href="227.7103-7.dita#DFARS_227.7103-7"
+                  base="i1379644"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">227.7103-7</xref>
              of the Defense Federal Acquisition Regulation Supplement (DFARS), or is a Government contractor receiving access to the software for performance of a Government contract that contains the clause at DFARS 
-               <xref href="252.227-7025.dita#DFARS_252.227-7025" base="i1382915" outputclass="fm:ParaNumOnly" class="- topic/xref ">252.227-7025</xref>
+               <xref href="252.227-7025.dita#DFARS_252.227-7025"
+                  base="i1382915"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.227-7025</xref>
             , Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends. The agency head's determination may be made at any time after the date of the Contracting Officer's final decision and shall not affect the Contractor's right to damages against the United States, or other relief provided by law, if its asserted restrictions are ultimately upheld.</p>
          <p outputclass="List1" class="- topic/p ">(h) <i class="+ topic/ph hi-d/i ">Final disposition of appeal or suit</i>. If the Contractor appeals or files suit and if, upon final disposition of the appeal or suit, the Contracting Officer's decision is:</p>
          <p outputclass="List2" class="- topic/p ">(1) Sustained—</p>

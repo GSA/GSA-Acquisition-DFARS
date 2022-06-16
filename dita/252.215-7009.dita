@@ -1,30 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.215-7009" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.215-7009"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.215-7009</ph> Proposal Adequacy Checklist.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-215.408" href="215.408.dita#DFARS_215.408">215.408</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.408"
+                  href="215.408.dita#DFARS_215.408">215.408</xref>
             (4), use the following provision:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps">PROPOSAL ADEQUACY CHECKLIST (JAN 2014)</p>
          <p class="- topic/p ">The offeror shall complete the following checklist, providing location of requested information, or an explanation of why the requested information is not provided.  In preparation of the offeror’s checklist, offerors may elect to have their prospective subcontractors use the same or similar checklist as appropriate.</p>
          <p class="- topic/p ">PROPOSAL ADEQUACY CHECKLIST</p>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="5" colsep="1" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="6*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="21*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="39*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="5"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="6*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="21*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="39*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">REFERENCES</p>
                      </entry>
                      <entry class="- topic/entry ">
@@ -56,10 +88,10 @@
                         <p class="- topic/p ">Is there a properly completed first page of the proposal per FAR 15.408 Table 15-2 I.A or as specified in the solicitation?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -73,10 +105,10 @@
                         <p class="- topic/p ">Does the proposal identify the need for Government-furnished material/tooling/test equipment?  Include the accountable contract number and contracting officer contact information if known.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -90,10 +122,10 @@
                         <p class="- topic/p ">Does the proposal identify and explain notifications of noncompliance with Cost Accounting Standards Board or Cost Accounting Standards (CAS); any proposal inconsistencies with your disclosed practices or applicable CAS; and inconsistencies with your established estimating and accounting principles and procedures?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -118,10 +150,10 @@
                         <p outputclass="List2" class="- topic/p ">(8) Information on management decisions that could have a significant bearing on costs.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -135,10 +167,10 @@
                         <p class="- topic/p ">Is an Index of all certified cost or pricing data and information accompanying or identified in the proposal provided and appropriately referenced? </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -153,10 +185,10 @@
                         <p class="- topic/p ">Are there any exceptions to submission of certified cost or pricing data pursuant to FAR 15.403-1(b)? If so, is supporting documentation included in the proposal? (Note questions 18-20.)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -170,10 +202,10 @@
                         <p class="- topic/p ">Does the proposal disclose the judgmental factors applied and the mathematical or other methods used in the estimate, including those used in projecting from known data?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -187,10 +219,10 @@
                         <p class="- topic/p ">Does the proposal disclose the nature and amount of any contingencies included in the proposed price?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -204,10 +236,10 @@
                         <p class="- topic/p ">Does the proposal explain the basis of all cost estimating relationships (labor hours or material) proposed on other than a discrete basis?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -221,10 +253,10 @@
                         <p class="- topic/p ">Is there a summary of total cost by element of cost and are the elements of cost cross-referenced to the supporting cost or pricing data? (Breakdowns for each cost element must be consistent with your cost accounting system, including breakdown by year.)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -238,10 +270,10 @@
                         <p class="- topic/p ">If more than one Contract Line Item Number (CLIN) or sub Contract Line Item Number (sub-CLIN) is proposed as required by the RFP, are there summary total amounts covering all line items for each element of cost and is it cross-referenced to the supporting cost or pricing data?   </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -255,10 +287,10 @@
                         <p class="- topic/p ">Does the proposal identify any incurred costs for work performed before the submission of the proposal?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -272,10 +304,10 @@
                         <p class="- topic/p ">Is there a Government forward pricing rate agreement (FPRA)?  If so, the offeror shall identify the official submittal of such rate and factor data.  If not, does the proposal include all rates and factors by year that are utilized in the development of the proposal and the basis for those rates and factors?   </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -299,10 +331,10 @@
                         <p class="- topic/p ">Does the proposal include a consolidated summary of individual material and services, frequently referred to as a Consolidated Bill of Material (CBOM), to include the basis for pricing? The offeror’s consolidated summary shall include raw materials, parts, components, assemblies, subcontracts and services to be produced or performed by others, identifying as a minimum the item, source, quantity, and price. </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -316,17 +348,20 @@
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">DFARS 
-                              <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378177" href="215.404-3.dita#DFARS_215.404-3">215.404-3</xref>
+                              <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="i1378177"
+                                 href="215.404-3.dita#DFARS_215.404-3">215.404-3</xref>
                         </p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Has the offeror identified in the proposal those subcontractor proposals, for which the contracting officer has initiated or may need to request field pricing analysis?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -344,10 +379,10 @@
                         <p class="- topic/p ">Per the thresholds of FAR 15.404-3(c), Subcontract Pricing Considerations, does the proposal include a copy of the applicable subcontractor’s certified cost or pricing data?   </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -364,10 +399,10 @@
                         <p class="- topic/p ">If the offeror’s price/cost analyses are not provided with the proposal, does the proposal include a matrix identifying dates for receipt of subcontractor proposal, completion of fact finding for purposes of price/cost analysis, and submission of the price/cost analysis?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -395,10 +430,10 @@
                         <p class="- topic/p ">  c.  For proposed commercial items “of a type”, or “evolved” or modified (FAR 2.101 commercial item definition paragraphs (1) through (3)), did the contractor provide a technical description of the differences between the proposed item and the comparison item(s)?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -406,16 +441,16 @@
                         <p class="- topic/p ">19.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p outputclass="PlainText" class="- topic/p ">[Reserved] </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -429,10 +464,10 @@
                         <p class="- topic/p ">Does the proposal support the degree of competition and the basis for establishing the source and reasonableness of price for each subcontract or purchase order priced on a competitive basis exceeding the threshold for certified cost or pricing data? </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -451,10 +486,10 @@
                         <p class="- topic/p ">For inter-organizational transfers proposed at cost, does the proposal include a complete cost proposal in compliance with Table 15-2?  </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -468,10 +503,10 @@
                         <p class="- topic/p ">For inter-organizational transfers proposed at price in accordance with FAR 31.205-26(e), does the proposal provide an analysis by the prime that supports the exception from certified cost or pricing data in accordance with FAR 15.403-1?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -490,10 +525,10 @@
                         <p class="- topic/p ">Does the proposal include a time phased (i.e.; monthly, quarterly) breakdown of labor hours, rates and costs by category or skill level?  If labor is the allocation base for indirect costs, the labor cost must be summarized in order that the applicable overhead rate can be applied.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -507,10 +542,10 @@
                         <p class="- topic/p ">For labor Basis of Estimates (BOEs), does the proposal include labor categories, labor hours, and task descriptions, (e.g.; Statement of Work reference, applicable CLIN, Work Breakdown Structure, rationale for estimate, applicable history, and time-phasing)?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -526,10 +561,10 @@
                         <p class="- topic/p ">If covered by the Service Contract Labor Standards statute (41 U.S.C. chapter 67), are the rates in the proposal in compliance with the minimum rates specified in the statute?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -548,10 +583,10 @@
                         <p class="- topic/p ">Does the proposal indicate the basis of estimate for proposed indirect costs and how they are applied?  (Support for the indirect rates could consist of cost breakdowns, trends, and budgetary data.)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -570,10 +605,10 @@
                         <p class="- topic/p ">Does the proposal include other direct costs and the basis for pricing? If travel is included does the proposal include number of trips, number of people, number of days per trip, locations, and rates (e.g. airfare, per diem, hotel, car rental, etc)? </p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -587,10 +622,10 @@
                         <p class="- topic/p ">If royalties exceed $1,500 does the proposal provide the information/data identified by Table 15-2?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -604,10 +639,10 @@
                         <p class="- topic/p ">When facilities capital cost of money is proposed, does the proposal include submission of Form CASB-CMF or reference to an FPRA/FPRP and show the calculation of the proposed amount?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -626,10 +661,10 @@
                         <p class="- topic/p ">Are all cost element breakdowns provided using the applicable format prescribed in FAR 15.408, Table 15-2 III?  (or alternative format if specified in the request for proposal)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -643,10 +678,10 @@
                         <p class="- topic/p ">If the proposal is for a modification or change order, have cost of work deleted (credits) and cost of work added (debits) been provided in the format described in FAR 15.408, Table 15-2.III.B?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -660,10 +695,10 @@
                         <p class="- topic/p ">For price revisions/redeterminations, does the proposal follow the format in FAR 15.408, Table 15-2.III.C?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -682,10 +717,10 @@
                         <p class="- topic/p ">If an incentive contract type, does the proposal include offeror proposed target cost, target profit or fee, share ratio, and, when applicable, minimum/maximum fee, ceiling price?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -697,16 +732,16 @@
                            FAR 16.203-4  and FAR</p>
                         <p class="- topic/p ">
                            <b class="+ topic/ph hi-d/b ">15.408</b>
-                           <ph props="autonumber" class="- topic/ph " />Table 15-2, Section II, Paragraphs A, B, C, and D</p>
+                           <ph props="autonumber" class="- topic/ph "/>Table 15-2, Section II, Paragraphs A, B, C, and D</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">If Economic Price Adjustments are being proposed, does the proposal show the rationale and application for the economic price adjustment?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -722,10 +757,10 @@
                         <p class="- topic/p ">If the offeror is proposing Performance-Based Payments did the offeror comply with FAR 52.232-28?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -745,16 +780,16 @@
                         <p class="- topic/p ">Excessive Pass-through Charges– Identification of Subcontract Effort: If the offeror intends to subcontract more than 70% of the total cost of work to be performed, does the proposal identify: (i) the amount of the offeror’s indirect costs and profit applicable to the work to be performed by the proposed subcontractor(s); and (ii) a description of the added value provided by the offeror as related to the work to be performed by the proposed subcontractor(s)?</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "></p>
+         <p class="- topic/p "/>
          <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
       </conbody>
    </concept>

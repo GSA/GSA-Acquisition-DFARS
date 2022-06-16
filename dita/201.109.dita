@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_201.109" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_201.109"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">201.109</ph> Statutory acquisition-related dollar thresholds – adjustment for inflation.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(i)  41 U.S.C. 1908(d) requires the adjustment for inflation of all statutory acquisition-related dollar thresholds in the DFARS be applied to contracts and subcontracts without regard to the date of award of the contract or subcontract, except thresholds based on the Wage Rate Requirements statute, the Service Contract Labor Standards statute, or established by the United States Trade Representative pursuant to the Trade Agreement Act, which are not escalated by the statute.</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Section 814(b) of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81) requires that the threshold established in 10 U.S.C. 2253(a)(2) for the acquisition of right-hand drive passenger sedans be included in the list of dollar thresholds that are subject to adjustment for inflation in accordance with the requirements of 41 U.S.C. 1908, and is adjusted pursuant to such provisions, as appropriate.</p>
          <p outputclass="List1" class="- topic/p ">(d)  A matrix showing the most recent escalation adjustments of statutory acquisition-related dollar thresholds is available at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_201.109" href="PGI_201.109.dita#DFARS_PGI_PGI_201.109" xtrc="201.109">PGI 201.109</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_201.109"
+                  href="PGI_201.109.dita#DFARS_PGI_PGI_201.109"
+                  xtrc="201.109">201.109</xref>
             .</p>
       </conbody>
    </concept>

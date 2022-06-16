@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.204-7009" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.204-7009"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.204-7009</ph> Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-204.7304" href="204.7304.dita#DFARS_204.7304">204.7304</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-204.7304"
+                  href="204.7304.dita#DFARS_204.7304">204.7304</xref>
             (b), use the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps">LIMITATIONS ON THE USE OR DISCLOSURE OF THIRD-PARTY  CONTRACTOR REPORTED CYBER INCIDENT INFORMATION (OCT 2016)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.</i>  As used in this clause<i class="+ topic/ph hi-d/i ">—</i>
@@ -20,13 +28,22 @@
          <p class="- topic/p ">“Information system” means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.</p>
          <p class="- topic/p ">“Media” means physical devices or writing surfaces including, but is not limited to, magnetic tapes, optical disks, magnetic disks, large-scale integration memory chips, and printouts onto which covered defense information is recorded, stored, or printed within a covered contractor information system.</p>
          <p class="- topic/p ">“Technical information” means technical data or computer software, as those terms are defined in the clause at DFARS 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1382636" href="252.227-7013.dita#DFARS_252.227-7013">252.227-7013</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1382636"
+                  href="252.227-7013.dita#DFARS_252.227-7013">252.227-7013</xref>
             , Rights in Technical Data-Noncommercial Items, regardless of whether or not the clause is incorporated in this solicitation or contract.  Examples of technical information include research and engineering data, engineering drawings, and associated lists, specifications, standards, process sheets, manuals, technical reports, technical orders, catalog-item identifications, data sets, studies and analyses and related information, and computer software executable code and source code.</p>
          <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Restrictions.  </i>The Contractor agrees that the following conditions apply to any information it receives or creates in the performance of this contract that is information obtained from a third-party’s reporting of a cyber incident pursuant to DFARS clause 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1380987" href="252.204-7012.dita#DFARS_252.204-7012">252.204-7012</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1380987"
+                  href="252.204-7012.dita#DFARS_252.204-7012">252.204-7012</xref>
             , Safeguarding Covered Defense Information and Cyber Incident Reporting (or derived from such information obtained under that clause):</p>
          <p outputclass="List2" class="- topic/p ">(1)  The Contractor shall access and use the information only for the purpose of furnishing advice or technical assistance directly to the Government in support of the Government’s activities related to clause 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1380987" href="252.204-7012.dita#DFARS_252.204-7012">252.204-7012</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1380987"
+                  href="252.204-7012.dita#DFARS_252.204-7012">252.204-7012</xref>
             , and shall not be used for any other purpose.</p>
          <p outputclass="List2" class="- topic/p ">(2)  The Contractor shall protect the information against unauthorized release or disclosure.</p>
          <p outputclass="List2" class="- topic/p ">(3)  The Contractor shall ensure that its employees are subject to use and non-disclosure obligations consistent with this clause prior to the employees being provided access to or use of the information.</p>

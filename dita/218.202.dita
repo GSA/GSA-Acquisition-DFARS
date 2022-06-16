@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_218.202" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_218.202"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">218.202</ph> Defense or recovery from certain events.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">For acquisitions that, as determined by the head of the contracting activity, are to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate provision of international disaster assistance; or to support response to an emergency or major disaster, the following requirements do not apply:</p>
-         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Policy for unique item identification at <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-211.274-2" href="211.274-2.dita#DFARS_211.274-2">211.274-2</xref>(a).</i> Contractors are not required to provide DoD unique item identification if the items are to be used to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack. However, contractors are not exempt from this requirement if the items are to be used to facilitate defense against or recovery from cyber attack. See <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-211.274-2" href="211.274-2.dita#DFARS_211.274-2">211.274-2</xref>(b).</p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Policy for unique item identification at <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-211.274-2"
+                     href="211.274-2.dita#DFARS_211.274-2">211.274-2</xref>(a).</i> Contractors are not required to provide DoD unique item identification if the items are to be used to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack. However, contractors are not exempt from this requirement if the items are to be used to facilitate defense against or recovery from cyber attack. See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-211.274-2"
+                  href="211.274-2.dita#DFARS_211.274-2">211.274-2</xref>(b).</p>
          <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Only one offer requirements at section</i>
-            <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-215.371-2" href="215.371-2.dita#DFARS_215.371-2">215.371-2</xref>. See <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-215.371-4" href="215.371-4.dita#DFARS_215.371-4">215.371-4</xref>(a)(2).</p>
-         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Approval of determination and findings for time-and-materials or labor-hour contracts at <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-216.601" href="216.601.dita#DFARS_216.601">216.601</xref>(d)(i)(A)(1) and (2).</i> See <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-216.601" href="216.601.dita#DFARS_216.601">216.601</xref>(d)(3).</p>
+            <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.371-2"
+                  href="215.371-2.dita#DFARS_215.371-2">215.371-2</xref>. See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.371-4"
+                  href="215.371-4.dita#DFARS_215.371-4">215.371-4</xref>(a)(2).</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Approval of determination and findings for time-and-materials or labor-hour contracts at <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-216.601"
+                     href="216.601.dita#DFARS_216.601">216.601</xref>(d)(i)(A)(1) and (2).</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-216.601"
+                  href="216.601.dita#DFARS_216.601">216.601</xref>(d)(3).</p>
       </conbody>
    </concept>
 </dita>

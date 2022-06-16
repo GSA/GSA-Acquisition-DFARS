@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_225.371-3" outputclass="4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_225.371-3"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 225.371-3</ph> Government support.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -22,7 +28,10 @@
          <p outputclass="List3" class="- topic/p ">(xiv) Laundry; and</p>
          <p outputclass="List3" class="- topic/p ">(xv) Religious services.</p>
          <p outputclass="List1" class="- topic/p ">(d) Medical support of contractor personnel.</p>
-         <p outputclass="List2" class="- topic/p ">(1) Contractors are required to ensure that the Government is reimbursed for any costs associated with medical or dental care provided to contractor employees accompanying the forces (see <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.225-7040" href="252.225-7040.dita#DFARS_252.225-7040">252.225-7040</xref>(c)(2)).</p>
+         <p outputclass="List2" class="- topic/p ">(1) Contractors are required to ensure that the Government is reimbursed for any costs associated with medical or dental care provided to contractor employees accompanying the forces (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.225-7040"
+                  href="252.225-7040.dita#DFARS_252.225-7040">252.225-7040</xref>(c)(2)).</p>
          <p outputclass="List2" class="- topic/p ">(2) If questions arise concerning Defense Finance and Accounting Services (DFAS) billing to contractors for medical or dental care provided, contracting officers may refer the individual to any of the following resources:</p>
          <p outputclass="List3" class="- topic/p ">(i) For in-patient and out-patient billing rates, go to http://comptroller.defense.gov/FinancialManagement/Reports/rates2013.aspx, click on the appropriate fiscal year, and select Deployed/Non-Fixed Medical Facility Billing Rates.</p>
          <p outputclass="List3" class="- topic/p ">(ii) For Military Service-appointed points of contact (POCs) responsible for resolving medical billing disputes, see the POCs listed in the memoranda of agreements between DFAS and the military services).</p>

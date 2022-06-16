@@ -1,39 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="DFARS_215.408">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="DFARS_215.408">
       <title class="- topic/title " id="TUEc8F">
          <ph class="- topic/ph " id="gcmBZ2" props="autonumber">215.408</ph> Solicitation provisions and contract clauses.</title>
       <conbody class="- topic/body  concept/conbody " id="H8fzAJ">
-         <p class="- topic/p " id="hkiecd" outputclass="List2">(1) Use the clause at <xref base="DFARS-252.215-7002" class="- topic/xref " href="252.215-7002.dita#DFARS_252.215-7002" id="xMf8FS" outputclass="fm:ParaNumOnly">252.215-7002</xref>, Cost Estimating System requirements, in all solicitations and contracts to be awarded on the basis of certified cost or pricing data.</p>
+         <p class="- topic/p " id="hkiecd" outputclass="List2">(1) Use the clause at <xref base="DFARS-252.215-7002"
+                  class="- topic/xref "
+                  href="252.215-7002.dita#DFARS_252.215-7002"
+                  id="xMf8FS"
+                  outputclass="fm:ParaNumOnly">252.215-7002</xref>, Cost Estimating System requirements, in all solicitations and contracts to be awarded on the basis of certified cost or pricing data.</p>
          <p class="- topic/p " id="wFkTfp" outputclass="List2">(2) When contracting with the Canadian Commercial Corporation -</p>
-         <p class="- topic/p " id="ecQsVL" outputclass="List3">(i)(A) Use the provision at <xref base="DFARS-252.215-7003" class="- topic/xref " href="252.215-7003.dita#DFARS_252.215-7003" id="wW3uD3" outputclass="fm:ParaNumOnly">252.215-7003</xref>, Requirement for Submission of Data Other Than Certified Cost or Pricing Data - Canadian Commercial Corporation -</p>
-         <p class="- topic/p " id="JPBUnx" outputclass="List6">(<i class="+ topic/ph hi-d/i " id="XjiwS5">1</i>) In lieu of DFARS <xref base="DFARS-252.215-7010" class="- topic/xref " href="252.215-7010.dita#DFARS_252.215-7010" id="t1VHGS" outputclass="fm:ParaNumOnly">252.215-7010</xref>, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, in a solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a sole source acquisition from the Canadian Commercial Corporation that is -</p>
+         <p class="- topic/p " id="ecQsVL" outputclass="List3">(i)(A) Use the provision at <xref base="DFARS-252.215-7003"
+                  class="- topic/xref "
+                  href="252.215-7003.dita#DFARS_252.215-7003"
+                  id="wW3uD3"
+                  outputclass="fm:ParaNumOnly">252.215-7003</xref>, Requirement for Submission of Data Other Than Certified Cost or Pricing Data - Canadian Commercial Corporation -</p>
+         <p class="- topic/p " id="JPBUnx" outputclass="List6">(<i class="+ topic/ph hi-d/i " id="XjiwS5">1</i>) In lieu of DFARS <xref base="DFARS-252.215-7010"
+                  class="- topic/xref "
+                  href="252.215-7010.dita#DFARS_252.215-7010"
+                  id="t1VHGS"
+                  outputclass="fm:ParaNumOnly">252.215-7010</xref>, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, in a solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a sole source acquisition from the Canadian Commercial Corporation that is -</p>
          <p class="- topic/p " id="TD8iYX" outputclass="List7">(<i class="+ topic/ph hi-d/i " id="fhTs4c">i</i>) Cost-reimbursement, if the contract value is expected to exceed $700,000; or</p>
          <p class="- topic/p " id="oxtjtV" outputclass="List7">(<i class="+ topic/ph hi-d/i " id="lHmry3">ii</i>) Fixed-price, if the contract value is expected to exceed $500 million; or</p>
-         <p class="- topic/p " id="VoOk0w" outputclass="List6">(<i class="+ topic/ph hi-d/i " id="rKJdec">2</i>) In lieu of DFARS <xref base="DFARS-252.215-7010" class="- topic/xref " href="252.215-7010.dita#DFARS_252.215-7010" id="z1Ha4f" outputclass="fm:ParaNumOnly">252.215-7010</xref>, in a solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a sole source acquisition from the Canadian Commercial Corporation that does not meet the thresholds specified in paragraph (2)(i)(A)(<i class="+ topic/ph hi-d/i " id="HYT0TV">1</i>) of this section, if approval is obtained as required at <xref base="DFARS-225.870-4" class="- topic/xref " href="225.870-4.dita#DFARS_225.870-4" id="wMAPxt" outputclass="fm:ParaNumOnly">225.870-4</xref>(c)(2)(ii); and</p>
-         <p class="- topic/p " id="fDH2fe" outputclass="List4">(B) Do not use <xref base="DFARS-252.225-7003" class="- topic/xref " href="252.225-7003.dita#DFARS_252.225-7003" id="pVNvF8" outputclass="fm:ParaNumOnly">252.225-7003</xref> in lieu of DFARS <xref base="DFARS-252.215-7010" class="- topic/xref " href="252.215-7010.dita#DFARS_252.215-7010" outputclass="fm:ParaNumOnly">252.215-7010</xref> in competitive acquisitions; and</p>
-         <p class="- topic/p " id="mDxgLF" outputclass="List3">(ii)(A) Use the clause at <xref base="DFARS-252.215-7004" class="- topic/xref " href="252.215-7004.dita#DFARS_252.215-7004" outputclass="fm:ParaNumOnly">252.215-7004</xref>, Requirement for Submission of Data Other Than Certified Cost or Pricing Data - Modifications - Canadian Commercial Corporation -</p>
+         <p class="- topic/p " id="VoOk0w" outputclass="List6">(<i class="+ topic/ph hi-d/i " id="rKJdec">2</i>) In lieu of DFARS <xref base="DFARS-252.215-7010"
+                  class="- topic/xref "
+                  href="252.215-7010.dita#DFARS_252.215-7010"
+                  id="z1Ha4f"
+                  outputclass="fm:ParaNumOnly">252.215-7010</xref>, in a solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a sole source acquisition from the Canadian Commercial Corporation that does not meet the thresholds specified in paragraph (2)(i)(A)(<i class="+ topic/ph hi-d/i " id="HYT0TV">1</i>) of this section, if approval is obtained as required at <xref base="DFARS-225.870-4"
+                  class="- topic/xref "
+                  href="225.870-4.dita#DFARS_225.870-4"
+                  id="wMAPxt"
+                  outputclass="fm:ParaNumOnly">225.870-4</xref>(c)(2)(ii); and</p>
+         <p class="- topic/p " id="fDH2fe" outputclass="List4">(B) Do not use <xref base="DFARS-252.225-7003"
+                  class="- topic/xref "
+                  href="252.225-7003.dita#DFARS_252.225-7003"
+                  id="pVNvF8"
+                  outputclass="fm:ParaNumOnly">252.225-7003</xref> in lieu of DFARS <xref base="DFARS-252.215-7010"
+                  class="- topic/xref "
+                  href="252.215-7010.dita#DFARS_252.215-7010"
+                  outputclass="fm:ParaNumOnly">252.215-7010</xref> in competitive acquisitions; and</p>
+         <p class="- topic/p " id="mDxgLF" outputclass="List3">(ii)(A) Use the clause at <xref base="DFARS-252.215-7004"
+                  class="- topic/xref "
+                  href="252.215-7004.dita#DFARS_252.215-7004"
+                  outputclass="fm:ParaNumOnly">252.215-7004</xref>, Requirement for Submission of Data Other Than Certified Cost or Pricing Data - Modifications - Canadian Commercial Corporation -</p>
          <p class="- topic/p " id="dDFHas" outputclass="List6">(<i class="+ topic/ph hi-d/i " id="PLeXlx">1</i>) In a solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a sole source acquisition, from the Canadian Commercial Corporation and resultant contract that is -</p>
          <p class="- topic/p " id="SJgBFH" outputclass="List7">(<i class="+ topic/ph hi-d/i " id="hDxqH0">i</i>) Cost-reimbursement, if the contract value is expected to exceed $700,000; or</p>
          <p class="- topic/p " id="799bf7" outputclass="List7">(<i class="+ topic/ph hi-d/i " id="L7zVbg">ii</i>) Fixed-price, if the contract value is expected to exceed $500 million;</p>
-         <p class="- topic/p " id="8AGi4g" outputclass="List6">(<i class="+ topic/ph hi-d/i " id="bVvUgc">2</i>) In a solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a sole source acquisition from the Canadian Commercial Corporation and resultant contract that does not meet the thresholds specified in paragraph (2)(ii)(A)(<i class="+ topic/ph hi-d/i " id="P6ugoc">1</i>) of this section, if approval is obtained as required at <xref base="DFARS-225.870-4" class="- topic/xref " href="225.870-4.dita#DFARS_225.870-4" id="wSstBn" outputclass="fm:ParaNumOnly">225.870-4</xref>(c)(2)(ii); or</p>
+         <p class="- topic/p " id="8AGi4g" outputclass="List6">(<i class="+ topic/ph hi-d/i " id="bVvUgc">2</i>) In a solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a sole source acquisition from the Canadian Commercial Corporation and resultant contract that does not meet the thresholds specified in paragraph (2)(ii)(A)(<i class="+ topic/ph hi-d/i " id="P6ugoc">1</i>) of this section, if approval is obtained as required at <xref base="DFARS-225.870-4"
+                  class="- topic/xref "
+                  href="225.870-4.dita#DFARS_225.870-4"
+                  id="wSstBn"
+                  outputclass="fm:ParaNumOnly">225.870-4</xref>(c)(2)(ii); or</p>
          <p class="- topic/p " id="gYziHr" outputclass="List6">(<i class="+ topic/ph hi-d/i " id="Moxykt">3</i>)(<i class="+ topic/ph hi-d/i " id="OduJLr">i</i>) In a solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a competitive acquisition that includes FAR 52.215-21, Requirement for Data Other Than Certified Cost or Pricing Data - Modifications, or that meets the thresholds specified in paragraph (2)(ii)(A)(<i class="+ topic/ph hi-d/i " id="aePKMV">1</i>) of this section.</p>
-         <p class="- topic/p " id="xJSEfC" outputclass="List7">(<i class="+ topic/ph hi-d/i " id="4C7968">ii</i>) The contracting officer shall then select the appropriate clause to include in the contract (52.215-21 only if award is not to the Canadian Commercial Corporation; or <xref base="DFARS-252.215-7004" class="- topic/xref " href="252.215-7004.dita#DFARS_252.215-7004" id="tg5LBo" outputclass="fm:ParaNumOnly">252.215-7004</xref> if award is to the Canadian Commercial Corporation and necessary approval is obtained in accordance with <xref base="DFARS-225.870-4" class="- topic/xref " href="225.870-4.dita#DFARS_225.870-4" id="NxJUt9" outputclass="fm:ParaNumOnly">225.870-4</xref>(c)(2)(ii)); and</p>
-         <p class="- topic/p " id="YhYeD8" outputclass="List4">(B) The contracting officer may specify a higher threshold in paragraph (b) of the clause <xref base="DFARS-252.215-7004" class="- topic/xref " href="252.215-7004.dita#DFARS_252.215-7004" id="fkMdll" outputclass="fm:ParaNumOnly">252.215-7004</xref>.</p>
-         <p class="- topic/p " id="4pmjYz" outputclass="List2">(3) Use the provision at <xref base="DFARS-252.215-7008" class="- topic/xref " href="252.215-7008.dita#DFARS_252.215-7008" id="LhH5cz" outputclass="fm:ParaNumOnly">252.215-7008</xref>, Only One Offer, in competitive solicitations that exceed the simplified acquisition threshold, including solicitations using FAR part 12 procedures for the acquisition of commercial items.</p>
-         <p class="- topic/p " id="pgwQA9" outputclass="List2">(4) When the solicitation requires the submission of certified cost or pricing data, the contracting officer should include <xref base="DFARS-252.215-7009" class="- topic/xref " href="252.215-7009.dita#DFARS_252.215-7009" id="207Fgf" outputclass="fm:ParaNumOnly">252.215-7009</xref>, Proposal Adequacy Checklist, in the solicitation to facilitate submission of a thorough, accurate, and complete proposal.</p>
-         <p class="- topic/p " id="304g3h" outputclass="List2">(5) When reasonably certain that the submission of certified cost or pricing data or data other than certified cost or pricing data will be required or when using the provision at <xref base="DFARS-252.215-7008" class="- topic/xref " href="252.215-7008.dita#DFARS_252.215-7008" id="RxSpP5" outputclass="fm:ParaNumOnly">252.215-7008</xref> -</p>
-         <p class="- topic/p " id="rRLbDI" outputclass="List3">(i) Use the basic or alternate of the provision at <xref base="DFARS-252.215-7010" class="- topic/xref " href="252.215-7010.dita#DFARS_252.215-7010" id="K33aEB" outputclass="fm:ParaNumOnly">252.215-7010</xref>, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, in lieu of the provision at FAR 52.215-20, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items.</p>
+         <p class="- topic/p " id="xJSEfC" outputclass="List7">(<i class="+ topic/ph hi-d/i " id="4C7968">ii</i>) The contracting officer shall then select the appropriate clause to include in the contract (52.215-21 only if award is not to the Canadian Commercial Corporation; or <xref base="DFARS-252.215-7004"
+                  class="- topic/xref "
+                  href="252.215-7004.dita#DFARS_252.215-7004"
+                  id="tg5LBo"
+                  outputclass="fm:ParaNumOnly">252.215-7004</xref> if award is to the Canadian Commercial Corporation and necessary approval is obtained in accordance with <xref base="DFARS-225.870-4"
+                  class="- topic/xref "
+                  href="225.870-4.dita#DFARS_225.870-4"
+                  id="NxJUt9"
+                  outputclass="fm:ParaNumOnly">225.870-4</xref>(c)(2)(ii)); and</p>
+         <p class="- topic/p " id="YhYeD8" outputclass="List4">(B) The contracting officer may specify a higher threshold in paragraph (b) of the clause <xref base="DFARS-252.215-7004"
+                  class="- topic/xref "
+                  href="252.215-7004.dita#DFARS_252.215-7004"
+                  id="fkMdll"
+                  outputclass="fm:ParaNumOnly">252.215-7004</xref>.</p>
+         <p class="- topic/p " id="4pmjYz" outputclass="List2">(3) Use the provision at <xref base="DFARS-252.215-7008"
+                  class="- topic/xref "
+                  href="252.215-7008.dita#DFARS_252.215-7008"
+                  id="LhH5cz"
+                  outputclass="fm:ParaNumOnly">252.215-7008</xref>, Only One Offer, in competitive solicitations that exceed the simplified acquisition threshold, including solicitations using FAR part 12 procedures for the acquisition of commercial items.</p>
+         <p class="- topic/p " id="pgwQA9" outputclass="List2">(4) When the solicitation requires the submission of certified cost or pricing data, the contracting officer should include <xref base="DFARS-252.215-7009"
+                  class="- topic/xref "
+                  href="252.215-7009.dita#DFARS_252.215-7009"
+                  id="207Fgf"
+                  outputclass="fm:ParaNumOnly">252.215-7009</xref>, Proposal Adequacy Checklist, in the solicitation to facilitate submission of a thorough, accurate, and complete proposal.</p>
+         <p class="- topic/p " id="304g3h" outputclass="List2">(5) When reasonably certain that the submission of certified cost or pricing data or data other than certified cost or pricing data will be required or when using the provision at <xref base="DFARS-252.215-7008"
+                  class="- topic/xref "
+                  href="252.215-7008.dita#DFARS_252.215-7008"
+                  id="RxSpP5"
+                  outputclass="fm:ParaNumOnly">252.215-7008</xref> -</p>
+         <p class="- topic/p " id="rRLbDI" outputclass="List3">(i) Use the basic or alternate of the provision at <xref base="DFARS-252.215-7010"
+                  class="- topic/xref "
+                  href="252.215-7010.dita#DFARS_252.215-7010"
+                  id="K33aEB"
+                  outputclass="fm:ParaNumOnly">252.215-7010</xref>, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, in lieu of the provision at FAR 52.215-20, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items.</p>
          <p class="- topic/p " id="2MMHX8" outputclass="List4">(A) Use the basic provision when submission of certified cost or pricing data is required to be in the FAR Table 15-2 format, or if it is anticipated, at the time of solicitation, that the submission of certified cost or pricing data may not be required.</p>
          <p class="- topic/p " id="QxdytS" outputclass="List4">(B) Use the alternate I provision to specify a format for certified cost or pricing data other than the format required by FAR Table 15-2;</p>
-         <p class="- topic/p " id="XfelW5" outputclass="List3">(ii) Use the provision at <xref base="DFARS-252.215-7011" class="- topic/xref " href="252.215-7011.dita#DFARS_252.215-7011" id="kLbPAD" outputclass="fm:ParaNumOnly">252.215-7011</xref>, Requirements for Submission of Proposals to the Administrative Contracting Officer and Contract Auditor, when using the basic or alternate of the provision at <xref base="DFARS-252.215-7010" class="- topic/xref " href="252.215-7010.dita#DFARS_252.215-7010" id="XxP3Pl" outputclass="fm:ParaNumOnly">252.215-7010</xref> and copies of the proposal are to be sent to the ACO and contract auditor; and</p>
-         <p class="- topic/p " id="oR8Wxu" outputclass="List3">(iii) Use the provision at <xref base="DFARS-252.215-7012" class="- topic/xref " href="252.215-7012.dita#DFARS_252.215-7012" id="uW4oYd" outputclass="fm:ParaNumOnly">252.215-7012</xref>, Requirements for Submission of Proposals via Electronic Media, when using the basic or alternate of the provision at <xref base="DFARS-252.215-7010" class="- topic/xref " href="252.215-7010.dita#DFARS_252.215-7010" id="UT1ZBG" outputclass="fm:ParaNumOnly">252.215-7010</xref> and submission via electronic media is required.</p>
-         <p class="- topic/p " id="FTWfJ8" outputclass="List2">(6) Use the provision at <xref base="DFARS-252.215-7013" class="- topic/xref " href="252.215-7013.dita#DFARS_252.215-7013" id="NT8lWA" outputclass="fm:ParaNumOnly">252.215-7013</xref>, Supplies and Services Provided by Nontraditional Defense Contractors, in all solicitations.</p>
-         <p class="- topic/p " id="ozNaHS" outputclass="List2">(7) Use the clause at <xref base="DFARS-252.215-7014" class="- topic/xref " href="252.215-7014.dita#DFARS_252.215-7014" id="EM3Xt4" outputclass="fm:ParaNumOnly">252.215-7014</xref>, Exception from Certified Cost or Pricing Data Requirements for Foreign Military Sales Indirect Offsets, in solicitations and contracts that contain the provision at <xref base="DFARS-252.215-7010" class="- topic/xref " href="252.215-7010.dita#DFARS_252.215-7010" id="ulmiC6" outputclass="fm:ParaNumOnly">252.215-7010</xref>, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, when it is reasonably certain that -</p>
+         <p class="- topic/p " id="XfelW5" outputclass="List3">(ii) Use the provision at <xref base="DFARS-252.215-7011"
+                  class="- topic/xref "
+                  href="252.215-7011.dita#DFARS_252.215-7011"
+                  id="kLbPAD"
+                  outputclass="fm:ParaNumOnly">252.215-7011</xref>, Requirements for Submission of Proposals to the Administrative Contracting Officer and Contract Auditor, when using the basic or alternate of the provision at <xref base="DFARS-252.215-7010"
+                  class="- topic/xref "
+                  href="252.215-7010.dita#DFARS_252.215-7010"
+                  id="XxP3Pl"
+                  outputclass="fm:ParaNumOnly">252.215-7010</xref> and copies of the proposal are to be sent to the ACO and contract auditor; and</p>
+         <p class="- topic/p " id="oR8Wxu" outputclass="List3">(iii) Use the provision at <xref base="DFARS-252.215-7012"
+                  class="- topic/xref "
+                  href="252.215-7012.dita#DFARS_252.215-7012"
+                  id="uW4oYd"
+                  outputclass="fm:ParaNumOnly">252.215-7012</xref>, Requirements for Submission of Proposals via Electronic Media, when using the basic or alternate of the provision at <xref base="DFARS-252.215-7010"
+                  class="- topic/xref "
+                  href="252.215-7010.dita#DFARS_252.215-7010"
+                  id="UT1ZBG"
+                  outputclass="fm:ParaNumOnly">252.215-7010</xref> and submission via electronic media is required.</p>
+         <p class="- topic/p " id="FTWfJ8" outputclass="List2">(6) Use the provision at <xref base="DFARS-252.215-7013"
+                  class="- topic/xref "
+                  href="252.215-7013.dita#DFARS_252.215-7013"
+                  id="NT8lWA"
+                  outputclass="fm:ParaNumOnly">252.215-7013</xref>, Supplies and Services Provided by Nontraditional Defense Contractors, in all solicitations.</p>
+         <p class="- topic/p " id="ozNaHS" outputclass="List2">(7) Use the clause at <xref base="DFARS-252.215-7014"
+                  class="- topic/xref "
+                  href="252.215-7014.dita#DFARS_252.215-7014"
+                  id="EM3Xt4"
+                  outputclass="fm:ParaNumOnly">252.215-7014</xref>, Exception from Certified Cost or Pricing Data Requirements for Foreign Military Sales Indirect Offsets, in solicitations and contracts that contain the provision at <xref base="DFARS-252.215-7010"
+                  class="- topic/xref "
+                  href="252.215-7010.dita#DFARS_252.215-7010"
+                  id="ulmiC6"
+                  outputclass="fm:ParaNumOnly">252.215-7010</xref>, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, when it is reasonably certain that -</p>
          <p class="- topic/p " id="4G2t8L" outputclass="List2">(i) The contract is expected to include costs associated with an indirect offset; and</p>
          <p class="- topic/p " id="GHoNKo" outputclass="List2">(ii) The submission of certified cost or pricing data or data other than certified cost or pricing data will be required.</p>
-         <p class="- topic/p " id="x1uTMN" outputclass="List2">(8) Use the clause at <xref base="DFARS-252.215-7015" class="- topic/xref " href="252.215-7015.dita#DFARS_252.215-7015" id="agUkHa" outputclass="fm:ParaNumOnly">252.215-7015</xref>, Program Should-Cost Review, in all solicitations and contracts for the development or production of a major weapon system, as defined in <xref base="DFARS-234.7001" class="- topic/xref " href="234.7001.dita#DFARS_234.7001" id="JhBV5M" outputclass="fm:ParaNumOnly">234.7001</xref>.</p>
+         <p class="- topic/p " id="x1uTMN" outputclass="List2">(8) Use the clause at <xref base="DFARS-252.215-7015"
+                  class="- topic/xref "
+                  href="252.215-7015.dita#DFARS_252.215-7015"
+                  id="agUkHa"
+                  outputclass="fm:ParaNumOnly">252.215-7015</xref>, Program Should-Cost Review, in all solicitations and contracts for the development or production of a major weapon system, as defined in <xref base="DFARS-234.7001"
+                  class="- topic/xref "
+                  href="234.7001.dita#DFARS_234.7001"
+                  id="JhBV5M"
+                  outputclass="fm:ParaNumOnly">234.7001</xref>.</p>
       </conbody>
    </concept>
 </dita>

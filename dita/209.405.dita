@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_209.405" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_209.405"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">209.405</ph> Effect of listing.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -21,7 +26,11 @@
          <p outputclass="List4" class="- topic/p ">(C) Exemptions shall be for a period not to exceed one year. The continuing necessity for each exemption shall be reviewed annually and, upon the making of a new determination, may be extended for periods not to exceed one year.</p>
          <p outputclass="List4" class="- topic/p ">(D) All exemptions must be reported annually to the Environmental Protection Agency suspending and debarring official.</p>
          <p outputclass="List4" class="- topic/p ">(E) See PGI 
-               <xref href="PGI_209.405.dita#DFARS_PGI_PGI_209.405" base="DFARS-PGI_PGI_209.405" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="209.405">PGI 209.405</xref>
+               <xref href="PGI_209.405.dita#DFARS_PGI_PGI_209.405"
+                  base="DFARS-PGI_PGI_209.405"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="209.405">209.405</xref>
              for additional procedures and information.</p>
       </conbody>
    </concept>

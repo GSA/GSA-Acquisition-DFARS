@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_246.471" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_246.471"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">246.471</ph> Authorizing shipment of supplies.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -21,16 +26,25 @@
          <p outputclass="List2" class="- topic/p ">(3)  The contract administration office shall withdraw, in writing, the authorization when there is an indication that the conditions in paragraph (b)(2) of this section no longer exist. </p>
          <p outputclass="List2" class="- topic/p ">(4)  When the alternative procedure is used, require the contractor to—</p>
          <p outputclass="List3" class="- topic/p ">(i)  Type or stamp, and sign, the following statement on the required copy or copies of the shipping paper(s), or on an attachment—</p>
-         <p class="- topic/p "></p>
+         <p class="- topic/p "/>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="1"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="100*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">The supplies in this shipment—</p>
                         <p class="- topic/p ">1.  Have been subjected to and have passed all examinations and tests required by the contract;</p>
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                         <p class="- topic/p ">2.  Were shipped in accordance with authorized shipping instructions;</p>
                         <p class="- topic/p ">3.  Conform to the quality, identity, and condition called for by the contract; and</p>
                         <p class="- topic/p ">4.  Are of the quantity shown on this document.</p>
@@ -40,7 +54,10 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">This shipment was—</p>
                         <p class="- topic/p ">1.  Released in accordance with section 
-                              <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-246.471" href="246.471.dita#DFARS_246.471">246.471</xref>
+                              <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-246.471"
+                                 href="246.471.dita#DFARS_246.471">246.471</xref>
                             of the Defense FAR Supplement; and</p>
                         <p class="- topic/p ">2.  Authorized by (name and title of the authorized representative of the contract administration office) in a letter dated (date of authorizing letter).  (Signature and title of contractor's designated official.)</p>
                      </entry>
@@ -48,7 +65,7 @@
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List3" class="- topic/p "></p>
+         <p outputclass="List3" class="- topic/p "/>
          <p outputclass="List3" class="- topic/p ">(ii)  Release and process, in accordance with established instructions, the DD Form 250, Material Inspection and Receiving Report, or other authorized receiving report.</p>
       </conbody>
    </concept>

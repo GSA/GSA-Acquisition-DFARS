@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_213.306" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_213.306"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">213.306</ph> SF 44, Purchase Order-Invoice-Voucher.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(1)  The micro-purchase limitation applies to all purchases, except that purchases not exceeding the simplified acquisition threshold may be made for—</p>
          <p outputclass="List4" class="- topic/p ">(A)  Fuel and oil.  U.S. Government fuel cards may be used in lieu of an SF 44 for fuel, oil, and authorized refueling-related items (see PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_213.306" href="PGI_213.306.dita#DFARS_PGI_PGI_213.306" xtrc="213.306">PGI 213.306</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_213.306"
+                  href="PGI_213.306.dita#DFARS_PGI_PGI_213.306"
+                  xtrc="213.306">213.306</xref>
              for procedures on use of fuel cards);</p>
          <p outputclass="List4" class="- topic/p ">(B)  Overseas transactions by contracting officers in support of a contingency operation as defined in 10 U.S.C. 101(a)(13) or a humanitarian or peacekeeping operation as defined in 10 U.S.C. 2302(8); and</p>
          <p outputclass="List4" class="- topic/p ">(C)  Transactions in support of intelligence and other specialized activities addressed by 2.7 of Executive Order 12333.</p>

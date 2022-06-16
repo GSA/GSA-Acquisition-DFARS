@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS_PGI_PGI_232.1001" outputclass="3" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_232.1001"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 232.1001</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -17,7 +22,10 @@ instruction on performance-based payments are provided in the DoD
 Performance-based Payments Guide on the <ph id="mdqzmx7" class="- topic/ph ">DPC</ph> website in the <ph id="ql82b17" class="- topic/ph ">Price, Cost and</ph> Finance
 section under the Performance Based Payments – Guidebook and Analysis
 Tool tab at<ph class="- topic/ph ">
-               <xref href="https://www.acq.osd.mil/asda/dpc/pcf/pricing-topics.html#pdp" format="html" scope="external" class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/pcf/pricing-topics.html#pdp</xref>
+               <xref href="https://www.acq.osd.mil/asda/dpc/pcf/pricing-topics.html#pdp"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/pcf/pricing-topics.html#pdp</xref>
            .</ph>
          </p>
       </conbody>

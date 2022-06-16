@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="DFARS_215.404-71-3">
       <title>
@@ -9,11 +10,11 @@
          <p outputclass="List1">(b) <i>Determination.</i> The following extract from the DD 1547 is annotated to explain the process.</p>
          <table colsep="1" rowsep="0">
             <tgroup cols="5" colsep="1" outputclass="FormatA" rowsep="0">
-               <colspec colname="1" colnum="1" colwidth="20*" />
-               <colspec colname="2" colnum="2" colwidth="20*" />
-               <colspec colname="3" colnum="3" colwidth="20*" />
-               <colspec colname="4" colnum="4" colwidth="20*" />
-               <colspec colname="5" colnum="5" colwidth="20*" />
+               <colspec colname="1" colnum="1" colwidth="20*"/>
+               <colspec colname="2" colnum="2" colwidth="20*"/>
+               <colspec colname="3" colnum="3" colwidth="20*"/>
+               <colspec colname="4" colnum="4" colwidth="20*"/>
+               <colspec colname="5" colnum="5" colwidth="20*"/>
                <thead>
                   <row rowsep="1">
                      <entry colname="1" colsep="0">Item</entry>
@@ -41,7 +42,7 @@
                   <row rowsep="0">
                      <entry align="left" colname="1" colsep="0">24c</entry>
                      <entry align="left" colname="2" colsep="0">Totals</entry>
-                     <entry align="right" colname="3" colsep="0" />
+                     <entry align="right" colname="3" colsep="0"/>
                      <entry align="right" colname="4" colsep="0">(3)</entry>
                      <entry align="right" colname="5">(3)</entry>
                   </row>
@@ -50,12 +51,12 @@
          </table>
          <table colsep="1" rowsep="0">
             <tgroup cols="6" colsep="1" outputclass="FormatA" rowsep="0">
-               <colspec colname="1" colnum="1" colwidth="17*" />
-               <colspec colname="2" colnum="2" colwidth="17*" />
-               <colspec colname="3" colnum="3" colwidth="17*" />
-               <colspec colname="4" colnum="4" colwidth="17*" />
-               <colspec colname="5" colnum="5" colwidth="17*" />
-               <colspec colname="6" colnum="6" colwidth="17*" />
+               <colspec colname="1" colnum="1" colwidth="17*"/>
+               <colspec colname="2" colnum="2" colwidth="17*"/>
+               <colspec colname="3" colnum="3" colwidth="17*"/>
+               <colspec colname="4" colnum="4" colwidth="17*"/>
+               <colspec colname="5" colnum="5" colwidth="17*"/>
+               <colspec colname="6" colnum="6" colwidth="17*"/>
                <thead>
                   <row rowsep="1">
                      <entry colname="1" colsep="0">Item</entry>
@@ -91,10 +92,10 @@
          </p>
          <table colsep="1" rowsep="0">
             <tgroup cols="4" colsep="1" outputclass="FormatA" rowsep="0">
-               <colspec colname="1" colnum="1" colwidth="25*" />
-               <colspec colname="2" colnum="2" colwidth="25*" />
-               <colspec colname="3" colnum="3" colwidth="25*" />
-               <colspec colname="4" colnum="4" colwidth="25*" />
+               <colspec colname="1" colnum="1" colwidth="25*"/>
+               <colspec colname="2" colnum="2" colwidth="25*"/>
+               <colspec colname="3" colnum="3" colwidth="25*"/>
+               <colspec colname="4" colnum="4" colwidth="25*"/>
                <thead>
                   <row rowsep="1">
                      <entry colname="1" colsep="0">Contract type</entry>
@@ -137,8 +138,8 @@
                   <row rowsep="1">
                      <entry align="left" colname="1" colsep="0">Fixed-price with redetermination provision</entry>
                      <entry align="right" colname="2" colsep="0">(3)</entry>
-                     <entry align="right" colname="3" colsep="0" />
-                     <entry align="right" colname="4" />
+                     <entry align="right" colname="3" colsep="0"/>
+                     <entry align="right" colname="4"/>
                   </row>
                   <row rowsep="1">
                      <entry align="left" colname="1" colsep="0">Fixed-price incentive, with progress payments</entry>
@@ -198,7 +199,13 @@
          <p outputclass="List4">(A) The frequency of payments;</p>
          <p outputclass="List4">(B) The total amount of payments compared to the maximum allowable amount specified at FAR 32.1004(b)(2); and</p>
          <p outputclass="List4">(C) The risk of the payment schedule to the contractor.</p>
-         <p outputclass="List2">(2) <i>Mandatory.</i> (i) The contracting officer shall assess the extent to which costs have been incurred prior to definitization of the contract action (also see <xref base="DFARS-217.7404-6" href="217.7404-6.dita#DFARS_217.7404-6" outputclass="fm:ParaNumOnly">217.7404-6</xref>(a) and <xref base="DFARS-243.204-70" href="243.204-70.dita#DFARS_243.204-70" outputclass="fm:ParaNumOnly">243.204-70</xref>-6). When costs have been incurred prior to definitization, generally regard the contract type risk to be in the low end of the designated range. If a substantial portion of the costs have been incurred prior to definitization, the contracting officer may assign a value as low as zero percent, regardless of contract type. However, if a contractor submits a qualifying proposal to definitize an undefinitized contract action and the contracting officer for such action definitizes the contract after the end of the 180-day period beginning on the date on which the contractor submitted the qualifying proposal (as defined in <xref base="DFARS-217.7401" href="217.7401.dita#DFARS_217.7401" outputclass="fm:ParaNumOnly">217.7401</xref>), the profit allowed on the contract shall accurately reflect the cost risk of the contractor as such risk existed on the date the contractor submitted the qualifying proposal.</p>
+         <p outputclass="List2">(2) <i>Mandatory.</i> (i) The contracting officer shall assess the extent to which costs have been incurred prior to definitization of the contract action (also see <xref base="DFARS-217.7404-6"
+                  href="217.7404-6.dita#DFARS_217.7404-6"
+                  outputclass="fm:ParaNumOnly">217.7404-6</xref>(a) and <xref base="DFARS-243.204-70"
+                  href="243.204-70.dita#DFARS_243.204-70"
+                  outputclass="fm:ParaNumOnly">243.204-70</xref>-6). When costs have been incurred prior to definitization, generally regard the contract type risk to be in the low end of the designated range. If a substantial portion of the costs have been incurred prior to definitization, the contracting officer may assign a value as low as zero percent, regardless of contract type. However, if a contractor submits a qualifying proposal to definitize an undefinitized contract action and the contracting officer for such action definitizes the contract after the end of the 180-day period beginning on the date on which the contractor submitted the qualifying proposal (as defined in <xref base="DFARS-217.7401"
+                  href="217.7401.dita#DFARS_217.7401"
+                  outputclass="fm:ParaNumOnly">217.7401</xref>), the profit allowed on the contract shall accurately reflect the cost risk of the contractor as such risk existed on the date the contractor submitted the qualifying proposal.</p>
          <p outputclass="List3">(ii) Contracting officers shall document in the price negotiation memorandum the reason for assigning a specific contract type risk value, to include the extent to which any reduced cost risk during the undefinitized period of performance was considered, in determining the negotiation objective.</p>
          <p outputclass="List2">(3) <i>Above normal conditions.</i> The contracting officer may assign a higher than normal value when there is substantial contract type risk. Indicators of this are -</p>
          <p outputclass="List3">(i) Efforts where there is minimal cost history;</p>
@@ -231,8 +238,8 @@
          <table colsep="1" rowsep="0">
             <title>Table</title>
             <tgroup cols="2" colsep="1" outputclass="FormatA" rowsep="0">
-               <colspec colname="1" colnum="1" colwidth="50*" />
-               <colspec colname="2" colnum="2" colwidth="50*" />
+               <colspec colname="1" colnum="1" colwidth="50*"/>
+               <colspec colname="2" colnum="2" colwidth="50*"/>
                <thead>
                   <row rowsep="1">
                      <entry colname="1" colsep="0">Period to perform substantive portion (in months)</entry>

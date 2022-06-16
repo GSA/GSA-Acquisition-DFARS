@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_223.7305" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_223.7305"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">223.7305</ph> Authorization and approval.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)  The prohibition in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-223.7303" href="223.7303.dita#DFARS_223.7303" xtrc="223.7303">223.7303</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-223.7303"
+                  href="223.7303.dita#DFARS_223.7303"
+                  xtrc="223.7303">223.7303</xref>
              does not apply to critical defense applications if no substitute can meet performance requirements.  The DoD policy of April 8, 2009, “Minimizing the Use of Hexavalent Chromium,” contains requirements for weighing hexavalent chromium versus substitutes.  DoD Program Managers must consider the following factors—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Cost effectiveness of alternative materials or processes;</p>
          <p outputclass="List2" class="- topic/p ">(2)   Technical feasibility of alternative materials or processes;</p>
@@ -15,9 +24,17 @@
          <p outputclass="List2" class="- topic/p ">(5)  Materiel availability of hexavalent chromium and the proposed alternatives over the projected life span of the system; and</p>
          <p outputclass="List2" class="- topic/p ">(6)  Corrosion performance difference of alternative materials or processes as determined by agency corrosion subject matter experts.</p>
          <p outputclass="List1" class="- topic/p ">(b)  However, unless an exception in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-223.7304" href="223.7304.dita#DFARS_223.7304" xtrc="223.7304">223.7304</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-223.7304"
+                  href="223.7304.dita#DFARS_223.7304"
+                  xtrc="223.7304">223.7304</xref>
              applies, the incorporation of hexavalent chromium in items acquired by DoD shall be specifically authorized at a level no lower than a general or flag officer or a member of the Senior Executive Service from the Program Executive Office or equivalent level, in coordination with the component Corrosion Control and Prevention Executive.  Follow the procedures in PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_223.7305" href="PGI_223.7305.dita#DFARS_PGI_PGI_223.7305" xtrc="223.7305">PGI 223.7305</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_223.7305"
+                  href="PGI_223.7305.dita#DFARS_PGI_PGI_223.7305"
+                  xtrc="223.7305">223.7305</xref>
             .</p>
       </conbody>
    </concept>

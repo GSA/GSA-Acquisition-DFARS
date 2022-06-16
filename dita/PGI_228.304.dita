@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_228.304" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_228.304"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 228.304</ph> Risk-pooling arrangements.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -19,10 +25,29 @@
          <p outputclass="List2" class="- topic/p ">(3) Use the agreement in Table 28-1, Insurance Rating Plan Agreement, when the Government assumes contractor premium payments upon contract termination or completion.</p>
          <p outputclass="List2" class="- topic/p ">(4) The Federal Tort Claims Act provides protection for Government employees while driving Government-owned vehicles in the performance of their assigned duties. Include the endorsement in Table 28-2, Automobile Insurance Policy Endorsement, in automobile liability insurance policies provided under the National Defense Projects Rating Plan.</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="3" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="3" colname="3" colwidth="11*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="3"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="11*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="11*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="11*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry " namest="1" nameend="3">
@@ -31,13 +56,13 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -46,21 +71,21 @@
                         <p class="- topic/p ">Assignment-Assumption of Premium Obligations</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -75,21 +100,21 @@
                            of the United States of America.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -100,21 +125,21 @@
                            under said policies.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -124,29 +149,29 @@
                            effective from _____________________________</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Accepted_______________________ (Date)</p>
@@ -154,116 +179,116 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">_______________________ (Name of Insurance
                            Company)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">By _____________________(Title of Official
                            Signing)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Accepted_______________________ (Date)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">United States of America</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">By ____________________ (Authorized
                            Representative)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Accepted_______________________ (Date)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">_______________________ (Prime Contractor)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">By ____________________ (Authorized
                            Representative)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -274,18 +299,27 @@
                            assumption of additional premium obligation.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="1"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="100*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -294,7 +328,7 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">

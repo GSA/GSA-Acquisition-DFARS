@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_215.403-3" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_PGI_215.403-3"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 215.403-3</ph> Requiring data
 other than certified cost or pricing data.</title>
@@ -68,20 +74,48 @@ contracts with the Canadian Commercial Corporation (CCC) are placed
 in accordance with the practices, policies and procedures of the
 Government of Canada covering procurement for defense purposes (See
 PGI 
-               <xref href="PGI_225.870.dita#DFARS_PGI_PGI_225.870" base="DFARS-PGI_PGI_225.870" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.870">PGI 225.870</xref>
+               <xref href="PGI_225.870.dita#DFARS_PGI_PGI_225.870"
+                  base="DFARS-PGI_PGI_225.870"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="225.870">225.870</xref>
             ).
 Contracting Officers may rely on the confirmation and endorsement
-of the offer from the Canadian Commercial Corporation at <xref href="225.870-3.dita#DFARS_225.870-3" base="DFARS-225.870-3" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="225.870-3">225.870-3</xref>(a) as an endorsement
+of the offer from the Canadian Commercial Corporation at <xref href="225.870-3.dita#DFARS_225.870-3"
+                  base="DFARS-225.870-3"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="225.870-3">225.870-3</xref>(a) as an endorsement
 of the cost/price as no more than would be charged to the Canadian
 government.</p>
-         <p outputclass="List3" class="- topic/p ">(i) When <xref href="252.215-7003.dita#DFARS_252.215-7003" base="DFARS-252.215-7003" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.215-7003">252.215-7003</xref> or <xref href="252.215-7004.dita#DFARS_252.215-7004" base="DFARS-252.215-7004" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.215-7004">252.215-7004</xref> are
+         <p outputclass="List3" class="- topic/p ">(i) When <xref href="252.215-7003.dita#DFARS_252.215-7003"
+                  base="DFARS-252.215-7003"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.215-7003">252.215-7003</xref> or <xref href="252.215-7004.dita#DFARS_252.215-7004"
+                  base="DFARS-252.215-7004"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.215-7004">252.215-7004</xref> are
 included in a solicitation with the Canadian Commercial Corporation,
 the data required by paragraph (b)(i) and (ii), in concert with
 the confirmation and endorsement of the offer, is intended to meet
 the requirements of FAR
 15.404-1 for documentation of fair and reasonable pricing.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Use of <xref href="252.215-7003.dita#DFARS_252.215-7003" base="DFARS-252.215-7003" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.215-7003">252.215-7003</xref> or <xref href="252.215-7004.dita#DFARS_252.215-7004" base="DFARS-252.215-7004" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.215-7004">252.215-7004</xref> in
-sole source acquisitions not meeting the threshold at <xref href="215.408.dita#DFARS_215.408" base="DFARS-215.408" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.408">215.408</xref>(2)(i)(A) or (ii)(A)<i class="+ topic/ph hi-d/i ">(1)</i> or
+         <p outputclass="List3" class="- topic/p ">(ii) Use of <xref href="252.215-7003.dita#DFARS_252.215-7003"
+                  base="DFARS-252.215-7003"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.215-7003">252.215-7003</xref> or <xref href="252.215-7004.dita#DFARS_252.215-7004"
+                  base="DFARS-252.215-7004"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.215-7004">252.215-7004</xref> in
+sole source acquisitions not meeting the threshold at <xref href="215.408.dita#DFARS_215.408"
+                  base="DFARS-215.408"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="215.408">215.408</xref>(2)(i)(A) or (ii)(A)<i class="+ topic/ph hi-d/i ">(1)</i> or
 competitive acquisitions at any dollar value shall be supported
 by a determination and finding justifying the anticipated need for
 data other than certified cost or pricing data to determine a fair
@@ -89,13 +123,31 @@ and reasonable price.</p>
          <p outputclass="List3" class="- topic/p ">(iii) When the contracting officer anticipates
 the need for additional data to establish a fair and reasonable
 price, specific data should be requested at time of solicitation
-as detailed in DFARS <xref href="252.215-7003.dita#DFARS_252.215-7003" base="DFARS-252.215-7003" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.215-7003">252.215-7003</xref>.</p>
+as detailed in DFARS <xref href="252.215-7003.dita#DFARS_252.215-7003"
+                  base="DFARS-252.215-7003"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="252.215-7003">252.215-7003</xref>.</p>
          <p outputclass="List3" class="- topic/p ">(iv) Examples of clause use:</p>
          <p class="- topic/p ">Scenario Requirement</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="50*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="50*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="2"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="50*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="50*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -104,7 +156,11 @@ value of $600 million.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Include provision and clause in accordance
-with <xref href="215.408.dita#DFARS_215.408" base="DFARS-215.408" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.408">215.408</xref>(2)(i)(A)<i class="+ topic/ph hi-d/i ">(2)</i>and
+with <xref href="215.408.dita#DFARS_215.408"
+                                 base="DFARS-215.408"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 xtrc="215.408">215.408</xref>(2)(i)(A)<i class="+ topic/ph hi-d/i ">(2)</i>and
 (ii)(A(<i class="+ topic/ph hi-d/i ">1</i>)<i class="+ topic/ph hi-d/i ">(ii)</i>, respectively, because estimated value
 exceeds $500 million.</p>
                      </entry>
@@ -116,7 +172,11 @@ with estimated value of $800,000.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Include provision and clause in accordance
-with <xref href="215.408.dita#DFARS_215.408" base="DFARS-215.408" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.408">215.408</xref>(2)(i)(A)<i class="+ topic/ph hi-d/i ">(1)</i>and
+with <xref href="215.408.dita#DFARS_215.408"
+                                 base="DFARS-215.408"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 xtrc="215.408">215.408</xref>(2)(i)(A)<i class="+ topic/ph hi-d/i ">(1)</i>and
 (ii)(A(<i class="+ topic/ph hi-d/i ">1</i>)<i class="+ topic/ph hi-d/i ">(i)</i>, respectively, because estimated value
 exceeds $750,000.</p>
                      </entry>
@@ -128,7 +188,11 @@ with estimated value of $500,000.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Do not include provision and clause, unless
-D&amp;F is approved in accordance with <xref href="215.408.dita#DFARS_215.408" base="DFARS-215.408" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.408">215.408</xref>(2)(i)(B)and (ii)(A)(<i class="+ topic/ph hi-d/i ">2</i>)),
+D&amp;F is approved in accordance with <xref href="215.408.dita#DFARS_215.408"
+                                 base="DFARS-215.408"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 xtrc="215.408">215.408</xref>(2)(i)(B)and (ii)(A)(<i class="+ topic/ph hi-d/i ">2</i>)),
 respectively, because estimated value does not exceed $750.000.</p>
                      </entry>
                   </row>
@@ -139,21 +203,37 @@ value of $800,000</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Do not include provision and clause, unless
-D&amp;F is approved in accordance with <xref href="215.408.dita#DFARS_215.408" base="DFARS-215.408" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.408">215.408</xref>(2)(i)(B)and (ii)(A)(<i class="+ topic/ph hi-d/i ">2</i>)),
+D&amp;F is approved in accordance with <xref href="215.408.dita#DFARS_215.408"
+                                 base="DFARS-215.408"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 xtrc="215.408">215.408</xref>(2)(i)(B)and (ii)(A)(<i class="+ topic/ph hi-d/i ">2</i>)),
 respectively, because estimated value does not exceed $500 million.</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">Modifications to contracts that include
-the clause <xref href="252.215-7004.dita#DFARS_252.215-7004" base="DFARS-252.215-7004" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.215-7004">252.215-7004</xref>.</p>
+the clause <xref href="252.215-7004.dita#DFARS_252.215-7004"
+                                 base="DFARS-252.215-7004"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 xtrc="252.215-7004">252.215-7004</xref>.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">If <xref href="252.215-7004.dita#DFARS_252.215-7004" base="DFARS-252.215-7004" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.215-7004">252.215-7004</xref> is
+                        <p class="- topic/p ">If <xref href="252.215-7004.dita#DFARS_252.215-7004"
+                                 base="DFARS-252.215-7004"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 xtrc="252.215-7004">252.215-7004</xref> is
 included in the contract, then data are required for modifications
 valued above the simplified acquisition threshold, or a higher threshold
 specified in the solicitation by the contracting officer, in accordance
-with <xref href="252.215-7004.dita#DFARS_252.215-7004" base="DFARS-252.215-7004" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="252.215-7004">252.215-7004</xref>(b).</p>
+with <xref href="252.215-7004.dita#DFARS_252.215-7004"
+                                 base="DFARS-252.215-7004"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 xtrc="252.215-7004">252.215-7004</xref>(b).</p>
                      </entry>
                   </row>
                </tbody>
@@ -165,7 +245,11 @@ to document, collect, and provide a report to the head of the contracting
 activity of all denials of contracting officer requests to offerors/contractors
 for data other than certified cost or pricing data that are not
 resolved through the elevation process at PGI 
-               <xref href="PGI_215.404-1.dita#DFARS_PGI_PGI_215.404-1" base="DFARS-PGI_PGI_215.404-1" outputclass="fm:ParaNumOnly" class="- topic/xref " xtrc="215.404-1">PGI 215.404-1</xref>
+               <xref href="PGI_215.404-1.dita#DFARS_PGI_PGI_215.404-1"
+                  base="DFARS-PGI_PGI_215.404-1"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="215.404-1">215.404-1</xref>
             (a)(i)(A)
 and, therefore, require a determination by the head of the contracting
 activity in accordance with FAR

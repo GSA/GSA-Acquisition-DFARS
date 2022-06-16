@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_225.7008" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_225.7008"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.7008</ph> Waiver of restrictions of 10 U.S.C. 2534.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -9,7 +14,10 @@
          <p outputclass="List1" class="- topic/p ">(a) (1) The Under Secretary of Defense (Acquisition and Sustainment) (USD(A&amp;S)), without power of delegation, may waive a restriction for a particular item for a particular foreign country upon determination that—</p>
          <p outputclass="List3" class="- topic/p ">(i) United States producers of the item would not be jeopardized by competition from a foreign country, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country; or</p>
          <p outputclass="List3" class="- topic/p ">(ii) Application of the restriction would impede cooperative programs entered into between DoD and a foreign country, or would impede the reciprocal procurement of defense items under a memorandum of understanding providing for reciprocal procurement of defense items under 
-               <xref href="225.872.dita#DFARS_225.872" base="DFARS-225.872" outputclass="fm:ParaNumOnly" class="- topic/xref ">225.872</xref>
+               <xref href="225.872.dita#DFARS_225.872"
+                  base="DFARS-225.872"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">225.872</xref>
             , and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.</p>
          <p outputclass="List2" class="- topic/p ">(2) A notice of the determination to exercise the waiver authority shall be published in the Federal Register and submitted to the congressional defense committees at least 15 days before the effective date of the waiver.</p>
          <p outputclass="List2" class="- topic/p ">(3) The effective period of the waiver shall not exceed 1 year.</p>

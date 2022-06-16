@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_242.7202" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_242.7202"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">242.7202</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)  DoD policy is for its contractors to have an MMAS that conforms to the standards in paragraph (d) of the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1383859" href="252.242-7004.dita#DFARS_252.242-7004">252.242-7004</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1383859"
+                  href="252.242-7004.dita#DFARS_252.242-7004">252.242-7004</xref>
             , Material Management and Accounting System, so that the system—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Reasonably forecasts material requirements;</p>
          <p outputclass="List2" class="- topic/p ">(2)  Ensures the costs of purchased and fabricated material charged or allocated to a contract are based on valid time-phased requirements; and</p>
@@ -15,7 +23,10 @@
          <p outputclass="List2" class="- topic/p ">(1)  Determine the acceptability of the contractor’s MMAS and approve or disapprove the system; and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Pursue correction of any deficiencies.</p>
          <p outputclass="List1" class="- topic/p ">(c)  In evaluating the acceptability of the contractor’s MMAS, the contracting officer, in consultation with the auditor and functional specialist, if appropriate, shall determine whether the contractor’s MMAS complies with the system criteria for an acceptable MMAS as prescribed in the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1383859" href="252.242-7004.dita#DFARS_252.242-7004">252.242-7004</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1383859"
+                  href="252.242-7004.dita#DFARS_252.242-7004">252.242-7004</xref>
             , Material Management and Accounting System.</p>
       </conbody>
    </concept>

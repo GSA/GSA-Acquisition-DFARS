@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DFARS_PGI_PART_204">
       <title class="- topic/title ">
@@ -146,19 +147,12 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="PGI_204.17.dita#DFARS_PGI_PGI_204.17">
-         PGI 204.17
-         - SERVICE CONTRACT INVENTORY
-      </xref>
+                  <xref outputclass="fm:TOC" href="PGI_204.17.dita#DFARS_PGI_PGI_204.17">PGI 204.17 - SERVICE CONTRACT INVENTORY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="PGI_204.1703.dita#DFARS_PGI_PGI_204.1703">
-         PGI
-204.1703 
-         Reporting requirements.
-      </xref>
+                        <xref outputclass="fm:TOC" href="PGI_204.1703.dita#DFARS_PGI_PGI_204.1703">PGI 204.1703 Reporting requirements.</xref>
                      </p>
                   </li>
                </ul>
@@ -175,13 +169,14 @@
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="PGI_204.1870-1.dita#DFARS_PGI_PGI_204.1870-1">PGI 204.1870-1 Instructions to contracting officers.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_204.1870-1.dita#DFARS_PGI_PGI_204.1870-1">PGI 204.1870-1 Instructions to contracting officers.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="PGI_204.1870-2.dita#DFARS_PGI_PGI_204.1870-2">PGI 204.1870-2 Maintenance
-of the CAGE file.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_204.1870-2.dita#DFARS_PGI_PGI_204.1870-2">PGI 204.1870-2 Maintenance of the CAGE file.</xref>
                            </p>
                         </li>
                      </ul>
@@ -207,13 +202,13 @@ of the CAGE file.</xref>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="PGI_204.7103.dita#DFARS_PGI_PGI_204.7103">PGI 204.7103 Contract line
-items.</xref>
+                        <xref outputclass="fm:TOC" href="PGI_204.7103.dita#DFARS_PGI_PGI_204.7103">PGI 204.7103 Contract line items.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="PGI_204.7103-2.dita#DFARS_PGI_PGI_204.7103-2">PGI 204.7103-2 Numbering procedures.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_204.7103-2.dita#DFARS_PGI_PGI_204.7103-2">PGI 204.7103-2 Numbering procedures.</xref>
                            </p>
                         </li>
                      </ul>
@@ -225,7 +220,8 @@ items.</xref>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="PGI_204.7104-2.dita#DFARS_PGI_PGI_204.7104-2">PGI 204.7104-2 Numbering procedures.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_204.7104-2.dita#DFARS_PGI_PGI_204.7104-2">PGI 204.7104-2 Numbering procedures.</xref>
                            </p>
                         </li>
                      </ul>
@@ -264,22 +260,26 @@ items.</xref>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="PGI_204.7303-1.dita#DFARS_PGI_PGI_204.7303-1">PGI 204.7303-1 General.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_204.7303-1.dita#DFARS_PGI_PGI_204.7303-1">PGI 204.7303-1 General.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="PGI_204.7303-2.dita#DFARS_PGI_PGI_204.7303-2">PGI 204.7303-2 Safeguarding controls and requirements.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_204.7303-2.dita#DFARS_PGI_PGI_204.7303-2">PGI 204.7303-2 Safeguarding controls and requirements.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="PGI_204.7303-3.dita#DFARS_PGI_PGI_204.7303-3">PGI 204.7303-3 Cyber incident and compromise reporting.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_204.7303-3.dita#DFARS_PGI_PGI_204.7303-3">PGI 204.7303-3 Cyber incident and compromise reporting.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="PGI_204.7303-4.dita#DFARS_PGI_PGI_204.7303-4">PGI 204.7303-4 DoD damage assessment activities.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_204.7303-4.dita#DFARS_PGI_PGI_204.7303-4">PGI 204.7303-4 DoD damage assessment activities.</xref>
                            </p>
                         </li>
                      </ul>

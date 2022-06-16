@@ -1,19 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_225.371-5" outputclass="4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_225.371-5"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 225.371-5</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">“Performance,” as used in Class Deviation 2015-O0009, Contractor Personnel Performing in the United States Central Command Area of Responsibility, means performance of a service or construction, as required by the contract. For supply contracts, production of the supplies or associated overhead functions are not covered by the Class Deviation, but services associated with the acquisition of the supplies are covered (e.g., installation or maintenance).</p>
-         <p outputclass="List1" class="- topic/p ">(b) When using the clause at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.225-7040" href="252.225-7040.dita#DFARS_252.225-7040">252.225-7040</xref>, Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States, consider the applicability of the following clauses:</p>
-         <p outputclass="List3" class="- topic/p ">(i) The clause at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.225-7043" href="252.225-7043.dita#DFARS_252.225-7043">252.225-7043</xref>, Antiterrorism/Force Protection Policy for Defense Contractors Outside the United States, as prescribed at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.372-2" href="225.372-2.dita#DFARS_225.372-2">225.372-2</xref>.</p>
+         <p outputclass="List1" class="- topic/p ">(b) When using the clause at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.225-7040"
+                  href="252.225-7040.dita#DFARS_252.225-7040">252.225-7040</xref>, Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States, consider the applicability of the following clauses:</p>
+         <p outputclass="List3" class="- topic/p ">(i) The clause at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.225-7043"
+                  href="252.225-7043.dita#DFARS_252.225-7043">252.225-7043</xref>, Antiterrorism/Force Protection Policy for Defense Contractors Outside the United States, as prescribed at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.372-2"
+                  href="225.372-2.dita#DFARS_225.372-2">225.372-2</xref>.</p>
          <p outputclass="List3" class="- topic/p ">(ii) Either the clause at FAR 52.228-3, Workers’ Compensation Insurance (Defense Base Act), or the clause at FAR 52.228-4, Workers’ Compensation and War-Hazard Insurance Overseas, as prescribed at FAR 28.309(a) and (b).</p>
-         <p outputclass="List3" class="- topic/p ">(iii) The clause at FAR 52.228-7, Insurance—Liability to Third Persons, in cost-reimbursement contracts as prescribed at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-228.311-1" href="228.311-1.dita#DFARS_228.311-1">228.311-1</xref>.</p>
-         <p outputclass="List3" class="- topic/p ">(iv) The clause at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.228-7003" href="252.228-7003.dita#DFARS_252.228-7003">252.228-7003</xref>, Capture and Detention, as prescribed at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-228.370" href="228.370.dita#DFARS_228.370">228.370</xref>(d).</p>
-         <p outputclass="List3" class="- topic/p ">(v) The clause at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.237-7019" href="252.237-7019.dita#DFARS_252.237-7019">252.237-7019</xref>, Training for Contractor Personnel Interacting with Detainees, as prescribed at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-237.171-4" href="237.171-4.dita#DFARS_237.171-4">237.171-4</xref>.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) The clause at FAR 52.228-7, Insurance—Liability to Third Persons, in cost-reimbursement contracts as prescribed at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-228.311-1"
+                  href="228.311-1.dita#DFARS_228.311-1">228.311-1</xref>.</p>
+         <p outputclass="List3" class="- topic/p ">(iv) The clause at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.228-7003"
+                  href="252.228-7003.dita#DFARS_252.228-7003">252.228-7003</xref>, Capture and Detention, as prescribed at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-228.370"
+                  href="228.370.dita#DFARS_228.370">228.370</xref>(d).</p>
+         <p outputclass="List3" class="- topic/p ">(v) The clause at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.237-7019"
+                  href="252.237-7019.dita#DFARS_252.237-7019">252.237-7019</xref>, Training for Contractor Personnel Interacting with Detainees, as prescribed at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-237.171-4"
+                  href="237.171-4.dita#DFARS_237.171-4">237.171-4</xref>.</p>
          <p outputclass="List3" class="- topic/p ">(vi) The clause at FAR 52.249-14, Excusable Delays, as prescribed at FAR 49.505(b).</p>
-         <p outputclass="List3" class="- topic/p ">(vii) The clauses at FAR 52.251-1, Government Supply Sources, as prescribed at FAR 51.107, and DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-252.251-7000" href="252.251-7000.dita#DFARS_252.251-7000">252.251-7000</xref>, Ordering from Government Supply Sources, as prescribed at DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-251.107" href="251.107.dita#DFARS_251.107">251.107</xref>. See also Class Deviation 2013-O0012, Authorization for Contractors to Use Government Supply Sources in Support of Operation Enduring Freedom.</p>
+         <p outputclass="List3" class="- topic/p ">(vii) The clauses at FAR 52.251-1, Government Supply Sources, as prescribed at FAR 51.107, and DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.251-7000"
+                  href="252.251-7000.dita#DFARS_252.251-7000">252.251-7000</xref>, Ordering from Government Supply Sources, as prescribed at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-251.107"
+                  href="251.107.dita#DFARS_251.107">251.107</xref>. See also Class Deviation 2013-O0012, Authorization for Contractors to Use Government Supply Sources in Support of Operation Enduring Freedom.</p>
       </conbody>
    </concept>
 </dita>

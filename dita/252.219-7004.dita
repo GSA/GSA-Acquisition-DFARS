@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.219-7004" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.219-7004"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.219-7004</ph> Small Business Subcontracting Plan (Test Program).</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-219.708" href="219.708.dita#DFARS_219.708">219.708</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-219.708"
+                  href="219.708.dita#DFARS_219.708">219.708</xref>
             (b)(1)(B), use the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps">SMALL BUSINESS SUBCONTRACTING PLAN (TEST PROGRAM) (MAY 2019)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions. </i>  As used in this clause—</p>
@@ -46,15 +54,27 @@
          <p outputclass="List2" class="- topic/p ">(4)  The Contractor shall have the right of appeal under the clause in this contract entitled “Disputes” from any final decision of the Contracting Officer.</p>
          <p outputclass="List1" class="- topic/p ">(g)  Subcontracts.  The Contractor shall include in subcontracts that offer subcontracting opportunities, are expected to exceed the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, and are required to include the clause at FAR 52.219-8, Utilization of Small Business Concerns, the clauses at—</p>
          <p outputclass="List2" class="- topic/p ">(1)  FAR 52.219-9, Small Business Subcontracting Plan, and Defense Federal Acquisition Regulation Supplement (DFARS) 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1381740" href="252.219-7003.dita#DFARS_252.219-7003">252.219-7003</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1381740"
+                  href="252.219-7003.dita#DFARS_252.219-7003">252.219-7003</xref>
             , Small Business Subcontracting Plan (DoD Contracts)–Basic;</p>
          <p outputclass="List2" class="- topic/p ">(2)  FAR 52.219-9, Small Business Subcontracting Plan, with its Alternate III, and DFARS 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1381740" href="252.219-7003.dita#DFARS_252.219-7003">252.219-7003</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1381740"
+                  href="252.219-7003.dita#DFARS_252.219-7003">252.219-7003</xref>
             , Small Business Subcontracting Plan (DoD Contracts)–Alternate I, to allow for submission of SF 294s in lieu of ISRs; or</p>
          <p outputclass="List2" class="- topic/p ">(3)  DFARS 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1381757" href="252.219-7004.dita#DFARS_252.219-7004">252.219-7004</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1381757"
+                  href="252.219-7004.dita#DFARS_252.219-7004">252.219-7004</xref>
             , Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1378572" href="219.702-70.dita#DFARS_219.702-70">219.702-70</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1378572"
+                  href="219.702-70.dita#DFARS_219.702-70">219.702-70</xref>
             .</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>

@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_247.270-4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_247.270-4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">247.270-4</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Use the following clauses in solicitations and contracts for stevedoring services as indicated:</p>
          <p outputclass="List1" class="- topic/p ">(a)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1384122" href="252.247-7000.dita#DFARS_252.247-7000">252.247-7000</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1384122"
+                  href="252.247-7000.dita#DFARS_252.247-7000">252.247-7000</xref>
             , Hardship Conditions.</p>
          <p outputclass="List1" class="- topic/p ">(b)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1384132" href="252.247-7002.dita#DFARS_252.247-7002">252.247-7002</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1384132"
+                  href="252.247-7002.dita#DFARS_252.247-7002">252.247-7002</xref>
             , Revision of Prices, when using negotiation.</p>
          <p outputclass="List1" class="- topic/p ">(c)  
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1384168" href="252.247-7007.dita#DFARS_252.247-7007">252.247-7007</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1384168"
+                  href="252.247-7007.dita#DFARS_252.247-7007">252.247-7007</xref>
             , Liability and Insurance.</p>
       </conbody>
    </concept>

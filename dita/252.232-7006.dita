@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.232-7006" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.232-7006"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.232-7006</ph> Wide Area WorkFlow Payment Instructions.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-232.7004" href="232.7004.dita#DFARS_232.7004">232.7004</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-232.7004"
+                  href="232.7004.dita#DFARS_232.7004">232.7004</xref>
             (b), use the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps">WIDE AREA WORKFLOW PAYMENT INSTRUCTIONS (DEC 2018)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.  </i>As used in this clause—</p>
@@ -14,10 +22,16 @@
          <p class="- topic/p ">“Document type” means the type of payment request or receiving report available for creation in Wide Area WorkFlow (WAWF).</p>
          <p class="- topic/p ">“Local processing office (LPO)” is the office responsible for payment certification when payment certification is done external to the entitlement system.</p>
          <p class="- topic/p ">“Payment request” and “receiving report” are defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1383228" href="252.232-7003.dita#DFARS_252.232-7003">252.232-7003</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1383228"
+                  href="252.232-7003.dita#DFARS_252.232-7003">252.232-7003</xref>
             , Electronic Submission of Payment Requests and Receiving Reports.</p>
          <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Electronic invoicing</i>.  The WAWF system provides the method to electronically process vendor payment requests and receiving reports, as authorized by Defense Federal Acquisition Regulation Supplement (DFARS) 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1383228" href="252.232-7003.dita#DFARS_252.232-7003">252.232-7003</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1383228"
+                  href="252.232-7003.dita#DFARS_252.232-7003">252.232-7003</xref>
             , Electronic Submission of Payment Requests and Receiving Reports.</p>
          <p outputclass="List1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">WAWF access</i>.  To access WAWF, the Contractor shall—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Have a designated electronic business point of contact in the System for Award Management at https://www.sam.gov; and</p>
@@ -42,9 +56,21 @@
          <p outputclass="List2" class="- topic/p ">(3)  <i class="+ topic/ph hi-d/i ">Document routing</i>.  The Contractor shall use the information in the Routing Data Table below only to fill in applicable fields in WAWF when creating payment requests and receiving reports in the system.</p>
          <p class="- topic/p ">Routing Data Table*</p>
          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="2" colsep="1" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="50*" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="2"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="50*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="50*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -59,7 +85,7 @@
                         <p class="- topic/p ">Pay Official DoDAAC</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -67,7 +93,7 @@
                         <p class="- topic/p ">Issue By DoDAAC</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -75,7 +101,7 @@
                         <p class="- topic/p ">Admin DoDAAC**</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -83,7 +109,7 @@
                         <p class="- topic/p ">Inspect By DoDAAC</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -91,7 +117,7 @@
                         <p class="- topic/p ">Ship To Code</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -99,7 +125,7 @@
                         <p class="- topic/p ">Ship From Code</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -107,7 +133,7 @@
                         <p class="- topic/p ">Mark For Code</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -115,7 +141,7 @@
                         <p class="- topic/p ">Service Approver (DoDAAC)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -123,7 +149,7 @@
                         <p class="- topic/p ">Service Acceptor (DoDAAC)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -131,7 +157,7 @@
                         <p class="- topic/p ">Accept at Other DoDAAC</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -139,7 +165,7 @@
                         <p class="- topic/p ">LPO DoDAAC</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -147,7 +173,7 @@
                         <p class="- topic/p ">DCAA Auditor DoDAAC</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -155,7 +181,7 @@
                         <p class="- topic/p ">Other DoDAAC(s)</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "></p>
+                        <p class="- topic/p "/>
                      </entry>
                   </row>
                </tbody>

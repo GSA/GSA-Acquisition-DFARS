@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_253.213-70" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_PGI_253.213-70"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 253.213-70</ph> Completion of
 DD Form 1155, Order for Supplies or Services.</title>
@@ -112,7 +118,10 @@ purchase order is required and enter the number of copies of the
 order to be returned to the issuing office.</p>
          <p class="- topic/p ">17 Accounting and Appropriation Data/Local Use—Enter the accounting
 classification and the accounting classification reference number(s)
-in accordance with DFARS <xref href="204.7107.dita#DFARS_204.7107" base="DFARS-204.7107" outputclass="fm:ParaNumOnly" class="- topic/xref ">204.7107</xref>.</p>
+in accordance with DFARS <xref href="204.7107.dita#DFARS_204.7107"
+                  base="DFARS-204.7107"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.7107</xref>.</p>
          <p class="- topic/p ">18 Item No.—Enter an item number for each item of supply or service
 in accordance with DFARS Subpart 204.71.</p>
          <p class="- topic/p ">19 Schedule of Supplies/Services—The Schedule contains several

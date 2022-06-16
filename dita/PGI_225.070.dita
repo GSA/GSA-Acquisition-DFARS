@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_225.070" outputclass="3" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_225.070"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 225.070</ph> Reporting of acquisition of end products manufactured outside the United States.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -9,9 +15,23 @@
          <p outputclass="List2" class="- topic/p ">(2) Use the Federal Procurement Data System data field “Place of Manufacture,” under the section on Product or Service Information, to enter data on the acquisition of end products manufactured outside the United States for contracts awarded and orders issued in fiscal year 2007 and subsequent fiscal years. Select the appropriate description in accordance with the following table:</p>
          <p class="- topic/p ">Place of Manufacture</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="27*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="73*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="2"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="27*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="73*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -69,16 +89,36 @@
             </tgroup>
          </table>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="27*" colsep="0" class="- topic/colspec " rowheader="headers" />
-               <colspec colnum="2" colname="2" colwidth="73*" colsep="0" class="- topic/colspec " rowheader="headers" />
+            <tgroup cols="2"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="27*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="73*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Mfg outside U.S. - Qualifying country</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">For DoD only, the foreign manufactured end products are predominantly qualifying country end products (DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.003" href="225.003.dita#DFARS_225.003">225.003</xref> and <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.872-1" href="225.872-1.dita#DFARS_225.872-1">225.872-1</xref>).</p>
+                        <p class="- topic/p ">For DoD only, the foreign manufactured end products are predominantly qualifying country end products (DFARS <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-225.003"
+                                 href="225.003.dita#DFARS_225.003">225.003</xref> and <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-225.872-1"
+                                 href="225.872-1.dita#DFARS_225.872-1">225.872-1</xref>).</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">

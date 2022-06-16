@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS_252.204-7021" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.204-7021"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.204-7021</ph> Cybersecurity
 Maturity Model Certification Requirements.</title>
@@ -14,7 +18,10 @@ MATURITY MODEL CERTIFICATION REQUIREMENTS (NOV 2020)</p>
 Cybersecurity Maturity Model Certification (CMMC) CMMC is a framework
 that measures a contractor’s cybersecurity maturity to include the
 implementation of cybersecurity practices and institutionalization
-of processes (see <xref href="https://www.acq.osd.mil/cmmc/index.html" format="html" scope="external" class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https: www.acq.osd.mil cmmc index.html?>ttps://www.acq.osd.mil/cmmc/index.html</xref>).</p>
+of processes (see <xref href="https://www.acq.osd.mil/cmmc/index.html"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">h<?FM MARKER [Hypertext] message URL https: www.acq.osd.mil cmmc index.html?>ttps://www.acq.osd.mil/cmmc/index.html</xref>).</p>
          <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Requirements</i>.
 The Contractor shall have a current (i.e. not older than 3 years)
 CMMC certificate at the CMMC level required by this contract and

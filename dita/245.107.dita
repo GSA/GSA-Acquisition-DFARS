@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_245.107" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_245.107"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">245.107</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -11,10 +16,16 @@
          <p outputclass="List2" class="- topic/p ">(3)  Use the clause at 252.245–7001, Tagging, Labeling, and Marking of  Government-Furnished Property, in solicitations and contracts that contain the clause at FAR 52.245-1, Government Property.</p>
          <p outputclass="List2" class="- topic/p ">(4)  Use the clause at 252.245–7002, Reporting Loss of Government Property, in solicitations and contracts that contain the clause at FAR 52.245–1, Government Property.</p>
          <p outputclass="List2" class="- topic/p ">(5)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1383966" href="252.245-7003.dita#DFARS_252.245-7003">252.245-7003</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1383966"
+                  href="252.245-7003.dita#DFARS_252.245-7003">252.245-7003</xref>
             , Contractor Property Management System Administration, in solicitations and contracts containing the clause at FAR 52.245-1, Government Property.</p>
          <p outputclass="List2" class="- topic/p ">(6)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1383979" href="252.245-7004.dita#DFARS_252.245-7004">252.245-7004</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1383979"
+                  href="252.245-7004.dita#DFARS_252.245-7004">252.245-7004</xref>
             , Reporting, Reutilization, and Disposal, in solicitations and contracts that contain the clause at FAR 52.245-1, Government Property.</p>
       </conbody>
    </concept>

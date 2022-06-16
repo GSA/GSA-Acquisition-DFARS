@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS_PGI_PGI_245.103-72" outputclass="4" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_245.103-72"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 245.103-72</ph> Government-furnished
 property attachments to solicitations and awards.</title>
@@ -9,7 +14,10 @@ property attachments to solicitations and awards.</title>
          <p outputclass="List1" class="- topic/p ">(a) When Government-furnished
 property (GFP) is anticipated, create
 the GFP attachment in the GFP module of the Procurement Integrated
-Enterprise Environment (PIEE) at<xref href="https://piee.eb.mil/piee-landing" format="html" scope="external" class="- topic/xref "> https://piee.eb.mil/piee-landing</xref> to—</p>
+Enterprise Environment (PIEE) at<xref href="https://piee.eb.mil/piee-landing"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref "> https://piee.eb.mil/piee-landing</xref> to—</p>
          <p outputclass="List2" class="- topic/p ">(1) Specify the required GFP data elements;
 and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Identify
@@ -20,7 +28,10 @@ contractor; and</p>
 Accomplish the electronic transmission of the GFP attachment to the contract
 in the Electronic Data Access application in the PIEE.</p>
          <p outputclass="List1" class="- topic/p ">(b) For
-more information on the GFP attachments, see <xref href="https://dodprocurementtoolbox.com/site-pages/gfp-attachments" format="html" scope="external" class="- topic/xref ">https://dodprocurementtoolbox.com/site-pages/gfp-attachments</xref>.]</p>
+more information on the GFP attachments, see <xref href="https://dodprocurementtoolbox.com/site-pages/gfp-attachments"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://dodprocurementtoolbox.com/site-pages/gfp-attachments</xref>.]</p>
       </conbody>
    </concept>
 </dita>

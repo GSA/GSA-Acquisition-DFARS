@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_225.872-4" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_225.872-4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.872-4</ph> Individual determinations.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">If the offer of an end product from a qualifying country source listed in 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1379055" href="225.872-1.dita#DFARS_225.872-1" xtrc="225.872-1">225.872-1</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1379055"
+                  href="225.872-1.dita#DFARS_225.872-1"
+                  xtrc="225.872-1">225.872-1</xref>
             (b), as evaluated, is low or otherwise eligible for award, prepare a determination and findings exempting the acquisition from the Buy American statute and the Balance of Payments Program as inconsistent with the public interest, unless another exception such as the Trade Agreements Act applies.  Follow the procedures at PGI 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-PGI_PGI_225.872-4" href="PGI_225.872-4.dita#DFARS_PGI_PGI_225.872-4" xtrc="225.872-4">PGI 225.872-4</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_225.872-4"
+                  href="PGI_225.872-4.dita#DFARS_PGI_PGI_225.872-4"
+                  xtrc="225.872-4">225.872-4</xref>
             .</p>
       </conbody>
    </concept>

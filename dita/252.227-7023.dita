@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.227-7023" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.227-7023"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.227-7023</ph> Drawings and Other Data to Become Property of Government.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed at 
-               <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1379769" href="227.7107-1.dita#DFARS_227.7107-1">227.7107-1</xref>
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="i1379769"
+                  href="227.7107-1.dita#DFARS_227.7107-1">227.7107-1</xref>
             (b), use the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps">DRAWINGS AND OTHER DATA TO BECOME PROPERTY OF GOVERNMENT (MAR 1979)</p>
          <p class="- topic/p ">All designs, drawings, specifications, notes and other works developed in the performance of this contract shall become the sole property of the Government and may be used on any other design or construction without additional compensation to the Contractor.  The Government shall be considered the “person for whom the work was prepared” for the purpose of authorship in any copyrightable work under 17 U.S.C. 201(b).  With respect thereto, the Contractor agrees not to assert or authorize others to assert any rights nor establish any claim under the design patent or copyright laws.  The Contractor for a period of three (3) years after completion of the project agrees to furnish all retained works on the request of the Contracting Officer.  Unless otherwise provided in this contract, the Contractor shall have the right to retain copies of all works beyond such period.</p>
