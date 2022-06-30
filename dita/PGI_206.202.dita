@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_206.202"
+   <concept id="DFARS_PGI_PGI_206.202"
             outputclass="3"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
@@ -27,7 +27,7 @@
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) An analysis of the risks of relying on the present source; and</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) A projection of the time required for a new source to acquire the necessary facilities and achieve the production capacity necessary to meet mobilization requirements.</p>
          <p outputclass="List3" class="- topic/p ">(ii) The following is a sample format for Determination and Findings citing the authority of FAR 6.202(a):</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="1"
                     colsep="0"
                     rowsep="0"

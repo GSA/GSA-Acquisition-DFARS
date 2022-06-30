@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-PGI_PGI_242.7000"
+   <concept id="DFARS_PGI_PGI_242.7000"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -16,7 +16,7 @@ system deficiencies.</title>
 payments.</i> The following are sample formats for written notifications
 of contracting officer determinations to initiate payment withholding,
 reduce payment withholding, and discontinue payment withholding
-in accordance with the clause at DFARS <xref href="252.242-7005.dita#DFARS-252.242-7005"
+in accordance with the clause at DFARS <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -27,7 +27,7 @@ final determinations to implement payment withholding:</p>
          <p outputclass="List3" class="- topic/p ">(i) The purpose of this final determination
 is to disapprove your <i class="+ topic/ph hi-d/i ">[identify the contractor business system(s)]</i> and
 implement payment withholding per the terms of the DFARS clause
-at <xref href="252.242-7005.dita#DFARS-252.242-7005"
+at <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -38,7 +38,7 @@ XXX System(s) contains the following significant deficiencies:</p>
          </p>
          <p outputclass="List3" class="- topic/p ">(iii) Effective immediately, five percent
 (or a lesser percentage if five percent will exceed the withhold
-limitations in the DFARS clause at <xref href="252.242-7005.dita#DFARS-252.242-7005"
+limitations in the DFARS clause at <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>)
@@ -52,12 +52,12 @@ all significant deficiencies, as identified in this final determination,
 have been corrected. Failure to follow the accepted corrective action plan
 will result in an increase in the percentage withheld against each
 payment under this contract to five percent (or a lesser percentage
-if five percent will exceed the withhold limitations in DFARS <xref href="252.242-7005.dita#DFARS-252.242-7005"
+if five percent will exceed the withhold limitations in DFARS <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>).<i class="+ topic/ph hi-d/i ">[Repeat
 this paragraph, as necessary, if multiple withholds are being applied
-to multiple systems in accordance with <xref href="252.242-7005.dita#DFARS-252.242-7005"
+to multiple systems in accordance with <xref href="252.242-7005.dita#DFARS_252.242-7005"
                      base="DFARS-252.242-7005"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">252.242-7005</xref>(</i>
@@ -66,7 +66,7 @@ to multiple systems in accordance with <xref href="252.242-7005.dita#DFARS-252.2
          <p outputclass="List3" class="- topic/p ">(iv) For payments under cost, labor-hour,
 or time-and-material contracts: The Contractor shall apply a five
 percent (or a lesser percentage if five percent will exceed the
-withhold limitations in DFARS <xref href="252.242-7005.dita#DFARS-252.242-7005"
+withhold limitations in DFARS <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>)
@@ -74,7 +74,7 @@ withhold to the amount being billed and prepare a cost voucher in
 Wide Area WorkFlow (WAWF) for the net amount due. The Contractor
 shall show the amount withheld on the current billing, as well as
 the cumulative amount withheld to date on this contract in accordance
-with DFARS clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+with DFARS clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -83,13 +83,13 @@ in the Comments block of the Miscellaneous Info Tab in WAWF.</p>
 shall prepare the request in WAWF without applying any withhold
 percentage. The Contracting Officer will reduce the approved amount
 by five percent (or a lesser percentage if five percent will exceed
-the withhold limitations in DFARS <xref href="252.242-7005.dita#DFARS-252.242-7005"
+the withhold limitations in DFARS <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>)
 and record the amount being withheld on the progress payment request,
 as well the cumulative amount withheld on this contract in accordance
-with DFARS clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+with DFARS clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -99,13 +99,13 @@ Contractor shall prepare the request in WAWF without applying any
 withhold percentage to the performance based payment event schedule
 amounts. The Contracting Officer will reduce the amount approved
 by five percent (or a lesser percentage if five percent will exceed
-the withhold limitations in DFARS <xref href="252.242-7005.dita#DFARS-252.242-7005"
+the withhold limitations in DFARS <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>)
 and record the amount being withheld on the performance based payment
 as well as the cumulative amount withheld on this contract in accordance
-with the DFARS clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+with the DFARS clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref> in
@@ -115,7 +115,7 @@ to reduce payment withholding:</p>
          <p class="- topic/p ">Reduction of Temporary Payment Withholding</p>
          <p outputclass="List3" class="- topic/p ">(i) The purpose of this determination is
 to reduce the payment withholding percentage per the terms of the
-DFARS clause at <xref href="252.242-7005.dita#DFARS-252.242-7005"
+DFARS clause at <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -134,7 +134,7 @@ Officer’s determination. Failure to follow the accepted corrective
 action plan will result in an increase in the percentage withheld
 against each payment under this contract to five percent (or a lesser
 percentage if five percent will exceed the withhold limitations
-in DFARS <xref href="252.242-7005.dita#DFARS-252.242-7005"
+in DFARS <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>).</p>
@@ -144,7 +144,7 @@ percent withhold to the amount being billed and prepare a cost voucher
 in Wide Area WorkFlow (WAWF) for the net amount due. The Contractor
 shall show the amount withheld on the current billing, as well as
 the cumulative amount withheld to date on this contract in accordance
-with DFARS clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+with DFARS clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -154,7 +154,7 @@ shall prepare the request in WAWF without applying any withhold
 percentage. The Contracting Officer will reduce the approved amount
 by two percent and record the amount being withheld on the progress
 payment request, as well the cumulative amount withheld on this
-contract in accordance with DFARS clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+contract in accordance with DFARS clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -165,7 +165,7 @@ withhold percentage to the performance-based payment event schedule
 amounts. The Contracting Officer will reduce the amount approved
 by two percent and record the amount being withheld on the performance-based
 payment as well as the cumulative amount withheld on this contract
-in accordance with the DFARS clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+in accordance with the DFARS clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref> in
@@ -174,7 +174,7 @@ the Comments block of the of the Miscellaneous Info Tab in WAWF.</p>
 withholding is discontinued pending receipt of auditor or functional
 specialist verification and based on evidence that the Contractor
 has corrected all significant deficiencies, in accordance with DFARS
-clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -185,7 +185,7 @@ to approve your <i class="+ topic/ph hi-d/i ">[identify system(s)]</i> pending v
 discontinue the payment withhold as identified in the Contracting
 Officer’s determination dated YYYY/MM/DD, and release previous amounts
 withheld on the contracts in Attachment A, in accordance with DFARS
-clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -202,7 +202,7 @@ as appropriate.</p>
          <p outputclass="List2" class="- topic/p ">(4) Use the sample format below if payment
 withholding is discontinued after auditor or functional specialist
 verification that the Contractor has corrected all significant deficiencies,
-in accordance with DFARS clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+in accordance with DFARS clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,
@@ -212,7 +212,7 @@ Contractor Business Systems:</p>
 to approve your <i class="+ topic/ph hi-d/i ">[identify system(s)]</i>, discontinue the payment
 withhold as identified in the Contracting Officer’s determination
 dated YYYY/MM/DD, and release previous amounts withheld on the contracts
-in Attachment A, in accordance with DFARS clause <xref href="252.242-7005.dita#DFARS-252.242-7005"
+in Attachment A, in accordance with DFARS clause <xref href="252.242-7005.dita#DFARS_252.242-7005"
                   base="DFARS-252.242-7005"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.242-7005</xref>,

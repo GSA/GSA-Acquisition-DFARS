@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS-PGI_5-503"
+   <concept id="DFARS_PGI_5-503"
             outputclass="4"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -38,7 +38,7 @@ on each acquisition where a breakout action has taken place. They should
 equal the difference between the previous contract unit price and
 the current contract unit price, times the number of units purchased.</p>
          <p class="- topic/p ">EXHIBIT I—VALID AMC/AMSC COMBINATIONS</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="13"
                     colsep="0"
                     rowsep="0"
@@ -1909,7 +1909,7 @@ DC 20301-3062; facsimile (703) 602-0350; e-mail: osd.pentagon.ousd-atl.mbx.dfars
                    class="- topic/image "/>
          </fig>
          <p class="- topic/p ">EXHIBIT IV—SPARE PARTS BREAKOUT SCREENING REPORT</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="15"
                     colsep="0"
                     rowsep="0"
@@ -2438,7 +2438,7 @@ DC 20301-3062; facsimile (703) 602-0350; e-mail: osd.pentagon.ousd-atl.mbx.dfars
             </tgroup>
          </table>
          <p class="- topic/p ">EXHIBIT V—SPARE PARTS ACQUISITION REPORT</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="12"
                     colsep="0"
                     rowsep="0"

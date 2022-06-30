@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS-PGI_PGI_225.070"
+   <concept id="DFARS_PGI_PGI_225.070"
             outputclass="3"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
@@ -14,7 +14,7 @@
          <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Definitions.</i> “Manufactured end product” and “place of manufacture” are defined in the provision at FAR 52.225-18, Place of Manufacture.</p>
          <p outputclass="List2" class="- topic/p ">(2) Use the Federal Procurement Data System data field “Place of Manufacture,” under the section on Product or Service Information, to enter data on the acquisition of end products manufactured outside the United States for contracts awarded and orders issued in fiscal year 2007 and subsequent fiscal years. Select the appropriate description in accordance with the following table:</p>
          <p class="- topic/p ">Place of Manufacture</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="2"
                     colsep="0"
                     rowsep="0"
@@ -88,7 +88,7 @@
                </tbody>
             </tgroup>
          </table>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="2"
                     colsep="0"
                     rowsep="0"
@@ -115,10 +115,10 @@
                         <p class="- topic/p ">For DoD only, the foreign manufactured end products are predominantly qualifying country end products (DFARS <xref outputclass="fm:ParaNumOnly"
                                  class="- topic/xref "
                                  base="DFARS-225.003"
-                                 href="225.003.dita#DFARS-225.003">225.003</xref> and <xref outputclass="fm:ParaNumOnly"
+                                 href="225.003.dita#DFARS_225.003">225.003</xref> and <xref outputclass="fm:ParaNumOnly"
                                  class="- topic/xref "
                                  base="DFARS-225.872-1"
-                                 href="225.872-1.dita#DFARS-225.872-1">225.872-1</xref>).</p>
+                                 href="225.872-1.dita#DFARS_225.872-1">225.872-1</xref>).</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">

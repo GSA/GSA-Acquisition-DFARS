@@ -25,7 +25,7 @@
          <p outputclass="List3" class="- topic/p ">(i) For stand-alone contracts, enter the 13-position alpha-numeric basic Procurement Instrument Identifier (PIID) of the contract. For task and delivery orders numbered in accordance with FAR 4.1603 and DFARS <xref outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
                   base="DFARS-204.1603"
-                  href="204.1603.dita#DFARS-204.1603">204.1603</xref>, enter the 13-character order number. The contract or agreement number under which the order was placed may be omitted from the WAWF RR. Alternatively, the contractor may choose to enter the contract number on the WAWF RR in addition to the 13-character order number. If the order has only a four-position alpha-numeric call or order serial number, enter both the 13-position basic contract PIID and the four-position order number.</p>
+                  href="204.1603.dita#DFARS_204.1603">204.1603</xref>, enter the 13-character order number. The contract or agreement number under which the order was placed may be omitted from the WAWF RR. Alternatively, the contractor may choose to enter the contract number on the WAWF RR in addition to the 13-character order number. If the order has only a four-position alpha-numeric call or order serial number, enter both the 13-position basic contract PIID and the four-position order number.</p>
          <p outputclass="List2" class="- topic/p ">(ii) Except as indicated in paragraph (b)(1)(iii) of this appendix, do not enter supplementary numbers used in conjunction with basic PIIDs to identify—</p>
          <p outputclass="List4" class="- topic/p ">(A) Modifications of contracts and agreements;</p>
          <p outputclass="List4" class="- topic/p ">(B) Modifications to calls or orders; or</p>
@@ -36,7 +36,7 @@
          <p outputclass="List4" class="- topic/p ">(A) The prime contractor shall control and assign the shipment number prefix. The shipment number shall consist of three alphabetic characters for each “Shipped From” address. The shipment number prefix shall be different for each “Shipped From” address and shall remain constant throughout the life of the contract. The prime contractor may assign separate prefixes when shipments are made from different locations within a facility identified by one “Shipped From” address.</p>
          <p outputclass="List4" class="- topic/p ">(B) Number the first shipment 0001 for shipments made under the contract or contract and order number from each “Shipped From” address, or shipping location within the “Shipped From” address. Consecutively number all subsequent shipments with the identical shipment number prefix. While shipments should be created sequentially they can be released and accepted out of sequence.</p>
          <p outputclass="List6" class="- topic/p ">(1) Use alpha-numeric serial numbers when more than 9,999 numbers are required. Serially assign alpha-numeric numbers with the alpha in the first position (the letters I and O shall not be used) followed by the three-position numeric serial number. Use the following alpha-numeric sequence:</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="1"
                     colsep="0"
                     rowsep="0"
@@ -98,7 +98,7 @@
          <p outputclass="List4" class="- topic/p ">(E) When Government furnished property (GFP) is included with or incorporated into the line item, enter the letters “GFP.”</p>
          <p outputclass="List4" class="- topic/p ">(F) On shipments of Government furnished aeronautical equipment (GFAE) under Air Force contracts, enter the assignment AERNO control number, e.g., “AERNO 60-6354.”</p>
          <p outputclass="List4" class="- topic/p ">(G) For items shipped with missing components, enter and complete the following:</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="1"
                     colsep="0"
                     rowsep="0"
@@ -120,7 +120,7 @@
             </tgroup>
          </table>
          <p outputclass="List4" class="- topic/p ">(H) When shipment is made of components which were short on a prior shipment, enter and complete the following:</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="1"
                     colsep="0"
                     rowsep="0"
@@ -142,7 +142,7 @@
             </tgroup>
          </table>
          <p outputclass="List4" class="- topic/p ">(I) When shipments involve drums, cylinders, reels, containers, skids, etc., designated as returnable under contract provisions, enter and complete the following:</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="1"
                     colsep="0"
                     rowsep="0"
@@ -166,7 +166,7 @@
          <p outputclass="List4" class="- topic/p ">(J) Enter the total number of shipping containers, the type of containers, and the container number(s) assigned for the shipment.</p>
          <p outputclass="List4" class="- topic/p ">(K) On foreign military sales (FMS) shipments, enter the special markings, and FMS case identifier from the contract. Also enter the gross weight.</p>
          <p outputclass="List4" class="- topic/p ">(L) When test/evaluation results are a condition of acceptance and are not available prior to shipment, the following note shall be entered if the shipment is approved by the contracting officer:</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="1"
                     colsep="0"
                     rowsep="0"
@@ -192,7 +192,7 @@
          <p outputclass="List6" class="- topic/p ">(2) The contractor to withhold invoicing pending attachment of the approved test/evaluation results.</p>
          <p outputclass="List4" class="- topic/p ">(M) For clothing and textile contracts containing a bailment clause, enter the words “GFP UNIT VALUE.”</p>
          <p outputclass="List4" class="- topic/p ">(N) When the initial unit incorporating an approved value engineering change proposal (VECP) is shipped, enter the following statement:</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="1"
                     colsep="0"
                     rowsep="0"
@@ -232,7 +232,7 @@
          <p outputclass="List3" class="- topic/p ">(i) The contractor may, at its option, enter unit prices on the WAWF RR, except when the contract has IUID requirements and the receiving report is being processed in WAWF, the unit price must represent the acquisition cost that will be recorded in the IUID registry. Therefore, in such cases, the unit price is required. See DFARS <xref outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
                   base="DFARS-252.211-7003"
-                  href="252.211-7003.dita#DFARS-252.211-7003">252.211-7003</xref>, Item Unique Identification and Valuation.</p>
+                  href="252.211-7003.dita#DFARS_252.211-7003">252.211-7003</xref>, Item Unique Identification and Valuation.</p>
          <p outputclass="List3" class="- topic/p ">(ii) The Contractor shall enter unit prices for each item of property fabricated or acquired for the Government and delivered to a contractor as Government furnished property (GFP). Get the unit price from Section B of the contract. If the unit price is not available, use an estimate. The estimated price should be the contractor's estimate of what the items cost the Government. When the price is estimated, enter</p>
          <p outputclass="List3" class="- topic/p ">“Estimated Unit Price” in the description field. When delivering GFP via WAWF to another contractor, WAWF will initiate a property transfer if the vendor who is initiating the WAWF RR is also registered as a vendor property shipper in WAWF and the vendor receiving the property is also a vendor property receiver in WAWF.</p>
          <p outputclass="List3" class="- topic/p ">(iii) For clothing and textile contracts containing a bailment clause, enter the cited Government furnished property unit value as “GFP UNIT VALUE” in the description field.</p>

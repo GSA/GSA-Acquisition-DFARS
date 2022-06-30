@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-PGI_PGI_204.7103"
+   <concept id="DFARS_PGI_PGI_204.7103"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -13,11 +13,11 @@ items.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="gyoJJP" outputclass="List1" class="- topic/p ">(a) Separately identifiable
 contract line and subline items (i.e., all except those with characteristics
-described in DFARS <xref href="204.7103-1.dita#DFARS-204.7103-1"
+described in DFARS <xref href="204.7103-1.dita#DFARS_204.7103-1"
                   base="DFARS-204.7103-1"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.7103-1</xref>(a)(2)(iii)
-or <xref href="204.7104-1.dita#DFARS-204.7104-1"
+or <xref href="204.7104-1.dita#DFARS_204.7104-1"
                   base="DFARS-204.7104-1"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.7104-1</xref>(a))
@@ -92,7 +92,7 @@ illustrate when the requirements at paragraph (a) apply—</p>
 subline items. The rule applies to subline items 0001AA and 0001AB.
 It does not apply to the line item 0001, because it does not have
 a deliverable.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="6"
                     colsep="0"
                     rowsep="0"
@@ -216,7 +216,7 @@ a deliverable.</p>
 items. The rule applies to line item 0001. It does not apply to
 subline items 000101, 000102, and 000103 because they do not have
 deliverables.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="6"
                     colsep="0"
                     rowsep="0"
@@ -364,7 +364,7 @@ $20,000)</p>
          </table>
          <p id="bwarBq" outputclass="List2" class="- topic/p ">(3) Line item with no subline
 items. The rule applies.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="6"
                     colsep="0"
                     rowsep="0"
@@ -446,7 +446,7 @@ items. The rule applies.</p>
          </table>
          <p id="JiJudv" outputclass="List2" class="- topic/p ">(4) Line item is parent to
 an exhibit. The rule applies to the exhibit lines.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="6"
                     colsep="0"
                     rowsep="0"
@@ -570,7 +570,7 @@ an exhibit. The rule applies to the exhibit lines.</p>
          <p id="eFBFvJ" outputclass="List2" class="- topic/p ">(5) Line is parent to a subline
 item which refers to an exhibit. The rule applies to the exhibit
 lines.</p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="6"
                     colsep="0"
                     rowsep="0"
