@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_252.211-7003"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -45,12 +46,12 @@ defines the general category or intended use of the data that follows.</p>
          <p id="mrDZdx" class="- topic/p ">“DoD recognized unique identification equivalent”
 means a unique identification method that is in commercial use and
 has been recognized by DoD. All DoD recognized unique identification
-equivalents are listed at <ph id="q4gq5xpk" class="- topic/ph ">
+equivalents are listed at 
                <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
-            </ph>.</p>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
+            .</p>
          <p id="RxJFAI" class="- topic/p ">“DoD item unique identification” means a system
 of marking items delivered to DoD with unique item identifiers that
 have machine-readable data elements to distinguish an item from
@@ -129,12 +130,12 @@ identification equivalent.</p>
          <p id="QZIAiJ" class="- topic/p ">“Unique item identifier type” means a designator
 to indicate which method of uniquely identifying a part has been
 used. The current list of accepted unique item identifier types
-is maintained at<ph class="- topic/ph ">
+is maintained at
                <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
-            </ph>.</p>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
+            .</p>
          <p id="XrbpeT" outputclass="List1" class="- topic/p ">(b) The Contractor shall
 deliver all items under a contract line, subline, or exhibit line
 item.</p>

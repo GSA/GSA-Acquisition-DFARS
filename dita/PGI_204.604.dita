@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_PGI_PGI_204.604"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
@@ -11,12 +12,12 @@
          <ph props="autonumber" class="- topic/ph ">PGI 204.604</ph> Responsibilities.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="kgBgkM" outputclass="List2" class="- topic/p ">(1) The OSD Procurement
-Data Improvement Plan, posted at<ph class="- topic/ph ">
+Data Improvement Plan, posted at
                <xref href="https://www.acq.osd.mil/asda/dpc/ce/cap/data-improvement.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/cap/data-improvement.html</xref>
-            ,</ph>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/cap/data-improvement.html</xref>
+            ,
 applies to each of the military services and agencies with procurement
 authority, and identifies the data validation requirements and responsibilities
 that support the annual Department of Defense certification identified

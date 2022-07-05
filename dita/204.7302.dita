@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_204.7302"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -19,12 +20,12 @@ time of award to have at least a Basic NIST SP 800-171 DoD Assessment
 that is current (i.e., not more than 3 years old unless a lesser
 time is specified in the solicitation) (see 252.204-7019).</p>
          <p outputclass="List2" class="- topic/p ">(3) The NIST SP 800-171 DoD Assessment
-Methodology is located at<ph class="- topic/ph ">
+Methodology is located at
                <xref href="https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
-            </ph>.</p>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
+            .</p>
          <p outputclass="List2" class="- topic/p ">(4) High NIST SP 800-171 DoD Assessments
 will be conducted by Government personnel using NIST SP 800-171A, “Assessing
 Security Requirements for Controlled Unclassified Information.”</p>

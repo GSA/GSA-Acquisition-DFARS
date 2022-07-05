@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_252.227-7013"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -391,22 +392,26 @@ or disclose the following technical data should be restricted—</p>
                         colname="1"
                         colwidth="25*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="25*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="25*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="25*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
@@ -501,12 +506,14 @@ appropriate.</p>
                         colname="1"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
@@ -593,12 +600,14 @@ Government with government purpose rights shall be marked as follows:</p>
                         colname="1"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
@@ -659,12 +668,14 @@ rights shall be marked with the following legend:</p>
                         colname="1"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
@@ -720,7 +731,8 @@ with the following legend:</p>
                         colname="1"
                         colwidth="100*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -891,7 +903,7 @@ the following paragraphs (a)(17) and (b)(7) to the basic clause:</p>
 the design of a vessel, boat, or craft, and its components, including
 the hull, decks, superstructure, and the exterior surface shape
 of all external shipboard equipment and systems. The term includes
-designs covered by 10 U.S.C. <ph id="a1ogyd8a" class="- topic/ph ">8687</ph>, and designs protectable
+designs covered by 10 U.S.C. 8687, and designs protectable
 under 17 U.S.C. 1301, <i class="+ topic/ph hi-d/i ">et seq</i>.</p>
          <p id="VcJLuC" outputclass="List1" class="- topic/p ">(b)(7) <i class="+ topic/ph hi-d/i ">Vessel designs.</i> For
 a vessel design (including a vessel design embodied in a useful

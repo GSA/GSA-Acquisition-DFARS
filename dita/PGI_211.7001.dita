@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_PGI_PGI_211.7001"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
@@ -93,21 +94,21 @@ request to the resultant contract.</p>
          <p id="CschPm" outputclass="List1" class="- topic/p ">(f) Purchase requests transmitted
 between requiring systems and contract writing systems shall be
 transmitted via the Global EXchange system (GEX) using the Purchase
-Request Data Standard Extensible Markup Language (XML) format at<ph class="- topic/ph ">
+Request Data Standard Extensible Markup Language (XML) format at
                <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html</xref>
-            </ph>.
+                  format="html"
+                  scope="external"
+                  class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html</xref>
+            .
 Copies shall be sent via the GEX to the Electronic Data Access (EDA)
-system at <ph class="- topic/ph ">
+system at 
                <xref href="http://eda.ogden.disa.mil"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">http://eda.ogden.disa.mil</xref>
-            </ph>. Requiring
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">http://eda.ogden.disa.mil</xref>
+            . Requiring
 systems and contract writing systems may use a format that can be
-translated to or from the purchase request Data Standard <ph id="a3ntsbuel" class="- topic/ph ">(XML)</ph> format.</p>
+translated to or from the purchase request Data Standard (XML) format.</p>
       </conbody>
    </concept>
 </dita>

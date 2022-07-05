@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_208.602-70"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -19,12 +20,12 @@ means an item for which FPI’s share of the DoD market for the federal
 supply class including that item is greater than 5 percent, as determined
 by DoD in consultation with the Office of Federal Procurement Policy.
 A list of the federal supply classes of items for which FPI has
-a significant market share is maintained at<ph class="- topic/ph ">
+a significant market share is maintained at
                <xref href="https://www.acq.osd.mil/asda/dpc/cp/policy/other-policy-areas.html#fpi"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/policy/other-policy-areas.html#fpi</xref>
-  .</ph>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/policy/other-policy-areas.html#fpi</xref>
+  .
          </p>
          <p id="bRUEys" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Policy</i>.</p>
          <p id="ZijNNo" outputclass="List2" class="- topic/p ">(1) When acquiring an item

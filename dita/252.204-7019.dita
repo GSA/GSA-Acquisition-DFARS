@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_252.204-7019"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -29,12 +30,12 @@ in the solicitation) (see 252.204-7020) for each covered contractor
 information system that is relevant to the offer, contract, task
 order, or delivery order. The Basic, Medium, and High NIST SP 800-171
 DoD Assessments are described in the NIST SP 800-171 DoD Assessment
-Methodology located at <ph id="g586jcd" class="- topic/ph ">
+Methodology located at 
                <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
-            </ph>.</p>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
+            .</p>
          <p id="sDcTZh" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Procedures</i>.</p>
          <p id="wUNVHv" outputclass="List2" class="- topic/p ">(1) The Offeror shall verify
 that summary level scores of a current NIST SP 800-171 DoD Assessment
@@ -87,12 +88,36 @@ the report:</p>
                     rowsep="0"
                     outputclass="Choice"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="6" colname="6" colwidth="17*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">

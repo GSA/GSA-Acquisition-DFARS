@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_252.211-7007"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -162,12 +163,12 @@ of Government-furnished property</i>. Except as provided in paragraph
 (c) of this clause, the Contractor shall establish and report to
 the IUID Registry the information required by FAR clause 52.245-1,
 paragraphs (e) and (f)(1)(iii), in accordance with the data submission
-procedures at <ph id="a93uq0lyp" class="- topic/ph ">
+procedures at 
                <xref href="https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2021-09/GFP%20Reporting%20Guide_Vendors_June%202018.pdf"
-                     format="pdf"
-                     scope="external"
-                     class="- topic/xref ">https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2021-09/GFP%20Reporting%20Guide_Vendors_June%202018.pdf</xref>
-            </ph>.</p>
+                  format="pdf"
+                  scope="external"
+                  class="- topic/xref ">https://dodprocurementtoolbox.com/cms/sites/default/files/resources/2021-09/GFP%20Reporting%20Guide_Vendors_June%202018.pdf</xref>
+            .</p>
          <p id="KlVVkV" outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">Procedures for updating
 the IUID Registry</i>.</p>
          <p id="eUjfKO" outputclass="List2" class="- topic/p ">(1) Except as provided in

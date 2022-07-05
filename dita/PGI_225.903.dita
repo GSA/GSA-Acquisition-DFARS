@@ -29,13 +29,17 @@
                         colsep="0"
                         class="- topic/colspec "
                         rowheader="headers"/>
-               <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+               <colspec colname="newCol2"
+                        colnum="2"
+                        colwidth="1*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(Date)</p>
                      </entry>
-                     <entry>
+                     <entry class="- topic/entry ">
                         <p class="- topic/p ">_______________________</p>
                      </entry>
                   </row>
@@ -51,7 +55,7 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(Name)</p>
                      </entry>
-                     <entry>
+                     <entry class="- topic/entry ">
                         <p class="- topic/p ">_______________________</p>
                      </entry>
                   </row>
@@ -59,7 +63,7 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(Title)</p>
                      </entry>
-                     <entry>
+                     <entry class="- topic/entry ">
                         <p class="- topic/p ">_______________________</p>
                      </entry>
                   </row>
@@ -67,7 +71,7 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">(Organization)</p>
                      </entry>
-                     <entry>
+                     <entry class="- topic/entry ">
                         <p class="- topic/p ">_______________________</p>
                      </entry>
                   </row>
