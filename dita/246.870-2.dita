@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_246.870-2"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -54,7 +55,7 @@ parts from a contractor-approved supplier unless otherwise notified
 by DoD.</p>
          <p id="NoWdqW" outputclass="List2" class="- topic/p ">(2) The Government requires
 contractors and subcontractors to comply with the notification,
-inspection, testing, and authentication requirements of paragraph <ph class="- topic/ph ">(b)(3)(ii)</ph> of the clause
+inspection, testing, and authentication requirements of paragraph (b)(3)(ii) of the clause
 at <xref href="252.246-7008.dita#DFARS_252.246-7008"
                   base="i1384099"
                   outputclass="fm:ParaNumOnly"

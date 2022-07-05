@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_PGI_PGI_201.106"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -25,12 +26,14 @@ The following OMB control numbers apply:</p>
                         colname="1"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="50*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -141,16 +144,14 @@ The following OMB control numbers apply:</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p id="PcfPzC" class="- topic/p ">
-                           <ph id="kr99fz7" class="- topic/ph ">
-                              <xref href="SUBPART_245.1.dita#DFARS_SUBPART_245.1"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">245.1</xref>
-                           </ph>
+                           <xref href="SUBPART_245.1.dita#DFARS_SUBPART_245.1"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">245.1</xref>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p id="piHkuj" class="- topic/p ">
-                           <ph id="a750zxu4p" class="- topic/ph ">0704-0557</ph>
+                           0704-0557
                         </p>
                      </entry>
                   </row>
@@ -229,17 +230,15 @@ The following OMB control numbers apply:</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p id="wPgXMm" class="- topic/p ">
-                           <ph id="visd6kx" class="- topic/ph ">
-                              <xref href="252.204-7023.dita#changeme_1626286572440"
-                                    base="DFARS-252.204-7023"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref "/>
-                           </ph>
+                           <xref href="252.204-7023.dita#changeme_1626286572440"
+                                 base="DFARS-252.204-7023"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "/>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p id="IDAexS" class="- topic/p ">
-                           <ph id="jwa3rod" class="- topic/ph ">0704-0519</ph>
+                           0704-0519
                         </p>
                      </entry>
                   </row>
@@ -389,11 +388,9 @@ The following OMB control numbers apply:</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p id="zFjReV" class="- topic/p ">
-                           <ph id="pen2zona" class="- topic/ph ">
-                              <xref href="252.215-7008.dita#DFARS_252.215-7008"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">252.215-7008</xref>
-                           </ph>
+                           <xref href="252.215-7008.dita#DFARS_252.215-7008"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">252.215-7008</xref>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -403,16 +400,14 @@ The following OMB control numbers apply:</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p id="RfKbYQ" class="- topic/p ">
-                           <ph id="zr94qv5" class="- topic/ph ">
-                              <xref href="252.215-7010.dita#DFARS_252.215-7010"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">252.215-7010</xref>
-                           </ph>
+                           <xref href="252.215-7010.dita#DFARS_252.215-7010"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">252.215-7010</xref>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p id="BoiVXt" class="- topic/p ">
-                           <ph id="wf6nxn" class="- topic/ph ">0704-0574</ph>
+                           0704-0574
                         </p>
                      </entry>
                   </row>
@@ -1311,7 +1306,7 @@ The following OMB control numbers apply:</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p id="bHZRVT" class="- topic/p ">
-                           <ph id="a6r5wbquk" class="- topic/ph ">0704-0441</ph>
+                           0704-0441
                         </p>
                      </entry>
                   </row>
@@ -1326,7 +1321,7 @@ The following OMB control numbers apply:</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p id="fALvbe" class="- topic/p ">
-                           <ph id="udenrtff" class="- topic/ph ">0704-0441</ph>
+                           0704-0441
                         </p>
                      </entry>
                   </row>
@@ -1341,7 +1336,7 @@ The following OMB control numbers apply:</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p id="YEbqLb" class="- topic/p ">
-                           <ph id="op4nfgzl" class="- topic/ph ">0704-0441</ph>
+                           0704-0441
                         </p>
                      </entry>
                   </row>

@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_PGI_PGI_207.105"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
@@ -302,12 +303,12 @@ of contract delivery of items or performance may take place in a
 contingency area, address pertinent combatant commander or joint
 force commander requirements and considerations for contract administration.
 Such requirements will be maintained on the particular combatant
-commander operational contract support website,<ph class="- topic/ph ">
+commander operational contract support website,
                <xref href="https://www.acq.osd.mil/asda/dpc/cp/cc/aor.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/cp/cc/aor.html</xref>
-           .</ph>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/cp/cc/aor.html</xref>
+           .
          </p>
          <p id="XxmMGH" outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">iv</i>) When contracts
 are awarded for performance in a contingency area, the head of the

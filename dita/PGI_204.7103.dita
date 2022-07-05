@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_PGI_PGI_204.7103"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
@@ -34,13 +35,13 @@ from the purchase request to the contract with the requiring activity.</p>
 is available on the Federal Procurement Data System website under
 the ‘Worksite’ section under ‘Reference’.</p>
          <p id="fjbPYy" outputclass="List2" class="- topic/p ">(2) The list of available
-units of measure is on the Defense <ph id="a8e47df7r" class="- topic/ph ">Pricing and Contracting</ph> website
-at<ph class="- topic/ph ">
+units of measure is on the Defense Pricing and Contracting website
+at
                <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/docs/pds/Line_Item_UoM_List.xlsx"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/docs/pds/Line_Item_UoM_List.xlsx</xref>
-           .</ph>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/docs/pds/Line_Item_UoM_List.xlsx</xref>
+           .
          </p>
          <p id="ZODwno" outputclass="List2" class="- topic/p ">(3) Delivery and acceptance
 locations shall be defined using Activity Address Codes published
@@ -102,32 +103,38 @@ a deliverable.</p>
                         colname="1"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="5"
                         colname="5"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="6"
                         colname="6"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -226,32 +233,38 @@ deliverables.</p>
                         colname="1"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="5"
                         colname="5"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="6"
                         colname="6"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -374,32 +387,38 @@ items. The rule applies.</p>
                         colname="1"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="5"
                         colname="5"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="6"
                         colname="6"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -456,32 +475,38 @@ an exhibit. The rule applies to the exhibit lines.</p>
                         colname="1"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="5"
                         colname="5"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="6"
                         colname="6"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -580,32 +605,38 @@ lines.</p>
                         colname="1"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="5"
                         colname="5"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="6"
                         colname="6"
                         colwidth="17*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">

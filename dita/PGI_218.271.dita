@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_PGI_PGI_218.271"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
@@ -21,12 +22,12 @@ necessary to support an end-to-end electronic acquisition process
 in order to quickly obtain goods and services for the warfighter
 in an operational area. For information and procedures to effectively
 utilize CBE e-business tools, and additional policy references supporting
-use of the e-business tools, see the DoD CBE Guidebook at<ph class="- topic/ph ">
+use of the e-business tools, see the DoD CBE Guidebook at
                <xref href="https://www.acq.osd.mil/asda/dpc/cp/cc/docs/resources/CBE_Guidebook.docx"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cc/docs/resources/CBE_Guidebook.docx</xref>
-           .</ph>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cc/docs/resources/CBE_Guidebook.docx</xref>
+           .
          </p>
          <p id="SJktYB" outputclass="List1" class="- topic/p ">(b) Use of the following
 CBE e-business tools is mandatory when supporting a contingency

@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_225.872-1"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -31,7 +32,7 @@ the following qualifying countries:</p>
          <p id="irAhlG" class="- topic/p ">Japan</p>
          <p id="pZCZul" class="- topic/p ">Latvia</p>
          <p id="73gaa7rp" class="- topic/p ">
-            <ph id="yfmgokdi" class="- topic/ph ">Lithuania</ph>
+            Lithuania
          </p>
          <p id="EXQJDU" class="- topic/p ">Luxembourg</p>
          <p id="IEvidc" class="- topic/p ">Netherlands</p>
@@ -63,7 +64,8 @@ Payments Program as inconsistent with the public interest:</p>
                         colname="1"
                         colwidth="100*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">

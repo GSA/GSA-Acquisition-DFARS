@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_213.301"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -72,12 +73,12 @@ paragraphs (2)(i) and (ii) of this section are met.</p>
          <p id="iTXRzX" outputclass="List2" class="- topic/p ">(4) Guidance on DoD purchase,
 travel, and fuel card programs is available in the “Department of
 Defense Government Charge Card Guidebook for Establishing and Managing
-Purchase, Travel, and Fuel Card Programs” at<ph id="edg8oxm" class="- topic/ph ">
+Purchase, Travel, and Fuel Card Programs” at
                <xref href="https://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/pc/docs-guides.html</xref>
-  .</ph>
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/pc/docs-guides.html</xref>
+  .
 Additional guidance on the fuel card programs is available at <xref href="https://www.dla.mil/Energy/Offers/Products/GovernmentFuel/"
                   format="html"
                   scope="external"

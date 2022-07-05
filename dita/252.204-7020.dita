@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_252.204-7020"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -70,12 +71,12 @@ Reporting, of this contract.</p>
 The Contractor shall provide access to its facilities, systems,
 and personnel necessary for the Government to conduct a Medium or
 High NIST SP 800-171 DoD Assessment, as described in NIST SP 800-171
-DoD Assessment Methodology at <ph id="ui8olmks" class="- topic/ph ">
+DoD Assessment Methodology at 
                <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
-            </ph>,
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
+            ,
 if necessary.</p>
          <p id="jsKokg" outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Procedures</i>. Summary
 level scores for all assessments will be posted in the Supplier
@@ -118,12 +119,36 @@ the report:</p>
                     rowsep="0"
                     outputclass="Choice"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="4" colname="4" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="5" colname="5" colwidth="17*" class="- topic/colspec "/>
-               <colspec colnum="6" colname="6" colwidth="17*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -278,12 +303,12 @@ not award a subcontract or other contractual instrument, that is
 subject to the implementation of NIST SP 800-171 security requirements,
 in accordance with DFARS clause 252.204-7012 of this contract, unless
 the subcontractor has completed, within the last 3 years, at least
-a Basic NIST SP 800-171 DoD Assessment, as described in <ph id="mcie6gy" class="- topic/ph ">
+a Basic NIST SP 800-171 DoD Assessment, as described in 
                <xref href="https://www.acq.osd.mil/dpap/pdi/cyber/strategically_assessing_contractor_implementation_of_NIST_SP_800-171.html"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
-            </ph>,
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171</xref>
+            ,
 for all covered contractor information systems relevant to its offer
 that are not part of an information technology service or system
 operated on behalf of the Government.</p>
