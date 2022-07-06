@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS_219.201"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">219.201</ph> General policy.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -15,7 +16,7 @@
          <p outputclass="List2" class="- topic/p ">(10)  Contracting activity small business specialists perform this function by—</p>
          <p outputclass="List4" class="- topic/p ">(A) Reviewing and making recommendations for all
             acquisitions (including orders placed against Federal Supply Schedule contracts) over
-               <ph rev="Revised May 26, 2022" class="- topic/ph ">the micro-purchase threshold (see
+               <ph class="- topic/ph ">the micro-purchase threshold (see
                   <xref href="https://www.acquisition.gov/far/part-19#FAR_19_502_2"
                      format="html"
                      scope="external"

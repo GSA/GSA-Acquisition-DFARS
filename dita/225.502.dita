@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_225.502"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.502</ph> Application.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -28,10 +29,10 @@
          <p outputclass="List4" class="- topic/p ">(B) If the acquisition is also subject to a Free Trade Agreement, then eligible products of the applicable Free Trade Agreement country are also exempt from application of the Buy American or Balance of Payments Program evaluation factor.</p>
          <p outputclass="List3" class="- topic/p ">(ii) If price is the determining factor, use the following procedures:</p>
          <p outputclass="List4" class="- topic/p ">(A) If the low offer is a domestic offer, award on that offer.</p>
-         <p outputclass="List4" class="- topic/p ">(B) If there are no domestic offers, award on the low offer (see example in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.504"
-                  href="225.504.dita#DFARS_225.504">225.504</xref>(1)).</p>
+         <p outputclass="List4" class="- topic/p ">(B) If there are no domestic offers, award on the
+            low offer (see example in <ph rev="Revised June 23, 2022">PGI <xref
+                  outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.504"
+                  href="PGI_225.504.dita#DFARS_PGI_PGI_225.504">225.504</xref></ph>(1)).</p>
          <p outputclass="List4" class="- topic/p ">(C) If the low offer is a foreign offer that is exempt from application of the Buy American or Balance of Payments Program evaluation factor, award on that offer. (If the low offer is a qualifying country offer from a country listed at <xref outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
                   base="DFARS-225.872-1"
@@ -39,19 +40,24 @@
                   class="- topic/xref "
                   base="DFARS-225.872-4"
                   href="225.872-4.dita#DFARS_225.872-4">225.872-4</xref>.)</p>
-         <p outputclass="List4" class="- topic/p ">(D) If the low offer is a foreign offer that is not exempt from application of the Buy American or Balance of Payments Program evaluation factor, and there is another foreign offer that is exempt and is lower than the lowest domestic offer, award on the low foreign offer (see example in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.504"
-                  href="225.504.dita#DFARS_225.504">225.504</xref>(2)).</p>
+         <p outputclass="List4" class="- topic/p ">(D) If the low offer is a foreign offer that is
+            not exempt from application of the Buy American or Balance of Payments Program
+            evaluation factor, and there is another foreign offer that is exempt and is lower than
+            the lowest domestic offer, award on the low foreign offer (see example in <ph
+               rev="Revised June 23, 2022">PGI <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref " base="DFARS-225.504"
+                  href="PGI_225.504.dita#DFARS_PGI_PGI_225.504">225.504</xref></ph>(2)).</p>
          <p outputclass="List4" class="- topic/p ">(E) Otherwise, apply the 50 percent evaluation factor to the low foreign offer.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) If the price of the low domestic offer is less than the evaluated price of the low foreign offer, award on the low domestic offer (see example in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.504"
-                  href="225.504.dita#DFARS_225.504">225.504</xref>(3)).</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) If the evaluated price of the low foreign offer remains less than the low domestic offer, award on the low foreign offer (see example in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.504"
-                  href="225.504.dita#DFARS_225.504">225.504</xref>(4)).</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) If the
+            price of the low domestic offer is less than the evaluated price of the low foreign
+            offer, award on the low domestic offer (see example in <ph rev="Revised June 23, 2022"
+               >PGI <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.504"
+                  href="PGI_225.504.dita#DFARS_PGI_PGI_225.504">225.504</xref></ph>(3)).</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) If the
+            evaluated price of the low foreign offer remains less than the low domestic offer, award
+            on the low foreign offer (see example in <ph rev="Revised June 23, 2022">PGI <xref
+                  outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-225.504"
+                  href="PGI_225.504.dita#DFARS_PGI_PGI_225.504">225.504</xref></ph>(4)).</p>
          <p outputclass="List3" class="- topic/p ">(iii) If price is not the determining factor, use the following procedures:</p>
          <p outputclass="List4" class="- topic/p ">(A) If there are domestic offers, apply the 50 percent Buy American or Balance of Payments Program evaluation factor to all foreign offers unless an exemption applies.</p>
          <p outputclass="List4" class="- topic/p ">(B) Evaluate in accordance with the criteria of the solicitation.</p>

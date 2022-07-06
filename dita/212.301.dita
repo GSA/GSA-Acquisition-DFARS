@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_212.301"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">212.301</ph> Solicitation provisions
 and contract clauses for the acquisition of commercial items.</title>
@@ -950,7 +951,7 @@ Federation, as prescribed in 225.7019-4(b), to comply with section
                   format="html"
                   scope="external"
                   class="- topic/xref ">Pub. L. 116-92</xref>).</p>
-         <p outputclass="List4" rev="Revised May 26, 2022" class="- topic/p ">(II) Use the provision
+         <p outputclass="List4" class="- topic/p ">(II) Use the provision
             at <xref href="252.225-7055.dita#DFARS_252.225-7055"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.225-7055</xref>, Representation Regarding Business Operations with the Maduro
@@ -958,7 +959,7 @@ Federation, as prescribed in 225.7019-4(b), to comply with section
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">225.7020-5</xref>(a), to comply with section 890 of the
             National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).</p>
-         <p outputclass="List4" rev="Revised May 26, 2022" class="- topic/p ">(JJ) Use the clause at
+         <p outputclass="List4" class="- topic/p ">(JJ) Use the clause at
                <xref href="252.225-7056.dita#DFARS_252.225-7056"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.225-7056</xref>, Prohibition Regarding Business Operations with the Maduro
