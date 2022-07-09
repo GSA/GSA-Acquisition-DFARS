@@ -1,188 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS_PART_236">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="DFARS_PART_236"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 236</ph> - CONSTRUCTION AND ARCHITECT — ENGINEER CONTRACTS</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_236.1.dita#DFARS_SUBPART_236.1">SUBPART 236.1 —GENERAL</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_236.1.dita#DFARS_SUBPART_236.1"
+                        class="- topic/xref ">SUBPART 236.1 —GENERAL</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.102.dita#DFARS_236.102">236.102 Definitions.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.102.dita#DFARS_236.102"
+                              class="- topic/xref ">236.102 Definitions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_236.2.dita#DFARS_SUBPART_236.2">SUBPART 236.2 —SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_236.2.dita#DFARS_SUBPART_236.2"
+                        class="- topic/xref ">SUBPART 236.2 —SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.203.dita#DFARS_236.203">236.203 Government estimate of construction costs.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.203.dita#DFARS_236.203"
+                              class="- topic/xref ">236.203 Government estimate of construction costs.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.204.dita#DFARS_236.204">236.204 Disclosure of the magnitude of construction projects.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.204.dita#DFARS_236.204"
+                              class="- topic/xref ">236.204 Disclosure of the magnitude of construction projects.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.206.dita#DFARS_236.206">236.206 Liquidated damages.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.206.dita#DFARS_236.206"
+                              class="- topic/xref ">236.206 Liquidated damages.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.213.dita#DFARS_236.213">236.213 Special procedures for sealed bidding in construction contracting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.213.dita#DFARS_236.213"
+                              class="- topic/xref ">236.213 Special procedures for sealed bidding in construction contracting.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.215.dita#DFARS_236.215">236.215 Special procedures for cost-reimbursement contracts for construction.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.215.dita#DFARS_236.215"
+                              class="- topic/xref ">236.215 Special procedures for cost-reimbursement contracts for construction.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.270.dita#DFARS_236.270">236.270 Expediting construction contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.270.dita#DFARS_236.270"
+                              class="- topic/xref ">236.270 Expediting construction contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.271.dita#DFARS_236.271">236.271 Cost-plus-fixed-fee contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.271.dita#DFARS_236.271"
+                              class="- topic/xref ">236.271 Cost-plus-fixed-fee contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.272.dita#DFARS_236.272">236.272 Prequalification of sources.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.272.dita#DFARS_236.272"
+                              class="- topic/xref ">236.272 Prequalification of sources.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.273.dita#DFARS_236.273">236.273 Construction in foreign countries.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.273.dita#DFARS_236.273"
+                              class="- topic/xref ">236.273 Construction in foreign countries.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.274.dita#DFARS_236.274">236.274 Restriction on acquisition of steel for use in military construction projects.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.274.dita#DFARS_236.274"
+                              class="- topic/xref ">236.274 Restriction on acquisition of steel for use in military construction projects.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.275.dita#DFARS_236.275">236.275 Construction of industrial resources.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.275.dita#DFARS_236.275"
+                              class="- topic/xref ">236.275 Construction of industrial resources.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_236.3.dita#DFARS_SUBPART_236.3">SUBPART 236.3 —TWO-PHASE DESIGN-BUILD SELECTION PROCEDURES</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_236.3.dita#DFARS_SUBPART_236.3"
+                        class="- topic/xref ">SUBPART 236.3 —TWO-PHASE DESIGN-BUILD SELECTION PROCEDURES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.303.dita#DFARS_236.303">236.303 RESERVED</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.303.dita#DFARS_236.303"
+                              class="- topic/xref ">236.303 RESERVED</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="236.303-1.dita#DFARS_236.303-1">236.303-1 Phase One.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="236.303-1.dita#DFARS_236.303-1"
+                                    class="- topic/xref ">236.303-1 Phase One.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_236.4.dita#DFARS_SUBPART_236.4">SUBPART 236.4</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_236.4.dita#DFARS_SUBPART_236.4"
+                        class="- topic/xref ">SUBPART 236.4</xref>
                </p>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_236.5.dita#DFARS_SUBPART_236.5">SUBPART 236.5 —CONTRACT CLAUSES</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_236.5.dita#DFARS_SUBPART_236.5"
+                        class="- topic/xref ">SUBPART 236.5 —CONTRACT CLAUSES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.570.dita#DFARS_236.570">236.570 Additional provisions and clauses.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.570.dita#DFARS_236.570"
+                              class="- topic/xref ">236.570 Additional provisions and clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_236.6.dita#DFARS_SUBPART_236.6">SUBPART 236.6 —ARCHITECT-ENGINEER SERVICES</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_236.6.dita#DFARS_SUBPART_236.6"
+                        class="- topic/xref ">SUBPART 236.6 —ARCHITECT-ENGINEER SERVICES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.601.dita#DFARS_236.601">236.601 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.601.dita#DFARS_236.601"
+                              class="- topic/xref ">236.601 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.602.dita#DFARS_236.602">236.602 Selection of firms for architect-engineer contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.602.dita#DFARS_236.602"
+                              class="- topic/xref ">236.602 Selection of firms for architect-engineer contracts.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="236.602-1.dita#DFARS_236.602-1">236.602-1 Selection criteria.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="236.602-1.dita#DFARS_236.602-1"
+                                    class="- topic/xref ">236.602-1 Selection criteria.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="236.602-70.dita#DFARS_236.602-70">236.602-70 Restriction on award of overseas architect-engineer contracts to foreign firms.</xref>
-                           </p>
-                        </li>
-                     </ul>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.604.dita#DFARS_236.604">236.604 Performance evaluation.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.606.dita#DFARS_236.606">236.606 Negotiations.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="236.606-70.dita#DFARS_236.606-70">236.606-70 Statutory fee limitation.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="236.602-70.dita#DFARS_236.602-70"
+                                    class="- topic/xref ">236.602-70 Restriction on award of overseas architect-engineer contracts to foreign firms.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.609.dita#DFARS_236.609">236.609 Contract clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.604.dita#DFARS_236.604"
+                              class="- topic/xref ">236.604 Performance evaluation.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="236.609-70.dita#DFARS_236.609-70">236.609-70 Additional provision.</xref>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.606.dita#DFARS_236.606"
+                              class="- topic/xref ">236.606 Negotiations.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="236.606-70.dita#DFARS_236.606-70"
+                                    class="- topic/xref ">236.606-70 Statutory fee limitation.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.609.dita#DFARS_236.609"
+                              class="- topic/xref ">236.609 Contract clauses.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="236.609-70.dita#DFARS_236.609-70"
+                                    class="- topic/xref ">236.609-70 Additional provision.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_236.7.dita#DFARS_SUBPART_236.7">SUBPART 236.7 —STANDARD AND OPTIONAL FORMS FOR CONTRACTING FOR CONSTRUCTION, ARCHITECT-ENGINEER SERVICES, AND DISMANTLING, DEMOLITION, OR REMOVAL OF IMPROVEMENTS</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_236.7.dita#DFARS_SUBPART_236.7"
+                        class="- topic/xref ">SUBPART 236.7 —STANDARD AND OPTIONAL FORMS FOR CONTRACTING FOR CONSTRUCTION, ARCHITECT-ENGINEER SERVICES, AND DISMANTLING, DEMOLITION, OR REMOVAL OF IMPROVEMENTS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="236.701.dita#DFARS_236.701">236.701 Standard and optional forms for use in contracting for construction or dismantling, demolition, or removal of improvements.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="236.701.dita#DFARS_236.701"
+                              class="- topic/xref ">236.701 Standard and optional forms for use in contracting for construction or dismantling, demolition, or removal of improvements.</xref>
                      </p>
                   </li>
                </ul>

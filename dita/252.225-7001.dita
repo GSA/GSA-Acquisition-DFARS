@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_252.225-7001"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.225-7001</ph> Buy American and
 Balance of Payments Program.</title>
@@ -17,44 +18,46 @@ Balance of Payments Program.</title>
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">225.1101</xref> (2)(i) and (2)(ii),
 use the following clause:</p>
-         <p id="ybEDIU" outputclass="Ctr_SmCaps" class="- topic/p ">BUY AMERICAN AND BALANCE OF PAYMENTS
-PROGRAM—BASIC (MAR 2022)</p>
+         <p id="ybEDIU" outputclass="Ctr_SmCaps" class="- topic/p " rev="Revised June 23, 2022">BUY
+            AMERICAN AND BALANCE OF PAYMENTS PROGRAM—BASIC (JUN 2022)</p>
          <p id="VtfmmL" outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i>As
 used in this clause—</p>
          <p id="GsIeeE" class="- topic/p ">“Commercially available off-the-shelf (COTS) item”—</p>
-         <p id="tUHpUJ" outputclass="List3" class="- topic/p ">(i) Means any item of supply
-(including construction material) that is—</p>
-         <p id="AKuBlz" outputclass="List4" class="- topic/p ">(A) A commercial item (as
-defined in paragraph (1) of the definition of “commercial item”
-in section 2.101 of the Federal Acquisition Regulation);</p>
-         <p id="kkBdfw" outputclass="List4" class="- topic/p ">(B) Sold in substantial quantities
-in the commercial marketplace; and</p>
-         <p id="UILxdx" outputclass="List4" class="- topic/p ">(C) Offered to the Government,
-under a contract or subcontract at any tier, without modification,
-in the same form in which it is sold in the commercial marketplace;
-and</p>
-         <p id="poihxX" outputclass="List3" class="- topic/p ">(ii) Does not include bulk
-cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products
-and petroleum products.</p>
+         <p id="tUHpUJ" outputclass="List2" class="- topic/p "><ph rev="Revised June 23, 2022"
+               >(1)</ph> Means any item of supply (including construction material) that is—</p>
+         <p id="AKuBlz" outputclass="List3" class="- topic/p "><ph rev="Revised June 23, 2022"
+               >(i)</ph> A commercial item (as defined in paragraph (1) of the definition of
+            “commercial item” in section 2.101 of the Federal Acquisition Regulation);</p>
+         <p id="kkBdfw" outputclass="List3" class="- topic/p "><ph rev="Revised June 23, 2022"
+               >(ii)</ph> Sold in substantial quantities in the commercial marketplace; and</p>
+         <p id="UILxdx" outputclass="List3" class="- topic/p "><ph rev="Revised June 23, 2022"
+               >(iii)</ph> Offered to the Government, under a contract or subcontract at any tier,
+            without modification, in the same form in which it is sold in the commercial
+            marketplace; and</p>
+         <p id="poihxX" outputclass="List2" class="- topic/p "><ph rev="Revised June 23, 2022"
+               >(2)</ph> Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as
+            agricultural products and petroleum products.</p>
          <p id="hEdKFl" class="- topic/p ">“Component” means an article, material, or supply
 incorporated directly into an end product.</p>
          <p id="Hkjmzq" class="- topic/p ">“Domestic end product” means—</p>
-         <p id="RKWwjq" outputclass="List3" class="- topic/p ">(i) An unmanufactured end
-product that has been mined or produced in the United States; or</p>
+         <p rev="Revised June 23, 2022" outputclass="List2">(1) For an end product that does not
+            consist wholly or predominantly of iron or steel or a combination of both—</p>
+         <p id="RKWwjq" outputclass="List3" class="- topic/p ">(i) An unmanufactured end <ph
+               rev="Revised June 23, 2022">product mined</ph> or produced in the United States;
+            or</p>
          <p id="PuHAlL" outputclass="List3" class="- topic/p ">(ii) An end product manufactured
 in the United States if—</p>
          <p id="aGnoRl" outputclass="List4" class="- topic/p ">(A) The cost of its qualifying
-country components and its components that are mined, produced,
-or manufactured in the United States exceeds 50 percent of the cost
-of all its components. The cost of components includes transportation
-costs to the place of incorporation into the end product and U.S.
-duty (whether or not a duty-free entry certificate is issued). Scrap
-generated, collected, and prepared for processing in the United
-States is considered domestic. A component is considered to have
-been mined, produced, or manufactured in the United States (regardless
-of its source in fact) if the end product in which it is incorporated
-is manufactured in the United States and the component is of a class
-or kind for which the Government has determined that—</p>
+            country components and its components that are mined, produced, or manufactured in the
+            United States exceeds <ph rev="Revised June 23, 2022">55 percent</ph> of the cost of all
+            its components. The cost of components includes transportation costs to the place of
+            incorporation into the end product and U.S. duty (whether or not a duty-free entry
+            certificate is issued). <ph rev="Revised June 23, 2022">Components of unknown origin are
+               treated as foreign.</ph> Scrap generated, collected, and prepared for processing in
+            the United States is considered domestic. A component is considered to have been mined,
+            produced, or manufactured in the United States (regardless of its source in fact) if the
+            end product in which it is incorporated is manufactured in the United States and the
+            component is of a class or kind for which the Government has determined that—</p>
          <p id="gjAMbv" outputclass="List6" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(1)</i> Sufficient and
 reasonably available commercial quantities of a satisfactory quality
@@ -65,10 +68,33 @@ with the public interest to apply the restrictions of the Buy American
 statute; or</p>
          <p id="pevFYT" outputclass="List4" class="- topic/p ">(B) The end product is a
 COTS item.</p>
+         <p rev="Revised June 23, 2022" outputclass="List2">(2) For an end product that consists
+            wholly or predominantly of iron or steel or a combination of both, an end product
+            manufactured in the United States, if the cost of iron and steel not produced in the
+            United States or a qualifying country constitutes less than 5 percent of the cost of all
+            the components used in the end product (produced in the United States or a qualifying
+            country means that all manufacturing processes of the iron or steel must take place in
+            the United States or a qualifying country, except metallurgical processes involving
+            refinement of steel additives). The cost of iron and steel not produced in the United
+            States or a qualifying country includes but is not limited to the cost of iron or steel
+            mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings,
+            not produced in the United States or a qualifying country, utilized in the manufacture
+            of the end product and a good faith estimate of the cost of all iron or steel components
+            not produced in the United States or a qualifying country, excluding COTS fasteners.
+            Iron or steel components of unknown origin are treated as foreign. If the end product
+            contains multiple components, the cost of all the materials used in such end product is
+            calculated in accordance with the explanation of cost of components in paragraph
+            (1)(ii)(A) of this definition.</p>
          <p id="ZrWMtP" class="- topic/p ">“End product” means those articles, materials,
 and supplies to be acquired under this contract for public use.</p>
          <p id="lBadMe" class="- topic/p ">“Foreign end product” means an end product other
 than a domestic end product.</p>
+         <p rev="Revised June 23, 2022">“Predominantly of iron or steel or a combination of both”
+            means that the cost of the iron and steel content exceeds 50 percent of the total cost
+            of all its components. The cost of iron and steel is the cost of the iron or steel mill
+            products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings
+            utilized in the manufacture of the product and a good faith estimate of the cost of iron
+            or steel components excluding COTS fasteners.</p>
          <p id="AxdYAO" class="- topic/p ">“Qualifying country” means a country with a reciprocal
 defense procurement memorandum of understanding or international agreement
 with the United States in which both countries agree to remove barriers
@@ -110,25 +136,27 @@ agreement complies, where applicable, with the requirements of section
          <p id="EpJqLL" class="- topic/p ">“Qualifying country component” means a component
 mined, produced, or manufactured in a qualifying country.</p>
          <p id="TggfJc" class="- topic/p ">“Qualifying country end product” means—</p>
-         <p id="OqpMKd" outputclass="List3" class="- topic/p ">(i) An unmanufactured end
-product mined or produced in a qualifying country; or</p>
-         <p id="kAVpUq" outputclass="List3" class="- topic/p ">(ii) An end product manufactured
-in a qualifying country if —</p>
-         <p id="MzvGNN" outputclass="List4" class="- topic/p ">(A) The cost of the following
-types of components exceeds 50 percent of the cost of all its components:</p>
-         <p id="onFtfj" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Components mined,
-produced, or manufactured in a qualifying country.</p>
-         <p id="NygyIy" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Components mined,
-produced, or manufactured in the United States.</p>
-         <p id="wbSVxf" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) Components of
-foreign origin of a class or kind for which the Government has determined
-that sufficient and reasonably available commercial quantities of
-a satisfactory quality are not mined, produced, or manufactured
-in the United States; or</p>
-         <p id="aQxSfo" outputclass="List4" class="- topic/p ">(B) The end product is a
-COTS item.</p>
+         <p id="OqpMKd" outputclass="List2" class="- topic/p ">(1) An unmanufactured end product
+            mined or produced in a qualifying country; or</p>
+         <p id="kAVpUq" outputclass="List2" class="- topic/p ">(2) An end product manufactured in a
+            qualifying country if —</p>
+         <p id="MzvGNN" outputclass="List3" class="- topic/p ">(i) The cost of the following types
+            of components exceeds 50 percent of the cost of all its components:</p>
+         <p id="onFtfj" outputclass="List4" class="- topic/p ">(A) Components mined, produced, or
+            manufactured in a qualifying country.</p>
+         <p id="NygyIy" outputclass="List4" class="- topic/p ">(B) Components mined, produced, or
+            manufactured in the United States.</p>
+         <p id="wbSVxf" outputclass="List4" class="- topic/p ">(C) Components of foreign origin of a
+            class or kind for which the Government has determined that sufficient and reasonably
+            available commercial quantities of a satisfactory quality are not mined, produced, or
+            manufactured in the United States. <ph rev="Revised June 23, 2022">Components of unknown
+               origin are treated as foreign;</ph> or</p>
+         <p id="aQxSfo" outputclass="List3" class="- topic/p ">(ii) The end product is a COTS
+            item.</p>
          <p id="juTfrp" class="- topic/p ">“United States” means the 50 States, the District
 of Columbia, and outlying areas.</p>
+         <p rev="Revised June 23, 2022">“Steel” means an alloy that includes at least 50 percent
+            iron, between 0.02 and 2 percent carbon, and may include other elements.</p>
          <p id="BNxbgo" outputclass="List1" class="- topic/p ">(b) This clause implements
 41 U.S.C chapter 83, Buy American. In accordance with 41 U.S.C.
 1907, the component test of the Buy American statute is waived for
@@ -157,45 +185,47 @@ and (2)(iii), use the following clause, which adds “South Caucasus/Central
 and South Asian (SC/CASA) state” and “South Caucasus/Central and
 South Asian (SC/CASA) state end product” to paragraph (a), and uses
 different paragraphs (b) and (c) than the basic clause:</p>
-            <p id="ecSEdr" outputclass="Ctr_SmCaps" class="- topic/p ">BUY AMERICAN AND BALANCE OF PAYMENTS
-PROGRAM—ALTERNATE I (MAR 2022)</p>
+            <p id="ecSEdr" outputclass="Ctr_SmCaps" class="- topic/p ">BUY AMERICAN AND BALANCE OF
+               PAYMENTS PROGRAM—ALTERNATE I (JUN 2022)</p>
             <p id="GqkIdK" outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i>As
 used in this clause—</p>
             <p id="Mzkusa" class="- topic/p ">“Commercially available
 off-the-shelf (COTS) item”—</p>
-            <p id="YYJfSs" outputclass="List3" class="- topic/p ">(i)
-Means any item of supply (including construction material) that
-is—</p>
-            <p id="tNnwRQ" outputclass="List4" class="- topic/p ">(A) A commercial item
-(as defined in paragraph (1) of the definition of “commercial item”
-in section 2.101 of the Federal Acquisition Regulation);</p>
-            <p id="YZZQxF" outputclass="List4" class="- topic/p ">(B) Sold in substantial
-quantities in the commercial marketplace; and</p>
-            <p id="MnXxAH" outputclass="List4" class="- topic/p ">(C) Offered to the Government, under a
-contract or subcontract at any tier, without modification, in the
-same form in which it is sold in the commercial marketplace; and</p>
-            <p id="EVXsBB" outputclass="List3" class="- topic/p ">(ii) Does not include bulk
-cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products
-and petroleum products.</p>
+            <p id="YYJfSs" outputclass="List2" class="- topic/p "><ph rev="Revised June 23, 2022"
+                  >(1)</ph> Means any item of supply (including construction material) that is—</p>
+            <p id="tNnwRQ" outputclass="List3" class="- topic/p "><ph rev="Revised June 23, 2022"
+                  >(i)</ph> A commercial item (as defined in paragraph (1) of the definition of
+               “commercial item” in section 2.101 of the Federal Acquisition Regulation);</p>
+            <p id="YZZQxF" outputclass="List3" class="- topic/p "><ph rev="Revised June 23, 2022"
+                  >(ii)</ph> Sold in substantial quantities in the commercial marketplace; and</p>
+            <p id="MnXxAH" outputclass="List3" class="- topic/p "><ph rev="Revised June 23, 2022"
+                  >(iii)</ph> Offered to the Government, under a contract or subcontract at any
+               tier, without modification, in the same form in which it is sold in the commercial
+               marketplace; and</p>
+            <p id="EVXsBB" outputclass="List2" class="- topic/p ">(2) Does not include bulk cargo,
+               as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum
+               products.</p>
             <p id="yUEYGq" class="- topic/p ">“Component” means an
 article, material, or supply incorporated directly into an end product.</p>
             <p id="qIiTeK" class="- topic/p ">“Domestic end product” means—</p>
+            <p outputclass="List2" rev="Revised June 23, 2022">(1) For an end product that does not
+               consist wholly or predominantly of iron or steel or a combination of both—]</p>
             <p id="wHiwBP" outputclass="List3" class="- topic/p ">(i) An unmanufactured end product that
 has been mined or produced in the United States; or</p>
             <p id="ObXDqU" outputclass="List3" class="- topic/p ">(ii) An end product manufactured in the
 United States if—</p>
-            <p id="NAXvvb" outputclass="List4" class="- topic/p ">(A)
-The cost of its qualifying country components and its components
-that are mined, produced, or manufactured in the United States exceeds
-50 percent of the cost of all its components. The cost of components
-includes transportation costs to the place of incorporation into
-the end product and U.S. duty (whether or not a duty-free entry certificate
-is issued). Scrap generated, collected, and prepared for processing
-in the United States is considered domestic. A component is considered
-to have been mined, produced, or manufactured in the United States
-(regardless of its source in fact) if the end product in which it
-is incorporated is manufactured in the United States and the component
-is of a class or kind for which the Government has determined that—</p>
+            <p id="NAXvvb" outputclass="List4" class="- topic/p ">(A) The cost of its qualifying
+               country components and its components that are mined, produced, or manufactured in
+               the United States exceeds <ph rev="Revised June 23, 2022">55 percent</ph> of the cost
+               of all its components. The cost of components includes transportation costs to the
+               place of incorporation into the end product and U.S. duty (whether or not a duty-free
+               entry certificate is issued). <ph rev="Revised June 23, 2022">Components of unknown
+                  origin are treated as foreign.</ph> Scrap generated, collected, and prepared for
+               processing in the United States is considered domestic. A component is considered to
+               have been mined, produced, or manufactured in the United States (regardless of its
+               source in fact) if the end product in which it is incorporated is manufactured in the
+               United States and the component is of a class or kind for which the Government has
+               determined that—</p>
             <p id="EGirCU" outputclass="List6" class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">(1)</i> Sufficient and
 reasonably available commercial quantities of a satisfactory quality
@@ -206,11 +236,34 @@ with the public interest to apply the restrictions of the Buy American
 statute; or</p>
             <p id="ZwgwVB" outputclass="List4" class="- topic/p ">(B) The end
 product is a COTS item.</p>
+            <p rev="Revised June 23, 2022" outputclass="List2">(2) For an end product that consists
+               wholly or predominantly of iron or steel or a combination of both, an end product
+               manufactured in the United States, if the cost of iron and steel not produced in the
+               United States or a qualifying country constitutes less than 5 percent of the cost of
+               all the components used in the end product (produced in the United States or a
+               qualifying country means that all manufacturing processes of the iron or steel must
+               take place in the United States or a qualifying country, except metallurgical
+               processes involving refinement of steel additives). The cost of iron and steel not
+               produced in the United States or a qualifying country includes but is not limited to
+               the cost of iron or steel mill products (such as bar, billet, slab, wire, plate, or
+               sheet), castings, or forgings, not produced in the United States or a qualifying
+               country, utilized in the manufacture of the end product and a good faith estimate of
+               the cost of all iron or steel components not produced in the United States or a
+               qualifying country, excluding COTS fasteners. Iron or steel components of unknown
+               origin are treated as foreign. If the end product contains multiple components, the
+               cost of all the materials used in such end product is calculated in accordance with
+               the explanation of cost of components in paragraph (1)(ii)(A) of this definition.</p>
             <p id="FEvbBU" class="- topic/p ">“End product” means
 those articles, materials, and supplies to be acquired under this
 contract for public use.</p>
             <p id="IGZCfd" class="- topic/p ">“Foreign end product”
 means an end product other than a domestic end product.</p>
+            <p rev="Revised June 23, 2022">“Predominantly of iron or steel or a combination of both”
+               means that the cost of the iron and steel content exceeds 50 percent of the total
+               cost of all its components. The cost of iron and steel is the cost of the iron or
+               steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or
+               forgings utilized in the manufacture of the product and a good faith estimate of the
+               cost of iron or steel components excluding COTS fasteners.</p>
             <p id="wvLTqi" class="- topic/p ">“Qualifying country” means a country with a reciprocal
 defense procurement memorandum of understanding or international agreement
 with the United States in which both countries agree to remove barriers
@@ -253,41 +306,42 @@ Republic</p>
             <p id="eaxtDV" class="- topic/p ">“Qualifying country component” means a component
 mined, produced, or manufactured in a qualifying country.</p>
             <p id="FStiRL" class="- topic/p ">“Qualifying country end product” means—</p>
-            <p id="Gnyynn" outputclass="List3" class="- topic/p ">(i) An unmanufactured end
-product mined or produced in a qualifying country; or</p>
-            <p id="alSkqL" outputclass="List3" class="- topic/p ">(ii) An end product manufactured
-in a qualifying country if —</p>
-            <p id="JbFldQ" outputclass="List4" class="- topic/p ">(A)
-The cost of the following types of components exceeds 50 percent
-of the cost of all its components:</p>
-            <p id="AxtCEb" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Components mined, produced,
-or manufactured in a qualifying country.</p>
-            <p id="YRwazK" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Components mined, produced,
-or manufactured in the United States.</p>
-            <p id="rqCeYP" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) Components of foreign origin
-of a class or kind for which the Government has determined that
-sufficient and reasonably available commercial quantities of a satisfactory
-quality are not mined, produced, or manufactured in the United States;
-or</p>
-            <p id="xXxfnO" outputclass="List4" class="- topic/p ">(B) The end product
-is a COTS item.</p>
+            <p id="Gnyynn" outputclass="List2" class="- topic/p ">(1) An unmanufactured end product
+               mined or produced in a qualifying country; or</p>
+            <p id="alSkqL" outputclass="List2" class="- topic/p ">(2) An end product manufactured in
+               a qualifying country if —</p>
+            <p id="JbFldQ" outputclass="List3" class="- topic/p ">(i) The cost of the following
+               types of components exceeds 50 percent of the cost of all its components:</p>
+            <p id="AxtCEb" outputclass="List4" class="- topic/p ">(A) Components mined, produced, or
+               manufactured in a qualifying country.</p>
+            <p id="YRwazK" outputclass="List4" class="- topic/p ">(B) Components mined, produced, or
+               manufactured in the United States.</p>
+            <p id="rqCeYP" outputclass="List4" class="- topic/p ">(C) Components of foreign origin
+               of a class or kind for which the Government has determined that sufficient and
+               reasonably available commercial quantities of a satisfactory quality are not mined,
+               produced, or manufactured in the United States. <ph rev="Revised June 23, 2022"
+                  >Components of unknown origin are treated as foreign;</ph> or</p>
+            <p id="xXxfnO" outputclass="List3" class="- topic/p ">(ii) The end product is a COTS
+               item.</p>
             <p id="WOxmFZ" class="- topic/p ">“South Caucasus/Central and
 South Asian (SC/CASA) state” means Armenia, Azerbaijan, Georgia,
 Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan, or Uzbekistan.</p>
             <p id="EShJbI" class="- topic/p ">“South Caucasus/Central and South Asian (SC/CASA)
 state end product” means an article that—</p>
-            <p id="QTrclR" outputclass="List3" class="- topic/p ">(i) Is wholly the growth, product, or
-manufacture of an SC/CASA state; or</p>
-            <p id="wpDiSA" outputclass="List3" class="- topic/p ">(ii) In the case of an article that consists
-in whole or in part of materials from another country, has been
-substantially transformed in an SC/CASA state into a new and different
-article of commerce with a name, character, or use distinct from
-that of the article or articles from which it was transformed. The
-term refers to a product offered for purchase under a supply contract,
-but for purposes of calculating the value of the end product includes
-services (except transportation services) incidental to its supply,
-provided that the value of those incidental services does not exceed
-the value of the product itself.</p>
+            <p id="QTrclR" outputclass="List2" class="- topic/p "><ph rev="Revised June 23, 2022"
+                  >(1)</ph> Is wholly the growth, product, or manufacture of an SC/CASA state;
+               or</p>
+            <p id="wpDiSA" outputclass="List2" class="- topic/p "><ph rev="Revised June 23, 2022"
+                  >(2)</ph> In the case of an article that consists in whole or in part of materials
+               from another country, has been substantially transformed in an SC/CASA state into a
+               new and different article of commerce with a name, character, or use distinct from
+               that of the article or articles from which it was transformed. The term refers to a
+               product offered for purchase under a supply contract, but for purposes of calculating
+               the value of the end product includes services (except transportation services)
+               incidental to its supply, provided that the value of those incidental services does
+               not exceed the value of the product itself.</p>
+            <p rev="Revised June 23, 2022">“Steel” means an alloy that includes at least 50 percent
+               iron, between 0.02 and 2 percent carbon, and may include other elements.</p>
             <p id="BQEWkF" class="- topic/p ">“United States”
 means the 50 States, the District of Columbia, and outlying areas.</p>
             <p id="QVCiLA" outputclass="List1" class="- topic/p ">(b) This clause implements
