@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_225.070"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 225.070</ph> Reporting of acquisition of end products manufactured outside the United States.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Definitions.</i> “Manufactured end product” and “place of manufacture” are defined in the provision at FAR 52.225-18, Place of Manufacture.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Use the Federal Procurement Data System data field “Place of Manufacture,” under the section on Product or Service Information, to enter data on the acquisition of end products manufactured outside the United States for contracts awarded and orders issued in fiscal year 2007 and subsequent fiscal years. Select the appropriate description in accordance with the following table:</p>
+         <p class="- topic/p ">Place of Manufacture</p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="2"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="27*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="73*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Short Description as viewed in drop down box</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Long Description</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Manufactured or performed outside United States</p>
+                        <p class="- topic/p ">(Actions prior to FY 2007 only)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The action is for (i) Any foreign end product manufactured outside the United States; or (ii) Services performed outside the United States by a foreign concern. </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg in U.S.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The action is predominantly for acquisition of manufactured end products that are manufactured in the United States.</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg outside U.S. - Commercial information technology</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The foreign manufactured end products are predominantly commercial information technology items (FAR 25.103(e)).</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg outside U.S. - Domestic nonavailability</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The foreign manufactured end products were predominantly not domestically available as shown by one of the following:</p>
+                        <p class="- topic/p ">The item is listed at FAR 25.104 (FAR 25.103(b)(1)).</p>
+                        <p class="- topic/p ">The agency did an individual determination (FAR 25.103(b)(2)).</p>
+                        <p class="- topic/p ">No offer of a domestic end product was received, even though the acquisition was synopsized and conducted through full and open competition (FAR 25.103(b)(3)). </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg outside U.S -Public interest determination</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The head of the agency has made a determination that domestic preferences would be inconsistent with the public interest (FAR 25.103(a)). </p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="2"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="27*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="73*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg outside U.S. - Qualifying country</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">For DoD only, the foreign manufactured end products are predominantly qualifying country end products (DFARS <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-225.003"
+                                 href="225.003.dita#DFARS_225.003">225.003</xref> and <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-225.872-1"
+                                 href="225.872-1.dita#DFARS_225.872-1">225.872-1</xref>).</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg outside U.S. - Resale</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The foreign manufactured end products acquired are predominantly for resale (FAR 25.103(d)).</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg outside U.S. - Trade Agreements</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The foreign manufactured end products are predominantly eligible products acquired under Trade Agreements (FAR 25.402(a)(1)).</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg outside U.S. - Unreasonable cost</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The cost of the offered domestic end products was unreasonable (FAR 25.103(c), 25.105, and Subpart 25.5).</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Mfg outside U.S. - Use outside the United States </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The foreign manufactured end products acquired are predominantly for use outside the United States (FAR 25.100).</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">More than 50% of foreign content, but manufactured in United States (Actions prior to FY 2007 only)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The action is for (i) A foreign end product that is manufactured in the United States but still determined to be foreign because 50 percent or more of the cost of the components is not mined, produced, or manufactured inside the United States or qualifying countries; or (ii) Services performed in the United States by a foreign concern. </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Not applicable </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">The action is NOT predominantly for acquisition of manufactured end products.</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List2" class="- topic/p ">(3) Note that the first and second from the last options in the drop down box are to be used only for reporting of contracts awarded or orders issued prior to October 1, 2006.</p>
+         <p outputclass="List2" class="- topic/p ">(4) The other options in the drop down box apply only to contracts awarded and orders issued on or after October 1, 2006. If the solicitation for the contract contains the provision at FAR 52.225-18, Place of Manufacture (or the commercial item equivalent at FAR 52.212-3(j)), the contracting officer must review the successful offeror’s response to this provision to select the correct option.</p>
+         <p outputclass="List3" class="- topic/p ">(i) Enter “Mfg in U.S.” if the offeror has checked the box “In the United States.” </p>
+         <p outputclass="List3" class="- topic/p ">(ii) If the offeror has checked the box “Outside the United States,” enter one of the other options, depending on the predominant reason for acquiring end products manufactured outside the United States. These reasons correspond to the exceptions to the Buy American statute (FAR Subpart 25.1 and DFARS Subpart 225.1). Further explanation of these exceptions to the Buy American statute are available at the FAR and DFARS references provided in the long description for each option.</p>
+         <p outputclass="List2" class="- topic/p ">(5) For any contract awarded on or after October 1, 2006, when the solicitation did not include the provision at FAR 52.225-18, Place of Manufacture (or FAR 52.212-3(j)), and for any order placed on or after October 1, 2006, under a contract that did not include one of these provisions, the contracting officer shall use best judgment in estimating whether the acquisition is predominantly for manufactured end products and whether the end products were predominantly end products manufactured in the United States or outside the United States, using the place of performance or other information that may be available to the contracting officer to assist in forming this judgment.</p>
+      </conbody>
+   </concept>
+</dita>

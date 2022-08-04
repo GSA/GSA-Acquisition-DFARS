@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.217-7027"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">252.217-7027</ph> Contract Definitization.</title>
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As prescribed in 
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-217.7406"
+                  href="217.7406.dita#DFARS_217.7406">217.7406</xref>
+            (b), use the following clause:</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">CONTRACT DEFINITIZATION (DEC 2012)</p>
+         <p outputclass="List1" class="- topic/p ">(a)  A ________________ <i class="+ topic/ph hi-d/i ">(insert specific type of contract action)</i> is contemplated.  The Contractor agrees to begin promptly negotiating with the Contracting Officer the terms of a definitive contract that will include (1) all clauses required by the Federal Acquisition Regulation (FAR) on the date of execution of the undefinitized contract action, (2) all clauses required by law on the date of execution of the definitive contract action, and (3) any other mutually agreeable clauses, terms, and conditions.  The Contractor agrees to submit a _______________ <i class="+ topic/ph hi-d/i ">(insert type of proposal; e.g., fixed-price</i> or cost-and-fee) proposal and certified cost or pricing data supporting its proposal.</p>
+         <p outputclass="List1" class="- topic/p ">(b)  The schedule for definitizing this contract action is as follows (insert target date for definitization of the contract action and dates for submission of proposal, beginning of negotiations, and, if appropriate, submission of the make-or-buy and subcontracting plans and certified cost or pricing data):</p>
+         <p class="- topic/p "/>
+         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+            <tgroup cols="1"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="100*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List1" class="- topic/p "/>
+         <p outputclass="List1" class="- topic/p ">(c)  If agreement on a definitive contract action to supersede this undefinitized contract action is not reached by the target date in paragraph (b) of this clause, or within any extension of it granted by the Contracting Officer, the Contracting Officer may, with the approval of the head of the contracting activity, determine a reasonable price or fee in accordance with Subpart 15.4 and Part 31 of the FAR, subject to Contractor appeal as provided in the Disputes clause.  In any event, the Contractor shall proceed with completion of the contract, subject only to the Limitation of Government Liability clause.</p>
+         <p outputclass="List2" class="- topic/p ">(1)  After the Contracting Officer’s determination of price or fee, the contract shall be governed by—</p>
+         <p outputclass="List3" class="- topic/p ">(i)  All clauses required by the FAR on the date of execution of this undefinitized contract action for either fixed-price or cost-reimbursement contracts, as determined by the Contracting Officer under this paragraph (c);</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  All clauses required by law as of the date of the Contracting Officer’s determination; and</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  Any other clauses, terms, and conditions mutually agreed upon.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  To the extent consistent with paragraph (c)(1) of this clause, all clauses, terms, and conditions included in this undefinitized contract action shall continue in effect, except those that by their nature apply only to an undefinitized contract action.</p>
+         <p outputclass="List1" class="- topic/p ">(d)  The definitive contract resulting from this undefinitized contract action will include a negotiated _________________ <i class="+ topic/ph hi-d/i ">(insert “cost/price ceiling” or “firm-fixed price”)</i> in no event to exceed __________ <i class="+ topic/ph hi-d/i ">(insert the not-to-exceed amount).</i>
+         </p>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

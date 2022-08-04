@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_252.246-7008"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">252.246-7008</ph> Sources of Electronic Parts.</title>
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As prescribed in 
+               <xref href="246.870-3.dita#DFARS_246.870-3"
+                  base="i1380716"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">246.870-3</xref>
+            (b), use the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">SOURCES OF ELECTRONIC PARTS (MAY 2018)</p>
+         <p outputclass="List1" class="- topic/p ">(a)<i class="+ topic/ph hi-d/i "> Definitions</i>. As used in this clause—</p>
+         <p class="- topic/p ">“Authorized aftermarket manufacturer” means an organization that fabricates a part under a contract with, or with the express written authority of, the original component manufacturer based on the original component manufacturer’s designs, formulas, and/or specifications.</p>
+         <p class="- topic/p ">“Authorized supplier” means a supplier, distributor, or an aftermarket manufacturer with a contractual arrangement with, or the express written authority of, the original manufacturer or current design activity to buy, stock, repackage, sell, or distribute the part.</p>
+         <p class="- topic/p ">“Contract manufacturer” means a company that produces goods under contract for another company under the label or brand name of that company.</p>
+         <p class="- topic/p ">“Contractor-approved supplier” means a supplier that does not have a contractual agreement with the original component manufacturer for a transaction, but has been identified as trustworthy by a contractor or subcontractor.</p>
+         <p class="- topic/p ">“Electronic part<i class="+ topic/ph hi-d/i ">”</i> means an integrated circuit, a discrete electronic component (including, but not limited to, a transistor, capacitor, resistor, or diode), or a circuit assembly (section 818(f)(2) of Pub. L. 112-81).</p>
+         <p class="- topic/p ">"Original component manufacturer" means an organization that designs and/or engineers a part and is entitled to any intellectual property rights to that part.</p>
+         <p class="- topic/p ">“Original equipment manufacturer” means a company that manufactures products that it has designed from purchased components and sells those products under the company's brand name.</p>
+         <p class="- topic/p ">“Original manufacturer” means the original component manufacturer, the original equipment manufacturer, or the contract manufacturer.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Selecting suppliers.</i> In accordance with section 818(c)(3) of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81), as amended by section 817 of the National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113-291) and section 885 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92), the Contractor shall—</p>
+         <p outputclass="List2" class="- topic/p ">(1) First obtain electronic parts that are in production by the original manufacturer or an authorized aftermarket manufacturer or currently available in stock from—</p>
+         <p outputclass="List3" class="- topic/p ">(i) The original manufacturers of the parts;</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Their authorized suppliers; or</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Suppliers that obtain such parts exclusively from the original manufacturers of the parts or their authorized suppliers;</p>
+         <p outputclass="List2" class="- topic/p ">(2) If electronic parts are not available as provided in paragraph (b)(1) of this clause, obtain electronic parts that are not in production by the original manufacturer or an authorized aftermarket manufacturer, and that are not currently available in stock from a source listed in paragraph (b)(1) of this clause, from suppliers identified by the Contractor as contractor-approved suppliers, provided that—</p>
+         <p outputclass="List3" class="- topic/p ">(i) For identifying and approving such contractor-approved suppliers, the Contractor uses established counterfeit prevention industry standards and processes (including inspection, testing, and authentication), such as the DoD-adopted standards at https://assist.dla.mil;</p>
+         <p outputclass="List3" class="- topic/p ">(ii) The Contractor assumes responsibility for the authenticity of parts provided by such contractor-approved suppliers; and</p>
+         <p outputclass="List3" class="- topic/p ">(iii) The Contractor’s selection of such contractor-approved suppliers is subject to review, audit, and approval by the Government, generally in conjunction with a contractor purchasing system review or other surveillance of purchasing practices by the contract administration office, or if the Government obtains credible evidence that a contractor–approved supplier has provided counterfeit parts. The Contractor may proceed with the acquisition of electronic parts from a contractor-approved supplier unless otherwise notified by DoD; or</p>
+         <p outputclass="List2" class="- topic/p ">(3)(i) Take the actions in paragraph (b)(3)(ii) of this clause if the Contractor—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Obtains an electronic part from—</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) A source other than any of the sources identified in paragraph (b)(1) or (b)(2) of this clause, due to nonavailability from such sources; or</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) A subcontractor (other than the original manufacturer) that refuses to accept flowdown of this clause; or</p>
+         <p outputclass="List4" class="- topic/p ">(B) Cannot confirm that an electronic part is new or previously unused and that it has not been comingled in supplier new production or stock with used, refurbished, reclaimed, or returned parts.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) If the contractor obtains an electronic part or cannot confirm an electronic part pursuant to paragraph (b)(3)(i) of this clause—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Promptly notify the Contracting Officer in writing. If such notification is required for an electronic part to be used in a designated lot of assemblies to be acquired under a single contract, the Contractor may submit one notification for the lot, providing identification of the assemblies containing the parts (e.g., serial numbers);</p>
+         <p outputclass="List4" class="- topic/p ">(B) Be responsible for inspection, testing, and authentication, in accordance with existing applicable industry standards; and</p>
+         <p outputclass="List4" class="- topic/p ">(C) Make documentation of inspection, testing, and authentication of such electronic parts available to the Government upon request.</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Traceability.</i>If the Contractor is not the original manufacturer of, or authorized supplier for, an electronic part, the Contractor shall—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Have risk-based processes (taking into consideration the consequences of failure of an electronic part) that enable tracking of electronic parts from the original manufacturer to product acceptance by the Government, whether the electronic part is supplied as a discrete electronic part or is contained in an assembly;</p>
+         <p outputclass="List2" class="- topic/p ">(2) If the Contractor cannot establish this traceability from the original manufacturer for a specific electronic part, be responsible for inspection, testing, and authentication, in accordance with existing applicable industry standards; and</p>
+         <p outputclass="List2" class="- topic/p ">(3)(i) Maintain documentation of traceability (paragraph (c)(1) of this clause) or the inspection, testing, and authentication required when traceability cannot be established (paragraph (c)(2) of this clause) in accordance with FAR subpart 4.7; and</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Make such documentation available to the Government upon request.</p>
+         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Government sources</i>. Contractors and subcontractors are still required to comply with the requirements of paragraphs (b) and (c) of this clause, as applicable, if—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Authorized to purchase electronic parts from the Federal Supply Schedule;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Purchasing electronic parts from suppliers accredited by the Defense Microelectronics Activity; or</p>
+         <p outputclass="List2" class="- topic/p ">(3) Requisitioning electronic parts from Government inventory/stock under the authority of 
+               <xref href="252.251-7000.dita#DFARS_252.251-7000"
+                  base="i1384329"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.251-7000</xref>
+            , Ordering from Government Supply Sources.</p>
+         <p outputclass="List3" class="- topic/p ">(i) The cost of any required inspection, testing, and authentication of such parts may be charged as a direct cost.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) The Government is responsible for the authenticity of the requisitioned parts. If any such part is subsequently found to be counterfeit or suspect counterfeit, the Government will—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Promptly replace such part at no charge; and</p>
+         <p outputclass="List4" class="- topic/p ">(B)<i class="+ topic/ph hi-d/i "/> Consider an adjustment in the contract schedule to the extent that replacement of the counterfeit or suspect counterfeit electronic parts caused a delay in performance.</p>
+         <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Subcontracts.</i>The Contractor shall include the substance of this clause, including this paragraph (e), in subcontracts, including subcontracts for commercial items, that are for electronic parts or assemblies containing electronic parts, unless the subcontractor is the original manufacturer.</p>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>
