@@ -1,90 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS_PGI_PART_213"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS_PGI_PART_213">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI Part 213</ph> - SIMPLIFIED ACQUISITIONPROCEDURES</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_213.1.dita#i1495597"
-                        class="- topic/xref ">PGI 213.1 -PROCEDURES</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_213.1.dita#i1495597">PGI 213.1 -PROCEDURES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_213.104.dita#DFARS_PGI_PGI_213.104"
-                              class="- topic/xref ">PGI 213.104 Promoting competition.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_213.104.dita#DFARS_PGI_PGI_213.104">PGI 213.104 Promoting competition.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_213.2.dita#i1495603"
-                        class="- topic/xref ">PGI 213.2 -ACTIONS AT OR BELOW THE MICRO-PURCHASE THRESHOLD</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_213.2.dita#i1495603">PGI 213.2 -ACTIONS AT OR BELOW THE MICRO-PURCHASE THRESHOLD</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_213.201.dita#DFARS_PGI_PGI_213.201"
-                              class="- topic/xref ">PGI 213.201 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_213.201.dita#DFARS_PGI_PGI_213.201">PGI 213.201 General.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_213.3.dita#i1495614"
-                        class="- topic/xref ">PGI 213.3 -SIMPLIFIED ACQUISITION METHODS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_213.3.dita#i1495614">PGI 213.3 -SIMPLIFIED ACQUISITION METHODS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_213.301.dita#DFARS_PGI_PGI_213.301"
-                              class="- topic/xref ">PGI 213.301 Governmentwidecommercial purchase card.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_213.301.dita#DFARS_PGI_PGI_213.301">PGI 213.301 Governmentwidecommercial purchase card.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_213.302.dita#DFARS_PGI_PGI_213.302"
-                              class="- topic/xref ">PGI 213.302 Purchase orders.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_213.302.dita#DFARS_PGI_PGI_213.302">PGI 213.302 Purchase orders.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_213.302-3.dita#DFARS_PGI_PGI_213.302-3"
-                                    class="- topic/xref ">PGI 213.302-3 Obtaining contractor acceptance and modifying purchase orders.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_213.302-3.dita#DFARS_PGI_PGI_213.302-3">PGI 213.302-3 Obtaining contractor acceptance and modifying purchase orders.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_213.306.dita#DFARS_PGI_PGI_213.306"
-                              class="- topic/xref ">PGI 213.306 SF 44, Purchase Order-Invoice-Voucher.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_213.306.dita#DFARS_PGI_PGI_213.306">PGI 213.306 SF 44, Purchase Order-Invoice-Voucher.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_213.307.dita#DFARS_PGI_PGI_213.307"
-                              class="- topic/xref ">PGI 213.307 Forms.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_213.307.dita#DFARS_PGI_PGI_213.307">PGI 213.307 Forms.</xref>
                      </p>
                   </li>
                </ul>

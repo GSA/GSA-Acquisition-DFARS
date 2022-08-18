@@ -1,113 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS_PART_205"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS_PART_205">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 205</ph> - PUBLICIZING CONTRACT ACTIONS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_205.2.dita#DFARS_SUBPART_205.2"
-                        class="- topic/xref ">Subpart 205.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_205.2.dita#DFARS_SUBPART_205.2">Subpart 205.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="205.203.dita#DFARS_205.203"
-                              class="- topic/xref ">205.203 Publicizing and response time.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="205.203.dita#DFARS_205.203">205.203 Publicizing and response time.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="205.205.dita#DFARS_205.205"
-                              class="- topic/xref ">205.205 Special situations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="205.205.dita#DFARS_205.205">205.205 Special situations.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="205.205-70.dita#DFARS_205.205-70"
-                                    class="- topic/xref ">205.205-70 Notification of bundling of DoD contracts.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="205.205-70.dita#DFARS_205.205-70">205.205-70 Notification of bundling of DoD contracts.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="205.205-71.dita#DFARS_205.205-71"
-                                    class="- topic/xref ">205.205-71 Only one responsible source.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="205.205-71.dita#DFARS_205.205-71">205.205-71 Only one responsible source.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="205.207.dita#DFARS_205.207"
-                              class="- topic/xref ">205.207 Preparation and transmittal of synopses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="205.207.dita#DFARS_205.207">205.207 Preparation and transmittal of synopses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_205.3.dita#DFARS_SUBPART_205.3"
-                        class="- topic/xref ">Subpart 205.3 - SYNOPSES OF CONTRACT AWARDS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_205.3.dita#DFARS_SUBPART_205.3">Subpart 205.3 - SYNOPSES OF CONTRACT AWARDS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="205.301.dita#DFARS_205.301"
-                              class="- topic/xref ">205.301 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="205.301.dita#DFARS_205.301">205.301 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="205.303.dita#DFARS_205.303"
-                              class="- topic/xref ">205.303 Announcement of contract awards.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="205.303.dita#DFARS_205.303">205.303 Announcement of contract awards.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_205.4.dita#DFARS_SUBPART_205.4"
-                        class="- topic/xref ">Subpart 205.4 - RELEASE OF INFORMATION</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_205.4.dita#DFARS_SUBPART_205.4">Subpart 205.4 - RELEASE OF INFORMATION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="205.470.dita#DFARS_205.470"
-                              class="- topic/xref ">205.470 Contract clause.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="205.470.dita#DFARS_205.470">205.470 Contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_205.5.dita#DFARS_SUBPART_205.5"
-                        class="- topic/xref ">Subpart 205.5 - PAID ADVERTISEMENTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_205.5.dita#DFARS_SUBPART_205.5">Subpart 205.5 - PAID ADVERTISEMENTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="205.502.dita#DFARS_205.502"
-                              class="- topic/xref ">205.502 Authority.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="205.502.dita#DFARS_205.502">205.502 Authority.</xref>
                      </p>
                   </li>
                </ul>

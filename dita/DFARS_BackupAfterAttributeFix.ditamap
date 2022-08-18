@@ -11,10 +11,10 @@
 <map title="DFARS" outputclass="dfars">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253" base="NoTitle" href="VolumeIII-Parts201to253.dita" props="VolumeIII-Parts201to253" outputclass="Volume" audience="DFARS-VolumeI-Parts201to253" otherprops="NoProp" xtrf="Volume" xtrc="DFARS-VolumeI-Parts201to253.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="Cover.dita" props="Cover" outputclass="Volume" audience="Dfars-Cover" otherprops="NoProp" xtrf="Volume" xtrc="Dfars-Cover.html" />
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="Cover.dita" props="Cover" outputclass="subtopic" audience="Dfars-Cover" otherprops="NoProp" xtrf="Volume" xtrc="Dfars-Cover.html" />
    </topicref>
    <topicref navtitle="SUBCHAPTER A—GENERAL" base="NoTitle" href="Subchapter_A.dita" props="Subchapter A" outputclass="SubChapter" audience="DFARS_Subchapter_a" xtrf="SubChapter" xtrc="DFARS_Subchapter_a.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_A.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_a" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_a.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_A.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_a" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_a.html">
          <topicref navtitle="PART 201 - FEDERAL ACQUISITION REGULATIONS SYSTEM" base="NoTitle" href="PART_201.dita" props="Part 201" outputclass="Part" audience="DFARS_PART_201" xtrf="Part" xtrc="DFARS_PART_201.html">
             <topicref navtitle="SUBPART 201.1 —PURPOSE, AUTHORITY, ISSUANCE" base="NoTitle" href="SUBPART_201.1.dita" props="Subpart 201.1" outputclass="SubPart" audience="DFARS_SUBPART_201.1" xtrf="SubPart" xtrc="DFARS_SUBPART_201.1.html">
                <topicref navtitle="201.101 Purpose." base="concept" href="201.101.dita" props="201.101" outputclass="subtopic" audience="DFARS_201.101" xtrf="subtopic" xtrc="DFARS_201.101.html" />
@@ -74,9 +74,9 @@
                   <topicref navtitle="203.171-4 Solicitation provision and contract clause." base="concept" href="203.171-4.dita" props="203.171-4" outputclass="subtopic" audience="DFARS_203.171-4" xtrf="subtopic" xtrc="DFARS_203.171-4.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 203.2 —[RESERVED]" base="NoTitle" href="SUBPART_203.2.dita" props="Subpart 203.2" outputclass="subtopic" audience="DFARS_SUBPART_203.2" xtrf="subtopic" xtrc="DFARS_SUBPART_203.2.html" />
-            <topicref navtitle="SUBPART 203.3 — [RESERVED]" base="NoTitle" href="SUBPART_203.3.dita" props="Subpart 203.3" outputclass="subtopic" audience="DFARS_SUBPART_203.3" xtrf="subtopic" xtrc="DFARS_SUBPART_203.3.html" />
-            <topicref navtitle="SUBPART 203.4 — [RESERVED]" base="NoTitle" href="SUBPART_203.4.dita" props="Subpart 203.4" outputclass="subtopic" audience="DFARS_SUBPART_203.4" xtrf="subtopic" xtrc="DFARS_SUBPART_203.4.html" />
+            <topicref navtitle="SUBPART 203.2 —[RESERVED]" base="NoTitle" href="SUBPART_203.2.dita" props="Subpart 203.2" outputclass="SubPart" audience="DFARS_SUBPART_203.2" xtrf="subtopic" xtrc="DFARS_SUBPART_203.2.html" />
+            <topicref navtitle="SUBPART 203.3 — [RESERVED]" base="NoTitle" href="SUBPART_203.3.dita" props="Subpart 203.3" outputclass="SubPart" audience="DFARS_SUBPART_203.3" xtrf="subtopic" xtrc="DFARS_SUBPART_203.3.html" />
+            <topicref navtitle="SUBPART 203.4 — [RESERVED]" base="NoTitle" href="SUBPART_203.4.dita" props="Subpart 203.4" outputclass="SubPart" audience="DFARS_SUBPART_203.4" xtrf="subtopic" xtrc="DFARS_SUBPART_203.4.html" />
             <topicref navtitle="SUBPART 203.5 —OTHER IMPROPER BUSINESS PRACTICES" base="NoTitle" href="SUBPART_203.5.dita" props="Subpart 203.5" outputclass="SubPart" audience="DFARS_SUBPART_203.5" xtrf="SubPart" xtrc="DFARS_SUBPART_203.5.html">
                <topicref navtitle="203.502-2 Subcontractor kickbacks." base="concept" href="203.502-2.dita" props="203.502-2" outputclass="subtopic" audience="DFARS_203.502-2" xtrf="subtopic" xtrc="DFARS_203.502-2.html" />
                <topicref navtitle="203.570 Prohibition on persons convicted of fraud or other defense-contract-related felonies." base="concept" href="203.570.dita" props="203.570" outputclass="subtopic" audience="DFARS_203.570" xtrf="subtopic" xtrc="DFARS_203.570.html">
@@ -104,7 +104,7 @@
                <topicref navtitle="203.1003 Requirements." base="concept" href="203.1003.dita" props="203.1003" outputclass="subtopic" audience="DFARS_203.1003" xtrf="subtopic" xtrc="DFARS_203.1003.html" />
                <topicref navtitle="203.1004 Contract clauses." base="concept" href="203.1004.dita" props="203.1004" outputclass="subtopic" audience="DFARS_203.1004" xtrf="subtopic" xtrc="DFARS_203.1004.html" />
             </topicref>
-            <topicref navtitle="SUBPART 203.70" base="NoTitle" href="SUBPART_203.70.dita" props="Subpart 203.70" outputclass="subtopic" audience="DFARS_SUBPART_203.70" xtrf="subtopic" xtrc="DFARS_SUBPART_203.70.html" />
+            <topicref navtitle="SUBPART 203.70" base="NoTitle" href="SUBPART_203.70.dita" props="Subpart 203.70" outputclass="SubPart" audience="DFARS_SUBPART_203.70" xtrf="subtopic" xtrc="DFARS_SUBPART_203.70.html" />
          </topicref>
          <topicref navtitle="PART 204 - ADMINISTRATIVE AND INFORMATION MATTERS" base="NoTitle" href="PART_204.dita" props="Part 204" outputclass="Part" audience="DFARS_PART_204" xtrf="Part" xtrc="DFARS_PART_204.html">
             <topicref navtitle="SUBPART 204.1 —CONTRACT EXECUTION" base="NoTitle" href="SUBPART_204.1.dita" props="Subpart 204.1" outputclass="SubPart" audience="DFARS_SUBPART_204.1" xtrf="SubPart" xtrc="DFARS_SUBPART_204.1.html">
@@ -249,10 +249,10 @@
       </topicref>
    </topicref>
    <topicref navtitle="SUBCHAPTER B—ACQUISITION PLANNING" base="NoTitle" href="Subchapter_B.dita" props="Subchapter B" outputclass="SubChapter" audience="DFARS_Subchapter_b" xtrf="SubChapter" xtrc="DFARS_Subchapter_b.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_B.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_b" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_b.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_B.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_b" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_b.html">
          <topicref navtitle="PART 206 - COMPETITION REQUIREMENTS" base="NoTitle" href="PART_206.dita" props="Part 206" outputclass="Part" audience="DFARS_PART_206" xtrf="Part" xtrc="DFARS_PART_206.html">
             <topicref navtitle="206.000 Scope of part." base="concept" href="206.000.dita" props="206.000" outputclass="subtopic" audience="DFARS_206.000" xtrf="subtopic" xtrc="DFARS_206.000.html" />
-            <topicref navtitle="206.001 Applicability." base="concept" href="206.001.dita" props="206.001" outputclass="SubPart" audience="DFARS_206.001" xtrf="No" xtrc="DFARS_206.001.html">
+            <topicref navtitle="206.001 Applicability." base="concept" href="206.001.dita" props="206.001" outputclass="subtopic" audience="DFARS_206.001" xtrf="No" xtrc="DFARS_206.001.html">
                <topicref navtitle=" 206.001-70Exception for prototype projects for             follow-on production contracts." base="NoTitle" href="206.001_70.dita" props="206.001-70" outputclass="subtopic" audience="ONKVbC" xtrf="subtopic" xtrc="ONKVbC.html" />
             </topicref>
             <topicref navtitle="SUBPART 206.1 —FULL AND OPEN COMPETITION " base="NoTitle" href="SUBPART_206.1.dita" props="Subpart 206.1" outputclass="SubPart" audience="DFARS_SUBPART_206.1" xtrf="SubPart" xtrc="DFARS_SUBPART_206.1.html">
@@ -355,7 +355,7 @@
                <topicref navtitle="208.7101 Policy." base="concept" href="208.7101.dita" props="208.7101" outputclass="subtopic" audience="DFARS_208.7101" xtrf="subtopic" xtrc="DFARS_208.7101.html" />
                <topicref navtitle="208.7102 Procedures." base="concept" href="208.7102.dita" props="208.7102" outputclass="subtopic" audience="DFARS_208.7102" xtrf="subtopic" xtrc="DFARS_208.7102.html" />
             </topicref>
-            <topicref navtitle="SUBPART 208.72" base="NoTitle" href="SUBPART_208.72.dita" props="Subpart 208.72" outputclass="subtopic" audience="DFARS_SUBPART_208.72" xtrf="subtopic" xtrc="DFARS_SUBPART_208.72.html" />
+            <topicref navtitle="SUBPART 208.72" base="NoTitle" href="SUBPART_208.72.dita" props="Subpart 208.72" outputclass="SubPart" audience="DFARS_SUBPART_208.72" xtrf="subtopic" xtrc="DFARS_SUBPART_208.72.html" />
             <topicref navtitle="SUBPART 208.73 —USE OF GOVERNMENT-OWNED PRECIOUS METALS" base="NoTitle" href="SUBPART_208.73.dita" props="Subpart 208.73" outputclass="SubPart" audience="DFARS_SUBPART_208.73" xtrf="SubPart" xtrc="DFARS_SUBPART_208.73.html">
                <topicref navtitle="208.7301 Definitions." base="concept" href="208.7301.dita" props="208.7301" outputclass="subtopic" audience="DFARS_208.7301" xtrf="subtopic" xtrc="DFARS_208.7301.html" />
                <topicref navtitle="208.7302 Policy." base="concept" href="208.7302.dita" props="208.7302" outputclass="subtopic" audience="DFARS_208.7302" xtrf="subtopic" xtrc="DFARS_208.7302.html" />
@@ -396,7 +396,7 @@
                   <topicref navtitle="209.270-5 Contract clause." base="concept" href="209.270-5.dita" props="209.270-5" outputclass="subtopic" audience="DFARS_209.270-5" xtrf="subtopic" xtrc="DFARS_209.270-5.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 209.3" base="NoTitle" href="SUBPART_209.3.dita" props="Subpart 209.3" outputclass="subtopic" audience="DFARS_SUBPART_209.3" xtrf="subtopic" xtrc="DFARS_SUBPART_209.3.html" />
+            <topicref navtitle="SUBPART 209.3" base="NoTitle" href="SUBPART_209.3.dita" props="Subpart 209.3" outputclass="SubPart" audience="DFARS_SUBPART_209.3" xtrf="subtopic" xtrc="DFARS_SUBPART_209.3.html" />
             <topicref navtitle="SUBPART 209.4 —DEBARMENT, SUSPENSION, AND INELIGIBILITY" base="NoTitle" href="SUBPART_209.4.dita" props="Subpart 209.4" outputclass="SubPart" audience="DFARS_SUBPART_209.4" xtrf="SubPart" xtrc="DFARS_SUBPART_209.4.html">
                <topicref navtitle="209.402 Policy." base="concept" href="209.402.dita" props="209.402" outputclass="subtopic" audience="DFARS_209.402" xtrf="subtopic" xtrc="DFARS_209.402.html" />
                <topicref navtitle="209.403 Definitions." base="concept" href="209.403.dita" props="209.403" outputclass="subtopic" audience="DFARS_209.403" xtrf="subtopic" xtrc="DFARS_209.403.html" />
@@ -518,7 +518,7 @@
             <topicref navtitle="SUBPART 212.6 —STREAMLINED PROCEDURES FOR EVALUATION AND SOLICITATION FOR COMMERCIAL ITEMS" base="NoTitle" href="SUBPART_212.6.dita" props="Subpart 212.6" outputclass="SubPart" audience="DFARS_SUBPART_212.6" xtrf="SubPart" xtrc="DFARS_SUBPART_212.6.html">
                <topicref navtitle="212.602 Streamlined evaluation of offers." base="concept" href="212.602.dita" props="212.602" outputclass="subtopic" audience="DFARS_212.602" xtrf="subtopic" xtrc="DFARS_212.602.html" />
             </topicref>
-            <topicref navtitle="SUBPART 212.70 —RESERVED" base="NoTitle" href="SUBPART_212.70.dita" props="Subpart 212.70" outputclass="subtopic" audience="DFARS_SUBPART_212.70" xtrf="subtopic" xtrc="DFARS_SUBPART_212.70.html" />
+            <topicref navtitle="SUBPART 212.70 —RESERVED" base="NoTitle" href="SUBPART_212.70.dita" props="Subpart 212.70" outputclass="SubPart" audience="DFARS_SUBPART_212.70" xtrf="subtopic" xtrc="DFARS_SUBPART_212.70.html" />
             <topicref navtitle="SUBPART 212.71 —PILOT PROGRAM FOR ACQUISITION OF MILITARY-PURPOSE NONDEVELOPMENTAL ITEMS" base="NoTitle" href="SUBPART_212.71.dita" props="Subpart 212.71" outputclass="SubPart" audience="DFARS_SUBPART_212.71" xtrf="SubPart" xtrc="DFARS_SUBPART_212.71.html">
                <topicref navtitle="212.7100 Scope." base="concept" href="212.7100.dita" props="212.7100" outputclass="subtopic" audience="DFARS_212.7100" xtrf="subtopic" xtrc="DFARS_212.7100.html" />
                <topicref navtitle="212.7101 Definitions." base="concept" href="212.7101.dita" props="212.7101" outputclass="subtopic" audience="DFARS_212.7101" xtrf="subtopic" xtrc="DFARS_212.7101.html" />
@@ -533,9 +533,9 @@
       </topicref>
    </topicref>
    <topicref navtitle="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES" base="NoTitle" href="Subchapter_C.dita" props="Subchapter C" outputclass="SubChapter" audience="DFARS_Subchapter_c" xtrf="SubChapter" xtrc="DFARS_Subchapter_c.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_C.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_c" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_c.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_C.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_c" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_c.html">
          <topicref navtitle="PART 213 - SIMPLIFIED ACQUISITION PROCEDURES" base="NoTitle" href="PART_213.dita" props="Part 213" outputclass="Part" audience="DFARS_PART_213" xtrf="Part" xtrc="DFARS_PART_213.html">
-            <topicref navtitle="SUBPART 213.0" base="NoTitle" href="SUBPART_213.0.dita" props="Subpart 213.0" outputclass="subtopic" audience="DFARS_SUBPART_213.0" xtrf="subtopic" xtrc="DFARS_SUBPART_213.0.html" />
+            <topicref navtitle="SUBPART 213.0" base="NoTitle" href="SUBPART_213.0.dita" props="Subpart 213.0" outputclass="SubPart" audience="DFARS_SUBPART_213.0" xtrf="subtopic" xtrc="DFARS_SUBPART_213.0.html" />
             <topicref navtitle="SUBPART 213.1 —PROCEDURES" base="NoTitle" href="SUBPART_213.1.dita" props="Subpart 213.1" outputclass="SubPart" audience="DFARS_SUBPART_213.1" xtrf="SubPart" xtrc="DFARS_SUBPART_213.1.html">
                <topicref navtitle="213.101 General." base="concept" href="213.101.dita" props="213.101" outputclass="subtopic" audience="DFARS_213.101" xtrf="subtopic" xtrc="DFARS_213.101.html" />
                <topicref navtitle="213.104           Promoting competition.       " base="concept" href="213.104.dita" props="213.104" outputclass="subtopic" audience="DFARS_213.104" xtrf="subtopic" xtrc="DFARS_213.104.html" />
@@ -780,7 +780,7 @@
                   <topicref navtitle="217.208-70 Additional clauses." base="concept" href="217.208-70.dita" props="217.208-70" outputclass="subtopic" audience="DFARS_217.208-70" xtrf="subtopic" xtrc="DFARS_217.208-70.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 217.4" base="NoTitle" href="SUBPART_217.4.dita" props="Subpart 217.4" outputclass="subtopic" audience="DFARS_SUBPART_217.4" xtrf="subtopic" xtrc="DFARS_SUBPART_217.4.html" />
+            <topicref navtitle="SUBPART 217.4" base="NoTitle" href="SUBPART_217.4.dita" props="Subpart 217.4" outputclass="SubPart" audience="DFARS_SUBPART_217.4" xtrf="subtopic" xtrc="DFARS_SUBPART_217.4.html" />
             <topicref navtitle="SUBPART 217.5 —INTERAGENCY ACQUISITIONS " base="NoTitle" href="SUBPART_217.5.dita" props="Subpart 217.5" outputclass="SubPart" audience="DFARS_SUBPART_217.5" xtrf="SubPart" xtrc="DFARS_SUBPART_217.5.html">
                <topicref navtitle="217.500 Scope of subpart." base="concept" href="217.500.dita" props="217.500" outputclass="subtopic" audience="DFARS_217.500" xtrf="subtopic" xtrc="DFARS_217.500.html" />
                <topicref navtitle="217.502 Procedures." base="concept" href="217.502.dita" props="217.502" outputclass="subtopic" audience="DFARS_217.502" xtrf="subtopic" xtrc="DFARS_217.502.html">
@@ -818,7 +818,7 @@
                </topicref>
                <topicref navtitle="217.7104 Contract clauses." base="concept" href="217.7104.dita" props="217.7104" outputclass="subtopic" audience="DFARS_217.7104" xtrf="subtopic" xtrc="DFARS_217.7104.html" />
             </topicref>
-            <topicref navtitle="SUBPART 217.72" base="NoTitle" href="SUBPART_217.72.dita" props="Subpart 217.72" outputclass="subtopic" audience="DFARS_SUBPART_217.72" xtrf="subtopic" xtrc="DFARS_SUBPART_217.72.html" />
+            <topicref navtitle="SUBPART 217.72" base="NoTitle" href="SUBPART_217.72.dita" props="Subpart 217.72" outputclass="SubPart" audience="DFARS_SUBPART_217.72" xtrf="subtopic" xtrc="DFARS_SUBPART_217.72.html" />
             <topicref navtitle="SUBPART 217.73 —IDENTIFICATION OF SOURCES OF SUPPLY" base="NoTitle" href="SUBPART_217.73.dita" props="Subpart 217.73" outputclass="SubPart" audience="DFARS_SUBPART_217.73" xtrf="SubPart" xtrc="DFARS_SUBPART_217.73.html">
                <topicref navtitle="217.7300 Scope." base="concept" href="217.7300.dita" props="217.7300" outputclass="subtopic" audience="DFARS_217.7300" xtrf="subtopic" xtrc="DFARS_217.7300.html" />
                <topicref navtitle="217.7301 Policy." base="concept" href="217.7301.dita" props="217.7301" outputclass="subtopic" audience="DFARS_217.7301" xtrf="subtopic" xtrc="DFARS_217.7301.html" />
@@ -878,9 +878,9 @@
       </topicref>
    </topicref>
    <topicref navtitle="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS" base="NoTitle" href="Subchapter_D.dita" props="Subchapter D" outputclass="SubChapter" audience="DFARS_Subchapter_d" xtrf="SubChapter" xtrc="DFARS_Subchapter_d.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_D.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_d" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_d.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_D.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_d" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_d.html">
          <topicref navtitle="PART 219 - SMALL BUSINESS PROGRAMS" base="NoTitle" href="PART_219.dita" props="Part 219" outputclass="Part" audience="DFARS_PART_219" xtrf="Part" xtrc="DFARS_PART_219.html">
-            <topicref navtitle="SUBPART 219.0" base="NoTitle" href="SUBPART_219.0.dita" props="Subpart 219.0" outputclass="subtopic" audience="DFARS_SUBPART_219.0" xtrf="subtopic" xtrc="DFARS_SUBPART_219.0.html" />
+            <topicref navtitle="SUBPART 219.0" base="NoTitle" href="SUBPART_219.0.dita" props="Subpart 219.0" outputclass="SubPart" audience="DFARS_SUBPART_219.0" xtrf="subtopic" xtrc="DFARS_SUBPART_219.0.html" />
             <topicref navtitle="SUBPART 219.2—POLICIES" base="NoTitle" href="SUBPART_219.2.dita" props="Subpart
 219.2" outputclass="SubPart" audience="DFARS_SUBPART_219.2" xtrf="SubPart" xtrc="DFARS_SUBPART_219.2.html">
                <topicref navtitle="219.201 General policy." base="concept" href="219.201.dita" props="219.201" outputclass="subtopic" audience="DFARS_219.201" xtrf="subtopic" xtrc="DFARS_219.201.html" />
@@ -946,13 +946,13 @@
                   <topicref navtitle="219.811-3 Contract clauses." base="concept" href="219.811-3.dita" props="219.811-3" outputclass="subtopic" audience="DFARS_219.811-3" xtrf="subtopic" xtrc="DFARS_219.811-3.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 219.10" base="NoTitle" href="SUBPART_219.10.dita" props="Subpart 219.10" outputclass="subtopic" audience="DFARS_SUBPART_219.10" xtrf="subtopic" xtrc="DFARS_SUBPART_219.10.html" />
-            <topicref navtitle="SUBPART 219.11" base="NoTitle" href="SUBPART_219.11.dita" props="Subpart 219.11" outputclass="subtopic" audience="DFARS_SUBPART_219.11" xtrf="subtopic" xtrc="DFARS_SUBPART_219.11.html" />
-            <topicref navtitle="SUBPART 219.12" base="NoTitle" href="SUBPART_219.12.dita" props="Subpart 219.12" outputclass="subtopic" audience="DFARS_SUBPART_219.12" xtrf="subtopic" xtrc="DFARS_SUBPART_219.12.html" />
+            <topicref navtitle="SUBPART 219.10" base="NoTitle" href="SUBPART_219.10.dita" props="Subpart 219.10" outputclass="SubPart" audience="DFARS_SUBPART_219.10" xtrf="subtopic" xtrc="DFARS_SUBPART_219.10.html" />
+            <topicref navtitle="SUBPART 219.11" base="NoTitle" href="SUBPART_219.11.dita" props="Subpart 219.11" outputclass="SubPart" audience="DFARS_SUBPART_219.11" xtrf="subtopic" xtrc="DFARS_SUBPART_219.11.html" />
+            <topicref navtitle="SUBPART 219.12" base="NoTitle" href="SUBPART_219.12.dita" props="Subpart 219.12" outputclass="SubPart" audience="DFARS_SUBPART_219.12" xtrf="subtopic" xtrc="DFARS_SUBPART_219.12.html" />
             <topicref navtitle="SUBPART 219.13 —HISTORICALLY UNDERUTILIZED BUSINESS ZONE (HUBZONE) PROGRAM" base="NoTitle" href="SUBPART_219.13.dita" props="Subpart 219.13" outputclass="SubPart" audience="DFARS_SUBPART_219.13" xtrf="SubPart" xtrc="DFARS_SUBPART_219.13.html">
                <topicref navtitle="219.1307 Price evaluation preference for HUBZone small business concerns." base="concept" href="219.1307.dita" props="219.1307" outputclass="subtopic" audience="DFARS_219.1307" xtrf="subtopic" xtrc="DFARS_219.1307.html" />
             </topicref>
-            <topicref navtitle="SUBPART 219.70 —RESERVED" base="NoTitle" href="SUBPART_219.70.dita" props="Subpart 219.70" outputclass="subtopic" audience="DFARS_SUBPART_219.70" xtrf="subtopic" xtrc="DFARS_SUBPART_219.70.html" />
+            <topicref navtitle="SUBPART 219.70 —RESERVED" base="NoTitle" href="SUBPART_219.70.dita" props="Subpart 219.70" outputclass="SubPart" audience="DFARS_SUBPART_219.70" xtrf="subtopic" xtrc="DFARS_SUBPART_219.70.html" />
             <topicref navtitle="SUBPART 219.71 —PILOT MENTOR-PROTEGE PROGRAM" base="NoTitle" href="SUBPART_219.71.dita" props="Subpart 219.71" outputclass="SubPart" audience="DFARS_SUBPART_219.71" xtrf="SubPart" xtrc="DFARS_SUBPART_219.71.html">
                <topicref navtitle="219.7100 Scope." base="concept" href="219.7100.dita" props="219.7100" outputclass="subtopic" audience="DFARS_219.7100" xtrf="subtopic" xtrc="DFARS_219.7100.html" />
                <topicref navtitle="219.7101 Policy." base="concept" href="219.7101.dita" props="219.7101" outputclass="subtopic" audience="DFARS_219.7101" xtrf="subtopic" xtrc="DFARS_219.7101.html" />
@@ -965,7 +965,7 @@
                <topicref navtitle="219.7105 Reporting." base="concept" href="219.7105.dita" props="219.7105" outputclass="subtopic" audience="DFARS_219.7105" xtrf="subtopic" xtrc="DFARS_219.7105.html" />
                <topicref navtitle="219.7106 Performance reviews." base="concept" href="219.7106.dita" props="219.7106" outputclass="subtopic" audience="DFARS_219.7106" xtrf="subtopic" xtrc="DFARS_219.7106.html" />
             </topicref>
-            <topicref navtitle="SUBPART 219.72 —(REMOVED)" base="NoTitle" href="SUBPART_219.72.dita" props="Subpart 219.72" outputclass="subtopic" audience="DFARS_SUBPART_219.72" xtrf="subtopic" xtrc="DFARS_SUBPART_219.72.html" />
+            <topicref navtitle="SUBPART 219.72 —(REMOVED)" base="NoTitle" href="SUBPART_219.72.dita" props="Subpart 219.72" outputclass="SubPart" audience="DFARS_SUBPART_219.72" xtrf="subtopic" xtrc="DFARS_SUBPART_219.72.html" />
          </topicref>
          <topicref navtitle="PART 220 - RESERVED" base="NoTitle" href="PART_220.dita" props="Part 220" outputclass="Part" audience="DFARS_PART_220" xtrf="Part" xtrc="DFARS_PART_220.html" />
          <topicref navtitle="PART 221 - RESERVED" base="NoTitle" href="PART_221.dita" props="Part 221" outputclass="Part" audience="DFARS_PART_221" xtrf="Part" xtrc="DFARS_PART_221.html" />
@@ -1048,7 +1048,7 @@
                <topicref navtitle="222.7004 Contract clause." base="concept" href="222.7004.dita" props="222.7004" outputclass="subtopic" audience="DFARS_222.7004" xtrf="subtopic" xtrc="DFARS_222.7004.html" />
             </topicref>
             <topicref navtitle="SUBPART 222.71—RESERVED       " base="NoTitle" href="SUBPART_222.71.dita" props="Subpart
-222.71" outputclass="subtopic" audience="DFARS_SUBPART_222.71" xtrf="subtopic" xtrc="DFARS_SUBPART_222.71.html" />
+222.71" outputclass="SubPart" audience="DFARS_SUBPART_222.71" xtrf="subtopic" xtrc="DFARS_SUBPART_222.71.html" />
             <topicref navtitle="SUBPART 222.72 —COMPLIANCE WITH LABOR LAWS OF FOREIGN GOVERNMENTS" base="NoTitle" href="SUBPART_222.72.dita" props="Subpart 222.72" outputclass="SubPart" audience="DFARS_SUBPART_222.72" xtrf="SubPart" xtrc="DFARS_SUBPART_222.72.html">
                <topicref navtitle="222.7201 Contract clauses." base="concept" href="222.7201.dita" props="222.7201" outputclass="subtopic" audience="DFARS_222.7201" xtrf="subtopic" xtrc="DFARS_222.7201.html" />
             </topicref>
@@ -1067,8 +1067,8 @@
             </topicref>
          </topicref>
          <topicref navtitle="PART 223 - ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE" base="NoTitle" href="PART_223.dita" props="Part 223" outputclass="Part" audience="DFARS_PART_223" xtrf="Part" xtrc="DFARS_PART_223.html">
-            <topicref navtitle="SUBPART 223.1" base="NoTitle" href="SUBPART_223.1.dita" props="Subpart 223.1" outputclass="subtopic" audience="DFARS_SUBPART_223.1" xtrf="subtopic" xtrc="DFARS_SUBPART_223.1.html" />
-            <topicref navtitle="SUBPART 223.2 —ENERGY AND WATER EFFICIENCY AND RENEWABLE ENERGY" base="NoTitle" href="SUBPART_223.2.dita" props="Subpart 223.2" outputclass="subtopic" audience="DFARS_SUBPART_223.2" xtrf="subtopic" xtrc="DFARS_SUBPART_223.2.html" />
+            <topicref navtitle="SUBPART 223.1" base="NoTitle" href="SUBPART_223.1.dita" props="Subpart 223.1" outputclass="SubPart" audience="DFARS_SUBPART_223.1" xtrf="subtopic" xtrc="DFARS_SUBPART_223.1.html" />
+            <topicref navtitle="SUBPART 223.2 —ENERGY AND WATER EFFICIENCY AND RENEWABLE ENERGY" base="NoTitle" href="SUBPART_223.2.dita" props="Subpart 223.2" outputclass="SubPart" audience="DFARS_SUBPART_223.2" xtrf="subtopic" xtrc="DFARS_SUBPART_223.2.html" />
             <topicref navtitle="SUBPART 223.3 —HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA" base="NoTitle" href="SUBPART_223.3.dita" props="Subpart 223.3" outputclass="SubPart" audience="DFARS_SUBPART_223.3" xtrf="SubPart" xtrc="DFARS_SUBPART_223.3.html">
                <topicref navtitle="223.302 Policy." base="concept" href="223.302.dita" props="223.302" outputclass="subtopic" audience="DFARS_223.302" xtrf="subtopic" xtrc="DFARS_223.302.html" />
                <topicref navtitle="223.303 Contract clause." base="concept" href="223.303.dita" props="223.303" outputclass="subtopic" audience="DFARS_223.303" xtrf="subtopic" xtrc="DFARS_223.303.html" />
@@ -1090,13 +1090,13 @@
                   <topicref navtitle="223.570-2 Contract clause." base="concept" href="223.570-2.dita" props="223.570-2" outputclass="subtopic" audience="DFARS_223.570-2" xtrf="subtopic" xtrc="DFARS_223.570-2.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 223.7 —CONTRACTING FOR ENVIRONMENTALLY PREFERABLE PRODUCTS AND SERVICES" base="NoTitle" href="SUBPART_223.7.dita" props="Subpart 223.7" outputclass="subtopic" audience="DFARS_SUBPART_223.7" xtrf="subtopic" xtrc="DFARS_SUBPART_223.7.html" />
+            <topicref navtitle="SUBPART 223.7 —CONTRACTING FOR ENVIRONMENTALLY PREFERABLE PRODUCTS AND SERVICES" base="NoTitle" href="SUBPART_223.7.dita" props="Subpart 223.7" outputclass="SubPart" audience="DFARS_SUBPART_223.7" xtrf="subtopic" xtrc="DFARS_SUBPART_223.7.html" />
             <topicref navtitle="SUBPART 223.8—OZONE-DEPLETING SUBSTANCES AND GREENHOUSE GASES       " base="NoTitle" href="SUBPART_223.8.dita" props="Subpart
 223.8" outputclass="SubPart" audience="DFARS_SUBPART_223.8" xtrf="SubPart" xtrc="DFARS_SUBPART_223.8.html">
                <topicref navtitle="223.802 Policy." base="concept" href="223.802.dita" props="223.802" outputclass="subtopic" audience="DFARS_223.802" xtrf="subtopic" xtrc="DFARS_223.802.html" />
             </topicref>
             <topicref navtitle="SUBPART 223.70          —RESERVED" base="NoTitle" href="SUBPART_223.70.dita" props="Subpart
-223.70" outputclass="subtopic" audience="DFARS_SUBPART_223.70" xtrf="subtopic" xtrc="DFARS_SUBPART_223.70.html" />
+223.70" outputclass="SubPart" audience="DFARS_SUBPART_223.70" xtrf="subtopic" xtrc="DFARS_SUBPART_223.70.html" />
             <topicref navtitle="SUBPART 223.71 —STORAGE, TREATMENT, AND DISPOSAL OF TOXIC OR HAZARDOUS MATERIALS" base="NoTitle" href="SUBPART_223.71.dita" props="Subpart 223.71" outputclass="SubPart" audience="DFARS_SUBPART_223.71" xtrf="SubPart" xtrc="DFARS_SUBPART_223.71.html">
                <topicref navtitle="223.7101 Definitions." base="concept" href="223.7101.dita" props="223.7101" outputclass="subtopic" audience="DFARS_223.7101" xtrf="subtopic" xtrc="DFARS_223.7101.html" />
                <topicref navtitle="223.7102 Policy." base="concept" href="223.7102.dita" props="223.7102" outputclass="subtopic" audience="DFARS_223.7102" xtrf="subtopic" xtrc="DFARS_223.7102.html" />
@@ -1182,7 +1182,7 @@
                <topicref navtitle="225.503 Group offers." base="concept" href="225.503.dita" props="225.503" outputclass="subtopic" audience="DFARS_225.503" xtrf="subtopic" xtrc="DFARS_225.503.html" />
                <topicref navtitle="225.504 Evaluation examples." base="concept" href="225.504.dita" props="225.504" outputclass="subtopic" audience="DFARS_225.504" xtrf="subtopic" xtrc="DFARS_225.504.html" />
             </topicref>
-            <topicref navtitle="SUBPART 225.6" base="NoTitle" href="SUBPART_225.6.dita" props="Subpart 225.6" outputclass="subtopic" audience="DFARS_SUBPART_225.6" xtrf="subtopic" xtrc="DFARS_SUBPART_225.6.html" />
+            <topicref navtitle="SUBPART 225.6" base="NoTitle" href="SUBPART_225.6.dita" props="Subpart 225.6" outputclass="SubPart" audience="DFARS_SUBPART_225.6" xtrf="subtopic" xtrc="DFARS_SUBPART_225.6.html" />
             <topicref navtitle="SUBPART 225.7 —PROHIBITED SOURCES" base="NoTitle" href="SUBPART_225.7.dita" props="Subpart
 225.7" outputclass="SubPart" audience="DFARS_SUBPART_225.7" xtrf="SubPart" xtrc="DFARS_SUBPART_225.7.html">
                <topicref navtitle="225.701 Restrictions administered by the Department of the Treasury on acquisitions of supplies or services from prohibited sources." base="concept" href="225.701.dita" props="225.701" outputclass="subtopic" audience="DFARS_225.701" xtrf="subtopic" xtrc="DFARS_225.701.html">
@@ -1195,11 +1195,11 @@
                   <topicref navtitle="225.770-4 Identifying items covered by the USML or the 600 series of the CCL." base="concept" href="225.770-4.dita" props="225.770-4" outputclass="subtopic" audience="DFARS_225.770-4" xtrf="subtopic" xtrc="DFARS_225.770-4.html" />
                   <topicref navtitle="225.770-5 Waiver of prohibition." base="concept" href="225.770-5.dita" props="225.770-5" outputclass="subtopic" audience="DFARS_225.770-5" xtrf="subtopic" xtrc="DFARS_225.770-5.html" />
                </topicref>
-               <topicref navtitle="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism." base="concept" href="225.771.dita" props="225.771" outputclass="subtopic" audience="DFARS_225.771" xtrf="subtopic" xtrc="DFARS_225.771.html">
+               <topicref navtitle="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism." base="concept" href="225.771.dita" props="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism." outputclass="subtopic" audience="DFARS_225.771" xtrf="subtopic" xtrc="DFARS_225.771.html">
                   <topicref navtitle="225.771-0 Scope." base="concept" href="225.771-0.dita" props="225.771-0" outputclass="subtopic" audience="DFARS_225.771-0" xtrf="subtopic" xtrc="DFARS_225.771-0.html" />
                   <topicref navtitle="225.771-1 Definition." base="concept" href="225.771-1.dita" props="225.771-1" outputclass="subtopic" audience="DFARS_225.771-1" xtrf="subtopic" xtrc="DFARS_225.771-1.html" />
                   <topicref navtitle="225.771-2 Prohibition." base="concept" href="225.771-2.dita" props="225.771-2" outputclass="subtopic" audience="DFARS_225.771-2" xtrf="subtopic" xtrc="DFARS_225.771-2.html" />
-                  <topicref navtitle="225.771-3 Notification." base="concept" href="225.771-3.dita" props="225.771-3" outputclass="subtopic" audience="DFARS_225.771-3" xtrf="subtopic" xtrc="DFARS_225.771-3.html" />
+                  <topicref navtitle="225.771-3 Notification." base="concept" href="225.771-3.dita" props="225.771-3 Notification." outputclass="subtopic" audience="DFARS_225.771-3" xtrf="subtopic" xtrc="DFARS_225.771-3.html" />
                   <topicref navtitle="225.771-4 Waiver of prohibition." base="concept" href="225.771-4.dita" props="225.771-4" outputclass="subtopic" audience="DFARS_225.771-4" xtrf="subtopic" xtrc="DFARS_225.771-4.html" />
                   <topicref navtitle="225.771-5 Solicitation provision." base="concept" href="225.771-5.dita" props="225.771-5" outputclass="subtopic" audience="DFARS_225.771-5" xtrf="subtopic" xtrc="DFARS_225.771-5.html" />
                </topicref>
@@ -1394,7 +1394,7 @@
                <topicref navtitle="225.7307 Contract clauses." base="concept" href="225.7307.dita" props="225.7307" outputclass="subtopic" audience="DFARS_225.7307" xtrf="subtopic" xtrc="DFARS_225.7307.html" />
             </topicref>
             <topicref navtitle="SUBPART 225.74—Reserved       " base="NoTitle" href="SUBPART_225.74.dita" props="Subpart
-225.74" outputclass="subtopic" audience="DFARS_SUBPART_225.74" xtrf="subtopic" xtrc="DFARS_SUBPART_225.74.html" />
+225.74" outputclass="SubPart" audience="DFARS_SUBPART_225.74" xtrf="subtopic" xtrc="DFARS_SUBPART_225.74.html" />
             <topicref navtitle="SUBPART 225.75 —BALANCE OF PAYMENTS PROGRAM" base="NoTitle" href="SUBPART_225.75.dita" props="Subpart 225.75" outputclass="SubPart" audience="DFARS_SUBPART_225.75" xtrf="SubPart" xtrc="DFARS_SUBPART_225.75.html">
                <topicref navtitle="225.7500 Scope of subpart." base="concept" href="225.7500.dita" props="225.7500" outputclass="subtopic" audience="DFARS_225.7500" xtrf="subtopic" xtrc="DFARS_225.7500.html" />
                <topicref navtitle="225.7501 Policy." base="concept" href="225.7501.dita" props="225.7501" outputclass="subtopic" audience="DFARS_225.7501" xtrf="subtopic" xtrc="DFARS_225.7501.html" />
@@ -1459,9 +1459,9 @@
                <topicref navtitle="226.103 Procedures." base="concept" href="226.103.dita" props="226.103" outputclass="subtopic" audience="DFARS_226.103" xtrf="subtopic" xtrc="DFARS_226.103.html" />
                <topicref navtitle="226.104 Contract clause." base="concept" href="226.104.dita" props="226.104" outputclass="subtopic" audience="DFARS_226.104" xtrf="subtopic" xtrc="DFARS_226.104.html" />
             </topicref>
-            <topicref navtitle="SUBPART 226.3" base="NoTitle" href="SUBPART_226.3.dita" props="Subpart 226.3" outputclass="subtopic" audience="DFARS_SUBPART_226.3" xtrf="subtopic" xtrc="DFARS_SUBPART_226.3.html" />
+            <topicref navtitle="SUBPART 226.3" base="NoTitle" href="SUBPART_226.3.dita" props="Subpart 226.3" outputclass="SubPart" audience="DFARS_SUBPART_226.3" xtrf="subtopic" xtrc="DFARS_SUBPART_226.3.html" />
             <topicref navtitle="SUBPART 226.70—RESERVED       " base="NoTitle" href="SUBPART_226.70.dita" props="Subpart
-226.70" outputclass="subtopic" audience="DFARS_SUBPART_226.70" xtrf="subtopic" xtrc="DFARS_SUBPART_226.70.html" />
+226.70" outputclass="SubPart" audience="DFARS_SUBPART_226.70" xtrf="subtopic" xtrc="DFARS_SUBPART_226.70.html" />
             <topicref navtitle="SUBPART 226.71 —PREFERENCE FOR LOCAL AND SMALL BUSINESSES" base="NoTitle" href="SUBPART_226.71.dita" props="Subpart 226.71" outputclass="SubPart" audience="DFARS_SUBPART_226.71" xtrf="SubPart" xtrc="DFARS_SUBPART_226.71.html">
                <topicref navtitle="226.7100 Scope of subpart." base="concept" href="226.7100.dita" props="226.7100" outputclass="subtopic" audience="DFARS_226.7100" xtrf="subtopic" xtrc="DFARS_226.7100.html" />
                <topicref navtitle="226.7101 Definition." base="concept" href="226.7101.dita" props="226.7101" outputclass="subtopic" audience="DFARS_226.7101" xtrf="subtopic" xtrc="DFARS_226.7101.html" />
@@ -1480,7 +1480,7 @@
       </topicref>
    </topicref>
    <topicref navtitle="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS" base="NoTitle" href="Subchapter_E.dita" props="Subchapter E" outputclass="SubChapter" audience="DFARS_Subchapter_e" xtrf="SubChapter" xtrc="DFARS_Subchapter_e.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_E.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_e" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_e.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_E.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_e" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_e.html">
          <topicref navtitle="PART 227 - PATENTS, DATA, AND COPYRIGHTS" base="NoTitle" href="PART_227.dita" props="Part 227" outputclass="Part" audience="DFARS_PART_227" xtrf="Part" xtrc="DFARS_PART_227.html">
             <topicref navtitle="SUBPART 227.3 —PATENT RIGHTS UNDER GOVERNMENT CONTRACTS" base="NoTitle" href="SUBPART_227.3.dita" props="Subpart 227.3" outputclass="SubPart" audience="DFARS_SUBPART_227.3" xtrf="SubPart" xtrc="DFARS_SUBPART_227.3.html">
                <topicref navtitle="227.303 Contract clauses." base="concept" href="227.303.dita" props="227.303" outputclass="subtopic" audience="DFARS_227.303" xtrf="subtopic" xtrc="DFARS_227.303.html" />
@@ -1638,7 +1638,7 @@
                   <topicref navtitle="229.402-70 Additional provisions and clauses." base="concept" href="229.402-70.dita" props="229.402-70" outputclass="subtopic" audience="DFARS_229.402-70" xtrf="subtopic" xtrc="DFARS_229.402-70.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 229.70 —SPECIAL PROCEDURES FOR OVERSEAS CONTRACTS" base="NoTitle" href="SUBPART_229.70.dita" props="Subpart 229.70" outputclass="subtopic" audience="DFARS_SUBPART_229.70" xtrf="subtopic" xtrc="DFARS_SUBPART_229.70.html" />
+            <topicref navtitle="SUBPART 229.70 —SPECIAL PROCEDURES FOR OVERSEAS CONTRACTS" base="NoTitle" href="SUBPART_229.70.dita" props="Subpart 229.70" outputclass="SubPart" audience="DFARS_SUBPART_229.70" xtrf="subtopic" xtrc="DFARS_SUBPART_229.70.html" />
          </topicref>
          <topicref navtitle="PART 230 - COST ACCOUNTING STANDARDS" base="NoTitle" href="PART_230.dita" props="Part 230" outputclass="Part" audience="DFARS_PART_230" xtrf="Part" xtrc="DFARS_PART_230.html">
             <topicref navtitle="SUBPART 230.2 —CAS PROGRAM REQUIREMENTS" base="NoTitle" href="SUBPART_230.2.dita" props="Subpart 230.2" outputclass="SubPart" audience="DFARS_SUBPART_230.2" xtrf="SubPart" xtrc="DFARS_SUBPART_230.2.html">
@@ -1646,8 +1646,8 @@
                   <topicref navtitle="230.201-5 Waiver." base="concept" href="230.201-5.dita" props="230.201-5" outputclass="subtopic" audience="DFARS_230.201-5" xtrf="subtopic" xtrc="DFARS_230.201-5.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 230.70" base="NoTitle" href="SUBPART_230.70.dita" props="Subpart 230.70" outputclass="subtopic" audience="DFARS_SUBPART_230.70" xtrf="subtopic" xtrc="DFARS_SUBPART_230.70.html" />
-            <topicref navtitle="SUBPART 230.71" base="NoTitle" href="SUBPART_230.71.dita" props="Subpart 230.71" outputclass="subtopic" audience="DFARS_SUBPART_230.71" xtrf="subtopic" xtrc="DFARS_SUBPART_230.71.html" />
+            <topicref navtitle="SUBPART 230.70" base="NoTitle" href="SUBPART_230.70.dita" props="Subpart 230.70" outputclass="SubPart" audience="DFARS_SUBPART_230.70" xtrf="subtopic" xtrc="DFARS_SUBPART_230.70.html" />
+            <topicref navtitle="SUBPART 230.71" base="NoTitle" href="SUBPART_230.71.dita" props="Subpart 230.71" outputclass="SubPart" audience="DFARS_SUBPART_230.71" xtrf="subtopic" xtrc="DFARS_SUBPART_230.71.html" />
          </topicref>
          <topicref navtitle="PART 231 - CONTRACT COST PRINCIPLES AND PROCEDURES" base="NoTitle" href="PART_231.dita" props="Part 231" outputclass="Part" audience="DFARS_PART_231" xtrf="Part" xtrc="DFARS_PART_231.html">
             <topicref navtitle="SUBPART 231.1 —APPLICABILITY" base="NoTitle" href="SUBPART_231.1.dita" props="Subpart 231.1" outputclass="SubPart" audience="DFARS_SUBPART_231.1" xtrf="SubPart" xtrc="DFARS_SUBPART_231.1.html">
@@ -1678,17 +1678,17 @@
          </topicref>
          <topicref navtitle="PART 232 - CONTRACT FINANCING" base="NoTitle" href="PART_232.dita" props="Part 232" outputclass="Part" audience="DFARS_PART_232" xtrf="Part" xtrc="DFARS_PART_232.html">
             <topicref navtitle="232.001 Definitions." base="concept" href="232.001.dita" props="232.001" outputclass="subtopic" audience="DFARS_232.001" xtrf="subtopic" xtrc="DFARS_232.001.html" />
-            <topicref navtitle="232.006 Reduction or suspension of contract payments upon finding of fraud." base="concept" href="232.006.dita" props="232.006" outputclass="SubPart" audience="DFARS_232.006" xtrf="No" xtrc="DFARS_232.006.html">
+            <topicref navtitle="232.006 Reduction or suspension of contract payments upon finding of fraud." base="concept" href="232.006.dita" props="232.006" outputclass="subtopic" audience="DFARS_232.006" xtrf="No" xtrc="DFARS_232.006.html">
                <topicref navtitle="232.006-5 Reporting." base="concept" href="232.006-5.dita" props="232.006-5" outputclass="subtopic" audience="DFARS_232.006-5" xtrf="subtopic" xtrc="DFARS_232.006-5.html" />
             </topicref>
             <topicref navtitle="232.007 Contract financing payments. " base="concept" href="232.007.dita" props="232.007" outputclass="subtopic" audience="DFARS_232.007" xtrf="subtopic" xtrc="DFARS_232.007.html" />
-            <topicref navtitle="232.009 Providing accelerated payments to small business subcontractors." base="concept" href="232.009.dita" props="232.009" outputclass="SubPart" audience="DFARS_232.009" xtrf="No" xtrc="DFARS_232.009.html">
+            <topicref navtitle="232.009 Providing accelerated payments to small business subcontractors." base="concept" href="232.009.dita" props="232.009" outputclass="subtopic" audience="DFARS_232.009" xtrf="No" xtrc="DFARS_232.009.html">
                <topicref navtitle="232.009-1 General." base="concept" href="232.009-1.dita" props="232.009-1" outputclass="subtopic" audience="DFARS_232.009-1" xtrf="subtopic" xtrc="DFARS_232.009-1.html" />
                <topicref navtitle="232.009-2 Contract clause." base="concept" href="232.009-2.dita" props="232.009-2" outputclass="subtopic" audience="DFARS_232.009-2" xtrf="subtopic" xtrc="DFARS_232.009-2.html" />
             </topicref>
             <topicref navtitle="232.070 Responsibilities." base="concept" href="232.070.dita" props="232.070" outputclass="subtopic" audience="DFARS_232.070" xtrf="subtopic" xtrc="DFARS_232.070.html" />
             <topicref navtitle="232.071 Reserved." base="concept" href="232.071.dita" props="232.071" outputclass="subtopic" audience="DFARS_232.071" xtrf="subtopic" xtrc="DFARS_232.071.html" />
-            <topicref navtitle="232.072 Financial responsibility of contractors." base="concept" href="232.072.dita" props="232.072" outputclass="SubPart" audience="DFARS_232.072" xtrf="No" xtrc="DFARS_232.072.html">
+            <topicref navtitle="232.072 Financial responsibility of contractors." base="concept" href="232.072.dita" props="232.072" outputclass="subtopic" audience="DFARS_232.072" xtrf="No" xtrc="DFARS_232.072.html">
                <topicref navtitle="232.072-1 Required financial reviews." base="concept" href="232.072-1.dita" props="232.072-1" outputclass="subtopic" audience="DFARS_232.072-1" xtrf="subtopic" xtrc="DFARS_232.072-1.html" />
                <topicref navtitle="232.072-2 Appropriate information." base="concept" href="232.072-2.dita" props="232.072-2" outputclass="subtopic" audience="DFARS_232.072-2" xtrf="subtopic" xtrc="DFARS_232.072-2.html" />
                <topicref navtitle="232.072-3 Cash flow forecasts." base="concept" href="232.072-3.dita" props="232.072-3" outputclass="subtopic" audience="DFARS_232.072-3" xtrf="subtopic" xtrc="DFARS_232.072-3.html" />
@@ -1794,7 +1794,7 @@
                <topicref navtitle="232.7101 Policy and procedures." base="concept" href="232.7101.dita" props="232.7101" outputclass="subtopic" audience="DFARS_232.7101" xtrf="subtopic" xtrc="DFARS_232.7101.html" />
                <topicref navtitle="232.7102 Contract clause." base="concept" href="232.7102.dita" props="232.7102" outputclass="subtopic" audience="DFARS_232.7102" xtrf="subtopic" xtrc="DFARS_232.7102.html" />
             </topicref>
-            <topicref navtitle="SUBPART 232.72 —Reserved" base="NoTitle" href="SUBPART_232.72.dita" props="Subpart 232.72" outputclass="subtopic" audience="DFARS_SUBPART_232.72" xtrf="subtopic" xtrc="DFARS_SUBPART_232.72.html" />
+            <topicref navtitle="SUBPART 232.72 —Reserved" base="NoTitle" href="SUBPART_232.72.dita" props="Subpart 232.72" outputclass="SubPart" audience="DFARS_SUBPART_232.72" xtrf="subtopic" xtrc="DFARS_SUBPART_232.72.html" />
          </topicref>
          <topicref navtitle="PART 233 - PROTESTS, DISPUTES, AND APPEALS" base="NoTitle" href="PART_233.dita" props="Part 233" outputclass="Part" audience="DFARS_PART_233" xtrf="Part" xtrc="DFARS_PART_233.html">
             <topicref navtitle="SUBPART 233.1 —PROTESTS" base="NoTitle" href="SUBPART_233.1.dita" props="Subpart 233.1" outputclass="SubPart" audience="DFARS_SUBPART_233.1" xtrf="SubPart" xtrc="DFARS_SUBPART_233.1.html">
@@ -1816,12 +1816,12 @@
       </topicref>
    </topicref>
    <topicref navtitle="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING" base="NoTitle" href="Subchapter_F.dita" props="Subchapter F" outputclass="SubChapter" audience="DFARS_Subchapter_f" xtrf="SubChapter" xtrc="DFARS_Subchapter_f.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_F.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_f" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_f.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_F.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_f" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_f.html">
          <topicref navtitle="PART 234 - MAJOR SYSTEM ACQUISITION " base="NoTitle" href="PART_234.dita" props="Part 234" outputclass="Part" audience="DFARS_PART_234" xtrf="Part" xtrc="DFARS_PART_234.html">
             <topicref navtitle="234.001 Definition." base="concept" href="234.001.dita" props="234.001" outputclass="subtopic" audience="DFARS_234.001" xtrf="subtopic" xtrc="DFARS_234.001.html" />
             <topicref navtitle="234.003 Responsibilities." base="concept" href="234.003.dita" props="234.003" outputclass="subtopic" audience="DFARS_234.003" xtrf="subtopic" xtrc="DFARS_234.003.html" />
             <topicref navtitle="234.004 Acquisition strategy." base="concept" href="234.004.dita" props="234.004" outputclass="subtopic" audience="DFARS_234.004" xtrf="subtopic" xtrc="DFARS_234.004.html" />
-            <topicref navtitle="234.005 General requirements." base="concept" href="234.005.dita" props="234.005" outputclass="SubPart" audience="DFARS_234.005" xtrf="No" xtrc="DFARS_234.005.html">
+            <topicref navtitle="234.005 General requirements." base="concept" href="234.005.dita" props="234.005" outputclass="subtopic" audience="DFARS_234.005" xtrf="No" xtrc="DFARS_234.005.html">
                <topicref navtitle="234.005-1 Competition." base="concept" href="234.005-1.dita" props="234.005-1" outputclass="subtopic" audience="DFARS_234.005-1" xtrf="subtopic" xtrc="DFARS_234.005-1.html" />
                <topicref navtitle="234.005-2 Mission-oriented solicitation." base="concept" href="234.005-2.dita" props="234.005-2" outputclass="subtopic" audience="DFARS_234.005-2" xtrf="subtopic" xtrc="DFARS_234.005-2.html" />
             </topicref>
@@ -1841,27 +1841,27 @@
          </topicref>
          <topicref navtitle="PART 235 - RESEARCH AND DEVELOPMENT CONTRACTING" base="NoTitle" href="PART_235.dita" props="Part 235" outputclass="Part" audience="DFARS_PART_235" xtrf="Part" xtrc="DFARS_PART_235.html">
             <topicref navtitle="235.001 Definitions." base="concept" href="235.001.dita" props="235.001" outputclass="subtopic" audience="DFARS_235.001" xtrf="subtopic" xtrc="DFARS_235.001.html" />
-            <topicref navtitle="235.006 Contracting methods and contract type." base="concept" href="235.006.dita" props="235.006" outputclass="SubPart" audience="DFARS_235.006" xtrf="No" xtrc="DFARS_235.006.html">
+            <topicref navtitle="235.006 Contracting methods and contract type." base="concept" href="235.006.dita" props="235.006" outputclass="subtopic" audience="DFARS_235.006" xtrf="No" xtrc="DFARS_235.006.html">
                <topicref navtitle="235.006-70 Manufacturing Technology Program." base="concept" href="235.006-70.dita" props="235.006-70" outputclass="subtopic" audience="DFARS_235.006-70" xtrf="subtopic" xtrc="DFARS_235.006-70.html" />
                <topicref navtitle="235.006-71 Competition." base="concept" href="235.006-71.dita" props="235.006-71" outputclass="subtopic" audience="DFARS_235.006-71" xtrf="subtopic" xtrc="DFARS_235.006-71.html" />
             </topicref>
             <topicref navtitle="235.008 Evaluation for award." base="concept" href="235.008.dita" props="235.008" outputclass="subtopic" audience="DFARS_235.008" xtrf="subtopic" xtrc="DFARS_235.008.html" />
             <topicref navtitle="235.010 Scientific and technical reports." base="concept" href="235.010.dita" props="235.010" outputclass="subtopic" audience="DFARS_235.010" xtrf="subtopic" xtrc="DFARS_235.010.html" />
-            <topicref navtitle="235.015 RESERVED" base="concept" href="235.015.dita" props="235.015" outputclass="SubPart" audience="DFARS_235.015" xtrf="No" xtrc="DFARS_235.015.html">
+            <topicref navtitle="235.015 RESERVED" base="concept" href="235.015.dita" props="235.015" outputclass="subtopic" audience="DFARS_235.015" xtrf="No" xtrc="DFARS_235.015.html">
                <topicref navtitle="235.015-70 Special use allowances for research facilities acquired by educational institutions." base="concept" href="235.015-70.dita" props="235.015-70" outputclass="subtopic" audience="DFARS_235.015-70" xtrf="subtopic" xtrc="DFARS_235.015-70.html" />
             </topicref>
             <topicref navtitle="235.016 Broad agency announcement." base="concept" href="235.016.dita" props="235.016" outputclass="subtopic" audience="DFARS_235.016" xtrf="subtopic" xtrc="DFARS_235.016.html" />
-            <topicref navtitle="235.017 Federally Funded Research and Development Centers." base="concept" href="235.017.dita" props="235.017" outputclass="SubPart" audience="DFARS_235.017" xtrf="No" xtrc="DFARS_235.017.html">
+            <topicref navtitle="235.017 Federally Funded Research and Development Centers." base="concept" href="235.017.dita" props="235.017" outputclass="subtopic" audience="DFARS_235.017" xtrf="No" xtrc="DFARS_235.017.html">
                <topicref navtitle="235.017-1 Sponsoring agreements." base="concept" href="235.017-1.dita" props="235.017-1" outputclass="subtopic" audience="DFARS_235.017-1" xtrf="subtopic" xtrc="DFARS_235.017-1.html" />
             </topicref>
-            <topicref navtitle="235.070 Indemnification against unusually hazardous risks." base="concept" href="235.070.dita" props="235.070" outputclass="SubPart" audience="DFARS_235.070" xtrf="No" xtrc="DFARS_235.070.html">
+            <topicref navtitle="235.070 Indemnification against unusually hazardous risks." base="concept" href="235.070.dita" props="235.070" outputclass="subtopic" audience="DFARS_235.070" xtrf="No" xtrc="DFARS_235.070.html">
                <topicref navtitle="235.070-1 Indemnification under research and development contracts." base="concept" href="235.070-1.dita" props="235.070-1" outputclass="subtopic" audience="DFARS_235.070-1" xtrf="subtopic" xtrc="DFARS_235.070-1.html" />
                <topicref navtitle="235.070-2 Indemnification under contracts involving both research and development and other work." base="concept" href="235.070-2.dita" props="235.070-2" outputclass="subtopic" audience="DFARS_235.070-2" xtrf="subtopic" xtrc="DFARS_235.070-2.html" />
                <topicref navtitle="235.070-3 Contract clauses." base="concept" href="235.070-3.dita" props="235.070-3" outputclass="subtopic" audience="DFARS_235.070-3" xtrf="subtopic" xtrc="DFARS_235.070-3.html" />
             </topicref>
             <topicref navtitle="235.071 Export-controlled items." base="concept" href="235.071.dita" props="235.071" outputclass="subtopic" audience="DFARS_235.071" xtrf="subtopic" xtrc="DFARS_235.071.html" />
             <topicref navtitle="235.072 Additional contract clauses." base="concept" href="235.072.dita" props="235.072" outputclass="subtopic" audience="DFARS_235.072" xtrf="subtopic" xtrc="DFARS_235.072.html" />
-            <topicref navtitle="SUBPART 235.70" base="NoTitle" href="SUBPART_235.70.dita" props="Subpart 235.70" outputclass="subtopic" audience="DFARS_SUBPART_235.70" xtrf="subtopic" xtrc="DFARS_SUBPART_235.70.html" />
+            <topicref navtitle="SUBPART 235.70" base="NoTitle" href="SUBPART_235.70.dita" props="Subpart 235.70" outputclass="SubPart" audience="DFARS_SUBPART_235.70" xtrf="subtopic" xtrc="DFARS_SUBPART_235.70.html" />
          </topicref>
          <topicref navtitle="PART 236 - CONSTRUCTION AND ARCHITECT — ENGINEER CONTRACTS" base="NoTitle" href="PART_236.dita" props="Part 236" outputclass="Part" audience="DFARS_PART_236" xtrf="Part" xtrc="DFARS_PART_236.html">
             <topicref navtitle="SUBPART 236.1 —GENERAL" base="NoTitle" href="SUBPART_236.1.dita" props="Subpart 236.1" outputclass="SubPart" audience="DFARS_SUBPART_236.1" xtrf="SubPart" xtrc="DFARS_SUBPART_236.1.html">
@@ -1885,7 +1885,7 @@
                   <topicref navtitle="236.303-1 Phase One." base="concept" href="236.303-1.dita" props="236.303-1" outputclass="subtopic" audience="DFARS_236.303-1" xtrf="subtopic" xtrc="DFARS_236.303-1.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 236.4" base="NoTitle" href="SUBPART_236.4.dita" props="Subpart 236.4" outputclass="subtopic" audience="DFARS_SUBPART_236.4" xtrf="subtopic" xtrc="DFARS_SUBPART_236.4.html" />
+            <topicref navtitle="SUBPART 236.4" base="NoTitle" href="SUBPART_236.4.dita" props="Subpart 236.4" outputclass="SubPart" audience="DFARS_SUBPART_236.4" xtrf="subtopic" xtrc="DFARS_SUBPART_236.4.html" />
             <topicref navtitle="SUBPART 236.5 —CONTRACT CLAUSES" base="NoTitle" href="SUBPART_236.5.dita" props="Subpart 236.5" outputclass="SubPart" audience="DFARS_SUBPART_236.5" xtrf="SubPart" xtrc="DFARS_SUBPART_236.5.html">
                <topicref navtitle="236.570 Additional provisions and clauses." base="concept" href="236.570.dita" props="236.570" outputclass="subtopic" audience="DFARS_236.570" xtrf="subtopic" xtrc="DFARS_236.570.html" />
             </topicref>
@@ -1952,7 +1952,7 @@
             <topicref navtitle="SUBPART 237.5 —MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS" base="NoTitle" href="SUBPART_237.5.dita" props="Subpart 237.5" outputclass="SubPart" audience="DFARS_SUBPART_237.5" xtrf="SubPart" xtrc="DFARS_SUBPART_237.5.html">
                <topicref navtitle="237.503 Agency-head responsibilities." base="concept" href="237.503.dita" props="237.503" outputclass="subtopic" audience="DFARS_237.503" xtrf="subtopic" xtrc="DFARS_237.503.html" />
             </topicref>
-            <topicref navtitle="SUBPART 237.6 —(REMOVED)" base="NoTitle" href="SUBPART_237.6.dita" props="Subpart 237.6" outputclass="subtopic" audience="DFARS_SUBPART_237.6" xtrf="subtopic" xtrc="DFARS_SUBPART_237.6.html" />
+            <topicref navtitle="SUBPART 237.6 —(REMOVED)" base="NoTitle" href="SUBPART_237.6.dita" props="Subpart 237.6" outputclass="SubPart" audience="DFARS_SUBPART_237.6" xtrf="subtopic" xtrc="DFARS_SUBPART_237.6.html" />
             <topicref navtitle="SUBPART 237.70 —MORTUARY SERVICES" base="NoTitle" href="SUBPART_237.70.dita" props="Subpart 237.70" outputclass="SubPart" audience="DFARS_SUBPART_237.70" xtrf="SubPart" xtrc="DFARS_SUBPART_237.70.html">
                <topicref navtitle="237.7000 Scope." base="concept" href="237.7000.dita" props="237.7000" outputclass="subtopic" audience="DFARS_237.7000" xtrf="subtopic" xtrc="DFARS_237.7000.html" />
                <topicref navtitle="237.7001 Method of acquisition." base="concept" href="237.7001.dita" props="237.7001" outputclass="subtopic" audience="DFARS_237.7001" xtrf="subtopic" xtrc="DFARS_237.7001.html" />
@@ -2046,7 +2046,7 @@
                <topicref navtitle="239.7410 Cancellation and termination." base="concept" href="239.7410.dita" props="239.7410" outputclass="subtopic" audience="DFARS_239.7410" xtrf="subtopic" xtrc="DFARS_239.7410.html" />
                <topicref navtitle="239.7411 Contract clauses." base="concept" href="239.7411.dita" props="239.7411" outputclass="subtopic" audience="DFARS_239.7411" xtrf="subtopic" xtrc="DFARS_239.7411.html" />
             </topicref>
-            <topicref navtitle="SUBPART 239.75" base="NoTitle" href="SUBPART_239.75.dita" props="Subpart 239.75" outputclass="subtopic" audience="DFARS_SUBPART_239.75" xtrf="subtopic" xtrc="DFARS_SUBPART_239.75.html" />
+            <topicref navtitle="SUBPART 239.75" base="NoTitle" href="SUBPART_239.75.dita" props="Subpart 239.75" outputclass="SubPart" audience="DFARS_SUBPART_239.75" xtrf="subtopic" xtrc="DFARS_SUBPART_239.75.html" />
             <topicref navtitle="SUBPART 239.76 —CLOUD COMPUTING" base="NoTitle" href="SUBPART_239.76.dita" props="Subpart 239.76" outputclass="SubPart" audience="DFARS_SUBPART_239.76" xtrf="SubPart" xtrc="DFARS_SUBPART_239.76.html">
                <topicref navtitle="239.7600 Scope of subpart." base="concept" href="239.7600.dita" props="239.7600" outputclass="subtopic" audience="DFARS_239.7600" xtrf="subtopic" xtrc="DFARS_239.7600.html" />
                <topicref navtitle="239.7601 Definitions." base="concept" href="239.7601.dita" props="239.7601" outputclass="subtopic" audience="DFARS_239.7601" xtrf="subtopic" xtrc="DFARS_239.7601.html" />
@@ -2079,10 +2079,10 @@
       </topicref>
    </topicref>
    <topicref navtitle="SUBCHAPTER G—CONTRACT MANAGEMENT" base="NoTitle" href="Subchapter_G.dita" props="Subchapter G" outputclass="SubChapter" audience="DFARS_Subchapter_g" xtrf="SubChapter" xtrc="DFARS_Subchapter_g.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_G.dita" props="DFAR G" audience="DFAR_g" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_g.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_G.dita" props="DFAR G" audience="DFAR_g" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_g.html">
          <topicref navtitle="PART 242 - CONTRACT ADMINISTRATION" base="NoTitle" href="PART_242.dita" props="Part 242" outputclass="Part" audience="DFARS_PART_242" xtrf="Part" xtrc="DFARS_PART_242.html">
             <topicref navtitle="242.002 Interagency agreements." base="concept" href="242.002.dita" props="242.002" outputclass="subtopic" audience="DFARS_242.002" xtrf="subtopic" xtrc="DFARS_242.002.html" />
-            <topicref navtitle="SUBPART 242.1 —(REMOVED)" base="NoTitle" href="SUBPART_242.1.dita" props="Subpart 242.1" outputclass="subtopic" audience="DFARS_SUBPART_242.1" xtrf="subtopic" xtrc="DFARS_SUBPART_242.1.html" />
+            <topicref navtitle="SUBPART 242.1 —(REMOVED)" base="NoTitle" href="SUBPART_242.1.dita" props="Subpart 242.1" outputclass="SubPart" audience="DFARS_SUBPART_242.1" xtrf="subtopic" xtrc="DFARS_SUBPART_242.1.html" />
             <topicref navtitle="SUBPART 242.2 —CONTRACT ADMINISTRATION SERVICES" base="NoTitle" href="SUBPART_242.2.dita" props="Subpart 242.2" outputclass="SubPart" audience="DFARS_SUBPART_242.2" xtrf="SubPart" xtrc="DFARS_SUBPART_242.2.html">
                <topicref navtitle="242.200 RESERVED" base="concept" href="242.200.dita" props="242.200" outputclass="subtopic" audience="DFARS_242.200" xtrf="subtopic" xtrc="DFARS_242.200.html">
                   <topicref navtitle="242.200-70 Scope of subpart." base="concept" href="242.200-70.dita" props="242.200-70" outputclass="subtopic" audience="DFARS_242.200-70" xtrf="subtopic" xtrc="DFARS_242.200-70.html" />
@@ -2093,7 +2093,7 @@
                <topicref navtitle="242.301 General." base="concept" href="242.301.dita" props="242.301" outputclass="subtopic" audience="DFARS_242.301" xtrf="subtopic" xtrc="DFARS_242.301.html" />
                <topicref navtitle="242.302 Contract administration functions." base="concept" href="242.302.dita" props="242.302" outputclass="subtopic" audience="DFARS_242.302" xtrf="subtopic" xtrc="DFARS_242.302.html" />
             </topicref>
-            <topicref navtitle="SUBPART 242.4" base="NoTitle" href="SUBPART_242.4.dita" props="Subpart 242.4" outputclass="subtopic" audience="DFARS_SUBPART_242.4" xtrf="subtopic" xtrc="DFARS_SUBPART_242.4.html" />
+            <topicref navtitle="SUBPART 242.4" base="NoTitle" href="SUBPART_242.4.dita" props="Subpart 242.4" outputclass="SubPart" audience="DFARS_SUBPART_242.4" xtrf="subtopic" xtrc="DFARS_SUBPART_242.4.html" />
             <topicref navtitle="SUBPART 242.5 —POSTAWARD ORIENTATION" base="NoTitle" href="SUBPART_242.5.dita" props="Subpart 242.5" outputclass="SubPart" audience="DFARS_SUBPART_242.5" xtrf="SubPart" xtrc="DFARS_SUBPART_242.5.html">
                <topicref navtitle="242.503 Postaward conferences." base="concept" href="242.503.dita" props="242.503" outputclass="subtopic" audience="DFARS_242.503" xtrf="subtopic" xtrc="DFARS_242.503.html">
                   <topicref navtitle="242.503-2 Postaward conference procedure." base="concept" href="242.503-2.dita" props="242.503-2" outputclass="subtopic" audience="DFARS_242.503-2" xtrf="subtopic" xtrc="DFARS_242.503-2.html" />
@@ -2127,7 +2127,7 @@
                <topicref navtitle="242.1203 Processing agreements." base="concept" href="242.1203.dita" props="242.1203" outputclass="subtopic" audience="DFARS_242.1203" xtrf="subtopic" xtrc="DFARS_242.1203.html" />
                <topicref navtitle="242.1204           Applicability of novation agreements.       " base="concept" href="242.1204.dita" props="242.1204" outputclass="subtopic" audience="DFARS_242.1204" xtrf="subtopic" xtrc="DFARS_242.1204.html" />
             </topicref>
-            <topicref navtitle="SUBPART 242.14 —TRAFFIC AND TRANSPORTATION MANAGEMENT" base="NoTitle" href="SUBPART_242.14.dita" props="Subpart 242.14" outputclass="subtopic" audience="DFARS_SUBPART_242.14" xtrf="subtopic" xtrc="DFARS_SUBPART_242.14.html" />
+            <topicref navtitle="SUBPART 242.14 —TRAFFIC AND TRANSPORTATION MANAGEMENT" base="NoTitle" href="SUBPART_242.14.dita" props="Subpart 242.14" outputclass="SubPart" audience="DFARS_SUBPART_242.14" xtrf="subtopic" xtrc="DFARS_SUBPART_242.14.html" />
             <topicref navtitle="SUBPART 242.15 —CONTRACTOR PERFORMANCE INFORMATION" base="NoTitle" href="SUBPART_242.15.dita" props="Subpart 242.15" outputclass="SubPart" audience="DFARS_SUBPART_242.15" xtrf="SubPart" xtrc="DFARS_SUBPART_242.15.html">
                <topicref navtitle="242.1502 Policy." base="concept" href="242.1502.dita" props="242.1502" outputclass="subtopic" audience="DFARS_242.1502" xtrf="subtopic" xtrc="DFARS_242.1502.html" />
             </topicref>
@@ -2268,9 +2268,9 @@
                   <topicref navtitle="245.7001-6 DLA Form 1822, End Use Certificate." base="concept" href="245.7001-6.dita" props="245.7001-6" outputclass="subtopic" audience="DFARS_245.7001-6" xtrf="subtopic" xtrc="DFARS_245.7001-6.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 245.71 —PLANT CLEARANCE FORMS" base="NoTitle" href="SUBPART_245.71.dita" props="Subpart 245.71" outputclass="subtopic" audience="DFARS_SUBPART_245.71" xtrf="subtopic" xtrc="DFARS_SUBPART_245.71.html" />
-            <topicref navtitle="SUBPART 245.72 —SPECIAL INSTRUCTIONS" base="NoTitle" href="SUBPART_245.72.dita" props="Subpart 245.72" outputclass="subtopic" audience="DFARS_SUBPART_245.72" xtrf="subtopic" xtrc="DFARS_SUBPART_245.72.html" />
-            <topicref navtitle="SUBPART 245.73 —SALE OF SURPLUS CONTRACTOR INVENTORY" base="NoTitle" href="SUBPART_245.73.dita" props="Subpart 245.73" outputclass="subtopic" audience="DFARS_SUBPART_245.73" xtrf="subtopic" xtrc="DFARS_SUBPART_245.73.html" />
+            <topicref navtitle="SUBPART 245.71 —PLANT CLEARANCE FORMS" base="NoTitle" href="SUBPART_245.71.dita" props="Subpart 245.71" outputclass="SubPart" audience="DFARS_SUBPART_245.71" xtrf="subtopic" xtrc="DFARS_SUBPART_245.71.html" />
+            <topicref navtitle="SUBPART 245.72 —SPECIAL INSTRUCTIONS" base="NoTitle" href="SUBPART_245.72.dita" props="Subpart 245.72" outputclass="SubPart" audience="DFARS_SUBPART_245.72" xtrf="subtopic" xtrc="DFARS_SUBPART_245.72.html" />
+            <topicref navtitle="SUBPART 245.73 —SALE OF SURPLUS CONTRACTOR INVENTORY" base="NoTitle" href="SUBPART_245.73.dita" props="Subpart 245.73" outputclass="SubPart" audience="DFARS_SUBPART_245.73" xtrf="subtopic" xtrc="DFARS_SUBPART_245.73.html" />
          </topicref>
          <topicref navtitle="PART 246 - QUALITY ASSURANCE" base="NoTitle" href="PART_246.dita" props="Part 246" outputclass="Part" audience="DFARS_PART_246" xtrf="Part" xtrc="DFARS_PART_246.html">
             <topicref navtitle="SUBPART 246.1 —GENERAL" base="NoTitle" href="SUBPART_246.1.dita" props="Subpart 246.1" outputclass="SubPart" audience="DFARS_SUBPART_246.1" xtrf="SubPart" xtrc="DFARS_SUBPART_246.1.html">
@@ -2298,9 +2298,9 @@
                <topicref navtitle="246.404 Government contract quality assurance for acquisitions at or below the simplified acquisition threshold." base="concept" href="246.404.dita" props="246.404" outputclass="subtopic" audience="DFARS_246.404" xtrf="subtopic" xtrc="DFARS_246.404.html" />
                <topicref navtitle="246.406 Foreign governments." base="concept" href="246.406.dita" props="246.406" outputclass="subtopic" audience="DFARS_246.406" xtrf="subtopic" xtrc="DFARS_246.406.html" />
                <topicref navtitle="246.407 Nonconforming supplies or services." base="concept" href="246.407.dita" props="246.407" outputclass="subtopic" audience="DFARS_246.407" xtrf="subtopic" xtrc="DFARS_246.407.html" />
-               <topicref navtitle="246.408 Single-agency assignments of Government contract quality assurance." base="concept" href="246.408.dita" props="246.408" outputclass="subtopic" audience="DFARS_246.408" xtrf="subtopic" xtrc="DFARS_246.408.html">
+               <topicref navtitle="246.408 Single-agency assignments of Government contract quality assurance." base="concept" href="246.408.dita" props="246.408 Single-agency assignments of Government contract quality assurance." outputclass="subtopic" audience="DFARS_246.408" xtrf="subtopic" xtrc="DFARS_246.408.html">
                   <topicref navtitle="246.408-70 Subsistence." base="concept" href="246.408-70.dita" props="246.408-70" outputclass="subtopic" audience="DFARS_246.408-70" xtrf="subtopic" xtrc="DFARS_246.408-70.html" />
-                  <topicref navtitle="246.408-71 Aircraft." base="concept" href="246.408-71.dita" props="246.408-71" outputclass="subtopic" audience="DFARS_246.408-71" xtrf="subtopic" xtrc="DFARS_246.408-71.html" />
+                  <topicref navtitle="246.408-71 Aircraft." base="concept" href="246.408-71.dita" props="246.408-71 Aircraft." outputclass="subtopic" audience="DFARS_246.408-71" xtrf="subtopic" xtrc="DFARS_246.408-71.html" />
                </topicref>
                <topicref navtitle="246.470 Government contract quality assurance actions." base="concept" href="246.470.dita" props="246.470" outputclass="subtopic" audience="DFARS_246.470" xtrf="subtopic" xtrc="DFARS_246.470.html">
                   <topicref navtitle="246.470-1 Assessment of additional costs." base="concept" href="246.470-1.dita" props="246.470-1" outputclass="subtopic" audience="DFARS_246.470-1" xtrf="subtopic" xtrc="DFARS_246.470-1.html" />
@@ -2378,7 +2378,7 @@
             </topicref>
          </topicref>
          <topicref navtitle="PART 248 - RESERVED" base="NoTitle" href="PART_248.dita" props="Part 248" outputclass="Part" audience="DFARS_PART_248" xtrf="Part" xtrc="DFARS_PART_248.html">
-            <topicref navtitle="SUBPART 248.2 —(REMOVED)" base="NoTitle" href="SUBPART_248.2.dita" props="Subpart 248.2" outputclass="subtopic" audience="DFARS_SUBPART_248.2" xtrf="subtopic" xtrc="DFARS_SUBPART_248.2.html" />
+            <topicref navtitle="SUBPART 248.2 —(REMOVED)" base="NoTitle" href="SUBPART_248.2.dita" props="Subpart 248.2" outputclass="SubPart" audience="DFARS_SUBPART_248.2" xtrf="subtopic" xtrc="DFARS_SUBPART_248.2.html" />
          </topicref>
          <topicref navtitle="PART 249 - TERMINATION OF CONTRACTS" base="NoTitle" href="PART_249.dita" props="Part 249" outputclass="Part" audience="DFARS_PART_249" xtrf="Part" xtrc="DFARS_PART_249.html">
             <topicref navtitle="SUBPART 249.1 —GENERAL PRINCIPLES" base="NoTitle" href="SUBPART_249.1.dita" props="Subpart 249.1" outputclass="SubPart" audience="DFARS_SUBPART_249.1" xtrf="SubPart" xtrc="DFARS_SUBPART_249.1.html">
@@ -2406,7 +2406,7 @@
             </topicref>
          </topicref>
          <topicref navtitle="PART 250 - EXTRAORDINARY CONTRACTUAL ACTIONS" base="NoTitle" href="PART_250.dita" props="Part 250" outputclass="Part" audience="DFARS_PART_250" xtrf="Part" xtrc="DFARS_PART_250.html">
-            <topicref navtitle="SUBPART 250.0" base="NoTitle" href="SUBPART_250.0.dita" props="Subpart 250.0" outputclass="subtopic" audience="DFARS_SUBPART_250.0" xtrf="subtopic" xtrc="DFARS_SUBPART_250.0.html" />
+            <topicref navtitle="SUBPART 250.0" base="NoTitle" href="SUBPART_250.0.dita" props="Subpart 250.0" outputclass="SubPart" audience="DFARS_SUBPART_250.0" xtrf="subtopic" xtrc="DFARS_SUBPART_250.0.html" />
             <topicref navtitle="SUBPART 250.1 —EXTRAORDINARY CONTRACTUAL ACTIONS" base="NoTitle" href="SUBPART_250.1.dita" props="Subpart 250.1" outputclass="SubPart" audience="DFARS_SUBPART_250.1" xtrf="SubPart" xtrc="DFARS_SUBPART_250.1.html">
                <topicref navtitle="250.100 Definitions." base="concept" href="250.100.dita" props="250.100" outputclass="subtopic" audience="DFARS_250.100" xtrf="subtopic" xtrc="DFARS_250.100.html" />
                <topicref navtitle="250.101 General." base="concept" href="250.101.dita" props="250.101" outputclass="subtopic" audience="DFARS_250.101" xtrf="subtopic" xtrc="DFARS_250.101.html">
@@ -2432,9 +2432,9 @@
                   </topicref>
                </topicref>
             </topicref>
-            <topicref navtitle="SUBPART 250.2 DELETED (NO DFARS TEXT)" base="NoTitle" href="SUBPART_250.2.dita" props="Subpart 250.2" outputclass="subtopic" audience="DFARS_SUBPART_250.2" xtrf="subtopic" xtrc="DFARS_SUBPART_250.2.html" />
-            <topicref navtitle="SUBPART 250.3 DELETED (NO DFARS TEXT)" base="NoTitle" href="SUBPART_250.3.dita" props="Subpart 250.3" outputclass="subtopic" audience="DFARS_SUBPART_250.3" xtrf="subtopic" xtrc="DFARS_SUBPART_250.3.html" />
-            <topicref navtitle="SUBPART 250.4 DELETED (NO DFARS TEXT)" base="NoTitle" href="SUBPART_250.4.dita" props="Subpart 250.4" outputclass="subtopic" audience="DFARS_SUBPART_250.4" xtrf="subtopic" xtrc="DFARS_SUBPART_250.4.html" />
+            <topicref navtitle="SUBPART 250.2 DELETED (NO DFARS TEXT)" base="NoTitle" href="SUBPART_250.2.dita" props="Subpart 250.2" outputclass="SubPart" audience="DFARS_SUBPART_250.2" xtrf="subtopic" xtrc="DFARS_SUBPART_250.2.html" />
+            <topicref navtitle="SUBPART 250.3 DELETED (NO DFARS TEXT)" base="NoTitle" href="SUBPART_250.3.dita" props="Subpart 250.3" outputclass="SubPart" audience="DFARS_SUBPART_250.3" xtrf="subtopic" xtrc="DFARS_SUBPART_250.3.html" />
+            <topicref navtitle="SUBPART 250.4 DELETED (NO DFARS TEXT)" base="NoTitle" href="SUBPART_250.4.dita" props="Subpart 250.4" outputclass="SubPart" audience="DFARS_SUBPART_250.4" xtrf="subtopic" xtrc="DFARS_SUBPART_250.4.html" />
          </topicref>
          <topicref navtitle="PART 251 - USE OF GOVERNMENT SOURCES BY CONTRACTORS" base="NoTitle" href="PART_251.dita" props="Part 251" outputclass="Part" audience="DFARS_PART_251" xtrf="Part" xtrc="DFARS_PART_251.html">
             <topicref navtitle="SUBPART 251.1 —CONTRACTOR USE OF GOVERNMENT SUPPLY SOURCES" base="NoTitle" href="SUBPART_251.1.dita" props="Subpart 251.1" outputclass="SubPart" audience="DFARS_SUBPART_251.1" xtrf="SubPart" xtrc="DFARS_SUBPART_251.1.html">
@@ -2450,7 +2450,7 @@
       </topicref>
    </topicref>
    <topicref navtitle="SUBCHAPTER H—CLAUSES AND FORMS" base="NoTitle" href="Subchapter_H.dita" props="Subchapter H" outputclass="SubChapter" audience="DFARS_Subchapter_h" xtrf="SubChapter" xtrc="DFARS_Subchapter_h.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_H.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_h" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_h.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_H.dita" props="Defense Federal Acquisition Regulation" audience="DFAR_h" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_h.html">
          <topicref navtitle="PART 252 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES" base="NoTitle" href="PART_252.dita" props="Part 252" outputclass="Part" audience="DFARS_PART_252" xtrf="Part" xtrc="DFARS_PART_252.html">
             <topicref navtitle="SUBPART 252.1 —INSTRUCTIONS FOR USING PROVISIONS AND CLAUSES" base="NoTitle" href="SUBPART_252.1.dita" props="Subpart 252.1" outputclass="SubPart" audience="DFARS_SUBPART_252.1" xtrf="SubPart" xtrc="DFARS_SUBPART_252.1.html">
                <topicref navtitle="252.101           Using part 252.       " base="concept" href="252.101.dita" props="252.101" outputclass="subtopic" audience="DFARS_252.101" xtrf="subtopic" xtrc="DFARS_252.101.html" />
@@ -2979,10 +2979,10 @@
       </topicref>
    </topicref>
    <topicref navtitle="SUBCHAPTER I—AGENCY SUPPLEMENTARY REGULATIONS" base="NoTitle" href="Subchapter_I.dita" props="Subchapter I" outputclass="SubChapter" audience="DFARS_Subchapter_i" xtrf="SubChapter" xtrc="DFARS_Subchapter_i.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_I.dita" props="DFAR I" audience="DFAR_i" outputclass="subtopic" xtrf="subtopic" xtrc="DFAR_i.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFAR_I.dita" props="DFAR I" audience="DFAR_i" outputclass="SubPart" xtrf="subtopic" xtrc="DFAR_i.html">
          <topicref navtitle="APPENDIX A —ARMED SERVICES BOARD OF CONTRACT APPEALS" base="NoTitle" href="Appendix_A.dita" props="APPENDIX A -ARMED SERVICES BOARD OF CONTRACT APPEALS" outputclass="Part" audience="Appendix_A" xtrf="Part" xtrc="Appendix_A.html">
             <topicref navtitle="Part 1—Charter" base="NoTitle" href="Appendix-id2064F0Q30Y4.dita" props="Appendix-id2064F0Q30Y4" outputclass="SubPart" audience="id2064F0Q30Y4" xtrf="SubPart" xtrc="id2064F0Q30Y4.html">
-               <topicref navtitle="Part 2—Rules" base="NoTitle" href="Appendix-id2064F0Q30HS.dita" props="Part 2" outputclass="subtopic" audience="id2064F0Q30HS" xtrf="subtopic" xtrc="id2064F0Q30HS.html">
+               <topicref navtitle="Part 2—Rules" base="NoTitle" href="Appendix-id2064F0Q30HS.dita" props="Part 2 -Rules" outputclass="subtopic" audience="id2064F0Q30HS" xtrf="subtopic" xtrc="id2064F0Q30HS.html">
                   <topicref navtitle="PREFACE" base="NoTitle" href="Appendix-id2064F0Q30UI.dita" props="Appendix-id2064F0Q30UI" outputclass="subtopic" audience="id2064F0Q30UI" xtrf="subtopic" xtrc="id2064F0Q30UI.html">
                      <topicref navtitle="I. JURISDICTION FOR CONSIDERING APPEALS" base="concept" href="Appendix-id2064F0S0NEX.dita" props="Appendix-id2064F0S0NEX" audience="id2064F0S0NEX" outputclass="subtopic" xtrf="subtopic" xtrc="id2064F0S0NEX.html" />
                      <topicref navtitle="II. LOCATION AND ORGANIZATION OF THE BOARD" base="concept" href="Appendix-id2064F0S0NYE.dita" props="Appendix-id2064F0S0NYE" audience="id2064F0S0NYE" outputclass="subtopic" xtrf="subtopic" xtrc="id2064F0S0NYE.html" />
@@ -3020,23 +3020,23 @@
                   </topicref>
                </topicref>
             </topicref>
-            <topicref navtitle="Part 1—Charter" base="NoTitle" href="Appendix-id2064F0Q30HT.dita" props="Part 1" outputclass="subtopic" audience="id2064F0Q30HT" xtrf="subtopic" xtrc="id2064F0Q30HT.html" />
+            <topicref navtitle="Part 1—Charter" base="NoTitle" href="Appendix-id2064F0Q30HT.dita" props="Part 1 -Charter" outputclass="SubPart" audience="id2064F0Q30HT" xtrf="subtopic" xtrc="id2064F0Q30HT.html" />
          </topicref>
          <topicref navtitle="APPENDIX B —RESERVED" base="NoTitle" href="Appendix_B.dita" props="APPENDIX B -RESERVED" outputclass="Part" audience="Appendix_B" xtrf="Part" xtrc="Appendix_B.html" />
          <topicref navtitle="APPENDIX C —RESERVED" base="NoTitle" href="Appendix_C.dita" props="APPENDIX C -RESERVED" outputclass="Part" audience="Appendix_C" xtrf="Part" xtrc="Appendix_C.html" />
          <topicref navtitle="APPENDIX D —RESERVED" base="NoTitle" href="Appendix_D.dita" props="APPENDIX D -RESERVED" outputclass="Part" audience="Appendix_D" xtrf="Part" xtrc="Appendix_D.html" />
          <topicref navtitle="APPENDIX E —RESERVED" base="NoTitle" href="Appendix_E.dita" props="APPENDIX E -RESERVED" outputclass="Part" audience="Appendix_E" xtrf="Part" xtrc="Appendix_E.html" />
          <topicref navtitle="APPENDIX F —MATERIAL INSPECTION AND RECEIVING REPORT" base="NoTitle" href="Appendix_F.dita" props="APPENDIX F -MATERIAL INSPECTION AND RECEIVING REPORT" outputclass="Part" audience="Appendix_F" xtrf="Part" xtrc="Appendix_F.html">
-            <topicref navtitle="PART 1—INTRODUCTION" base="NoTitle" href="Appendix-id2064F0Q30E9.dita" props="Part 1" outputclass="SubPart" audience="id2064F0Q30E9" xtrf="SubPart" xtrc="id2064F0Q30E9.html">
+            <topicref navtitle="PART 1—INTRODUCTION" base="NoTitle" href="Appendix-id2064F0Q30E9.dita" props="Part 1 -INTRODUCTION" outputclass="SubPart" audience="id2064F0Q30E9" xtrf="SubPart" xtrc="id2064F0Q30E9.html">
                <topicref navtitle="F-101 General." base="concept" href="Appendix-id2064F0S0NLG.dita" props="F-101" outputclass="subtopic" audience="id2064F0S0NLG" xtrf="subtopic" xtrc="id2064F0S0NLG.html" />
                <topicref navtitle="F-102Applicability." base="concept" href="Appendix-id2064F0S0NYA.dita" props="F-102" outputclass="subtopic" audience="id2064F0S0NYA" xtrf="subtopic" xtrc="id2064F0S0NYA.html" />
                <topicref navtitle="F-103 Use." base="concept" href="Appendix-id2064F0S0N3N.dita" props="F-103" outputclass="subtopic" audience="id2064F0S0N3N" xtrf="subtopic" xtrc="id2064F0S0N3N.html" />
                <topicref navtitle="F-104 Application." base="concept" href="Appendix-id2064F0S0N7X.dita" props="F-104" outputclass="subtopic" audience="id2064F0S0N7X" xtrf="subtopic" xtrc="id2064F0S0N7X.html" />
             </topicref>
-            <topicref navtitle="PART 2—CONTRACT QUALITY ASSURANCE ON SHIPMENTS BETWEEN CONTRACTORS" base="NoTitle" href="Appendix-id2064F0Q304Y.dita" props="Part 2" outputclass="SubPart" audience="id2064F0Q304Y" xtrf="SubPart" xtrc="id2064F0Q304Y.html">
+            <topicref navtitle="PART 2—CONTRACT QUALITY ASSURANCE ON SHIPMENTS BETWEEN CONTRACTORS" base="NoTitle" href="Appendix-id2064F0Q304Y.dita" props="Part 2 -CONTRACT QUALITY ASSURANCE ON SHIPMENTS BETWEEN CONTRACTORS" outputclass="SubPart" audience="id2064F0Q304Y" xtrf="SubPart" xtrc="id2064F0Q304Y.html">
                <topicref navtitle="F-201Procedures." base="concept" href="Appendix-id2064F0S0NDB.dita" props="F-201" outputclass="subtopic" audience="id2064F0S0NDB" xtrf="subtopic" xtrc="id2064F0S0NDB.html" />
             </topicref>
-            <topicref navtitle="PART 3—PREPARATION OF THE WIDE AREA WORKFLOW (WAWF) RECEIVING REPORT (RR), WAWF REPARABLE RECEIVING REPORT (WAWF RRR), AND WAWF ENERGY RR" base="NoTitle" href="Appendix-id2064F0Q30XW.dita" props="Part 3" outputclass="SubPart" audience="id2064F0Q30XW" xtrf="SubPart" xtrc="id2064F0Q30XW.html">
+            <topicref navtitle="PART 3—PREPARATION OF THE WIDE AREA WORKFLOW (WAWF) RECEIVING REPORT (RR), WAWF REPARABLE RECEIVING REPORT (WAWF RRR), AND WAWF ENERGY RR" base="NoTitle" href="Appendix-id2064F0Q30XW.dita" props="Part 3 -PREPARATION OF THE WIDE AREA WORKFLOW WAWF RECEIVING REPORT RR WAWF REPARABLE RECEIVING REPORT WAWF RRR AND WAWF ENERGY RR" outputclass="SubPart" audience="id2064F0Q30XW" xtrf="SubPart" xtrc="id2064F0Q30XW.html">
                <topicref navtitle="F-301Preparation instructions." base="concept" href="Appendix-id2064F0S0NXF.dita" props="F-301" outputclass="subtopic" audience="id2064F0S0NXF" xtrf="subtopic" xtrc="id2064F0S0NXF.html" />
                <topicref navtitle="F-302Mode/method of shipment codes." base="concept" href="Appendix-id2064F0S0N5H.dita" props="F-302" outputclass="subtopic" audience="id2064F0S0N5H" xtrf="subtopic" xtrc="id2064F0S0N5H.html" />
                <topicref navtitle="F-303Consolidated shipments." base="concept" href="Appendix-id2064F0S0NP2.dita" props="F-303" outputclass="subtopic" audience="id2064F0S0NP2" xtrf="subtopic" xtrc="id2064F0S0NP2.html" />
@@ -3045,7 +3045,7 @@
                <topicref navtitle="F-306 Packing list instructions." base="concept" href="Appendix-id2064F0S0N2Y.dita" props="F-306" outputclass="subtopic" audience="id2064F0S0N2Y" xtrf="subtopic" xtrc="id2064F0S0N2Y.html" />
                <topicref navtitle="F-307Receiving instructions." base="concept" href="Appendix-id2064F0S0NX8.dita" props="F-307" outputclass="subtopic" audience="id2064F0S0NX8" xtrf="subtopic" xtrc="id2064F0S0NX8.html" />
             </topicref>
-            <topicref navtitle="PART 4—PREPARATION OF THE DD FORM 250 AND DD FORM 250C" base="NoTitle" href="Appendix-id2064F0Q40QN.dita" props="Part 4" outputclass="SubPart" audience="id2064F0Q40QN" xtrf="SubPart" xtrc="id2064F0Q40QN.html">
+            <topicref navtitle="PART 4—PREPARATION OF THE DD FORM 250 AND DD FORM 250C" base="NoTitle" href="Appendix-id2064F0Q40QN.dita" props="Part 4 -PREPARATION OF THE DD FORM 250 AND DD FORM 250C" outputclass="SubPart" audience="id2064F0Q40QN" xtrf="SubPart" xtrc="id2064F0Q40QN.html">
                <topicref navtitle="F-401Preparation instructions." base="concept" href="Appendix-id2064F0S0N0B.dita" props="F-401" outputclass="subtopic" audience="id2064F0S0N0B" xtrf="subtopic" xtrc="id2064F0S0N0B.html" />
                <topicref navtitle="F-402Mode/method of shipment codes. See paragraph F302." base="concept" href="Appendix-id2064F0S0N6Z.dita" props="F-402" outputclass="subtopic" audience="id2064F0S0N6Z" xtrf="subtopic" xtrc="id2064F0S0N6Z.html" />
                <topicref navtitle="F-403Consolidated shipments." base="concept" href="Appendix-id2064F0S0NMN.dita" props="F-403" outputclass="subtopic" audience="id2064F0S0NMN" xtrf="subtopic" xtrc="id2064F0S0NMN.html" />
@@ -3055,36 +3055,36 @@
                <topicref navtitle="F-407Packing list instructions." base="concept" href="Appendix-id2064F0S0N2E.dita" props="F-407" outputclass="subtopic" audience="id2064F0S0N2E" xtrf="subtopic" xtrc="id2064F0S0N2E.html" />
                <topicref navtitle="F-408Receiving instructions." base="concept" href="Appendix-id2064F0S0NVK.dita" props="F-408" outputclass="subtopic" audience="id2064F0S0NVK" xtrf="subtopic" xtrc="id2064F0S0NVK.html" />
             </topicref>
-            <topicref navtitle="PART 5—DISTRIBUTION OF WIDE AREA WORKFLOW RECEIVING REPORT (WAWF RR), DD FORM 250 AND DD FORM 250C" base="NoTitle" href="Appendix-id2064F0Q40BI.dita" props="Part 5" outputclass="SubPart" audience="id2064F0Q40BI" xtrf="SubPart" xtrc="id2064F0Q40BI.html">
+            <topicref navtitle="PART 5—DISTRIBUTION OF WIDE AREA WORKFLOW RECEIVING REPORT (WAWF RR), DD FORM 250 AND DD FORM 250C" base="NoTitle" href="Appendix-id2064F0Q40BI.dita" props="Part 5 -DISTRIBUTION OF WIDE AREA WORKFLOW RECEIVING REPORT WAWF RR DD FORM 250 AND DD FORM 250C" outputclass="SubPart" audience="id2064F0Q40BI" xtrf="SubPart" xtrc="id2064F0Q40BI.html">
                <topicref navtitle="F-501Distribution of WAWF RR." base="concept" href="Appendix-id2064F0S0NE4.dita" props="F-501" outputclass="subtopic" audience="id2064F0S0NE4" xtrf="subtopic" xtrc="id2064F0S0NE4.html" />
                <topicref navtitle="F- 502 Distribution of DD FORM 250 AND DD FORM 250C." base="concept" href="Appendix-id2064F0S0NO9.dita" props="F- 502" outputclass="subtopic" audience="id2064F0S0NO9" xtrf="subtopic" xtrc="id2064F0S0NO9.html" />
             </topicref>
-            <topicref navtitle="PART 6—PREPARATION OF THE DD FORM 250-1 (LOADING REPORT)" base="NoTitle" href="Appendix-id2064F0Q40BUI.dita" props="Part 6" outputclass="SubPart" audience="id2064F0Q40BUI" xtrf="SubPart" xtrc="id2064F0Q40BUI.html">
+            <topicref navtitle="PART 6—PREPARATION OF THE DD FORM 250-1 (LOADING REPORT)" base="NoTitle" href="Appendix-id2064F0Q40BUI.dita" props="Part 6 -PREPARATION OF THE DD FORM 250-1 LOADING REPORT" outputclass="SubPart" audience="id2064F0Q40BUI" xtrf="SubPart" xtrc="id2064F0Q40BUI.html">
                <topicref navtitle="F-601 Instructions." base="concept" href="Appendix-id2064F0S0OOF.dita" props="F-601" outputclass="subtopic" audience="id2064F0S0OOF" xtrf="subtopic" xtrc="id2064F0S0OOF.html" />
             </topicref>
-            <topicref navtitle="PART 7—PREPARATION OF THE DD FORM 250-1 (DISCHARGE REPORT)" base="NoTitle" href="Appendix-id2064F0Q40X4.dita" props="Part 7" outputclass="SubPart" audience="id2064F0Q40X4" xtrf="SubPart" xtrc="id2064F0Q40X4.html">
+            <topicref navtitle="PART 7—PREPARATION OF THE DD FORM 250-1 (DISCHARGE REPORT)" base="NoTitle" href="Appendix-id2064F0Q40X4.dita" props="Part 7 -PREPARATION OF THE DD FORM 250-1 DISCHARGE REPORT" outputclass="SubPart" audience="id2064F0Q40X4" xtrf="SubPart" xtrc="id2064F0Q40X4.html">
                <topicref navtitle="F-701Instructions." base="concept" href="Appendix-id2064F0S0OC4.dita" props="F-701" outputclass="subtopic" audience="id2064F0S0OC4" xtrf="subtopic" xtrc="id2064F0S0OC4.html" />
             </topicref>
-            <topicref navtitle="PART 8—DISTRIBUTION OF THE DD FORM 250-1" base="NoTitle" href="Appendix-id2064F0Q40ZJ.dita" props="Part 8" outputclass="SubPart" audience="id2064F0Q40ZJ" xtrf="SubPart" xtrc="id2064F0Q40ZJ.html">
+            <topicref navtitle="PART 8—DISTRIBUTION OF THE DD FORM 250-1" base="NoTitle" href="Appendix-id2064F0Q40ZJ.dita" props="Part 8 -DISTRIBUTION OF THE DD FORM 250-1" outputclass="SubPart" audience="id2064F0Q40ZJ" xtrf="SubPart" xtrc="id2064F0Q40ZJ.html">
                <topicref navtitle="F-801Distribution." base="concept" href="Appendix-id2064F0S0O1I.dita" props="F-801" outputclass="subtopic" audience="id2064F0S0O1I" xtrf="subtopic" xtrc="id2064F0S0O1I.html" />
                <topicref navtitle="F-802Corrected DD Form 250-1." base="concept" href="Appendix-id2064F0S0OHJ.dita" props="F-802" outputclass="subtopic" audience="id2064F0S0OHJ" xtrf="subtopic" xtrc="id2064F0S0OHJ.html" />
             </topicref>
          </topicref>
          <topicref navtitle="APPENDIX G —RESERVED" base="NoTitle" href="Appendix_G.dita" props="APPENDIX G -RESERVED" outputclass="Part" audience="Appendix_G" xtrf="Part" xtrc="Appendix_G.html">
-            <topicref navtitle="PART 1—GENERAL" base="NoTitle" href="Appendix-id2064F0Q40BF.dita" props="Appendix-id2064F0Q40BF" outputclass="subtopic" audience="id2064F0Q40BF" xtrf="subtopic" xtrc="id2064F0Q40BF.html" />
-            <topicref navtitle="PART 2—ARMY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q402L.dita" props="Part 2" outputclass="subtopic" audience="id2064F0Q402L" xtrf="subtopic" xtrc="id2064F0Q402L.html" />
-            <topicref navtitle="PART 3—NAVY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40XK.dita" props="Part 3" outputclass="subtopic" audience="id2064F0Q40XK" xtrf="subtopic" xtrc="id2064F0Q40XK.html" />
-            <topicref navtitle="PART 4—MARINE CORPS ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40L7.dita" props="Part 4" outputclass="subtopic" audience="id2064F0Q40L7" xtrf="subtopic" xtrc="id2064F0Q40L7.html" />
-            <topicref navtitle="PART 5—AIR FORCE ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40TS.dita" props="Part 5" outputclass="subtopic" audience="id2064F0Q40TS" xtrf="subtopic" xtrc="id2064F0Q40TS.html" />
-            <topicref navtitle="PART 6—DEFENSE LOGISTICS AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40NW.dita" props="Part 6" outputclass="subtopic" audience="id2064F0Q40NW" xtrf="subtopic" xtrc="id2064F0Q40NW.html" />
-            <topicref navtitle="PART 7—DEFENSE INFORMATION SYSTEMS AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40AX.dita" props="Part 7" outputclass="subtopic" audience="id2064F0Q40AX" xtrf="subtopic" xtrc="id2064F0Q40AX.html" />
-            <topicref navtitle="PART 8—NATIONAL IMAGERY AND MAPPING AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40L7U.dita" props="Part 8" outputclass="subtopic" audience="id2064F0Q40L7U" xtrf="subtopic" xtrc="id2064F0Q40L7U.html" />
-            <topicref navtitle="PART 9—DEFENSE THREAT REDUCTION AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40BL.dita" props="Part 9" outputclass="subtopic" audience="id2064F0Q40BL" xtrf="subtopic" xtrc="id2064F0Q40BL.html" />
-            <topicref navtitle="PART 10—MISCELLANEOUS DEFENSE ACTIVITIES ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40PM.dita" props="Part 10" outputclass="subtopic" audience="id2064F0Q40PM" xtrf="subtopic" xtrc="id2064F0Q40PM.html" />
-            <topicref navtitle="PART 11—DEFENSE MICROELECTRONICS ACTIVITY" base="NoTitle" href="Appendix-id2064F0Q404B.dita" props="Part 11" outputclass="subtopic" audience="id2064F0Q404B" xtrf="subtopic" xtrc="id2064F0Q404B.html" />
-            <topicref navtitle="PART 12—MISSILE DEFENSE AGENCY ACTIVITY" base="NoTitle" href="Appendix-id2064F0Q40E6.dita" props="Part 12" outputclass="subtopic" audience="id2064F0Q40E6" xtrf="subtopic" xtrc="id2064F0Q40E6.html" />
-            <topicref navtitle="PART 13—DEFENSE COMMISSARY AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q400A.dita" props="Part 13" outputclass="subtopic" audience="id2064F0Q400A" xtrf="subtopic" xtrc="id2064F0Q400A.html" />
-            <topicref navtitle="PART 14—UNITED STATES SPECIAL OPERATIONS COMMAND ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q404E.dita" props="Part 14" outputclass="subtopic" audience="id2064F0Q404E" xtrf="subtopic" xtrc="id2064F0Q404E.html" />
+            <topicref navtitle="PART 1—GENERAL" base="NoTitle" href="Appendix-id2064F0Q40BF.dita" props="Appendix-id2064F0Q40BF" outputclass="SubPart" audience="id2064F0Q40BF" xtrf="subtopic" xtrc="id2064F0Q40BF.html" />
+            <topicref navtitle="PART 2—ARMY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q402L.dita" props="Part 2 -ARMY ACTIVITY ADDRESS NUMBERS" outputclass="SubPart" audience="id2064F0Q402L" xtrf="subtopic" xtrc="id2064F0Q402L.html" />
+            <topicref navtitle="PART 3—NAVY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40XK.dita" props="Part 3 -NAVY ACTIVITY ADDRESS NUMBERS" outputclass="SubPart" audience="id2064F0Q40XK" xtrf="subtopic" xtrc="id2064F0Q40XK.html" />
+            <topicref navtitle="PART 4—MARINE CORPS ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40L7.dita" props="Part 4 -MARINE CORPS ACTIVITY ADDRESS NUMBERS" outputclass="SubPart" audience="id2064F0Q40L7" xtrf="subtopic" xtrc="id2064F0Q40L7.html" />
+            <topicref navtitle="PART 5—AIR FORCE ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40TS.dita" props="Part 5 -AIR FORCE ACTIVITY ADDRESS NUMBERS" outputclass="SubPart" audience="id2064F0Q40TS" xtrf="subtopic" xtrc="id2064F0Q40TS.html" />
+            <topicref navtitle="PART 6—DEFENSE LOGISTICS AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40NW.dita" props="Part 6 -DEFENSE LOGISTICS AGENCY ACTIVITY ADDRESS NUMBERS" outputclass="SubPart" audience="id2064F0Q40NW" xtrf="subtopic" xtrc="id2064F0Q40NW.html" />
+            <topicref navtitle="PART 7—DEFENSE INFORMATION SYSTEMS AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40AX.dita" props="Part 7 -DEFENSE INFORMATION SYSTEMS AGENCY ACTIVITY ADDRESS NUMBERS" outputclass="SubPart" audience="id2064F0Q40AX" xtrf="subtopic" xtrc="id2064F0Q40AX.html" />
+            <topicref navtitle="PART 8—NATIONAL IMAGERY AND MAPPING AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40L7U.dita" props="Part 8 -NATIONAL IMAGERY AND MAPPING AGENCY ACTIVITY ADDRESS NUMBERS" outputclass="SubPart" audience="id2064F0Q40L7U" xtrf="subtopic" xtrc="id2064F0Q40L7U.html" />
+            <topicref navtitle="PART 9—DEFENSE THREAT REDUCTION AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40BL.dita" props="Part 9" outputclass="SubPart" audience="id2064F0Q40BL" xtrf="subtopic" xtrc="id2064F0Q40BL.html" />
+            <topicref navtitle="PART 10—MISCELLANEOUS DEFENSE ACTIVITIES ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q40PM.dita" props="Part 10" outputclass="SubPart" audience="id2064F0Q40PM" xtrf="subtopic" xtrc="id2064F0Q40PM.html" />
+            <topicref navtitle="PART 11—DEFENSE MICROELECTRONICS ACTIVITY" base="NoTitle" href="Appendix-id2064F0Q404B.dita" props="Part 11" outputclass="SubPart" audience="id2064F0Q404B" xtrf="subtopic" xtrc="id2064F0Q404B.html" />
+            <topicref navtitle="PART 12—MISSILE DEFENSE AGENCY ACTIVITY" base="NoTitle" href="Appendix-id2064F0Q40E6.dita" props="Part 12" outputclass="SubPart" audience="id2064F0Q40E6" xtrf="subtopic" xtrc="id2064F0Q40E6.html" />
+            <topicref navtitle="PART 13—DEFENSE COMMISSARY AGENCY ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q400A.dita" props="Part 13" outputclass="SubPart" audience="id2064F0Q400A" xtrf="subtopic" xtrc="id2064F0Q400A.html" />
+            <topicref navtitle="PART 14—UNITED STATES SPECIAL OPERATIONS COMMAND ACTIVITY ADDRESS NUMBERS" base="NoTitle" href="Appendix-id2064F0Q404E.dita" props="Part 14" outputclass="SubPart" audience="id2064F0Q404E" xtrf="subtopic" xtrc="id2064F0Q404E.html" />
          </topicref>
          <topicref navtitle="Appendix H —DEBARMENT AND SUSPENSION PROCEDURES" base="NoTitle" href="Appendix_H.dita" props="Appendix H -DEBARMENT AND SUSPENSION PROCEDURES" outputclass="Part" audience="Appendix_H" xtrf="Part" xtrc="Appendix_H.html">
             <topicref navtitle="H-100Scope." base="concept" href="Appendix-id2064F0S0OU2.dita" props="H-100" outputclass="subtopic" audience="id2064F0S0OU2" xtrf="subtopic" xtrc="id2064F0S0OU2.html" />
@@ -3131,7 +3131,7 @@
       <topicref navtitle="Defense Federal Acquisition Regulation - PGI" base="NoTitle" href="Cover_PGI.dita" props="Cover PGI" audience="id16werw2KV" otherprops="NoProp" outputclass="subtopic" xtrf="subtopic" xtrc="id16werw2KV.html" />
    </topicref>
    <topicref navtitle="PGI SUBCHAPTER A—GENERAL" base="NoTitle" href="Subchapter_PGI_A.dita" props="PGI Subchapter A" outputclass="SubChapter" audience="PGI_DFARS-Subchapter_a" xtrf="SubChapter" xtrc="PGI_DFARS-Subchapter_a.html">
-      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_a.dita" props="DFARpgi a" audience="DFARS_PGI_a" outputclass="subtopic" xtrf="subtopic" xtrc="DFARS_PGI_a.html">
+      <topicref navtitle="Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_a.dita" props="DFARpgi a" audience="DFARS_PGI_a" outputclass="SubPart" xtrf="subtopic" xtrc="DFARS_PGI_a.html">
          <topicref navtitle="PGI PART 201 - FEDERAL ACQUISITION REGULATIONS SYSTEM" base="NoTitle" href="PGI_PART_201.dita" props="PGI Part 201" outputclass="Part" audience="DFARS_PGI_PART_201" xtrf="Part" xtrc="DFARS_PGI_PART_201.html">
             <topicref navtitle="PGI 201.1 —PURPOSE, AUTHORITY, ISSUANCE" base="NoTitle" href="PGI_201.1.dita" props="PGI 201.1" outputclass="SubPart" audience="i1494318" xtrf="SubPart" xtrc="i1494318.html">
                <topicref navtitle="PGI 201.106 OMB approval under the Paperwork Reduction Act." base="concept" href="PGI_201.106.dita" props="PGI 201.106" outputclass="subtopic" audience="DFARS_PGI_PGI_201.106" xtrf="subtopic" xtrc="DFARS_PGI_PGI_201.106.html" />
@@ -3159,14 +3159,14 @@
             </topicref>
          </topicref>
          <topicref navtitle="PGI PART 203 - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST" base="NoTitle" href="PGI_PART_203.dita" props="PGI Part 203" outputclass="Part" audience="DFARS_PGI_PART_203" xtrf="Part" xtrc="DFARS_PGI_PART_203.html">
-            <topicref navtitle="PGI 203.1 —SAFEGUARDS" base="NoTitle" href="PGI_203.1.dita" props="PGI 203.1" outputclass="subtopic" audience="i1494442" xtrf="subtopic" xtrc="i1494442.html" />
+            <topicref navtitle="PGI 203.1 —SAFEGUARDS" base="NoTitle" href="PGI_203.1.dita" props="PGI 203.1" outputclass="SubPart" audience="i1494442" xtrf="subtopic" xtrc="i1494442.html" />
             <topicref navtitle="PGI 203.5 —OTHER IMPROPER BUSINESS PRACTICES" base="NoTitle" href="PGI_203.5.dita" props="PGI 203.5" outputclass="SubPart" audience="i1494447" xtrf="SubPart" xtrc="i1494447.html">
                <topicref navtitle="PGI 203.570 Prohibition on persons convicted of fraud or other defense-contract-related felonies." base="concept" href="PGI_203.570.dita" props="PGI 203.570" outputclass="subtopic" audience="DFARS_PGI_PGI_203.570" xtrf="subtopic" xtrc="DFARS_PGI_PGI_203.570.html">
                   <topicref navtitle="PGI 203.570-1 Scope." base="concept" href="PGI_203.570-1.dita" props="PGI 203.570-1" outputclass="subtopic" audience="DFARS_PGI_PGI_203.570-1" xtrf="subtopic" xtrc="DFARS_PGI_PGI_203.570-1.html" />
                   <topicref navtitle="PGI 203.570-2 Prohibition period." base="concept" href="PGI_203.570-2.dita" props="PGI 203.570-2" outputclass="subtopic" audience="DFARS_PGI_PGI_203.570-2" xtrf="subtopic" xtrc="DFARS_PGI_PGI_203.570-2.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 203.8 — LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS" base="NoTitle" href="PGI_203.8.dita" props="PGI 203.8" outputclass="subtopic" audience="i1494456" xtrf="subtopic" xtrc="i1494456.html" />
+            <topicref navtitle="PGI 203.8 — LIMITATIONS ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS" base="NoTitle" href="PGI_203.8.dita" props="PGI 203.8" outputclass="SubPart" audience="i1494456" xtrf="subtopic" xtrc="i1494456.html" />
          </topicref>
          <topicref navtitle="PGI PART 204 - ADMINISTRATIVE AND INFORMATION MATTERS" base="NoTitle" href="PGI_PART_204.dita" props="PGI Part 204" outputclass="Part" audience="DFARS_PGI_PART_204" xtrf="Part" xtrc="DFARS_PGI_PART_204.html">
             <topicref navtitle="PGI 204.1 —CONTRACT EXECUTION" base="NoTitle" href="PGI_204.1.dita" props="PGI 204.1" outputclass="SubPart" audience="i1494461" xtrf="SubPart" xtrc="i1494461.html">
@@ -3225,7 +3225,7 @@
                <topicref navtitle="PGI 204.7107 Contract accounting classification reference number (ACRN) and agency accounting identifier (AAI)." base="concept" href="PGI_204.7107.dita" props="PGI 204.7107" outputclass="subtopic" audience="DFARS_PGI_PGI_204.7107" xtrf="subtopic" xtrc="DFARS_PGI_PGI_204.7107.html" />
                <topicref navtitle="PGI 204.7108 Payment instructions." base="concept" href="PGI_204.7108.dita" props="PGI 204.7108" outputclass="subtopic" audience="DFARS_PGI_PGI_204.7108" xtrf="subtopic" xtrc="DFARS_PGI_PGI_204.7108.html" />
             </topicref>
-            <topicref navtitle="PGI 204.72 —CONTRACTOR IDENTIFICATION" base="NoTitle" href="PGI_204.72.dita" props="PGI 204.72" outputclass="subtopic" audience="i1495095" xtrf="subtopic" xtrc="i1495095.html" />
+            <topicref navtitle="PGI 204.72 —CONTRACTOR IDENTIFICATION" base="NoTitle" href="PGI_204.72.dita" props="PGI 204.72" outputclass="SubPart" audience="i1495095" xtrf="subtopic" xtrc="i1495095.html" />
             <topicref navtitle="PGI 204.73 —SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING" base="NoTitle" href="PGI_204.73.dita" props="PGI 204.73" outputclass="SubPart" audience="i1495100" xtrf="SubPart" xtrc="i1495100.html">
                <topicref navtitle="PGI 204.7303 Procedures." base="concept" href="PGI_204.7303.dita" props="PGI 204.7303" outputclass="subtopic" audience="DFARS_PGI_PGI_204.7303" xtrf="subtopic" xtrc="DFARS_PGI_PGI_204.7303.html">
                   <topicref navtitle="PGI 204.7303-1 General." base="concept" href="PGI_204.7303-1.dita" props="PGI 204.7303-1" outputclass="subtopic" audience="DFARS_PGI_PGI_204.7303-1" xtrf="subtopic" xtrc="DFARS_PGI_PGI_204.7303-1.html" />
@@ -3238,7 +3238,7 @@
       </topicref>
    </topicref>
    <topicref navtitle="PGI SUBCHAPTER B—ACQUISITION PLANNING" base="NoTitle" href="Subchapter_PGI_B.dita" props="PGI Subchapter B" outputclass="SubChapter" audience="PGI_DFARS-Subchapter_b" xtrf="SubChapter" xtrc="PGI_DFARS-Subchapter_b.html">
-      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_b.dita" props="DFARpgi b" audience="DFARS_PGI_b" outputclass="subtopic" xtrf="subtopic" xtrc="DFARS_PGI_b.html">
+      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_b.dita" props="DFARpgi b" audience="DFARS_PGI_b" outputclass="SubPart" xtrf="subtopic" xtrc="DFARS_PGI_b.html">
          <topicref navtitle="PGI PART 205 - PUBLICIZING CONTRACT ACTIONS" base="NoTitle" href="PGI_PART_205.dita" props="PGI Part 205" outputclass="Part" audience="DFARS_PGI_PART_205" xtrf="Part" xtrc="DFARS_PGI_PART_205.html">
             <topicref navtitle="PGI 205.2 —SYNOPSES OF PROPOSED CONTRACT ACTIONS" base="NoTitle" href="PGI_205.2.dita" props="PGI 205.2" outputclass="SubPart" audience="i1495120" xtrf="SubPart" xtrc="i1495120.html">
                <topicref navtitle="PGI 205.207 Preparation and transmittal of synopses." base="concept" href="PGI_205.207.dita" props="PGI 205.207" outputclass="subtopic" audience="DFARS_PGI_PGI_205.207" xtrf="subtopic" xtrc="DFARS_PGI_PGI_205.207.html" />
@@ -3293,7 +3293,7 @@
                </topicref>
                <topicref navtitle="PGI 208.705 Procedures." base="concept" href="PGI_208.705.dita" props="PGI 208.705" outputclass="subtopic" audience="DFARS_PGI_PGI_208.705" xtrf="subtopic" xtrc="DFARS_PGI_PGI_208.705.html" />
             </topicref>
-            <topicref navtitle="PGI 208.7—ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED" base="NoTitle" href="PGI_208.7.dita" props="PGI 208.7" outputclass="subtopic" audience="i207NEA00K5Z" xtrf="subtopic" xtrc="i207NEA00K5Z.html" />
+            <topicref navtitle="PGI 208.7—ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED" base="NoTitle" href="PGI_208.7.dita" props="PGI 208.7" outputclass="SubPart" audience="i207NEA00K5Z" xtrf="subtopic" xtrc="i207NEA00K5Z.html" />
             <topicref navtitle="PGI 208.70 —COORDINATED ACQUISITION" base="NoTitle" href="PGI_208.70.dita" props="PGI 208.70" outputclass="SubPart" audience="i1495348" xtrf="SubPart" xtrc="i1495348.html">
                <topicref navtitle="PGI 208.7002 Assignment authority." base="concept" href="PGI_208.7002.dita" props="PGI 208.7002" outputclass="subtopic" audience="DFARS_PGI_PGI_208.7002" xtrf="subtopic" xtrc="DFARS_PGI_PGI_208.7002.html">
                   <topicref navtitle="PGI 208.7002-1 Acquiring department responsibilities." base="concept" href="PGI_208.7002-1.dita" props="PGI 208.7002-1" outputclass="subtopic" audience="DFARS_PGI_PGI_208.7002-1" xtrf="subtopic" xtrc="DFARS_PGI_PGI_208.7002-1.html" />
@@ -3401,8 +3401,8 @@
             <topicref navtitle="PGI 212.1 —ACQUISITION OF COMMERCIAL ITEMS—GENERAL" base="NoTitle" href="PGI_212.1.dita" props="PGI 212.1" outputclass="SubPart" audience="i1495555" xtrf="SubPart" xtrc="i1495555.html">
                <topicref navtitle="PGI 212.102 Applicability." base="concept" href="PGI_212.102.dita" props="PGI 212.102" outputclass="subtopic" audience="DFARS_PGI_PGI_212.102" xtrf="subtopic" xtrc="DFARS_PGI_PGI_212.102.html" />
             </topicref>
-            <topicref navtitle="PGI 212.4 —UNIQUE REQUIREMENTS REGARDING TERMS AND CONDITIONS FOR COMMERCIAL ITEMS" base="NoTitle" href="PGI_212.4.dita" props="PGI 212.4" outputclass="subtopic" audience="i1495578" xtrf="subtopic" xtrc="i1495578.html" />
-            <topicref navtitle="PGI 212.70 —PILOT PROGRAM FOR TRANSITION TO FOLLOW-ON CONTRACTING AFTER USE OF OTHER TRANSACTION AUTHORITY" base="NoTitle" href="PGI_212.70.dita" props="PGI 212.70" outputclass="subtopic" audience="i1495583" xtrf="subtopic" xtrc="i1495583.html" />
+            <topicref navtitle="PGI 212.4 —UNIQUE REQUIREMENTS REGARDING TERMS AND CONDITIONS FOR COMMERCIAL ITEMS" base="NoTitle" href="PGI_212.4.dita" props="PGI 212.4" outputclass="SubPart" audience="i1495578" xtrf="subtopic" xtrc="i1495578.html" />
+            <topicref navtitle="PGI 212.70 —PILOT PROGRAM FOR TRANSITION TO FOLLOW-ON CONTRACTING AFTER USE OF OTHER TRANSACTION AUTHORITY" base="NoTitle" href="PGI_212.70.dita" props="PGI 212.70" outputclass="SubPart" audience="i1495583" xtrf="subtopic" xtrc="i1495583.html" />
             <topicref navtitle="PGI 212.71 —PILOT PROGRAM FOR ACQUISITION OF MILITARY-PURPOSE NONDEVELOPMENTAL ITEMS" base="NoTitle" href="PGI_212.71.dita" props="PGI 212.71" outputclass="SubPart" audience="i1495588" xtrf="SubPart" xtrc="i1495588.html">
                <topicref navtitle="PGI 212.7102 Pilot Program." base="concept" href="PGI_212.7102.dita" props="PGI 212.7102" outputclass="subtopic" audience="DFARS_PGI_PGI_212.7102" xtrf="subtopic" xtrc="DFARS_PGI_PGI_212.7102.html">
                   <topicref navtitle="PGI 212.7102-3 Reporting requirements." base="concept" href="PGI_212.7102-3.dita" props="PGI 212.7102-3" outputclass="subtopic" audience="DFARS_PGI_PGI_212.7102-3" xtrf="subtopic" xtrc="DFARS_PGI_PGI_212.7102-3.html" />
@@ -3412,7 +3412,7 @@
       </topicref>
    </topicref>
    <topicref navtitle="PGI SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES" base="NoTitle" href="Subchapter_PGI_C.dita" props="PGI Subchapter C" outputclass="SubChapter" audience="PGI_DFARS-Subchapter_c" xtrf="SubChapter" xtrc="PGI_DFARS-Subchapter_c.html">
-      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_c.dita" props="DFARpgi c" audience="DFARS_PGI_c" outputclass="subtopic" xtrf="subtopic" xtrc="DFARS_PGI_c.html">
+      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_c.dita" props="DFARpgi c" audience="DFARS_PGI_c" outputclass="SubPart" xtrf="subtopic" xtrc="DFARS_PGI_c.html">
          <topicref navtitle="PGI PART 213 - SIMPLIFIED ACQUISITION PROCEDURES" base="NoTitle" href="PGI_PART_213.dita" props="PGI Part 213" outputclass="Part" audience="DFARS_PGI_PART_213" xtrf="Part" xtrc="DFARS_PGI_PART_213.html">
             <topicref navtitle="PGI 213.1 —PROCEDURES" base="NoTitle" href="PGI_213.1.dita" props="PGI 213.1" outputclass="SubPart" audience="i1495597" xtrf="SubPart" xtrc="i1495597.html">
                <topicref navtitle="PGI 213.104 Promoting competition." base="concept" href="PGI_213.104.dita" props="PGI 213.104" outputclass="subtopic" audience="DFARS_PGI_PGI_213.104" xtrf="subtopic" xtrc="DFARS_PGI_PGI_213.104.html" />
@@ -3636,7 +3636,7 @@
             <topicref navtitle="PGI 217.77 —OVER AND ABOVE WORK" base="NoTitle" href="PGI_217.77.dita" props="PGI 217.77" outputclass="SubPart" audience="i1496395" xtrf="SubPart" xtrc="i1496395.html">
                <topicref navtitle="PGI 217.7701 Procedures." base="concept" href="PGI_217.7701.dita" props="PGI 217.7701" outputclass="subtopic" audience="DFARS_PGI_PGI_217.7701" xtrf="subtopic" xtrc="DFARS_PGI_PGI_217.7701.html" />
             </topicref>
-            <topicref navtitle="PGI 217.78 DELETED (NO CURRENT PGI TEXT)" base="NoTitle" href="PGI_217.78.dita" props="PGI 217.78" outputclass="subtopic" audience="i1496403" xtrf="subtopic" xtrc="i1496403.html" />
+            <topicref navtitle="PGI 217.78 DELETED (NO CURRENT PGI TEXT)" base="NoTitle" href="PGI_217.78.dita" props="PGI 217.78" outputclass="SubPart" audience="i1496403" xtrf="subtopic" xtrc="i1496403.html" />
          </topicref>
          <topicref navtitle="PGI PART 218 - EMERGENCY ACQUISITIONS" base="NoTitle" href="PGI_PART_218.dita" props="PGI Part 218" outputclass="Part" audience="DFARS_PGI_PART_218" xtrf="Part" xtrc="DFARS_PGI_PART_218.html">
             <topicref navtitle="PGI 218.2 —EMERGENCY ACQUISITION FLEXIBILITIES" base="NoTitle" href="PGI_218.2.dita" props="PGI 218.2" outputclass="SubPart" audience="i1496407" xtrf="SubPart" xtrc="i1496407.html">
@@ -3646,12 +3646,12 @@
       </topicref>
    </topicref>
    <topicref navtitle="PGI SUBCHAPTER D—SOCIOECONOMIC PROGRAMS" base="NoTitle" href="Subchapter_PGI_D.dita" props="PGI Subchapter D" outputclass="SubChapter" audience="PGI_DFARS-Subchapter_d" xtrf="SubChapter" xtrc="PGI_DFARS-Subchapter_d.html">
-      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_d.dita" props="DFARpgi d" audience="DFARS_PGI_d" outputclass="subtopic" xtrf="subtopic" xtrc="DFARS_PGI_d.html">
+      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_d.dita" props="DFARpgi d" audience="DFARS_PGI_d" outputclass="SubPart" xtrf="subtopic" xtrc="DFARS_PGI_d.html">
          <topicref navtitle="PGI PART 219 - SMALL BUSINESS PROGRAMS" base="NoTitle" href="PGI_PART_219.dita" props="PGI Part 219" outputclass="Part" audience="DFARS_PGI_PART_219" xtrf="Part" xtrc="DFARS_PGI_PART_219.html">
             <topicref navtitle="PGI 219.2 —POLICIES" base="NoTitle" href="PGI_219.2.dita" props="PGI 219.2" outputclass="SubPart" audience="i1496415" xtrf="SubPart" xtrc="i1496415.html">
                <topicref navtitle="PGI 219.201 General policy." base="concept" href="PGI_219.201.dita" props="PGI 219.201" outputclass="subtopic" audience="DFARS_PGI_PGI_219.201" xtrf="subtopic" xtrc="DFARS_PGI_PGI_219.201.html" />
             </topicref>
-            <topicref navtitle="PGI 219.3 —DETERMINATION OF SMALL BUSINESS STATUS" base="NoTitle" href="PGI_219.3.dita" props="PGI 219.3" outputclass="subtopic" audience="i1496425" xtrf="subtopic" xtrc="i1496425.html" />
+            <topicref navtitle="PGI 219.3 —DETERMINATION OF SMALL BUSINESS STATUS" base="NoTitle" href="PGI_219.3.dita" props="PGI 219.3" outputclass="SubPart" audience="i1496425" xtrf="subtopic" xtrc="i1496425.html" />
             <topicref navtitle="PGI 219.6 —CERTIFICATES OF COMPETENCY" base="NoTitle" href="PGI_219.6.dita" props="PGI 219.6" outputclass="SubPart" audience="i1496430" xtrf="SubPart" xtrc="i1496430.html">
                <topicref navtitle="PGI 219.602 Procedures." base="concept" href="PGI_219.602.dita" props="PGI 219.602" outputclass="subtopic" audience="DFARS_PGI_PGI_219.602" xtrf="subtopic" xtrc="DFARS_PGI_PGI_219.602.html">
                   <topicref navtitle="PGI 219.602-1 Referral." base="concept" href="PGI_219.602-1.dita" props="PGI 219.602-1" outputclass="subtopic" audience="DFARS_PGI_PGI_219.602-1" xtrf="subtopic" xtrc="DFARS_PGI_PGI_219.602-1.html" />
@@ -3757,8 +3757,8 @@
                   <topicref navtitle="PGI 225.770-4 Identifying USML items." base="concept" href="PGI_225.770-4.dita" props="PGI 225.770-4" outputclass="subtopic" audience="DFARS_PGI_PGI_225.770-4" xtrf="subtopic" xtrc="DFARS_PGI_PGI_225.770-4.html" />
                   <topicref navtitle="PGI 225.770-5 Waiver of prohibition." base="concept" href="PGI_225.770-5.dita" props="PGI 225.770-5" outputclass="subtopic" audience="DFARS_PGI_PGI_225.770-5" xtrf="subtopic" xtrc="DFARS_PGI_PGI_225.770-5.html" />
                </topicref>
-               <topicref navtitle="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism." base="concept" href="PGI_225.771.dita" props="225.771" outputclass="subtopic" audience="DFARS_PGI____225.771" xtrf="subtopic" xtrc="DFARS_PGI____225.771.html">
-                  <topicref navtitle="225.771-3 Notification." base="concept" href="PGI_225.771-3.dita" props="225.771-3" outputclass="subtopic" audience="DFARS_PGI____225.771-3" xtrf="subtopic" xtrc="DFARS_PGI____225.771-3.html" />
+               <topicref navtitle="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism." base="concept" href="PGI_225.771.dita" props="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism." outputclass="subtopic" audience="DFARS_PGI____225.771" xtrf="subtopic" xtrc="DFARS_PGI____225.771.html">
+                  <topicref navtitle="225.771-3 Notification." base="concept" href="PGI_225.771-3.dita" props="225.771-3 Notification." outputclass="subtopic" audience="DFARS_PGI____225.771-3" xtrf="subtopic" xtrc="DFARS_PGI____225.771-3.html" />
                </topicref>
                <topicref navtitle="PGI 225.772 Prohibition on acquisition of commercial satellite services from certain foreign entities." base="concept" href="PGI_225.772.dita" props="PGI 225.772" outputclass="subtopic" audience="DFARS_PGI_PGI_225.772" xtrf="subtopic" xtrc="DFARS_PGI_PGI_225.772.html">
                   <topicref navtitle="PGI 225.772-3 Procedures." base="concept" href="PGI_225.772-3.dita" props="PGI 225.772-3" outputclass="subtopic" audience="DFARS_PGI_PGI_225.772-3" xtrf="subtopic" xtrc="DFARS_PGI_PGI_225.772-3.html" />
@@ -3854,7 +3854,7 @@
       </topicref>
    </topicref>
    <topicref navtitle="PGI SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS" base="NoTitle" href="Subchapter_PGI_E.dita" props="PGI Subchapter E" outputclass="SubChapter" audience="PGI_DFARS-Subchapter_e" xtrf="SubChapter" xtrc="PGI_DFARS-Subchapter_e.html">
-      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_e.dita" props="DFARpgi e" audience="DFARS_PGI_e" outputclass="subtopic" xtrf="subtopic" xtrc="DFARS_PGI_e.html">
+      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_e.dita" props="DFARpgi e" audience="DFARS_PGI_e" outputclass="SubPart" xtrf="subtopic" xtrc="DFARS_PGI_e.html">
          <topicref navtitle="PGI PART 228 - BONDS AND INSURANCE" base="NoTitle" href="PGI_PART_228.dita" props="PGI Part 228" outputclass="Part" audience="DFARS_PGI_PART_228" xtrf="Part" xtrc="DFARS_PGI_PART_228.html">
             <topicref navtitle="PGI 228.3 —INSURANCE" base="NoTitle" href="PGI_228.3.dita" props="PGI 228.3" outputclass="SubPart" audience="i1497083" xtrf="SubPart" xtrc="i1497083.html">
                <topicref navtitle="PGI 228.304 Risk-pooling arrangements." base="concept" href="PGI_228.304.dita" props="PGI 228.304" outputclass="subtopic" audience="DFARS_PGI_PGI_228.304" xtrf="subtopic" xtrc="DFARS_PGI_PGI_228.304.html" />
@@ -3929,7 +3929,7 @@
       </topicref>
    </topicref>
    <topicref navtitle="PGI SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING" base="NoTitle" href="Subchapter_PGI_F.dita" props="PGI Subchapter F" outputclass="SubChapter" audience="PGI_DFARS-Subchapter_f" xtrf="SubChapter" xtrc="PGI_DFARS-Subchapter_f.html">
-      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_f.dita" props="DFARpgi f" audience="DFARS_PGI_f" outputclass="subtopic" xtrf="subtopic" xtrc="DFARS_PGI_f.html">
+      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_f.dita" props="DFARpgi f" audience="DFARS_PGI_f" outputclass="SubPart" xtrf="subtopic" xtrc="DFARS_PGI_f.html">
          <topicref navtitle="PGI PART 234 - MAJOR SYSTEM ACQUISITION" base="NoTitle" href="PGI_PART_234.dita" props="PGI Part 234" outputclass="Part" audience="DFARS_PGI_PART_234" xtrf="Part" xtrc="DFARS_PGI_PART_234.html">
             <topicref navtitle="PGI 234.2 —EARNED VALUE MANAGEMENT SYSTEM" base="NoTitle" href="PGI_234.2.dita" props="PGI 234.2" outputclass="SubPart" audience="i1497211" xtrf="SubPart" xtrc="i1497211.html">
                <topicref navtitle="PGI 234.201 Policy." base="concept" href="PGI_234.201.dita" props="PGI 234.201" outputclass="subtopic" audience="DFARS_PGI_PGI_234.201" xtrf="subtopic" xtrc="DFARS_PGI_PGI_234.201.html" />
@@ -4022,13 +4022,13 @@
       </topicref>
    </topicref>
    <topicref navtitle="PGI SUBCHAPTER G—CONTRACT MANAGEMENT" base="NoTitle" href="Subchapter_PGI_G.dita" props="PGI Subchapter G" outputclass="SubChapter" audience="PGI_DFARS-Subchapter_g" xtrf="SubChapter" xtrc="PGI_DFARS-Subchapter_g.html">
-      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_g.dita" props="DFARpgi g" audience="DFARS_PGI_g" outputclass="subtopic" xtrf="subtopic" xtrc="DFARS_PGI_g.html">
+      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_g.dita" props="DFARpgi g" audience="DFARS_PGI_g" outputclass="SubPart" xtrf="subtopic" xtrc="DFARS_PGI_g.html">
          <topicref navtitle="PGI PART 242 - CONTRACT ADMINISTRATION" base="NoTitle" href="PGI_PART_242.dita" props="PGI Part 242" outputclass="Part" audience="DFARS_PGI_PART_242" xtrf="Part" xtrc="DFARS_PGI_PART_242.html">
             <topicref navtitle="PGI 242.002 Interagency agreements." base="concept" href="PGI_242.002.dita" props="PGI 242.002" outputclass="subtopic" audience="DFARS_PGI_PGI_242.002" xtrf="subtopic" xtrc="DFARS_PGI_PGI_242.002.html" />
             <topicref navtitle="PGI 242.3 —CONTRACT ADMINISTRATION OFFICE FUNCTIONS" base="NoTitle" href="PGI_242.3.dita" props="PGI 242.3" outputclass="SubPart" audience="i1347660" xtrf="SubPart" xtrc="i1347660.html">
-               <topicref navtitle="PGI 242.302 Contract administration functions." base="concept" href="PGI_242.302.dita" props="PGI 242.302" outputclass="subtopic" audience="DFARS_PGI_PGI_242.302" xtrf="subtopic" xtrc="DFARS_PGI_PGI_242.302.html" />
-               <topicref navtitle="PGI 242.302(a)(S-72) —Surveillance of the contractor’s implementation of the Synchronized Predeployment and Operational Tracker (SPOT)" base="concept" href="PGI_242.302Surveillance.dita" props="PGI 242.302" outputclass="subtopic" audience="DFARS_PGI_PGI_242.302Surveillance" xtrf="subtopic" xtrc="DFARS_PGI_PGI_242.302Surveillance.html" />
-               <topicref navtitle="PGI 242.302(a)(S-75) —Monitoring contractor costs" base="concept" href="PGI_242.302Monitoring.dita" props="PGI 242.302" outputclass="subtopic" audience="DFARS_PGI_PGI_242.302Monitoring" xtrf="subtopic" xtrc="DFARS_PGI_PGI_242.302Monitoring.html" />
+               <topicref navtitle="PGI 242.302 Contract administration functions." base="concept" href="PGI_242.302.dita" props="PGI 242.302 Contract administration functions." outputclass="subtopic" audience="DFARS_PGI_PGI_242.302" xtrf="subtopic" xtrc="DFARS_PGI_PGI_242.302.html" />
+               <topicref navtitle="PGI 242.302(a)(S-72) —Surveillance of the contractor’s implementation of the Synchronized Predeployment and Operational Tracker (SPOT)" base="concept" href="PGI_242.302Surveillance.dita" props="PGI 242.302 aS-72 Surveillance of the contractors implementation of the Synchronized Predeployment and Operational Tracker SPOT" outputclass="subtopic" audience="DFARS_PGI_PGI_242.302Surveillance" xtrf="subtopic" xtrc="DFARS_PGI_PGI_242.302Surveillance.html" />
+               <topicref navtitle="PGI 242.302(a)(S-75) —Monitoring contractor costs" base="concept" href="PGI_242.302Monitoring.dita" props="PGI 242.302 aS-75 Monitoringcontractor costs" outputclass="subtopic" audience="DFARS_PGI_PGI_242.302Monitoring" xtrf="subtopic" xtrc="DFARS_PGI_PGI_242.302Monitoring.html" />
             </topicref>
             <topicref navtitle="PGI 242.7 — INDIRECT COST RATES" base="NoTitle" href="PGI_242.7.dita" props="PGI 242.7" outputclass="SubPart" audience="i207NK0I305Z" xtrf="SubPart" xtrc="i207NK0I305Z.html">
                <topicref navtitle="PGI 242.705 Final indirect cost rates." base="concept" href="PGI_242.705.dita" props="PGI 242.705" outputclass="subtopic" audience="DFARS_PGI_PGI_242.705" xtrf="subtopic" xtrc="DFARS_PGI_PGI_242.705.html">
@@ -4123,8 +4123,8 @@
                   <topicref navtitle="PGI 246.470-2  Quality evaluation data." base="concept" href="PGI_246.470-2.dita" props="PGI 246.470-2" outputclass="subtopic" audience="DFARS_PGI_PGI_246.470-2" xtrf="subtopic" xtrc="DFARS_PGI_PGI_246.470-2.html" />
                </topicref>
                <topicref navtitle="PGI 246.472 Inspection stamping." base="concept" href="PGI_246.472.dita" props="PGI 246.472" outputclass="subtopic" audience="DFARS_PGI_PGI_246.472" xtrf="subtopic" xtrc="DFARS_PGI_PGI_246.472.html" />
-               <topicref navtitle="246.408 Single-agency assignments of Government contract quality assurance." base="concept" href="PGI_246.408.dita" props="246.408" outputclass="subtopic" audience="DFARS_PGI____246.408" xtrf="subtopic" xtrc="DFARS_PGI____246.408.html">
-                  <topicref navtitle="246.408-71 Aircraft." base="concept" href="PGI_246.408-71.dita" props="246.408-71" outputclass="subtopic" audience="DFARS_PGI____246.408-71" xtrf="subtopic" xtrc="DFARS_PGI____246.408-71.html" />
+               <topicref navtitle="246.408 Single-agency assignments of Government contract quality assurance." base="concept" href="PGI_246.408.dita" props="246.408 Single-agency assignments of Government contract quality assurance." outputclass="subtopic" audience="DFARS_PGI____246.408" xtrf="subtopic" xtrc="DFARS_PGI____246.408.html">
+                  <topicref navtitle="246.408-71 Aircraft." base="concept" href="PGI_246.408-71.dita" props="246.408-71 Aircraft." outputclass="subtopic" audience="DFARS_PGI____246.408-71" xtrf="subtopic" xtrc="DFARS_PGI____246.408-71.html" />
                </topicref>
             </topicref>
             <topicref navtitle="PGI 246.7 —WARRANTIES" base="NoTitle" href="PGI_246.7.dita" props="PGI 246.7" outputclass="SubPart" audience="i1497811" xtrf="SubPart" xtrc="i1497811.html">
@@ -4166,7 +4166,7 @@
                </topicref>
                <topicref navtitle="PGI 249.110 Settlement negotiation memorandum." base="concept" href="PGI_249.110.dita" props="PGI 249.110" outputclass="subtopic" audience="DFARS_PGI_PGI_249.110" xtrf="subtopic" xtrc="DFARS_PGI_PGI_249.110.html" />
             </topicref>
-            <topicref navtitle="PGI 249.4 —TERMINATION FOR DEFAULT" base="NoTitle" href="PGI_249.4.dita" props="PGI 249.4" outputclass="subtopic" audience="i1497963" xtrf="subtopic" xtrc="i1497963.html" />
+            <topicref navtitle="PGI 249.4 —TERMINATION FOR DEFAULT" base="NoTitle" href="PGI_249.4.dita" props="PGI 249.4" outputclass="SubPart" audience="i1497963" xtrf="subtopic" xtrc="i1497963.html" />
             <topicref navtitle="PGI 249.70 — SPECIAL TERMINATION REQUIREMENTS " base="NoTitle" href="PGI_249.70.dita" props="PGI 249.70" outputclass="SubPart" audience="i1497968" xtrf="SubPart" xtrc="i1497968.html">
                <topicref navtitle="PGI 249.7001 Congressional notification on significant contract terminations." base="concept" href="PGI_249.7001.dita" props="PGI 249.7001" outputclass="subtopic" audience="DFARS_PGI_PGI_249.7001" xtrf="subtopic" xtrc="DFARS_PGI_PGI_249.7001.html" />
             </topicref>
@@ -4181,7 +4181,7 @@
                   <topicref navtitle="PGI 250.103-6 Disposition." base="concept" href="PGI_250.103-6.dita" props="PGI 250.103-6" outputclass="subtopic" audience="DFARS_PGI_PGI_250.103-6" xtrf="subtopic" xtrc="DFARS_PGI_PGI_250.103-6.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 250.3 Reserved" base="NoTitle" href="PGI_250.3.dita" props="PGI 250.3" outputclass="subtopic" audience="i1498000" xtrf="subtopic" xtrc="i1498000.html" />
+            <topicref navtitle="PGI 250.3 Reserved" base="NoTitle" href="PGI_250.3.dita" props="PGI 250.3" outputclass="SubPart" audience="i1498000" xtrf="subtopic" xtrc="i1498000.html" />
          </topicref>
          <topicref navtitle="PGI PART 251 - USE OF GOVERNMENT SOURCES BY CONTRACTORS" base="NoTitle" href="PGI_PART_251.dita" props="PGI Part 251" outputclass="Part" audience="DFARS_PGI_PART_251" xtrf="Part" xtrc="DFARS_PGI_PART_251.html">
             <topicref navtitle="PGI 251.1— CONTRACTOR USE OF GOVERNMENT SUPPLY SOURCES" base="NoTitle" href="PGI_251.1--.dita" props="PGI 251.1" outputclass="SubPart" audience="i1498004" xtrf="SubPart" xtrc="i1498004.html">
@@ -4194,7 +4194,7 @@
       </topicref>
    </topicref>
    <topicref navtitle="PGI SUBCHAPTER H—CONTRACT MANAGEMENT" base="NoTitle" href="Subchapter_PGI_H.dita" props="PGI Subchapter H" outputclass="SubChapter" audience="PGI_DFARS-Subchapter_h" xtrf="SubChapter" xtrc="PGI_DFARS-Subchapter_h.html">
-      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_h.dita" props="DFARpgi h" audience="DFARS_PGI_h" outputclass="subtopic" xtrf="subtopic" xtrc="DFARS_PGI_h.html">
+      <topicref navtitle="PGI Defense Federal Acquisition Regulation" base="NoTitle" href="DFARpgi_h.dita" props="DFARpgi h" audience="DFARS_PGI_h" outputclass="SubPart" xtrf="subtopic" xtrc="DFARS_PGI_h.html">
          <topicref navtitle="PGI PART 252 - CLAUSES" base="NoTitle" href="PGI_PART_252.dita" props="PGI Part 252" outputclass="Part" audience="DFARS_PGI_PART_252" xtrf="Part" xtrc="DFARS_PGI_PART_252.html">
             <topicref navtitle="PGI 252.1 —INSTRUCTIONS FOR USING PROVISIONS AND CLAUSES" base="NoTitle" href="PGI_252.1.dita" props="PGI 252.1" outputclass="SubPart" audience="i1498018" xtrf="SubPart" xtrc="i1498018.html">
                <topicref navtitle="PGI 252.103 Identification of provisions and clauses." base="concept" href="PGI_252.103.dita" props="PGI 252.103" outputclass="subtopic" audience="DFARS_PGI_PGI_252.103" xtrf="subtopic" xtrc="DFARS_PGI_PGI_252.103.html" />
@@ -4218,7 +4218,7 @@
                   <topicref navtitle="PGI 253.219-70 DD Form 2579, Small Business Coordination Record." base="concept" href="PGI_253.219-70.dita" props="PGI 253.219-70" outputclass="subtopic" audience="DFARS_PGI_PGI_253.219-70" xtrf="subtopic" xtrc="DFARS_PGI_PGI_253.219-70.html" />
                </topicref>
             </topicref>
-            <topicref navtitle="PGI 253.3 — ILLUSTRATION OF FORMS" base="NoTitle" href="PGI_253.3.dita" props="PGI 253.3" outputclass="subtopic" audience="i207UE0R90Y4" xtrf="subtopic" xtrc="i207UE0R90Y4.html" />
+            <topicref navtitle="PGI 253.3 — ILLUSTRATION OF FORMS" base="NoTitle" href="PGI_253.3.dita" props="PGI 253.3" outputclass="SubPart" audience="i207UE0R90Y4" xtrf="subtopic" xtrc="i207UE0R90Y4.html" />
          </topicref>
       </topicref>
    </topicref>
