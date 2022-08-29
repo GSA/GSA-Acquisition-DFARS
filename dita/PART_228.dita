@@ -1,130 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS_PART_228"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS_PART_228">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 228</ph> - BONDS AND INSURANCE</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_228.1.dita#DFARS_SUBPART_228.1"
-                        class="- topic/xref ">SUBPART 228.1 —BONDS AND OTHER FINANCIAL PROTECTIONS</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 228</ph> - BONDS AND INSURANCE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_228.1.dita#DFARS_SUBPART_228.1">Subpart 228.1 - BONDS AND OTHERFINANCIAL PROTECTIONS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="228.102.dita#DFARS_228.102"
-                              class="- topic/xref ">228.102 Performance and payment bonds and alternative payment protections for construction contracts.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="228.102.dita#DFARS_228.102">228.102 Performance and paymentbonds and alternative paymentprotections for construction contracts.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="228.102-1.dita#DFARS_228.102-1"
-                                    class="- topic/xref ">228.102-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="228.102-1.dita#DFARS_228.102-1">228.102-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="228.102-70.dita#DFARS_228.102-70"
-                                    class="- topic/xref ">228.102-70 Defense Environmental Restoration Program construction contracts.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="228.102-70.dita#DFARS_228.102-70">228.102-70 Defense Environmental Restoration Program construction contracts.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="228.105.dita#DFARS_228.105"
-                              class="- topic/xref ">228.105 Other types of bonds.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="228.105.dita#DFARS_228.105">228.105 Other types of bonds.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="228.106.dita#DFARS_228.106"
-                              class="- topic/xref ">228.106 Administration.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="228.106.dita#DFARS_228.106">228.106 Administration.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="228.106-7.dita#DFARS_228.106-7"
-                                    class="- topic/xref ">228.106-7 Withholding contract payments.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="228.106-7.dita#DFARS_228.106-7">228.106-7 Withholding contract payments.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_228.3.dita#DFARS_SUBPART_228.3"
-                        class="- topic/xref ">SUBPART 228.3 —INSURANCE</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_228.3.dita#DFARS_SUBPART_228.3">Subpart 228.3 - INSURANCE</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="228.304.dita#DFARS_228.304"
-                              class="- topic/xref ">228.304 Risk-pooling arrangements.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="228.304.dita#DFARS_228.304">228.304 Risk-pooling arrangements.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="228.305.dita#DFARS_228.305"
-                              class="- topic/xref ">228.305 Overseas workers' compensation and war-hazard insurance.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="228.305.dita#DFARS_228.305">228.305 Overseas workers' compensation and war-hazard insurance.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="228.307.dita#DFARS_228.307"
-                              class="- topic/xref ">228.307 Insurance under cost-reimbursement contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="228.307.dita#DFARS_228.307">228.307 Insurance under cost-reimbursement contracts.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="228.307-1.dita#DFARS_228.307-1"
-                                    class="- topic/xref ">228.307-1 Group insurance plans.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="228.307-1.dita#DFARS_228.307-1">228.307-1 Group insurance plans.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="228.311.dita#DFARS_228.311"
-                              class="- topic/xref ">228.311 Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="228.311.dita#DFARS_228.311">228.311 Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="228.311-1.dita#DFARS_228.311-1"
-                                    class="- topic/xref ">228.311-1 Contract clause.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="228.311-1.dita#DFARS_228.311-1">228.311-1 Contract clause.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="228.370.dita#DFARS_228.370"
-                              class="- topic/xref ">228.370 Additional clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="228.370.dita#DFARS_228.370">228.370 Additional clauses.</xref>
                      </p>
                   </li>
                </ul>

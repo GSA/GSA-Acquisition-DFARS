@@ -1,80 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS_PART_218"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS_PART_218">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 218</ph> - EMERGENCY ACQUISITIONS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_218.1.dita#DFARS_SUBPART_218.1"
-                        class="- topic/xref ">SUBPART 218.1 —AVAILABLE ACQUISITION FLEXIBILITIES</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 218</ph> - EMERGENCY ACQUISITIONS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_218.1.dita#DFARS_SUBPART_218.1">Subpart 218.1 - AVAILABLE ACQUISITION FLEXIBILITIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="218.170.dita#DFARS_218.170"
-                              class="- topic/xref ">218.170 Additional acquisition flexibilities.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.170.dita#DFARS_218.170">218.170 Additional acquisition flexibilities.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_218.2.dita#DFARS_SUBPART_218.2"
-                        class="- topic/xref ">SUBPART 218.2 —EMERGENCY ACQUISITION FLEXIBILITIES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_218.2.dita#DFARS_SUBPART_218.2">Subpart 218.2 - EMERGENCY ACQUISITION FLEXIBILITIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="218.201.dita#DFARS_218.201"
-                              class="- topic/xref ">218.201 Contingency operation.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.201.dita#DFARS_218.201">218.201 Contingency operation.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="218.202.dita#DFARS_218.202"
-                              class="- topic/xref ">218.202 Defense or recovery from certain events.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.202.dita#DFARS_218.202">218.202 Defense or recovery from certain events.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="218.203.dita#DFARS_218.203"
-                              class="- topic/xref ">218.203 Emergency declaration, or major disaster declaration.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.203.dita#DFARS_218.203">218.203 Emergency declaration,or major disaster declaration.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="218.204.dita#DFARS_218.204"
-                              class="- topic/xref ">218.204 Humanitarian or peacekeeping operation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.204.dita#DFARS_218.204">218.204 Humanitarian or peacekeepingoperation.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="218.270.dita#DFARS_218.270"
-                              class="- topic/xref ">218.270 Head of contracting activity determinations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.270.dita#DFARS_218.270">218.270 Head of contracting activity determinations.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="218.271.dita#DFARS_218.271"
-                              class="- topic/xref ">218.271 Use of electronic business tools.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="218.271.dita#DFARS_218.271">218.271 Use of electronic business tools.</xref>
                      </p>
                   </li>
                </ul>

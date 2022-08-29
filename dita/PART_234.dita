@@ -1,133 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS_PART_234"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS_PART_234">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 234</ph> - MAJOR SYSTEM ACQUISITION	</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="234.001.dita#DFARS_234.001"
-                        class="- topic/xref ">234.001 Definition.</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 234</ph> - MAJOR SYSTEM ACQUISITION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="234.001.dita#DFARS_234.001">234.001 Definition.</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="234.003.dita#DFARS_234.003"
-                        class="- topic/xref ">234.003 Responsibilities.</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="234.003.dita#DFARS_234.003">234.003 Responsibilities.</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="234.004.dita#DFARS_234.004"
-                        class="- topic/xref ">234.004 Acquisition strategy.</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="234.004.dita#DFARS_234.004">234.004 Acquisition strategy.</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="234.005.dita#DFARS_234.005"
-                        class="- topic/xref ">234.005 General requirements.</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="234.005.dita#DFARS_234.005">234.005 General requirements.</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.005-1.dita#DFARS_234.005-1"
-                              class="- topic/xref ">234.005-1 Competition.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.005-1.dita#DFARS_234.005-1">234.005-1 Competition.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.005-2.dita#DFARS_234.005-2"
-                              class="- topic/xref ">234.005-2 Mission-oriented solicitation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.005-2.dita#DFARS_234.005-2">234.005-2 Mission-oriented solicitation.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_234.2.dita#DFARS_SUBPART_234.2"
-                        class="- topic/xref ">SUBPART 234.2 —EARNED VALUE MANAGEMENT SYSTEM</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_234.2.dita#DFARS_SUBPART_234.2">Subpart 234.2 - EARNED VALUE MANAGEMENT SYSTEM</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.201.dita#DFARS_234.201"
-                              class="- topic/xref ">234.201 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.201.dita#DFARS_234.201">234.201 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.203.dita#DFARS_234.203"
-                              class="- topic/xref ">234.203 Solicitation provisions and contract clause.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.203.dita#DFARS_234.203">234.203 Solicitation provisions and contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_234.70.dita#DFARS_SUBPART_234.70"
-                        class="- topic/xref ">SUBPART 234.70 —ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL ITEMS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_234.70.dita#DFARS_SUBPART_234.70">Subpart 234.70 - ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL ITEMS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.7000.dita#DFARS_234.7000"
-                              class="- topic/xref ">234.7000 Scope of subpart.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.7000.dita#DFARS_234.7000">234.7000 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.7001.dita#DFARS_234.7001"
-                              class="- topic/xref ">234.7001 Definition.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.7001.dita#DFARS_234.7001">234.7001 Definition.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.7002.dita#DFARS_234.7002"
-                              class="- topic/xref ">234.7002 Policy.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.7002.dita#DFARS_234.7002">234.7002 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_234.71.dita#DFARS_SUBPART_234.71"
-                        class="- topic/xref ">SUBPART 234.71 —COST AND SOFTWARE DATA REPORTING</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_234.71.dita#DFARS_SUBPART_234.71">Subpart 234.71 - COST AND SOFTWARE DATA REPORTING</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.7100.dita#DFARS_234.7100"
-                              class="- topic/xref ">234.7100 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.7100.dita#DFARS_234.7100">234.7100 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="234.7101.dita#DFARS_234.7101"
-                              class="- topic/xref ">234.7101 Solicitation provision and contract clause.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="234.7101.dita#DFARS_234.7101">234.7101 Solicitation provision and contract clause.</xref>
                      </p>
                   </li>
                </ul>

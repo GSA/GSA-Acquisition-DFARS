@@ -1,93 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS_PGI_PART_211"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS_PGI_PART_211">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI PART 211</ph> - DESCRIBING AGENCY NEEDS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_211.1.dita#i1495530"
-                        class="- topic/xref ">PGI 211.1 —SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</xref>
+         <ph props="autonumber" class="- topic/ph ">PGI Part 211</ph> - DESCRIBING AGENCY NEEDS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_211.1.dita#i1495530">PGI 211.1 -SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_211.105.dita#DFARS_PGI_PGI_211.105"
-                              class="- topic/xref ">PGI 211.105 Items peculiar to one manufacturer.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_211.105.dita#DFARS_PGI_PGI_211.105">PGI 211.105 Items peculiar to one manufacturer.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_211.2.dita#i1495536"
-                        class="- topic/xref ">PGI 211.2 —USING AND MAINTAINING REQUIREMENTS DOCUMENTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_211.2.dita#i1495536">PGI 211.2 -USING AND MAINTAINING REQUIREMENTS DOCUMENTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_211.201.dita#DFARS_PGI_PGI_211.201"
-                              class="- topic/xref ">PGI 211.201 Identification and availability of specifications.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_211.201.dita#DFARS_PGI_PGI_211.201">PGI 211.201 Identification and availability of specifications.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_211.273.dita#DFARS_PGI_PGI_211.273"
-                              class="- topic/xref ">PGI 211.273 Removed.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_211.273.dita#DFARS_PGI_PGI_211.273">PGI 211.273 Removed.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_211.273-3.dita#DFARS_PGI_PGI_211.273-3"
-                                    class="- topic/xref ">PGI 211.273-3 Removed.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_211.273-3.dita#DFARS_PGI_PGI_211.273-3">PGI 211.273-3 Removed.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_211.274.dita#DFARS_PGI_PGI_211.274"
-                              class="- topic/xref ">PGI 211.274 Item identification and valuation requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_211.274.dita#DFARS_PGI_PGI_211.274">PGI 211.274 Item identification and valuation requirements.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_211.274-2.dita#DFARS_PGI_PGI_211.274-2"
-                                    class="- topic/xref ">PGI 211.274-2 Policy for unique item identification.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="PGI_211.274-2.dita#DFARS_PGI_PGI_211.274-2">PGI 211.274-2 Policy for unique item identification.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="PGI_211.70.dita#DFARS_PGI_PGI_211.70"
-                        class="- topic/xref ">PGI 211.70 —PURCHASE REQUESTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="PGI_211.70.dita#DFARS_PGI_PGI_211.70">PGI 211.70 -PURCHASE REQUESTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="PGI_211.7001.dita#DFARS_PGI_PGI_211.7001"
-                              class="- topic/xref ">PGI 211.7001 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_211.7001.dita#DFARS_PGI_PGI_211.7001">PGI 211.7001 Procedures.</xref>
                      </p>
                   </li>
                </ul>

@@ -1,144 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS_PART_249"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS_PART_249">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 249</ph> - TERMINATION OF CONTRACTS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_249.1.dita#DFARS_SUBPART_249.1"
-                        class="- topic/xref ">SUBPART 249.1 —GENERAL PRINCIPLES</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 249</ph> - TERMINATION OF CONTRACTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_249.1.dita#DFARS_SUBPART_249.1">Subpart 249.1 - GENERAL PRINCIPLES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.105.dita#DFARS_249.105"
-                              class="- topic/xref ">249.105 Duties of termination contracting officer after issuance of notice of termination.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.105.dita#DFARS_249.105">249.105 Duties of termination contracting officer after issuance of notice of termination.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="249.105-1.dita#DFARS_249.105-1"
-                                    class="- topic/xref ">249.105-1 Termination status reports.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="249.105-1.dita#DFARS_249.105-1">249.105-1 Termination status reports.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="249.105-2.dita#DFARS_249.105-2"
-                                    class="- topic/xref ">249.105-2 Release of excess funds.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="249.105-2.dita#DFARS_249.105-2">249.105-2 Release of excess funds.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.109.dita#DFARS_249.109"
-                              class="- topic/xref ">249.109 Settlement agreements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.109.dita#DFARS_249.109">249.109 Settlement agreements.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="249.109-7.dita#DFARS_249.109-7"
-                                    class="- topic/xref ">249.109-7 Settlement by determination.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="249.109-7.dita#DFARS_249.109-7">249.109-7 Settlement by determination.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="249.109-70.dita#DFARS_249.109-70"
-                                    class="- topic/xref ">249.109-70 Limitation on pricing of the terminated effort.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="249.109-70.dita#DFARS_249.109-70">249.109-70 Limitation on pricing of the terminated effort.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.110.dita#DFARS_249.110"
-                              class="- topic/xref ">249.110 Settlement negotiation memorandum.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.110.dita#DFARS_249.110">249.110 Settlement negotiation memorandum.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_249.5.dita#DFARS_SUBPART_249.5"
-                        class="- topic/xref ">SUBPART 249.5 —CONTRACT TERMINATION CLAUSES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_249.5.dita#DFARS_SUBPART_249.5">Subpart 249.5 - CONTRACT TERMINATION CLAUSES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.501.dita#DFARS_249.501"
-                              class="- topic/xref ">249.501 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.501.dita#DFARS_249.501">249.501 General.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="249.501-70.dita#DFARS_249.501-70"
-                                    class="- topic/xref ">249.501-70 Special termination costs.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="249.501-70.dita#DFARS_249.501-70">249.501-70 Special termination costs.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_249.70.dita#DFARS_SUBPART_249.70"
-                        class="- topic/xref ">SUBPART 249.70 —SPECIAL TERMINATION REQUIREMENTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_249.70.dita#DFARS_SUBPART_249.70">Subpart 249.70 - SPECIAL TERMINATION REQUIREMENTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.7000.dita#DFARS_249.7000"
-                              class="- topic/xref ">249.7000 Terminated contracts with Canadian Commercial Corporation.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.7000.dita#DFARS_249.7000">249.7000 Terminated contracts with Canadian Commercial Corporation.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.7001.dita#DFARS_249.7001"
-                              class="- topic/xref ">249.7001 Congressional notification on significant contract terminations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.7001.dita#DFARS_249.7001">249.7001 Congressional notification on significant contract terminations.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.7002.dita#DFARS_249.7002"
-                              class="- topic/xref ">249.7002 Reserved.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.7002.dita#DFARS_249.7002">249.7002 Reserved.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.7003.dita#DFARS_249.7003"
-                              class="- topic/xref ">249.7003 Notification of anticipated contract terminations or reductions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.7003.dita#DFARS_249.7003">249.7003 Notification of anticipated contract terminations or reductions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="249.7004.dita#DFARS_249.7004"
-                              class="- topic/xref ">249.7004 Contract clause.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="249.7004.dita#DFARS_249.7004">249.7004 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

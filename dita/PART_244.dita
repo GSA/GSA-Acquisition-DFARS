@@ -1,146 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DFARS_PART_244"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="DFARS_PART_244">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 244</ph> - SUBCONTRACTING POLICIES AND PROCEDURES</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_244.1.dita#DFARS_SUBPART_244.1"
-                        class="- topic/xref ">SUBPART 244.1 —GENERAL</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 244</ph> - SUBCONTRACTING POLICIES AND PROCEDURES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_244.1.dita#DFARS_SUBPART_244.1">Subpart 244.1 - GENERAL</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.101.dita#DFARS_244.101"
-                              class="- topic/xref ">244.101 Definitions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.101.dita#DFARS_244.101">244.101 Definitions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_244.2.dita#DFARS_SUBPART_244.2"
-                        class="- topic/xref ">SUBPART 244.2 —CONSENT TO SUBCONTRACTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_244.2.dita#DFARS_SUBPART_244.2">Subpart 244.2 - CONSENT TO SUBCONTRACTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.201.dita#DFARS_244.201"
-                              class="- topic/xref ">244.201 Consent and advance notification requirements.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.201.dita#DFARS_244.201">244.201 Consent and advance notification requirements.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="244.201-1.dita#DFARS_244.201-1"
-                                    class="- topic/xref ">244.201-1 Consent requirements.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="244.201-1.dita#DFARS_244.201-1">244.201-1 Consent requirements.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.202.dita#DFARS_244.202"
-                              class="- topic/xref ">244.202 Contracting officer’s evaluation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.202.dita#DFARS_244.202">244.202 Contracting officers evaluation.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="244.202-2.dita#DFARS_244.202-2"
-                                    class="- topic/xref ">244.202-2 Considerations.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="244.202-2.dita#DFARS_244.202-2">244.202-2 Considerations.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_244.3.dita#DFARS_SUBPART_244.3"
-                        class="- topic/xref ">SUBPART 244.3 —CONTRACTORS' PURCHASING SYSTEMS REVIEWS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_244.3.dita#DFARS_SUBPART_244.3">Subpart 244.3 - CONTRACTORS' PURCHASING SYSTEMS REVIEWS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.301.dita#DFARS_244.301"
-                              class="- topic/xref ">244.301 Objective.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.301.dita#DFARS_244.301">244.301 Objective.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.302.dita#DFARS_244.302"
-                              class="- topic/xref ">244.302 Requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.302.dita#DFARS_244.302">244.302 Requirements.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.303.dita#DFARS_244.303"
-                              class="- topic/xref ">244.303 Extent of review.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.303.dita#DFARS_244.303">244.303 Extent of review.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.305.dita#DFARS_244.305"
-                              class="- topic/xref ">244.305 Granting, withholding, or withdrawing approval.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.305.dita#DFARS_244.305">244.305 Granting, withholding, or withdrawing approval.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="244.305-70.dita#DFARS_244.305-70"
-                                    class="- topic/xref ">244.305-70 Policy.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="244.305-70.dita#DFARS_244.305-70">244.305-70 Policy.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="244.305-71.dita#DFARS_244.305-71"
-                                    class="- topic/xref ">244.305-71 Contract clause.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="244.305-71.dita#DFARS_244.305-71">244.305-71 Contract clause.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_244.4.dita#DFARS_SUBPART_244.4"
-                        class="- topic/xref ">SUBPART 244.4 —SUBCONTRACTS FOR COMMERCIAL ITEMS AND COMMERCIAL COMPONENTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_244.4.dita#DFARS_SUBPART_244.4">Subpart 244.4 - SUBCONTRACTS FOR COMMERCIAL ITEMS AND COMMERCIAL COMPONENTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.402.dita#DFARS_244.402"
-                              class="- topic/xref ">244.402 Policy requirements.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.402.dita#DFARS_244.402">244.402 Policy requirements.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="244.403.dita#DFARS_244.403"
-                              class="- topic/xref ">244.403 Contract clause.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="244.403.dita#DFARS_244.403">244.403 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

@@ -6,8 +6,7 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_225.003"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.003</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -39,12 +38,12 @@ concern); or</p>
          <p id="RMVWAV" outputclass="List2" class="- topic/p ">(2) An unincorporated concern
 having its principal place of business in the United States.</p>
          <p id="JExIFF" class="- topic/p ">“Domestic end product” means—</p>
-         <p rev="Revised June 23, 2022" outputclass="List2">(1) For an end product that does not
+         <p rev="Revised June 23, 2022" outputclass="List2" class="- topic/p ">(1) For an end product that does not
             consist wholly or predominantly of iron or steel or a combination of both— </p>
-         <p rev="Revised June 23, 2022" outputclass="List3">(i) An unmanufactured end product mined
+         <p rev="Revised June 23, 2022" outputclass="List3" class="- topic/p ">(i) An unmanufactured end product mined
             or produced in the United States; or (ii) An end product manufactured in the United
             States if— </p>
-         <p rev="Revised June 23, 2022" outputclass="List4">(A) The cost of its qualifying country
+         <p rev="Revised June 23, 2022" outputclass="List4" class="- topic/p ">(A) The cost of its qualifying country
             components and its components that are mined, produced, or manufactured in the United
             States exceeds 55 percent of the cost of all its components. The cost of components
             includes transportation costs to the place of incorporation into the end product and
@@ -55,14 +54,16 @@ having its principal place of business in the United States.</p>
             source in fact) if the end product in which it is incorporated is manufactured in the
             United States and the component is of a class or kind for which the Government has
             determined that— </p>
-         <p rev="Revised June 23, 2022" outputclass="List5"><i>(1)</i> Sufficient and reasonably
+         <p rev="Revised June 23, 2022" outputclass="List5" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(1)</i> Sufficient and reasonably
             available commercial quantities of a satisfactory quality are not mined, produced, or
             manufactured in the United States; or </p>
-         <p rev="Revised June 23, 2022" outputclass="List5"><i>(2)</i> It is inconsistent with the
+         <p rev="Revised June 23, 2022" outputclass="List5" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(2)</i> It is inconsistent with the
             public interest to apply the restrictions of the Buy American statute; or </p>
-         <p rev="Revised June 23, 2022" outputclass="List4">(B) The end product is a commercially
+         <p rev="Revised June 23, 2022" outputclass="List4" class="- topic/p ">(B) The end product is a commercially
             available off-the-shelf (COTS) item; or </p>
-         <p rev="Revised June 23, 2022" outputclass="List2">(2) For an end product that consists
+         <p rev="Revised June 23, 2022" outputclass="List2" class="- topic/p ">(2) For an end product that consists
             wholly or predominantly of iron or steel or a combination of both, an end product
             manufactured in the United States, if the cost of iron and steel not produced in the
             United States or a qualifying country constitutes less than 5 percent of the cost of all

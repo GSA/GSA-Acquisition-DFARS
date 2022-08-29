@@ -6,8 +6,7 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS_225.101"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.101</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -16,13 +15,13 @@ test determines whether a manufactured end product is a domestic
 end product:</p>
          <p outputclass="List3" class="- topic/p ">(i) The end product is manufactured in
 the United States; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) (A) <ph rev="Revised June 23, 2022">Except
+         <p outputclass="List3" class="- topic/p ">(ii) (A) <ph rev="Revised June 23, 2022" class="- topic/ph ">Except
                for an end product that consists wholly or predominantly of iron or steel or a
                combination of both, the</ph> cost of its U.S. and qualifying country components
-            exceeds <ph rev="Revised June 23, 2022">55 percent</ph> of the cost of all its
+            exceeds <ph rev="Revised June 23, 2022" class="- topic/ph ">55 percent</ph> of the cost of all its
             components. This test is applied to end products only and not to individual
             components.</p>
-         <p rev="Revised June 23, 2022" outputclass="List4">(B) For an end product that consists
+         <p rev="Revised June 23, 2022" outputclass="List4" class="- topic/p ">(B) For an end product that consists
             wholly or predominantly of iron or steel or a combination of both, the cost of iron and
             steel not produced in the United States or a qualifying country must constitute less
             than 5 percent of the cost of all the components used in the end product. The cost of
