@@ -417,7 +417,7 @@
                       base="NoTitle"
                       href="SUBPART_203.2.dita"
                       props="Subpart 203.2"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_203.2"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_203.2.html"/>
@@ -425,7 +425,7 @@
                       base="NoTitle"
                       href="SUBPART_203.3.dita"
                       props="Subpart 203.3"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_203.3"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_203.3.html"/>
@@ -433,7 +433,7 @@
                       base="NoTitle"
                       href="SUBPART_203.4.dita"
                       props="Subpart 203.4"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_203.4"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_203.4.html"/>
@@ -615,7 +615,7 @@
                       base="NoTitle"
                       href="SUBPART_203.70.dita"
                       props="Subpart 203.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_203.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_203.70.html"/>
@@ -1525,7 +1525,7 @@
                       audience="DFARS_206.001"
                       xtrf="No"
                       xtrc="DFARS_206.001.html">
-               <topicref navtitle=" 206.001-70Exception for prototype projects for             follow-on production contracts."
+               <topicref navtitle=" 206.001-70 Exception for prototype projects for follow-on production contracts."
                          base="NoTitle"
                          href="206.001_70.dita"
                          props="206.001-70"
@@ -1748,6 +1748,12 @@
                          audience="DFARS_207.106"
                          xtrf="subtopic"
                          xtrc="DFARS_207.106.html"/>
+               <topicref href="207.108.dita"
+                         props="207.108"
+                         outputclass="subtopic"
+                         navtitle="207.108 Additional requirements for telecommuting."
+                         audience="DFARS_207.108"
+                         xtrc="DFARS_207.108.html"/>
                <topicref navtitle="207.170 Reserved."
                          base="concept"
                          href="207.170.dita"
@@ -2169,7 +2175,7 @@
                       base="NoTitle"
                       href="SUBPART_208.72.dita"
                       props="Subpart 208.72"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_208.72"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_208.72.html"/>
@@ -2434,7 +2440,7 @@
                       base="NoTitle"
                       href="SUBPART_209.3.dita"
                       props="Subpart 209.3"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_209.3"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_209.3.html"/>
@@ -3218,7 +3224,7 @@
                       base="NoTitle"
                       href="SUBPART_212.70.dita"
                       props="Subpart 212.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_212.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_212.70.html"/>
@@ -3319,7 +3325,7 @@
                       base="NoTitle"
                       href="SUBPART_213.0.dita"
                       props="Subpart 213.0"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_213.0"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_213.0.html"/>
@@ -4809,7 +4815,7 @@
                       base="NoTitle"
                       href="SUBPART_217.4.dita"
                       props="Subpart 217.4"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_217.4"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_217.4.html"/>
@@ -5064,7 +5070,7 @@
                       base="NoTitle"
                       href="SUBPART_217.72.dita"
                       props="Subpart 217.72"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_217.72"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_217.72.html"/>
@@ -5461,7 +5467,7 @@
                       base="NoTitle"
                       href="SUBPART_219.0.dita"
                       props="Subpart 219.0"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_219.0"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_219.0.html"/>
@@ -5854,7 +5860,7 @@
                       base="NoTitle"
                       href="SUBPART_219.10.dita"
                       props="Subpart 219.10"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_219.10"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_219.10.html"/>
@@ -5862,7 +5868,7 @@
                       base="NoTitle"
                       href="SUBPART_219.11.dita"
                       props="Subpart 219.11"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_219.11"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_219.11.html"/>
@@ -5870,7 +5876,7 @@
                       base="NoTitle"
                       href="SUBPART_219.12.dita"
                       props="Subpart 219.12"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_219.12"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_219.12.html"/>
@@ -5895,7 +5901,7 @@
                       base="NoTitle"
                       href="SUBPART_219.70.dita"
                       props="Subpart 219.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_219.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_219.70.html"/>
@@ -5985,7 +5991,7 @@
                       base="NoTitle"
                       href="SUBPART_219.72.dita"
                       props="Subpart 219.72"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_219.72"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_219.72.html"/>
@@ -6487,7 +6493,7 @@
                       base="NoTitle"
                       href="SUBPART_222.71.dita"
                       props="Subpart 222.71"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_222.71"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_222.71.html"/>
@@ -6611,7 +6617,7 @@
                       base="NoTitle"
                       href="SUBPART_223.1.dita"
                       props="Subpart 223.1"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_223.1"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_223.1.html"/>
@@ -6619,7 +6625,7 @@
                       base="NoTitle"
                       href="SUBPART_223.2.dita"
                       props="Subpart 223.2"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_223.2"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_223.2.html"/>
@@ -6752,7 +6758,7 @@
                       base="NoTitle"
                       href="SUBPART_223.7.dita"
                       props="Subpart 223.7"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_223.7"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_223.7.html"/>
@@ -6777,7 +6783,7 @@
                       base="NoTitle"
                       href="SUBPART_223.70.dita"
                       props="Subpart 223.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_223.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_223.70.html"/>
@@ -7330,7 +7336,7 @@
                       base="NoTitle"
                       href="SUBPART_225.6.dita"
                       props="Subpart 225.6"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_225.6"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_225.6.html"/>
@@ -8515,6 +8521,37 @@
                             audience="DFARS_225.7020-5"
                             xtrc="DFARS_225.7020-5.html"/>
                </topicref>
+               <topicref href="225.7021.dita"
+                         props="225.7021"
+                         outputclass="subtopic"
+                         navtitle="225.7021 Disclosure requirements for employment transparency regarding individuals who perform work in the People’s Republic of China."
+                         audience="DFARS_225.7021"
+                         xtrc="DFARS_225.7021.html">
+                  <topicref href="225.7021-1.dita"
+                            props="225.7021-1"
+                            outputclass="subtopic"
+                            navtitle="225.7021-1 Definitions."
+                            audience="DFARS_225.7021-1"
+                            xtrc="DFARS_225.7021-1.html"/>
+                  <topicref href="225.7021-2.dita"
+                            props="225.7021-2"
+                            outputclass="subtopic"
+                            navtitle="225.7021-2  Restrictions."
+                            audience="DFARS_225.7021-2"
+                            xtrc="DFARS_225.7021-2.html"/>
+                  <topicref href="225.7021-3.dita"
+                            props="225.7021-3"
+                            outputclass="subtopic"
+                            navtitle="225.7021-3  National security waiver of disclosure."
+                            audience="DFARS_225.7021-3"
+                            xtrc="DFARS_225.7021-3.html"/>
+                  <topicref href="225.7021-4.dita"
+                            props="225.7021-4"
+                            outputclass="subtopic"
+                            navtitle="225.7021-4  Solicitation provision and contract clause."
+                            audience="DFARS_225.7021-4"
+                            xtrc="DFARS_225.7021-4.html"/>
+               </topicref>
             </topicref>
             <topicref navtitle="SUBPART 225.71 —OTHER RESTRICTIONS ON FOREIGN ACQUISITION"
                       base="NoTitle"
@@ -8758,7 +8795,7 @@
                       base="NoTitle"
                       href="SUBPART_225.74.dita"
                       props="Subpart 225.74"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_225.74"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_225.74.html"/>
@@ -9187,7 +9224,7 @@
                       base="NoTitle"
                       href="SUBPART_226.3.dita"
                       props="Subpart 226.3"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_226.3"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_226.3.html"/>
@@ -9195,7 +9232,7 @@
                       base="NoTitle"
                       href="SUBPART_226.70.dita"
                       props="Subpart 226.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_226.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_226.70.html"/>
@@ -10371,7 +10408,7 @@
                       base="NoTitle"
                       href="SUBPART_229.70.dita"
                       props="Subpart 229.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_229.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_229.70.html"/>
@@ -10414,7 +10451,7 @@
                       base="NoTitle"
                       href="SUBPART_230.70.dita"
                       props="Subpart 230.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_230.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_230.70.html"/>
@@ -10422,7 +10459,7 @@
                       base="NoTitle"
                       href="SUBPART_230.71.dita"
                       props="Subpart 230.71"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_230.71"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_230.71.html"/>
@@ -11332,7 +11369,7 @@
                       base="NoTitle"
                       href="SUBPART_232.72.dita"
                       props="Subpart 232.72"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_232.72"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_232.72.html"/>
@@ -11749,7 +11786,7 @@
                       base="NoTitle"
                       href="SUBPART_235.70.dita"
                       props="Subpart 235.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_235.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_235.70.html"/>
@@ -11906,7 +11943,7 @@
                       base="NoTitle"
                       href="SUBPART_236.4.dita"
                       props="Subpart 236.4"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_236.4"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_236.4.html"/>
@@ -12344,7 +12381,7 @@
                       base="NoTitle"
                       href="SUBPART_237.6.dita"
                       props="Subpart 237.6"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_237.6"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_237.6.html"/>
@@ -12969,7 +13006,7 @@
                       base="NoTitle"
                       href="SUBPART_239.75.dita"
                       props="Subpart 239.75"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_239.75"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_239.75.html"/>
@@ -13187,7 +13224,7 @@
                       base="NoTitle"
                       href="SUBPART_242.1.dita"
                       props="Subpart 242.1"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_242.1"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_242.1.html"/>
@@ -13254,7 +13291,7 @@
                       base="NoTitle"
                       href="SUBPART_242.4.dita"
                       props="Subpart 242.4"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_242.4"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_242.4.html"/>
@@ -13463,7 +13500,7 @@
                       base="NoTitle"
                       href="SUBPART_242.14.dita"
                       props="Subpart 242.14"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_242.14"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_242.14.html"/>
@@ -14339,7 +14376,7 @@
                       base="NoTitle"
                       href="SUBPART_245.71.dita"
                       props="Subpart 245.71"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_245.71"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_245.71.html"/>
@@ -14347,7 +14384,7 @@
                       base="NoTitle"
                       href="SUBPART_245.72.dita"
                       props="Subpart 245.72"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_245.72"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_245.72.html"/>
@@ -14355,7 +14392,7 @@
                       base="NoTitle"
                       href="SUBPART_245.73.dita"
                       props="Subpart 245.73"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_245.73"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_245.73.html"/>
@@ -15037,7 +15074,7 @@
                       base="NoTitle"
                       href="SUBPART_248.2.dita"
                       props="Subpart 248.2"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_248.2"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_248.2.html"/>
@@ -15205,7 +15242,7 @@
                       base="NoTitle"
                       href="SUBPART_250.0.dita"
                       props="Subpart 250.0"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_250.0"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_250.0.html"/>
@@ -15357,7 +15394,7 @@
                       base="NoTitle"
                       href="SUBPART_250.2.dita"
                       props="Subpart 250.2"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_250.2"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_250.2.html"/>
@@ -15365,7 +15402,7 @@
                       base="NoTitle"
                       href="SUBPART_250.3.dita"
                       props="Subpart 250.3"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_250.3"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_250.3.html"/>
@@ -15373,7 +15410,7 @@
                       base="NoTitle"
                       href="SUBPART_250.4.dita"
                       props="Subpart 250.4"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_250.4"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_250.4.html"/>
@@ -17280,6 +17317,18 @@
                             xtrf="subtopic"
                             audience="DFARS_252.225-7056"
                             xtrc="DFARS_252.225-7056.html"/>
+                  <topicref href="252.225-7057.dita"
+                            props="252.225-7057"
+                            outputclass="subtopic"
+                            navtitle="252.225-7057  Preaward Disclosure of Employment of Individuals Who Work in the People’s Republic of China."
+                            audience="DFARS_252.225-7057"
+                            xtrc="DFARS_252.225-7057.html"/>
+                  <topicref href="252.225-7058.dita"
+                            props="252.225-7058"
+                            outputclass="subtopic"
+                            navtitle="252.225-7058  Postaward Disclosure of Employment of Individuals Who Work in the People’s Republic of China."
+                            audience="DFARS_252.225-7058"
+                            xtrc="DFARS_252.225-7058.html"/>
                </topicref>
                <topicref navtitle="252.226 RESERVED"
                          base="concept"
@@ -19633,7 +19682,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q30HT.dita"
                       props="Part 1 -Charter"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q30HT"
                       xtrf="subtopic"
                       xtrc="id2064F0Q30HT.html"/>
@@ -19641,7 +19690,7 @@
          <topicref navtitle="APPENDIX B —RESERVED"
                    base="NoTitle"
                    href="Appendix_B.dita"
-                   props="APPENDIX B -RESERVED"
+                   props="APPENDIX B"
                    outputclass="Part"
                    audience="Appendix_B"
                    xtrf="Part"
@@ -19649,7 +19698,7 @@
          <topicref navtitle="APPENDIX C —RESERVED"
                    base="NoTitle"
                    href="Appendix_C.dita"
-                   props="APPENDIX C -RESERVED"
+                   props="APPENDIX C"
                    outputclass="Part"
                    audience="Appendix_C"
                    xtrf="Part"
@@ -19657,7 +19706,7 @@
          <topicref navtitle="APPENDIX D —RESERVED"
                    base="NoTitle"
                    href="Appendix_D.dita"
-                   props="APPENDIX D -RESERVED"
+                   props="APPENDIX D"
                    outputclass="Part"
                    audience="Appendix_D"
                    xtrf="Part"
@@ -19665,7 +19714,7 @@
          <topicref navtitle="APPENDIX E —RESERVED"
                    base="NoTitle"
                    href="Appendix_E.dita"
-                   props="APPENDIX E -RESERVED"
+                   props="APPENDIX E"
                    outputclass="Part"
                    audience="Appendix_E"
                    xtrf="Part"
@@ -19962,7 +20011,7 @@
          <topicref navtitle="APPENDIX G —RESERVED"
                    base="NoTitle"
                    href="Appendix_G.dita"
-                   props="APPENDIX G -RESERVED"
+                   props="APPENDIX G"
                    outputclass="Part"
                    audience="Appendix_G"
                    xtrf="Part"
@@ -19971,7 +20020,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40BF.dita"
                       props="Appendix-id2064F0Q40BF"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40BF"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40BF.html"/>
@@ -19979,7 +20028,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q402L.dita"
                       props="Part 2 -ARMY ACTIVITY ADDRESS NUMBERS"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q402L"
                       xtrf="subtopic"
                       xtrc="id2064F0Q402L.html"/>
@@ -19987,7 +20036,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40XK.dita"
                       props="Part 3 -NAVY ACTIVITY ADDRESS NUMBERS"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40XK"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40XK.html"/>
@@ -19995,7 +20044,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40L7.dita"
                       props="Part 4 -MARINE CORPS ACTIVITY ADDRESS NUMBERS"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40L7"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40L7.html"/>
@@ -20003,7 +20052,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40TS.dita"
                       props="Part 5 -AIR FORCE ACTIVITY ADDRESS NUMBERS"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40TS"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40TS.html"/>
@@ -20011,7 +20060,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40NW.dita"
                       props="Part 6 -DEFENSE LOGISTICS AGENCY ACTIVITY ADDRESS NUMBERS"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40NW"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40NW.html"/>
@@ -20019,7 +20068,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40AX.dita"
                       props="Part 7 -DEFENSE INFORMATION SYSTEMS AGENCY ACTIVITY ADDRESS NUMBERS"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40AX"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40AX.html"/>
@@ -20027,7 +20076,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40L7U.dita"
                       props="Part 8 -NATIONAL IMAGERY AND MAPPING AGENCY ACTIVITY ADDRESS NUMBERS"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40L7U"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40L7U.html"/>
@@ -20035,7 +20084,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40BL.dita"
                       props="Part 9"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40BL"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40BL.html"/>
@@ -20043,7 +20092,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40PM.dita"
                       props="Part 10"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40PM"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40PM.html"/>
@@ -20051,7 +20100,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q404B.dita"
                       props="Part 11"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q404B"
                       xtrf="subtopic"
                       xtrc="id2064F0Q404B.html"/>
@@ -20059,7 +20108,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q40E6.dita"
                       props="Part 12"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q40E6"
                       xtrf="subtopic"
                       xtrc="id2064F0Q40E6.html"/>
@@ -20067,7 +20116,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q400A.dita"
                       props="Part 13"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q400A"
                       xtrf="subtopic"
                       xtrc="id2064F0Q400A.html"/>
@@ -20075,7 +20124,7 @@
                       base="NoTitle"
                       href="Appendix-id2064F0Q404E.dita"
                       props="Part 14"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0Q404E"
                       xtrf="subtopic"
                       xtrc="id2064F0Q404E.html"/>
@@ -20165,67 +20214,10 @@
                       base="concept"
                       href="Appendix-id2064F0S0OHK.dita"
                       props="I-101"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="id2064F0S0OHK"
                       xtrf="SubPart"
-                      xtrc="id2064F0S0OHK.html">
-               <topicref navtitle="I-101.1 Affiliation."
-                         base="concept"
-                         href="Appendix-id2064F0S0OZR.dita"
-                         props="I-101.1"
-                         outputclass="subtopic"
-                         audience="id2064F0S0OZR"
-                         xtrf="subtopic"
-                         xtrc="id2064F0S0OZR.html"/>
-               <topicref navtitle="I-101.2 Minority institution of higher education."
-                         base="concept"
-                         href="Appendix-id2064F0S0O8T.dita"
-                         props="I-101.2"
-                         outputclass="subtopic"
-                         audience="id2064F0S0O8T"
-                         xtrf="subtopic"
-                         xtrc="id2064F0S0O8T.html"/>
-               <topicref navtitle="I-101.3Nontraditional defense contractor."
-                         base="concept"
-                         href="Appendix-id2064F0S0OVK.dita"
-                         props="I-101.3"
-                         outputclass="subtopic"
-                         audience="id2064F0S0OVK"
-                         xtrf="subtopic"
-                         xtrc="id2064F0S0OVK.html"/>
-               <topicref navtitle="I-101.4Eligible entity employing the severely disabled."
-                         base="concept"
-                         href="Appendix-id2064F0S0OAR.dita"
-                         props="I-101.4"
-                         outputclass="subtopic"
-                         audience="id2064F0S0OAR"
-                         xtrf="subtopic"
-                         xtrc="id2064F0S0OAR.html"/>
-               <topicref navtitle="I-101.5Severely disabled individual."
-                         base="concept"
-                         href="Appendix-id2064F0S0OWS.dita"
-                         props="I-101.5"
-                         outputclass="subtopic"
-                         audience="id2064F0S0OWS"
-                         xtrf="subtopic"
-                         xtrc="id2064F0S0OWS.html"/>
-               <topicref navtitle="I-101.6Women-owned small business."
-                         base="concept"
-                         href="Appendix-id2064F0S0OCT.dita"
-                         props="I-101.6"
-                         outputclass="subtopic"
-                         audience="id2064F0S0OCT"
-                         xtrf="subtopic"
-                         xtrc="id2064F0S0OCT.html"/>
-               <topicref navtitle="I-101.7Service-disabled veteran-owned small business."
-                         base="concept"
-                         href="Appendix-id2064F0S0ODE.dita"
-                         props="I-101.7"
-                         outputclass="subtopic"
-                         audience="id2064F0S0ODE"
-                         xtrf="subtopic"
-                         xtrc="id2064F0S0ODE.html"/>
-            </topicref>
+                      xtrc="id2064F0S0OHK.html"/>
             <topicref navtitle="I-102Participant eligibility."
                       base="concept"
                       href="Appendix-id2064F0S0OR1.dita"
@@ -20550,7 +20542,7 @@
                       base="NoTitle"
                       href="PGI_203.1.dita"
                       props="PGI 203.1"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1494442"
                       xtrf="subtopic"
                       xtrc="i1494442.html"/>
@@ -20592,7 +20584,7 @@
                       base="NoTitle"
                       href="PGI_203.8.dita"
                       props="PGI 203.8"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1494456"
                       xtrf="subtopic"
                       xtrc="i1494456.html"/>
@@ -20945,7 +20937,7 @@
                       base="NoTitle"
                       href="PGI_204.72.dita"
                       props="PGI 204.72"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1495095"
                       xtrf="subtopic"
                       xtrc="i1495095.html"/>
@@ -21066,7 +21058,7 @@
                       props="PGI 206.001 Reserved"
                       outputclass="SubPart"
                       audience="dxztPx"
-                      xtrf="SubPart"
+                      xtrf="subtopic"
                       xtrc="dxztPx.html">
                <topicref navtitle="Exception for prototype projects for follow-on production contracts."
                          base="NoTitle"
@@ -21186,6 +21178,12 @@
                          audience="DFARS_PGI_PGI_207.103"
                          xtrf="subtopic"
                          xtrc="DFARS_PGI_PGI_207.103.html"/>
+               <topicref href="PGI_207.108.dita"
+                         props="PGI 207.108"
+                         outputclass="subtopic"
+                         navtitle="PGI 207.108  Additional requirements for telecommuting."
+                         audience="DFARS_PGI_PGI_207.108"
+                         xtrc="DFARS_PGI_PGI_207.108.html"/>
                <topicref navtitle="PGI 207.105 Contents of written acquisition plans."
                          base="concept"
                          href="PGI_207.105.dita"
@@ -21335,7 +21333,7 @@
                       base="NoTitle"
                       href="PGI_208.7.dita"
                       props="PGI 208.7"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i207NEA00K5Z"
                       xtrf="subtopic"
                       xtrc="i207NEA00K5Z.html"/>
@@ -21989,7 +21987,7 @@
                       base="NoTitle"
                       href="PGI_212.4.dita"
                       props="PGI 212.4"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1495578"
                       xtrf="subtopic"
                       xtrc="i1495578.html"/>
@@ -21997,7 +21995,7 @@
                       base="NoTitle"
                       href="PGI_212.70.dita"
                       props="PGI 212.70"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1495583"
                       xtrf="subtopic"
                       xtrc="i1495583.html"/>
@@ -23477,7 +23475,7 @@
                       base="NoTitle"
                       href="PGI_217.78.dita"
                       props="PGI 217.78"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1496403"
                       xtrf="subtopic"
                       xtrc="i1496403.html"/>
@@ -23555,7 +23553,7 @@
                       base="NoTitle"
                       href="PGI_219.3.dita"
                       props="PGI 219.3"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1496425"
                       xtrf="subtopic"
                       xtrc="i1496425.html"/>
@@ -24478,6 +24476,19 @@
                             xtrf="subtopic"
                             audience="DFARS_PGI_PGI_225.7020-4"
                             xtrc="DFARS_PGI_PGI_225.7020-4.html"/>
+               </topicref>
+               <topicref href="PGI_225.7021.dita"
+                         props="PGI 225.7021"
+                         outputclass="subtopic"
+                         navtitle="PGI 225.7021  Disclosure requirements for employment transparency regarding individuals who perform work in the People’s Republic of China."
+                         audience="DFARS_PGI_PGI_225.7021"
+                         xtrc="DFARS_PGI_PGI_225.7021.html">
+                  <topicref href="PGI_225.7021-3.dita"
+                            props="PGI 225.7021-3"
+                            outputclass="subtopic"
+                            navtitle="PGI 225.7021-3  National security waiver of disclosure."
+                            audience="DFARS_PGI_PGI_225.7021-3"
+                            xtrc="DFARS_PGI_PGI_225.7021-3.html"/>
                </topicref>
             </topicref>
             <topicref navtitle="PGI 225.72 —REPORTING CONTRACT PERFORMANCE OUTSIDE THE UNITED STATES"
@@ -26534,7 +26545,7 @@
                       base="NoTitle"
                       href="PGI_249.4.dita"
                       props="PGI 249.4"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1497963"
                       xtrf="subtopic"
                       xtrc="i1497963.html"/>
@@ -26619,7 +26630,7 @@
                       base="NoTitle"
                       href="PGI_250.3.dita"
                       props="PGI 250.3"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i1498000"
                       xtrf="subtopic"
                       xtrc="i1498000.html"/>
@@ -26824,7 +26835,7 @@
                       base="NoTitle"
                       href="PGI_253.3.dita"
                       props="PGI 253.3"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="i207UE0R90Y4"
                       xtrf="subtopic"
                       xtrc="i207UE0R90Y4.html"/>
