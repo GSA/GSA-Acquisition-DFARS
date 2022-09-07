@@ -1,83 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.242-7004"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.242-7004</ph> Material Management and Accounting System.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="242.7204.dita#DFARS_242.7204"
-                  base="DFARS-242.7204"
-                  class="- topic/xref ">242.7204</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.242-7004" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">252.242-7004</ph> Material Management and Accounting System.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" href="242.7204.dita#DFARS_242.7204" base="DFARS-242.7204">242.7204</xref>
             , use the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">MATERIAL MANAGEMENT AND ACCOUNTING SYSTEM (MAY 2011)</p>
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i>As used in this clause—</p>
-         <p outputclass="List2" class="- topic/p ">(1) “Material management and accounting system (MMAS)” means the Contractor's system or systems for planning, controlling, and accounting for the acquisition, use, issuing, and disposition of material. Material management and accounting systems may be manual or automated. They may be stand-alone systems or they may be integrated with planning, engineering, estimating, purchasing, inventory, accounting, or other systems.</p>
-         <p outputclass="List2" class="- topic/p ">(2) “Valid time-phased requirements” means material that is—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Needed to fulfill the production plan, including reasonable quantities for scrap, shrinkage, yield, etc.; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Charged/billed to contracts or other cost objectives in a manner consistent with the need to fulfill the production plan.</p>
-         <p outputclass="List2" class="- topic/p ">(3) “Contractor” means a business unit as defined in section 31.001 of the Federal Acquisition Regulation (FAR).</p>
-         <p outputclass="List2" class="- topic/p ">(4) “Acceptable material management and accounting system” means a MMAS that generally complies with the system criteria in paragraph (d) of this clause.</p>
-         <p outputclass="List2" class="- topic/p ">(5) “Significant deficiency<i class="+ topic/ph hi-d/i ">”</i> means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon information produced by the system that is needed for management purposes.</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">General.</i>The Contractor shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Maintain an MMAS that—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Reasonably forecasts material requirements;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Ensures that costs of purchased and fabricated material charged or allocated to a contract are based on valid time-phased requirements; and</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Maintains a consistent, equitable, and unbiased logic for costing of material transactions; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) Assess its MMAS and take reasonable action to comply with the MMAS standards in paragraph (e) of this clause.</p>
-         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Disclosure and maintenance requirements.</i>The Contractor shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Have policies, procedures, and operating instructions that adequately describe its MMAS;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Provide to the Administrative Contracting Officer (ACO), upon request, the results of internal reviews that it has conducted to ensure compliance with established MMAS policies, procedures, and operating instructions; and</p>
-         <p outputclass="List2" class="- topic/p ">(3) Disclose significant changes in its MMAS to the ACO at least 30 days prior to implementation.</p>
-         <p outputclass="List1" class="- topic/p ">(d) System criteria. The MMAS shall have adequate internal controls to ensure system and data integrity, and shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Have an adequate system description including policies, procedures, and operating instructions that comply with the FAR and Defense FAR Supplement;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Ensure that costs of purchased and fabricated material charged or allocated to a contract are based on valid time-phased requirements as impacted by minimum/economic order quantity restrictions.</p>
-         <p outputclass="List3" class="- topic/p ">(i) A 98 percent bill of material accuracy and a 95 percent master production schedule accuracy are desirable as a goal in order to ensure that requirements are both valid and appropriately time-phased.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) If systems have accuracy levels below these, the Contractor shall provide adequate evidence that—</p>
-         <p outputclass="List4" class="- topic/p ">(A) There is no material harm to the Government due to lower accuracy levels; and</p>
-         <p outputclass="List4" class="- topic/p ">(B) The cost to meet the accuracy goals is excessive in relation to the impact on the Government;</p>
-         <p outputclass="List2" class="- topic/p ">(3) Provide a mechanism to identify, report, and resolve system control weaknesses and manual override. Systems should identify operational exceptions, such as excess/residual inventory, as soon as known;</p>
-         <p outputclass="List2" class="- topic/p ">(4) Provide audit trails and maintain records (manual and those in machine-readable form) necessary to evaluate system logic and to verify through transaction testing that the system is operating as desired;</p>
-         <p outputclass="List2" class="- topic/p ">(5) Establish and maintain adequate levels of record accuracy, and include reconciliation of recorded inventory quantities to physical inventory by part number on a periodic basis. A 95 percent accuracy level is desirable. If systems have an accuracy level below 95 percent, the Contractor shall provide adequate evidence that—</p>
-         <p outputclass="List3" class="- topic/p ">(i) There is no material harm to the Government due to lower accuracy levels; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The cost to meet the accuracy goal is excessive in relation to the impact on the Government;</p>
-         <p outputclass="List2" class="- topic/p ">(6) Provide detailed descriptions of circumstances that will result in manual or system generated transfers of parts;</p>
-         <p outputclass="List2" class="- topic/p ">(7) Maintain a consistent, equitable, and unbiased logic for costing of material transactions as follows:</p>
-         <p outputclass="List3" class="- topic/p ">(i) The Contractor shall maintain and disclose written policies describing the transfer methodology and the loan/pay-back technique.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The costing methodology may be standard or actual cost, or any of the inventory costing methods in 48 CFR 9904.411-50(b). The Contractor shall maintain consistency across all contract and customer types, and from accounting period to accounting period for initial charging and transfer charging.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) The system should transfer parts and associated costs within the same billing period. In the few instances where this may not be appropriate, the Contractor may accomplish the material transaction using a loan/pay-back technique. The “loan/pay-back technique” means that the physical part is moved temporarily from the contract, but the cost of the part remains on the contract. The procedures for the loan/pay-back technique must be approved by the ACO. When the technique is used, the Contractor shall have controls to ensure—</p>
-         <p outputclass="List4" class="- topic/p ">(A) Parts are paid back expeditiously;</p>
-         <p outputclass="List4" class="- topic/p ">(B) Procedures and controls are in place to correct any overbilling that might occur;</p>
-         <p outputclass="List4" class="- topic/p ">(C) Monthly, at a minimum, identification of the borrowing contract and the date the part was borrowed; and</p>
-         <p outputclass="List4" class="- topic/p ">(D) The cost of the replacement part is charged to the borrowing contract;</p>
-         <p outputclass="List2" class="- topic/p ">(8) Where allocations from common inventory accounts are used, have controls (in addition to those in paragraphs (d)(2) and (7) of this clause) to ensure that—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Reallocations and any credit due are processed no less frequently than the routine billing cycle;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Inventories retained for requirements that are not under contract are not allocated to contracts; and</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Algorithms are maintained based on valid and current data;</p>
-         <p outputclass="List2" class="- topic/p ">(9) Have adequate controls to ensure that physically commingled inventories that may include material for which costs are charged or allocated to fixed-price, cost-reimbursement, and commercial contracts do not compromise requirements of any of the standards in paragraphs (d)(1) through (8) of this clause. Government-furnished material shall not be—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Physically commingled with other material; or</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Used on commercial work; and</p>
-         <p outputclass="List2" class="- topic/p ">(10) Be subjected to periodic internal reviews to ensure compliance with established policies and procedures.</p>
-         <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Significant deficiencies</i>. (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any significant deficiencies. The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency.</p>
-         <p outputclass="List2" class="- topic/p ">(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's MMAS. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.</p>
-         <p outputclass="List2" class="- topic/p ">(3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer’s final determination concerning—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Remaining significant deficiencies;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The adequacy of any proposed or completed corrective action; and</p>
-         <p outputclass="List3" class="- topic/p ">(iii) System disapproval if the Contracting Officer determines that one or more significant deficiencies remain.</p>
-         <p outputclass="List1" class="- topic/p ">(f) If the Contractor receives the Contracting Officer’s final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the significant deficiencies.</p>
-         <p outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">Withholding payments</i>. If the Contracting Officer makes a final determination to disapprove the Contractor’s MMAS, and the contract includes the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.242-7005.dita#DFARS_252.242-7005"
-                  base="i1383876"
-                  class="- topic/xref ">252.242-7005</xref>
+         <p outputclass="Ctr_SmCaps">MATERIAL MANAGEMENT AND ACCOUNTING SYSTEM (MAY 2011)</p>
+         <p outputclass="List1">(a) <i>Definitions.</i>As used in this clause—</p>
+         <p outputclass="List2">(1) “Material management and accounting system (MMAS)” means the Contractor's system or systems for planning, controlling, and accounting for the acquisition, use, issuing, and disposition of material. Material management and accounting systems may be manual or automated. They may be stand-alone systems or they may be integrated with planning, engineering, estimating, purchasing, inventory, accounting, or other systems.</p>
+         <p outputclass="List2">(2) “Valid time-phased requirements” means material that is—</p>
+         <p outputclass="List3">(i) Needed to fulfill the production plan, including reasonable quantities for scrap, shrinkage, yield, etc.; and</p>
+         <p outputclass="List3">(ii) Charged/billed to contracts or other cost objectives in a manner consistent with the need to fulfill the production plan.</p>
+         <p outputclass="List2">(3) “Contractor” means a business unit as defined in section 31.001 of the Federal Acquisition Regulation (FAR).</p>
+         <p outputclass="List2">(4) “Acceptable material management and accounting system” means a MMAS that generally complies with the system criteria in paragraph (d) of this clause.</p>
+         <p outputclass="List2">(5) “Significant deficiency<i>”</i> means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon information produced by the system that is needed for management purposes.</p>
+         <p outputclass="List1">(b) <i>General.</i>The Contractor shall—</p>
+         <p outputclass="List2">(1) Maintain an MMAS that—</p>
+         <p outputclass="List3">(i) Reasonably forecasts material requirements;</p>
+         <p outputclass="List3">(ii) Ensures that costs of purchased and fabricated material charged or allocated to a contract are based on valid time-phased requirements; and</p>
+         <p outputclass="List3">(iii) Maintains a consistent, equitable, and unbiased logic for costing of material transactions; and</p>
+         <p outputclass="List2">(2) Assess its MMAS and take reasonable action to comply with the MMAS standards in paragraph (e) of this clause.</p>
+         <p outputclass="List1">(c) <i>Disclosure and maintenance requirements.</i>The Contractor shall—</p>
+         <p outputclass="List2">(1) Have policies, procedures, and operating instructions that adequately describe its MMAS;</p>
+         <p outputclass="List2">(2) Provide to the Administrative Contracting Officer (ACO), upon request, the results of internal reviews that it has conducted to ensure compliance with established MMAS policies, procedures, and operating instructions; and</p>
+         <p outputclass="List2">(3) Disclose significant changes in its MMAS to the ACO at least 30 days prior to implementation.</p>
+         <p outputclass="List1">(d) System criteria. The MMAS shall have adequate internal controls to ensure system and data integrity, and shall—</p>
+         <p outputclass="List2">(1) Have an adequate system description including policies, procedures, and operating instructions that comply with the FAR and Defense FAR Supplement;</p>
+         <p outputclass="List2">(2) Ensure that costs of purchased and fabricated material charged or allocated to a contract are based on valid time-phased requirements as impacted by minimum/economic order quantity restrictions.</p>
+         <p outputclass="List3">(i) A 98 percent bill of material accuracy and a 95 percent master production schedule accuracy are desirable as a goal in order to ensure that requirements are both valid and appropriately time-phased.</p>
+         <p outputclass="List3">(ii) If systems have accuracy levels below these, the Contractor shall provide adequate evidence that—</p>
+         <p outputclass="List4">(A) There is no material harm to the Government due to lower accuracy levels; and</p>
+         <p outputclass="List4">(B) The cost to meet the accuracy goals is excessive in relation to the impact on the Government;</p>
+         <p outputclass="List2">(3) Provide a mechanism to identify, report, and resolve system control weaknesses and manual override. Systems should identify operational exceptions, such as excess/residual inventory, as soon as known;</p>
+         <p outputclass="List2">(4) Provide audit trails and maintain records (manual and those in machine-readable form) necessary to evaluate system logic and to verify through transaction testing that the system is operating as desired;</p>
+         <p outputclass="List2">(5) Establish and maintain adequate levels of record accuracy, and include reconciliation of recorded inventory quantities to physical inventory by part number on a periodic basis. A 95 percent accuracy level is desirable. If systems have an accuracy level below 95 percent, the Contractor shall provide adequate evidence that—</p>
+         <p outputclass="List3">(i) There is no material harm to the Government due to lower accuracy levels; and</p>
+         <p outputclass="List3">(ii) The cost to meet the accuracy goal is excessive in relation to the impact on the Government;</p>
+         <p outputclass="List2">(6) Provide detailed descriptions of circumstances that will result in manual or system generated transfers of parts;</p>
+         <p outputclass="List2">(7) Maintain a consistent, equitable, and unbiased logic for costing of material transactions as follows:</p>
+         <p outputclass="List3">(i) The Contractor shall maintain and disclose written policies describing the transfer methodology and the loan/pay-back technique.</p>
+         <p outputclass="List3">(ii) The costing methodology may be standard or actual cost, or any of the inventory costing methods in 48 CFR 9904.411-50(b). The Contractor shall maintain consistency across all contract and customer types, and from accounting period to accounting period for initial charging and transfer charging.</p>
+         <p outputclass="List3">(iii) The system should transfer parts and associated costs within the same billing period. In the few instances where this may not be appropriate, the Contractor may accomplish the material transaction using a loan/pay-back technique. The “loan/pay-back technique” means that the physical part is moved temporarily from the contract, but the cost of the part remains on the contract. The procedures for the loan/pay-back technique must be approved by the ACO. When the technique is used, the Contractor shall have controls to ensure—</p>
+         <p outputclass="List4">(A) Parts are paid back expeditiously;</p>
+         <p outputclass="List4">(B) Procedures and controls are in place to correct any overbilling that might occur;</p>
+         <p outputclass="List4">(C) Monthly, at a minimum, identification of the borrowing contract and the date the part was borrowed; and</p>
+         <p outputclass="List4">(D) The cost of the replacement part is charged to the borrowing contract;</p>
+         <p outputclass="List2">(8) Where allocations from common inventory accounts are used, have controls (in addition to those in paragraphs (d)(2) and (7) of this clause) to ensure that—</p>
+         <p outputclass="List3">(i) Reallocations and any credit due are processed no less frequently than the routine billing cycle;</p>
+         <p outputclass="List3">(ii) Inventories retained for requirements that are not under contract are not allocated to contracts; and</p>
+         <p outputclass="List3">(iii) Algorithms are maintained based on valid and current data;</p>
+         <p outputclass="List2">(9) Have adequate controls to ensure that physically commingled inventories that may include material for which costs are charged or allocated to fixed-price, cost-reimbursement, and commercial contracts do not compromise requirements of any of the standards in paragraphs (d)(1) through (8) of this clause. Government-furnished material shall not be—</p>
+         <p outputclass="List3">(i) Physically commingled with other material; or</p>
+         <p outputclass="List3">(ii) Used on commercial work; and</p>
+         <p outputclass="List2">(10) Be subjected to periodic internal reviews to ensure compliance with established policies and procedures.</p>
+         <p outputclass="List1">(e) <i>Significant deficiencies</i>. (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any significant deficiencies. The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency.</p>
+         <p outputclass="List2">(2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's MMAS. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.</p>
+         <p outputclass="List2">(3) The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer’s final determination concerning—</p>
+         <p outputclass="List3">(i) Remaining significant deficiencies;</p>
+         <p outputclass="List3">(ii) The adequacy of any proposed or completed corrective action; and</p>
+         <p outputclass="List3">(iii) System disapproval if the Contracting Officer determines that one or more significant deficiencies remain.</p>
+         <p outputclass="List1">(f) If the Contractor receives the Contracting Officer’s final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the significant deficiencies.</p>
+         <p outputclass="List1">(g) <i>Withholding payments</i>. If the Contracting Officer makes a final determination to disapprove the Contractor’s MMAS, and the contract includes the clause at 
+               <xref outputclass="fm:ParaNumOnly" href="252.242-7005.dita#DFARS_252.242-7005" base="i1383876">252.242-7005</xref>
             , Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

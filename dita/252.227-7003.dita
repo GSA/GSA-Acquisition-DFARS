@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.227-7003"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.227-7003</ph> Termination.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1379549"
-                  href="227.7009-2.dita#DFARS_227.7009-2">227.7009-2</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.227-7003" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.227-7003</ph> Termination.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed at 
+               <xref outputclass="fm:ParaNumOnly" base="i1379549" href="227.7009-2.dita#DFARS_227.7009-2">227.7009-2</xref>
             (c), insert the following clause in patent releases, license agreements, and assignments:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">TERMINATION (AUG 1984)</p>
-         <p class="- topic/p ">Notwithstanding any other provision of this contract, the Government shall have the right to terminate the within license, in whole or in part, by giving the Contractor not less than thirty (30) days notice in writing of the date such termination is to be effective; provided, however, that such termination shall not affect the obligation of the Government to pay royalties which have accrued prior to the effective date of such termination.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">TERMINATION (AUG 1984)</p>
+         <p>Notwithstanding any other provision of this contract, the Government shall have the right to terminate the within license, in whole or in part, by giving the Contractor not less than thirty (30) days notice in writing of the date such termination is to be effective; provided, however, that such termination shall not affect the obligation of the Government to pay royalties which have accrued prior to the effective date of such termination.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

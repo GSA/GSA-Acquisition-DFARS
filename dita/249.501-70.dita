@@ -1,35 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_249.501-70"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">249.501-70</ph> Special termination costs.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  The clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1384306"
-                  href="252.249-7000.dita#DFARS_252.249-7000">252.249-7000</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_249.501-70" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">249.501-70</ph> Special termination costs.</title>
+      <conbody>
+         <p outputclass="List1">(a)  The clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1384306" href="252.249-7000.dita#DFARS_252.249-7000">252.249-7000</xref>
             , Special Termination Costs, may be used in an incrementally funded contract when its use is approved by the agency head.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  The clause is authorized when—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The contract term is two years or more;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The contract is estimated to require—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Total RDT&amp;E financing in excess of $25 million; or</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Total production investment in excess of $100 million; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Adequate funds are available to cover the contingent reserve liability for special termination costs.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  The contractor and the contracting officer must agree upon an amount that represents their best estimate of the total special termination costs to which the contractor would be entitled in the event of termination of the contract.  Insert this amount in paragraph (c) of the clause.</p>
-         <p outputclass="List1" class="- topic/p ">(d)(1)  Consider substituting an alternate paragraph (c) for paragraph (c) of the basic clause when—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The contract covers an unusually long performance period; or</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The contractor's cost risk associated with contingent special termination costs is expected to fluctuate extensively over the period of the contract.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The alternate paragraph (c) should provide for periodic negotiation and adjustment of the amount reserved for special termination costs.  Occasions for periodic adjustment may include—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The Government's incremental assignment of funds to the contract; </p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The time when certain performance milestones are accomplished by the contractor; or</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Other specific time periods agreed upon by the contracting officer and the contractor.</p>
+         <p outputclass="List1">(b)  The clause is authorized when—</p>
+         <p outputclass="List2">(1)  The contract term is two years or more;</p>
+         <p outputclass="List2">(2)  The contract is estimated to require—</p>
+         <p outputclass="List3">(i)  Total RDT&amp;E financing in excess of $25 million; or</p>
+         <p outputclass="List3">(ii)  Total production investment in excess of $100 million; and</p>
+         <p outputclass="List2">(3)  Adequate funds are available to cover the contingent reserve liability for special termination costs.</p>
+         <p outputclass="List1">(c)  The contractor and the contracting officer must agree upon an amount that represents their best estimate of the total special termination costs to which the contractor would be entitled in the event of termination of the contract.  Insert this amount in paragraph (c) of the clause.</p>
+         <p outputclass="List1">(d)(1)  Consider substituting an alternate paragraph (c) for paragraph (c) of the basic clause when—</p>
+         <p outputclass="List3">(i)  The contract covers an unusually long performance period; or</p>
+         <p outputclass="List3">(ii)  The contractor's cost risk associated with contingent special termination costs is expected to fluctuate extensively over the period of the contract.</p>
+         <p outputclass="List2">(2)  The alternate paragraph (c) should provide for periodic negotiation and adjustment of the amount reserved for special termination costs.  Occasions for periodic adjustment may include—</p>
+         <p outputclass="List3">(i)  The Government's incremental assignment of funds to the contract; </p>
+         <p outputclass="List3">(ii)  The time when certain performance milestones are accomplished by the contractor; or</p>
+         <p outputclass="List3">(iii)  Other specific time periods agreed upon by the contracting officer and the contractor.</p>
       </conbody>
    </concept>
 </dita>

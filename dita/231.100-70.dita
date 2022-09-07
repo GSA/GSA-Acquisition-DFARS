@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_231.100-70"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">231.100-70</ph> Contract clause.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383208"
-                  href="252.231-7000.dita#DFARS_252.231-7000">252.231-7000</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_231.100-70" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">231.100-70</ph> Contract clause.</title>
+      <conbody>
+         <p>Use the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1383208" href="252.231-7000.dita#DFARS_252.231-7000">252.231-7000</xref>
             , Supplemental Cost Principles, in all solicitations and contracts, which are subject to the principles and procedures described in FAR Subparts 31.1, 31.2, 31.6, and 31.7.</p>
-         <p outputclass="LightBlueText" class="- topic/p ">When awarding qualified contracts in conjunction with the conveyance of a utility system under 10 U.S.C. 2688, "Utility Systems: Conveyance Authority," see DoD Class Deviation 2011-O0006, Utilities Privatization –Class Deviation from FAR Part 31, dated March 31, 2011.  This deviation is effective until incorporated into the DFARS or rescinded.</p>
+         <p outputclass="LightBlueText">When awarding qualified contracts in conjunction with the conveyance of a utility system under 10 U.S.C. 2688, "Utility Systems: Conveyance Authority," see DoD Class Deviation 2011-O0006, Utilities Privatization –Class Deviation from FAR Part 31, dated March 31, 2011.  This deviation is effective until incorporated into the DFARS or rescinded.</p>
       </conbody>
    </concept>
 </dita>

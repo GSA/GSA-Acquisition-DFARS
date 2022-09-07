@@ -1,37 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_227.7107-1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">227.7107-1</ph> Architectural designs and data clauses for architect-engineer or construction contracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Except as provided in paragraph (b) of this subsection and in 
-               <xref href="227.7107-2.dita#DFARS_227.7107-2"
-                  base="i1379774"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7107-2</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_227.7107-1" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">227.7107-1</ph> Architectural designs and data clauses for architect-engineer or construction contracts.</title>
+      <conbody>
+         <p outputclass="List1">(a) Except as provided in paragraph (b) of this subsection and in 
+               <xref href="227.7107-2.dita#DFARS_227.7107-2" base="i1379774" outputclass="fm:ParaNumOnly">227.7107-2</xref>
             , use the clause at 
-               <xref href="252.227-7022.dita#DFARS_252.227-7022"
-                  base="i1382900"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7022</xref>
+               <xref href="252.227-7022.dita#DFARS_252.227-7022" base="i1382900" outputclass="fm:ParaNumOnly">252.227-7022</xref>
             , Government Rights (Unlimited), in solicitations and contracts for architect-engineer services and for construction involving architect engineer services.</p>
-         <p outputclass="List1" class="- topic/p ">(b) When the purpose of a contract for architect-engineer services, or for construction involving architect-engineer services, is to obtain a unique architectural design of a building, a monument, or construction of similar nature, which for artistic, aesthetic or other special reasons the Government does not want duplicated, the Government may acquire exclusive control of the data pertaining to the design by including the clause at 
-               <xref href="252.227-7023.dita#DFARS_252.227-7023"
-                  base="i1382905"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7023</xref>
+         <p outputclass="List1">(b) When the purpose of a contract for architect-engineer services, or for construction involving architect-engineer services, is to obtain a unique architectural design of a building, a monument, or construction of similar nature, which for artistic, aesthetic or other special reasons the Government does not want duplicated, the Government may acquire exclusive control of the data pertaining to the design by including the clause at 
+               <xref href="252.227-7023.dita#DFARS_252.227-7023" base="i1382905" outputclass="fm:ParaNumOnly">252.227-7023</xref>
             , Drawings and Other Data to Become Property of Government, in solicitations and contracts.</p>
-         <p outputclass="List1" class="- topic/p ">(c) The Government shall obtain unlimited rights in shop drawings for construction. In solicitations and contracts calling for delivery of shop drawings, include the clause at 
-               <xref href="252.227-7033.dita#DFARS_252.227-7033"
-                  base="i1382965"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7033</xref>
+         <p outputclass="List1">(c) The Government shall obtain unlimited rights in shop drawings for construction. In solicitations and contracts calling for delivery of shop drawings, include the clause at 
+               <xref href="252.227-7033.dita#DFARS_252.227-7033" base="i1382965" outputclass="fm:ParaNumOnly">252.227-7033</xref>
             , Rights in Shop Drawings.</p>
       </conbody>
    </concept>

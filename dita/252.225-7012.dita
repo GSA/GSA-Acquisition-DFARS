@@ -1,98 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.225-7012"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.225-7012</ph> Preference for Certain Domestic Commodities.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="yaEPfI" class="- topic/p ">As prescribed in <xref base="i1379120"
-                  href="225.7002-3.dita#DFARS_225.7002-3"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.7002-3</xref> (a), use the following clause:</p>
-         <p id="wgZjTD" outputclass="Ctr_SmCaps" class="- topic/p ">PREFERENCE FOR CERTAIN DOMESTIC COMMODITIES (APR 2022)</p>
-         <p id="tzVehs" outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause—</p>
-         <p id="dGLrlP" class="- topic/p ">“Component” means any item supplied to the Government as part of an end product or of another component.</p>
-         <p id="vYJEeU" class="- topic/p ">“End product” means supplies delivered under a line item of this contract.</p>
-         <p id="DalOJh" class="- topic/p ">"Qualifying country" means a country with a reciprocal defense procurement memorandum of understanding or international agreement with the United States in which both countries agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country, and the memorandum or agreement complies, where applicable, with the requirements of section 36 of the Arms Export Control Act (22 U.S.C. 2776) and with 10 U.S.C. 2457. Accordingly, the following are qualifying countries:</p>
-         <p id="LewnJe" class="- topic/p ">Australia</p>
-         <p id="oAXcbr" class="- topic/p ">Austria</p>
-         <p id="njOKTv" class="- topic/p ">Belgium</p>
-         <p id="tzleEJ" class="- topic/p ">Canada</p>
-         <p id="PzXKfL" class="- topic/p ">Czech Republic</p>
-         <p id="oOAeQD" class="- topic/p ">Denmark</p>
-         <p id="ucdfVV" class="- topic/p ">Egypt</p>
-         <p id="hjVTiD" class="- topic/p ">Estonia</p>
-         <p id="ZlTBCa" class="- topic/p ">Finland</p>
-         <p id="rxQJDt" class="- topic/p ">France</p>
-         <p id="bcJlrZ" class="- topic/p ">Germany</p>
-         <p id="xdsoRU" class="- topic/p ">Greece</p>
-         <p id="YAMloB" class="- topic/p ">Israel</p>
-         <p id="YBnAMq" class="- topic/p ">Italy</p>
-         <p id="zyRVWA" class="- topic/p ">Japan</p>
-         <p id="hiqxzF" class="- topic/p ">Latvia</p>
-         <p id="t6zty2mf" class="- topic/p ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.225-7012" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.225-7012</ph> Preference for Certain Domestic Commodities.</title>
+      <conbody>
+         <p id="yaEPfI">As prescribed in <xref base="i1379120" href="225.7002-3.dita#DFARS_225.7002-3" outputclass="fm:ParaNumOnly">225.7002-3</xref> (a), use the following clause:</p>
+         <p id="wgZjTD" outputclass="Ctr_SmCaps">PREFERENCE FOR CERTAIN DOMESTIC COMMODITIES (APR 2022)</p>
+         <p id="tzVehs" outputclass="List1">(a) <i>Definitions.</i> As used in this clause—</p>
+         <p id="dGLrlP">“Component” means any item supplied to the Government as part of an end product or of another component.</p>
+         <p id="vYJEeU">“End product” means supplies delivered under a line item of this contract.</p>
+         <p id="DalOJh">"Qualifying country" means a country with a reciprocal defense procurement memorandum of understanding or international agreement with the United States in which both countries agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country, and the memorandum or agreement complies, where applicable, with the requirements of section 36 of the Arms Export Control Act (22 U.S.C. 2776) and with 10 U.S.C. 2457. Accordingly, the following are qualifying countries:</p>
+         <p id="LewnJe">Australia</p>
+         <p id="oAXcbr">Austria</p>
+         <p id="njOKTv">Belgium</p>
+         <p id="tzleEJ">Canada</p>
+         <p id="PzXKfL">Czech Republic</p>
+         <p id="oOAeQD">Denmark</p>
+         <p id="ucdfVV">Egypt</p>
+         <p id="hjVTiD">Estonia</p>
+         <p id="ZlTBCa">Finland</p>
+         <p id="rxQJDt">France</p>
+         <p id="bcJlrZ">Germany</p>
+         <p id="xdsoRU">Greece</p>
+         <p id="YAMloB">Israel</p>
+         <p id="YBnAMq">Italy</p>
+         <p id="zyRVWA">Japan</p>
+         <p id="hiqxzF">Latvia</p>
+         <p id="t6zty2mf">
             Lithuania
          </p>
-         <p id="qqfhQA" class="- topic/p ">Luxembourg</p>
-         <p id="vzinuB" class="- topic/p ">Netherlands</p>
-         <p id="vnaXPz" class="- topic/p ">Norway</p>
-         <p id="BENoMQ" class="- topic/p ">Poland</p>
-         <p id="aQyQzZ" class="- topic/p ">Portugal</p>
-         <p id="WdZqmG" class="- topic/p ">Slovenia</p>
-         <p id="QeJyEY" class="- topic/p ">Spain</p>
-         <p id="CLNKPT" class="- topic/p ">Sweden</p>
-         <p id="foeOQr" class="- topic/p ">Switzerland</p>
-         <p id="aUiTER" class="- topic/p ">Turkey</p>
-         <p id="mkfXvJ" class="- topic/p ">United Kingdom of Great Britain and Northern Ireland.</p>
-         <p id="KrddOE" class="- topic/p ">“Structural component of a tent”—</p>
-         <p id="IjWbjQ" outputclass="List3" class="- topic/p ">
+         <p id="qqfhQA">Luxembourg</p>
+         <p id="vzinuB">Netherlands</p>
+         <p id="vnaXPz">Norway</p>
+         <p id="BENoMQ">Poland</p>
+         <p id="aQyQzZ">Portugal</p>
+         <p id="WdZqmG">Slovenia</p>
+         <p id="QeJyEY">Spain</p>
+         <p id="CLNKPT">Sweden</p>
+         <p id="foeOQr">Switzerland</p>
+         <p id="aUiTER">Turkey</p>
+         <p id="mkfXvJ">United Kingdom of Great Britain and Northern Ireland.</p>
+         <p id="KrddOE">“Structural component of a tent”—</p>
+         <p id="IjWbjQ" outputclass="List3">
             (1) Means a component that contributes to the form and stability of the tent (e.g., poles, frames, flooring, guy ropes, pegs); and
          </p>
-         <p id="esTHqf" outputclass="List3" class="- topic/p ">
+         <p id="esTHqf" outputclass="List3">
             (2) Does not include equipment such as heating, cooling, or lighting.</p>
-         <p id="nMJXem" class="- topic/p ">“United States” means the 50 States, the District of Columbia, and outlying areas.</p>
-         <p id="SkSbEM" class="- topic/p ">“U.S.-flag vessel” means a vessel of the United States or belonging to the United States, including any vessel registered or having national status under the laws of the United States.</p>
-         <p id="bkMQPx" outputclass="List1" class="- topic/p ">(b) The Contractor shall deliver under this contract only such of the following items, either as end products or components, that have been grown, reprocessed, reused, or produced in the United States:</p>
-         <p id="zmgKKd" outputclass="List2" class="- topic/p ">(1) Food.</p>
-         <p id="qXNmuG" outputclass="List2" class="- topic/p ">(2) Clothing and the materials and components thereof, other than sensors, electronics, or other items added to, and not normally associated with, clothing and the materials and components thereof. Clothing includes items such as outerwear, headwear, underwear, nightwear, footwear, hosiery, handwear, belts, badges, and insignia.</p>
-         <p id="GYtlXf" outputclass="List2" class="- topic/p ">(3)(i) Tents and structural components of tents;</p>
-         <p id="Gqheae" outputclass="List3" class="- topic/p ">(ii) Tarpaulins; or</p>
-         <p id="clssck" outputclass="List3" class="- topic/p ">(iii) Covers.</p>
-         <p id="tCLbdU" outputclass="List2" class="- topic/p ">(4) Cotton and other natural fiber products.</p>
-         <p id="FFpFpK" outputclass="List2" class="- topic/p ">(5) Woven silk or woven silk blends.</p>
-         <p id="hyUYyU" outputclass="List2" class="- topic/p ">(6) Spun silk yarn for cartridge cloth.</p>
-         <p id="XUaLMs" outputclass="List2" class="- topic/p ">(7) Synthetic fabric, and coated synthetic fabric, including all textile fibers and yarns that are for use in such fabrics.</p>
-         <p id="SwDskx" outputclass="List2" class="- topic/p ">(8) Canvas products.</p>
-         <p id="rsroqh" outputclass="List2" class="- topic/p ">(9) Wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles).</p>
-         <p id="QLvRrF" outputclass="List2" class="- topic/p ">(10) Any item of individual equipment (Federal Supply Class 8465) manufactured from or containing fibers, yarns, fabrics, or materials listed in this paragraph (b).</p>
-         <p id="oewKvU" outputclass="List1" class="- topic/p ">(c) This clause does not apply—</p>
-         <p id="EsJchw" outputclass="List2" class="- topic/p ">(1) To items listed in section 25.104(a) of the Federal Acquisition Regulation (FAR), or other items for which the Government has determined that a satisfactory quality and sufficient quantity cannot be acquired as and when needed at U.S. market prices;</p>
-         <p id="INbuZS" outputclass="List2" class="- topic/p ">(2) To incidental amounts of cotton, other natural fibers, or wool incorporated in an end product, for which the estimated value of the cotton, other natural fibers, or wool—</p>
-         <p id="dtVLfD" outputclass="List3" class="- topic/p ">(i) Is not more than 10 percent of the total price of the end product; and</p>
-         <p id="BYwfuF" outputclass="List3" class="- topic/p ">(ii) Does not exceed the threshold at Defense Federal Acquisition Regulation Supplement <xref href="225.7002-2.dita#DFARS_225.7002-2"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.7002-2</xref>(a);
+         <p id="nMJXem">“United States” means the 50 States, the District of Columbia, and outlying areas.</p>
+         <p id="SkSbEM">“U.S.-flag vessel” means a vessel of the United States or belonging to the United States, including any vessel registered or having national status under the laws of the United States.</p>
+         <p id="bkMQPx" outputclass="List1">(b) The Contractor shall deliver under this contract only such of the following items, either as end products or components, that have been grown, reprocessed, reused, or produced in the United States:</p>
+         <p id="zmgKKd" outputclass="List2">(1) Food.</p>
+         <p id="qXNmuG" outputclass="List2">(2) Clothing and the materials and components thereof, other than sensors, electronics, or other items added to, and not normally associated with, clothing and the materials and components thereof. Clothing includes items such as outerwear, headwear, underwear, nightwear, footwear, hosiery, handwear, belts, badges, and insignia.</p>
+         <p id="GYtlXf" outputclass="List2">(3)(i) Tents and structural components of tents;</p>
+         <p id="Gqheae" outputclass="List3">(ii) Tarpaulins; or</p>
+         <p id="clssck" outputclass="List3">(iii) Covers.</p>
+         <p id="tCLbdU" outputclass="List2">(4) Cotton and other natural fiber products.</p>
+         <p id="FFpFpK" outputclass="List2">(5) Woven silk or woven silk blends.</p>
+         <p id="hyUYyU" outputclass="List2">(6) Spun silk yarn for cartridge cloth.</p>
+         <p id="XUaLMs" outputclass="List2">(7) Synthetic fabric, and coated synthetic fabric, including all textile fibers and yarns that are for use in such fabrics.</p>
+         <p id="SwDskx" outputclass="List2">(8) Canvas products.</p>
+         <p id="rsroqh" outputclass="List2">(9) Wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles).</p>
+         <p id="QLvRrF" outputclass="List2">(10) Any item of individual equipment (Federal Supply Class 8465) manufactured from or containing fibers, yarns, fabrics, or materials listed in this paragraph (b).</p>
+         <p id="oewKvU" outputclass="List1">(c) This clause does not apply—</p>
+         <p id="EsJchw" outputclass="List2">(1) To items listed in section 25.104(a) of the Federal Acquisition Regulation (FAR), or other items for which the Government has determined that a satisfactory quality and sufficient quantity cannot be acquired as and when needed at U.S. market prices;</p>
+         <p id="INbuZS" outputclass="List2">(2) To incidental amounts of cotton, other natural fibers, or wool incorporated in an end product, for which the estimated value of the cotton, other natural fibers, or wool—</p>
+         <p id="dtVLfD" outputclass="List3">(i) Is not more than 10 percent of the total price of the end product; and</p>
+         <p id="BYwfuF" outputclass="List3">(ii) Does not exceed the threshold at Defense Federal Acquisition Regulation Supplement <xref href="225.7002-2.dita#DFARS_225.7002-2" outputclass="fm:ParaNumOnly">225.7002-2</xref>(a);
          </p>
-         <p id="nvYMuf" outputclass="List2" class="- topic/p ">(3) To waste and byproducts of cotton or wool fiber for use in the production of propellants and explosives;</p>
-         <p id="WWfQPg" outputclass="List2" class="- topic/p ">(4) To foods, other than fish, shellfish, or seafood, that have been manufactured or processed in the United States, regardless of where the foods (and any component if applicable) were grown or produced. Fish, shellfish, or seafood manufactured or processed in the United States and fish, shellfish, or seafood contained in foods manufactured or processed in the United States shall be provided in accordance with paragraph (d) of this clause;</p>
-         <p id="hRJbxA" outputclass="List2" class="- topic/p ">(5) To chemical warfare protective clothing produced in a qualifying country; or</p>
-         <p id="YcLaQV" outputclass="List2" class="- topic/p ">(6) To fibers and yarns that are for use in synthetic fabric or coated synthetic fabric (but does apply to the synthetic or coated synthetic fabric itself), if—</p>
-         <p id="mgAKsx" outputclass="List3" class="- topic/p ">(i) The fabric is to be used as a component of an end product that is not a textile product. Examples of textile products, made in whole or in part of fabric, include—</p>
-         <p id="arrCwC" outputclass="List4" class="- topic/p ">(A) Draperies, floor coverings, furnishings, and bedding (Federal Supply Group 72, Household and Commercial Furnishings and Appliances);</p>
-         <p id="YapBoT" outputclass="List4" class="- topic/p ">(B) Items made in whole or in part of fabric in Federal Supply Group 83, Textile/leather/furs/apparel/findings/tents/flags, or Federal Supply Group 84, Clothing, Individual Equipment and Insignia;</p>
-         <p id="rpeDiG" outputclass="List4" class="- topic/p ">(C) Upholstered seats (whether for household, office, or other use); and</p>
-         <p id="gWztqz" outputclass="List4" class="- topic/p ">(D) Parachutes (Federal Supply Class 1670); or</p>
-         <p id="FbtjyB" outputclass="List3" class="- topic/p ">(ii) The fibers and yarns are para-aramid fibers and continuous filament para-aramid yarns manufactured in a qualifying country.</p>
-         <p id="ijgonZ" outputclass="List1" class="- topic/p ">(d)(1) Fish, shellfish, and seafood delivered under this contract, or contained in foods delivered under this contract—</p>
-         <p id="YBiDCQ" outputclass="List3" class="- topic/p ">(i) Shall be taken from the sea by U.S.-flag vessels; or</p>
-         <p id="Ocyqye" outputclass="List3" class="- topic/p ">(ii) If not taken from the sea, shall be obtained from fishing within the United States; and</p>
-         <p id="zBApnr" outputclass="List2" class="- topic/p ">(2) Any processing or manufacturing of the fish, shellfish, or seafood shall be performed on a U.S.-flag vessel or in the United States.</p>
-         <p id="CcbNdt" outputclass="Endofclause Ctr" class="- topic/p ">(End of clause)</p>
+         <p id="nvYMuf" outputclass="List2">(3) To waste and byproducts of cotton or wool fiber for use in the production of propellants and explosives;</p>
+         <p id="WWfQPg" outputclass="List2">(4) To foods, other than fish, shellfish, or seafood, that have been manufactured or processed in the United States, regardless of where the foods (and any component if applicable) were grown or produced. Fish, shellfish, or seafood manufactured or processed in the United States and fish, shellfish, or seafood contained in foods manufactured or processed in the United States shall be provided in accordance with paragraph (d) of this clause;</p>
+         <p id="hRJbxA" outputclass="List2">(5) To chemical warfare protective clothing produced in a qualifying country; or</p>
+         <p id="YcLaQV" outputclass="List2">(6) To fibers and yarns that are for use in synthetic fabric or coated synthetic fabric (but does apply to the synthetic or coated synthetic fabric itself), if—</p>
+         <p id="mgAKsx" outputclass="List3">(i) The fabric is to be used as a component of an end product that is not a textile product. Examples of textile products, made in whole or in part of fabric, include—</p>
+         <p id="arrCwC" outputclass="List4">(A) Draperies, floor coverings, furnishings, and bedding (Federal Supply Group 72, Household and Commercial Furnishings and Appliances);</p>
+         <p id="YapBoT" outputclass="List4">(B) Items made in whole or in part of fabric in Federal Supply Group 83, Textile/leather/furs/apparel/findings/tents/flags, or Federal Supply Group 84, Clothing, Individual Equipment and Insignia;</p>
+         <p id="rpeDiG" outputclass="List4">(C) Upholstered seats (whether for household, office, or other use); and</p>
+         <p id="gWztqz" outputclass="List4">(D) Parachutes (Federal Supply Class 1670); or</p>
+         <p id="FbtjyB" outputclass="List3">(ii) The fibers and yarns are para-aramid fibers and continuous filament para-aramid yarns manufactured in a qualifying country.</p>
+         <p id="ijgonZ" outputclass="List1">(d)(1) Fish, shellfish, and seafood delivered under this contract, or contained in foods delivered under this contract—</p>
+         <p id="YBiDCQ" outputclass="List3">(i) Shall be taken from the sea by U.S.-flag vessels; or</p>
+         <p id="Ocyqye" outputclass="List3">(ii) If not taken from the sea, shall be obtained from fishing within the United States; and</p>
+         <p id="zBApnr" outputclass="List2">(2) Any processing or manufacturing of the fish, shellfish, or seafood shall be performed on a U.S.-flag vessel or in the United States.</p>
+         <p id="CcbNdt" outputclass="Endofclause Ctr">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

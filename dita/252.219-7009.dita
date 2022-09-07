@@ -1,67 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.219-7009"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.219-7009</ph> Section 8(a) Direct Award.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1378621"
-                  href="219.811-3.dita#DFARS_219.811-3">219.811-3</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.219-7009" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.219-7009</ph> Section 8(a) Direct Award.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1378621" href="219.811-3.dita#DFARS_219.811-3">219.811-3</xref>
             (1), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">SECTION 8(a) DIRECT AWARD (OCT 2018)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  This contract is issued as a direct award between the contracting office and the 8(a) Contractor pursuant to the Partnership Agreement between the Small Business Administration (SBA) and the Department of Defense.  Accordingly, the SBA, even if not identified in Section A of this contract, is the prime contractor and retains responsibility for 8(a) certification, for 8(a) eligibility determinations and related issues, and for providing counseling and assistance to the 8(a) Contractor under the 8(a) Program.  The cognizant SBA district office is:</p>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________________________________</p>
+         <p outputclass="Ctr_SmCaps">SECTION 8(a) DIRECT AWARD (OCT 2018)</p>
+         <p outputclass="List1">(a)  This contract is issued as a direct award between the contracting office and the 8(a) Contractor pursuant to the Partnership Agreement between the Small Business Administration (SBA) and the Department of Defense.  Accordingly, the SBA, even if not identified in Section A of this contract, is the prime contractor and retains responsibility for 8(a) certification, for 8(a) eligibility determinations and related issues, and for providing counseling and assistance to the 8(a) Contractor under the 8(a) Program.  The cognizant SBA district office is:</p>
+         <table frame="all" colsep="1" rowsep="0">
+            <tgroup cols="1" colsep="1" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="100*" rowheader="headers" />
+               <tbody>
+                  <row rowsep="1">
+                     <entry>
+                        <p>________________________________________</p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________________________________</p>
+                  <row rowsep="1">
+                     <entry>
+                        <p>________________________________________</p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________________________________</p>
+                  <row rowsep="1">
+                     <entry>
+                        <p>________________________________________</p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________________________________</p>
+                  <row rowsep="1">
+                     <entry>
+                        <p>________________________________________</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">[To be completed by the Contracting Officer at the time of award]</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>[To be completed by the Contracting Officer at the time of award]</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List1" class="- topic/p "/>
-         <p outputclass="List1" class="- topic/p ">(b)  The contracting office is responsible for administering the contract and for taking any action on behalf of the Government under the terms and conditions of the contract; provided that the contracting office shall give advance notice to the SBA before it issues a final notice terminating performance, either in whole or in part, under the contract.  The contracting office also shall coordinate with the SBA prior to processing any novation agreement.  The contracting office may assign contract administration functions to a contract administration office.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  The 8(a) Contractor agrees that it will notify the Contracting Officer, simultaneous with its notification to the SBA (as required by SBA’s 8(a) regulations at 13 CFR 124.515), when the owner or owners upon whom 8(a) eligibility is based plan to relinquish ownership or control of the concern.  Consistent with section 407 of Public Law 100-656, transfer of ownership or control shall result in termination of the contract for convenience, unless the SBA waives the requirement for termination prior to the actual relinquishing of ownership and control.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="List1"></p>
+         <p outputclass="List1">(b)  The contracting office is responsible for administering the contract and for taking any action on behalf of the Government under the terms and conditions of the contract; provided that the contracting office shall give advance notice to the SBA before it issues a final notice terminating performance, either in whole or in part, under the contract.  The contracting office also shall coordinate with the SBA prior to processing any novation agreement.  The contracting office may assign contract administration functions to a contract administration office.</p>
+         <p outputclass="List1">(c)  The 8(a) Contractor agrees that it will notify the Contracting Officer, simultaneous with its notification to the SBA (as required by SBA’s 8(a) regulations at 13 CFR 124.515), when the owner or owners upon whom 8(a) eligibility is based plan to relinquish ownership or control of the concern.  Consistent with section 407 of Public Law 100-656, transfer of ownership or control shall result in termination of the contract for convenience, unless the SBA waives the requirement for termination prior to the actual relinquishing of ownership and control.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

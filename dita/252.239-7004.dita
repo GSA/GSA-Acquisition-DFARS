@@ -1,41 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.239-7004"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.239-7004</ph> Orders for Facilities and Services.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-239.7411"
-                  href="239.7411.dita#DFARS_239.7411">239.7411</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.239-7004" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.239-7004</ph> Orders for Facilities and Services.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-239.7411" href="239.7411.dita#DFARS_239.7411">239.7411</xref>
             (a), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">ORDERS FOR FACILITIES AND SERVICES (SEP 2019)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.  As used in this clause—</p>
-         <p class="- topic/p ">“Governmental regulatory body” means the Federal Communications Commission, any statewide regulatory body, or any body with less than statewide jurisdiction when operating under the state authority.  Regulatory bodies whose decisions are not subject to judicial appeal and regulatory bodies which regulate a company owned by the same entity that creates the regulatory body are not governmental regulatory bodies.</p>
-         <p class="- topic/p ">(b)  The Contractor shall acknowledge a communication service authorization or other type order for supplies and facilities by—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Commencing performance after receipt of an order; or</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Written acceptance by a duly authorized representative.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  The Contractor shall furnish the services and facilities under this agreement/contract in accordance with all applicable tariffs, rates, charges, regulations, requirements, terms, and conditions of—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Service and facilities furnished or offered by the Contractor to the general public or the Contractor's subscribers; or</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Service as lawfully established by a governmental regulatory body.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  The Government will not prepay for services.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  For nontariffed services, the Contractor shall charge the Government at the lowest rate and under the most favorable terms and conditions for similar service and facilities offered to any other customer.</p>
-         <p outputclass="List1" class="- topic/p ">(f)  Recurring charges for services and facilities shall, in each case, start with the satisfactory beginning of service or provision of facilities or equipment and are payable monthly in arrears.</p>
-         <p outputclass="List1" class="- topic/p ">(g)  Expediting charges are costs necessary to get services earlier than normal.  Examples are overtime pay or special shipment.  When authorized, expediting charges shall be the additional costs incurred by the Contractor and the subcontractor.  The Government shall pay expediting charges only when—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  They are provided for in the tariff established by a governmental regulatory body; or</p>
-         <p outputclass="List2" class="- topic/p ">(2)  They are authorized in a communication service authorization or other contractual document.</p>
-         <p outputclass="List1" class="- topic/p ">(h)  When services normally provided are technically unacceptable and the development, fabrication, or manufacture of special equipment is required, the Government may—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Provide the equipment; or</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Direct the Contractor to acquire the equipment or facilities.  If the Contractor acquires the equipment or facilities, the acquisition shall be competitive, if practicable.</p>
-         <p outputclass="List3" class="- topic/p ">(i)  If at any time the Government defers or changes its orders for any of the services but does not cancel or terminate them, the amount paid or payable to the Contractor for the services deferred or modified shall be equitably adjusted under applicable tariffs filed by the Contractor with the regulatory commission in effect at the time of deferral or change.  If no tariffs are in effect, the Government and the Contractor shall equitably adjust the rates by mutual agreement.  Failure to agree on any adjustment shall be a dispute concerning a question of fact within the meaning of the Disputes clause of this contract.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">ORDERS FOR FACILITIES AND SERVICES (SEP 2019)</p>
+         <p outputclass="List1">(a)  <i>Definitions</i>.  As used in this clause—</p>
+         <p>“Governmental regulatory body” means the Federal Communications Commission, any statewide regulatory body, or any body with less than statewide jurisdiction when operating under the state authority.  Regulatory bodies whose decisions are not subject to judicial appeal and regulatory bodies which regulate a company owned by the same entity that creates the regulatory body are not governmental regulatory bodies.</p>
+         <p>(b)  The Contractor shall acknowledge a communication service authorization or other type order for supplies and facilities by—</p>
+         <p outputclass="List2">(1)  Commencing performance after receipt of an order; or</p>
+         <p outputclass="List2">(2)  Written acceptance by a duly authorized representative.</p>
+         <p outputclass="List1">(c)  The Contractor shall furnish the services and facilities under this agreement/contract in accordance with all applicable tariffs, rates, charges, regulations, requirements, terms, and conditions of—</p>
+         <p outputclass="List2">(1)  Service and facilities furnished or offered by the Contractor to the general public or the Contractor's subscribers; or</p>
+         <p outputclass="List2">(2)  Service as lawfully established by a governmental regulatory body.</p>
+         <p outputclass="List1">(d)  The Government will not prepay for services.</p>
+         <p outputclass="List1">(e)  For nontariffed services, the Contractor shall charge the Government at the lowest rate and under the most favorable terms and conditions for similar service and facilities offered to any other customer.</p>
+         <p outputclass="List1">(f)  Recurring charges for services and facilities shall, in each case, start with the satisfactory beginning of service or provision of facilities or equipment and are payable monthly in arrears.</p>
+         <p outputclass="List1">(g)  Expediting charges are costs necessary to get services earlier than normal.  Examples are overtime pay or special shipment.  When authorized, expediting charges shall be the additional costs incurred by the Contractor and the subcontractor.  The Government shall pay expediting charges only when—</p>
+         <p outputclass="List2">(1)  They are provided for in the tariff established by a governmental regulatory body; or</p>
+         <p outputclass="List2">(2)  They are authorized in a communication service authorization or other contractual document.</p>
+         <p outputclass="List1">(h)  When services normally provided are technically unacceptable and the development, fabrication, or manufacture of special equipment is required, the Government may—</p>
+         <p outputclass="List2">(1)  Provide the equipment; or</p>
+         <p outputclass="List2">(2)  Direct the Contractor to acquire the equipment or facilities.  If the Contractor acquires the equipment or facilities, the acquisition shall be competitive, if practicable.</p>
+         <p outputclass="List3">(i)  If at any time the Government defers or changes its orders for any of the services but does not cancel or terminate them, the amount paid or payable to the Contractor for the services deferred or modified shall be equitably adjusted under applicable tariffs filed by the Contractor with the regulatory commission in effect at the time of deferral or change.  If no tariffs are in effect, the Government and the Contractor shall equitably adjust the rates by mutual agreement.  Failure to agree on any adjustment shall be a dispute concerning a question of fact within the meaning of the Disputes clause of this contract.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

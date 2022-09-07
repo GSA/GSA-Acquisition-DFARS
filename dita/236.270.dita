@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_236.270"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">236.270</ph> Expediting construction contracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  10 U.S.C. 2858 requires agency head approval to expedite the completion date of a contract funded by a Military Construction Appropriations Act, if additional costs are involved.  This approval authority may not be redelegated.  The approval authority must—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Certify that the additional expenditures are necessary to protect the National interest; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Establish a reasonable completion date for the project.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  The contracting officer may approve an expedited completion date if no additional costs are involved.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_236.270" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">236.270</ph> Expediting construction contracts.</title>
+      <conbody>
+         <p outputclass="List1">(a)  10 U.S.C. 2858 requires agency head approval to expedite the completion date of a contract funded by a Military Construction Appropriations Act, if additional costs are involved.  This approval authority may not be redelegated.  The approval authority must—</p>
+         <p outputclass="List2">(1)  Certify that the additional expenditures are necessary to protect the National interest; and</p>
+         <p outputclass="List2">(2)  Establish a reasonable completion date for the project.</p>
+         <p outputclass="List1">(b)  The contracting officer may approve an expedited completion date if no additional costs are involved.</p>
       </conbody>
    </concept>
 </dita>

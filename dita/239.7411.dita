@@ -1,69 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_239.7411"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">239.7411</ph> Contract clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) In addition to other appropriate
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_239.7411" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">239.7411</ph> Contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) In addition to other appropriate
 FAR and DFARS clauses, use the following clauses in solicitations,
 contracts, and basic agreements for telecommunications services.
 Modify the clauses only if necessary to meet the requirements of
 a governmental regulatory agency.</p>
-         <p outputclass="List2" class="- topic/p ">(1) <xref href="252.239-7002.dita#DFARS_252.239-7002"
-                  base="i1383710"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7002</xref> , Access.</p>
-         <p outputclass="List2" class="- topic/p ">(2) <xref href="252.239-7004.dita#DFARS_252.239-7004"
-                  base="i1383720"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7004</xref> , Orders
+         <p outputclass="List2">(1) <xref href="252.239-7002.dita#DFARS_252.239-7002" base="i1383710" outputclass="fm:ParaNumOnly">252.239-7002</xref> , Access.</p>
+         <p outputclass="List2">(2) <xref href="252.239-7004.dita#DFARS_252.239-7004" base="i1383720" outputclass="fm:ParaNumOnly">252.239-7004</xref> , Orders
 for Facilities and Services.</p>
-         <p outputclass="List2" class="- topic/p ">
-            (3) <xref href="252.239-7007.dita#DFARS_252.239-7007"
-                  base="i1383737"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7007</xref> , Cancellation
+         <p outputclass="List2">
+            (3) <xref href="252.239-7007.dita#DFARS_252.239-7007" base="i1383737" outputclass="fm:ParaNumOnly">252.239-7007</xref> , Cancellation
 or Termination of Orders.
          </p>
-         <p outputclass="List1" class="- topic/p ">(b) Use the following clauses in solicitations,
+         <p outputclass="List1">(b) Use the following clauses in solicitations,
 contracts, and basic agreements for telecommunications services
 when the acquisition includes or may include special construction.
 Modify the clauses only if necessary to meet the requirements of
 a governmental regulatory agency—</p>
-         <p outputclass="List2" class="- topic/p ">(1) <xref href="252.239-7011.dita#DFARS_252.239-7011"
-                  base="i1383785"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7011</xref> , Special
+         <p outputclass="List2">(1) <xref href="252.239-7011.dita#DFARS_252.239-7011" base="i1383785" outputclass="fm:ParaNumOnly">252.239-7011</xref> , Special
 Construction and Equipment Charges; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) <xref href="252.239-7012.dita#DFARS_252.239-7012"
-                  base="i1383790"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7012</xref> , Title to
+         <p outputclass="List2">(2) <xref href="252.239-7012.dita#DFARS_252.239-7012" base="i1383790" outputclass="fm:ParaNumOnly">252.239-7012</xref> , Title to
 Telecommunication Facilities and Equipment.</p>
-         <p outputclass="List1" class="- topic/p ">(c) Use the basic or alternate of the clause
-at <xref href="252.239-7013.dita#DFARS_252.239-7013"
-                  base="i1383795"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7013</xref> , Term of
+         <p outputclass="List1">(c) Use the basic or alternate of the clause
+at <xref href="252.239-7013.dita#DFARS_252.239-7013" base="i1383795" outputclass="fm:ParaNumOnly">252.239-7013</xref> , Term of
 Agreement and Continuation of Services, in basic agreements for
 telecommunications services.</p>
-         <p outputclass="List2" class="- topic/p ">(1) Use the basic clause in basic agreements
+         <p outputclass="List2">(1) Use the basic clause in basic agreements
 that do not supersede an existing basic agreement with the contractor.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Use the alternate I clause in basic
+         <p outputclass="List2">(2) Use the alternate I clause in basic
 agreements that supersede an existing basic agreement with the contractor.
 Complete paragraph (c)(1) of the clause with the basic agreement
 number, date, and contacting office that issued the basic agreement
 being superseded.</p>
-         <p outputclass="List1" class="- topic/p ">(d) Use the clause at <xref href="252.239-7016.dita#DFARS_252.239-7016"
-                  base="i1383810"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7016</xref> , Telecommunications
+         <p outputclass="List1">(d) Use the clause at <xref href="252.239-7016.dita#DFARS_252.239-7016" base="i1383810" outputclass="fm:ParaNumOnly">252.239-7016</xref> , Telecommunications
 Security Equipment, Devices, Techniques, and Services, in solicitations
 and contracts when performance of a contract requires secure telecommunications.</p>
       </conbody>

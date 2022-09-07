@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.237-7012"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.237-7012</ph> Instruction to Offerors (Count-of-Articles).</title>
-      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-237.7101"
-                  href="237.7101.dita#DFARS_237.7101">237.7101</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.237-7012" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.237-7012</ph> Instruction to Offerors (Count-of-Articles).</title>
+      <conbody outputclass="provision">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-237.7101" href="237.7101.dita#DFARS_237.7101">237.7101</xref>
             (a), use the following provision:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">INSTRUCTION TO OFFERORS (COUNT-OF-ARTICLES) (DEC 1991)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  The Offeror shall include unit prices for each item in a lot.  Unit prices shall include all costs to the Government of providing the services, including pickup and delivery charges.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Failure to offer on any item in a lot shall be cause for rejection of the offer on that lot.  The Contracting Officer will evaluate offers based on the estimated quantities in the solicitation.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Award generally will be made to a single offeror for all lots.  However, the Contracting Officer may award by individual lot when it is more advantageous to the Government.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  Prospective offerors may inspect the types of articles to be serviced.  Contact the Contracting Officer to make inspection arrangements.</p>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+         <p outputclass="Ctr_SmCaps">INSTRUCTION TO OFFERORS (COUNT-OF-ARTICLES) (DEC 1991)</p>
+         <p outputclass="List1">(a)  The Offeror shall include unit prices for each item in a lot.  Unit prices shall include all costs to the Government of providing the services, including pickup and delivery charges.</p>
+         <p outputclass="List1">(b)  Failure to offer on any item in a lot shall be cause for rejection of the offer on that lot.  The Contracting Officer will evaluate offers based on the estimated quantities in the solicitation.</p>
+         <p outputclass="List1">(c)  Award generally will be made to a single offeror for all lots.  However, the Contracting Officer may award by individual lot when it is more advantageous to the Government.</p>
+         <p outputclass="List1">(d)  Prospective offerors may inspect the types of articles to be serviced.  Contact the Contracting Officer to make inspection arrangements.</p>
+         <p outputclass="Endofprovision">(End of provision)</p>
       </conbody>
    </concept>
 </dita>

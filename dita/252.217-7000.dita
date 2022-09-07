@@ -1,78 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.217-7000"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.217-7000</ph> Exercise of Option to Fulfill Foreign Military Sales Commitments.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Basic. As prescribed in 
-               <xref href="217.208-70.dita#DFARS_217.208-70"
-                  base="i1378461"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">217.208-70</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.217-7000" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">252.217-7000</ph> Exercise of Option to Fulfill Foreign Military Sales Commitments.</title>
+      <conbody>
+         <p>Basic. As prescribed in 
+               <xref href="217.208-70.dita#DFARS_217.208-70" base="i1378461" outputclass="fm:ParaNumOnly">217.208-70</xref>
             (a) and (a)(1), use the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">EXERCISE OF OPTION TO FULFILL FOREIGN MILITARY SALES COMMITMENTS—BASIC (NOV 2014)</p>
-         <p outputclass="List1" class="- topic/p ">(a) The Government may exercise the option(s) of this contract to fulfill foreign military sales commitments.</p>
-         <p outputclass="List1" class="- topic/p ">(b) The foreign military sales commitments are for:</p>
-         <p class="- topic/p "/>
-         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="3"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="45*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="5*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="50*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p ">(Insert name of country)</p>
+         <p outputclass="Ctr_SmCaps">EXERCISE OF OPTION TO FULFILL FOREIGN MILITARY SALES COMMITMENTS—BASIC (NOV 2014)</p>
+         <p outputclass="List1">(a) The Government may exercise the option(s) of this contract to fulfill foreign military sales commitments.</p>
+         <p outputclass="List1">(b) The foreign military sales commitments are for:</p>
+         <p></p>
+         <table frame="all" colsep="0" rowsep="0">
+            <tgroup cols="3" colsep="0" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="45*" colsep="0" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="5*" colsep="0" rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="50*" colsep="0" rowheader="headers" />
+               <tbody>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1">
+                        <p>(Insert name of country)</p>
                      </entry>
-                     <entry colname="2" colsep="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry colname="2" colsep="1">
+                        <p></p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">(Insert applicable CLIN)</p>
+                     <entry colname="3">
+                        <p>(Insert applicable CLIN)</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section outputclass="Alternate" class="- topic/section ">
-            <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I</i>.<i class="+ topic/ph hi-d/i "/>As prescribed in 
-                  <xref href="217.208-70.dita#DFARS_217.208-70"
-                     base="i1378461"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">217.208-70</xref>
+         <p></p>
+         <p outputclass="Endofclause">(End of clause)</p>
+         <section outputclass="Alternate">
+            <p>
+               <i>Alternate I</i>.<i></i>As prescribed in 
+                  <xref href="217.208-70.dita#DFARS_217.208-70" base="i1378461" outputclass="fm:ParaNumOnly">217.208-70</xref>
                (a) and (a)(2), use the following clause, which uses a different paragraph (b) than paragraph (b) of the basic clause:</p>
-            <p class="- topic/p ">EXERCISE OF OPTION TO FULFILL FOREIGN MILITARY SALES COMMITMENTS—ALTERNATE I (NOV 2014)</p>
-            <p outputclass="List1" class="- topic/p ">(a) The Government may exercise the option(s) of this contract to fulfill foreign military sales commitments.</p>
-            <p outputclass="List1" class="- topic/p ">(b) On the date the option is exercised, the Government shall identify the foreign country for the purpose of negotiating any equitable adjustment attributable to foreign military sales. Failure to agree on an equitable adjustment shall be treated as a dispute under the Disputes clause of this contract.</p>
-            <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+            <p>EXERCISE OF OPTION TO FULFILL FOREIGN MILITARY SALES COMMITMENTS—ALTERNATE I (NOV 2014)</p>
+            <p outputclass="List1">(a) The Government may exercise the option(s) of this contract to fulfill foreign military sales commitments.</p>
+            <p outputclass="List1">(b) On the date the option is exercised, the Government shall identify the foreign country for the purpose of negotiating any equitable adjustment attributable to foreign military sales. Failure to agree on an equitable adjustment shall be treated as a dispute under the Disputes clause of this contract.</p>
+            <p outputclass="Endofclause">(End of clause)</p>
          </section>
       </conbody>
    </concept>

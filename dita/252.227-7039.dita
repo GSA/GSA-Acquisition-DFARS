@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.227-7039"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.227-7039</ph> Patents—Reporting of Subject Inventions.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.303"
-                  href="227.303.dita#DFARS_227.303">227.303</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.227-7039" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.227-7039</ph> Patents—Reporting of Subject Inventions.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-227.303" href="227.303.dita#DFARS_227.303">227.303</xref>
             (1), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">PATENTS—REPORTING OF SUBJECT INVENTIONS (APR 1990)</p>
-         <p class="- topic/p ">The Contractor shall furnish the Contracting Officer the following:</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Interim reports every twelve (12) months (or such longer period as may be specified by the Contracting Officer) from the date of the contract, listing subject inventions during that period and stating that all subject inventions have been disclosed or that there are no such inventions.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  A final report, within three (3) months after completion of the contracted work, listing all subject inventions or stating that there were no such inventions.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Upon request, the filing date, serial number and title, a copy of the patent application and patent number, and issue data for any subject invention for which the Contractor has retained title.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  Upon request, the Contractor shall furnish the Government an irrevocable power to inspect and make copies of the patent application file.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">PATENTS—REPORTING OF SUBJECT INVENTIONS (APR 1990)</p>
+         <p>The Contractor shall furnish the Contracting Officer the following:</p>
+         <p outputclass="List1">(a)  Interim reports every twelve (12) months (or such longer period as may be specified by the Contracting Officer) from the date of the contract, listing subject inventions during that period and stating that all subject inventions have been disclosed or that there are no such inventions.</p>
+         <p outputclass="List1">(b)  A final report, within three (3) months after completion of the contracted work, listing all subject inventions or stating that there were no such inventions.</p>
+         <p outputclass="List1">(c)  Upon request, the filing date, serial number and title, a copy of the patent application and patent number, and issue data for any subject invention for which the Contractor has retained title.</p>
+         <p outputclass="List1">(d)  Upon request, the Contractor shall furnish the Government an irrevocable power to inspect and make copies of the patent application file.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

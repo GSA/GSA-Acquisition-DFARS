@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.219-7011"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.219-7011</ph> Notification to Delay Performance.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1378621"
-                  href="219.811-3.dita#DFARS_219.811-3">219.811-3</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.219-7011" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.219-7011</ph> Notification to Delay Performance.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1378621" href="219.811-3.dita#DFARS_219.811-3">219.811-3</xref>
             (3), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">NOTIFICATION TO DELAY PERFORMANCE (JUN 1998)</p>
-         <p class="- topic/p ">The Contractor shall not begin performance under this purchase order until 2 working days have passed from the date of its receipt.  Unless the Contractor receives notification from the Small Business Administration that it is ineligible for this 8(a) award, or otherwise receives instructions from the Contracting Officer, performance under this purchase order may begin on the third working day following receipt of the purchase order.  If a determination of ineligibility is issued within the 2-day period, the purchase order shall be considered canceled.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">NOTIFICATION TO DELAY PERFORMANCE (JUN 1998)</p>
+         <p>The Contractor shall not begin performance under this purchase order until 2 working days have passed from the date of its receipt.  Unless the Contractor receives notification from the Small Business Administration that it is ineligible for this 8(a) award, or otherwise receives instructions from the Contracting Officer, performance under this purchase order may begin on the third working day following receipt of the purchase order.  If a determination of ineligibility is issued within the 2-day period, the purchase order shall be considered canceled.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

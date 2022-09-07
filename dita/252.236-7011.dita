@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.236-7011"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.236-7011</ph> Overseas Architect-Engineer Services—Restriction to United States Firms.</title>
-      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1380267"
-                  href="236.609-70.dita#DFARS_236.609-70">236.609-70</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.236-7011" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.236-7011</ph> Overseas Architect-Engineer Services—Restriction to United States Firms.</title>
+      <conbody outputclass="provision">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1380267" href="236.609-70.dita#DFARS_236.609-70">236.609-70</xref>
             , use the following provision:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">OVERSEAS ARCHITECT-ENGINEER SERVICES—RESTRICTION TO UNITED STATES FIRMS (JAN 1997)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definition.  </i>“United States firm,” as used in this provision, means a firm incorporated in the United States that complies with the following:</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The corporate headquarters are in the United States;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The firm has filed corporate and employment tax returns in the United States for a minimum of 2 years (if required), has filed State and Federal income tax returns (if required) for 2 years, and has paid any taxes due as a result of these filings; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The firm employs United States citizens in key management positions.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Restriction.</i>  Military construction appropriations acts restrict award of a contract, resulting from this solicitation, to a United States firm or a joint venture of United States and host nation firms.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">Status.</i>  The offeror confirms, by submission of its offer, that it is a United States firm or a joint venture of United States and host nation firms. </p>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+         <p outputclass="Ctr_SmCaps">OVERSEAS ARCHITECT-ENGINEER SERVICES—RESTRICTION TO UNITED STATES FIRMS (JAN 1997)</p>
+         <p outputclass="List1">(a)  <i>Definition.  </i>“United States firm,” as used in this provision, means a firm incorporated in the United States that complies with the following:</p>
+         <p outputclass="List2">(1)  The corporate headquarters are in the United States;</p>
+         <p outputclass="List2">(2)  The firm has filed corporate and employment tax returns in the United States for a minimum of 2 years (if required), has filed State and Federal income tax returns (if required) for 2 years, and has paid any taxes due as a result of these filings; and</p>
+         <p outputclass="List2">(3)  The firm employs United States citizens in key management positions.</p>
+         <p outputclass="List1">(b)  <i>Restriction.</i>  Military construction appropriations acts restrict award of a contract, resulting from this solicitation, to a United States firm or a joint venture of United States and host nation firms.</p>
+         <p outputclass="List1">(c)  <i>Status.</i>  The offeror confirms, by submission of its offer, that it is a United States firm or a joint venture of United States and host nation firms. </p>
+         <p outputclass="Endofprovision">(End of provision)</p>
       </conbody>
    </concept>
 </dita>

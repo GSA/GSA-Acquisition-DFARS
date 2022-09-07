@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.222-7002"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.222-7002</ph> Compliance with Local Labor Laws (Overseas).</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-222.7201"
-                  href="222.7201.dita#DFARS_222.7201">222.7201</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.222-7002" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.222-7002</ph> Compliance with Local Labor Laws (Overseas).</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-222.7201" href="222.7201.dita#DFARS_222.7201">222.7201</xref>
             (a), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">COMPLIANCE WITH LOCAL LABOR LAWS (OVERSEAS) (JUN 1997)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  The Contractor shall comply with all—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Local laws, regulations, and labor union agreements governing work hours; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Labor regulations including collective bargaining agreements, workers’ compensation, working conditions, fringe benefits, and labor standards or labor contract matters.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  The Contractor indemnifies and holds harmless the United States Government from all claims arising out of the requirements of this clause.  This indemnity includes the Contractor’s obligation to handle and settle, without cost to the United States Government, any claims or litigation concerning allegations that the Contractor or the United States Government, or both, have not fully complied with local labor laws or regulations relating to the performance of work required by this contract.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Notwithstanding paragraph (b) of this clause, consistent with paragraphs 31.205-15(a) and 31.205-47(d) of the Federal Acquisition Regulation, the Contractor will be reimbursed for the costs of all fines, penalties, and reasonable litigation expenses incurred as a result of compliance with specific contract terms and conditions or written instructions from the Contracting Officer.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">COMPLIANCE WITH LOCAL LABOR LAWS (OVERSEAS) (JUN 1997)</p>
+         <p outputclass="List1">(a)  The Contractor shall comply with all—</p>
+         <p outputclass="List2">(1)  Local laws, regulations, and labor union agreements governing work hours; and</p>
+         <p outputclass="List2">(2)  Labor regulations including collective bargaining agreements, workers’ compensation, working conditions, fringe benefits, and labor standards or labor contract matters.</p>
+         <p outputclass="List1">(b)  The Contractor indemnifies and holds harmless the United States Government from all claims arising out of the requirements of this clause.  This indemnity includes the Contractor’s obligation to handle and settle, without cost to the United States Government, any claims or litigation concerning allegations that the Contractor or the United States Government, or both, have not fully complied with local labor laws or regulations relating to the performance of work required by this contract.</p>
+         <p outputclass="List1">(c)  Notwithstanding paragraph (b) of this clause, consistent with paragraphs 31.205-15(a) and 31.205-47(d) of the Federal Acquisition Regulation, the Contractor will be reimbursed for the costs of all fines, penalties, and reasonable litigation expenses incurred as a result of compliance with specific contract terms and conditions or written instructions from the Contracting Officer.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

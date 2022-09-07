@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_246.708"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">246.708</ph> Warranties of data.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Obtain warranties on technical data when practicable and cost effective.  Consider the factors in FAR 46.703 in deciding whether to obtain warranties of technical data.  Consider the following in deciding whether to use extended liability provisions—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The likelihood that correction or replacement of the nonconforming data, or a price adjustment, will not give adequate protection to the Government; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The effectiveness of the additional remedy as a deterrent against furnishing nonconforming data.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_246.708" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">246.708</ph> Warranties of data.</title>
+      <conbody>
+         <p>Obtain warranties on technical data when practicable and cost effective.  Consider the factors in FAR 46.703 in deciding whether to obtain warranties of technical data.  Consider the following in deciding whether to use extended liability provisions—</p>
+         <p outputclass="List2">(1)  The likelihood that correction or replacement of the nonconforming data, or a price adjustment, will not give adequate protection to the Government; and</p>
+         <p outputclass="List2">(2)  The effectiveness of the additional remedy as a deterrent against furnishing nonconforming data.</p>
       </conbody>
    </concept>
 </dita>

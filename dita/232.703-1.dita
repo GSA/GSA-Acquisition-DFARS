@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_232.703-1"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">232.703-1</ph> General.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1)  A fixed-price contract may be incrementally funded only if—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The contract (excluding any options) or any exercised option—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  Is for severable services;</p>
-         <p outputclass="List4" class="- topic/p ">(B)  Does not exceed one year in length; and</p>
-         <p outputclass="List4" class="- topic/p ">(C)  Is incrementally funded using funds available (unexpired) as of the date the funds are obligated; or</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The contract uses funds available from multiple (two or more) fiscal years and—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  The contract is funded with research and development appropriations; or</p>
-         <p outputclass="List4" class="- topic/p ">(B)  Congress has otherwise authorized incremental funding.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  An incrementally funded fixed-price contract shall be fully funded as soon as funds are available.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_232.703-1" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">232.703-1</ph> General.</title>
+      <conbody>
+         <p outputclass="List2">(1)  A fixed-price contract may be incrementally funded only if—</p>
+         <p outputclass="List3">(i)  The contract (excluding any options) or any exercised option—</p>
+         <p outputclass="List4">(A)  Is for severable services;</p>
+         <p outputclass="List4">(B)  Does not exceed one year in length; and</p>
+         <p outputclass="List4">(C)  Is incrementally funded using funds available (unexpired) as of the date the funds are obligated; or</p>
+         <p outputclass="List3">(ii)  The contract uses funds available from multiple (two or more) fiscal years and—</p>
+         <p outputclass="List4">(A)  The contract is funded with research and development appropriations; or</p>
+         <p outputclass="List4">(B)  Congress has otherwise authorized incremental funding.</p>
+         <p outputclass="List2">(2)  An incrementally funded fixed-price contract shall be fully funded as soon as funds are available.</p>
       </conbody>
    </concept>
 </dita>

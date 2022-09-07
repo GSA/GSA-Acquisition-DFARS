@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.239-7016"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.239-7016</ph> Telecommunications Security Equipment, Devices, Techniques, and Services.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-239.7411"
-                  href="239.7411.dita#DFARS_239.7411">239.7411</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.239-7016" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.239-7016</ph> Telecommunications Security Equipment, Devices, Techniques, and Services.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-239.7411" href="239.7411.dita#DFARS_239.7411">239.7411</xref>
             (d), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">TELECOMMUNICATIONS SECURITY EQUIPMENT, DEVICES, TECHNIQUES, AND SERVICES (DEC 1991)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.  </i>As used in this clause—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  “Securing” means the application of Government-approved telecommunications security equipment, devices, techniques, or services to contractor telecommunications systems.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  “Sensitive information” means any information the loss, misuse, or modification of which, or unauthorized access to, could adversely affect the national interest or the conduct of Federal programs, or the privacy to which individuals are entitled under 5 U.S.C. 552a (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive Order or Act of Congress to be kept secret in the interest of national defense or foreign policy.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  “Telecommunications systems” means voice, record, and data communications, including management information systems and local data networks that connect to external transmission media, when employed by Government agencies, contractors, and subcontractors to transmit—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Classified or sensitive information;</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Matters involving intelligence activities, cryptologic activities related to national security, the command and control of military forces, or equipment that is an integral part of a weapon or weapons system; or</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Matters critical to the direct fulfillment of military or intelligence missions.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  This solicitation/contract identifies classified or sensitive information that requires securing during telecommunications and requires the Contractor to secure telecommunications systems.  The Contractor agrees to secure information and systems at the following location:  (Identify the location.)</p>
-         <p outputclass="List1" class="- topic/p ">(c)  To provide the security, the Contractor shall use Government-approved telecommunications equipment, devices, techniques, or services.  A list of the approved equipment, etc. may be obtained from (identify where list can be obtained).  Equipment, devices, techniques, or services used by the Contractor must be compatible or interoperable with (list and identify the location of any telecommunications security equipment, device, technique, or service currently being used by the technical or requirements organization or other offices with which the Contractor must communicate).</p>
-         <p outputclass="List1" class="- topic/p ">(d)  Except as may be provided elsewhere in this contract, the Contractor shall furnish all telecommunications security equipment, devices, techniques, or services necessary to perform this contract.  The Contractor must meet ownership eligibility conditions for communications security equipment designated as controlled cryptographic items.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  The Contractor agrees to include this clause, including this paragraph (e), in all subcontracts which require securing telecommunications.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">TELECOMMUNICATIONS SECURITY EQUIPMENT, DEVICES, TECHNIQUES, AND SERVICES (DEC 1991)</p>
+         <p outputclass="List1">(a)  <i>Definitions.  </i>As used in this clause—</p>
+         <p outputclass="List2">(1)  “Securing” means the application of Government-approved telecommunications security equipment, devices, techniques, or services to contractor telecommunications systems.</p>
+         <p outputclass="List2">(2)  “Sensitive information” means any information the loss, misuse, or modification of which, or unauthorized access to, could adversely affect the national interest or the conduct of Federal programs, or the privacy to which individuals are entitled under 5 U.S.C. 552a (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive Order or Act of Congress to be kept secret in the interest of national defense or foreign policy.</p>
+         <p outputclass="List2">(3)  “Telecommunications systems” means voice, record, and data communications, including management information systems and local data networks that connect to external transmission media, when employed by Government agencies, contractors, and subcontractors to transmit—</p>
+         <p outputclass="List3">(i)  Classified or sensitive information;</p>
+         <p outputclass="List3">(ii)  Matters involving intelligence activities, cryptologic activities related to national security, the command and control of military forces, or equipment that is an integral part of a weapon or weapons system; or</p>
+         <p outputclass="List3">(iii)  Matters critical to the direct fulfillment of military or intelligence missions.</p>
+         <p outputclass="List1">(b)  This solicitation/contract identifies classified or sensitive information that requires securing during telecommunications and requires the Contractor to secure telecommunications systems.  The Contractor agrees to secure information and systems at the following location:  (Identify the location.)</p>
+         <p outputclass="List1">(c)  To provide the security, the Contractor shall use Government-approved telecommunications equipment, devices, techniques, or services.  A list of the approved equipment, etc. may be obtained from (identify where list can be obtained).  Equipment, devices, techniques, or services used by the Contractor must be compatible or interoperable with (list and identify the location of any telecommunications security equipment, device, technique, or service currently being used by the technical or requirements organization or other offices with which the Contractor must communicate).</p>
+         <p outputclass="List1">(d)  Except as may be provided elsewhere in this contract, the Contractor shall furnish all telecommunications security equipment, devices, techniques, or services necessary to perform this contract.  The Contractor must meet ownership eligibility conditions for communications security equipment designated as controlled cryptographic items.</p>
+         <p outputclass="List1">(e)  The Contractor agrees to include this clause, including this paragraph (e), in all subcontracts which require securing telecommunications.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

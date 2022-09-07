@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.232-7015"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.232-7015</ph> Performance-Based Payments—Representation.</title>
-      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in <xref href="232.1005-70.dita#DFARS_232.1005-70"
-                  base="i1380179"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">232.1005-70</xref> (b), use the
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.232-7015" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">252.232-7015</ph> Performance-Based Payments—Representation.</title>
+      <conbody outputclass="provision">
+         <p>As prescribed in <xref href="232.1005-70.dita#DFARS_232.1005-70" base="i1380179" outputclass="fm:ParaNumOnly">232.1005-70</xref> (b), use the
 following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">PERFORMANCE-BASED PAYMENTS—REPRESENTATION
+         <p outputclass="Ctr_SmCaps">PERFORMANCE-BASED PAYMENTS—REPRESENTATION
 (APR 2020)</p>
-         <p outputclass="List1" class="- topic/p ">(a) In accordance with 10 U.S.C. 2307(b)(4)(A),
+         <p outputclass="List1">(a) In accordance with 10 U.S.C. 2307(b)(4)(A),
 the Contractor’s financial statements shall be in compliance with
 Generally Accepted Accounting Principles in order to receive performance-based
 payments.</p>
-         <p outputclass="List1" class="- topic/p ">(b) The Offeror represents that its financial
+         <p outputclass="List1">(b) The Offeror represents that its financial
 statements are [ ] are not [ ] in compliance with Generally Accepted
 Accounting Principles.</p>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+         <p outputclass="Endofprovision">(End of provision)</p>
       </conbody>
    </concept>
 </dita>

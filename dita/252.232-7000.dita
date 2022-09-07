@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.232-7000"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.232-7000</ph> Advance Payment Pool.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1380109"
-                  href="232.412-70.dita#DFARS_232.412-70">232.412-70</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.232-7000" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.232-7000</ph> Advance Payment Pool.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1380109" href="232.412-70.dita#DFARS_232.412-70">232.412-70</xref>
             (a), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">ADVANCE PAYMENT POOL (APR 2020)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Notwithstanding any other provision of this contract, advance payments will be made for contract performance in accordance with the Determinations, Findings, and Authorization for Advance payment dated __________________________.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Payments made in accordance with this clause shall be governed by the terms and conditions of the Advance Payment Pool Agreement between the United States of America and [insert the name of the Contractor].  The Agreement is incorporated in the contract by reference.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  When a letter of credit has not been issued to the Contractor in conjunction with the contract, payment will be by a dual payee Treasury check made payable to the Contractor or the disbursing office in the Advance Payment Pool Agreement and will be forwarded to that disbursing office for appropriate disposition.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">ADVANCE PAYMENT POOL (APR 2020)</p>
+         <p outputclass="List1">(a)  Notwithstanding any other provision of this contract, advance payments will be made for contract performance in accordance with the Determinations, Findings, and Authorization for Advance payment dated __________________________.</p>
+         <p outputclass="List1">(b)  Payments made in accordance with this clause shall be governed by the terms and conditions of the Advance Payment Pool Agreement between the United States of America and [insert the name of the Contractor].  The Agreement is incorporated in the contract by reference.</p>
+         <p outputclass="List1">(c)  When a letter of credit has not been issued to the Contractor in conjunction with the contract, payment will be by a dual payee Treasury check made payable to the Contractor or the disbursing office in the Advance Payment Pool Agreement and will be forwarded to that disbursing office for appropriate disposition.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

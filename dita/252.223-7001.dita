@@ -1,155 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.223-7001"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.223-7001</ph> Hazard Warning Labels.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-223.303"
-                  href="223.303.dita#DFARS_223.303">223.303</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.223-7001" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.223-7001</ph> Hazard Warning Labels.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-223.303" href="223.303.dita#DFARS_223.303">223.303</xref>
             , use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">HAZARD WARNING LABELS (DEC 1991)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  “Hazardous material,” as used in this clause, is defined in the Hazardous Material Identification and Material Safety Data clause of this contract.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  The Contractor shall label the item package (unit container) of any hazardous material to be delivered under this contract in accordance with the Hazard Communication Standard (29 CFR 1910.1200 et seq).  The Standard requires that the hazard warning label conform to the requirements of the standard unless the material is otherwise subject to the labelling requirements of one of the following statutes:</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Federal Insecticide, Fungicide and Rodenticide Act;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Federal Food, Drug and Cosmetics Act;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Consumer Product Safety Act;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Federal Hazardous Substances Act; or</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Federal Alcohol Administration Act.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  The Offeror shall list which hazardous material listed in the Hazardous Material Identification and Material Safety Data clause of this contract will be labelled in accordance with one of the Acts in paragraphs (b)(1) through (5) of this clause instead of the Hazard Communication Standard.  Any hazardous material not listed will be interpreted to mean that a label is required in accordance with the Hazard Communication Standard.</p>
-         <p class="- topic/p "/>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="4*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="57*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="4*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="4*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="28*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="4*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+         <p outputclass="Ctr_SmCaps">HAZARD WARNING LABELS (DEC 1991)</p>
+         <p outputclass="List1">(a)  “Hazardous material,” as used in this clause, is defined in the Hazardous Material Identification and Material Safety Data clause of this contract.</p>
+         <p outputclass="List1">(b)  The Contractor shall label the item package (unit container) of any hazardous material to be delivered under this contract in accordance with the Hazard Communication Standard (29 CFR 1910.1200 et seq).  The Standard requires that the hazard warning label conform to the requirements of the standard unless the material is otherwise subject to the labelling requirements of one of the following statutes:</p>
+         <p outputclass="List2">(1)  Federal Insecticide, Fungicide and Rodenticide Act;</p>
+         <p outputclass="List2">(2)  Federal Food, Drug and Cosmetics Act;</p>
+         <p outputclass="List2">(3)  Consumer Product Safety Act;</p>
+         <p outputclass="List2">(4)  Federal Hazardous Substances Act; or</p>
+         <p outputclass="List2">(5)  Federal Alcohol Administration Act.</p>
+         <p outputclass="List1">(c)  The Offeror shall list which hazardous material listed in the Hazardous Material Identification and Material Safety Data clause of this contract will be labelled in accordance with one of the Acts in paragraphs (b)(1) through (5) of this clause instead of the Hazard Communication Standard.  Any hazardous material not listed will be interpreted to mean that a label is required in accordance with the Hazard Communication Standard.</p>
+         <p></p>
+         <table frame="all" colsep="1" rowsep="0">
+            <tgroup cols="6" colsep="1" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="4*" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="57*" rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="4*" rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="4*" rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="28*" rowheader="headers" />
+               <colspec colnum="6" colname="6" colwidth="4*" rowheader="headers" />
+               <tbody>
+                  <row rowsep="1">
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">MATERIAL (If None, Insert “None.”)</p>
+                     <entry>
+                        <p>MATERIAL (If None, Insert “None.”)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">ACT</p>
+                     <entry>
+                        <p>ACT</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="1">
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="1">
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p></p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
+                     </entry>
+                     <entry>
+                        <p></p>
+                     </entry>
+                     <entry>
+                        <p></p>
+                     </entry>
+                     <entry>
+                        <p></p>
+                     </entry>
+                     <entry>
+                        <p></p>
+                     </entry>
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List1" class="- topic/p "/>
-         <p outputclass="List1" class="- topic/p ">(d)  The apparently successful Offeror agrees to submit, before award, a copy of the hazard warning label for all hazardous materials not listed in paragraph (c) of this clause.  The Offeror shall submit the label with the Material Safety Data Sheet being furnished under the Hazardous Material Identification and Material Safety Data clause of this contract.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  The Contractor shall also comply with MIL-STD-129, Marking for Shipment and Storage (including revisions adopted during the term of this contract).</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="List1"></p>
+         <p outputclass="List1">(d)  The apparently successful Offeror agrees to submit, before award, a copy of the hazard warning label for all hazardous materials not listed in paragraph (c) of this clause.  The Offeror shall submit the label with the Material Safety Data Sheet being furnished under the Hazardous Material Identification and Material Safety Data clause of this contract.</p>
+         <p outputclass="List1">(e)  The Contractor shall also comply with MIL-STD-129, Marking for Shipment and Storage (including revisions adopted during the term of this contract).</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

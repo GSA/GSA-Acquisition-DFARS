@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.229-7013"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.229-7013</ph> Tax Exemptions (Spain)—Representation.</title>
-      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1379979"
-                  href="229.402-70.dita#DFARS_229.402-70">229.402-70</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.229-7013" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.229-7013</ph> Tax Exemptions (Spain)—Representation.</title>
+      <conbody outputclass="provision">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1379979" href="229.402-70.dita#DFARS_229.402-70">229.402-70</xref>
             (e)(2), use the following provision:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">TAX EXEMPTIONS (SPAIN)—REPRESENTATION (APR 2012)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Exemptions.  </i>In accordance with tax relief agreements between the United States Government and the Spanish Government, and because the resultant contract arises from the activities of the United States Forces in Spain, the contract will be exempt from the excise, luxury, and transaction taxes listed in paragraph (b) of the clause DFARS 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383143"
-                  href="252.229-7005.dita#DFARS_252.229-7005">252.229-7005</xref>
+         <p outputclass="Ctr_SmCaps">TAX EXEMPTIONS (SPAIN)—REPRESENTATION (APR 2012)</p>
+         <p outputclass="List1">(a)  <i>Exemptions.  </i>In accordance with tax relief agreements between the United States Government and the Spanish Government, and because the resultant contract arises from the activities of the United States Forces in Spain, the contract will be exempt from the excise, luxury, and transaction taxes listed in paragraph (b) of the clause DFARS 
+               <xref outputclass="fm:ParaNumOnly" base="i1383143" href="252.229-7005.dita#DFARS_252.229-7005">252.229-7005</xref>
             ,  Tax Exemptions (Spain).</p>
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Representation.</i>  By submission of its offer, the offeror represents that the offered price, including the prices of subcontracts to be awarded under the contract, does not include the taxes identified herein, or any other taxes from which the United States Government is exempt.</p>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+         <p outputclass="List1">(b)  <i>Representation.</i>  By submission of its offer, the offeror represents that the offered price, including the prices of subcontracts to be awarded under the contract, does not include the taxes identified herein, or any other taxes from which the United States Government is exempt.</p>
+         <p outputclass="Endofprovision">(End of provision)</p>
       </conbody>
    </concept>
 </dita>

@@ -1,142 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.209-7002"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.209-7002</ph> Disclosure of Ownership or Control by a Foreign Government</title>
-      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref href="209.104-70.dita#DFARS_209.104-70"
-                  base="i1377731"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">209.104-70</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.209-7002" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">252.209-7002</ph> Disclosure of Ownership or Control by a Foreign Government</title>
+      <conbody outputclass="provision">
+         <p>As prescribed in 
+               <xref href="209.104-70.dita#DFARS_209.104-70" base="i1377731" outputclass="fm:ParaNumOnly">209.104-70</xref>
             , use the following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">DISCLOSURE OF OWNERSHIP OR CONTROL BY A FOREIGN GOVERNMENT (JUN 2010)</p>
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i>As used in this provision—</p>
-         <p outputclass="List2" class="- topic/p ">(1) “Effectively owned or controlled” means that a foreign government or any entity controlled by a foreign government has the power, either directly or indirectly, whether exercised or exercisable, to control the election, appointment, or tenure of the Offeror’s officers or a majority of the Offeror’s board of directors by any means, e.g., ownership, contract, or operation of law (or equivalent power for unincorporated organizations).</p>
-         <p outputclass="List2" class="- topic/p ">(2) “Entity controlled by a foreign government”—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Means—</p>
-         <p outputclass="List4" class="- topic/p ">(A) Any domestic or foreign organization or corporation that is effectively owned or controlled by a foreign government; or</p>
-         <p outputclass="List4" class="- topic/p ">(B) Any individual acting on behalf of a foreign government.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Does not include an organization or corporation that is owned, but is not controlled, either directly or indirectly, by a foreign government if the ownership of that organization or corporation by that foreign government was effective before October 23, 1992.</p>
-         <p outputclass="List2" class="- topic/p ">(3) “Foreign government” includes the state and the government of any country (other than the United States and its outlying areas) as well as any political subdivision, agency, or instrumentality thereof.</p>
-         <p outputclass="List2" class="- topic/p ">(4) “Proscribed information” means—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Top Secret information;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Communications security (COMSEC) material, excluding controlled cryptographic items when unkeyed or utilized with unclassified keys;</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Restricted Data as defined in the U.S. Atomic Energy Act of 1954, as amended;</p>
-         <p outputclass="List3" class="- topic/p ">(iv) Special Access Program (SAP) information; or</p>
-         <p outputclass="List3" class="- topic/p ">(v) Sensitive Compartmented Information (SCI).</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Prohibition on award.</i> No contract under a national security program may be awarded to an entity controlled by a foreign government if that entity requires access to proscribed information to perform the contract, unless the Secretary of Defense or a designee has waived application of 10 U.S.C. 2536(a).</p>
-         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Disclosure.</i>The Offeror shall disclose any interest a foreign government has in the Offeror when that interest constitutes control by a foreign government as defined in this provision. If the Offeror is a subsidiary, it shall also disclose any reportable interest a foreign government has in any entity that owns or controls the subsidiary, including reportable interest concerning the Offeror’s immediate parent, intermediate parents, and the ultimate parent. Use separate paper as needed, and provide the information in the following format:</p>
-         <p class="- topic/p "/>
-         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="3"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="33*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="33*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="33*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Offeror’s Point of Contact for Questions about Disclosure</p>
-                        <p class="- topic/p ">(Name and Phone Number with Country Code, City Code and Area Code, as applicable)</p>
+         <p outputclass="Ctr_SmCaps">DISCLOSURE OF OWNERSHIP OR CONTROL BY A FOREIGN GOVERNMENT (JUN 2010)</p>
+         <p outputclass="List1">(a) <i>Definitions.</i>As used in this provision—</p>
+         <p outputclass="List2">(1) “Effectively owned or controlled” means that a foreign government or any entity controlled by a foreign government has the power, either directly or indirectly, whether exercised or exercisable, to control the election, appointment, or tenure of the Offeror’s officers or a majority of the Offeror’s board of directors by any means, e.g., ownership, contract, or operation of law (or equivalent power for unincorporated organizations).</p>
+         <p outputclass="List2">(2) “Entity controlled by a foreign government”—</p>
+         <p outputclass="List3">(i) Means—</p>
+         <p outputclass="List4">(A) Any domestic or foreign organization or corporation that is effectively owned or controlled by a foreign government; or</p>
+         <p outputclass="List4">(B) Any individual acting on behalf of a foreign government.</p>
+         <p outputclass="List3">(ii) Does not include an organization or corporation that is owned, but is not controlled, either directly or indirectly, by a foreign government if the ownership of that organization or corporation by that foreign government was effective before October 23, 1992.</p>
+         <p outputclass="List2">(3) “Foreign government” includes the state and the government of any country (other than the United States and its outlying areas) as well as any political subdivision, agency, or instrumentality thereof.</p>
+         <p outputclass="List2">(4) “Proscribed information” means—</p>
+         <p outputclass="List3">(i) Top Secret information;</p>
+         <p outputclass="List3">(ii) Communications security (COMSEC) material, excluding controlled cryptographic items when unkeyed or utilized with unclassified keys;</p>
+         <p outputclass="List3">(iii) Restricted Data as defined in the U.S. Atomic Energy Act of 1954, as amended;</p>
+         <p outputclass="List3">(iv) Special Access Program (SAP) information; or</p>
+         <p outputclass="List3">(v) Sensitive Compartmented Information (SCI).</p>
+         <p outputclass="List1">(b) <i>Prohibition on award.</i> No contract under a national security program may be awarded to an entity controlled by a foreign government if that entity requires access to proscribed information to perform the contract, unless the Secretary of Defense or a designee has waived application of 10 U.S.C. 2536(a).</p>
+         <p outputclass="List1">(c) <i>Disclosure.</i>The Offeror shall disclose any interest a foreign government has in the Offeror when that interest constitutes control by a foreign government as defined in this provision. If the Offeror is a subsidiary, it shall also disclose any reportable interest a foreign government has in any entity that owns or controls the subsidiary, including reportable interest concerning the Offeror’s immediate parent, intermediate parents, and the ultimate parent. Use separate paper as needed, and provide the information in the following format:</p>
+         <p></p>
+         <table frame="all" colsep="0" rowsep="0">
+            <tgroup cols="3" colsep="0" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="33*" colsep="0" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="33*" colsep="0" rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="33*" colsep="0" rowheader="headers" />
+               <tbody>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p>Offeror’s Point of Contact for Questions about Disclosure</p>
+                        <p>(Name and Phone Number with Country Code, City Code and Area Code, as applicable)</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry colname="2">
+                        <p></p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="3" />
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p></p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry colname="2">
+                        <p></p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry colname="3">
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Name and Address of Offeror</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p>Name and Address of Offeror</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry colname="2">
+                        <p></p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry colname="3">
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Name and Address of Entity Controlled by a Foreign Government</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p></p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Description of Interest, Ownership Percentage, and Identification of Foreign Government</p>
+                     <entry colname="2">
+                        <p></p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry colname="3">
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p>Name and Address of Entity Controlled by a Foreign Government</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry colname="2">
+                        <p>Description of Interest, Ownership Percentage, and Identification of Foreign Government</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="3">
+                        <p></p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p></p>
+                     </entry>
+                     <entry colname="2">
+                        <p></p>
+                     </entry>
+                     <entry colname="3">
+                        <p></p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1">
+                        <p outputclass="Endofprovision">(End of provision)</p>
+                     </entry>
+                     <entry colname="2">
+                        <p></p>
+                     </entry>
+                     <entry colname="3" />
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p "/>
+         <p></p>
       </conbody>
    </concept>
 </dita>

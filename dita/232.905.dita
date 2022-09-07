@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_232.905"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">232.905</ph> Payment documentation and process.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b)(1)(iii)  For task and delivery orders numbered in accordance with FAR 4.1603 and 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.1603"
-                  href="204.1603.dita#DFARS_204.1603">204.1603</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_232.905" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">232.905</ph> Payment documentation and process.</title>
+      <conbody>
+         <p outputclass="List1">(b)(1)(iii)  For task and delivery orders numbered in accordance with FAR 4.1603 and 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-204.1603" href="204.1603.dita#DFARS_204.1603">204.1603</xref>
             , the 13-character order number may serve as the contract number on invoices and receiving reports.  The contract or agreement number under which the order was placed may be omitted from invoices and receiving reports.  The contractor may choose to identify both the contract number and the 13-character order number on invoices and receiving reports.  Task and delivery orders numbered with a four-position alpha-numeric call or order serial number shall include both the 13-position basic contract Procurement Instrument Identifier and the four-position order number.</p>
       </conbody>
    </concept>

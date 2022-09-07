@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.232-7008"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.232-7008</ph> Assignment of Claims (Overseas).</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-232.806"
-                  href="232.806.dita#DFARS_232.806">232.806</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.232-7008" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.232-7008</ph> Assignment of Claims (Overseas).</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-232.806" href="232.806.dita#DFARS_232.806">232.806</xref>
             (a)(1), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">ASSIGNMENT OF CLAIMS (OVERSEAS) (JUN 1997)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  No claims for monies due, or to become due, shall be assigned by the Contractor unless—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Approved in writing by the Contracting Officer;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Made in accordance with the laws and regulations of the United States of America; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Permitted by the laws and regulations of the Contractor’s country.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  In no event shall copies of this contract or of any plans, specifications, or other similar documents relating to work under this contract, if marked “Top Secret,” “Secret,” or “Confidential” be furnished to any assignee of any claim arising under this contract or to any other person not entitled to receive such documents.  However, a copy of any part or all of this contract so marked may be furnished, or any information contained herein may be disclosed, to such assignee upon the Contracting Officer’s prior written authorization.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Any assignment under this contract shall cover all amounts payable under this contract and not already paid, and shall not be made to more than one party, except that any such assignment may be made to one party as agent or trustee for two or more parties participating in such financing.  On each invoice or voucher submitted for payment under this contract to which any assignment applies, and for which direct payment thereof is to be made to an assignee, the Contractor shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Identify the assignee by name and complete address; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Acknowledge the validity of the assignment and the right of the named assignee to receive payment in the amount invoiced or vouchered.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">ASSIGNMENT OF CLAIMS (OVERSEAS) (JUN 1997)</p>
+         <p outputclass="List1">(a)  No claims for monies due, or to become due, shall be assigned by the Contractor unless—</p>
+         <p outputclass="List2">(1)  Approved in writing by the Contracting Officer;</p>
+         <p outputclass="List2">(2)  Made in accordance with the laws and regulations of the United States of America; and</p>
+         <p outputclass="List2">(3)  Permitted by the laws and regulations of the Contractor’s country.</p>
+         <p outputclass="List1">(b)  In no event shall copies of this contract or of any plans, specifications, or other similar documents relating to work under this contract, if marked “Top Secret,” “Secret,” or “Confidential” be furnished to any assignee of any claim arising under this contract or to any other person not entitled to receive such documents.  However, a copy of any part or all of this contract so marked may be furnished, or any information contained herein may be disclosed, to such assignee upon the Contracting Officer’s prior written authorization.</p>
+         <p outputclass="List1">(c)  Any assignment under this contract shall cover all amounts payable under this contract and not already paid, and shall not be made to more than one party, except that any such assignment may be made to one party as agent or trustee for two or more parties participating in such financing.  On each invoice or voucher submitted for payment under this contract to which any assignment applies, and for which direct payment thereof is to be made to an assignee, the Contractor shall—</p>
+         <p outputclass="List2">(1)  Identify the assignee by name and complete address; and</p>
+         <p outputclass="List2">(2)  Acknowledge the validity of the assignment and the right of the named assignee to receive payment in the amount invoiced or vouchered.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

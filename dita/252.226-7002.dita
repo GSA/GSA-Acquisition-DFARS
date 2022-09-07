@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.226-7002"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.226-7002</ph> Representation for Demonstration Project for Contractors Employing Persons with Disabilities.</title>
-      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-226.7203"
-                  href="226.7203.dita#DFARS_226.7203">226.7203</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.226-7002" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.226-7002</ph> Representation for Demonstration Project for Contractors Employing Persons with Disabilities.</title>
+      <conbody outputclass="provision">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-226.7203" href="226.7203.dita#DFARS_226.7203">226.7203</xref>
             , use the following provision:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">REPRESENTATION FOR DEMONSTRATION PROJECT FOR CONTRACTORS EMPLOYING PERSONS WITH DISABILITIES (DEC 2019)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.</i>  As used in this provision—</p>
-         <p class="- topic/p ">“Eligible contractor” means a business entity operated on a for-profit or nonprofit basis that—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Employs severely disabled individuals at a rate that averages not less than 33 percent of its total workforce over the 12-month period prior to issuance of the solicitation;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Pays not less than the minimum wage prescribed pursuant to 29 U.S.C. 206 to the employees who are severely disabled individuals; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Provides, for its employees, health insurance and a retirement plan comparable to those provided for employees by business entities of similar size in its industrial sector or geographic region.</p>
-         <p class="- topic/p ">“Severely disabled individual” means an individual with a disability (as defined in 42 U.S.C. 12102) who has a severe physical or mental impairment that seriously limits one or more functional capacities.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Demonstration Project.</i>  This solicitation is issued pursuant to the Demonstration Project for Contractors Employing Persons with Disabilities.  The purpose of the Demonstration Project is to provide defense contracting opportunities for entities that employ severely disabled individuals.  To be eligible for award, an offeror must be an eligible contractor as defined in paragraph (a) of this provision.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">Representation.</i>  The offeror represents that it [ ] is [ ] is not an eligible contractor as defined in paragraph (a) of this provision.</p>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+         <p outputclass="Ctr_SmCaps">REPRESENTATION FOR DEMONSTRATION PROJECT FOR CONTRACTORS EMPLOYING PERSONS WITH DISABILITIES (DEC 2019)</p>
+         <p outputclass="List1">(a)  <i>Definitions.</i>  As used in this provision—</p>
+         <p>“Eligible contractor” means a business entity operated on a for-profit or nonprofit basis that—</p>
+         <p outputclass="List2">(1)  Employs severely disabled individuals at a rate that averages not less than 33 percent of its total workforce over the 12-month period prior to issuance of the solicitation;</p>
+         <p outputclass="List2">(2)  Pays not less than the minimum wage prescribed pursuant to 29 U.S.C. 206 to the employees who are severely disabled individuals; and</p>
+         <p outputclass="List2">(3)  Provides, for its employees, health insurance and a retirement plan comparable to those provided for employees by business entities of similar size in its industrial sector or geographic region.</p>
+         <p>“Severely disabled individual” means an individual with a disability (as defined in 42 U.S.C. 12102) who has a severe physical or mental impairment that seriously limits one or more functional capacities.</p>
+         <p outputclass="List1">(b)  <i>Demonstration Project.</i>  This solicitation is issued pursuant to the Demonstration Project for Contractors Employing Persons with Disabilities.  The purpose of the Demonstration Project is to provide defense contracting opportunities for entities that employ severely disabled individuals.  To be eligible for award, an offeror must be an eligible contractor as defined in paragraph (a) of this provision.</p>
+         <p outputclass="List1">(c)  <i>Representation.</i>  The offeror represents that it [ ] is [ ] is not an eligible contractor as defined in paragraph (a) of this provision.</p>
+         <p outputclass="Endofprovision">(End of provision)</p>
       </conbody>
    </concept>
 </dita>

@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_227.7103-2"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">227.7103-2</ph> Acquisition of technical data.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Contracting officers shall work closely with data managers and requirements personnel to assure that data requirements included in solicitations are consistent with the policy expressed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1379599"
-                  href="227.7103-1.dita#DFARS_227.7103-1">227.7103-1</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_227.7103-2" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">227.7103-2</ph> Acquisition of technical data.</title>
+      <conbody>
+         <p outputclass="List1">(a)  Contracting officers shall work closely with data managers and requirements personnel to assure that data requirements included in solicitations are consistent with the policy expressed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1379599" href="227.7103-1.dita#DFARS_227.7103-1">227.7103-1</xref>
             .</p>
-         <p outputclass="List1" class="- topic/p ">(b)(1)  Data managers or other requirements personnel are responsible for identifying the Government's minimum needs for technical data.  Data needs must be established giving consideration to the contractor's economic interests in data pertaining to items, components, or processes that have been developed at private expense; the Government's costs to acquire, maintain, store, retrieve, and protect the data; reprocurement needs; repair, maintenance and overhaul philosophies; spare and repair part considerations; and whether procurement of the items, components, or processes can be accomplished on a form, fit, or function basis.  When it is anticipated that the Government will obtain unlimited or government purpose rights in technical data that will be required for competitive spare or repair parts procurements, such data should be identified as deliverable data items.  Reprocurement needs may not be a sufficient reason to acquire detailed manufacturing or process data when items or components can be acquired using performance specifications, form, fit and function data, or when there are a sufficient number of alternate sources which can reasonably be expected to provide such items on a performance specification or form, fit, or function basis.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  When reviewing offers received in response to a solicitation or other request for data, data managers must balance the original assessment of the Government's data needs with data prices contained in the offer.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Contracting officers are responsible for ensuring that, wherever practicable, solicitations and contracts—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Identify the type and quantity of the technical data to be delivered under the contract and the format and media in which the data will be delivered;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Establish each deliverable data item as a separate contract line item (this requirement may be satisfied by listing each deliverable data item on an exhibit to the contract);</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Identify the prices established for each deliverable data item under a fixed-price type contract;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Include delivery schedules and acceptance criteria for each deliverable data item; and</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Specifically identify the place of delivery for each deliverable item of technical data.</p>
+         <p outputclass="List1">(b)(1)  Data managers or other requirements personnel are responsible for identifying the Government's minimum needs for technical data.  Data needs must be established giving consideration to the contractor's economic interests in data pertaining to items, components, or processes that have been developed at private expense; the Government's costs to acquire, maintain, store, retrieve, and protect the data; reprocurement needs; repair, maintenance and overhaul philosophies; spare and repair part considerations; and whether procurement of the items, components, or processes can be accomplished on a form, fit, or function basis.  When it is anticipated that the Government will obtain unlimited or government purpose rights in technical data that will be required for competitive spare or repair parts procurements, such data should be identified as deliverable data items.  Reprocurement needs may not be a sufficient reason to acquire detailed manufacturing or process data when items or components can be acquired using performance specifications, form, fit and function data, or when there are a sufficient number of alternate sources which can reasonably be expected to provide such items on a performance specification or form, fit, or function basis.</p>
+         <p outputclass="List2">(2)  When reviewing offers received in response to a solicitation or other request for data, data managers must balance the original assessment of the Government's data needs with data prices contained in the offer.</p>
+         <p outputclass="List1">(c)  Contracting officers are responsible for ensuring that, wherever practicable, solicitations and contracts—</p>
+         <p outputclass="List2">(1)  Identify the type and quantity of the technical data to be delivered under the contract and the format and media in which the data will be delivered;</p>
+         <p outputclass="List2">(2)  Establish each deliverable data item as a separate contract line item (this requirement may be satisfied by listing each deliverable data item on an exhibit to the contract);</p>
+         <p outputclass="List2">(3)  Identify the prices established for each deliverable data item under a fixed-price type contract;</p>
+         <p outputclass="List2">(4)  Include delivery schedules and acceptance criteria for each deliverable data item; and</p>
+         <p outputclass="List2">(5)  Specifically identify the place of delivery for each deliverable item of technical data.</p>
       </conbody>
    </concept>
 </dita>

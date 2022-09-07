@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.216-7009"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.216-7009</ph> Allowability of Legal Costs Incurred in Connection With a Whistleblower Proceeding.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-216.307"
-                  href="216.307.dita#DFARS_216.307">216.307</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.216-7009" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.216-7009</ph> Allowability of Legal Costs Incurred in Connection With a Whistleblower Proceeding.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-216.307" href="216.307.dita#DFARS_216.307">216.307</xref>
             (a), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">ALLOWABILITY OF LEGAL COSTS INCURRED IN CONNECTION WITH A WHISTLEBLOWER PROCEEDING (SEP 2013)</p>
-         <p class="- topic/p ">Pursuant to section 827 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239), notwithstanding FAR clause 52.216-7, Allowable Cost and Payment—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The restrictions of FAR 31.205-47(b) on allowability of costs related to legal and other proceedings also apply to any proceeding brought by a contractor employee submitting a complaint under 10 U.S.C. 2409, entitled “Contractor employees: protection from reprisal for disclosure of certain information;” and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Costs incurred in connection with a proceeding that is brought by a contractor employee submitting a complaint under 10 U.S.C. 2409 are also unallowable if the result is an order to take corrective action under 10 U.S.C. 2409.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">ALLOWABILITY OF LEGAL COSTS INCURRED IN CONNECTION WITH A WHISTLEBLOWER PROCEEDING (SEP 2013)</p>
+         <p>Pursuant to section 827 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239), notwithstanding FAR clause 52.216-7, Allowable Cost and Payment—</p>
+         <p outputclass="List2">(1)  The restrictions of FAR 31.205-47(b) on allowability of costs related to legal and other proceedings also apply to any proceeding brought by a contractor employee submitting a complaint under 10 U.S.C. 2409, entitled “Contractor employees: protection from reprisal for disclosure of certain information;” and</p>
+         <p outputclass="List2">(2)  Costs incurred in connection with a proceeding that is brought by a contractor employee submitting a complaint under 10 U.S.C. 2409 are also unallowable if the result is an order to take corrective action under 10 U.S.C. 2409.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

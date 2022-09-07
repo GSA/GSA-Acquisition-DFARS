@@ -1,103 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.229-7001"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.229-7001</ph> Tax Relief.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Basic</i>.  As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1379979"
-                  href="229.402-70.dita#DFARS_229.402-70">229.402-70</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.229-7001" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.229-7001</ph> Tax Relief.</title>
+      <conbody>
+         <p>
+            <i>Basic</i>.  As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1379979" href="229.402-70.dita#DFARS_229.402-70">229.402-70</xref>
             (a) and (a)(1), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">TAX RELIEF—BASIC (APR 2020)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Prices set forth in this contract are exclusive of all taxes and duties from which the United States Government is exempt by virtue of tax agreements between the United States Government and the Contractor’s government.  The following taxes or duties have been excluded from the contract price:</p>
-         <p class="- topic/p "/>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="45*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="55*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">NAME OF TAX:  (Offeror insert)</p>
+         <p outputclass="Ctr_SmCaps">TAX RELIEF—BASIC (APR 2020)</p>
+         <p outputclass="List1">(a)  Prices set forth in this contract are exclusive of all taxes and duties from which the United States Government is exempt by virtue of tax agreements between the United States Government and the Contractor’s government.  The following taxes or duties have been excluded from the contract price:</p>
+         <p></p>
+         <table frame="all" colsep="1" rowsep="0">
+            <tgroup cols="2" colsep="1" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="45*" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="55*" rowheader="headers" />
+               <tbody>
+                  <row rowsep="0">
+                     <entry>
+                        <p>NAME OF TAX:  (Offeror insert)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">RATE (PERCENTAGE):  (Offeror insert)</p>
+                     <entry>
+                        <p>RATE (PERCENTAGE):  (Offeror insert)</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List1" class="- topic/p "/>
-         <p outputclass="List1" class="- topic/p ">(b)   Invoices submitted in accordance with the terms and conditions of this contract shall be exclusive of all taxes or duties for which relief is available.  The Contractor’s invoice shall list separately the gross price, amount of tax deducted, and net price charged.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  When items manufactured to United States Government specifications are being acquired, the Contractor shall identify the materials or components intended to be imported in order to ensure that relief from import duties is obtained.  If the Contractor intends to use imported products from inventories on hand, the price of which includes a factor for import duties, the Contractor shall ensure the United States Government’s exemption from these taxes.  The Contractor may obtain a refund of the import duties from its government or request the duty-free import of an amount of supplies or components corresponding to that used from inventory for this contract.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section outputclass="Alternate" class="- topic/section ">
-            <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I</i>.  As prescribed in 
-                  <xref outputclass="fm:ParaNumOnly"
-                     class="- topic/xref "
-                     base="i1379979"
-                     href="229.402-70.dita#DFARS_229.402-70">229.402-70</xref>
+         <p outputclass="List1"></p>
+         <p outputclass="List1">(b)   Invoices submitted in accordance with the terms and conditions of this contract shall be exclusive of all taxes or duties for which relief is available.  The Contractor’s invoice shall list separately the gross price, amount of tax deducted, and net price charged.</p>
+         <p outputclass="List1">(c)  When items manufactured to United States Government specifications are being acquired, the Contractor shall identify the materials or components intended to be imported in order to ensure that relief from import duties is obtained.  If the Contractor intends to use imported products from inventories on hand, the price of which includes a factor for import duties, the Contractor shall ensure the United States Government’s exemption from these taxes.  The Contractor may obtain a refund of the import duties from its government or request the duty-free import of an amount of supplies or components corresponding to that used from inventory for this contract.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
+         <section outputclass="Alternate">
+            <p>
+               <i>Alternate I</i>.  As prescribed in 
+                  <xref outputclass="fm:ParaNumOnly" base="i1379979" href="229.402-70.dita#DFARS_229.402-70">229.402-70</xref>
                (a) and (a)(2), use the following clause, which adds a paragraph (d) not included in the basic clause:</p>
-            <p class="- topic/p ">TAX RELIEF—ALTERNATE I (APR 2020)</p>
-            <p outputclass="List1" class="- topic/p ">(a)  Prices set forth in this contract are exclusive of all taxes and duties from which the United States Government is exempt by virtue of tax agreements between the United States Government and the Contractor’s government.  The following taxes or duties have been excluded from the contract price:</p>
-            <p class="- topic/p "/>
-            <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-               <tgroup cols="2"
-                       colsep="1"
-                       rowsep="0"
-                       outputclass="Table"
-                       class="- topic/tgroup ">
-                  <colspec colnum="1"
-                           colname="1"
-                           colwidth="45*"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
-                  <colspec colnum="2"
-                           colname="2"
-                           colwidth="55*"
-                           class="- topic/colspec "
-                           rowheader="headers"/>
-                  <tbody class="- topic/tbody ">
-                     <row rowsep="0" class="- topic/row ">
-                        <entry class="- topic/entry ">
-                           <p class="- topic/p ">NAME OF TAX:  <i class="+ topic/ph hi-d/i ">[Offeror insert]</i>
+            <p>TAX RELIEF—ALTERNATE I (APR 2020)</p>
+            <p outputclass="List1">(a)  Prices set forth in this contract are exclusive of all taxes and duties from which the United States Government is exempt by virtue of tax agreements between the United States Government and the Contractor’s government.  The following taxes or duties have been excluded from the contract price:</p>
+            <p></p>
+            <table frame="all" colsep="1" rowsep="0">
+               <tgroup cols="2" colsep="1" rowsep="0" outputclass="Table">
+                  <colspec colnum="1" colname="1" colwidth="45*" rowheader="headers" />
+                  <colspec colnum="2" colname="2" colwidth="55*" rowheader="headers" />
+                  <tbody>
+                     <row rowsep="0">
+                        <entry>
+                           <p>NAME OF TAX:  <i>[Offeror insert]</i>
                            </p>
                         </entry>
-                        <entry class="- topic/entry ">
-                           <p class="- topic/p ">RATE (PERCENTAGE):  <i class="+ topic/ph hi-d/i ">[Offeror insert]</i>
+                        <entry>
+                           <p>RATE (PERCENTAGE):  <i>[Offeror insert]</i>
                            </p>
                         </entry>
                      </row>
                   </tbody>
                </tgroup>
             </table>
-            <p outputclass="List1" class="- topic/p "/>
-            <p outputclass="List1" class="- topic/p ">(b)   Invoices submitted in accordance with the terms and conditions of this contract shall be exclusive of all taxes or duties for which relief is available.  The Contractor’s invoice shall list separately the gross price, amount of tax deducted, and net price charged.</p>
-            <p outputclass="List1" class="- topic/p ">(c)  When items manufactured to United States Government specifications are being acquired, the Contractor shall identify the materials or components intended to be imported in order to ensure that relief from import duties is obtained.  If the Contractor intends to use imported products from inventories on hand, the price of which includes a factor for import duties, the Contractor shall ensure the United States Government’s exemption from these taxes.  The Contractor may obtain a refund of the import duties from its government or request the duty-free import of an amount of supplies or components corresponding to that used from inventory for this contract.</p>
-            <p outputclass="List1" class="- topic/p ">(d)  Tax relief will be claimed in Germany pursuant to the provisions of the Agreement Between the United States of America and Germany Concerning Tax Relief to be Accorded by Germany to United States Expenditures in the Interest of Common Defense.  The Contractor shall use Abwicklungsschein fuer abgabenbeguenstigte Lieferungen/Leistungen nach dem Offshore Steuerabkommen (Performance Certificate for Tax-Free Deliveries/Performance according to the Offshore Tax Relief Agreement) or other documentary evidence acceptable to the German tax authorities.  All purchases made and paid for on a tax-free basis during a 30-day period may be accumulated, totaled, and reported as tax-free.</p>
-            <p class="- topic/p ">End of clause)</p>
+            <p outputclass="List1"></p>
+            <p outputclass="List1">(b)   Invoices submitted in accordance with the terms and conditions of this contract shall be exclusive of all taxes or duties for which relief is available.  The Contractor’s invoice shall list separately the gross price, amount of tax deducted, and net price charged.</p>
+            <p outputclass="List1">(c)  When items manufactured to United States Government specifications are being acquired, the Contractor shall identify the materials or components intended to be imported in order to ensure that relief from import duties is obtained.  If the Contractor intends to use imported products from inventories on hand, the price of which includes a factor for import duties, the Contractor shall ensure the United States Government’s exemption from these taxes.  The Contractor may obtain a refund of the import duties from its government or request the duty-free import of an amount of supplies or components corresponding to that used from inventory for this contract.</p>
+            <p outputclass="List1">(d)  Tax relief will be claimed in Germany pursuant to the provisions of the Agreement Between the United States of America and Germany Concerning Tax Relief to be Accorded by Germany to United States Expenditures in the Interest of Common Defense.  The Contractor shall use Abwicklungsschein fuer abgabenbeguenstigte Lieferungen/Leistungen nach dem Offshore Steuerabkommen (Performance Certificate for Tax-Free Deliveries/Performance according to the Offshore Tax Relief Agreement) or other documentary evidence acceptable to the German tax authorities.  All purchases made and paid for on a tax-free basis during a 30-day period may be accumulated, totaled, and reported as tax-free.</p>
+            <p>End of clause)</p>
          </section>
       </conbody>
    </concept>

@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.241-7000"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.241-7000</ph> Superseding Contract.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1380417"
-                  href="241.501-70.dita#DFARS_241.501-70">241.501-70</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.241-7000" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.241-7000</ph> Superseding Contract.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1380417" href="241.501-70.dita#DFARS_241.501-70">241.501-70</xref>
             (a), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">SUPERSEDING CONTRACT (DEC 1991)</p>
-         <p class="- topic/p ">This contract supersedes contract No. _________________, dated ___________________ which provided similar services.  Any capital credits accrued to the Government, any remaining credits due to the Government under the connection charge, or any termination liability are transferred to this contract, as follows:</p>
-         <p class="- topic/p ">CAPITAL CREDITS:  (List years and accrued credits by year and separate delivery points.)</p>
-         <p class="- topic/p ">OUTSTANDING CONNECTION CHARGE CREDITS:  (List by month and year the amount credited and show the remaining amount of outstanding credits due the Government.)</p>
-         <p class="- topic/p ">TERMINATION LIABILITY CHARGES:  (List by month and year the amount of monthly facility cost recovered and show the remaining amount of facility cost to be recovered.)</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">SUPERSEDING CONTRACT (DEC 1991)</p>
+         <p>This contract supersedes contract No. _________________, dated ___________________ which provided similar services.  Any capital credits accrued to the Government, any remaining credits due to the Government under the connection charge, or any termination liability are transferred to this contract, as follows:</p>
+         <p>CAPITAL CREDITS:  (List years and accrued credits by year and separate delivery points.)</p>
+         <p>OUTSTANDING CONNECTION CHARGE CREDITS:  (List by month and year the amount credited and show the remaining amount of outstanding credits due the Government.)</p>
+         <p>TERMINATION LIABILITY CHARGES:  (List by month and year the amount of monthly facility cost recovered and show the remaining amount of facility cost to be recovered.)</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

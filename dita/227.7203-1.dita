@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_227.7203-1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">227.7203-1</ph> Policy.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) DoD policy is to acquire only the computer software and computer software documentation, and the rights in such software or documentation, necessary to satisfy agency needs.</p>
-         <p outputclass="List1" class="- topic/p ">(b) Solicitations and contracts shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Specify the computer software or computer software documentation to be delivered under a contract and the delivery schedules for the software or documentation;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Establish or reference procedures for determining the acceptability of computer software or computer software documentation;</p>
-         <p outputclass="List2" class="- topic/p ">(3) Establish separate contract line items, to the extent practicable, for the computer software or computer software documentation to be delivered under a contract and require offerors and contractors to price separately each deliverable data item; and</p>
-         <p outputclass="List2" class="- topic/p ">(4) Require offerors to identify, to the extent practicable, computer software or computer software documentation to be furnished with restrictions on the Government's rights and require contractors to identify computer software or computer software documentation to be delivered with such restrictions prior to delivery.</p>
-         <p outputclass="List1" class="- topic/p ">(c) Offerors shall not be required, either as a condition of being responsive to a solicitation or as a condition for award, to sell or otherwise relinquish to the Government any rights in computer software developed exclusively at private expense except for the software identified at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.7203-5"
-                  href="227.7203-5.dita#DFARS_227.7203-5">227.7203-5</xref>(a)(3) through (6).</p>
-         <p outputclass="List1" class="- topic/p ">(d) Offerors and contractors shall not be prohibited or discouraged from furnishing or offering to furnish computer software developed exclusively at private expense solely because the Government's rights to use, modify, release, reproduce, perform, display, or disclose the software may be restricted.</p>
-         <p outputclass="List1" class="- topic/p ">(e) For acquisitions involving major weapon systems or subsystems of major weapon systems, the acquisition plan shall address acquisition strategies that provide for computer software and computer software documentation, and the associated license rights, in accordance with <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-207.106"
-                  href="207.106.dita#DFARS_207.106">207.106</xref>(S-70).</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_227.7203-1" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">227.7203-1</ph> Policy.</title>
+      <conbody>
+         <p outputclass="List1">(a) DoD policy is to acquire only the computer software and computer software documentation, and the rights in such software or documentation, necessary to satisfy agency needs.</p>
+         <p outputclass="List1">(b) Solicitations and contracts shall—</p>
+         <p outputclass="List2">(1) Specify the computer software or computer software documentation to be delivered under a contract and the delivery schedules for the software or documentation;</p>
+         <p outputclass="List2">(2) Establish or reference procedures for determining the acceptability of computer software or computer software documentation;</p>
+         <p outputclass="List2">(3) Establish separate contract line items, to the extent practicable, for the computer software or computer software documentation to be delivered under a contract and require offerors and contractors to price separately each deliverable data item; and</p>
+         <p outputclass="List2">(4) Require offerors to identify, to the extent practicable, computer software or computer software documentation to be furnished with restrictions on the Government's rights and require contractors to identify computer software or computer software documentation to be delivered with such restrictions prior to delivery.</p>
+         <p outputclass="List1">(c) Offerors shall not be required, either as a condition of being responsive to a solicitation or as a condition for award, to sell or otherwise relinquish to the Government any rights in computer software developed exclusively at private expense except for the software identified at <xref outputclass="fm:ParaNumOnly" base="DFARS-227.7203-5" href="227.7203-5.dita#DFARS_227.7203-5">227.7203-5</xref>(a)(3) through (6).</p>
+         <p outputclass="List1">(d) Offerors and contractors shall not be prohibited or discouraged from furnishing or offering to furnish computer software developed exclusively at private expense solely because the Government's rights to use, modify, release, reproduce, perform, display, or disclose the software may be restricted.</p>
+         <p outputclass="List1">(e) For acquisitions involving major weapon systems or subsystems of major weapon systems, the acquisition plan shall address acquisition strategies that provide for computer software and computer software documentation, and the associated license rights, in accordance with <xref outputclass="fm:ParaNumOnly" base="DFARS-207.106" href="207.106.dita#DFARS_207.106">207.106</xref>(S-70).</p>
       </conbody>
    </concept>
 </dita>

@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_239.7408-1"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">239.7408-1</ph> General.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  “Special construction” normally involves a common carrier giving a special service or facility related to the performance of the basic telecommunications service requirements.  This may include—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Moving or relocating equipment;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Providing temporary facilities;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Expediting provision of facilities; or</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Providing specially constructed channel facilities to meet Government requirements.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Use this subpart instead of FAR Part 36 for acquisition of “special construction.”</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Special construction costs may be—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  A contingent liability for using telecommunications services for a shorter time than the minimum to reimburse the contractor for unamortized nonrecoverable costs.  These costs are usually expressed in terms of a termination liability, as provided in the contract or by tariff;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  A onetime special construction charge;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Recurring charges for constructed facilities;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  A minimum service charge;</p>
-         <p outputclass="List2" class="- topic/p ">(5)  An expediting charge; or</p>
-         <p outputclass="List2" class="- topic/p ">(6)  A move or relocation charge.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  When a common carrier submits a proposal or quotation which has special construction requirements, the contracting officer shall require a detailed special construction proposal.  Analyze all special construction proposals to—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Determine the adequacy of the proposed construction;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Disclose excessive or duplicative construction; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  When different forms of charge are possible, provide for the form of charge most advantageous to the Government.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  When possible, analyze and approve special construction charges before receiving the service.  Impose a ceiling on the special construction costs before authorizing the contractor to proceed, if prior approval is not possible.  The contracting officer must approve special construction charges before final payment.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_239.7408-1" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">239.7408-1</ph> General.</title>
+      <conbody>
+         <p outputclass="List1">(a)  “Special construction” normally involves a common carrier giving a special service or facility related to the performance of the basic telecommunications service requirements.  This may include—</p>
+         <p outputclass="List2">(1)  Moving or relocating equipment;</p>
+         <p outputclass="List2">(2)  Providing temporary facilities;</p>
+         <p outputclass="List2">(3)  Expediting provision of facilities; or</p>
+         <p outputclass="List2">(4)  Providing specially constructed channel facilities to meet Government requirements.</p>
+         <p outputclass="List1">(b)  Use this subpart instead of FAR Part 36 for acquisition of “special construction.”</p>
+         <p outputclass="List1">(c)  Special construction costs may be—</p>
+         <p outputclass="List2">(1)  A contingent liability for using telecommunications services for a shorter time than the minimum to reimburse the contractor for unamortized nonrecoverable costs.  These costs are usually expressed in terms of a termination liability, as provided in the contract or by tariff;</p>
+         <p outputclass="List2">(2)  A onetime special construction charge;</p>
+         <p outputclass="List2">(3)  Recurring charges for constructed facilities;</p>
+         <p outputclass="List2">(4)  A minimum service charge;</p>
+         <p outputclass="List2">(5)  An expediting charge; or</p>
+         <p outputclass="List2">(6)  A move or relocation charge.</p>
+         <p outputclass="List1">(d)  When a common carrier submits a proposal or quotation which has special construction requirements, the contracting officer shall require a detailed special construction proposal.  Analyze all special construction proposals to—</p>
+         <p outputclass="List2">(1)  Determine the adequacy of the proposed construction;</p>
+         <p outputclass="List2">(2)  Disclose excessive or duplicative construction; and</p>
+         <p outputclass="List2">(3)  When different forms of charge are possible, provide for the form of charge most advantageous to the Government.</p>
+         <p outputclass="List1">(e)  When possible, analyze and approve special construction charges before receiving the service.  Impose a ceiling on the special construction costs before authorizing the contractor to proceed, if prior approval is not possible.  The contracting officer must approve special construction charges before final payment.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,63 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.237-7000"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.237-7000</ph> Notice of Special Standards of Responsibility.</title>
-      <conbody outputclass="provision" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-237.270"
-                  href="237.270.dita#DFARS_237.270">237.270</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.237-7000" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.237-7000</ph> Notice of Special Standards of Responsibility.</title>
+      <conbody outputclass="provision">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-237.270" href="237.270.dita#DFARS_237.270">237.270</xref>
             (d)(1), use the following provision:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">NOTICE OF SPECIAL STANDARDS OF RESPONSIBILITY (DEC 1991)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  To be determined responsible, the Offeror must meet the general standards of responsibility set forth at FAR 9.104-1 and the following criteria, as described in Chapter 3, General Standards, of “Government Auditing Standards.”</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Qualifications;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Independence; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Quality Control.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  “Government Auditing Standards” is issued by the Comptroller General of the United States and is available for sale from the:</p>
-         <p class="- topic/p "/>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Superintendent of Documents</p>
-                        <p class="- topic/p ">U.S. Government Printing Office</p>
-                        <p class="- topic/p ">Washington, DC  20401</p>
+         <p outputclass="Ctr_SmCaps">NOTICE OF SPECIAL STANDARDS OF RESPONSIBILITY (DEC 1991)</p>
+         <p outputclass="List1">(a)  To be determined responsible, the Offeror must meet the general standards of responsibility set forth at FAR 9.104-1 and the following criteria, as described in Chapter 3, General Standards, of “Government Auditing Standards.”</p>
+         <p outputclass="List2">(1)  Qualifications;</p>
+         <p outputclass="List2">(2)  Independence; and</p>
+         <p outputclass="List2">(3)  Quality Control.</p>
+         <p outputclass="List1">(b)  “Government Auditing Standards” is issued by the Comptroller General of the United States and is available for sale from the:</p>
+         <p></p>
+         <table frame="all" colsep="1" rowsep="0">
+            <tgroup cols="1" colsep="1" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="100*" rowheader="headers" />
+               <tbody>
+                  <row rowsep="1">
+                     <entry>
+                        <p>Superintendent of Documents</p>
+                        <p>U.S. Government Printing Office</p>
+                        <p>Washington, DC  20401</p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="1">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Stock number 020-000-00243-3.</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>Stock number 020-000-00243-3.</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List1" class="- topic/p "/>
-         <p outputclass="List1" class="- topic/p ">(c)  The apparently successful Offeror, before award, shall give the Contracting Officer evidence that it is licensed by the cognizant licensing authority in the state or other political jurisdiction where the Offeror operates its professional practice.</p>
-         <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+         <p outputclass="List1"></p>
+         <p outputclass="List1">(c)  The apparently successful Offeror, before award, shall give the Contracting Officer evidence that it is licensed by the cognizant licensing authority in the state or other political jurisdiction where the Offeror operates its professional practice.</p>
+         <p outputclass="Endofprovision">(End of provision)</p>
       </conbody>
    </concept>
 </dita>

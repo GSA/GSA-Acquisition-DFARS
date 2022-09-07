@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_242.1204"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">242.1204</ph> Applicability of novation agreements.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List3" class="- topic/p ">(i) When a novation agreement
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_242.1204" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">242.1204</ph> Applicability of novation agreements.</title>
+      <conbody>
+         <p outputclass="List3">(i) When a novation agreement
 is required and the transferee intends to incur restructuring costs
-as defined at <xref href="231.205-70.dita#DFARS_231.205-70"
-                  base="i1380041"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">231.205-70</xref> ,
+as defined at <xref href="231.205-70.dita#DFARS_231.205-70" base="i1380041" outputclass="fm:ParaNumOnly">231.205-70</xref> ,
 the cognizant contracting officer shall include the following provision
 as paragraph (b)(7) of the novation agreement instead of the paragraph
 (b)(7) provided in the sample format at FAR 42.1204(i):</p>
-         <p outputclass="List2" class="- topic/p ">“(7)(i) Except as set forth in subparagraph
+         <p outputclass="List2">“(7)(i) Except as set forth in subparagraph
 (7)(ii) below, the Transferor and the Transferee agree that the
 Government is not obligated to pay or reimburse either of them for,
 or otherwise give effect to, any costs, taxes, or other expenses,
@@ -28,7 +20,7 @@ or resulting from the transfer or this Agreement, other than those
 that the Government in the absence of this transfer or Agreement
 would have been obligated to pay or reimburse under the terms of
 the contracts.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The Government recognizes that restructuring
+         <p outputclass="List3">(ii) The Government recognizes that restructuring
 by the Transferee incidental to the acquisition/merger may be in
 the best interests of the Government. Restructuring costs that are
 allowable under Part 31 of the Federal Acquisition Regulation (FAR)
@@ -37,10 +29,7 @@ or Part 231 of the Defense Federal Acquisition Regulation Supplement
 provided the Transferee demonstrates that the restructuring will reduce
 overall costs to the Department of Defense (DoD) (and to the National
 Aeronautics and Space Administration (NASA), where there is a mix
-of DoD and NASA contracts), and the requirements included in DFARS <xref href="231.205-70.dita#DFARS_231.205-70"
-                  base="i1380041"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">231.205-70</xref> are met. Restructuring
+of DoD and NASA contracts), and the requirements included in DFARS <xref href="231.205-70.dita#DFARS_231.205-70" base="i1380041" outputclass="fm:ParaNumOnly">231.205-70</xref> are met. Restructuring
 costs shall not be allowed on novated contracts unless there is
 an audit of the restructuring proposal; a determination by the contracting
 officer of overall reduced costs to DoD/NASA; and an Advance Agreement

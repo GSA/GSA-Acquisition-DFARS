@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.247-7028"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.247-7028</ph> Application for U.S. Government Shipping Documentation/Instructions.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-247.207"
-                  href="247.207.dita#DFARS_247.207">247.207</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.247-7028" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.247-7028</ph> Application for U.S. Government Shipping Documentation/Instructions.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-247.207" href="247.207.dita#DFARS_247.207">247.207</xref>
             , use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">APPLICATION FOR U.S. GOVERNMENT SHIPPING DOCUMENTATION/INSTRUCTIONS (JUN 2012)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Except as provided in paragraph (b) of this clause, the Contractor shall request bills of lading by submitting a DD Form 1659, Application for U.S. Government Shipping Documentation/Instructions, to the—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Transportation Officer, if named in the contract schedule; or</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Contract administration office.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  If an automated system is available for shipment requests, use service/agency systems (e.g., Navy’s Global Freight Management–Electronic Transportation Acquisition (GFM-ETA) and Financial Air Clearance Transportation System (FACTS) Shipment Processing Module, Air Force’s Cargo Movement Operations System, DCMA’s Shipment Instruction Request (SIR) E-tool, and DLA’s Distribution Standard System Vendor Shipment Module in lieu of DD Form 1659.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">APPLICATION FOR U.S. GOVERNMENT SHIPPING DOCUMENTATION/INSTRUCTIONS (JUN 2012)</p>
+         <p outputclass="List1">(a)  Except as provided in paragraph (b) of this clause, the Contractor shall request bills of lading by submitting a DD Form 1659, Application for U.S. Government Shipping Documentation/Instructions, to the—</p>
+         <p outputclass="List2">(1)  Transportation Officer, if named in the contract schedule; or</p>
+         <p outputclass="List2">(2)  Contract administration office.</p>
+         <p outputclass="List1">(b)  If an automated system is available for shipment requests, use service/agency systems (e.g., Navy’s Global Freight Management–Electronic Transportation Acquisition (GFM-ETA) and Financial Air Clearance Transportation System (FACTS) Shipment Processing Module, Air Force’s Cargo Movement Operations System, DCMA’s Shipment Instruction Request (SIR) E-tool, and DLA’s Distribution Standard System Vendor Shipment Module in lieu of DD Form 1659.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

@@ -1,50 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_227.7205"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">227.7205</ph> Contracts for special works.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382878"
-                  href="252.227-7020.dita#DFARS_252.227-7020">252.227-7020</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_227.7205" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">227.7205</ph> Contracts for special works.</title>
+      <conbody>
+         <p outputclass="List1">(a)  Use the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1382878" href="252.227-7020.dita#DFARS_252.227-7020">252.227-7020</xref>
             , Rights in Special Works, in solicitations and contracts where the Government has a specific need to control the distribution of computer software or computer software documentation first produced, created, or generated in the performance of a contract and required to be delivered under that contract, including controlling distribution by obtaining an assignment of copyright, or a specific need to obtain indemnity for liabilities that may arise out of the creation, delivery, use, modification, reproduction, release, performance, display, or disclosure of such software or documentation.  Use the clause—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  In lieu of the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382699"
-                  href="252.227-7014.dita#DFARS_252.227-7014">252.227-7014</xref>
+         <p outputclass="List2">(1)  In lieu of the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1382699" href="252.227-7014.dita#DFARS_252.227-7014">252.227-7014</xref>
             , Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation, when the Government must own or control copyright in all computer software or computer software documentation first produced, created, or generated and required to be delivered under a contract; or</p>
-         <p outputclass="List2" class="- topic/p ">(2)  In addition to the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382699"
-                  href="252.227-7014.dita#DFARS_252.227-7014">252.227-7014</xref>
+         <p outputclass="List2">(2)  In addition to the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1382699" href="252.227-7014.dita#DFARS_252.227-7014">252.227-7014</xref>
              when the Government must own or control copyright in some of the computer software or computer software documentation first produced, created, or generated and required to be delivered under a contract.  The specific software or documentation in which the Government must own or control copyright must be identified in a special contract requirement.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Although the Government obtains an assignment of copyright and unlimited rights in the computer software or computer software documentation delivered as a special work under the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382878"
-                  href="252.227-7020.dita#DFARS_252.227-7020">252.227-7020</xref>
+         <p outputclass="List1">(b)  Although the Government obtains an assignment of copyright and unlimited rights in the computer software or computer software documentation delivered as a special work under the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1382878" href="252.227-7020.dita#DFARS_252.227-7020">252.227-7020</xref>
             , the contractor retains use and disclosure rights in that software or documentation.  If the Government needs to restrict a contractor's rights to use or disclose a special work, it must also negotiate a special license which specifically restricts the contractor's use or disclosure rights.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  The clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382878"
-                  href="252.227-7020.dita#DFARS_252.227-7020">252.227-7020</xref>
+         <p outputclass="List1">(c)  The clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1382878" href="252.227-7020.dita#DFARS_252.227-7020">252.227-7020</xref>
              does not permit a contractor to incorporate into a special work any work copyrighted by others unless the contractor obtains the contracting officer's permission to do so and obtains for the Government a non-exclusive, paid up, world-wide license to make and distribute copies of that work, to prepare derivative works, to perform or display any portion of that work, and to permit others to do so for government purposes.  Grant permission only when the Government's requirements cannot be satisfied unless the third party work is included in the deliverable work.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  Examples of other works which may be procured under the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1382878"
-                  href="252.227-7020.dita#DFARS_252.227-7020">252.227-7020</xref>
+         <p outputclass="List1">(d)  Examples of other works which may be procured under the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1382878" href="252.227-7020.dita#DFARS_252.227-7020">252.227-7020</xref>
              include, but are not limited to, audiovisual works, scripts, soundtracks, musical compositions, and adaptations; histories of departments, agencies, services or units thereof; surveys of Government establishments; instructional works or guidance to Government officers and employees on the discharge of their official duties; reports, books, studies, surveys or similar documents; collections of data containing information pertaining to individuals that, if disclosed, would violate the right of privacy or publicity of the individuals to whom the information relates; or investigative reports.</p>
       </conbody>
    </concept>

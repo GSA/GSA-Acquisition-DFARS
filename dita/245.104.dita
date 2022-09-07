@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_245.104"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">245.104</ph> Responsibility and liability for Government property.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">In addition to the contract types listed at FAR 45.104, contractors are not held liable for loss of Government property under negotiated fixed-price contracts awarded on a basis other than submission of certified cost or pricing data.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_245.104" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">245.104</ph> Responsibility and liability for Government property.</title>
+      <conbody>
+         <p>In addition to the contract types listed at FAR 45.104, contractors are not held liable for loss of Government property under negotiated fixed-price contracts awarded on a basis other than submission of certified cost or pricing data.</p>
       </conbody>
    </concept>
 </dita>

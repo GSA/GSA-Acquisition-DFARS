@@ -1,52 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.235-7000"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.235-7000</ph> Indemnification Under 10 U.S.C. 2354—Fixed Price.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1380240"
-                  href="235.070-3.dita#DFARS_235.070-3">235.070-3</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.235-7000" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.235-7000</ph> Indemnification Under 10 U.S.C. 2354—Fixed Price.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1380240" href="235.070-3.dita#DFARS_235.070-3">235.070-3</xref>
             , use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">INDEMNIFICATION UNDER 10 U.S.C. 2354—FIXED PRICE (DEC 1991)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  This clause provides for indemnification under 10 U.S.C. 2354 if the Contractor meets all the terms and conditions of this clause.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Claims, losses, and damages covered—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Claims by third persons for death, bodily injury, sickness, or disease, or the loss, damage, or lost use of property.  Claims include those for reasonable expenses of litigation or settlement.  The term “third persons” includes employees of the contractor;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The loss, damage, and lost use of the Contractor's property, but excluding lost profit; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Loss, damage, or lost use of the Government's property.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  The claim, loss, or damage—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Must arise from the direct performance of this contract;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Must not be compensated by insurance or other means, or be within deductible amounts of the Contractor's insurance;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Must result from an unusually hazardous risk as specifically defined in the contract;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Must not result from willful misconduct or lack of good faith on the part of any of the Contractor's directors or officers, managers, superintendents, or other equivalent representatives who have supervision or direction of—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  All or substantially all of the Contractor's business;</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  All or substantially all of the Contractor's operations at any one plant or separate location where this contract is being performed; or</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  A separate and complete major industrial operation connected with the performance of this contract;</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Must not be a liability assumed under any contract or agreement (except for subcontracts covered by paragraph (h) of this clause), unless the Contracting Officer (or in contracts with the Department of the Navy, the Department) specifically approved the assumption of liability; and</p>
-         <p outputclass="List2" class="- topic/p ">(6)  Must be certified as just and reasonable by the Secretary of the department or designated representative.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  The Contractor shall buy and maintain, to the extent available, insurance against unusually hazardous risks in the form, amount, period(s) of time, at the rate(s), and with such insurers, as the Contracting Officer (or, for Navy contracts, the Department) may from time to time require and approve.  If the cost of this insurance is higher than the cost of the insurance the Contractor had as of the date of the contract, the Government shall reimburse the Contractor for the difference in cost, as long as it is properly allocable to this contract and is not included in the contract price.  The Government shall not be liable for claims, loss, or damage if insurance was available and is either required or approved under this paragraph.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  A reduction of the insurance coverage maintained by the Contractor on the date of the execution of this contract shall not increase the Government's liability under this clause unless the Contracting Officer consents, and the contract price is equitably adjusted, if appropriate, to reflect the Contractor's consideration for the Government's assumption of increased liability.</p>
-         <p outputclass="List1" class="- topic/p ">(f)  <i class="+ topic/ph hi-d/i ">Notice.</i>  The Contractor shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Promptly notify the Contracting Officer of any occurrence, action, or claim that might trigger the Government's liability under this clause;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Furnish the proof or evidence of any claim, loss, or damage in the form and manner that the Government requires; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Immediately provide copies of all pertinent papers that the Contractor receives or has received.</p>
-         <p outputclass="List1" class="- topic/p ">(g)  The Government may direct, participate in, and supervise the settlement or defense of the claim or action.  The Contractor shall comply with the Government's directions and execute any authorizations required.</p>
-         <p outputclass="List1" class="- topic/p ">(h)  <i class="+ topic/ph hi-d/i ">Flowdown.</i>  The Government shall indemnify the Contractor if the Contractor has an obligation to indemnify a subcontractor under any subcontract at any tier under this contract for the unusually hazardous risk identified in this contract only if—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The Contracting Officer gave prior written approval for the Contractor to provide in a subcontract for the Contractor to indemnify the subcontractor for unusually hazardous risks defined in this contract;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The Contracting Officer approved those indemnification provisions;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The subcontract indemnification provisions entitle the Contractor, or the Government, or both, to direct, participate in, and supervise the settlement or defense of relevant actions and claims; and</p>
-         <p outputclass="List2" class="- topic/p ">(4)  The subcontract provides the same rights and duties, the same provisions for notice, furnishing of papers and the like, between the Contractor and the subcontractor, as exist between the Government and the Contractor under this clause.</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The Government may discharge its obligations under paragraph (h) of this clause by making payments directly to subcontractors or to persons to whom the subcontractors may be liable.</p>
-         <p outputclass="List1" class="- topic/p ">(j)  The rights and obligations of the parties under this clause shall survive the termination, expiration, or completion of this contract.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">INDEMNIFICATION UNDER 10 U.S.C. 2354—FIXED PRICE (DEC 1991)</p>
+         <p outputclass="List1">(a)  This clause provides for indemnification under 10 U.S.C. 2354 if the Contractor meets all the terms and conditions of this clause.</p>
+         <p outputclass="List1">(b)  Claims, losses, and damages covered—</p>
+         <p outputclass="List2">(1)  Claims by third persons for death, bodily injury, sickness, or disease, or the loss, damage, or lost use of property.  Claims include those for reasonable expenses of litigation or settlement.  The term “third persons” includes employees of the contractor;</p>
+         <p outputclass="List2">(2)  The loss, damage, and lost use of the Contractor's property, but excluding lost profit; and</p>
+         <p outputclass="List2">(3)  Loss, damage, or lost use of the Government's property.</p>
+         <p outputclass="List1">(c)  The claim, loss, or damage—</p>
+         <p outputclass="List2">(1)  Must arise from the direct performance of this contract;</p>
+         <p outputclass="List2">(2)  Must not be compensated by insurance or other means, or be within deductible amounts of the Contractor's insurance;</p>
+         <p outputclass="List2">(3)  Must result from an unusually hazardous risk as specifically defined in the contract;</p>
+         <p outputclass="List2">(4)  Must not result from willful misconduct or lack of good faith on the part of any of the Contractor's directors or officers, managers, superintendents, or other equivalent representatives who have supervision or direction of—</p>
+         <p outputclass="List3">(i)  All or substantially all of the Contractor's business;</p>
+         <p outputclass="List3">(ii)  All or substantially all of the Contractor's operations at any one plant or separate location where this contract is being performed; or</p>
+         <p outputclass="List3">(iii)  A separate and complete major industrial operation connected with the performance of this contract;</p>
+         <p outputclass="List2">(5)  Must not be a liability assumed under any contract or agreement (except for subcontracts covered by paragraph (h) of this clause), unless the Contracting Officer (or in contracts with the Department of the Navy, the Department) specifically approved the assumption of liability; and</p>
+         <p outputclass="List2">(6)  Must be certified as just and reasonable by the Secretary of the department or designated representative.</p>
+         <p outputclass="List1">(d)  The Contractor shall buy and maintain, to the extent available, insurance against unusually hazardous risks in the form, amount, period(s) of time, at the rate(s), and with such insurers, as the Contracting Officer (or, for Navy contracts, the Department) may from time to time require and approve.  If the cost of this insurance is higher than the cost of the insurance the Contractor had as of the date of the contract, the Government shall reimburse the Contractor for the difference in cost, as long as it is properly allocable to this contract and is not included in the contract price.  The Government shall not be liable for claims, loss, or damage if insurance was available and is either required or approved under this paragraph.</p>
+         <p outputclass="List1">(e)  A reduction of the insurance coverage maintained by the Contractor on the date of the execution of this contract shall not increase the Government's liability under this clause unless the Contracting Officer consents, and the contract price is equitably adjusted, if appropriate, to reflect the Contractor's consideration for the Government's assumption of increased liability.</p>
+         <p outputclass="List1">(f)  <i>Notice.</i>  The Contractor shall—</p>
+         <p outputclass="List2">(1)  Promptly notify the Contracting Officer of any occurrence, action, or claim that might trigger the Government's liability under this clause;</p>
+         <p outputclass="List2">(2)  Furnish the proof or evidence of any claim, loss, or damage in the form and manner that the Government requires; and</p>
+         <p outputclass="List2">(3)  Immediately provide copies of all pertinent papers that the Contractor receives or has received.</p>
+         <p outputclass="List1">(g)  The Government may direct, participate in, and supervise the settlement or defense of the claim or action.  The Contractor shall comply with the Government's directions and execute any authorizations required.</p>
+         <p outputclass="List1">(h)  <i>Flowdown.</i>  The Government shall indemnify the Contractor if the Contractor has an obligation to indemnify a subcontractor under any subcontract at any tier under this contract for the unusually hazardous risk identified in this contract only if—</p>
+         <p outputclass="List2">(1)  The Contracting Officer gave prior written approval for the Contractor to provide in a subcontract for the Contractor to indemnify the subcontractor for unusually hazardous risks defined in this contract;</p>
+         <p outputclass="List2">(2)  The Contracting Officer approved those indemnification provisions;</p>
+         <p outputclass="List2">(3)  The subcontract indemnification provisions entitle the Contractor, or the Government, or both, to direct, participate in, and supervise the settlement or defense of relevant actions and claims; and</p>
+         <p outputclass="List2">(4)  The subcontract provides the same rights and duties, the same provisions for notice, furnishing of papers and the like, between the Contractor and the subcontractor, as exist between the Government and the Contractor under this clause.</p>
+         <p outputclass="List3">(i)  The Government may discharge its obligations under paragraph (h) of this clause by making payments directly to subcontractors or to persons to whom the subcontractors may be liable.</p>
+         <p outputclass="List1">(j)  The rights and obligations of the parties under this clause shall survive the termination, expiration, or completion of this contract.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

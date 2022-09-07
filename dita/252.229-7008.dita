@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.229-7008"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.229-7008</ph> Relief from Import Duty (United Kingdom).</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1379979"
-                  href="229.402-70.dita#DFARS_229.402-70">229.402-70</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.229-7008" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.229-7008</ph> Relief from Import Duty (United Kingdom).</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="i1379979" href="229.402-70.dita#DFARS_229.402-70">229.402-70</xref>
             (h), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">RELIEF FROM IMPORT DUTY (UNITED KINGDOM) (DEC 2011)</p>
-         <p class="- topic/p ">Any import dutiable articles, components, or raw materials supplied to the United States Government under this contract shall be exclusive of any United Kingdom import duties.  Any imported items supplied for which import duty already has been paid will be supplied at a price exclusive of the amount of import duty paid.  The Contractor is advised to contact Her Majesty’s Revenue and Customs to obtain a refund upon completion of the contract (Reference HMRC Notice No. 431, entitled “Relief from Customs Duty and/or Value Added Tax on United States Government Expenditures in the United Kingdom”).</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Ctr_SmCaps">RELIEF FROM IMPORT DUTY (UNITED KINGDOM) (DEC 2011)</p>
+         <p>Any import dutiable articles, components, or raw materials supplied to the United States Government under this contract shall be exclusive of any United Kingdom import duties.  Any imported items supplied for which import duty already has been paid will be supplied at a price exclusive of the amount of import duty paid.  The Contractor is advised to contact Her Majesty’s Revenue and Customs to obtain a refund upon completion of the contract (Reference HMRC Notice No. 431, entitled “Relief from Customs Duty and/or Value Added Tax on United States Government Expenditures in the United Kingdom”).</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

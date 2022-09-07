@@ -1,40 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.203-7004"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.203-7004</ph> Display of Hotline Posters.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-203.1004"
-                  href="203.1004.dita#DFARS_203.1004">203.1004</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.203-7004" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">252.203-7004</ph> Display of Hotline Posters.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-203.1004" href="203.1004.dita#DFARS_203.1004">203.1004</xref>
             (b)(2)(ii), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">DISPLAY OF HOTLINE POSTERS (AUG 2019)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definition</i>.  As used in this clause—</p>
-         <p class="- topic/p ">“United States” means the 50 States, the District of Columbia, and outlying areas.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Display of hotline poster(s)</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(1)(i)  The Contractor shall display prominently the DoD fraud, waste, and abuse hotline poster prepared by the DoD Office of the Inspector General, in effect at time of contract award, in common work areas within business segments performing work under Department of Defense (DoD) contracts.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  For contracts performed outside the United States, when security concerns can be appropriately demonstrated, the contracting officer may provide the contractor the option to publicize the program to contractor personnel in a manner other than public display of the poster, such as private employee written instructions and briefings.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  If the contract is funded, in whole or in part, by Department of Homeland Security (DHS) disaster relief funds and the work is to be performed in the United States, the DHS fraud hotline poster shall be displayed in addition to the DoD hotline poster.  If a display of a DHS fraud hotline poster is required, the Contractor may obtain such poster from—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  DHS Office of Inspector General/MAIL STOP 0305, Attn: Office of Investigations – Hotline, 245 Murray Lane SW, Washington, DC 20528-0305; or</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Via the internet at https://www.oig.dhs.gov/assets/Hotline/DHS_OIG_Hotline-optimized.jpg.</p>
-         <p outputclass="List1" class="- topic/p ">(c)(1)  The DoD hotline poster may be obtained from:  Defense Hotline, The Pentagon, Washington, D.C. 20301-1900, or is also available via the internet at  https://www.dodig.mil/Resources/Posters-and-Brochures/.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  If a significant portion of the employee workforce does not speak English, then the poster is to be displayed in the foreign languages that a significant portion of the employees speak.</p>
-         <p class="- topic/p ">(3)  Additionally, if the Contractor maintains a company website as a method of providing information to employees, the Contractor shall display an electronic version of the required poster at the website.</p>
-         <p class="- topic/p ">(d)  <i class="+ topic/ph hi-d/i ">Subcontracts</i>.  The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts that exceed the threshold specified in Defense Federal Acquisition Regulation Supplement 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-203.1004"
-                  href="203.1004.dita#DFARS_203.1004">203.1004</xref>
+         <p outputclass="Ctr_SmCaps">DISPLAY OF HOTLINE POSTERS (AUG 2019)</p>
+         <p outputclass="List1">(a)  <i>Definition</i>.  As used in this clause—</p>
+         <p>“United States” means the 50 States, the District of Columbia, and outlying areas.</p>
+         <p outputclass="List1">(b)  <i>Display of hotline poster(s)</i>.</p>
+         <p outputclass="List2">(1)(i)  The Contractor shall display prominently the DoD fraud, waste, and abuse hotline poster prepared by the DoD Office of the Inspector General, in effect at time of contract award, in common work areas within business segments performing work under Department of Defense (DoD) contracts.</p>
+         <p outputclass="List3">(ii)  For contracts performed outside the United States, when security concerns can be appropriately demonstrated, the contracting officer may provide the contractor the option to publicize the program to contractor personnel in a manner other than public display of the poster, such as private employee written instructions and briefings.</p>
+         <p outputclass="List2">(2)  If the contract is funded, in whole or in part, by Department of Homeland Security (DHS) disaster relief funds and the work is to be performed in the United States, the DHS fraud hotline poster shall be displayed in addition to the DoD hotline poster.  If a display of a DHS fraud hotline poster is required, the Contractor may obtain such poster from—</p>
+         <p outputclass="List3">(i)  DHS Office of Inspector General/MAIL STOP 0305, Attn: Office of Investigations – Hotline, 245 Murray Lane SW, Washington, DC 20528-0305; or</p>
+         <p outputclass="List3">(ii)  Via the internet at https://www.oig.dhs.gov/assets/Hotline/DHS_OIG_Hotline-optimized.jpg.</p>
+         <p outputclass="List1">(c)(1)  The DoD hotline poster may be obtained from:  Defense Hotline, The Pentagon, Washington, D.C. 20301-1900, or is also available via the internet at  https://www.dodig.mil/Resources/Posters-and-Brochures/.</p>
+         <p outputclass="List2">(2)  If a significant portion of the employee workforce does not speak English, then the poster is to be displayed in the foreign languages that a significant portion of the employees speak.</p>
+         <p>(3)  Additionally, if the Contractor maintains a company website as a method of providing information to employees, the Contractor shall display an electronic version of the required poster at the website.</p>
+         <p>(d)  <i>Subcontracts</i>.  The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts that exceed the threshold specified in Defense Federal Acquisition Regulation Supplement 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-203.1004" href="203.1004.dita#DFARS_203.1004">203.1004</xref>
             (b)(2)(ii) on the date of subcontract award, except when the subcontract is for the acquisition of a commercial item.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>
