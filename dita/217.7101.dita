@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_217.7101"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">217.7101</ph> Definitions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  “Master agreement for repair and alteration of vessels”—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Is a written instrument of understanding, negotiated between a contracting activity and a contractor that—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  Contains contract clauses, terms, and conditions applying to future contracts for repairs, alterations, and/or additions to vessels; and</p>
-         <p outputclass="List4" class="- topic/p ">(B)  Contemplates separate future contracts that will incorporate by reference or attachment the required and applicable clauses agreed upon in the master agreement.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Is not a contract.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  “Job order”—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Is a fixed price contract incorporating, by reference or attachment, a master agreement for repair and alteration of vessels;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  May include clauses pertaining to subjects not covered by the master agreement; but applicable to the job order being awarded; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Applies to a specific acquisition and sets forth the scope of work, price, delivery date, and other appropriate terms that apply to the particular job order.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_217.7101" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">217.7101</ph> Definitions.</title>
+      <conbody>
+         <p outputclass="List1">(a)  “Master agreement for repair and alteration of vessels”—</p>
+         <p outputclass="List2">(1)  Is a written instrument of understanding, negotiated between a contracting activity and a contractor that—</p>
+         <p outputclass="List4">(A)  Contains contract clauses, terms, and conditions applying to future contracts for repairs, alterations, and/or additions to vessels; and</p>
+         <p outputclass="List4">(B)  Contemplates separate future contracts that will incorporate by reference or attachment the required and applicable clauses agreed upon in the master agreement.</p>
+         <p outputclass="List2">(2)  Is not a contract.</p>
+         <p outputclass="List1">(b)  “Job order”—</p>
+         <p outputclass="List2">(1)  Is a fixed price contract incorporating, by reference or attachment, a master agreement for repair and alteration of vessels;</p>
+         <p outputclass="List2">(2)  May include clauses pertaining to subjects not covered by the master agreement; but applicable to the job order being awarded; and</p>
+         <p outputclass="List2">(3)  Applies to a specific acquisition and sets forth the scope of work, price, delivery date, and other appropriate terms that apply to the particular job order.</p>
       </conbody>
    </concept>
 </dita>

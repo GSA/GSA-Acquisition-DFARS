@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_225.701-70"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.701-70</ph> Exception.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">DoD personnel are authorized to make emergency acquisitions in direct support of U.S. or allied forces deployed in military contingency, humanitarian, or peacekeeping operations in a country or region subject to economic sanctions administered by the Department of the Treasury, Office of Foreign Assets Control.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_225.701-70" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">225.701-70</ph> Exception.</title>
+      <conbody>
+         <p>DoD personnel are authorized to make emergency acquisitions in direct support of U.S. or allied forces deployed in military contingency, humanitarian, or peacekeeping operations in a country or region subject to economic sanctions administered by the Department of the Treasury, Office of Foreign Assets Control.</p>
       </conbody>
    </concept>
 </dita>

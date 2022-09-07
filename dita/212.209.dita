@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_212.209"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">212.209</ph> Determination of price reasonableness.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) In accordance with 10 U.S.C. 2377(d), agencies shall conduct or obtain market research to support the determination of the reasonableness of price for commercial items contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the contracting officer—</p>
-         <p outputclass="List2" class="- topic/p ">(1) In the case of major weapon systems items acquired as commercial items in accordance with subpart 234.70, shall use information submitted under <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-234.7002"
-                  href="234.7002.dita#DFARS_234.7002">234.7002</xref>(d); and</p>
-         <p outputclass="List2" class="- topic/p ">(2) In the case of other items, may require the offeror to submit other relevant information</p>
-         <p outputclass="List1" class="- topic/p ">(b) If the contracting officer determines that the information obtained through market research pursuant to paragraph (a) of this section, is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial items under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. In assessing whether the prices previously paid remain a valid reference for comparison, the contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (10 U.S.C. 2306a(b)).</p>
-         <p outputclass="List1" class="- topic/p ">(c) If the contracting officer determines that the offeror cannot provide sufficient information as described in paragraph (b) of this section to determine the reasonableness of price, the contracting officer should request the offeror to submit information on—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Prices paid for the same or similar items sold under different terms and conditions;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Prices paid for similar levels of work or effort on related products or services;</p>
-         <p outputclass="List2" class="- topic/p ">(3) Prices paid for alternative solutions or approaches; and</p>
-         <p outputclass="List2" class="- topic/p ">(4) Other relevant information that can serve as the basis for determining the reasonableness of price.</p>
-         <p outputclass="List1" class="- topic/p ">(d) Nothing in this section shall be construed to preclude the contracting officer from requiring the contractor to supply information that is sufficient to determine the reasonableness of price, regardless of whether or not the contractor was required to provide such information in connection with any earlier procurement. If the contracting officer determines that the pricing information submitted is not sufficient to determine the reasonableness of price, the contracting officer may request other relevant information regarding the basis for price or cost, including uncertified cost data such as labor costs, material costs, and other direct and indirect costs.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_212.209" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">212.209</ph> Determination of price reasonableness.</title>
+      <conbody>
+         <p outputclass="List1">(a) In accordance with 10 U.S.C. 2377(d), agencies shall conduct or obtain market research to support the determination of the reasonableness of price for commercial items contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the contracting officer—</p>
+         <p outputclass="List2">(1) In the case of major weapon systems items acquired as commercial items in accordance with subpart 234.70, shall use information submitted under <xref outputclass="fm:ParaNumOnly" base="DFARS-234.7002" href="234.7002.dita#DFARS_234.7002">234.7002</xref>(d); and</p>
+         <p outputclass="List2">(2) In the case of other items, may require the offeror to submit other relevant information</p>
+         <p outputclass="List1">(b) If the contracting officer determines that the information obtained through market research pursuant to paragraph (a) of this section, is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial items under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. In assessing whether the prices previously paid remain a valid reference for comparison, the contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (10 U.S.C. 2306a(b)).</p>
+         <p outputclass="List1">(c) If the contracting officer determines that the offeror cannot provide sufficient information as described in paragraph (b) of this section to determine the reasonableness of price, the contracting officer should request the offeror to submit information on—</p>
+         <p outputclass="List2">(1) Prices paid for the same or similar items sold under different terms and conditions;</p>
+         <p outputclass="List2">(2) Prices paid for similar levels of work or effort on related products or services;</p>
+         <p outputclass="List2">(3) Prices paid for alternative solutions or approaches; and</p>
+         <p outputclass="List2">(4) Other relevant information that can serve as the basis for determining the reasonableness of price.</p>
+         <p outputclass="List1">(d) Nothing in this section shall be construed to preclude the contracting officer from requiring the contractor to supply information that is sufficient to determine the reasonableness of price, regardless of whether or not the contractor was required to provide such information in connection with any earlier procurement. If the contracting officer determines that the pricing information submitted is not sufficient to determine the reasonableness of price, the contracting officer may request other relevant information regarding the basis for price or cost, including uncertified cost data such as labor costs, material costs, and other direct and indirect costs.</p>
       </conbody>
    </concept>
 </dita>

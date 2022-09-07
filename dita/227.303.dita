@@ -1,34 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_227.303"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">227.303</ph> Contract clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383044"
-                  href="252.227-7039.dita#DFARS_252.227-7039">252.227-7039</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_227.303" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">227.303</ph> Contract clauses.</title>
+      <conbody>
+         <p outputclass="List2">(1)  Use the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1383044" href="252.227-7039.dita#DFARS_252.227-7039">252.227-7039</xref>
             , Patents—Reporting of Subject Inventions, in solicitations and contracts containing the clause at FAR 52.227-11, Patent Rights—Ownership by the Contractor.</p>
-         <p outputclass="List2" class="- topic/p ">(2)(i)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383014"
-                  href="252.227-7038.dita#DFARS_252.227-7038">252.227-7038</xref>
+         <p outputclass="List2">(2)(i)  Use the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1383014" href="252.227-7038.dita#DFARS_252.227-7038">252.227-7038</xref>
             , Patent Rights—Ownership by the Contractor (Large Business), instead of the clause at FAR 52.227-11, in solicitations and contracts for experimental, developmental, or research work if—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  The contractor is other than a small business concern or nonprofit organization; and</p>
-         <p outputclass="List4" class="- topic/p ">(B)  No alternative patent rights clause is used in accordance with FAR 27.303(c) or (e). </p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Use the clause with its Alternate I if—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  The acquisition of patent rights for the benefit of a foreign government is required under a treaty or executive agreement; </p>
-         <p outputclass="List4" class="- topic/p ">(B)  The agency head determines at the time of award that it would be in the national interest to acquire the right to sublicense foreign governments or international organizations pursuant to any existing or future treaty or agreement; or </p>
-         <p outputclass="List4" class="- topic/p ">(C)  Other rights are necessary to effect a treaty or agreement, in which case Alternate I may be appropriately modified.</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Use the clause with its Alternate II in long-term contracts if necessary to effect treaty or agreements to be entered into.</p>
+         <p outputclass="List4">(A)  The contractor is other than a small business concern or nonprofit organization; and</p>
+         <p outputclass="List4">(B)  No alternative patent rights clause is used in accordance with FAR 27.303(c) or (e). </p>
+         <p outputclass="List3">(ii)  Use the clause with its Alternate I if—</p>
+         <p outputclass="List4">(A)  The acquisition of patent rights for the benefit of a foreign government is required under a treaty or executive agreement; </p>
+         <p outputclass="List4">(B)  The agency head determines at the time of award that it would be in the national interest to acquire the right to sublicense foreign governments or international organizations pursuant to any existing or future treaty or agreement; or </p>
+         <p outputclass="List4">(C)  Other rights are necessary to effect a treaty or agreement, in which case Alternate I may be appropriately modified.</p>
+         <p outputclass="List3">(iii)  Use the clause with its Alternate II in long-term contracts if necessary to effect treaty or agreements to be entered into.</p>
       </conbody>
    </concept>
 </dita>

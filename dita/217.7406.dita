@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_217.7406"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">217.7406</ph> Contract clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Use the clause at FAR 52.216-24, Limitation of Government Liability, in—</p>
-         <p outputclass="List2" class="- topic/p ">(1) All UCAs;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Solicitations associated with UCAs;</p>
-         <p outputclass="List2" class="- topic/p ">(3) Basic ordering agreements;</p>
-         <p outputclass="List2" class="- topic/p ">(4) Indefinite delivery contracts;</p>
-         <p outputclass="List2" class="- topic/p ">(5) Any other type of contract providing for the use of UCAs; and</p>
-         <p outputclass="List2" class="- topic/p ">(6) Unpriced change orders with an estimated value exceeding $5 million.</p>
-         <p outputclass="List1" class="- topic/p ">(b)(1) Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="252.217-7027.dita#DFARS_252.217-7027"
-                  base="i1381708"
-                  class="- topic/xref ">252.217-7027</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_217.7406" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">217.7406</ph> Contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) Use the clause at FAR 52.216-24, Limitation of Government Liability, in—</p>
+         <p outputclass="List2">(1) All UCAs;</p>
+         <p outputclass="List2">(2) Solicitations associated with UCAs;</p>
+         <p outputclass="List2">(3) Basic ordering agreements;</p>
+         <p outputclass="List2">(4) Indefinite delivery contracts;</p>
+         <p outputclass="List2">(5) Any other type of contract providing for the use of UCAs; and</p>
+         <p outputclass="List2">(6) Unpriced change orders with an estimated value exceeding $5 million.</p>
+         <p outputclass="List1">(b)(1) Use the clause at 
+               <xref outputclass="fm:ParaNumOnly" href="252.217-7027.dita#DFARS_252.217-7027" base="i1381708">252.217-7027</xref>
             , Contract Definitization, in—</p>
-         <p outputclass="List3" class="- topic/p ">(i) All UCAs;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Solicitations associated with UCAs;</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Basic ordering agreements;</p>
-         <p outputclass="List3" class="- topic/p ">(iv) Indefinite delivery contracts;</p>
-         <p outputclass="List3" class="- topic/p ">(v) Any other type of contract providing for the use of UCAs; and</p>
-         <p outputclass="List3" class="- topic/p ">(vi) Unpriced change orders with an estimated value exceeding $5 million.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Insert the applicable information in paragraphs (a), (b), and (d) of the clause.</p>
-         <p outputclass="List2" class="- topic/p ">(3) If, at the time of entering into the UCA or unpriced change order, the contracting officer knows that the definitive contract action will meet the criteria of FAR 15.403-1, 15.403-2, or 15.403-3 for not requiring submission of certified cost or pricing data, the words “and certified cost or pricing data” may be deleted from paragraph (a) of the clause.</p>
+         <p outputclass="List3">(i) All UCAs;</p>
+         <p outputclass="List3">(ii) Solicitations associated with UCAs;</p>
+         <p outputclass="List3">(iii) Basic ordering agreements;</p>
+         <p outputclass="List3">(iv) Indefinite delivery contracts;</p>
+         <p outputclass="List3">(v) Any other type of contract providing for the use of UCAs; and</p>
+         <p outputclass="List3">(vi) Unpriced change orders with an estimated value exceeding $5 million.</p>
+         <p outputclass="List2">(2) Insert the applicable information in paragraphs (a), (b), and (d) of the clause.</p>
+         <p outputclass="List2">(3) If, at the time of entering into the UCA or unpriced change order, the contracting officer knows that the definitive contract action will meet the criteria of FAR 15.403-1, 15.403-2, or 15.403-3 for not requiring submission of certified cost or pricing data, the words “and certified cost or pricing data” may be deleted from paragraph (a) of the clause.</p>
       </conbody>
    </concept>
 </dita>

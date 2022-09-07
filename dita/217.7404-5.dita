@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_217.7404-5"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">217.7404-5</ph> Exceptions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) The limitations in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-217.7404-2"
-                  href="217.7404-2.dita#DFARS_217.7404-2">217.7404-2</xref>, <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-217.7404-3"
-                  href="217.7404-3.dita#DFARS_217.7404-3">217.7404-3</xref>, and <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-217.7404-4"
-                  href="217.7404-4.dita#DFARS_217.7404-4">217.7404-4</xref> do not apply to UCAs for the purchase of initial spares.</p>
-         <p outputclass="List1" class="- topic/p ">(b) The head of an agency may waive the limitations in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-217.7404"
-                  href="217.7404.dita#DFARS_217.7404">217.7404</xref>(a), <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-217.7404-2"
-                  href="217.7404-2.dita#DFARS_217.7404-2">217.7404-2</xref>, <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-217.7404-3"
-                  href="217.7404-3.dita#DFARS_217.7404-3">217.7404-3</xref>, and <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-217.7404-4"
-                  href="217.7404-4.dita#DFARS_217.7404-4">217.7404-4</xref> for UCAs if the head of the agency determines that the waiver is necessary to support -</p>
-         <p outputclass="List2" class="- topic/p ">(1) A contingency operation; or</p>
-         <p outputclass="List2" class="- topic/p ">(2) A humanitarian or peacekeeping operation.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_217.7404-5" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">217.7404-5</ph> Exceptions.</title>
+      <conbody>
+         <p outputclass="List1">(a) The limitations in <xref outputclass="fm:ParaNumOnly" base="DFARS-217.7404-2" href="217.7404-2.dita#DFARS_217.7404-2">217.7404-2</xref>, <xref outputclass="fm:ParaNumOnly" base="DFARS-217.7404-3" href="217.7404-3.dita#DFARS_217.7404-3">217.7404-3</xref>, and <xref outputclass="fm:ParaNumOnly" base="DFARS-217.7404-4" href="217.7404-4.dita#DFARS_217.7404-4">217.7404-4</xref> do not apply to UCAs for the purchase of initial spares.</p>
+         <p outputclass="List1">(b) The head of an agency may waive the limitations in <xref outputclass="fm:ParaNumOnly" base="DFARS-217.7404" href="217.7404.dita#DFARS_217.7404">217.7404</xref>(a), <xref outputclass="fm:ParaNumOnly" base="DFARS-217.7404-2" href="217.7404-2.dita#DFARS_217.7404-2">217.7404-2</xref>, <xref outputclass="fm:ParaNumOnly" base="DFARS-217.7404-3" href="217.7404-3.dita#DFARS_217.7404-3">217.7404-3</xref>, and <xref outputclass="fm:ParaNumOnly" base="DFARS-217.7404-4" href="217.7404-4.dita#DFARS_217.7404-4">217.7404-4</xref> for UCAs if the head of the agency determines that the waiver is necessary to support -</p>
+         <p outputclass="List2">(1) A contingency operation; or</p>
+         <p outputclass="List2">(2) A humanitarian or peacekeeping operation.</p>
       </conbody>
    </concept>
 </dita>

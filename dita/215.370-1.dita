@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_215.370-1"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">215.370-1</ph> Definition.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">“Selected Reserve,” as used in this section, is defined in the provision at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381377"
-                  href="252.215-7005.dita#DFARS_252.215-7005">252.215-7005</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_215.370-1" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">215.370-1</ph> Definition.</title>
+      <conbody>
+         <p>“Selected Reserve,” as used in this section, is defined in the provision at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381377" href="252.215-7005.dita#DFARS_252.215-7005">252.215-7005</xref>
             , Evaluation Factor for Employing or Subcontracting with Members of the Selected Reserve.</p>
       </conbody>
    </concept>

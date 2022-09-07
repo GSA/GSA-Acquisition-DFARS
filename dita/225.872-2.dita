@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_225.872-2"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.872-2</ph> Applicability.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  This section applies to all acquisitions of supplies except those restricted by—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  U.S. National Disclosure Policy, DoDD 5230.11, Disclosure of Classified Military Information to Foreign Governments and International Organizations;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  U.S. defense mobilization base requirements purchased under the authority of FAR 6.302-3(a)(2)(i), except for quantities in excess of that required to maintain the defense mobilization base.  This restriction does not apply to Canadian planned producers.</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Review individual solicitations to determine whether this restriction applies.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Information concerning restricted items may be obtained from the Deputy Under Secretary of Defense (Industrial Affairs);</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Other U.S. laws or regulations (e.g., the annual DoD appropriations act); and</p>
-         <p outputclass="List2" class="- topic/p ">(4)  U.S. industrial security requirements.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  This section does not apply to construction contracts.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_225.872-2" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">225.872-2</ph> Applicability.</title>
+      <conbody>
+         <p outputclass="List1">(a)  This section applies to all acquisitions of supplies except those restricted by—</p>
+         <p outputclass="List2">(1)  U.S. National Disclosure Policy, DoDD 5230.11, Disclosure of Classified Military Information to Foreign Governments and International Organizations;</p>
+         <p outputclass="List2">(2)  U.S. defense mobilization base requirements purchased under the authority of FAR 6.302-3(a)(2)(i), except for quantities in excess of that required to maintain the defense mobilization base.  This restriction does not apply to Canadian planned producers.</p>
+         <p outputclass="List3">(i)  Review individual solicitations to determine whether this restriction applies.</p>
+         <p outputclass="List3">(ii)  Information concerning restricted items may be obtained from the Deputy Under Secretary of Defense (Industrial Affairs);</p>
+         <p outputclass="List2">(3)  Other U.S. laws or regulations (e.g., the annual DoD appropriations act); and</p>
+         <p outputclass="List2">(4)  U.S. industrial security requirements.</p>
+         <p outputclass="List1">(b)  This section does not apply to construction contracts.</p>
       </conbody>
    </concept>
 </dita>

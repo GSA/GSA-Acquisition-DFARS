@@ -1,54 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_225.870-4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.870-4</ph> Contracting procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Except for contracts described in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.870-1"
-                  href="225.870-1.dita#DFARS_225.870-1">225.870-1</xref>(c)(1) through (4), award individual contracts covering purchases from suppliers located in Canada to the Canadian Commercial Corporation, 350 Albert Street, Suite 700, Ottawa, ON K1R 1A4.</p>
-         <p outputclass="List1" class="- topic/p ">(b) Direct communication with the Canadian supplier is authorized and encouraged in connection with all technical aspects of the contract, provided the Corporation's approval is obtained on any matters involving changes to the contract.</p>
-         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Requirement for data other than certified cost or pricing data.</i> (1) DoD has waived the requirement for submission of certified cost or pricing data for the Canadian Commercial Corporation and its subcontractors (see <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-215.403-1"
-                  href="215.403-1.dita#DFARS_215.403-1">215.403-1</xref>(c)(4)(C)).</p>
-         <p outputclass="List2" class="- topic/p ">(2) The Canadian Commercial Corporation is not exempt from the requirement to submit data other than certified cost or pricing data, as defined in FAR 2.101. In accordance with FAR 15.403-3(a)(1)(ii), the contracting officer shall require submission of data other than certified cost or pricing data from the offeror, to the extent necessary to determine a fair and reasonable price.</p>
-         <p outputclass="List3" class="- topic/p ">(i) No further approval is required to request data other than certified cost or pricing data from the Canadian Commercial Corporation in the following circumstances:</p>
-         <p outputclass="List4" class="- topic/p ">(A) In a solicitation for a sole source acquisition that is -</p>
-         <p outputclass="List5" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Cost-reimbursement, if the contract value is expected to exceed $700,000; or</p>
-         <p outputclass="List5" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Fixed-price, if the contract value is expected to exceed $500 million.</p>
-         <p outputclass="List4" class="- topic/p ">(B) If the Canadian Commercial Corporation submits the only offer in response to a competitive solicitation that meets the thresholds specified in paragraph (c)(2)(i)(A) of this section.</p>
-         <p outputclass="List4" class="- topic/p ">(C) For modifications that exceed $150,000 in contracts that meet the criteria in paragraph (c)(2)(i)(A) or (B) of this section.</p>
-         <p outputclass="List4" class="- topic/p ">(D) In competitive solicitations in which data other than certified cost or pricing data are required from all offerors.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) In any circumstances other than those specified in paragraph (c)(2)(i) of this section, the contracting officer shall only require data other than certified cost or pricing data from the Canadian Commercial Corporation if the head of the contracting activity, or designee no lower than two levels above the contracting officer, determines that data other than certified cost or pricing data are needed (or in the case of modifications that it is reasonably certain that data other than certified cost or pricing data will be needed) in order to determine that the price is fair and reasonable) (see FAR 15.403-3(a).</p>
-         <p outputclass="List2" class="- topic/p ">(3) The contracting officer shall use the provision at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.215-7003"
-                  href="252.215-7003.dita#DFARS_252.215-7003">252.215-7003</xref>, Requirement for Submission of Data Other Than Certified Cost or Pricing Data - Canadian Commercial Corporation, and the clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.215-7004"
-                  href="252.215-7004.dita#DFARS_252.215-7004">252.215-7004</xref>, Requirement for Submission of Data Other Than Certified Cost or Pricing Data - Modifications - Canadian Commercial Corporation, as prescribed at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-215.408"
-                  href="215.408.dita#DFARS_215.408">215.408</xref>(2)(i) and (ii), respectively.</p>
-         <p outputclass="List2" class="- topic/p ">(4) Except for contracts described in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.870-1"
-                  href="225.870-1.dita#DFARS_225.870-1">225.870-1</xref>(c)(1) through (4), Canadian suppliers will provide required data other than certified cost or pricing data exclusively through the Canadian Commercial Corporation.</p>
-         <p outputclass="List2" class="- topic/p ">(5) As specified in FAR 15.403-3(a)(4), an offeror who does not comply with a requirement to submit data that the contracting officer has deemed necessary to determine price reasonableness or cost realism is ineligible for award, unless the head of the contracting activity determines that it is in the best interest of the Government to make the award to that offeror, based on consideration of the following:</p>
-         <p outputclass="List3" class="- topic/p ">(i) The effort made to obtain the data.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The need for the item or service.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Increased cost or significant harm to the Government if award is not made.</p>
-         <p outputclass="List1" class="- topic/p ">(d) Identify in the contract, the type of currency, <i class="+ topic/ph hi-d/i ">i.e.,</i> U.S. or Canadian. Contracts that provide for payment in Canadian currency shall -</p>
-         <p outputclass="List2" class="- topic/p ">(1) Quote the contract price in terms of Canadian dollars and identify the amount by the initials “CN”, <i class="+ topic/ph hi-d/i ">e.g.,</i> $1,647.23CN; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) Clearly indicate on the face of the contract the U.S./Canadian conversion rate at the time of award and the U.S. dollar equivalent of the Canadian dollar contract amount.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_225.870-4" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">225.870-4</ph> Contracting procedures.</title>
+      <conbody>
+         <p outputclass="List1">(a) Except for contracts described in <xref outputclass="fm:ParaNumOnly" base="DFARS-225.870-1" href="225.870-1.dita#DFARS_225.870-1">225.870-1</xref>(c)(1) through (4), award individual contracts covering purchases from suppliers located in Canada to the Canadian Commercial Corporation, 350 Albert Street, Suite 700, Ottawa, ON K1R 1A4.</p>
+         <p outputclass="List1">(b) Direct communication with the Canadian supplier is authorized and encouraged in connection with all technical aspects of the contract, provided the Corporation's approval is obtained on any matters involving changes to the contract.</p>
+         <p outputclass="List1">(c) <i>Requirement for data other than certified cost or pricing data.</i> (1) DoD has waived the requirement for submission of certified cost or pricing data for the Canadian Commercial Corporation and its subcontractors (see <xref outputclass="fm:ParaNumOnly" base="DFARS-215.403-1" href="215.403-1.dita#DFARS_215.403-1">215.403-1</xref>(c)(4)(C)).</p>
+         <p outputclass="List2">(2) The Canadian Commercial Corporation is not exempt from the requirement to submit data other than certified cost or pricing data, as defined in FAR 2.101. In accordance with FAR 15.403-3(a)(1)(ii), the contracting officer shall require submission of data other than certified cost or pricing data from the offeror, to the extent necessary to determine a fair and reasonable price.</p>
+         <p outputclass="List3">(i) No further approval is required to request data other than certified cost or pricing data from the Canadian Commercial Corporation in the following circumstances:</p>
+         <p outputclass="List4">(A) In a solicitation for a sole source acquisition that is -</p>
+         <p outputclass="List5">(<i>1</i>) Cost-reimbursement, if the contract value is expected to exceed $700,000; or</p>
+         <p outputclass="List5">(<i>2</i>) Fixed-price, if the contract value is expected to exceed $500 million.</p>
+         <p outputclass="List4">(B) If the Canadian Commercial Corporation submits the only offer in response to a competitive solicitation that meets the thresholds specified in paragraph (c)(2)(i)(A) of this section.</p>
+         <p outputclass="List4">(C) For modifications that exceed $150,000 in contracts that meet the criteria in paragraph (c)(2)(i)(A) or (B) of this section.</p>
+         <p outputclass="List4">(D) In competitive solicitations in which data other than certified cost or pricing data are required from all offerors.</p>
+         <p outputclass="List3">(ii) In any circumstances other than those specified in paragraph (c)(2)(i) of this section, the contracting officer shall only require data other than certified cost or pricing data from the Canadian Commercial Corporation if the head of the contracting activity, or designee no lower than two levels above the contracting officer, determines that data other than certified cost or pricing data are needed (or in the case of modifications that it is reasonably certain that data other than certified cost or pricing data will be needed) in order to determine that the price is fair and reasonable) (see FAR 15.403-3(a).</p>
+         <p outputclass="List2">(3) The contracting officer shall use the provision at <xref outputclass="fm:ParaNumOnly" base="DFARS-252.215-7003" href="252.215-7003.dita#DFARS_252.215-7003">252.215-7003</xref>, Requirement for Submission of Data Other Than Certified Cost or Pricing Data - Canadian Commercial Corporation, and the clause at <xref outputclass="fm:ParaNumOnly" base="DFARS-252.215-7004" href="252.215-7004.dita#DFARS_252.215-7004">252.215-7004</xref>, Requirement for Submission of Data Other Than Certified Cost or Pricing Data - Modifications - Canadian Commercial Corporation, as prescribed at <xref outputclass="fm:ParaNumOnly" base="DFARS-215.408" href="215.408.dita#DFARS_215.408">215.408</xref>(2)(i) and (ii), respectively.</p>
+         <p outputclass="List2">(4) Except for contracts described in <xref outputclass="fm:ParaNumOnly" base="DFARS-225.870-1" href="225.870-1.dita#DFARS_225.870-1">225.870-1</xref>(c)(1) through (4), Canadian suppliers will provide required data other than certified cost or pricing data exclusively through the Canadian Commercial Corporation.</p>
+         <p outputclass="List2">(5) As specified in FAR 15.403-3(a)(4), an offeror who does not comply with a requirement to submit data that the contracting officer has deemed necessary to determine price reasonableness or cost realism is ineligible for award, unless the head of the contracting activity determines that it is in the best interest of the Government to make the award to that offeror, based on consideration of the following:</p>
+         <p outputclass="List3">(i) The effort made to obtain the data.</p>
+         <p outputclass="List3">(ii) The need for the item or service.</p>
+         <p outputclass="List3">(iii) Increased cost or significant harm to the Government if award is not made.</p>
+         <p outputclass="List1">(d) Identify in the contract, the type of currency, <i>i.e.,</i> U.S. or Canadian. Contracts that provide for payment in Canadian currency shall -</p>
+         <p outputclass="List2">(1) Quote the contract price in terms of Canadian dollars and identify the amount by the initials “CN”, <i>e.g.,</i> $1,647.23CN; and</p>
+         <p outputclass="List2">(2) Clearly indicate on the face of the contract the U.S./Canadian conversion rate at the time of award and the U.S. dollar equivalent of the Canadian dollar contract amount.</p>
       </conbody>
    </concept>
 </dita>

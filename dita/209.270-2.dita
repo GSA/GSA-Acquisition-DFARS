@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_209.270-2"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">209.270-2</ph> Definitions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As used in this section—</p>
-         <p class="- topic/p ">“Aviation critical safety item” means a part, an assembly, installation equipment, launch equipment, recovery equipment, or support equipment for an aircraft or aviation weapon system if the part, assembly, or equipment contains a characteristic any failure, malfunction, or absence of which could cause—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  A catastrophic or critical failure resulting in the loss of or serious damage to the aircraft or weapon system;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  An unacceptable risk of personal injury or loss of life; or</p>
-         <p outputclass="List2" class="- topic/p ">(3)  An uncommanded engine shutdown that jeopardizes safety.</p>
-         <p class="- topic/p ">“Design control activity”—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  With respect to an aviation critical safety item, means the systems command of a military department that is specifically responsible for ensuring the air worthiness of an aviation system or equipment in which an aviation critical safety item is to be used; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  With respect to a ship critical safety item, means the systems command of a military department that is specifically responsible for ensuring the seaworthiness of a ship or ship equipment in which a ship critical safety item is to be used.</p>
-         <p class="- topic/p ">“Ship critical safety item” means any ship part, assembly, or support equipment containing a characteristic the failure, malfunction, or absence of which could cause—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  A catastrophic or critical failure resulting in loss of or serious damage to the ship; or </p>
-         <p outputclass="List2" class="- topic/p ">(2)  An unacceptable risk of personal injury or loss of life.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_209.270-2" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">209.270-2</ph> Definitions.</title>
+      <conbody>
+         <p>As used in this section—</p>
+         <p>“Aviation critical safety item” means a part, an assembly, installation equipment, launch equipment, recovery equipment, or support equipment for an aircraft or aviation weapon system if the part, assembly, or equipment contains a characteristic any failure, malfunction, or absence of which could cause—</p>
+         <p outputclass="List2">(1)  A catastrophic or critical failure resulting in the loss of or serious damage to the aircraft or weapon system;</p>
+         <p outputclass="List2">(2)  An unacceptable risk of personal injury or loss of life; or</p>
+         <p outputclass="List2">(3)  An uncommanded engine shutdown that jeopardizes safety.</p>
+         <p>“Design control activity”—</p>
+         <p outputclass="List2">(1)  With respect to an aviation critical safety item, means the systems command of a military department that is specifically responsible for ensuring the air worthiness of an aviation system or equipment in which an aviation critical safety item is to be used; and</p>
+         <p outputclass="List2">(2)  With respect to a ship critical safety item, means the systems command of a military department that is specifically responsible for ensuring the seaworthiness of a ship or ship equipment in which a ship critical safety item is to be used.</p>
+         <p>“Ship critical safety item” means any ship part, assembly, or support equipment containing a characteristic the failure, malfunction, or absence of which could cause—</p>
+         <p outputclass="List2">(1)  A catastrophic or critical failure resulting in loss of or serious damage to the ship; or </p>
+         <p outputclass="List2">(2)  An unacceptable risk of personal injury or loss of life.</p>
       </conbody>
    </concept>
 </dita>

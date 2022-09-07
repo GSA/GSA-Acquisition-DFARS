@@ -1,35 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_204.7303"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">204.7303</ph> Procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">(a) Follow the procedures relating to safeguarding covered
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_204.7303" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">204.7303</ph> Procedures.</title>
+      <conbody>
+         <p>(a) Follow the procedures relating to safeguarding covered
 defense information at 
-               <xref href="PGI_204.7303.dita#DFARS_PGI_PGI_204.7303"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="204.7303">204.7303</xref>
+               <xref href="PGI_204.7303.dita#DFARS_PGI_PGI_204.7303" outputclass="fm:ParaNumOnly" xtrc="204.7303">204.7303</xref>
          </p>
-         <p outputclass="List1" class="- topic/p ">(b) The contracting officer shall verify that the
+         <p outputclass="List1">(b) The contracting officer shall verify that the
             summary level score of a current NIST SP 800-171 DoD Assessment (i.e., not more than 3
             years old, unless a lesser time is specified in the solicitation) (see 252.204-7019) for
             each covered contractor information system that is relevant to an offer, contract, task
-            order, or delivery order are posted in Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/"
-                  class="- topic/xref "
-                  scope="external"
-                  format="html"><?FM MARKER [Hypertext] message URL https: www.sprs.csd.disa.mil?></xref>), prior
+            order, or delivery order are posted in Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/" scope="external" format="html"><?FM MARKER [Hypertext] message URL https: www.sprs.csd.disa.mil?></xref>), prior
             to—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Awarding a contract, task order, or
+         <p outputclass="List2">(1) Awarding a contract, task order, or
 delivery order to an offeror or contractor that is required to implement
 NIST SP 800-171 in accordance with the clause at 252.204-7012; or</p>
-         <p outputclass="List2" class="- topic/p ">(2) Exercising an option period or extending
+         <p outputclass="List2">(2) Exercising an option period or extending
 the period of performance on a contract, task order, or delivery
 order with a contractor that is that is required to implement the
 NIST SP 800-171 in accordance with the clause at 252.204-7012.</p>

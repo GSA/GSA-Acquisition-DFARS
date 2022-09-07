@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_215.401"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">215.401</ph> Definitions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As used in this subpart—</p>
-         <p class="- topic/p ">“Market prices” means current prices that are established in
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_215.401" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">215.401</ph> Definitions.</title>
+      <conbody>
+         <p>As used in this subpart—</p>
+         <p>“Market prices” means current prices that are established in
 the course of ordinary trade between buyers and sellers free to bargain
 and that can be substantiated through competition or from sources
 independent of the offerors.</p>
-         <p class="- topic/p ">“Relevant sales data” means information on sales of the same
+         <p>“Relevant sales data” means information on sales of the same
 or similar items that can be used to establish price reasonableness
 taking into consideration the age, volume, and nature of the transactions
 (including any related discounts, refunds, rebates, offsets or other

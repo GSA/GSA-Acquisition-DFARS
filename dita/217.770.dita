@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_217.770"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">217.770</ph> Procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Departments and agencies shall establish and maintain procedures for reviewing and approving orders placed for supplies and services under non-DoD contracts, whether through direct acquisition or assisted acquisition, when the amount of the order exceeds the simplified acquisition threshold.  These procedures shall include—</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Evaluating whether using a non-DoD contract for the acquisition is in the best interest of DoD.  Factors to be considered include—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Satisfying customer requirements;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Schedule;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Cost effectiveness (taking into account discounts and fees).  In order to ensure awareness of the total cost of fees associated with use of a non-DoD contract, follow the procedures at PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_217.770"
-                  href="PGI_217.770.dita#DFARS_PGI_PGI_217.770"
-                  xtrc="217.770">217.770</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_217.770" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">217.770</ph> Procedures.</title>
+      <conbody>
+         <p>Departments and agencies shall establish and maintain procedures for reviewing and approving orders placed for supplies and services under non-DoD contracts, whether through direct acquisition or assisted acquisition, when the amount of the order exceeds the simplified acquisition threshold.  These procedures shall include—</p>
+         <p outputclass="List1">(a)  Evaluating whether using a non-DoD contract for the acquisition is in the best interest of DoD.  Factors to be considered include—</p>
+         <p outputclass="List2">(1)  Satisfying customer requirements;</p>
+         <p outputclass="List2">(2)  Schedule;</p>
+         <p outputclass="List2">(3)  Cost effectiveness (taking into account discounts and fees).  In order to ensure awareness of the total cost of fees associated with use of a non-DoD contract, follow the procedures at PGI 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-PGI_PGI_217.770" href="PGI_217.770.dita#DFARS_PGI_PGI_217.770" xtrc="217.770">217.770</xref>
             (a)(3); and</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Contract administration (including oversight);</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Determining that the tasks to be accomplished or supplies to be provided are within the scope of the contract to be used;</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Reviewing funding to ensure that it is used in accordance with appropriation limitations; and</p>
-         <p outputclass="List1" class="- topic/p ">(d)  Collecting and reporting data on the use of assisted acquisition for analysis.  Follow the reporting requirements in subpart 204.6.</p>
+         <p outputclass="List2">(4)  Contract administration (including oversight);</p>
+         <p outputclass="List1">(b)  Determining that the tasks to be accomplished or supplies to be provided are within the scope of the contract to be used;</p>
+         <p outputclass="List1">(c)  Reviewing funding to ensure that it is used in accordance with appropriation limitations; and</p>
+         <p outputclass="List1">(d)  Collecting and reporting data on the use of assisted acquisition for analysis.  Follow the reporting requirements in subpart 204.6.</p>
       </conbody>
    </concept>
 </dita>

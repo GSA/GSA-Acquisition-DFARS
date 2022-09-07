@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_208.7400"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">208.7400</ph> Scope of subpart.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">This subpart prescribes policy and procedures for acquisition of commercial software and software maintenance, including software and software maintenance that is acquired—</p>
-         <p outputclass="List1" class="- topic/p ">(a)  As part of a system or system upgrade, where practicable;</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Under a service contract;</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Under a contract or agreement administered by another agency (e.g., under an interagency agreement);</p>
-         <p outputclass="List1" class="- topic/p ">(d)  Under a Federal Supply Schedule contract or blanket purchase agreement established in accordance with FAR 8.405; or</p>
-         <p outputclass="List1" class="- topic/p ">(e)  By a contractor that is authorized to order from a Government supply source pursuant to FAR 51.101.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_208.7400" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">208.7400</ph> Scope of subpart.</title>
+      <conbody>
+         <p>This subpart prescribes policy and procedures for acquisition of commercial software and software maintenance, including software and software maintenance that is acquired—</p>
+         <p outputclass="List1">(a)  As part of a system or system upgrade, where practicable;</p>
+         <p outputclass="List1">(b)  Under a service contract;</p>
+         <p outputclass="List1">(c)  Under a contract or agreement administered by another agency (e.g., under an interagency agreement);</p>
+         <p outputclass="List1">(d)  Under a Federal Supply Schedule contract or blanket purchase agreement established in accordance with FAR 8.405; or</p>
+         <p outputclass="List1">(e)  By a contractor that is authorized to order from a Government supply source pursuant to FAR 51.101.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_225.7303"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.7303</ph> Pricing acquisitions for FMS.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Price FMS contracts using the same principles used in pricing other defense contracts.  However, application of the pricing principles in FAR Parts 15 and 31 to an FMS contract may result in prices that differ from other defense contract prices for the same item due to the considerations in this section.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  If the foreign government has conducted a competition resulting in adequate price competition (see FAR 15.403-1(b)(1)), the contracting officer shall not require the submission of certified cost or pricing data. The contracting officer should consult with the foreign government through security assistance personnel to determine if adequate price competition has occurred.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_225.7303" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">225.7303</ph> Pricing acquisitions for FMS.</title>
+      <conbody>
+         <p outputclass="List1">(a)  Price FMS contracts using the same principles used in pricing other defense contracts.  However, application of the pricing principles in FAR Parts 15 and 31 to an FMS contract may result in prices that differ from other defense contract prices for the same item due to the considerations in this section.</p>
+         <p outputclass="List1">(b)  If the foreign government has conducted a competition resulting in adequate price competition (see FAR 15.403-1(b)(1)), the contracting officer shall not require the submission of certified cost or pricing data. The contracting officer should consult with the foreign government through security assistance personnel to determine if adequate price competition has occurred.</p>
       </conbody>
    </concept>
 </dita>

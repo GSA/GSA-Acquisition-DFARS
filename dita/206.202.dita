@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_206.202"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">206.202</ph> Establishing or maintaining alternative sources.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Agencies may use this authority to totally or partially exclude a particular source from a contract action.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  The determination and findings (D&amp;F) and the documentation supporting the D&amp;F shall identify the source to be excluded from the contract action.  Include the information at PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_206.202"
-                  href="PGI_206.202.dita#DFARS_PGI_PGI_206.202"
-                  xtrc="206.202">206.202</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_206.202" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">206.202</ph> Establishing or maintaining alternative sources.</title>
+      <conbody>
+         <p outputclass="List1">(a)  Agencies may use this authority to totally or partially exclude a particular source from a contract action.</p>
+         <p outputclass="List1">(b)  The determination and findings (D&amp;F) and the documentation supporting the D&amp;F shall identify the source to be excluded from the contract action.  Include the information at PGI 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-PGI_PGI_206.202" href="PGI_206.202.dita#DFARS_PGI_PGI_206.202" xtrc="206.202">206.202</xref>
             (b), as applicable, and any other information that may be pertinent, in the supporting documentation.</p>
       </conbody>
    </concept>

@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_217.208-70"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">217.208-70</ph> Additional clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Use the basic or the alternate of the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381558"
-                  href="252.217-7000.dita#DFARS_252.217-7000">252.217-7000</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_217.208-70" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">217.208-70</ph> Additional clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a)  Use the basic or the alternate of the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381558" href="252.217-7000.dita#DFARS_252.217-7000">252.217-7000</xref>
             , Exercise of Option to Fulfill Foreign Military Sales Commitments, in solicitations and contracts when an option may be used for foreign military sales requirements.  Do not use the basic or the alternate of this clause in contracts for establishment or replenishment of DoD inventories or stocks, or acquisitions made under DoD cooperative logistics support arrangements.</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Use the basic clause when the foreign military sales country is known at the time of solicitation or award.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Use the alternate I clause when the foreign military sale country is not known at the time of solicitation or award.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  When a surge option is needed in support of industrial capability production planning, use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381565"
-                  href="252.217-7001.dita#DFARS_252.217-7001">252.217-7001</xref>
+         <p outputclass="List2">(1)  Use the basic clause when the foreign military sales country is known at the time of solicitation or award.</p>
+         <p outputclass="List2">(2)  Use the alternate I clause when the foreign military sale country is not known at the time of solicitation or award.</p>
+         <p outputclass="List1">(b)  When a surge option is needed in support of industrial capability production planning, use the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381565" href="252.217-7001.dita#DFARS_252.217-7001">252.217-7001</xref>
             , Surge Option, in solicitations and contracts.</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Insert the percentage or quantity of increase the option represents in paragraph (a) of the clause to ensure adequate quantities are available to meet item requirements.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Change 30 days in paragraphs (b)(2) and (d)(1) to longer periods, if appropriate.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Change the 24-month period in paragraph (c)(3), if appropriate.</p>
+         <p outputclass="List2">(1)  Insert the percentage or quantity of increase the option represents in paragraph (a) of the clause to ensure adequate quantities are available to meet item requirements.</p>
+         <p outputclass="List2">(2)  Change 30 days in paragraphs (b)(2) and (d)(1) to longer periods, if appropriate.</p>
+         <p outputclass="List2">(3)  Change the 24-month period in paragraph (c)(3), if appropriate.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_212.505"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title "> 
-         <ph props="autonumber" class="- topic/ph ">212.505</ph> Applicability of certain laws to contracts for the acquisition of COTS items.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " outputclass="List1">(<ph rev="Revised August 25, 2022">a</ph>) Paragraph (a)(1) of 10 U.S.C. 2533b, Requirement to buy strategic materials critical to national security from American sources, is not applicable to contracts and subcontracts for the acquisition of commercially available off-the-shelf items, except as provided at <xref href="225.7003-3.dita#DFARS_225.7003-3"
-                  base="i1379135"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.7003-3</xref> (b)(2)(i).</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_212.505" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">212.505</ph> Applicability of certain laws to contracts for the acquisition of COTS items.</title>
+      <conbody>
+         <p outputclass="List1">(<ph rev="Revised August 25, 2022">a</ph>) Paragraph (a)(1) of 10 U.S.C. 2533b, Requirement to buy strategic materials critical to national security from American sources, is not applicable to contracts and subcontracts for the acquisition of commercially available off-the-shelf items, except as provided at <xref href="225.7003-3.dita#DFARS_225.7003-3" base="i1379135" outputclass="fm:ParaNumOnly">225.7003-3</xref> (b)(2)(i).</p>
          <p outputclass="List1" rev="Revised August 25, 2022">(b) Paragraph (a)(1) of 10 U.S.C. 2533c, Prohibition on acquisition of sensitive materials from non-allied foreign nations, is not applicable to contracts and subcontracts for the acquisition of commercially available off-the-shelf items, except as provided at <xref href="225.7018-3.dita#DFARS_225.7018-3" outputclass="fm:ParaNumOnly">225.7018-3</xref>(c)(1).</p>
       </conbody>
    </concept>

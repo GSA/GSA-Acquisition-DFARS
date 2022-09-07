@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_217.7003"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">217.7003</ph> Purchase request.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Ensure that the requiring activity provides all of the following in support of the purchase request—</p>
-         <p outputclass="List1" class="- topic/p ">(a)  A certification that the property is eligible for exchange and complies with all conditions and limitations of DoD Manual 4140.01, Volume 9, DoD Supply Chain Materiel Management Procedures:  Materiel Programs.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  A written determination of economic advantage indicating—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The anticipated economic advantage to the Government from use of the exchange authority;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  That exchange allowances shall be applied toward, or in partial payment of, the items to be acquired; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  That, if required, the exchange property has been rendered safe or innocuous or has been demilitarized; </p>
-         <p outputclass="List1" class="- topic/p ">(c)  All applicable approvals for the exchange; and</p>
-         <p outputclass="List1" class="- topic/p ">(d)  A description of the property available for exchange (e.g., nomenclature, location, serial number, estimated travel value).</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_217.7003" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">217.7003</ph> Purchase request.</title>
+      <conbody>
+         <p>Ensure that the requiring activity provides all of the following in support of the purchase request—</p>
+         <p outputclass="List1">(a)  A certification that the property is eligible for exchange and complies with all conditions and limitations of DoD Manual 4140.01, Volume 9, DoD Supply Chain Materiel Management Procedures:  Materiel Programs.</p>
+         <p outputclass="List1">(b)  A written determination of economic advantage indicating—</p>
+         <p outputclass="List2">(1)  The anticipated economic advantage to the Government from use of the exchange authority;</p>
+         <p outputclass="List2">(2)  That exchange allowances shall be applied toward, or in partial payment of, the items to be acquired; and</p>
+         <p outputclass="List2">(3)  That, if required, the exchange property has been rendered safe or innocuous or has been demilitarized; </p>
+         <p outputclass="List1">(c)  All applicable approvals for the exchange; and</p>
+         <p outputclass="List1">(d)  A description of the property available for exchange (e.g., nomenclature, location, serial number, estimated travel value).</p>
       </conbody>
    </concept>
 </dita>

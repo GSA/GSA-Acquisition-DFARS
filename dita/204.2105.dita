@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_204.2105"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">204.2105</ph> Solicitation provisions and contract clause.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Use the provision at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381052"
-                  href="252.204-7016.dita#DFARS_252.204-7016">252.204-7016</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_204.2105" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">204.2105</ph> Solicitation provisions and contract clause.</title>
+      <conbody>
+         <p outputclass="List1">(a)  Use the provision at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381052" href="252.204-7016.dita#DFARS_252.204-7016">252.204-7016</xref>
             , Covered Defense Telecommunications Equipment or Services—Representation, in all solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items and, solicitations for task and delivery orders, basic ordering agreements (BOAs), orders against BOAs, blanket purchase agreements (BPAs), and calls against BPAs.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Use the provision at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381063"
-                  href="252.204-7017.dita#DFARS_252.204-7017">252.204-7017</xref>
+         <p outputclass="List1">(b)  Use the provision at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381063" href="252.204-7017.dita#DFARS_252.204-7017">252.204-7017</xref>
             , Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services—Representation, in all solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items, and solicitations for task and delivery orders, BOAs, orders against BOAs, BPAs, and calls against BPAs.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381077"
-                  href="252.204-7018.dita#DFARS_252.204-7018">252.204-7018</xref>
+         <p outputclass="List1">(c)  Use the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381077" href="252.204-7018.dita#DFARS_252.204-7018">252.204-7018</xref>
             , Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services, in all solicitations and resultant awards, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, and solicitations and awards for task and delivery orders, BOAs, orders against BOAs, BPAs, and calls against BPAs.</p>
       </conbody>
    </concept>

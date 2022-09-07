@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_209.570-4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">209.570-4</ph> Solicitation provision and contract clause.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  Use the provision at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381157"
-                  href="252.209-7006.dita#DFARS_252.209-7006">252.209-7006</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_209.570-4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">209.570-4</ph> Solicitation provision and contract clause.</title>
+      <conbody>
+         <p outputclass="List1">(a)  Use the provision at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381157" href="252.209-7006.dita#DFARS_252.209-7006">252.209-7006</xref>
             , Limitations on Contractors Acting as Lead System Integrators, in solicitations for the acquisition of a major system when the acquisition strategy envisions the use of a lead system integrator.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Use the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381168"
-                  href="252.209-7007.dita#DFARS_252.209-7007">252.209-7007</xref>
+         <p outputclass="List1">(b)  Use the clause at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381168" href="252.209-7007.dita#DFARS_252.209-7007">252.209-7007</xref>
             , Prohibited Financial Interests for Lead System Integrators—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  In solicitations that include the provision at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1381157"
-                  href="252.209-7006.dita#DFARS_252.209-7006">252.209-7006</xref>
+         <p outputclass="List2">(1)  In solicitations that include the provision at 
+               <xref outputclass="fm:ParaNumOnly" base="i1381157" href="252.209-7006.dita#DFARS_252.209-7006">252.209-7006</xref>
             ; and </p>
-         <p outputclass="List2" class="- topic/p ">(2)  In contracts when the contractor will fill the role of a lead system integrator for the acquisition of a major system.</p>
+         <p outputclass="List2">(2)  In contracts when the contractor will fill the role of a lead system integrator for the acquisition of a major system.</p>
       </conbody>
    </concept>
 </dita>

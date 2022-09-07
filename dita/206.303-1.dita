@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_206.303-1"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">206.303-1</ph> Requirements.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) In accordance with section 823 of the National Defense Authorization Act for Fiscal Year 2020<xref href="https://www.govinfo.gov/link/plaw/116/public/92?link-type=html"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref "> (Pub. L. 116-92)</xref>, no justification and approval is required for a sole-source contract under the 8(a) authority (15 U.S.C. 637(a)) for an amount not exceeding $100 million.</p>
-         <p outputclass="List1" class="- topic/p ">(b) In lieu of FAR 6.303-1(b), in accordance with section 823 of the National Defense Authorization Act for Fiscal Year 2020  (Pub. L. 116-92), contracting officers shall not award a sole source contract under the 8(a) authority (15 U.S.C. 637(a)) for an amount exceeding $100 million unless—</p>
-         <p outputclass="List2" class="- topic/p ">(1) The contracting officer justifies the use of a sole source contract in writing in accordance with FAR 6.303-2;</p>
-         <p outputclass="List2" class="- topic/p ">(2) The justification is approved in accordance with <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-206.304"
-                  href="206.304.dita#DFARS_206.304">206.304</xref>(a)(S-71); and</p>
-         <p outputclass="List2" class="- topic/p ">(3) The justification and related information are made public after award in accordance with FAR 6.305
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_206.303-1" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">206.303-1</ph> Requirements.</title>
+      <conbody>
+         <p outputclass="List1">(a) In accordance with section 823 of the National Defense Authorization Act for Fiscal Year 2020<xref href="https://www.govinfo.gov/link/plaw/116/public/92?link-type=html" format="html" scope="external"> (Pub. L. 116-92)</xref>, no justification and approval is required for a sole-source contract under the 8(a) authority (15 U.S.C. 637(a)) for an amount not exceeding $100 million.</p>
+         <p outputclass="List1">(b) In lieu of FAR 6.303-1(b), in accordance with section 823 of the National Defense Authorization Act for Fiscal Year 2020  (Pub. L. 116-92), contracting officers shall not award a sole source contract under the 8(a) authority (15 U.S.C. 637(a)) for an amount exceeding $100 million unless—</p>
+         <p outputclass="List2">(1) The contracting officer justifies the use of a sole source contract in writing in accordance with FAR 6.303-2;</p>
+         <p outputclass="List2">(2) The justification is approved in accordance with <xref outputclass="fm:ParaNumOnly" base="DFARS-206.304" href="206.304.dita#DFARS_206.304">206.304</xref>(a)(S-71); and</p>
+         <p outputclass="List2">(3) The justification and related information are made public after award in accordance with FAR 6.305
          </p>
       </conbody>
    </concept>

@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_204.7109"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">204.7109</ph> Contract clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Use the clause at <xref href="252.204-7002.dita#DFARS_252.204-7002"
-                  base="i1380912"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="252.204-7002">252.204-7002</xref> , Payment
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_204.7109" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">204.7109</ph> Contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) Use the clause at <xref href="252.204-7002.dita#DFARS_252.204-7002" base="i1380912" outputclass="fm:ParaNumOnly" xtrc="252.204-7002">252.204-7002</xref> , Payment
 for Contract Line or Subline Items Not Separately Priced, in solicitations
 and contracts when the price for items not separately priced is
 included in the price of another contract line or subline item.</p>
-         <p outputclass="List1" class="- topic/p ">(b) Use the clause at <xref href="252.204-7006.dita#DFARS_252.204-7006"
-                  base="i1380940"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="252.204-7006">252.204-7006</xref> , Billing
+         <p outputclass="List1">(b) Use the clause at <xref href="252.204-7006.dita#DFARS_252.204-7006" base="i1380940" outputclass="fm:ParaNumOnly" xtrc="252.204-7006">252.204-7006</xref> , Billing
 Instructions, in solicitations and contracts if Section G includes—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Any of the standard payment instructions
-at PGI <xref href="PGI_204.7108.dita#DFARS_PGI_PGI_204.7108"
-                  base="DFARS-PGI_PGI_204.7108"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="204.7108">204.7108</xref> (b)(2);
+         <p outputclass="List2">(1) Any of the standard payment instructions
+at PGI <xref href="PGI_204.7108.dita#DFARS_PGI_PGI_204.7108" base="DFARS-PGI_PGI_204.7108" outputclass="fm:ParaNumOnly" xtrc="204.7108">204.7108</xref> (b)(2);
 or</p>
-         <p outputclass="List2" class="- topic/p ">(2) Other payment instructions, in accordance
-with PGI <xref href="PGI_204.7108.dita#DFARS_PGI_PGI_204.7108"
-                  base="DFARS-PGI_PGI_204.7108"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="204.7108">204.7108</xref> (d)(12),
+         <p outputclass="List2">(2) Other payment instructions, in accordance
+with PGI <xref href="PGI_204.7108.dita#DFARS_PGI_PGI_204.7108" base="DFARS-PGI_PGI_204.7108" outputclass="fm:ParaNumOnly" xtrc="204.7108">204.7108</xref> (d)(12),
 that require contractor identification of the contract line item(s)
 on the payment request.</p>
       </conbody>

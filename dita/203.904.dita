@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_203.904"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">203.904</ph> Procedures for filing complaints.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1)  Any employee of a contractor or subcontractor who believes that he or she has been discharged, demoted, or otherwise discriminated against contrary to the policy in 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-203.903"
-                  href="203.903.dita#DFARS_203.903">203.903</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_203.904" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">203.904</ph> Procedures for filing complaints.</title>
+      <conbody>
+         <p outputclass="List2">(1)  Any employee of a contractor or subcontractor who believes that he or she has been discharged, demoted, or otherwise discriminated against contrary to the policy in 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-203.903" href="203.903.dita#DFARS_203.903">203.903</xref>
              may file a complaint with the Inspector General of the Department of Defense.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  A complaint may not be brought under this section more than three years after the date on which the alleged reprisal took place.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The complaint shall be signed and shall contain—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The name of the contractor;</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The contract number, if known; if not, a description reasonably sufficient to identify the contract(s) involved;</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  The violation of law, rule, or regulation giving rise to the disclosure;</p>
-         <p outputclass="List3" class="- topic/p ">(iv)  The nature of the disclosure giving rise to the discriminatory act, including the party to whom the information was disclosed; and</p>
-         <p outputclass="List3" class="- topic/p ">(v)  The specific nature and date of the reprisal.</p>
+         <p outputclass="List2">(2)  A complaint may not be brought under this section more than three years after the date on which the alleged reprisal took place.</p>
+         <p outputclass="List2">(3)  The complaint shall be signed and shall contain—</p>
+         <p outputclass="List3">(i)  The name of the contractor;</p>
+         <p outputclass="List3">(ii)  The contract number, if known; if not, a description reasonably sufficient to identify the contract(s) involved;</p>
+         <p outputclass="List3">(iii)  The violation of law, rule, or regulation giving rise to the disclosure;</p>
+         <p outputclass="List3">(iv)  The nature of the disclosure giving rise to the discriminatory act, including the party to whom the information was disclosed; and</p>
+         <p outputclass="List3">(v)  The specific nature and date of the reprisal.</p>
       </conbody>
    </concept>
 </dita>

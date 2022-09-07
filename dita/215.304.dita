@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_215.304"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">215.304</ph> Evaluation factorsand significant subfactors.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(c)(i) In acquisitions that require
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_215.304" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">215.304</ph> Evaluation factorsand significant subfactors.</title>
+      <conbody>
+         <p outputclass="List1">(c)(i) In acquisitions that require
 use of the clause at FAR 52.219-9, Small
 Business Subcontracting Plan, other than those based on the lowest
 price technically acceptable source selection process (see FAR 15.101-2), the extent of participation of
@@ -21,83 +16,59 @@ of the contract shall be addressed in source selection. The contracting
 officer shall evaluate the extent to which offerors identify and
 commit to small business performance of the contract, whether as
 a joint venture, teaming arrangement, or subcontractor.</p>
-         <p outputclass="List4" class="- topic/p ">(A) See PGI 
-               <xref href="PGI_215.304.dita#DFARS_PGI_PGI_215.304"
-                  base="DFARS-PGI_PGI_215.304"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="215.304">215.304</xref>
+         <p outputclass="List4">(A) See PGI 
+               <xref href="PGI_215.304.dita#DFARS_PGI_PGI_215.304" base="DFARS-PGI_PGI_215.304" outputclass="fm:ParaNumOnly" xtrc="215.304">215.304</xref>
             (c)(i)(A)
 for examples of evaluation factors.</p>
-         <p outputclass="List4" class="- topic/p ">(B) Proposals addressing the extent of
+         <p outputclass="List4">(B) Proposals addressing the extent of
 small business performance shall be separate from subcontracting
 plans submitted pursuant to the clause at FAR
 52.219-9 and shall be structured to allow for consideration
 of offers from small businesses.</p>
-         <p outputclass="List4" class="- topic/p ">(C) When an evaluation assesses the extent
+         <p outputclass="List4">(C) When an evaluation assesses the extent
 that small businesses are specifically identified in proposals,
 the small businesses considered in the evaluation shall be listed
 in any subcontracting plan submitted pursuant to FAR 52.219-9 to
 facilitate compliance with 
-               <xref href="252.219-7003.dita#DFARS_252.219-7003"
-                  base="DFARS-239.7301"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="252.219-7003">252.219-7003</xref>
+               <xref href="252.219-7003.dita#DFARS_252.219-7003" base="DFARS-239.7301" outputclass="fm:ParaNumOnly" xtrc="252.219-7003">252.219-7003</xref>
             .</p>
-         <p outputclass="List3" class="- topic/p ">(ii) In accordance with 10 U.S.C. 2436,
+         <p outputclass="List3">(ii) In accordance with 10 U.S.C. 2436,
 consider the purchase of capital assets (including machine tools)
 manufactured in the United States, in source selections for all
 major defense acquisition programs as defined in 10 U.S.C. 2430.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) See 247.573-2(c) for additional evaluation
+         <p outputclass="List3">(iii) See 247.573-2(c) for additional evaluation
 factors required in solicitations for the direct purchase of ocean
 transportation services.</p>
-         <p outputclass="List3" class="- topic/p ">(iv) In accordance with section 812 of
+         <p outputclass="List3">(iv) In accordance with section 812 of
 the National Defense Authorization Act for Fiscal Year 2011, consider
 the manufacturing readiness and manufacturing-readiness processes
 of potential contractors and subcontractors as a part of the source
 selection process for major defense acquisition programs.</p>
-         <p outputclass="List3" class="- topic/p ">(v) Include an evaluation factor regarding
+         <p outputclass="List3">(v) Include an evaluation factor regarding
 supply chain risk (see subpart 239.73) when acquiring information
 technology, whether as a service or as a supply, that is a covered
 system, is a part of a covered system, or is in support of a covered
-system, as defined in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-239.7301"
-                  href="239.7301.dita#DFARS_239.7301"
-                  xtrc="239.7301">239.7301</xref>. For additional guidance see PGI 
-               <xref href="PGI_215.304.dita#DFARS_PGI_PGI_215.304"
-                  base="DFARS-PGI_PGI_215.304"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="215.304">215.304</xref>
+system, as defined in <xref outputclass="fm:ParaNumOnly" base="DFARS-239.7301" href="239.7301.dita#DFARS_239.7301" xtrc="239.7301">239.7301</xref>. For additional guidance see PGI 
+               <xref href="PGI_215.304.dita#DFARS_PGI_PGI_215.304" base="DFARS-PGI_PGI_215.304" outputclass="fm:ParaNumOnly" xtrc="215.304">215.304</xref>
             (c)(v).</p>
-         <p outputclass="List3" class="- topic/p ">(vi) Ensure source selections emphasize
+         <p outputclass="List3">(vi) Ensure source selections emphasize
 sustainment factors and objective reliability and maintainability
 evaluation criteria in competitive contracts for the—</p>
-         <p outputclass="List4" class="- topic/p ">(A) Technical maturation and risk reduction
+         <p outputclass="List4">(A) Technical maturation and risk reduction
 phase of weapon system design (see guidance at PGI 
-               <xref href="PGI_207.105.dita#DFARS_PGI_PGI_207.105"
-                  base="DFARS-PGI_PGI_207.105"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="207.105">207.105</xref>
-            (b)(14)(ii)(<i class="+ topic/ph hi-d/i ">2</i>));</p>
-         <p outputclass="List4" class="- topic/p ">(B) Engineering and manufacturing development
+               <xref href="PGI_207.105.dita#DFARS_PGI_PGI_207.105" base="DFARS-PGI_PGI_207.105" outputclass="fm:ParaNumOnly" xtrc="207.105">207.105</xref>
+            (b)(14)(ii)(<i>2</i>));</p>
+         <p outputclass="List4">(B) Engineering and manufacturing development
 phase of a weapon system, including embedded software (10 U.S.C.
 2443); or</p>
-         <p outputclass="List4" class="- topic/p ">(C) Production and deployment phase of
+         <p outputclass="List4">(C) Production and deployment phase of
 a weapon system, including embedded software (10 U.S.C. 2443).</p>
-         <p outputclass="List3" class="- topic/p ">(vii) See 
-               <xref href="226.7202.dita#DFARS_226.7202"
-                  base="DFARS-226.7202"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="226.7202">226.7202</xref>
+         <p outputclass="List3">(vii) See 
+               <xref href="226.7202.dita#DFARS_226.7202" base="DFARS-226.7202" outputclass="fm:ParaNumOnly" xtrc="226.7202">226.7202</xref>
              for an additional
 evaluation factor required in solicitations when using the Demonstration
 Project for Contractors Employing Persons with Disabilities.</p>
-         <p outputclass="LightBlueText" class="- topic/p ">See DoD Class Deviation 2013-O0018,
+         <p outputclass="LightBlueText">See DoD Class Deviation 2013-O0018,
 Past Performance Evaluation Thresholds and Reporting Requirements,
 issued on September 24, 2013, which updates the DoD thresholds for
 evaluating a contractor’s past performance in source selections

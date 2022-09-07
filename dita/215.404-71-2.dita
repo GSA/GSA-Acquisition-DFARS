@@ -1,385 +1,316 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_215.404-71-2"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">215.404-71-2</ph> Performance risk.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Description.</i> This profit
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_215.404-71-2" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">215.404-71-2</ph> Performance risk.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>Description.</i> This profit
 factor addresses the contractor's degree of risk in fulfilling the
 contract requirements. The factor consists of two parts:</p>
-         <p outputclass="List2" class="- topic/p ">(1) Technical - the technical uncertainties
+         <p outputclass="List2">(1) Technical - the technical uncertainties
 of performance.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Management/cost control - the degree
+         <p outputclass="List2">(2) Management/cost control - the degree
 of management effort necessary -</p>
-         <p outputclass="List3" class="- topic/p ">(i) To ensure that contract requirements
+         <p outputclass="List3">(i) To ensure that contract requirements
 are met; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) To reduce and control costs.</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Determination.</i> The following
+         <p outputclass="List3">(ii) To reduce and control costs.</p>
+         <p outputclass="List1">(b) <i>Determination.</i> The following
 extract from the DD Form 1547 is annotated to describe the process.</p>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="6"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="FormatA"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="17*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="17*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="17*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="17*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="17*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="17*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <thead class="- topic/thead ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry ">Item</entry>
-                     <entry colname="2" colsep="0" class="- topic/entry ">Contractor risk factors</entry>
-                     <entry colname="3" colsep="0" class="- topic/entry ">Assigned weighting</entry>
-                     <entry colname="4" colsep="0" class="- topic/entry ">Assigned value</entry>
-                     <entry colname="5" colsep="0" class="- topic/entry ">Base (item 20)</entry>
-                     <entry colname="6" class="- topic/entry ">Profit objective</entry>
+         <table frame="all" colsep="1" rowsep="0">
+            <tgroup cols="6" colsep="1" rowsep="0" outputclass="FormatA">
+               <colspec colnum="1" colname="1" colwidth="17*" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="17*" rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="17*" rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="17*" rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="17*" rowheader="headers" />
+               <colspec colnum="6" colname="6" colwidth="17*" rowheader="headers" />
+               <thead>
+                  <row rowsep="1">
+                     <entry colname="1" colsep="0">Item</entry>
+                     <entry colname="2" colsep="0">Contractor risk factors</entry>
+                     <entry colname="3" colsep="0">Assigned weighting</entry>
+                     <entry colname="4" colsep="0">Assigned value</entry>
+                     <entry colname="5" colsep="0">Base (item 20)</entry>
+                     <entry colname="6">Profit objective</entry>
                   </row>
                </thead>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">21</entry>
-                     <entry colname="2" colsep="0" align="left" class="- topic/entry ">Technical</entry>
-                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">(1)</entry>
-                     <entry colname="4" colsep="0" align="right" class="- topic/entry ">(2)</entry>
-                     <entry colname="5" colsep="0" align="right" class="- topic/entry ">N/A</entry>
-                     <entry colname="6" align="right" class="- topic/entry ">N/A</entry>
+               <tbody>
+                  <row rowsep="1">
+                     <entry colname="1" colsep="0" align="left">21</entry>
+                     <entry colname="2" colsep="0" align="left">Technical</entry>
+                     <entry colname="3" colsep="0" align="right">(1)</entry>
+                     <entry colname="4" colsep="0" align="right">(2)</entry>
+                     <entry colname="5" colsep="0" align="right">N/A</entry>
+                     <entry colname="6" align="right">N/A</entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">22</entry>
-                     <entry colname="2" colsep="0" align="left" class="- topic/entry ">Management/Cost Control</entry>
-                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">(1)</entry>
-                     <entry colname="4" colsep="0" align="right" class="- topic/entry ">(2)</entry>
-                     <entry colname="5" colsep="0" align="right" class="- topic/entry ">N/A</entry>
-                     <entry colname="6" align="right" class="- topic/entry ">N/A</entry>
+                  <row rowsep="1">
+                     <entry colname="1" colsep="0" align="left">22</entry>
+                     <entry colname="2" colsep="0" align="left">Management/Cost Control</entry>
+                     <entry colname="3" colsep="0" align="right">(1)</entry>
+                     <entry colname="4" colsep="0" align="right">(2)</entry>
+                     <entry colname="5" colsep="0" align="right">N/A</entry>
+                     <entry colname="6" align="right">N/A</entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">23</entry>
-                     <entry colname="2" colsep="0" align="left" class="- topic/entry ">Performance Risk (Composite)</entry>
-                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">N/A</entry>
-                     <entry colname="4" colsep="0" align="right" class="- topic/entry ">(3)</entry>
-                     <entry colname="5" colsep="0" align="right" class="- topic/entry ">(4)</entry>
-                     <entry colname="6" align="right" class="- topic/entry ">(5)</entry>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="0" align="left">23</entry>
+                     <entry colname="2" colsep="0" align="left">Performance Risk (Composite)</entry>
+                     <entry colname="3" colsep="0" align="right">N/A</entry>
+                     <entry colname="4" colsep="0" align="right">(3)</entry>
+                     <entry colname="5" colsep="0" align="right">(4)</entry>
+                     <entry colname="6" align="right">(5)</entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List2" class="- topic/p ">(1) Assign a weight (percentage) to each
+         <p outputclass="List2">(1) Assign a weight (percentage) to each
 element according to its input to the total performance risk. The
 total of the two weights equals 100 percent.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Select a value for each element from
+         <p outputclass="List2">(2) Select a value for each element from
 the list in paragraph (c) of this subsection using the evaluation
 criteria in paragraphs (d) and (e) of this subsection.</p>
-         <p outputclass="List2" class="- topic/p ">(3) Compute the composite as shown in the
+         <p outputclass="List2">(3) Compute the composite as shown in the
 following example:</p>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="4"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="FormatA"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="25*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="25*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="25*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="25*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <thead class="- topic/thead ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry "/>
-                     <entry colname="2" colsep="0" class="- topic/entry ">Assigned weighting (percent)</entry>
-                     <entry colname="3" colsep="0" class="- topic/entry ">Assigned value (percent)</entry>
-                     <entry colname="4" class="- topic/entry ">Weighted value (percent)</entry>
+         <table frame="all" colsep="1" rowsep="0">
+            <tgroup cols="4" colsep="1" rowsep="0" outputclass="FormatA">
+               <colspec colnum="1" colname="1" colwidth="25*" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="25*" rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="25*" rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="25*" rowheader="headers" />
+               <thead>
+                  <row rowsep="1">
+                     <entry colname="1" colsep="0" />
+                     <entry colname="2" colsep="0">Assigned weighting (percent)</entry>
+                     <entry colname="3" colsep="0">Assigned value (percent)</entry>
+                     <entry colname="4">Weighted value (percent)</entry>
                   </row>
                </thead>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Technical</entry>
-                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">60</entry>
-                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">5.0</entry>
-                     <entry colname="4" align="right" class="- topic/entry ">3.0</entry>
+               <tbody>
+                  <row rowsep="1">
+                     <entry colname="1" colsep="0" align="left">Technical</entry>
+                     <entry colname="2" colsep="0" align="right">60</entry>
+                     <entry colname="3" colsep="0" align="right">5.0</entry>
+                     <entry colname="4" align="right">3.0</entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Management/Cost
+                  <row rowsep="1">
+                     <entry colname="1" colsep="0" align="left">Management/Cost
 Control</entry>
-                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">40</entry>
-                     <entry colname="3" colsep="0" align="right" class="- topic/entry ">4.0</entry>
-                     <entry colname="4" align="right" class="- topic/entry ">1.6</entry>
+                     <entry colname="2" colsep="0" align="right">40</entry>
+                     <entry colname="3" colsep="0" align="right">4.0</entry>
+                     <entry colname="4" align="right">1.6</entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Composite Value</entry>
-                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">100</entry>
-                     <entry colname="3" colsep="0" align="right" class="- topic/entry "/>
-                     <entry colname="4" align="right" class="- topic/entry ">
+                  <row rowsep="0">
+                     <entry colname="1" colsep="0" align="left">Composite Value</entry>
+                     <entry colname="2" colsep="0" align="right">100</entry>
+                     <entry colname="3" colsep="0" align="right" />
+                     <entry colname="4" align="right">
                         4.6
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List2" class="- topic/p ">(4) Insert the amount from Block 20 of
+         <p outputclass="List2">(4) Insert the amount from Block 20 of
 the DD Form 1547. Block 20 is total contract costs, excluding facilities
 capital cost of money.</p>
-         <p outputclass="List2" class="- topic/p ">(5) Multiply (3) by (4).</p>
-         <p outputclass="List1" class="- topic/p ">(c) Values: Normal and designated ranges.</p>
-         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-            <tgroup cols="3"
-                    colsep="1"
-                    rowsep="0"
-                    outputclass="FormatA"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="33*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="33*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="33*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <thead class="- topic/thead ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry "/>
-                     <entry colname="2" colsep="0" class="- topic/entry ">Normal value (percent)</entry>
-                     <entry colname="3" class="- topic/entry ">Designated range</entry>
+         <p outputclass="List2">(5) Multiply (3) by (4).</p>
+         <p outputclass="List1">(c) Values: Normal and designated ranges.</p>
+         <table frame="all" colsep="1" rowsep="0">
+            <tgroup cols="3" colsep="1" rowsep="0" outputclass="FormatA">
+               <colspec colnum="1" colname="1" colwidth="33*" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="33*" rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="33*" rowheader="headers" />
+               <thead>
+                  <row rowsep="1">
+                     <entry colname="1" colsep="0" />
+                     <entry colname="2" colsep="0">Normal value (percent)</entry>
+                     <entry colname="3">Designated range</entry>
                   </row>
                </thead>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Standard</entry>
-                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">5</entry>
-                     <entry colname="3" align="left" class="- topic/entry ">3% to 7%</entry>
+               <tbody>
+                  <row rowsep="1">
+                     <entry colname="1" colsep="0" align="left">Standard</entry>
+                     <entry colname="2" colsep="0" align="right">5</entry>
+                     <entry colname="3" align="left">3% to 7%</entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="0" align="left" class="- topic/entry ">Technology Incentive</entry>
-                     <entry colname="2" colsep="0" align="right" class="- topic/entry ">9</entry>
-                     <entry colname="3" align="left" class="- topic/entry ">7% to 11%</entry>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="0" align="left">Technology Incentive</entry>
+                     <entry colname="2" colsep="0" align="right">9</entry>
+                     <entry colname="3" align="left">7% to 11%</entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Standard.</i> The standard designated
+         <p outputclass="List2">(1) <i>Standard.</i> The standard designated
 range should apply to most contracts.</p>
-         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Technology incentive.</i> For the
+         <p outputclass="List2">(2) <i>Technology incentive.</i> For the
 technical factor only, contracting officers may use the technology
 incentive range for acquisitions that include development, production,
 or application of innovative new technologies. The technology incentive
 range does not apply to efforts restricted to studies, analyses,
 or demonstrations that have a technical report as their primary
 deliverable.</p>
-         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Evaluation criteria for technical.</i> (1)
+         <p outputclass="List1">(d) <i>Evaluation criteria for technical.</i> (1)
 Review the contract requirements and focus on the critical performance
 elements in the statement of work or specifications. Factors to
 consider include -</p>
-         <p outputclass="List3" class="- topic/p ">(i) Technology being applied or developed
+         <p outputclass="List3">(i) Technology being applied or developed
 by the contractor;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Technical complexity;</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Program maturity;</p>
-         <p outputclass="List3" class="- topic/p ">(iv) Performance specifications and tolerances;</p>
-         <p outputclass="List3" class="- topic/p ">(v) Delivery schedule; and</p>
-         <p outputclass="List3" class="- topic/p ">(vi) Extent of a warranty or guarantee.</p>
-         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Above normal conditions.</i> (i)
+         <p outputclass="List3">(ii) Technical complexity;</p>
+         <p outputclass="List3">(iii) Program maturity;</p>
+         <p outputclass="List3">(iv) Performance specifications and tolerances;</p>
+         <p outputclass="List3">(v) Delivery schedule; and</p>
+         <p outputclass="List3">(vi) Extent of a warranty or guarantee.</p>
+         <p outputclass="List2">(2) <i>Above normal conditions.</i> (i)
 The contracting officer may assign a higher than normal value in
 those cases where there is a substantial technical risk. Indicators
 are -</p>
-         <p outputclass="List4" class="- topic/p ">(A) Items are being manufactured using
+         <p outputclass="List4">(A) Items are being manufactured using
 specifications with stringent tolerance limits;</p>
-         <p outputclass="List4" class="- topic/p ">(B) The efforts require highly skilled
+         <p outputclass="List4">(B) The efforts require highly skilled
 personnel or require the use of state-of-the-art machinery;</p>
-         <p outputclass="List4" class="- topic/p ">(C) The services and analytical efforts
+         <p outputclass="List4">(C) The services and analytical efforts
 are extremely important to the Government and must be performed
 to exacting standards;</p>
-         <p outputclass="List4" class="- topic/p ">(D) The contractor's independent development
+         <p outputclass="List4">(D) The contractor's independent development
 and investment has reduced the Government's risk or cost;</p>
-         <p outputclass="List4" class="- topic/p ">(E) The contractor has accepted an accelerated
+         <p outputclass="List4">(E) The contractor has accepted an accelerated
 delivery schedule to meet DoD requirements; or</p>
-         <p outputclass="List4" class="- topic/p ">(F) The contractor has assumed additional
+         <p outputclass="List4">(F) The contractor has assumed additional
 risk through warranty provisions.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Extremely complex, vital efforts to
+         <p outputclass="List3">(ii) Extremely complex, vital efforts to
 overcome difficult technical obstacles that require personnel with
 exceptional abilities, experience, and professional credentials
 may justify a value significantly above normal.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) The following may justify a maximum
+         <p outputclass="List3">(iii) The following may justify a maximum
 value -</p>
-         <p outputclass="List4" class="- topic/p ">(A) Development or initial production of
+         <p outputclass="List4">(A) Development or initial production of
 a new item, particularly if performance or quality specifications
 are tight; or</p>
-         <p outputclass="List4" class="- topic/p ">(B) A high degree of development or production
+         <p outputclass="List4">(B) A high degree of development or production
 concurrency.</p>
-         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Below normal conditions.</i> (i)
+         <p outputclass="List2">(3) <i>Below normal conditions.</i> (i)
 The contracting officer may assign a lower than normal value in
 those cases where the technical risk is low. Indicators are -</p>
-         <p outputclass="List4" class="- topic/p ">(A) Requirements are relatively simple;</p>
-         <p outputclass="List4" class="- topic/p ">(B) Technology is not complex;</p>
-         <p outputclass="List4" class="- topic/p ">(C) Efforts do not require highly skilled
+         <p outputclass="List4">(A) Requirements are relatively simple;</p>
+         <p outputclass="List4">(B) Technology is not complex;</p>
+         <p outputclass="List4">(C) Efforts do not require highly skilled
 personnel;</p>
-         <p outputclass="List4" class="- topic/p ">(D) Efforts are routine;</p>
-         <p outputclass="List4" class="- topic/p ">(E) Programs are mature; or</p>
-         <p outputclass="List4" class="- topic/p ">(F) Acquisition is a follow-on effort or
+         <p outputclass="List4">(D) Efforts are routine;</p>
+         <p outputclass="List4">(E) Programs are mature; or</p>
+         <p outputclass="List4">(F) Acquisition is a follow-on effort or
 a repetitive type acquisition.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The contracting officer may assign
+         <p outputclass="List3">(ii) The contracting officer may assign
 a value significantly below normal for -</p>
-         <p outputclass="List4" class="- topic/p ">(A) Routine services;</p>
-         <p outputclass="List4" class="- topic/p ">(B) Production of simple items;</p>
-         <p outputclass="List4" class="- topic/p ">(C) Rote entry or routine integration of
+         <p outputclass="List4">(A) Routine services;</p>
+         <p outputclass="List4">(B) Production of simple items;</p>
+         <p outputclass="List4">(C) Rote entry or routine integration of
 Government-furnished information; or</p>
-         <p outputclass="List4" class="- topic/p ">(D) Simple operations with Government-furnished
+         <p outputclass="List4">(D) Simple operations with Government-furnished
 property.</p>
-         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Technology incentive range.</i> (i)
+         <p outputclass="List2">(4) <i>Technology incentive range.</i> (i)
 The contracting officer may assign values within the technology
 incentive range when contract performance includes the introduction
 of new, significant technological innovation. Use the technology
 incentive range only for the most innovative contract efforts. Innovation
 may be in the form of -</p>
-         <p outputclass="List4" class="- topic/p ">(A) Development or application of new technology
+         <p outputclass="List4">(A) Development or application of new technology
 that fundamentally changes the characteristics of an existing product
 or system and that results in increased technical performance, improved
 reliability, or reduced costs; or</p>
-         <p outputclass="List4" class="- topic/p ">(B) New products or systems that contain
+         <p outputclass="List4">(B) New products or systems that contain
 significant technological advances over the products or systems
 they are replacing.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) When selecting a value within the
+         <p outputclass="List3">(ii) When selecting a value within the
 technology incentive range, the contracting officer should consider
 the relative value of the proposed innovation to the acquisition
 as a whole. When the innovation represents a minor benefit, the contracting
 officer should consider using values less than the norm. For innovative
 efforts that will have a major positive impact on the product or
 program, the contracting officer may use values above the norm.</p>
-         <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Evaluation criteria for management/cost
+         <p outputclass="List1">(e) <i>Evaluation criteria for management/cost
 control.</i> (1) The contracting officer should evaluate -</p>
-         <p outputclass="List3" class="- topic/p ">(i) The contractor's management and internal
+         <p outputclass="List3">(i) The contractor's management and internal
 control systems using contracting office data, information and reviews made
 by field contract administration offices or other DoD field offices;</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The management involvement expected
+         <p outputclass="List3">(ii) The management involvement expected
 on the prospective contract action;</p>
-         <p outputclass="List3" class="- topic/p ">(iii) The degree of cost mix as an indication
+         <p outputclass="List3">(iii) The degree of cost mix as an indication
 of the types of resources applied and value added by the contractor;</p>
-         <p outputclass="List3" class="- topic/p ">(iv) The contractor's support of Federal
+         <p outputclass="List3">(iv) The contractor's support of Federal
 socioeconomic programs;</p>
-         <p outputclass="List3" class="- topic/p ">(v) The expected reliability of the contractor's
+         <p outputclass="List3">(v) The expected reliability of the contractor's
 cost estimates (including the contractor's cost estimating system);</p>
-         <p outputclass="List3" class="- topic/p ">(vi) The adequacy of the contractor's management
+         <p outputclass="List3">(vi) The adequacy of the contractor's management
 approach to controlling cost and schedule; and</p>
-         <p outputclass="List3" class="- topic/p ">(vii) Any other factors that affect the
+         <p outputclass="List3">(vii) Any other factors that affect the
 contractor's ability to meet the cost targets (e.g., foreign currency
 exchange rates and inflation rates).</p>
-         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Above normal conditions.</i> (i)
+         <p outputclass="List2">(2) <i>Above normal conditions.</i> (i)
 The contracting officer may assign a higher than normal value when
 there is a high degree of management effort. Indicators of this
 are -</p>
-         <p outputclass="List4" class="- topic/p ">(A) The contractor's value added is both
+         <p outputclass="List4">(A) The contractor's value added is both
 considerable and reasonably difficult;</p>
-         <p outputclass="List4" class="- topic/p ">(B) The effort involves a high degree of
+         <p outputclass="List4">(B) The effort involves a high degree of
 integration or coordination;</p>
-         <p outputclass="List4" class="- topic/p ">(C) The contractor has a good record of
+         <p outputclass="List4">(C) The contractor has a good record of
 past performance;</p>
-         <p outputclass="List4" class="- topic/p ">(D) The contractor has a substantial record
+         <p outputclass="List4">(D) The contractor has a substantial record
 of active participation in Federal socioeconomic programs;</p>
-         <p outputclass="List4" class="- topic/p ">(E) The contractor provides fully documented
+         <p outputclass="List4">(E) The contractor provides fully documented
 and reliable cost estimates;</p>
-         <p outputclass="List4" class="- topic/p ">(F) The contractor makes appropriate make-or-buy
+         <p outputclass="List4">(F) The contractor makes appropriate make-or-buy
 decisions; or</p>
-         <p outputclass="List4" class="- topic/p ">(G) The contractor has a proven record
+         <p outputclass="List4">(G) The contractor has a proven record
 of cost tracking and control.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The contracting officer may justify
+         <p outputclass="List3">(ii) The contracting officer may justify
 a maximum value when the effort -</p>
-         <p outputclass="List4" class="- topic/p ">(A) Requires large scale integration of
+         <p outputclass="List4">(A) Requires large scale integration of
 the most complex nature;</p>
-         <p outputclass="List4" class="- topic/p ">(B) Involves major international activities
+         <p outputclass="List4">(B) Involves major international activities
 with significant management coordination (e.g., offsets with foreign
 vendors); or</p>
-         <p outputclass="List4" class="- topic/p ">(C) Has critically important milestones.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) If the contractor demonstrates efficient
+         <p outputclass="List4">(C) Has critically important milestones.</p>
+         <p outputclass="List3">(iii) If the contractor demonstrates efficient
 management and cost control through the submittal of a timely, qualifying proposal
 (as defined in217.7401) in furtherance of definitization of an undefinitized
 contract action, and the proposal demonstrates effective cost control
 from the time of award to the present, the contracting officer may
 add 1 percentage point to the value determined for management/cost
 control up to the maximum of 7 percent.</p>
-         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Below normal conditions.</i> (i)
+         <p outputclass="List2">(3) <i>Below normal conditions.</i> (i)
 The contracting officer may assign a lower than normal value when
 the management effort is minimal. Indicators of this are -</p>
-         <p outputclass="List4" class="- topic/p ">(A) The program is mature and many end
+         <p outputclass="List4">(A) The program is mature and many end
 item deliveries have been made;</p>
-         <p outputclass="List4" class="- topic/p ">(B) The contractor adds minimal value to
+         <p outputclass="List4">(B) The contractor adds minimal value to
 an item;</p>
-         <p outputclass="List4" class="- topic/p ">(C) The efforts are routine and require
+         <p outputclass="List4">(C) The efforts are routine and require
 minimal supervision;</p>
-         <p outputclass="List4" class="- topic/p ">(D) The contractor provides poor quality,
+         <p outputclass="List4">(D) The contractor provides poor quality,
 untimely proposals;</p>
-         <p outputclass="List4" class="- topic/p ">(E) The contractor fails to provide an
+         <p outputclass="List4">(E) The contractor fails to provide an
 adequate analysis of subcontractor costs;</p>
-         <p outputclass="List4" class="- topic/p ">(F) The contractor does not cooperate in
+         <p outputclass="List4">(F) The contractor does not cooperate in
 the evaluation and negotiation of the proposal;</p>
-         <p outputclass="List4" class="- topic/p ">(G) The contractor's cost estimating system
+         <p outputclass="List4">(G) The contractor's cost estimating system
 is marginal;</p>
-         <p outputclass="List4" class="- topic/p ">(H) The contractor has made minimal effort
+         <p outputclass="List4">(H) The contractor has made minimal effort
 to initiate cost reduction programs;</p>
-         <p outputclass="List4" class="- topic/p ">(I) The contractor's cost proposal is inadequate;</p>
-         <p outputclass="List4" class="- topic/p ">(J) The contractor has a record of cost
+         <p outputclass="List4">(I) The contractor's cost proposal is inadequate;</p>
+         <p outputclass="List4">(J) The contractor has a record of cost
 overruns or another indication of unreliable cost estimates and
 lack of cost control; or</p>
-         <p outputclass="List4" class="- topic/p ">(K) The contractor has a poor record of
+         <p outputclass="List4">(K) The contractor has a poor record of
 past performance.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The following may justify a value
+         <p outputclass="List3">(ii) The following may justify a value
 significantly below normal -</p>
-         <p outputclass="List4" class="- topic/p ">(A) Reviews performed by the field contract
+         <p outputclass="List4">(A) Reviews performed by the field contract
 administration offices disclose unsatisfactory management and internal control
 systems (e.g., quality assurance, property control, safety, security);
 or</p>
-         <p outputclass="List4" class="- topic/p ">(B) The effort requires an unusually low
+         <p outputclass="List4">(B) The effort requires an unusually low
 degree of management involvement.</p>
       </conbody>
    </concept>

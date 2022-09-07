@@ -1,47 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_204.7106"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">204.7106</ph> Contract modifications.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  If new items are added, assign new contract line or subline item numbers or exhibit line item numbers, in accordance with the procedures established at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.7103"
-                  href="204.7103.dita#DFARS_204.7103">204.7103</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_204.7106" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">204.7106</ph> Contract modifications.</title>
+      <conbody>
+         <p outputclass="List1">(a)  If new items are added, assign new contract line or subline item numbers or exhibit line item numbers, in accordance with the procedures established at 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-204.7103" href="204.7103.dita#DFARS_204.7103">204.7103</xref>
             , 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.7104"
-                  href="204.7104.dita#DFARS_204.7104">204.7104</xref>
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-204.7104" href="204.7104.dita#DFARS_204.7104">204.7104</xref>
             , and 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.7105"
-                  href="204.7105.dita#DFARS_204.7105">204.7105</xref>
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-204.7105" href="204.7105.dita#DFARS_204.7105">204.7105</xref>
             .</p>
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Modifications to existing contract line items or exhibit line items.</i>
+         <p outputclass="List1">(b)  <i>Modifications to existing contract line items or exhibit line items.</i>
          </p>
-         <p outputclass="List2" class="- topic/p ">(1)  If the modification relates to existing contract line items or exhibit line items, the modification shall refer to those item numbers.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  If the contracting officer decides to assign new identifications to existing contract or exhibit line items, the following rules apply—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  <i class="+ topic/ph hi-d/i ">Definitized and undefinitized items</i>.</p>
-         <p outputclass="List4" class="- topic/p ">(A)  The original line item or subline item number may be used if the modification applies to the total quantity of the original line item or subline.</p>
-         <p outputclass="List4" class="- topic/p ">(B)  The original line item or subline item number may be used if the modification makes only minor changes in the specifications of some of the items ordered on the original line item or subline item and the resulting changes in unit price can be averaged to provide a new single unit price for the total quantity.  If the changes in the specifications make the item significantly distinguishable from the original item or the resulting changes in unit price cannot be averaged, create a new line item.</p>
-         <p outputclass="List4" class="- topic/p ">(C)  If the modification affects only a partial quantity of an existing contract line item or subline item or exhibit line item and the change does not involve either the delivery date or the ship-to/mark-for data, the original contract line item or subline item or exhibit line item number shall remain with the unchanged quantity.  Assign the changed quantity the next available number.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  <i class="+ topic/ph hi-d/i ">Undefinitized items</i>.  In addition to the rules in paragraph (b)(2)(i), the following additional rules apply to undefinitized items—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  If the modification is undefinitized and increases the quantity of an existing definitized item, assign the undefinitized quantity the next available number.</p>
-         <p outputclass="List4" class="- topic/p ">(B)  If the modification increases the quantity of an existing undefinitized item, the original contract line item or subline item or exhibit line item may be used if the unit price for the new quantity is expected to be the same as the price for the original quantity.  If the unit prices of the two quantities will be different, assign the new quantity the next available number.</p>
-         <p outputclass="List4" class="- topic/p ">(C)  If the modification both affects only a partial quantity of the existing contract line item or subline item or exhibit line item and definitizes the price for the affected portion, the definitized portion shall retain the original item number.  If there is any undefinitized portion of the item, assign it the next available number.  However, if the modification definitizes the price for the whole quantity of the line item, and price impact of the changed work can be apportioned equally over the whole to arrive at a new unit price, the quantity with the changes can be added into the quantity of the existing item. </p>
-         <p outputclass="List4" class="- topic/p ">(D)  If the modification affects only a partial quantity of an existing contract line item or subline item or exhibit line item, but does not change the delivery schedule or definitize price, the unchanged portion shall retain the original contract line item or subline item or exhibit line item number.  Assign the changed portion the next available number.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  If the modification will decrease the amount obligated—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  There shall be coordination between the administrative and procuring contracting offices before issuance of the modification; and </p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The contracting officer shall not issue the modification unless sufficient unliquidated obligation exists or the purpose is to recover monies owed to the Government.</p>
+         <p outputclass="List2">(1)  If the modification relates to existing contract line items or exhibit line items, the modification shall refer to those item numbers.</p>
+         <p outputclass="List2">(2)  If the contracting officer decides to assign new identifications to existing contract or exhibit line items, the following rules apply—</p>
+         <p outputclass="List3">(i)  <i>Definitized and undefinitized items</i>.</p>
+         <p outputclass="List4">(A)  The original line item or subline item number may be used if the modification applies to the total quantity of the original line item or subline.</p>
+         <p outputclass="List4">(B)  The original line item or subline item number may be used if the modification makes only minor changes in the specifications of some of the items ordered on the original line item or subline item and the resulting changes in unit price can be averaged to provide a new single unit price for the total quantity.  If the changes in the specifications make the item significantly distinguishable from the original item or the resulting changes in unit price cannot be averaged, create a new line item.</p>
+         <p outputclass="List4">(C)  If the modification affects only a partial quantity of an existing contract line item or subline item or exhibit line item and the change does not involve either the delivery date or the ship-to/mark-for data, the original contract line item or subline item or exhibit line item number shall remain with the unchanged quantity.  Assign the changed quantity the next available number.</p>
+         <p outputclass="List3">(ii)  <i>Undefinitized items</i>.  In addition to the rules in paragraph (b)(2)(i), the following additional rules apply to undefinitized items—</p>
+         <p outputclass="List4">(A)  If the modification is undefinitized and increases the quantity of an existing definitized item, assign the undefinitized quantity the next available number.</p>
+         <p outputclass="List4">(B)  If the modification increases the quantity of an existing undefinitized item, the original contract line item or subline item or exhibit line item may be used if the unit price for the new quantity is expected to be the same as the price for the original quantity.  If the unit prices of the two quantities will be different, assign the new quantity the next available number.</p>
+         <p outputclass="List4">(C)  If the modification both affects only a partial quantity of the existing contract line item or subline item or exhibit line item and definitizes the price for the affected portion, the definitized portion shall retain the original item number.  If there is any undefinitized portion of the item, assign it the next available number.  However, if the modification definitizes the price for the whole quantity of the line item, and price impact of the changed work can be apportioned equally over the whole to arrive at a new unit price, the quantity with the changes can be added into the quantity of the existing item. </p>
+         <p outputclass="List4">(D)  If the modification affects only a partial quantity of an existing contract line item or subline item or exhibit line item, but does not change the delivery schedule or definitize price, the unchanged portion shall retain the original contract line item or subline item or exhibit line item number.  Assign the changed portion the next available number.</p>
+         <p outputclass="List2">(3)  If the modification will decrease the amount obligated—</p>
+         <p outputclass="List3">(i)  There shall be coordination between the administrative and procuring contracting offices before issuance of the modification; and </p>
+         <p outputclass="List3">(ii)  The contracting officer shall not issue the modification unless sufficient unliquidated obligation exists or the purpose is to recover monies owed to the Government.</p>
       </conbody>
    </concept>
 </dita>

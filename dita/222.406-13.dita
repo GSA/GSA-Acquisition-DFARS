@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_222.406-13"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">222.406-13</ph> Semiannual enforcement reports.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Forward these reports through the head of the contracting activity to the labor advisor within 15 days following the end of the reporting period.  These reports shall not include information from investigations conducted by the Department of Labor.  These reports shall contain the following information, as applicable, for construction work subject to the Construction Wage Rate Requirements statute and the CWHSS statute—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Period covered;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Number of prime contracts awarded;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Total dollar amount of prime contracts awarded;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Number of contractors/subcontractors against whom complaints were received;</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Number of investigations conducted;</p>
-         <p outputclass="List2" class="- topic/p ">(6)  Number of contractors/subcontractors found in violation;</p>
-         <p outputclass="List2" class="- topic/p ">(7)  Amount of wage restitution found due under—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Construction Wage Rate Requirements statute; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  CWHSS statute;</p>
-         <p outputclass="List2" class="- topic/p ">(8)  Number of employees due wage restitution under—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Construction Wage Rate Requirements statute; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  CWHSS statute;</p>
-         <p outputclass="List2" class="- topic/p ">(9)  Amount of liquidated damages assessed under the CWHSS statute—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Total amount; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Number of contracts involved;</p>
-         <p outputclass="List2" class="- topic/p ">(10)  Number of employees and amount paid/withheld under—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Construction Wage Rate Requirements statute;</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  CWHSS statute; and</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Copeland Act; and</p>
-         <p outputclass="List2" class="- topic/p ">(11)  Preconstruction activities—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Number of compliance checks performed</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Preconstruction letters sent.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_222.406-13" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">222.406-13</ph> Semiannual enforcement reports.</title>
+      <conbody>
+         <p>Forward these reports through the head of the contracting activity to the labor advisor within 15 days following the end of the reporting period.  These reports shall not include information from investigations conducted by the Department of Labor.  These reports shall contain the following information, as applicable, for construction work subject to the Construction Wage Rate Requirements statute and the CWHSS statute—</p>
+         <p outputclass="List2">(1)  Period covered;</p>
+         <p outputclass="List2">(2)  Number of prime contracts awarded;</p>
+         <p outputclass="List2">(3)  Total dollar amount of prime contracts awarded;</p>
+         <p outputclass="List2">(4)  Number of contractors/subcontractors against whom complaints were received;</p>
+         <p outputclass="List2">(5)  Number of investigations conducted;</p>
+         <p outputclass="List2">(6)  Number of contractors/subcontractors found in violation;</p>
+         <p outputclass="List2">(7)  Amount of wage restitution found due under—</p>
+         <p outputclass="List3">(i)  Construction Wage Rate Requirements statute; and</p>
+         <p outputclass="List3">(ii)  CWHSS statute;</p>
+         <p outputclass="List2">(8)  Number of employees due wage restitution under—</p>
+         <p outputclass="List3">(i)  Construction Wage Rate Requirements statute; and</p>
+         <p outputclass="List3">(ii)  CWHSS statute;</p>
+         <p outputclass="List2">(9)  Amount of liquidated damages assessed under the CWHSS statute—</p>
+         <p outputclass="List3">(i)  Total amount; and</p>
+         <p outputclass="List3">(ii)  Number of contracts involved;</p>
+         <p outputclass="List2">(10)  Number of employees and amount paid/withheld under—</p>
+         <p outputclass="List3">(i)  Construction Wage Rate Requirements statute;</p>
+         <p outputclass="List3">(ii)  CWHSS statute; and</p>
+         <p outputclass="List3">(iii)  Copeland Act; and</p>
+         <p outputclass="List2">(11)  Preconstruction activities—</p>
+         <p outputclass="List3">(i)  Number of compliance checks performed</p>
+         <p outputclass="List3">(ii)  Preconstruction letters sent.</p>
       </conbody>
    </concept>
 </dita>

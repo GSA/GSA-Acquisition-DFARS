@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_217.7404"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">217.7404</ph> Limitations.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">See PGI 217.7404 for additional guidance on obtaining approval to authorize use of an undefinitized contact action, documentation requirements, and other limitations on their use.</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Foreign military sales contracts. </i>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_217.7404" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">217.7404</ph> Limitations.</title>
+      <conbody>
+         <p>See PGI 217.7404 for additional guidance on obtaining approval to authorize use of an undefinitized contact action, documentation requirements, and other limitations on their use.</p>
+         <p outputclass="List1">(a)  <i>Foreign military sales contracts. </i>
          </p>
-         <p outputclass="List2" class="- topic/p ">(1)  A contracting officer may not enter into a UCA for a foreign military sale unless—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The UCA provides for agreement upon contractual terms, specifications, and price by the end of the 180-day period beginning on the date on which the contractor submits a qualifying proposal; and </p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The contracting officer obtains approval from the head of the contracting activity to enter into a UCA in accordance with 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1378502"
-                  href="217.7404-1.dita#DFARS_217.7404-1">217.7404-1</xref>
+         <p outputclass="List2">(1)  A contracting officer may not enter into a UCA for a foreign military sale unless—</p>
+         <p outputclass="List3">(i)  The UCA provides for agreement upon contractual terms, specifications, and price by the end of the 180-day period beginning on the date on which the contractor submits a qualifying proposal; and </p>
+         <p outputclass="List3">(ii)  The contracting officer obtains approval from the head of the contracting activity to enter into a UCA in accordance with 
+               <xref outputclass="fm:ParaNumOnly" base="i1378502" href="217.7404-1.dita#DFARS_217.7404-1">217.7404-1</xref>
             .  </p>
-         <p outputclass="List2" class="- topic/p ">(2)  The head of the contracting activity may waive the requirements of paragraph (a)(1) of this section, if a waiver is necessary in order to support any of the following operations: </p>
-         <p outputclass="List3" class="- topic/p ">(i)  A contingency operation.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  A humanitarian or peacekeeping operation.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Unilateral definitization by a contracting officer.  </i>Any UCA with a value greater than $50 million may not be unilaterally definitized until—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The earlier of—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The end of the 180-day period, beginning on the date on which the contractor submits a qualifying proposal to definitize the contractual terms, specifications, and price; or </p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The date on which the amount of funds expended under the contractual action is equal to more than 50 percent of the negotiated overall not-to-exceed price for the contractual action;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The head of the contracting activity, without power of redelegation, approves the definitization in writing;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The contracting officer provides a copy of the written approval to the contractor; and</p>
-         <p outputclass="List2" class="- topic/p ">(4)  A period of 30 calendar days has elapsed after the written approval is provided to the contractor.</p>
+         <p outputclass="List2">(2)  The head of the contracting activity may waive the requirements of paragraph (a)(1) of this section, if a waiver is necessary in order to support any of the following operations: </p>
+         <p outputclass="List3">(i)  A contingency operation.</p>
+         <p outputclass="List3">(ii)  A humanitarian or peacekeeping operation.</p>
+         <p outputclass="List1">(b)  <i>Unilateral definitization by a contracting officer.  </i>Any UCA with a value greater than $50 million may not be unilaterally definitized until—</p>
+         <p outputclass="List2">(1)  The earlier of—</p>
+         <p outputclass="List3">(i)  The end of the 180-day period, beginning on the date on which the contractor submits a qualifying proposal to definitize the contractual terms, specifications, and price; or </p>
+         <p outputclass="List3">(ii)  The date on which the amount of funds expended under the contractual action is equal to more than 50 percent of the negotiated overall not-to-exceed price for the contractual action;</p>
+         <p outputclass="List2">(2)  The head of the contracting activity, without power of redelegation, approves the definitization in writing;</p>
+         <p outputclass="List2">(3)  The contracting officer provides a copy of the written approval to the contractor; and</p>
+         <p outputclass="List2">(4)  A period of 30 calendar days has elapsed after the written approval is provided to the contractor.</p>
       </conbody>
    </concept>
 </dita>

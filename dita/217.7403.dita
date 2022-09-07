@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_217.7403"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">217.7403</ph> Policy.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">DoD policy is that undefinitized contract actions shall—</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Be used only when—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The negotiation of a definitive contract action is not possible in sufficient time to meet the Government's requirements; and</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The Government's interest demands that the contractor be given a binding commitment so that contract performance can begin immediately.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Be as complete and definite as practicable under the particular circumstances.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_217.7403" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">217.7403</ph> Policy.</title>
+      <conbody>
+         <p>DoD policy is that undefinitized contract actions shall—</p>
+         <p outputclass="List1">(a)  Be used only when—</p>
+         <p outputclass="List2">(1)  The negotiation of a definitive contract action is not possible in sufficient time to meet the Government's requirements; and</p>
+         <p outputclass="List2">(2)  The Government's interest demands that the contractor be given a binding commitment so that contract performance can begin immediately.</p>
+         <p outputclass="List1">(b)  Be as complete and definite as practicable under the particular circumstances.</p>
       </conbody>
    </concept>
 </dita>
