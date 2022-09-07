@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_242.7303"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 242.7303</ph> Responsibilities.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1)  The ACO is responsible for—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Determining the need for a CIPR in accordance with the procedures at PGI <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-242.7302"
-                  href="242.7302.dita#DFARS_242.7302">242.7302</xref>;</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Requesting and scheduling the reviews with the appropriate DCMA activity;</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Notifying the contractor of the proposed date and purpose of the review, and obtaining any preliminary data needed by the DCMA insurance/pension specialist or the DCAA auditor;</p>
-         <p outputclass="List3" class="- topic/p ">(iv)  Reviewing the CIPR report, advising the contractor of the recommendations contained within the report, considering contractor comments, and rendering a decision based on those recommendations;</p>
-         <p outputclass="List3" class="- topic/p ">(v)  Providing other interested contracting officers copies of documents related to the CIPR;</p>
-         <p outputclass="List3" class="- topic/p ">(vi)  Ensuring adequate follow-up on all CIPR recommendations; and</p>
-         <p outputclass="List3" class="- topic/p ">(vii)  Performing contract administration responsibilities related to Cost Accounting Standards administration as described in FAR Subparts 30.2 and 30.6.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The DCMA insurance/pension specialist is responsible for—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Issuing a technical report on the contractor’s insurance/pension plans for incorporation into the final CIPR report based on an analysis of the contractor’s pension plans, insurance programs, and other related data;</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Leading the team that conducts the review.  Another individual may serve as the team leader when both the insurance/pension specialist and that individual agree.  The team leader is responsible for—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  Maintaining complete documentation for CIPR reports;</p>
-         <p outputclass="List4" class="- topic/p ">(B)  To the extent possible, resolving discrepancies between audit reports and CIPR draft reports prior to releasing the final CIPR report;</p>
-         <p outputclass="List4" class="- topic/p ">(C)  Preparing and distributing the final CIPR report;</p>
-         <p outputclass="List4" class="- topic/p ">(D)  Providing the final audit report and/or the insurance/pension specialist’s report as an attachment to the CIPR report; and</p>
-         <p outputclass="List4" class="- topic/p ">(E)  Preparing a draft letter for the administrative contracting officer's use in notifying the contractor of CIPR results; and</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  When requested, advising administrative contracting officers and other Government representatives concerning contractor insurance/pension matters.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The DCAA auditor is responsible for—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Participating as a member of the CIPR team or serving as the team leader (see paragraph (2)(ii) of this section);</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Issuing an audit report for incorporation into the final CIPR report based on an analysis of the contractor’s books, accounting records, and other related data; and</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Performing contract audit responsibilities related to Cost Accounting Standards administration as described in FAR Subparts 30.2 and 30.6.</p>
-         <p class="- topic/p "/>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_242.7303" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 242.7303</ph> Responsibilities.</title>
+      <conbody>
+         <p outputclass="List2">(1)  The ACO is responsible for—</p>
+         <p outputclass="List3">(i)  Determining the need for a CIPR in accordance with the procedures at PGI <xref outputclass="fm:ParaNumOnly" base="DFARS-242.7302" href="242.7302.dita#DFARS_242.7302">242.7302</xref>;</p>
+         <p outputclass="List3">(ii)  Requesting and scheduling the reviews with the appropriate DCMA activity;</p>
+         <p outputclass="List3">(iii)  Notifying the contractor of the proposed date and purpose of the review, and obtaining any preliminary data needed by the DCMA insurance/pension specialist or the DCAA auditor;</p>
+         <p outputclass="List3">(iv)  Reviewing the CIPR report, advising the contractor of the recommendations contained within the report, considering contractor comments, and rendering a decision based on those recommendations;</p>
+         <p outputclass="List3">(v)  Providing other interested contracting officers copies of documents related to the CIPR;</p>
+         <p outputclass="List3">(vi)  Ensuring adequate follow-up on all CIPR recommendations; and</p>
+         <p outputclass="List3">(vii)  Performing contract administration responsibilities related to Cost Accounting Standards administration as described in FAR Subparts 30.2 and 30.6.</p>
+         <p outputclass="List2">(2)  The DCMA insurance/pension specialist is responsible for—</p>
+         <p outputclass="List3">(i)  Issuing a technical report on the contractor’s insurance/pension plans for incorporation into the final CIPR report based on an analysis of the contractor’s pension plans, insurance programs, and other related data;</p>
+         <p outputclass="List3">(ii)  Leading the team that conducts the review.  Another individual may serve as the team leader when both the insurance/pension specialist and that individual agree.  The team leader is responsible for—</p>
+         <p outputclass="List4">(A)  Maintaining complete documentation for CIPR reports;</p>
+         <p outputclass="List4">(B)  To the extent possible, resolving discrepancies between audit reports and CIPR draft reports prior to releasing the final CIPR report;</p>
+         <p outputclass="List4">(C)  Preparing and distributing the final CIPR report;</p>
+         <p outputclass="List4">(D)  Providing the final audit report and/or the insurance/pension specialist’s report as an attachment to the CIPR report; and</p>
+         <p outputclass="List4">(E)  Preparing a draft letter for the administrative contracting officer's use in notifying the contractor of CIPR results; and</p>
+         <p outputclass="List3">(iii)  When requested, advising administrative contracting officers and other Government representatives concerning contractor insurance/pension matters.</p>
+         <p outputclass="List2">(3)  The DCAA auditor is responsible for—</p>
+         <p outputclass="List3">(i)  Participating as a member of the CIPR team or serving as the team leader (see paragraph (2)(ii) of this section);</p>
+         <p outputclass="List3">(ii)  Issuing an audit report for incorporation into the final CIPR report based on an analysis of the contractor’s books, accounting records, and other related data; and</p>
+         <p outputclass="List3">(iii)  Performing contract audit responsibilities related to Cost Accounting Standards administration as described in FAR Subparts 30.2 and 30.6.</p>
+         <p></p>
       </conbody>
    </concept>
 </dita>

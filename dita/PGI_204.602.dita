@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_204.602"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 204.602</ph> General.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="jTCdXu" outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Helpful documents</i>.
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_204.602" outputclass="3" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">PGI 204.602</ph> General.</title>
+      <conbody>
+         <p id="jTCdXu" outputclass="List2">(1) <i>Helpful documents</i>.
 The Federal Procurement Data System (FPDS) website at https://www.fpds.gov
 provides useful documents and on-line training to assist with FPDS
 data entry. Key manuals can be found at the top of the website homepage
 under the “Training” and “Worksite” drop-down links to include:</p>
-         <p id="EaCBLn" outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">FPDS Data Element
+         <p id="EaCBLn" outputclass="List3">(i) <i>FPDS Data Element
 Dictionary</i>. The data dictionary outlines relevant information
 for each data field. The Data Dictionary identifies whether a data
 field is “Required,” “Optional,” “Propagates from the base action,”
@@ -26,11 +20,11 @@ It also identifies the source of data entry (e.g., Contracting Officer,
 System for Award Management (SAM), FPDS); the format of the field;
 and whether the field input is derived from entries in other fields.
 At the back of the Data Dictionary is a useful summary.</p>
-         <p id="uHoHLA" outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">FPDS Data Validations</i>.
+         <p id="uHoHLA" outputclass="List3">(ii) <i>FPDS Data Validations</i>.
 This document identifies all the validation rules that are applied
 to data entry. The majority of the rules apply Governmentwide. DoD
 specific validation rules appear at “5.5.1 DoD Specific Validations.”</p>
-         <p id="sBgNng" outputclass="List3" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">FPDS Users Manual</i>.
+         <p id="sBgNng" outputclass="List3">(iii) <i>FPDS Users Manual</i>.
 This manual provides guidance on the various types of data entry
 screens and addresses whether a particular field is: “[R]” – requires
 contracting officer/buyer entry; “[A]” – pre-populated by FPDS or
@@ -42,36 +36,33 @@ requirements. To determine DoD-specific requirements, refer to J3
 FPDS User Manual is not a policy document; it is intended only for
 general guidance. Refer to this PGI section for specific FPDS reporting
 entries.</p>
-         <p id="ijZoDN" outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Reporting technical
+         <p id="ijZoDN" outputclass="List2">(2) <i>Reporting technical
 or policy issues</i>.</p>
-         <p id="jaxarY" outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Technical issues</i>.
+         <p id="jaxarY" outputclass="List3">(i) <i>Technical issues</i>.
 To report an FPDS technical issue—</p>
-         <p id="KJcVTV" outputclass="List4" class="- topic/p ">(A)(<i class="+ topic/ph hi-d/i ">1</i>) Users of the
+         <p id="KJcVTV" outputclass="List4">(A)(<i>1</i>) Users of the
 Standard Procurement System (SPS) should contact their local SPS
 Help Desk (authorized SPS caller);</p>
-         <p id="ULmonp" outputclass="List6" class="- topic/p ">(2) Users of other contract
+         <p id="ULmonp" outputclass="List6">(2) Users of other contract
 writing systems should contact the local contract writing system
 administrator to determine the appropriate procedures; and</p>
-         <p id="GfjdgJ" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) Web users should
+         <p id="GfjdgJ" outputclass="List6">(<i>3</i>) Web users should
 contact their local system administrator, who will then contact
 the FPDS Help Desk; or</p>
-         <p id="eGYJcg" outputclass="List4" class="- topic/p ">(B) If the issue is an obvious
+         <p id="eGYJcg" outputclass="List4">(B) If the issue is an obvious
 FPDS technical issue that needs to be documented and corrected by
 the system, the user should contact the Federal Service Desk (FSD),
 by telephone at 866-606-8220 (U.S. or DSN), or 334-206-7828 (International),
 or submit a comment or request at www.fsd.gov. When e-mailing FSD,
 also send a copy to the applicable agency representative identified
 in paragraph (2)(iii) of this section.</p>
-         <p id="Djdihk" outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Policy issues</i>.
+         <p id="Djdihk" outputclass="List3">(ii) <i>Policy issues</i>.
 Report policy issues to the applicable agency representative identified
 in paragraph (2)(iii) of this section.</p>
-         <p id="dLgEcX" outputclass="List3" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">Agency representatives</i>.
+         <p id="dLgEcX" outputclass="List3">(iii) <i>Agency representatives</i>.
 Department and component FPDS representatives and their contact
 information can be found on the DPC website at
-               <xref href="https://www.acq.osd.mil/asda/dpc/ce/cap/fpds.html#data-improvement"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/cap/fpds.html#data-improvement</xref>
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/cap/fpds.html#data-improvement" format="html" scope="external">https://www.acq.osd.mil/asda/dpc/ce/cap/fpds.html#data-improvement</xref>
              under
 “Additional Resources.”</p>
       </conbody>

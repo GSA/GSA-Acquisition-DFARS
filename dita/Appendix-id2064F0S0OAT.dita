@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="id2064F0S0OAT"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title "> 
-         <ph props="autonumber" class="- topic/ph ">I-112.1</ph> Reporting requirements applicable to Individual Subcontract Reports <ph rev="Revised August 25, 2022">(ISR), Summary Subcontract Reports (SSR) and Standard Forms 294</ph>.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Amounts credited toward applicable subcontracting goal(s) for unreimbursed costs under the Program must be separately identified on the appropriate ISR, SSR or SF 294 from the amounts credited toward the goal(s) resulting from the award of actual subcontracts to protege firms. The combination of the two must equal the mentor firm's overall accomplishment toward the applicable goal(s).</p>
-         <p outputclass="List1" class="- topic/p ">(b) A mentor firm may receive credit toward the attainment of an applicable subcontracting goal for each subcontract awarded by the mentor firm to an entity that qualifies as a protege firm pursuant to I-102(b).</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="id2064F0S0OAT" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">I-112.1</ph> Reporting requirements applicable to Individual Subcontract Reports <ph rev="Revised August 25, 2022">(ISR), Summary Subcontract Reports (SSR) and Standard Forms 294</ph>.</title>
+      <conbody>
+         <p outputclass="List1">(a) Amounts credited toward applicable subcontracting goal(s) for unreimbursed costs under the Program must be separately identified on the appropriate ISR, SSR or SF 294 from the amounts credited toward the goal(s) resulting from the award of actual subcontracts to protege firms. The combination of the two must equal the mentor firm's overall accomplishment toward the applicable goal(s).</p>
+         <p outputclass="List1">(b) A mentor firm may receive credit toward the attainment of an applicable subcontracting goal for each subcontract awarded by the mentor firm to an entity that qualifies as a protege firm pursuant to I-102(b).</p>
       </conbody>
    </concept>
 </dita>

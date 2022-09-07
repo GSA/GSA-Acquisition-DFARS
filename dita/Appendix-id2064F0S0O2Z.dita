@@ -1,49 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="id2064F0S0O2Z"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">I-112.2</ph> Program specific reporting requirements.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Mentors must report on the progress made under active mentor-protege agreements semiannually for the periods ending March 31st and September 30st throughout the Program participation term of the agreement. The September 30th report must address the entire fiscal year.</p>
-         <p outputclass="List2" class="- topic/p ">(1) Reports are due 30 days after the close of each reporting period.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Each report must include the following data on performance under the mentor-protege agreement:</p>
-         <p outputclass="List3" class="- topic/p ">(i) Dollars obligated (for reimbursable agreements).</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Expenditures.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Dollars credited, if any, toward applicable subcontracting goals as a result of developmental assistance provided to the protege and a copy of the ISR or SF 294 and/or SSR for each contract where developmental assistance was credited.</p>
-         <p outputclass="List3" class="- topic/p ">(iv) Any new awards of subcontracts on a competitive or noncompetitive basis to the protege firm under DoD contracts or other contracts, including the value of such subcontracts.</p>
-         <p outputclass="List3" class="- topic/p ">(v) All technical or management assistance provided by mentor firm personnel for the purposes described in I-106(d).</p>
-         <p outputclass="List3" class="- topic/p ">(vi) Any extensions, increases in the scope of work, or additional payments not previously reported for prior awards of subcontracts on a competitive or noncompetitive basis to the protege firm under DoD contracts or other contracts, including the value of such subcontracts.</p>
-         <p outputclass="List3" class="- topic/p ">(vii) The amount of any payment of progress payments or advance payments made to the protege firm for performance under any subcontract made under the Program.</p>
-         <p outputclass="List3" class="- topic/p ">(viii) Any loans made by the mentor firm to the protege firm.</p>
-         <p outputclass="List3" class="- topic/p ">(ix) All Federal contracts awarded to the mentor firm and the protege firm as a joint venture, designating whether the award was a restricted competition or a full and open competition.</p>
-         <p outputclass="List2" class="- topic/p ">(x) Any assistance obtained by the mentor firm for the protege firm from the entities listed at I-106(d)(6).</p>
-         <p outputclass="List3" class="- topic/p ">(xi) Whether there have been any changes to the terms of the mentor-protege agreement.</p>
-         <p outputclass="List3" class="- topic/p ">(xii) A narrative describing the following:</p>
-         <p outputclass="List4" class="- topic/p ">(A) The success <ph rev="Revised August 25, 2022">developmental</ph> assistance provided under I-106(d) has had in addressing the developmental needs of the protege firm.</p>
-         <p outputclass="List4" class="- topic/p ">(B) The impact on DoD contracts<ph rev="Revised August 25, 2022">, including but not limited to the transition of innovative technology into a program of record</ph>.</p>
-         <p outputclass="List4" class="- topic/p ">(C) Any problems encountered.</p>
-         <p outputclass="List4" class="- topic/p ">(D) Any milestones achieved in the protege firm’s developmental program.</p>
-         <p outputclass="List4" class="- topic/p ">(E) Impact of the agreement in terms of capabilities enhanced, certifications received, and technology transferred.</p>
-         <p outputclass="List2" class="- topic/p ">(3) In accordance with section 861, paragraph (b)(2), of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92), the reporting requirements specified in paragraphs (a)(2)(iv) through (a)(2)(xii)(C) of this section apply retroactively to mentor-protege agreements that were in effect on November 25, 2015. Mentors must submit reports as described in paragraph (a) of this section.</p>
-         <p outputclass="List2" class="- topic/p ">(4) A recommended reporting format and guidance for its submission are available at <ph rev="Revised August 25, 2022">
-               <xref href="https://business.defense.gov/Programs/Mentor-Prot%C3%A9g%C3%A9-Program/MPP-Resources/"
-                     format="html"
-                     scope="external"/>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="id2064F0S0O2Z" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">I-112.2</ph> Program specific reporting requirements.</title>
+      <conbody>
+         <p outputclass="List1">(a) Mentors must report on the progress made under active mentor-protege agreements semiannually for the periods ending March 31st and September 30st throughout the Program participation term of the agreement. The September 30th report must address the entire fiscal year.</p>
+         <p outputclass="List2">(1) Reports are due 30 days after the close of each reporting period.</p>
+         <p outputclass="List2">(2) Each report must include the following data on performance under the mentor-protege agreement:</p>
+         <p outputclass="List3">(i) Dollars obligated (for reimbursable agreements).</p>
+         <p outputclass="List3">(ii) Expenditures.</p>
+         <p outputclass="List3">(iii) Dollars credited, if any, toward applicable subcontracting goals as a result of developmental assistance provided to the protege and a copy of the ISR or SF 294 and/or SSR for each contract where developmental assistance was credited.</p>
+         <p outputclass="List3">(iv) Any new awards of subcontracts on a competitive or noncompetitive basis to the protege firm under DoD contracts or other contracts, including the value of such subcontracts.</p>
+         <p outputclass="List3">(v) All technical or management assistance provided by mentor firm personnel for the purposes described in I-106(d).</p>
+         <p outputclass="List3">(vi) Any extensions, increases in the scope of work, or additional payments not previously reported for prior awards of subcontracts on a competitive or noncompetitive basis to the protege firm under DoD contracts or other contracts, including the value of such subcontracts.</p>
+         <p outputclass="List3">(vii) The amount of any payment of progress payments or advance payments made to the protege firm for performance under any subcontract made under the Program.</p>
+         <p outputclass="List3">(viii) Any loans made by the mentor firm to the protege firm.</p>
+         <p outputclass="List3">(ix) All Federal contracts awarded to the mentor firm and the protege firm as a joint venture, designating whether the award was a restricted competition or a full and open competition.</p>
+         <p outputclass="List2">(x) Any assistance obtained by the mentor firm for the protege firm from the entities listed at I-106(d)(6).</p>
+         <p outputclass="List3">(xi) Whether there have been any changes to the terms of the mentor-protege agreement.</p>
+         <p outputclass="List3">(xii) A narrative describing the following:</p>
+         <p outputclass="List4">(A) The success <ph rev="Revised August 25, 2022">developmental</ph> assistance provided under I-106(d) has had in addressing the developmental needs of the protege firm.</p>
+         <p outputclass="List4">(B) The impact on DoD contracts<ph rev="Revised August 25, 2022">, including but not limited to the transition of innovative technology into a program of record</ph>.</p>
+         <p outputclass="List4">(C) Any problems encountered.</p>
+         <p outputclass="List4">(D) Any milestones achieved in the protege firm’s developmental program.</p>
+         <p outputclass="List4">(E) Impact of the agreement in terms of capabilities enhanced, certifications received, and technology transferred.</p>
+         <p outputclass="List2">(3) In accordance with section 861, paragraph (b)(2), of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92), the reporting requirements specified in paragraphs (a)(2)(iv) through (a)(2)(xii)(C) of this section apply retroactively to mentor-protege agreements that were in effect on November 25, 2015. Mentors must submit reports as described in paragraph (a) of this section.</p>
+         <p outputclass="List2">(4) A recommended reporting format and guidance for its submission are available at <ph rev="Revised August 25, 2022">
+               <xref href="https://business.defense.gov/Programs/Mentor-Prot%C3%A9g%C3%A9-Program/MPP-Resources/" format="html" scope="external" />
             </ph>.</p>
-         <p outputclass="List1" class="- topic/p ">(b) The protege must provide data, annually by October 31st, on the progress made during the prior fiscal year by the protege in employment, revenues, and participation in DoD contracts during—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Each fiscal year of the Program participation term; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) Each of the 2 fiscal years following the expiration of the Program participation term.</p>
-         <p outputclass="List1" class="- topic/p ">(c) The protege report required by paragraph (b) of this section may be provided as part of the mentor report for the period ending September 30th required by paragraph (a) of this section.</p>
-         <p outputclass="List1" class="- topic/p ">(d) Progress reports must be submitted—</p>
-         <p outputclass="List2" class="- topic/p ">(1) For credit agreements, to the Director, <ph rev="Revised August 25, 2022">O</ph>SBP, <ph rev="Revised August 25, 2022">of the military department or defense agency</ph> that approved the agreement, and the mentor’s cognizant DCMA administrative contracting officer; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) For reimbursable agreements, to the Director, <ph rev="Revised August 25, 2022">O</ph>SBP, <ph rev="Revised August 25, 2022">of the military department or defense agency,</ph> the contracting officer, the DCMA administrative contracting officer, and the program manager.</p>
+         <p outputclass="List1">(b) The protege must provide data, annually by October 31st, on the progress made during the prior fiscal year by the protege in employment, revenues, and participation in DoD contracts during—</p>
+         <p outputclass="List2">(1) Each fiscal year of the Program participation term; and</p>
+         <p outputclass="List2">(2) Each of the 2 fiscal years following the expiration of the Program participation term.</p>
+         <p outputclass="List1">(c) The protege report required by paragraph (b) of this section may be provided as part of the mentor report for the period ending September 30th required by paragraph (a) of this section.</p>
+         <p outputclass="List1">(d) Progress reports must be submitted—</p>
+         <p outputclass="List2">(1) For credit agreements, to the Director, <ph rev="Revised August 25, 2022">O</ph>SBP, <ph rev="Revised August 25, 2022">of the military department or defense agency</ph> that approved the agreement, and the mentor’s cognizant DCMA administrative contracting officer; and</p>
+         <p outputclass="List2">(2) For reimbursable agreements, to the Director, <ph rev="Revised August 25, 2022">O</ph>SBP, <ph rev="Revised August 25, 2022">of the military department or defense agency,</ph> the contracting officer, the DCMA administrative contracting officer, and the program manager.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS_PGI_PART_242">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI Part 242</ph> - CONTRACT ADMINISTRATION</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DFARS_PGI_PART_242" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI Part 242</ph> - CONTRACT ADMINISTRATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -24,14 +23,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="PGI_242.302Surveillance.dita#DFARS_PGI_PGI_242.302Surveillance">PGI 242.302 (a)(S-72) —Surveillance of the contractors implementation of the Synchronized Predeployment and Operational Tracker (SPOT)</xref>
+                        <xref outputclass="fm:TOC" href="PGI_242.302Surveillance.dita#DFARS_PGI_PGI_242.302Surveillance">PGI 242.302 (a)(S-72) —Surveillance of the contractors implementation of the Synchronized Predeployment and Operational Tracker (SPOT)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="PGI_242.302Monitoring.dita#DFARS_PGI_PGI_242.302Monitoring">PGI 242.302 (a)(S-75) —Monitoringcontractor costs</xref>
+                        <xref outputclass="fm:TOC" href="PGI_242.302Monitoring.dita#DFARS_PGI_PGI_242.302Monitoring">PGI 242.302 (a)(S-75) —Monitoringcontractor costs</xref>
                      </p>
                   </li>
                </ul>

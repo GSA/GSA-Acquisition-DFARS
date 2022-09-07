@@ -1,668 +1,648 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_ASSIGNMENTS_PART6"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">ASSIGNMENTS_PART6</ph> -GENERAL SERVICES ADMINISTRATION ASSIGNMENTS</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="15*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="85*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Federal</p>
-                        <p class="- topic/p ">Supply</p>
-                        <p class="- topic/p ">Class Code</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_ASSIGNMENTS_PART6" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">ASSIGNMENTS_PART6</ph> -GENERAL SERVICES ADMINISTRATION ASSIGNMENTS</title>
+      <conbody>
+         <table frame="all" colsep="0" rowsep="0">
+            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="15*" colsep="0" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="85*" colsep="0" rowheader="headers" />
+               <tbody>
+                  <row rowsep="0">
+                     <entry>
+                        <p>Federal</p>
+                        <p>Supply</p>
+                        <p>Class Code</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                        <p class="- topic/p ">Commodity</p>
+                     <entry>
+                        <p></p>
+                        <p>Commodity</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">2310 P</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Passenger Motor Vehicles</p>
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">2320 P</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>2310 P</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Trucks and Truck Tractors</p>
-                        <p class="- topic/p ">These two partial assignments apply to all commercial, non-tactical, passenger carrying vehicles and trucks except the following types which are assigned for DoD Coordinated Acquisition to the Department of the Army—</p>
-                        <p class="- topic/p ">Bus, convertible to ambulance</p>
-                        <p class="- topic/p ">Truck, 4x4, convertible to ambulance</p>
-                        <p class="- topic/p ">Truck, 4x4, dump, 9,000 pounds GVW, with cut-down cab</p>
-                        <p class="- topic/p ">(See Army Coordinated Acquisition assignments in FSC 2310 and 2320.)</p>
+                     <entry>
+                        <p>Passenger Motor Vehicles</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">3540</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>2320 P</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Wrapping and Packaging Machinery</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">3550</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Vending and Coin Operated Machines</p>
+                     <entry>
+                        <p>Trucks and Truck Tractors</p>
+                        <p>These two partial assignments apply to all commercial, non-tactical, passenger carrying vehicles and trucks except the following types which are assigned for DoD Coordinated Acquisition to the Department of the Army—</p>
+                        <p>Bus, convertible to ambulance</p>
+                        <p>Truck, 4x4, convertible to ambulance</p>
+                        <p>Truck, 4x4, dump, 9,000 pounds GVW, with cut-down cab</p>
+                        <p>(See Army Coordinated Acquisition assignments in FSC 2310 and 2320.)</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">3590</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>3540</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Miscellaneous Service and Trade Equipment</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">3750</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Gardening Implements and Tools</p>
+                     <entry>
+                        <p>Wrapping and Packaging Machinery</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5110</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>3550</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Hand Tools, Edged, Nonpowered</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5120</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Hand Tools, Nonedged, Nonpowered</p>
+                     <entry>
+                        <p>Vending and Coin Operated Machines</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5130</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>3590</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Hand Tools, Power Driven</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5133</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Drill Bits, Counterbores, and Countersinks; Hand and Machine</p>
+                     <entry>
+                        <p>Miscellaneous Service and Trade Equipment</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5136</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>3750</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Taps, Dies, and Collects; Hand and Machine</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5140</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Tool and Hardware Boxes</p>
+                     <entry>
+                        <p>Gardening Implements and Tools</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5180</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5110</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Sets, Kits, and Outfits of Hand Tools</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5210</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Measuring Tools, Craftmen’s</p>
+                     <entry>
+                        <p>Hand Tools, Edged, Nonpowered</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5345</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5120</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Disks and Stones, Abrasive</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5350</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Abrasive Materials</p>
+                     <entry>
+                        <p>Hand Tools, Nonedged, Nonpowered</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5610</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5130</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Mineral Construction Materials, Bulk</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5620</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Building Glass, Tile, Brick, and Block</p>
+                     <entry>
+                        <p>Hand Tools, Power Driven</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5630</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5133</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Pipe and Conduit, Nonmetallic</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5640</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Wallboard, Building Paper, and Thermal Insulation Materials</p>
+                     <entry>
+                        <p>Drill Bits, Counterbores, and Countersinks; Hand and Machine</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5650</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5136</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Roofing and Siding Materials</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5670</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Architectural and Related Metal Products</p>
+                     <entry>
+                        <p>Taps, Dies, and Collects; Hand and Machine</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">5680 P*</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5140</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Miscellaneous Construction Materials</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7105</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Household Furniture</p>
+                     <entry>
+                        <p>Tool and Hardware Boxes</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7110</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5180</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Office Furniture</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7125</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Cabinets, Lockers, Bins, and Shelving</p>
+                     <entry>
+                        <p>Sets, Kits, and Outfits of Hand Tools</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7195</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5210</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Miscellaneous Furniture and Fixtures</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7220</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Floor Coverings</p>
+                     <entry>
+                        <p>Measuring Tools, Craftmen’s</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7230</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5345</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Draperies, Awnings, and Shades</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7240</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Household and Commercial Utility Containers</p>
+                     <entry>
+                        <p>Disks and Stones, Abrasive</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7290</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5350</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Miscellaneous Household and Commercial Furnishings and Appliances</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7330</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Kitchen Hand Tools and Utensils</p>
+                     <entry>
+                        <p>Abrasive Materials</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7340</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5610</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Cutlery and Flatware</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7350</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Tableware</p>
+                     <entry>
+                        <p>Mineral Construction Materials, Bulk</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7410</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5620</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Punched Card System Machines</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7420</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Accounting and Calculating Machines</p>
+                     <entry>
+                        <p>Building Glass, Tile, Brick, and Block</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5630</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                     <entry>
+                        <p>Pipe and Conduit, Nonmetallic</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry " namest="1" nameend="2">
-                        <p class="- topic/p ">(“P” after FSC number indicates partial FSC
+                  <row rowsep="0">
+                     <entry>
+                        <p>5640</p>
+                     </entry>
+                     <entry>
+                        <p>Wallboard, Building Paper, and Thermal Insulation Materials</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5650</p>
+                     </entry>
+                     <entry>
+                        <p>Roofing and Siding Materials</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5670</p>
+                     </entry>
+                     <entry>
+                        <p>Architectural and Related Metal Products</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>5680 P*</p>
+                     </entry>
+                     <entry>
+                        <p>Miscellaneous Construction Materials</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7105</p>
+                     </entry>
+                     <entry>
+                        <p>Household Furniture</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7110</p>
+                     </entry>
+                     <entry>
+                        <p>Office Furniture</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7125</p>
+                     </entry>
+                     <entry>
+                        <p>Cabinets, Lockers, Bins, and Shelving</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7195</p>
+                     </entry>
+                     <entry>
+                        <p>Miscellaneous Furniture and Fixtures</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7220</p>
+                     </entry>
+                     <entry>
+                        <p>Floor Coverings</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7230</p>
+                     </entry>
+                     <entry>
+                        <p>Draperies, Awnings, and Shades</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7240</p>
+                     </entry>
+                     <entry>
+                        <p>Household and Commercial Utility Containers</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7290</p>
+                     </entry>
+                     <entry>
+                        <p>Miscellaneous Household and Commercial Furnishings and Appliances</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7330</p>
+                     </entry>
+                     <entry>
+                        <p>Kitchen Hand Tools and Utensils</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7340</p>
+                     </entry>
+                     <entry>
+                        <p>Cutlery and Flatware</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7350</p>
+                     </entry>
+                     <entry>
+                        <p>Tableware</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7410</p>
+                     </entry>
+                     <entry>
+                        <p>Punched Card System Machines</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7420</p>
+                     </entry>
+                     <entry>
+                        <p>Accounting and Calculating Machines</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
+                     </entry>
+                     <entry>
+                        <p></p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry namest="1" nameend="2">
+                        <p>(“P” after FSC number indicates partial FSC
                            assignment.)</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7430</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Typewriters and Office-type Composing Machines</p>
-                        <p class="- topic/p ">This assignment does not apply to machines controlled by the Congressional Joint Committee on Printing.</p>
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7450</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7430</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Office-type Sound Recording and Reproducing Machines</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7460</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Visible Record Equipment</p>
+                     <entry>
+                        <p>Typewriters and Office-type Composing Machines</p>
+                        <p>This assignment does not apply to machines controlled by the Congressional Joint Committee on Printing.</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7490</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7450</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Miscellaneous Office Machines</p>
-                        <p class="- topic/p ">This assignment does not apply to equipment controlled by the Congressional Joint Committee on Printing.</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7510</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Office Supplies</p>
-                        <p class="- topic/p ">This assignment does not apply to office supplies, including special inks, when DoD requirements of such items are acquired through Government Printing Office channels.</p>
+                     <entry>
+                        <p>Office-type Sound Recording and Reproducing Machines</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7520</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7460</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Office Devices and Accessories</p>
-                        <p class="- topic/p ">This assignment does not apply to office devices and accessories when DoD requirements of such items are acquired through Government Printing Office channels.</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7530</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Stationery and Record Forms</p>
-                        <p class="- topic/p ">This assignment does not apply to stationery and record forms when DoD requirements of such items are acquired through Government Printing Office channels including those items covered by term contracts issued by GPO for tabulating cards and marginally punched continuous forms.</p>
+                     <entry>
+                        <p>Visible Record Equipment</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7710</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7490</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Musical Instruments</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7720</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Musical Instrument Parts and Accessories</p>
+                     <entry>
+                        <p>Miscellaneous Office Machines</p>
+                        <p>This assignment does not apply to equipment controlled by the Congressional Joint Committee on Printing.</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7730</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7510</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Phonographs, Radios, and Television Sets; Home Type</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7740</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Phonograph Records</p>
+                     <entry>
+                        <p>Office Supplies</p>
+                        <p>This assignment does not apply to office supplies, including special inks, when DoD requirements of such items are acquired through Government Printing Office channels.</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7810</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7520</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Athletic and Sporting Equipment</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7820</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Games, Toys, and Wheeled Goods</p>
+                     <entry>
+                        <p>Office Devices and Accessories</p>
+                        <p>This assignment does not apply to office devices and accessories when DoD requirements of such items are acquired through Government Printing Office channels.</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7830</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7530</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Recreational and Gymnastic Equipment</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7910</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Floor Polishers and Vacuum Cleaning Equipment</p>
+                     <entry>
+                        <p>Stationery and Record Forms</p>
+                        <p>This assignment does not apply to stationery and record forms when DoD requirements of such items are acquired through Government Printing Office channels including those items covered by term contracts issued by GPO for tabulating cards and marginally punched continuous forms.</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7920</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7710</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Brooms, Brushes, Mops, and Sponges</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">7930</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Cleaning and Polishing Compounds and Preparations</p>
+                     <entry>
+                        <p>Musical Instruments</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8010</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7720</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Paints, Dopes, Varnishes, and Related Products</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8020</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Paint and Artists Brushes</p>
+                     <entry>
+                        <p>Musical Instrument Parts and Accessories</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8030</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7730</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Preservative and Sealing Compounds</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8040</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Adhesives</p>
+                     <entry>
+                        <p>Phonographs, Radios, and Television Sets; Home Type</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8105</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7740</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Bags and Sacks</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8115</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Boxes, Cartons and Crates</p>
+                     <entry>
+                        <p>Phonograph Records</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8135</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7810</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Packaging and Packing Bulk Materials</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8510</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Perfumes, Toilet Preparations and Powders</p>
+                     <entry>
+                        <p>Athletic and Sporting Equipment</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8520</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7820</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Toilet Soap, Shaving Preparations and Dentifrices</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8530</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Personal Toiletry Articles</p>
+                     <entry>
+                        <p>Games, Toys, and Wheeled Goods</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8540</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7830</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Toiletry Paper Products</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8710</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Forage and Feed</p>
+                     <entry>
+                        <p>Recreational and Gymnastic Equipment</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8720</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7910</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Fertilizers</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">8730</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Seeds and Nursery Stock</p>
+                     <entry>
+                        <p>Floor Polishers and Vacuum Cleaning Equipment</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9310</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7920</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Paper and Paperboard</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Signs, Advertising Displays, and Identification Plates</p>
+                     <entry>
+                        <p>Brooms, Brushes, Mops, and Sponges</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9910</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>7930</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Jewelry</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9915</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Collector's Items</p>
+                     <entry>
+                        <p>Cleaning and Polishing Compounds and Preparations</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">9920</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8010</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Smokers' Articles and Matches</p>
+                     <entry>
+                        <p>Paints, Dopes, Varnishes, and Related Products</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8020</p>
+                     </entry>
+                     <entry>
+                        <p>Paint and Artists Brushes</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8030</p>
+                     </entry>
+                     <entry>
+                        <p>Preservative and Sealing Compounds</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8040</p>
+                     </entry>
+                     <entry>
+                        <p>Adhesives</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8105</p>
+                     </entry>
+                     <entry>
+                        <p>Bags and Sacks</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8115</p>
+                     </entry>
+                     <entry>
+                        <p>Boxes, Cartons and Crates</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8135</p>
+                     </entry>
+                     <entry>
+                        <p>Packaging and Packing Bulk Materials</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8510</p>
+                     </entry>
+                     <entry>
+                        <p>Perfumes, Toilet Preparations and Powders</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8520</p>
+                     </entry>
+                     <entry>
+                        <p>Toilet Soap, Shaving Preparations and Dentifrices</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8530</p>
+                     </entry>
+                     <entry>
+                        <p>Personal Toiletry Articles</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8540</p>
+                     </entry>
+                     <entry>
+                        <p>Toiletry Paper Products</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8710</p>
+                     </entry>
+                     <entry>
+                        <p>Forage and Feed</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8720</p>
+                     </entry>
+                     <entry>
+                        <p>Fertilizers</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>8730</p>
+                     </entry>
+                     <entry>
+                        <p>Seeds and Nursery Stock</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>9310</p>
+                     </entry>
+                     <entry>
+                        <p>Paper and Paperboard</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
+                     </entry>
+                     <entry>
+                        <p>Signs, Advertising Displays, and Identification Plates</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>9910</p>
+                     </entry>
+                     <entry>
+                        <p>Jewelry</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>9915</p>
+                     </entry>
+                     <entry>
+                        <p>Collector's Items</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry>
+                        <p>9920</p>
+                     </entry>
+                     <entry>
+                        <p>Smokers' Articles and Matches</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p ">FOOTNOTES:</p>
-         <p class="- topic/p ">These GSA assignments do not apply to items as described under FSC 7430, 7490, 7510, 7520, and 7530, and those items in the GSA assigned federal supply classes which have been retained for DLA supply management as listed in the applicable Federal Supply Catalog Management Data lists. In addition, see DFARS Subpart 208.70, which describes conditions under which a military service may contract for military service managed items in GSA assigned federal supply classes.</p>
-         <p class="- topic/p ">*This partial FSC assignment does not include landing mats which are assigned to the Defense Logistics Agency.</p>
+         <p>FOOTNOTES:</p>
+         <p>These GSA assignments do not apply to items as described under FSC 7430, 7490, 7510, 7520, and 7530, and those items in the GSA assigned federal supply classes which have been retained for DLA supply management as listed in the applicable Federal Supply Catalog Management Data lists. In addition, see DFARS Subpart 208.70, which describes conditions under which a military service may contract for military service managed items in GSA assigned federal supply classes.</p>
+         <p>*This partial FSC assignment does not include landing mats which are assigned to the Defense Logistics Agency.</p>
       </conbody>
    </concept>
 </dita>

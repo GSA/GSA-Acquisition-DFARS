@@ -1,52 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.249-7002"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.249-7002</ph> Notification of Anticipated Contract Termination or Reduction.</title>
-      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-249.7004"
-                  href="249.7004.dita#DFARS_249.7004">249.7004</xref>, use the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">NOTIFICATION OF ANTICIPATED CONTRACT TERMINATION OR REDUCTION (JUN 2020)</p>
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As use in this clause—</p>
-         <p class="- topic/p ">“Major defense program” means a program that is carried out to produce or acquire a major system (as defined in 10 U.S.C. 2302(5)).</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Scope.</i> This clause implements section 1372 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103-160) and section 824 of the National Defense Authorization Act for Fiscal Year 1997 (<xref href="https://www.govinfo.gov/content/pkg/PLAW-104publ201/html/PLAW-104publ201.htm"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">Pub. L. 104-201</xref>), which are intended to help establish benefit eligibility under the Workforce Innovation and Opportunity Act (29 U.S.C. chapter 32) for employees of DoD contractors and subcontractors adversely affected by contract terminations or substantial reductions under major defense programs.</p>
-         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Notice to employees and state and local officials.</i> (1) Within 2 weeks after the Contracting Officer notifies the Contractor that contract funding will be terminated or substantially reduced, the Contractor shall provide notice of such anticipated termination or reduction to—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Each employee representative of the Contractor's employees whose work is directly related to the defense contract; or</p>
-         <p outputclass="List3" class="- topic/p ">(ii) If there is no such representative, each such employee;</p>
-         <p outputclass="List3" class="- topic/p ">(iii) The State or entity designated by the State to carry out rapid response activities described in the Workforce Innovation and Opportunity Act (<xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3174&amp;num=0&amp;edition=prelim"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">29 U.S.C. 3174</xref>(a)(2)(A)(i)); and</p>
-         <p outputclass="List3" class="- topic/p ">(iv) The chief elected official of the unit of general local government within which the adverse effect may occur.</p>
-         <p outputclass="List2" class="- topic/p ">(2) The notice provided an employee under paragraph (c)(1) of this clause shall have the same effect as a notice of termination to the employee for the purposes of determining whether such employee is eligible for training, adjustment assistance, and employment services under the Workforce Innovation and Opportunity Act (29 U.S.C. Chapter 32).</p>
-         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Notice to subcontractors.</i> Not later than 60 days after the Contractor receives the Contracting Officer’s notice of the anticipated termination or reduction, the Contractor shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Provide notice of the anticipated termination or reduction to each first-tier subcontractor with a subcontract that equals or exceeds the threshold specified in Defense Federal Acquisition Regulation Supplement (DFARS) 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="249.7003.dita#DFARS_249.7003"
-                  class="- topic/xref ">249.7003</xref>(c)(1) at the time of the notice; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) Require that each such subcontractor—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Provide notice to each of its subcontractors with a subcontract that equals or exceeds the threshold specified in DFARS 
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.249-7002" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">252.249-7002</ph> Notification of Anticipated Contract Termination or Reduction.</title>
+      <conbody outputclass="clause">
+         <p>As prescribed in <xref outputclass="fm:ParaNumOnly" base="DFARS-249.7004" href="249.7004.dita#DFARS_249.7004">249.7004</xref>, use the following clause:</p>
+         <p outputclass="Ctr_SmCaps">NOTIFICATION OF ANTICIPATED CONTRACT TERMINATION OR REDUCTION (JUN 2020)</p>
+         <p outputclass="List1">(a) <i>Definitions.</i> As use in this clause—</p>
+         <p>“Major defense program” means a program that is carried out to produce or acquire a major system (as defined in 10 U.S.C. 2302(5)).</p>
+         <p outputclass="List1">(b) <i>Scope.</i> This clause implements section 1372 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103-160) and section 824 of the National Defense Authorization Act for Fiscal Year 1997 (<xref href="https://www.govinfo.gov/content/pkg/PLAW-104publ201/html/PLAW-104publ201.htm" format="html" scope="external">Pub. L. 104-201</xref>), which are intended to help establish benefit eligibility under the Workforce Innovation and Opportunity Act (29 U.S.C. chapter 32) for employees of DoD contractors and subcontractors adversely affected by contract terminations or substantial reductions under major defense programs.</p>
+         <p outputclass="List1">(c) <i>Notice to employees and state and local officials.</i> (1) Within 2 weeks after the Contracting Officer notifies the Contractor that contract funding will be terminated or substantially reduced, the Contractor shall provide notice of such anticipated termination or reduction to—</p>
+         <p outputclass="List3">(i) Each employee representative of the Contractor's employees whose work is directly related to the defense contract; or</p>
+         <p outputclass="List3">(ii) If there is no such representative, each such employee;</p>
+         <p outputclass="List3">(iii) The State or entity designated by the State to carry out rapid response activities described in the Workforce Innovation and Opportunity Act (<xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3174&amp;num=0&amp;edition=prelim" format="html" scope="external">29 U.S.C. 3174</xref>(a)(2)(A)(i)); and</p>
+         <p outputclass="List3">(iv) The chief elected official of the unit of general local government within which the adverse effect may occur.</p>
+         <p outputclass="List2">(2) The notice provided an employee under paragraph (c)(1) of this clause shall have the same effect as a notice of termination to the employee for the purposes of determining whether such employee is eligible for training, adjustment assistance, and employment services under the Workforce Innovation and Opportunity Act (29 U.S.C. Chapter 32).</p>
+         <p outputclass="List1">(d) <i>Notice to subcontractors.</i> Not later than 60 days after the Contractor receives the Contracting Officer’s notice of the anticipated termination or reduction, the Contractor shall—</p>
+         <p outputclass="List2">(1) Provide notice of the anticipated termination or reduction to each first-tier subcontractor with a subcontract that equals or exceeds the threshold specified in Defense Federal Acquisition Regulation Supplement (DFARS) 
+               <xref outputclass="fm:ParaNumOnly" href="249.7003.dita#DFARS_249.7003">249.7003</xref>(c)(1) at the time of the notice; and</p>
+         <p outputclass="List2">(2) Require that each such subcontractor—</p>
+         <p outputclass="List3">(i) Provide notice to each of its subcontractors with a subcontract that equals or exceeds the threshold specified in DFARS 
                
-                  <xref outputclass="fm:ParaNumOnly"
-                  href="249.7003.dita#DFARS_249.7003"
-                  class="- topic/xref ">249.7003</xref>(c)(2)(i)
+                  <xref outputclass="fm:ParaNumOnly" href="249.7003.dita#DFARS_249.7003">249.7003</xref>(c)(2)(i)
              at the time of the notice; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Impose a similar notice and flowdown requirement to subcontractors with subcontracts that equal or exceed the threshold specified in DFARS 
-               <xref outputclass="fm:ParaNumOnly"
-                  href="249.7003.dita#DFARS_249.7003"
-                  class="- topic/xref ">249.7003</xref>(c)(2)(ii) at the time of the notice.</p>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p outputclass="List3">(ii) Impose a similar notice and flowdown requirement to subcontractors with subcontracts that equal or exceed the threshold specified in DFARS 
+               <xref outputclass="fm:ParaNumOnly" href="249.7003.dita#DFARS_249.7003">249.7003</xref>(c)(2)(ii) at the time of the notice.</p>
+         <p outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

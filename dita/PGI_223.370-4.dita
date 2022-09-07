@@ -1,48 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_223.370-4"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 223.370-4</ph> Procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Preaward phase</i>.</p>
-         <p outputclass="List3" class="- topic/p ">(i) Waiver of the mandatory requirements.</p>
-         <p outputclass="List4" class="- topic/p ">(A) Before either omitting the clause at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.223-7002"
-                  href="252.223-7002.dita#DFARS_252.223-7002">252.223-7002</xref>, Safety Precautions for Ammunition and Explosives, from solicitations and contracts or waiving the mandatory requirements of the manual, obtain approval of—</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) The safety personnel responsible for ammunition and explosives safety; and</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) The head of the contracting activity.</p>
-         <p outputclass="List4" class="- topic/p ">(B) If the contracting officer decides to waive the mandatory requirements before award, the contracting officer shall set forth in the solicitation, or in an amendment of the solicitation, the specific requirements to be waived.</p>
-         <p outputclass="List4" class="- topic/p ">(C) If the head of the contracting activity declines to approve a request for waiver, but the prospective contractor agrees to take corrective action to bring the operation into compliance, make the corrective action a part of the resulting contract.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Transportation considerations. If shipment of ammunition and explosives is involved in the contract, address in the Schedule of the contract the applicable Department of Transportation or Military Surface Deployment and Distribution Command requirements and any other requirements for transportation, packaging, marking, and labeling.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Disposition of excess. Include instructions within the contract concerning final disposition of excess Government furnished material containing ammunition and explosives, including defective or rejected supplies.</p>
-         <p outputclass="List3" class="- topic/p ">(iv) Preaward survey. Before awarding any contract, including purchase orders, involving ammunition and explosives, obtain a preaward ammunition and explosives safety survey. If the prospective contractor proposes subcontracting any ammunitions or explosive work, include a review of the subcontractor's facility in the preaward survey.</p>
-         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Postaward phase</i>.</p>
-         <p outputclass="List3" class="- topic/p ">(i) Contract administration office responsibility.</p>
-         <p outputclass="List4" class="- topic/p ">(A) The contract administration office is responsible for verifying that the safety requirements of the clause at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.223-7002"
-                  href="252.223-7002.dita#DFARS_252.223-7002">252.223-7002</xref>, Safety Precautions for Ammunition and Explosives, are being implemented in a manner that will reduce, to the maximum extent practicable, or eliminate the probability of a mishap occurring.</p>
-         <p outputclass="List4" class="- topic/p ">(B) The clause at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.223-7002"
-                  href="252.223-7002.dita#DFARS_252.223-7002">252.223-7002</xref>, Safety Precautions for Ammunition and Explosives, requires compliance with DoD 4145.26-M, Contractors’ Safety Manual for Ammunition and Explosives. This manual requires the contractor to submit to the administrative contracting officer (ACO) any postaward requests for a waiver of the contract safety standards, a site plan modification, or a construction review. The ACO shall review any request and make recommendations to the contracting officer. The contracting officer shall make a decision after considering recommendations of the ACO and safety personnel responsible for ammunition and explosive safety.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) If the request arrives at the contracting office without evidence that the ACO has seen it, immediately send it to the ACO for review and recommendations.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) When the contracting officer has made a determination approving or disapproving the contractor's request, send the determination to the ACO for transmission to the contractor.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Subcontracts.</p>
-         <p outputclass="List4" class="- topic/p ">(A) The clause at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.223-7002"
-                  href="252.223-7002.dita#DFARS_252.223-7002">252.223-7002</xref>, Safety Precautions for Ammunition and Explosives, requires the contractor to notify the contracting officer when placing a subcontract for ammunition and explosives. The contracting officer should coordinate with the safety personnel and request supporting contract administration in accordance with FAR 42.202(e). If the contracting officer believes the nature of the subcontract work poses a potential danger to Government property, Government personnel, production capability, or contract completion, request supporting contract administration.</p>
-         <p outputclass="List4" class="- topic/p ">(B) If the preaward safety survey identified areas in which a subcontractor was not complying with the manual, and the subcontractor was supposed to correct the deficiencies before start-up, the contracting officer shall require a preoperations survey to verify that the corrections were made.</p>
-         <p outputclass="List4" class="- topic/p ">(C) When postaward safety reviews by the Government uncover any safety deficiencies in the subcontractor's operation, the review team shall inform the ACO cognizant of the subcontractor, who shall immediately notify the ACO cognizant of the prime contractor. The ACO cognizant of the prime shall inform the prime contractor of deficiencies requiring correction. The notifications shall be made by the most expeditious means appropriate to the circumstance. If a critical safety deficiency poses an imminent danger, the ACO cognizant of the prime shall make the notifications by the most expeditious means available.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_223.370-4" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 223.370-4</ph> Procedures.</title>
+      <conbody>
+         <p outputclass="List2">(1) <i>Preaward phase</i>.</p>
+         <p outputclass="List3">(i) Waiver of the mandatory requirements.</p>
+         <p outputclass="List4">(A) Before either omitting the clause at DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-252.223-7002" href="252.223-7002.dita#DFARS_252.223-7002">252.223-7002</xref>, Safety Precautions for Ammunition and Explosives, from solicitations and contracts or waiving the mandatory requirements of the manual, obtain approval of—</p>
+         <p outputclass="List6">(<i>1</i>) The safety personnel responsible for ammunition and explosives safety; and</p>
+         <p outputclass="List6">(<i>2</i>) The head of the contracting activity.</p>
+         <p outputclass="List4">(B) If the contracting officer decides to waive the mandatory requirements before award, the contracting officer shall set forth in the solicitation, or in an amendment of the solicitation, the specific requirements to be waived.</p>
+         <p outputclass="List4">(C) If the head of the contracting activity declines to approve a request for waiver, but the prospective contractor agrees to take corrective action to bring the operation into compliance, make the corrective action a part of the resulting contract.</p>
+         <p outputclass="List3">(ii) Transportation considerations. If shipment of ammunition and explosives is involved in the contract, address in the Schedule of the contract the applicable Department of Transportation or Military Surface Deployment and Distribution Command requirements and any other requirements for transportation, packaging, marking, and labeling.</p>
+         <p outputclass="List3">(iii) Disposition of excess. Include instructions within the contract concerning final disposition of excess Government furnished material containing ammunition and explosives, including defective or rejected supplies.</p>
+         <p outputclass="List3">(iv) Preaward survey. Before awarding any contract, including purchase orders, involving ammunition and explosives, obtain a preaward ammunition and explosives safety survey. If the prospective contractor proposes subcontracting any ammunitions or explosive work, include a review of the subcontractor's facility in the preaward survey.</p>
+         <p outputclass="List2">(2) <i>Postaward phase</i>.</p>
+         <p outputclass="List3">(i) Contract administration office responsibility.</p>
+         <p outputclass="List4">(A) The contract administration office is responsible for verifying that the safety requirements of the clause at DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-252.223-7002" href="252.223-7002.dita#DFARS_252.223-7002">252.223-7002</xref>, Safety Precautions for Ammunition and Explosives, are being implemented in a manner that will reduce, to the maximum extent practicable, or eliminate the probability of a mishap occurring.</p>
+         <p outputclass="List4">(B) The clause at DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-252.223-7002" href="252.223-7002.dita#DFARS_252.223-7002">252.223-7002</xref>, Safety Precautions for Ammunition and Explosives, requires compliance with DoD 4145.26-M, Contractors’ Safety Manual for Ammunition and Explosives. This manual requires the contractor to submit to the administrative contracting officer (ACO) any postaward requests for a waiver of the contract safety standards, a site plan modification, or a construction review. The ACO shall review any request and make recommendations to the contracting officer. The contracting officer shall make a decision after considering recommendations of the ACO and safety personnel responsible for ammunition and explosive safety.</p>
+         <p outputclass="List6">(<i>1</i>) If the request arrives at the contracting office without evidence that the ACO has seen it, immediately send it to the ACO for review and recommendations.</p>
+         <p outputclass="List6">(<i>2</i>) When the contracting officer has made a determination approving or disapproving the contractor's request, send the determination to the ACO for transmission to the contractor.</p>
+         <p outputclass="List3">(ii) Subcontracts.</p>
+         <p outputclass="List4">(A) The clause at DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-252.223-7002" href="252.223-7002.dita#DFARS_252.223-7002">252.223-7002</xref>, Safety Precautions for Ammunition and Explosives, requires the contractor to notify the contracting officer when placing a subcontract for ammunition and explosives. The contracting officer should coordinate with the safety personnel and request supporting contract administration in accordance with FAR 42.202(e). If the contracting officer believes the nature of the subcontract work poses a potential danger to Government property, Government personnel, production capability, or contract completion, request supporting contract administration.</p>
+         <p outputclass="List4">(B) If the preaward safety survey identified areas in which a subcontractor was not complying with the manual, and the subcontractor was supposed to correct the deficiencies before start-up, the contracting officer shall require a preoperations survey to verify that the corrections were made.</p>
+         <p outputclass="List4">(C) When postaward safety reviews by the Government uncover any safety deficiencies in the subcontractor's operation, the review team shall inform the ACO cognizant of the subcontractor, who shall immediately notify the ACO cognizant of the prime contractor. The ACO cognizant of the prime shall inform the prime contractor of deficiencies requiring correction. The notifications shall be made by the most expeditious means appropriate to the circumstance. If a critical safety deficiency poses an imminent danger, the ACO cognizant of the prime shall make the notifications by the most expeditious means available.</p>
       </conbody>
    </concept>
 </dita>

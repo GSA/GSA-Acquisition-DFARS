@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_4-401"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4-401</ph> Contractor's technical evaluation procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Contractor's technical evaluation for the screening process shall be required contractually by incorporating MIL-STD-789, which delineates the contractor's responsibilities and procedures and prescribes use of the contractor DD Form 1418, Technical Information Record, and the DD Form 1418-1, Technical Data Identification Checklist, a copy of each document listed on DD Form 1418-1, and other substantive data that was used in developing the contractor's recommendations.</p>
-         <p outputclass="List1" class="- topic/p ">(b) When MIL-STD-789 is incorporated in a contract, the DD Form 1423, Contract Data Requirements List, shall specify the requirement for the submission of DD Form 1418, Technical Information Record, and DD Form 1418-1, Technical Data Identification Checklist, in accordance with MIL-STD-789.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_4-401" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">4-401</ph> Contractor's technical evaluation procedures.</title>
+      <conbody>
+         <p outputclass="List1">(a) Contractor's technical evaluation for the screening process shall be required contractually by incorporating MIL-STD-789, which delineates the contractor's responsibilities and procedures and prescribes use of the contractor DD Form 1418, Technical Information Record, and the DD Form 1418-1, Technical Data Identification Checklist, a copy of each document listed on DD Form 1418-1, and other substantive data that was used in developing the contractor's recommendations.</p>
+         <p outputclass="List1">(b) When MIL-STD-789 is incorporated in a contract, the DD Form 1423, Contract Data Requirements List, shall specify the requirement for the submission of DD Form 1418, Technical Information Record, and DD Form 1418-1, Technical Data Identification Checklist, in accordance with MIL-STD-789.</p>
       </conbody>
    </concept>
 </dita>

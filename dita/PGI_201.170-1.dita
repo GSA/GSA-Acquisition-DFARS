@@ -1,36 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_201.170-1"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 201.170-1</ph> Objectives ofpeer reviews.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="gWfNOx" class="- topic/p ">The objectives of peer reviews are to—</p>
-         <p id="ZKyVjA" outputclass="List1" class="- topic/p ">(a) Ensure that DoD contracting
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_201.170-1" outputclass="4" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">PGI 201.170-1</ph> Objectives ofpeer reviews.</title>
+      <conbody>
+         <p id="gWfNOx">The objectives of peer reviews are to—</p>
+         <p id="ZKyVjA" outputclass="List1">(a) Ensure that DoD contracting
 officers are implementing policy and regulations in a consistent
 and appropriate manner;</p>
-         <p id="WoymKC" outputclass="List1" class="- topic/p ">(b) Continue to improve the
+         <p id="WoymKC" outputclass="List1">(b) Continue to improve the
 quality of contracting processes throughout DoD; and</p>
-         <p id="zowFZT" outputclass="List1" class="- topic/p ">(c) Facilitate cross-sharing
+         <p id="zowFZT" outputclass="List1">(c) Facilitate cross-sharing
 of best practices and lessons learned throughout DoD DPC maintains
 a compilation of peer review lessons learned and best practices
 that is available at 
-               <xref href="https://www.acq.osd.mil/dpap/cpic/cp/peer_reviews.html"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/policy/peer-reviews.html</xref>
+               <xref href="https://www.acq.osd.mil/dpap/cpic/cp/peer_reviews.html" format="html" scope="external">https://www.acq.osd.mil/asda/dpc/cp/policy/peer-reviews.html</xref>
             for competitive
 peer reviews and at
-               <xref href="https://www.acq.osd.mil/dpap/DP/docs/Peer_Reviews_Best_Practices_14_June_21.pdf"
-                  format="pdf"
-                  scope="external"
-                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/pcf/docs/ss-peer-reviews/Sole-Source-Peer-Reviews-Best-Practices-V1.0-14June21.pdf </xref>
+               <xref href="https://www.acq.osd.mil/dpap/DP/docs/Peer_Reviews_Best_Practices_14_June_21.pdf" format="pdf" scope="external">https://www.acq.osd.mil/asda/dpc/pcf/docs/ss-peer-reviews/Sole-Source-Peer-Reviews-Best-Practices-V1.0-14June21.pdf </xref>
             for
 noncompetitive peer reviews.</p>
       </conbody>

@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_246.701"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 246.701</ph> Definitions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">“Duration,” “fixed expiration,” “starting event,” “usage,” and “warranty repair source” are defined in the clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.246-7006"
-                  href="252.246-7006.dita#DFARS_252.246-7006">252.246-7006</xref>, Warranty Tracking of Serialized Items.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_246.701" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 246.701</ph> Definitions.</title>
+      <conbody>
+         <p>“Duration,” “fixed expiration,” “starting event,” “usage,” and “warranty repair source” are defined in the clause at <xref outputclass="fm:ParaNumOnly" base="DFARS-252.246-7006" href="252.246-7006.dita#DFARS_252.246-7006">252.246-7006</xref>, Warranty Tracking of Serialized Items.</p>
       </conbody>
    </concept>
 </dita>

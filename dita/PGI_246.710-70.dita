@@ -1,47 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_246.710-70"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 246.710-70</ph> Warranty attachments.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1)  The following attachments shall be included in solicitations and awards to specify the required data elements for warranties of serialized items:</p>
-         <p outputclass="List3" class="- topic/p ">(i)  <i class="+ topic/ph hi-d/i ">Warranty Tracking Information</i>.  This format is used to specify the required warranty tracking data elements and accomplish the electronic transmission of the list of warranty items.  All fields of this attachment must be completed at the time of award, except the unique item identifier field, which may be completed after the time of award, but no later than when the warranted items are presented for receipt and/or acceptance.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  <i class="+ topic/ph hi-d/i ">Source of Repair Instructions</i>.  This format is used to specify the required warranty source of repair data elements and accomplish the electronic transmission of the source of repair data for each warranty item.  This attachment shall be completed no later than when the warranted items are presented for receipt and/or acceptance.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Warranty attachments shall be—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Completed electronically using the fillable PDF format or downloadable Excel format available on the Product Data Reporting and Evaluation Program (PDREP) website at https://www.pdrep.csd.disa.mil/pdrep_files/other/wsr.htm; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Numbered in accordance with PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_204.7105"
-                  href="PGI_204.7105.dita#DFARS_PGI_PGI_204.7105"
-                  xtrc="204.7105">204.7105</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_246.710-70" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 246.710-70</ph> Warranty attachments.</title>
+      <conbody>
+         <p outputclass="List2">(1)  The following attachments shall be included in solicitations and awards to specify the required data elements for warranties of serialized items:</p>
+         <p outputclass="List3">(i)  <i>Warranty Tracking Information</i>.  This format is used to specify the required warranty tracking data elements and accomplish the electronic transmission of the list of warranty items.  All fields of this attachment must be completed at the time of award, except the unique item identifier field, which may be completed after the time of award, but no later than when the warranted items are presented for receipt and/or acceptance.</p>
+         <p outputclass="List3">(ii)  <i>Source of Repair Instructions</i>.  This format is used to specify the required warranty source of repair data elements and accomplish the electronic transmission of the source of repair data for each warranty item.  This attachment shall be completed no later than when the warranted items are presented for receipt and/or acceptance.</p>
+         <p outputclass="List2">(2)  Warranty attachments shall be—</p>
+         <p outputclass="List3">(i)  Completed electronically using the fillable PDF format or downloadable Excel format available on the Product Data Reporting and Evaluation Program (PDREP) website at https://www.pdrep.csd.disa.mil/pdrep_files/other/wsr.htm; and</p>
+         <p outputclass="List3">(ii)  Numbered in accordance with PGI 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-PGI_PGI_204.7105" href="PGI_204.7105.dita#DFARS_PGI_PGI_204.7105" xtrc="204.7105">204.7105</xref>
             (b)(5).</p>
-         <p outputclass="List2" class="- topic/p ">(3)  If the Government specifies a warranty, the contracting officer shall request the requiring activity to provide information to ensure that the “Warranty Tracking Information” attachment is populated with data specifying the Government’s required warranty terms by contract line item number, subline item number, or exhibit line item number prior to solicitation.  One of the following is required to populate the attachment for each warranted item:  starting event, usage, duration, or fixed expiration date.</p>
-         <p outputclass="List2" class="- topic/p ">(4)  If the Government does not specify a warranty, the contracting officer may require offerors to provide warranty data by populating the “Warranty Tracking Information” attachment, as appropriate, and include the attachment as part of its offer, in accordance with the provision at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.246-7005"
-                  href="252.246-7005.dita#DFARS_252.246-7005"
-                  xtrc="252.246-7005">252.246-7005</xref>, Notice of Warranty Tracking of Serialized Items.</p>
-         <p outputclass="List2" class="- topic/p ">(5)  As required in the clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.246-7006"
-                  href="252.246-7006.dita#DFARS_252.246-7006"
-                  xtrc="252.246-7006">252.246-7006</xref>, Warranty Tracking of Serialized Items, the contractor is required to provide the following information no later than the time of receipt and/or acceptance of warranted items:</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The unique item identifier for each warranted item on the “Warranty Tracking Information” attachment.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The warranty repair source information and instructions required by the “Source of Repair Instructions” attachment.</p>
-         <p outputclass="List2" class="- topic/p ">(6)  The contracting officer shall ensure the completed warranty attachments are uploaded to the Electronic Data Access (EDA) system (see DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.270"
-                  href="204.270.dita#DFARS_204.270"
-                  xtrc="204.270">204.270</xref> for information on obtaining an EDA account).</p>
-         <p outputclass="List2" class="- topic/p ">(7)  For additional information on the warranty attachments, see the “Warranty and Source of Repair” training and “Warranty and Source of Repair Tracking User Guide” accessible on the PDREP site at https://www.pdrep.csd.disa.mil/pdrep_files/other/wsr.htm.</p>
+         <p outputclass="List2">(3)  If the Government specifies a warranty, the contracting officer shall request the requiring activity to provide information to ensure that the “Warranty Tracking Information” attachment is populated with data specifying the Government’s required warranty terms by contract line item number, subline item number, or exhibit line item number prior to solicitation.  One of the following is required to populate the attachment for each warranted item:  starting event, usage, duration, or fixed expiration date.</p>
+         <p outputclass="List2">(4)  If the Government does not specify a warranty, the contracting officer may require offerors to provide warranty data by populating the “Warranty Tracking Information” attachment, as appropriate, and include the attachment as part of its offer, in accordance with the provision at <xref outputclass="fm:ParaNumOnly" base="DFARS-252.246-7005" href="252.246-7005.dita#DFARS_252.246-7005" xtrc="252.246-7005">252.246-7005</xref>, Notice of Warranty Tracking of Serialized Items.</p>
+         <p outputclass="List2">(5)  As required in the clause at <xref outputclass="fm:ParaNumOnly" base="DFARS-252.246-7006" href="252.246-7006.dita#DFARS_252.246-7006" xtrc="252.246-7006">252.246-7006</xref>, Warranty Tracking of Serialized Items, the contractor is required to provide the following information no later than the time of receipt and/or acceptance of warranted items:</p>
+         <p outputclass="List3">(i)  The unique item identifier for each warranted item on the “Warranty Tracking Information” attachment.</p>
+         <p outputclass="List3">(ii)  The warranty repair source information and instructions required by the “Source of Repair Instructions” attachment.</p>
+         <p outputclass="List2">(6)  The contracting officer shall ensure the completed warranty attachments are uploaded to the Electronic Data Access (EDA) system (see DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-204.270" href="204.270.dita#DFARS_204.270" xtrc="204.270">204.270</xref> for information on obtaining an EDA account).</p>
+         <p outputclass="List2">(7)  For additional information on the warranty attachments, see the “Warranty and Source of Repair” training and “Warranty and Source of Repair Tracking User Guide” accessible on the PDREP site at https://www.pdrep.csd.disa.mil/pdrep_files/other/wsr.htm.</p>
       </conbody>
    </concept>
 </dita>

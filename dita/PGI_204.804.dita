@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_204.804"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 204.804</ph> Closeout of contract files.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Data supporting contract closeout (e.g., DD Form 1594, Contract Completion Statement) are electronically transmitted throughout DoD. The Defense Logistics Manual, 4000.25 Volume 7, Contract Administration, Chapter 4, Contract Completion Status Reporting, available at http://www.dla.mil/j-6/dlmso/elibrary/manuals/dlm/dlm_pubs.asp, contains detailed instructions regarding closeout and electronic data transmission.</p>
-         <p outputclass="List2" class="- topic/p ">(1) The administration office closeout date for file purposes will be the date in Block 9d of the DD Form 1594 or agency equivalent.</p>
-         <p outputclass="List2" class="- topic/p ">(2) If the contracting office must do a major closeout action that will take longer than 3 months after the date shown in Block 9d of the DD Form 1594—</p>
-         <p outputclass="List3" class="- topic/p ">(i) The purchasing office closeout date for file purposes will be the date in Block 10e of the DD Form 1594 or agency equivalent; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The contracting office shall notify the contract administration office of the revised closeout date by either sending a copy of the completed DD Form 1594 or by electronically transmitting the data.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_204.804" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 204.804</ph> Closeout of contract files.</title>
+      <conbody>
+         <p>Data supporting contract closeout (e.g., DD Form 1594, Contract Completion Statement) are electronically transmitted throughout DoD. The Defense Logistics Manual, 4000.25 Volume 7, Contract Administration, Chapter 4, Contract Completion Status Reporting, available at http://www.dla.mil/j-6/dlmso/elibrary/manuals/dlm/dlm_pubs.asp, contains detailed instructions regarding closeout and electronic data transmission.</p>
+         <p outputclass="List2">(1) The administration office closeout date for file purposes will be the date in Block 9d of the DD Form 1594 or agency equivalent.</p>
+         <p outputclass="List2">(2) If the contracting office must do a major closeout action that will take longer than 3 months after the date shown in Block 9d of the DD Form 1594—</p>
+         <p outputclass="List3">(i) The purchasing office closeout date for file purposes will be the date in Block 10e of the DD Form 1594 or agency equivalent; and</p>
+         <p outputclass="List3">(ii) The contracting office shall notify the contract administration office of the revised closeout date by either sending a copy of the completed DD Form 1594 or by electronically transmitting the data.</p>
       </conbody>
    </concept>
 </dita>

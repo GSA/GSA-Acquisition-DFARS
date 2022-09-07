@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_218.271"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 218.271</ph> Use of electronicbusiness tools.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="CsVbJM" outputclass="List1" class="- topic/p ">(a) Use of electronic
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_218.271" outputclass="3" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">PGI 218.271</ph> Use of electronicbusiness tools.</title>
+      <conbody>
+         <p id="CsVbJM" outputclass="List1">(a) Use of electronic
 business (e-business) acquisition tools greatly enhances the efficacy
 of the contracting process in a contingency business environment
 (CBE). The CBE involves specific tools, policies, roles and responsibilities,
@@ -22,16 +16,13 @@ in order to quickly obtain goods and services for the warfighter
 in an operational area. For information and procedures to effectively
 utilize CBE e-business tools, and additional policy references supporting
 use of the e-business tools, see the DoD CBE Guidebook at
-               <xref href="https://www.acq.osd.mil/asda/dpc/cp/cc/docs/resources/CBE_Guidebook.docx"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/cp/cc/docs/resources/CBE_Guidebook.docx</xref>
+               <xref href="https://www.acq.osd.mil/asda/dpc/cp/cc/docs/resources/CBE_Guidebook.docx" format="html" scope="external">https://www.acq.osd.mil/asda/dpc/cp/cc/docs/resources/CBE_Guidebook.docx</xref>
            .
          </p>
-         <p id="SJktYB" outputclass="List1" class="- topic/p ">(b) Use of the following
+         <p id="SJktYB" outputclass="List1">(b) Use of the following
 CBE e-business tools is mandatory when supporting a contingency
 or humanitarian or peacekeeping operation as defined in FAR 2.101:</p>
-         <p id="BwFiSh" outputclass="List2" class="- topic/p ">(1) The 3in1 Tool. The 3in1
+         <p id="BwFiSh" outputclass="List2">(1) The 3in1 Tool. The 3in1
 Tool automates the field order, receipt, and purchase processes
 previously executed manually using the paper Standard Form (SF)
 44. The 3in1 handheld device records and transmits cash and carry
@@ -40,7 +31,7 @@ reconciliation and review, when conducting on-the-spot, over-the-counter
 field purchases where use of the Government Purchase Card is appropriate,
 but not feasible. The 3in1 database may be accessed on the Joint
 Contingency Contracting Systems (JCCS) website at https://www.jccs.gov/olvr/.</p>
-         <p id="SuCtgq" outputclass="List2" class="- topic/p ">(2) The Acquisition Cross-Servicing
+         <p id="SuCtgq" outputclass="List2">(2) The Acquisition Cross-Servicing
 Agreements (ACSA) Global Automated Tracking and Reporting System
 (AGATRS). AGATRS is an automated tool that tracks and provides visibility
 into worldwide ACSAs that may satisfy a requirement through support
@@ -50,13 +41,9 @@ or peacekeeping operations are required to be documented and tracked
 in AGATRS as required by the Chairman of the Joint Chiefs of Staff
 Instruction 2120.01C, Acquisition Cross Servicing Agreements (http://dtic.mil/cjcs_directives/cdata/unlimit/2120_01.pdf).
 AGATRS is accessible on the JCCS website at https://www.jccs.gov/olvr.</p>
-         <p id="hHXEiJ" outputclass="List1" class="- topic/p ">(c) No other electronic tools
+         <p id="hHXEiJ" outputclass="List1">(c) No other electronic tools
 may be used to fulfill the same capabilities as 3in1 and AGATRS.</p>
-         <p id="XtPHlH" outputclass="List1" class="- topic/p ">(d) See PGI <xref href="PGI_225.370.dita#DFARS_PGI_PGI_225.370"
-                  base="DFARS-PGI_PGI_225.370"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="225.370">225.370</xref> (a)(ii) regarding use of the Theater Business Clearance
+         <p id="XtPHlH" outputclass="List1">(d) See PGI <xref href="PGI_225.370.dita#DFARS_PGI_PGI_225.370" base="DFARS-PGI_PGI_225.370" outputclass="fm:ParaNumOnly" xtrc="225.370">225.370</xref> (a)(ii) regarding use of the Theater Business Clearance
 CBE e-business tool.</p>
       </conbody>
    </concept>

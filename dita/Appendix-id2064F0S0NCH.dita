@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="id2064F0S0NCH"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">F-404</ph> Multiple consignee instructions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">The contractor may prepare one MIRR when the identical line item(s) of a contract are to be shipped to more than one consignee, with the same or varying quantities, and the shipment requires origin acceptance. Prepare the MIRR using the procedures in this appendix with the following changes:</p>
-         <p outputclass="List1" class="- topic/p ">(a) Blocks 2, 4, 13, and, if applicable, 14—Enter “See Attached Distribution List.”</p>
-         <p outputclass="List1" class="- topic/p ">(b) Block 15—The contractor may group item numbers for identical stock/part number and description.</p>
-         <p outputclass="List1" class="- topic/p ">(c) Block 17—Enter the “total” quantity shipped by line item or, if applicable, grouped identical line items.</p>
-         <p outputclass="List1" class="- topic/p ">(d) Use the DD Form 250c to list each individual “Shipped To” and “Marked For” with—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Code(s) and complete shipping address and a sequential shipment number for each;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Line item number(s);</p>
-         <p outputclass="List2" class="- topic/p ">(3) Quantity;</p>
-         <p outputclass="List2" class="- topic/p ">(4) MIPR number(s), preceded by “MIPR,” or the MILSTRIP requisition number, and quantity for each when provided in the contract or shipping instructions; and</p>
-         <p outputclass="List2" class="- topic/p ">(5) If applicable, bill of lading number, TCN, and mode of shipment code.</p>
-         <p outputclass="List1" class="- topic/p ">(e) The contractor may omit those distribution list pages of the DD Form 250c that are not applicable to the consignee. Provide a complete MIRR for all other distribution.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="id2064F0S0NCH" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">F-404</ph> Multiple consignee instructions.</title>
+      <conbody>
+         <p>The contractor may prepare one MIRR when the identical line item(s) of a contract are to be shipped to more than one consignee, with the same or varying quantities, and the shipment requires origin acceptance. Prepare the MIRR using the procedures in this appendix with the following changes:</p>
+         <p outputclass="List1">(a) Blocks 2, 4, 13, and, if applicable, 14—Enter “See Attached Distribution List.”</p>
+         <p outputclass="List1">(b) Block 15—The contractor may group item numbers for identical stock/part number and description.</p>
+         <p outputclass="List1">(c) Block 17—Enter the “total” quantity shipped by line item or, if applicable, grouped identical line items.</p>
+         <p outputclass="List1">(d) Use the DD Form 250c to list each individual “Shipped To” and “Marked For” with—</p>
+         <p outputclass="List2">(1) Code(s) and complete shipping address and a sequential shipment number for each;</p>
+         <p outputclass="List2">(2) Line item number(s);</p>
+         <p outputclass="List2">(3) Quantity;</p>
+         <p outputclass="List2">(4) MIPR number(s), preceded by “MIPR,” or the MILSTRIP requisition number, and quantity for each when provided in the contract or shipping instructions; and</p>
+         <p outputclass="List2">(5) If applicable, bill of lading number, TCN, and mode of shipment code.</p>
+         <p outputclass="List1">(e) The contractor may omit those distribution list pages of the DD Form 250c that are not applicable to the consignee. Provide a complete MIRR for all other distribution.</p>
       </conbody>
    </concept>
 </dita>

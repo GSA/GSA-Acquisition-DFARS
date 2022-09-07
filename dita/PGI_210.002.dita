@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_210.002"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 210.002</ph> Procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(e)(ii) Contracting officers are encouraged to retain information on potential offerors that express an interest in an acquisition, in order to solicit feedback in instances when only one offer is received on a competitive solicitation (see PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_215.371-2"
-                  href="PGI_215.371-2.dita#DFARS_PGI_PGI_215.371-2"
-                  xtrc="215.371-2">215.371-2</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_210.002" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 210.002</ph> Procedures.</title>
+      <conbody>
+         <p outputclass="List1">(e)(ii) Contracting officers are encouraged to retain information on potential offerors that express an interest in an acquisition, in order to solicit feedback in instances when only one offer is received on a competitive solicitation (see PGI 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-PGI_PGI_215.371-2" href="PGI_215.371-2.dita#DFARS_PGI_PGI_215.371-2" xtrc="215.371-2">215.371-2</xref>
             ).</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Contracting officers should ensure that the contract file includes—</p>
-         <p outputclass="List4" class="- topic/p ">(A) The methods used to conduct market research;</p>
-         <p outputclass="List4" class="- topic/p ">(B) The timeframe in which market research was conducted;</p>
-         <p outputclass="List4" class="- topic/p ">(C) The analysis of the capabilities of the potential sources that were identified during market research; and </p>
-         <p outputclass="List4" class="- topic/p ">(D) Any conclusion(s) reached as a result of market research analysis.</p>
+         <p outputclass="List3">(iii) Contracting officers should ensure that the contract file includes—</p>
+         <p outputclass="List4">(A) The methods used to conduct market research;</p>
+         <p outputclass="List4">(B) The timeframe in which market research was conducted;</p>
+         <p outputclass="List4">(C) The analysis of the capabilities of the potential sources that were identified during market research; and </p>
+         <p outputclass="List4">(D) Any conclusion(s) reached as a result of market research analysis.</p>
       </conbody>
    </concept>
 </dita>

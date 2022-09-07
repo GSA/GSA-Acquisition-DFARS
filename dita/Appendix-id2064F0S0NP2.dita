@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="id2064F0S0NP2"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">F-303</ph> Consolidated shipments.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">When individual shipments are held at the contractor's plant for authorized transportation consolidation to a single bill of lading, the contractor may prepare the WAWF RR or WAWF RRR at the time of CQA or acceptance prior to the time of actual shipment.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="id2064F0S0NP2" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">F-303</ph> Consolidated shipments.</title>
+      <conbody>
+         <p>When individual shipments are held at the contractor's plant for authorized transportation consolidation to a single bill of lading, the contractor may prepare the WAWF RR or WAWF RRR at the time of CQA or acceptance prior to the time of actual shipment.</p>
       </conbody>
    </concept>
 </dita>

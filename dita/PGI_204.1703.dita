@@ -1,1000 +1,966 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_204.1703"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_204.1703" ditaarch:DITAArchVersion="1.2">
+      <title>
          PGI
 204.1703 
          Reporting requirements.
       </title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="BWzXri" outputclass="List1" class="- topic/p ">
+      <conbody>
+         <p id="BWzXri" outputclass="List1">
             (a)(i) Contracts or task orders
 that meet the threshold at DFARS 204.1703(a)(i) and are assigned
 the following Product Service Codes require service contract information
 to be reported in the System for Award Management:
          </p>
-         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="5"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="20*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="VvYOqt" class="- topic/p ">Portfolio Group</p>
+         <table frame="all" colsep="0" rowsep="0">
+            <tgroup cols="5" colsep="0" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="20*" colsep="0" rowheader="headers" />
+               <colspec colnum="2" colname="2" colwidth="20*" colsep="0" rowheader="headers" />
+               <colspec colnum="3" colname="3" colwidth="20*" colsep="0" rowheader="headers" />
+               <colspec colnum="4" colname="4" colwidth="20*" colsep="0" rowheader="headers" />
+               <colspec colnum="5" colname="5" colwidth="20*" colsep="0" rowheader="headers" />
+               <tbody>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="VvYOqt">Portfolio Group</p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="IxDwyi" class="- topic/p ">First 2 Digits</p>
+                     <entry colname="2" align="left">
+                        <p id="IxDwyi">First 2 Digits</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="fhHXrQ" class="- topic/p ">Last 2 Digits</p>
+                     <entry colname="3" align="left">
+                        <p id="fhHXrQ">Last 2 Digits</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="KvOpmc" class="- topic/p "/>
+                     <entry colname="4" align="left">
+                        <p id="KvOpmc"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="hLOAyN" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="hLOAyN"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="FEKPwQ" class="- topic/p ">Logistics Management Services</p>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="FEKPwQ">Logistics Management Services</p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="GzMoFo" class="- topic/p ">M1</p>
+                     <entry colname="2" align="left">
+                        <p id="GzMoFo">M1</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="ETFLNn" class="- topic/p ">GA</p>
+                     <entry colname="3" align="left">
+                        <p id="ETFLNn">GA</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="QVWRvj" class="- topic/p ">GD</p>
+                     <entry colname="4" align="left">
+                        <p id="QVWRvj">GD</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="CSxOAz" class="- topic/p ">GZ</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="GPKJLT" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="RMsEdT" class="- topic/p ">R6</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="PVuAeC" class="- topic/p ">02</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="aUXIpL" class="- topic/p ">04</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="PtfSTm" class="- topic/p ">13</p>
+                     <entry colname="5" align="left">
+                        <p id="CSxOAz">GZ</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="dRXxoS" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="GPKJLT"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="chFoFJ" class="- topic/p ">R7</p>
+                     <entry colname="2" align="left">
+                        <p id="RMsEdT">R6</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="PHGoCj" class="- topic/p ">06</p>
+                     <entry colname="3" align="left">
+                        <p id="PVuAeC">02</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="mxxGIT" class="- topic/p "/>
+                     <entry colname="4" align="left">
+                        <p id="aUXIpL">04</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="yVnGdf" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="hoGWzi" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="bqajBd" class="- topic/p ">S2</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="ZtlLXv" class="- topic/p ">15</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="IaLPMY" class="- topic/p "/>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="QXTYnn" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="PtfSTm">13</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="EODVrz" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="dRXxoS"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="nOAZYS" class="- topic/p ">V0</p>
+                     <entry colname="2" align="left">
+                        <p id="chFoFJ">R7</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="qGjQmH" class="- topic/p ">01-03</p>
+                     <entry colname="3" align="left">
+                        <p id="PHGoCj">06</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="WiDIlF" class="- topic/p "/>
+                     <entry colname="4" align="left">
+                        <p id="mxxGIT"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="nRmlAE" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="ziFqxz" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="SvWZfp" class="- topic/p ">V1</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="uCWxkw" class="- topic/p ">19</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="gYGCcR" class="- topic/p "/>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="uWrtbv" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="yVnGdf"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="wWjlog" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="hoGWzi"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="seloME" class="- topic/p ">V3</p>
+                     <entry colname="2" align="left">
+                        <p id="bqajBd">S2</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="quMZZQ" class="- topic/p ">01-02</p>
+                     <entry colname="3" align="left">
+                        <p id="ZtlLXv">15</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="iknpOR" class="- topic/p "/>
+                     <entry colname="4" align="left">
+                        <p id="IaLPMY"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="crQgsw" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="nKnDmG" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="XPIvEY" class="- topic/p ">W0</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="nuvMWS" class="- topic/p ">81</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="zATeWr" class="- topic/p "/>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="ZPWTJR" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="QXTYnn"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="YLXEKx" class="- topic/p ">Equipment Related Services</p>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="EODVrz"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="AFYYfe" class="- topic/p ">H1</p>
+                     <entry colname="2" align="left">
+                        <p id="nOAZYS">V0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="VhBXqs" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="FNMPuM" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="rxntQA" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="kgduYt" outputclass="Ctr" class="- topic/p ">34-49</p>
-                        <p id="FpcWiS" class="- topic/p ">51-56</p>
+                     <entry colname="3" align="left">
+                        <p id="qGjQmH">01-03</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="xpSknU" outputclass="Ctr" class="- topic/p ">65-69</p>
-                        <p id="bRRNlJ" outputclass="Ctr" class="- topic/p ">71</p>
-                        <p id="fSRyDq" outputclass="Ctr" class="- topic/p ">73-75</p>
-                        <p id="rfLiSx" outputclass="Ctr" class="- topic/p ">77-81</p>
-                        <p id="jATwww" class="- topic/p ">85</p>
+                     <entry colname="4" align="left">
+                        <p id="WiDIlF"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="hrvAiq" outputclass="Ctr" class="- topic/p ">87-88</p>
-                        <p id="CEWuyF" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="junfxI" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="QYQMib" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="nRmlAE"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="ZkDABR" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="ziFqxz"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="YfQFXw" class="- topic/p ">H2</p>
+                     <entry colname="2" align="left">
+                        <p id="SvWZfp">V1</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="SIXOFC" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="NJVCkJ" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="tbMXQn" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="EJXPqj" outputclass="Ctr" class="- topic/p ">34-49</p>
-                        <p id="yGqhQM" class="- topic/p ">51-53</p>
+                     <entry colname="3" align="left">
+                        <p id="uCWxkw">19</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="JMsVEu" outputclass="Ctr" class="- topic/p ">55-56</p>
-                        <p id="eNnbLf" outputclass="Ctr" class="- topic/p ">65-69</p>
-                        <p id="zvocLS" outputclass="Ctr" class="- topic/p ">71</p>
-                        <p id="KzsulH" outputclass="Ctr" class="- topic/p ">73</p>
-                        <p id="ttXYLO" class="- topic/p ">76-81</p>
+                     <entry colname="4" align="left">
+                        <p id="gYGCcR"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="EOjNoA" outputclass="Ctr" class="- topic/p ">83-85</p>
-                        <p id="xurtlG" outputclass="Ctr" class="- topic/p ">87-88</p>
-                        <p id="sufteh" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="FKiNOe" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="sszXLj" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="uWrtbv"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="jBaVKd" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="wWjlog"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="igLmCg" class="- topic/p ">H3</p>
+                     <entry colname="2" align="left">
+                        <p id="seloME">V3</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="jRBCCd" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="FsbTkJ" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="xcWnPF" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="akrYnN" class="- topic/p ">34-49</p>
+                     <entry colname="3" align="left">
+                        <p id="quMZZQ">01-02</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="blFsTe" outputclass="Ctr" class="- topic/p ">51-56</p>
-                        <p id="mYCWJf" outputclass="Ctr" class="- topic/p ">65-69</p>
-                        <p id="NKWvzC" outputclass="Ctr" class="- topic/p ">73-81</p>
-                        <p id="BLuMqo" class="- topic/p ">83-85</p>
+                     <entry colname="4" align="left">
+                        <p id="iknpOR"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="dDzRJz" outputclass="Ctr" class="- topic/p ">87-89</p>
-                        <p id="JJEiwn" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="watwTl" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="xNaePo" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="crQgsw"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="ngFXhq" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="nKnDmG"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="ZQCgcd" class="- topic/p ">H9</p>
+                     <entry colname="2" align="left">
+                        <p id="XPIvEY">W0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="VOLzkG" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="ISwJhg" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="jbGyUK" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="IiffCb" outputclass="Ctr" class="- topic/p ">34-49</p>
-                        <p id="WiAoxc" class="- topic/p ">51-56</p>
+                     <entry colname="3" align="left">
+                        <p id="nuvMWS">81</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="fmkdlv" outputclass="Ctr" class="- topic/p ">65-69</p>
-                        <p id="SZVtVT" outputclass="Ctr" class="- topic/p ">71</p>
-                        <p id="sMqpvo" outputclass="Ctr" class="- topic/p ">73-81</p>
-                        <p id="JqMDcV" class="- topic/p ">83-85</p>
+                     <entry colname="4" align="left">
+                        <p id="zATeWr"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="TrupCH" outputclass="Ctr" class="- topic/p ">87-89</p>
-                        <p id="gXsdtc" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="IFLkhf" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="VLLSoj" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="ZPWTJR"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="stKlLL" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="YLXEKx">Equipment Related Services</p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="AWCkFx" class="- topic/p ">J0</p>
+                     <entry colname="2" align="left">
+                        <p id="AFYYfe">H1</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="BqzVFb" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="EjAjmn" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="AUZXSw" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="itxsdF" outputclass="Ctr" class="- topic/p ">34-40</p>
-                        <p id="boAcAg" outputclass="Ctr" class="- topic/p ">42</p>
-                        <p id="aDWLRp" class="- topic/p ">43-49</p>
+                     <entry colname="3" align="left">
+                        <p id="VhBXqs" outputclass="Ctr">10-20</p>
+                        <p id="FNMPuM" outputclass="Ctr">22-26</p>
+                        <p id="rxntQA" outputclass="Ctr">28-32</p>
+                        <p id="kgduYt" outputclass="Ctr">34-49</p>
+                        <p id="FpcWiS">51-56</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="SDMAAR" outputclass="Ctr" class="- topic/p ">51-</p>
-                        <p id="JtCgkb" outputclass="Ctr" class="- topic/p ">56</p>
-                        <p id="JiyhXb" outputclass="Ctr" class="- topic/p ">62</p>
-                        <p id="JsJdMV" outputclass="Ctr" class="- topic/p ">66-69</p>
-                        <p id="tkRXkO" outputclass="Ctr" class="- topic/p ">73</p>
-                        <p id="SBJDXv" class="- topic/p ">77-81</p>
+                     <entry colname="4" align="left">
+                        <p id="xpSknU" outputclass="Ctr">65-69</p>
+                        <p id="bRRNlJ" outputclass="Ctr">71</p>
+                        <p id="fSRyDq" outputclass="Ctr">73-75</p>
+                        <p id="rfLiSx" outputclass="Ctr">77-81</p>
+                        <p id="jATwww">85</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="fFIpjG" outputclass="Ctr" class="- topic/p ">83-85</p>
-                        <p id="BtxDeT" outputclass="Ctr" class="- topic/p ">87</p>
-                        <p id="lbUyPn" outputclass="Ctr" class="- topic/p ">89</p>
-                        <p id="rblSdS" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="LvTaNh" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="QhUCyp" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="hrvAiq" outputclass="Ctr">87-88</p>
+                        <p id="CEWuyF" outputclass="Ctr">91</p>
+                        <p id="junfxI" outputclass="Ctr">93-96</p>
+                        <p id="QYQMib">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="MPwLfk" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="ZkDABR"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="ZMOpVb" class="- topic/p ">J9</p>
+                     <entry colname="2" align="left">
+                        <p id="YfQFXw">H2</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="gllnZo" class="- topic/p ">98-99</p>
+                     <entry colname="3" align="left">
+                        <p id="SIXOFC" outputclass="Ctr">10-20</p>
+                        <p id="NJVCkJ" outputclass="Ctr">22-26</p>
+                        <p id="tbMXQn" outputclass="Ctr">28-32</p>
+                        <p id="EJXPqj" outputclass="Ctr">34-49</p>
+                        <p id="yGqhQM">51-53</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="WBRywV" class="- topic/p "/>
+                     <entry colname="4" align="left">
+                        <p id="JMsVEu" outputclass="Ctr">55-56</p>
+                        <p id="eNnbLf" outputclass="Ctr">65-69</p>
+                        <p id="zvocLS" outputclass="Ctr">71</p>
+                        <p id="KzsulH" outputclass="Ctr">73</p>
+                        <p id="ttXYLO">76-81</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="CDDOKT" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="yQlbgE" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="NYnHGV" class="- topic/p ">K0</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="ZlRlNM" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="WqdbQM" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="wSGXyd" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="AbKAHH" outputclass="Ctr" class="- topic/p ">34-40</p>
-                        <p id="rIQsja" outputclass="Ctr" class="- topic/p ">42</p>
-                        <p id="mtpGLl" class="- topic/p ">43-49</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="qqOMsh" outputclass="Ctr" class="- topic/p ">51-53</p>
-                        <p id="hCgyYB" outputclass="Ctr" class="- topic/p ">55-56</p>
-                        <p id="IbReqB" outputclass="Ctr" class="- topic/p ">62</p>
-                        <p id="VnANGu" outputclass="Ctr" class="- topic/p ">66-69</p>
-                        <p id="yBOpqa" outputclass="Ctr" class="- topic/p ">73</p>
-                        <p id="lYayKW" class="- topic/p ">77-81</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="bWRlcy" outputclass="Ctr" class="- topic/p ">83</p>
-                        <p id="HeqNzN" outputclass="Ctr" class="- topic/p ">85</p>
-                        <p id="VjhPFS" outputclass="Ctr" class="- topic/p ">87</p>
-                        <p id="tmlFwX" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="DffCIC" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="rTlJwc" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="EOjNoA" outputclass="Ctr">83-85</p>
+                        <p id="xurtlG" outputclass="Ctr">87-88</p>
+                        <p id="sufteh" outputclass="Ctr">91</p>
+                        <p id="FKiNOe" outputclass="Ctr">93-96</p>
+                        <p id="sszXLj">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="kcycda" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="jBaVKd"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="kJnNUK" class="- topic/p ">L0</p>
+                     <entry colname="2" align="left">
+                        <p id="igLmCg">H3</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="geyfEV" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="MoFgkr" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="eGSXSR" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="XOarNu" outputclass="Ctr" class="- topic/p ">34-49</p>
-                        <p id="NMudYo" class="- topic/p ">51-56</p>
+                     <entry colname="3" align="left">
+                        <p id="jRBCCd" outputclass="Ctr">10-20</p>
+                        <p id="FsbTkJ" outputclass="Ctr">22-26</p>
+                        <p id="xcWnPF" outputclass="Ctr">28-32</p>
+                        <p id="akrYnN">34-49</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="PDhNjG" outputclass="Ctr" class="- topic/p ">66-69</p>
-                        <p id="VAQGwh" outputclass="Ctr" class="- topic/p ">73</p>
-                        <p id="mKjzLI" outputclass="Ctr" class="- topic/p ">77-81</p>
-                        <p id="UuXnSk" class="- topic/p ">84-85</p>
+                     <entry colname="4" align="left">
+                        <p id="blFsTe" outputclass="Ctr">51-56</p>
+                        <p id="mYCWJf" outputclass="Ctr">65-69</p>
+                        <p id="NKWvzC" outputclass="Ctr">73-81</p>
+                        <p id="BLuMqo">83-85</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="EILknV" outputclass="Ctr" class="- topic/p ">87-89</p>
-                        <p id="IMmfeP" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="JwYkro" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="McJVsz" class="- topic/p ">99</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="UQDsyM" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="jqBHFk" class="- topic/p ">N0</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="cexFaB" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="HRDNWI" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="eejZos" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="JesBED" outputclass="Ctr" class="- topic/p ">34-40</p>
-                        <p id="ykWNbZ" outputclass="Ctr" class="- topic/p ">42-44</p>
-                        <p id="djImQm" class="- topic/p ">46-49</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="liilxw" outputclass="Ctr" class="- topic/p ">51-55</p>
-                        <p id="rneOQq" outputclass="Ctr" class="- topic/p ">62</p>
-                        <p id="GdYAXe" outputclass="Ctr" class="- topic/p ">66-69</p>
-                        <p id="csuHto" outputclass="Ctr" class="- topic/p ">73</p>
-                        <p id="njppWP" outputclass="Ctr" class="- topic/p ">77-81</p>
-                        <p id="WGuRwW" class="- topic/p ">83-85</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="QkKqxE" outputclass="Ctr" class="- topic/p ">87</p>
-                        <p id="iBCglP" outputclass="Ctr" class="- topic/p ">89</p>
-                        <p id="dRIkTx" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="IObjYC" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="gegvEK" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="dDzRJz" outputclass="Ctr">87-89</p>
+                        <p id="JJEiwn" outputclass="Ctr">91</p>
+                        <p id="watwTl" outputclass="Ctr">93-96</p>
+                        <p id="xNaePo">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="qaKcxY" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="ngFXhq"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="uPKLYc" outputclass="Ctr" class="- topic/p ">P1</p>
-                        <p id="FyxXaJ" outputclass="Ctr" class="- topic/p ">P2</p>
-                        <p id="raUKIV" class="- topic/p ">P3</p>
+                     <entry colname="2" align="left">
+                        <p id="ZQCgcd">H9</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="TCIlww" class="- topic/p ">00</p>
+                     <entry colname="3" align="left">
+                        <p id="VOLzkG" outputclass="Ctr">10-20</p>
+                        <p id="ISwJhg" outputclass="Ctr">22-26</p>
+                        <p id="jbGyUK" outputclass="Ctr">28-32</p>
+                        <p id="IiffCb" outputclass="Ctr">34-49</p>
+                        <p id="WiAoxc">51-56</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="KvsIeS" class="- topic/p "/>
+                     <entry colname="4" align="left">
+                        <p id="fmkdlv" outputclass="Ctr">65-69</p>
+                        <p id="SZVtVT" outputclass="Ctr">71</p>
+                        <p id="sMqpvo" outputclass="Ctr">73-81</p>
+                        <p id="JqMDcV">83-85</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="FKMLYJ" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="MHfByO" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="wpMQyf" class="- topic/p ">P9</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="xShNaj" class="- topic/p ">99</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="EbOsuP" class="- topic/p "/>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="oPKhQB" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="TrupCH" outputclass="Ctr">87-89</p>
+                        <p id="gXsdtc" outputclass="Ctr">91</p>
+                        <p id="IFLkhf" outputclass="Ctr">93-96</p>
+                        <p id="VLLSoj">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="YyuBtM" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="stKlLL"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="PWNRqs" class="- topic/p ">W0</p>
+                     <entry colname="2" align="left">
+                        <p id="AWCkFx">J0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="Mhqita" outputclass="Ctr" class="- topic/p ">10-20</p>
-                        <p id="SFBWlf" outputclass="Ctr" class="- topic/p ">22-26</p>
-                        <p id="kzucut" outputclass="Ctr" class="- topic/p ">28-32</p>
-                        <p id="GPFlrZ" outputclass="Ctr" class="- topic/p ">34-37</p>
-                        <p id="tteZFw" outputclass="Ctr" class="- topic/p ">39-40</p>
-                        <p id="mIzKYt" outputclass="Ctr" class="- topic/p ">42-44</p>
-                        <p id="cvBSLP" class="- topic/p ">46-49</p>
+                     <entry colname="3" align="left">
+                        <p id="BqzVFb" outputclass="Ctr">10-20</p>
+                        <p id="EjAjmn" outputclass="Ctr">22-26</p>
+                        <p id="AUZXSw" outputclass="Ctr">28-32</p>
+                        <p id="itxsdF" outputclass="Ctr">34-40</p>
+                        <p id="boAcAg" outputclass="Ctr">42</p>
+                        <p id="aDWLRp">43-49</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="nVFCtM" outputclass="Ctr" class="- topic/p ">51-53</p>
-                        <p id="WvKszG" outputclass="Ctr" class="- topic/p ">60</p>
-                        <p id="mLuAPI" outputclass="Ctr" class="- topic/p ">66</p>
-                        <p id="vukhEp" outputclass="Ctr" class="- topic/p ">68-69</p>
-                        <p id="LcktWC" outputclass="Ctr" class="- topic/p ">73</p>
-                        <p id="ocapqJ" class="- topic/p ">77</p>
+                     <entry colname="4" align="left">
+                        <p id="SDMAAR" outputclass="Ctr">51-</p>
+                        <p id="JtCgkb" outputclass="Ctr">56</p>
+                        <p id="JiyhXb" outputclass="Ctr">62</p>
+                        <p id="JsJdMV" outputclass="Ctr">66-69</p>
+                        <p id="tkRXkO" outputclass="Ctr">73</p>
+                        <p id="SBJDXv">77-81</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="tWvLaz" outputclass="Ctr" class="- topic/p ">80</p>
-                        <p id="KxnqkF" outputclass="Ctr" class="- topic/p ">83</p>
-                        <p id="XVKjFt" outputclass="Ctr" class="- topic/p ">89</p>
-                        <p id="JAQZyw" outputclass="Ctr" class="- topic/p ">91</p>
-                        <p id="goDZNq" outputclass="Ctr" class="- topic/p ">93-96</p>
-                        <p id="TXHeLx" class="- topic/p ">99</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="GQgqTO" class="- topic/p ">Electronics and Communications</p>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="VaZMis" class="- topic/p ">D3</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="kGTmBs" class="- topic/p ">01-22</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="lxWOpA" class="- topic/p ">24-25</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="CwIHIf" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="fFIpjG" outputclass="Ctr">83-85</p>
+                        <p id="BtxDeT" outputclass="Ctr">87</p>
+                        <p id="lbUyPn" outputclass="Ctr">89</p>
+                        <p id="rblSdS" outputclass="Ctr">91</p>
+                        <p id="LvTaNh" outputclass="Ctr">93-96</p>
+                        <p id="QhUCyp">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="FocikN" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="MPwLfk"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="hXtNlf" outputclass="Ctr" class="- topic/p ">H1</p>
-                        <p id="HNIMAu" outputclass="Ctr" class="- topic/p ">H2</p>
-                        <p id="KyhhiY" outputclass="Ctr" class="- topic/p ">H3</p>
-                        <p id="KbFbHf" outputclass="Ctr" class="- topic/p ">H9</p>
-                        <p id="yGLAyV" class="- topic/p ">N0</p>
+                     <entry colname="2" align="left">
+                        <p id="ZMOpVb">J9</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="QQBdFJ" class="- topic/p ">58-63</p>
+                     <entry colname="3" align="left">
+                        <p id="gllnZo">98-99</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="POpKhe" class="- topic/p ">70</p>
+                     <entry colname="4" align="left">
+                        <p id="WBRywV"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="uQXAeY" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="CDDOKT"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="nIbUxH" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="yQlbgE"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="mafDBD" class="- topic/p ">J0</p>
+                     <entry colname="2" align="left">
+                        <p id="NYnHGV">K0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="ZICUCp" outputclass="Ctr" class="- topic/p ">58-61</p>
-                        <p id="VVAawD" class="- topic/p ">63</p>
+                     <entry colname="3" align="left">
+                        <p id="ZlRlNM" outputclass="Ctr">10-20</p>
+                        <p id="WqdbQM" outputclass="Ctr">22-26</p>
+                        <p id="wSGXyd" outputclass="Ctr">28-32</p>
+                        <p id="AbKAHH" outputclass="Ctr">34-40</p>
+                        <p id="rIQsja" outputclass="Ctr">42</p>
+                        <p id="mtpGLl">43-49</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="NHdOWC" class="- topic/p ">70</p>
+                     <entry colname="4" align="left">
+                        <p id="qqOMsh" outputclass="Ctr">51-53</p>
+                        <p id="hCgyYB" outputclass="Ctr">55-56</p>
+                        <p id="IbReqB" outputclass="Ctr">62</p>
+                        <p id="VnANGu" outputclass="Ctr">66-69</p>
+                        <p id="yBOpqa" outputclass="Ctr">73</p>
+                        <p id="lYayKW">77-81</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="iEKuqC" class="- topic/p ">99</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="rjkCMg" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="lAuTPJ" outputclass="Ctr" class="- topic/p ">K0</p>
-                        <p id="IOhARK" class="- topic/p ">W0</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="IKiNuO" class="- topic/p ">58-61</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="uGnygY" class="- topic/p ">63</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="AwfJYb" class="- topic/p ">70</p>
+                     <entry colname="5" align="left">
+                        <p id="bWRlcy" outputclass="Ctr">83</p>
+                        <p id="HeqNzN" outputclass="Ctr">85</p>
+                        <p id="VjhPFS" outputclass="Ctr">87</p>
+                        <p id="tmlFwX" outputclass="Ctr">91</p>
+                        <p id="DffCIC" outputclass="Ctr">93-96</p>
+                        <p id="rTlJwc">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="PMYDiu" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="kcycda"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="UifElS" class="- topic/p ">L0</p>
+                     <entry colname="2" align="left">
+                        <p id="kJnNUK">L0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="VmazJg" class="- topic/p ">58-61</p>
+                     <entry colname="3" align="left">
+                        <p id="geyfEV" outputclass="Ctr">10-20</p>
+                        <p id="MoFgkr" outputclass="Ctr">22-26</p>
+                        <p id="eGSXSR" outputclass="Ctr">28-32</p>
+                        <p id="XOarNu" outputclass="Ctr">34-49</p>
+                        <p id="NMudYo">51-56</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="yUgUFT" class="- topic/p ">62-63</p>
+                     <entry colname="4" align="left">
+                        <p id="PDhNjG" outputclass="Ctr">66-69</p>
+                        <p id="VAQGwh" outputclass="Ctr">73</p>
+                        <p id="mKjzLI" outputclass="Ctr">77-81</p>
+                        <p id="UuXnSk">84-85</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="RcQPeh" class="- topic/p ">70</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="qtnNoD" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="LGCzDf" class="- topic/p ">R4</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="vUBzbK" class="- topic/p ">1330</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="bSXswh" class="- topic/p "/>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="FTyIJt" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="EILknV" outputclass="Ctr">87-89</p>
+                        <p id="IMmfeP" outputclass="Ctr">91</p>
+                        <p id="JwYkro" outputclass="Ctr">93-96</p>
+                        <p id="McJVsz">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="qduYbo" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="UQDsyM"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="qONjUp" class="- topic/p ">S2</p>
+                     <entry colname="2" align="left">
+                        <p id="jqBHFk">N0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="MbhUyB" class="- topic/p ">06</p>
+                     <entry colname="3" align="left">
+                        <p id="cexFaB" outputclass="Ctr">10-20</p>
+                        <p id="HRDNWI" outputclass="Ctr">22-26</p>
+                        <p id="eejZos" outputclass="Ctr">28-32</p>
+                        <p id="JesBED" outputclass="Ctr">34-40</p>
+                        <p id="ykWNbZ" outputclass="Ctr">42-44</p>
+                        <p id="djImQm">46-49</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="qjSAXG" class="- topic/p ">11</p>
+                     <entry colname="4" align="left">
+                        <p id="liilxw" outputclass="Ctr">51-55</p>
+                        <p id="rneOQq" outputclass="Ctr">62</p>
+                        <p id="GdYAXe" outputclass="Ctr">66-69</p>
+                        <p id="csuHto" outputclass="Ctr">73</p>
+                        <p id="njppWP" outputclass="Ctr">77-81</p>
+                        <p id="WGuRwW">83-85</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="aoODqs" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="xtFbEt" class="- topic/p ">Knowledge Based Services</p>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="hxvNXi" outputclass="Ctr" class="- topic/p ">AA</p>
-                        <p id="WduavW" class="- topic/p ">AE</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="tTWmON" outputclass="Ctr" class="- topic/p ">16</p>
-                        <p id="sXtHBX" class="- topic/p ">26</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="PqVpiD" class="- topic/p ">36</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="iDxUxM" class="- topic/p ">96</p>
+                     <entry colname="5" align="left">
+                        <p id="QkKqxE" outputclass="Ctr">87</p>
+                        <p id="iBCglP" outputclass="Ctr">89</p>
+                        <p id="dRIkTx" outputclass="Ctr">91</p>
+                        <p id="IObjYC" outputclass="Ctr">93-96</p>
+                        <p id="gegvEK">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="aYsbnB" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="qaKcxY"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="SpEpnI" outputclass="Ctr" class="- topic/p ">AB</p>
-                        <p id="tFZSIq" outputclass="Ctr" class="- topic/p ">AH</p>
-                        <p id="BqvNtz" class="- topic/p ">AS</p>
+                     <entry colname="2" align="left">
+                        <p id="uPKLYc" outputclass="Ctr">P1</p>
+                        <p id="FyxXaJ" outputclass="Ctr">P2</p>
+                        <p id="raUKIV">P3</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="iGXoTo" outputclass="Ctr" class="- topic/p ">16</p>
-                        <p id="oNcCZA" class="- topic/p ">26</p>
+                     <entry colname="3" align="left">
+                        <p id="TCIlww">00</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="KMZMRO" outputclass="Ctr" class="- topic/p ">36</p>
-                        <p id="AwHhLH" class="- topic/p ">46</p>
+                     <entry colname="4" align="left">
+                        <p id="KvsIeS"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="OVmigW" class="- topic/p ">96</p>
+                     <entry colname="5" align="left">
+                        <p id="FKMLYJ"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="pqoblM" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="MHfByO"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="LNDthZ" outputclass="Ctr" class="- topic/p ">AC</p>
-                        <p id="aAGmTw" class="- topic/p ">AD</p>
+                     <entry colname="2" align="left">
+                        <p id="wpMQyf">P9</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="gSuEWB" outputclass="Ctr" class="- topic/p ">16</p>
-                        <p id="zzHsYP" outputclass="Ctr" class="- topic/p ">26</p>
-                        <p id="EJUbKs" class="- topic/p ">36</p>
+                     <entry colname="3" align="left">
+                        <p id="xShNaj">99</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="qELuhr" outputclass="Ctr" class="- topic/p ">46</p>
-                        <p id="PGJLwP" class="- topic/p ">56</p>
+                     <entry colname="4" align="left">
+                        <p id="EbOsuP"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="wFHGwN" outputclass="Ctr" class="- topic/p ">66</p>
-                        <p id="AHzyDM" class="- topic/p ">96</p>
+                     <entry colname="5" align="left">
+                        <p id="oPKhQB"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="AMaVhs" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="YyuBtM"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="moRYps" outputclass="Ctr" class="- topic/p ">AF</p>
-                        <p id="yEfgZv" outputclass="Ctr" class="- topic/p ">AK</p>
-                        <p id="XgGZji" outputclass="Ctr" class="- topic/p ">AM</p>
-                        <p id="qbDAMh" class="- topic/p ">AZ</p>
+                     <entry colname="2" align="left">
+                        <p id="PWNRqs">W0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="rjNXIr" class="- topic/p ">16</p>
+                     <entry colname="3" align="left">
+                        <p id="Mhqita" outputclass="Ctr">10-20</p>
+                        <p id="SFBWlf" outputclass="Ctr">22-26</p>
+                        <p id="kzucut" outputclass="Ctr">28-32</p>
+                        <p id="GPFlrZ" outputclass="Ctr">34-37</p>
+                        <p id="tteZFw" outputclass="Ctr">39-40</p>
+                        <p id="mIzKYt" outputclass="Ctr">42-44</p>
+                        <p id="cvBSLP">46-49</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="utsorT" class="- topic/p "/>
+                     <entry colname="4" align="left">
+                        <p id="nVFCtM" outputclass="Ctr">51-53</p>
+                        <p id="WvKszG" outputclass="Ctr">60</p>
+                        <p id="mLuAPI" outputclass="Ctr">66</p>
+                        <p id="vukhEp" outputclass="Ctr">68-69</p>
+                        <p id="LcktWC" outputclass="Ctr">73</p>
+                        <p id="ocapqJ">77</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="cDfLDE" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="INhDvu" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="LSTiEU" outputclass="Ctr" class="- topic/p ">AG</p>
-                        <p id="EDLbvw" outputclass="Ctr" class="- topic/p ">AN</p>
-                        <p id="tUxwVB" class="- topic/p ">AT</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="mfCzDR" outputclass="Ctr" class="- topic/p ">16</p>
-                        <p id="LcDKnA" outputclass="Ctr" class="- topic/p ">26</p>
-                        <p id="jZqTWi" class="- topic/p ">36</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="XkQfyx" outputclass="Ctr" class="- topic/p ">46</p>
-                        <p id="rWAdAd" outputclass="Ctr" class="- topic/p ">56</p>
-                        <p id="nEPkRZ" class="- topic/p ">66</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="PrkBXn" outputclass="Ctr" class="- topic/p ">76</p>
-                        <p id="myAhIn" outputclass="Ctr" class="- topic/p ">86</p>
-                        <p id="jhBpsz" class="- topic/p ">96</p>
+                     <entry colname="5" align="left">
+                        <p id="tWvLaz" outputclass="Ctr">80</p>
+                        <p id="KxnqkF" outputclass="Ctr">83</p>
+                        <p id="XVKjFt" outputclass="Ctr">89</p>
+                        <p id="JAQZyw" outputclass="Ctr">91</p>
+                        <p id="goDZNq" outputclass="Ctr">93-96</p>
+                        <p id="TXHeLx">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="ryUoFO" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="GQgqTO">Electronics and Communications</p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="JYLsOh" outputclass="Ctr" class="- topic/p ">AJ</p>
-                        <p id="akpECq" class="- topic/p ">AV</p>
+                     <entry colname="2" align="left">
+                        <p id="VaZMis">D3</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="EEYBSa" outputclass="Ctr" class="- topic/p ">16</p>
-                        <p id="lUirmg" outputclass="Ctr" class="- topic/p ">26</p>
-                        <p id="wdeOxc" class="- topic/p ">36</p>
+                     <entry colname="3" align="left">
+                        <p id="kGTmBs">01-22</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="BmoQQe" outputclass="Ctr" class="- topic/p ">46</p>
-                        <p id="rhadxA" outputclass="Ctr" class="- topic/p ">56</p>
-                        <p id="GYKaXB" class="- topic/p ">66</p>
+                     <entry colname="4" align="left">
+                        <p id="lxWOpA">24-25</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="FMfJmb" outputclass="Ctr" class="- topic/p ">76</p>
-                        <p id="kzEllx" class="- topic/p ">96</p>
+                     <entry colname="5" align="left">
+                        <p id="CwIHIf">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="ZcnICh" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="FocikN"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="qkpfbm" class="- topic/p ">AL</p>
+                     <entry colname="2" align="left">
+                        <p id="hXtNlf" outputclass="Ctr">H1</p>
+                        <p id="HNIMAu" outputclass="Ctr">H2</p>
+                        <p id="KyhhiY" outputclass="Ctr">H3</p>
+                        <p id="KbFbHf" outputclass="Ctr">H9</p>
+                        <p id="yGLAyV">N0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="hkdiLR" class="- topic/p ">16</p>
+                     <entry colname="3" align="left">
+                        <p id="QQBdFJ">58-63</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="mqjimb" class="- topic/p ">26</p>
+                     <entry colname="4" align="left">
+                        <p id="POpKhe">70</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="rWsStU" class="- topic/p ">96</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="OTMvQo" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="PDanQt" class="- topic/p ">AP</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="gMVQkJ" outputclass="Ctr" class="- topic/p ">26</p>
-                        <p id="kqsvDB" outputclass="Ctr" class="- topic/p ">36</p>
-                        <p id="fQRJhu" class="- topic/p ">46</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="SigdKs" outputclass="Ctr" class="- topic/p ">56</p>
-                        <p id="PazqKJ" class="- topic/p ">66</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="cTxwwx" outputclass="Ctr" class="- topic/p ">76</p>
-                        <p id="iEKFfh" class="- topic/p ">96</p>
+                     <entry colname="5" align="left">
+                        <p id="uQXAeY"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="oDNNHk" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="nIbUxH"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="OCGZxH" class="- topic/p ">AQ</p>
+                     <entry colname="2" align="left">
+                        <p id="mafDBD">J0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="ChwimB" class="- topic/p ">16</p>
+                     <entry colname="3" align="left">
+                        <p id="ZICUCp" outputclass="Ctr">58-61</p>
+                        <p id="VVAawD">63</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="JahjUZ" class="- topic/p ">96</p>
+                     <entry colname="4" align="left">
+                        <p id="NHdOWC">70</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="POWoZL" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="mpYotM" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="KSqJCc" class="- topic/p ">AR</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="PwWfmB" outputclass="Ctr" class="- topic/p ">16</p>
-                        <p id="hJUCCC" outputclass="Ctr" class="- topic/p ">26</p>
-                        <p id="anqAlS" class="- topic/p ">36</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="mHLbEp" outputclass="Ctr" class="- topic/p ">46</p>
-                        <p id="qxhbMS" class="- topic/p ">66</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="oqOrUV" outputclass="Ctr" class="- topic/p ">76</p>
-                        <p id="QBaMkF" class="- topic/p ">96</p>
+                     <entry colname="5" align="left">
+                        <p id="iEKuqC">99</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="upDJYR" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="rjkCMg"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="tRyjSc" class="- topic/p ">B5</p>
+                     <entry colname="2" align="left">
+                        <p id="lAuTPJ" outputclass="Ctr">K0</p>
+                        <p id="IOhARK">W0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="kdKYzv" outputclass="Ctr" class="- topic/p ">02-07</p>
-                        <p id="vWkVSE" outputclass="Ctr" class="- topic/p ">09-10</p>
-                        <p id="KFBjpk" class="- topic/p ">13</p>
+                     <entry colname="3" align="left">
+                        <p id="IKiNuO">58-61</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="DWZGDM" outputclass="Ctr" class="- topic/p ">16-22</p>
-                        <p id="mvroNl" outputclass="Ctr" class="- topic/p ">24-30</p>
-                        <p id="HflFpB" class="- topic/p ">32-34</p>
+                     <entry colname="4" align="left">
+                        <p id="uGnygY">63</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="qrRDZa" outputclass="Ctr" class="- topic/p ">37-55</p>
-                        <p id="XZBIGv" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="AwfJYb">70</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="xQxGTL" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="PMYDiu"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="HPchqN" class="- topic/p ">G0</p>
+                     <entry colname="2" align="left">
+                        <p id="UifElS">L0</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="aAtPKs" class="- topic/p ">01-10</p>
+                     <entry colname="3" align="left">
+                        <p id="VmazJg">58-61</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="ZvXLzm" class="- topic/p ">99</p>
+                     <entry colname="4" align="left">
+                        <p id="yUgUFT">62-63</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="ZlytLt" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="dnPYNn" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="DjZjHl" class="- topic/p ">R4</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="ZCGcHQ" outputclass="Ctr" class="- topic/p ">01-02</p>
-                        <p id="wqIQeB" outputclass="Ctr" class="- topic/p ">04-06</p>
-                        <p id="lFfLNi" outputclass="Ctr" class="- topic/p ">08</p>
-                        <p id="Esuufw" class="- topic/p ">10-12</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="PBeLdO" outputclass="Ctr" class="- topic/p ">14</p>
-                        <p id="EFoRvy" outputclass="Ctr" class="- topic/p ">16</p>
-                        <p id="cnDMQq" outputclass="Ctr" class="- topic/p ">18</p>
-                        <p id="CEpWtC" class="- topic/p ">20</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="RKXRJJ" outputclass="Ctr" class="- topic/p ">22-29</p>
-                        <p id="mWsBua" outputclass="Ctr" class="- topic/p ">31</p>
-                        <p id="ctUMLQ" class="- topic/p ">97-99</p>
+                     <entry colname="5" align="left">
+                        <p id="RcQPeh">70</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="AWRVig" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="qtnNoD"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="iOzlDT" class="- topic/p ">R6</p>
+                     <entry colname="2" align="left">
+                        <p id="LGCzDf">R4</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="yimZpt" outputclass="Ctr" class="- topic/p ">03</p>
-                        <p id="SsnUTQ" class="- topic/p ">05-12</p>
+                     <entry colname="3" align="left">
+                        <p id="vUBzbK">1330</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="BcymgY" class="- topic/p ">14-15</p>
+                     <entry colname="4" align="left">
+                        <p id="bSXswh"></p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="tEFdMH" class="- topic/p ">99</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="OdwPLU" class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="ZSmlTX" class="- topic/p ">R7</p>
-                     </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="ufKuby" class="- topic/p ">01-05</p>
-                     </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="uFQzly" class="- topic/p ">07-13</p>
-                     </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="AKRrii" class="- topic/p ">99</p>
+                     <entry colname="5" align="left">
+                        <p id="FTyIJt"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="xqyUrm" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="qduYbo"></p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="uDQQup" class="- topic/p ">T0</p>
+                     <entry colname="2" align="left">
+                        <p id="qONjUp">S2</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="EKTMRu" class="- topic/p ">01-16</p>
+                     <entry colname="3" align="left">
+                        <p id="MbhUyB">06</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="hyBBAy" class="- topic/p ">99</p>
+                     <entry colname="4" align="left">
+                        <p id="qjSAXG">11</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="zrZGFV" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="aoODqs"></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" align="left" class="- topic/entry ">
-                        <p id="UegmAv" class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="xtFbEt">Knowledge Based Services</p>
                      </entry>
-                     <entry colname="2" align="left" class="- topic/entry ">
-                        <p id="AOBcGZ" class="- topic/p ">U0</p>
+                     <entry colname="2" align="left">
+                        <p id="hxvNXi" outputclass="Ctr">AA</p>
+                        <p id="WduavW">AE</p>
                      </entry>
-                     <entry colname="3" align="left" class="- topic/entry ">
-                        <p id="olTMQf" class="- topic/p ">01-14</p>
+                     <entry colname="3" align="left">
+                        <p id="tTWmON" outputclass="Ctr">16</p>
+                        <p id="sXtHBX">26</p>
                      </entry>
-                     <entry colname="4" align="left" class="- topic/entry ">
-                        <p id="bJWBQV" class="- topic/p ">99</p>
+                     <entry colname="4" align="left">
+                        <p id="PqVpiD">36</p>
                      </entry>
-                     <entry colname="5" align="left" class="- topic/entry ">
-                        <p id="szkUQJ" class="- topic/p "/>
+                     <entry colname="5" align="left">
+                        <p id="iDxUxM">96</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="aYsbnB"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="SpEpnI" outputclass="Ctr">AB</p>
+                        <p id="tFZSIq" outputclass="Ctr">AH</p>
+                        <p id="BqvNtz">AS</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="iGXoTo" outputclass="Ctr">16</p>
+                        <p id="oNcCZA">26</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="KMZMRO" outputclass="Ctr">36</p>
+                        <p id="AwHhLH">46</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="OVmigW">96</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="pqoblM"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="LNDthZ" outputclass="Ctr">AC</p>
+                        <p id="aAGmTw">AD</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="gSuEWB" outputclass="Ctr">16</p>
+                        <p id="zzHsYP" outputclass="Ctr">26</p>
+                        <p id="EJUbKs">36</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="qELuhr" outputclass="Ctr">46</p>
+                        <p id="PGJLwP">56</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="wFHGwN" outputclass="Ctr">66</p>
+                        <p id="AHzyDM">96</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="AMaVhs"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="moRYps" outputclass="Ctr">AF</p>
+                        <p id="yEfgZv" outputclass="Ctr">AK</p>
+                        <p id="XgGZji" outputclass="Ctr">AM</p>
+                        <p id="qbDAMh">AZ</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="rjNXIr">16</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="utsorT"></p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="cDfLDE"></p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="INhDvu"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="LSTiEU" outputclass="Ctr">AG</p>
+                        <p id="EDLbvw" outputclass="Ctr">AN</p>
+                        <p id="tUxwVB">AT</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="mfCzDR" outputclass="Ctr">16</p>
+                        <p id="LcDKnA" outputclass="Ctr">26</p>
+                        <p id="jZqTWi">36</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="XkQfyx" outputclass="Ctr">46</p>
+                        <p id="rWAdAd" outputclass="Ctr">56</p>
+                        <p id="nEPkRZ">66</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="PrkBXn" outputclass="Ctr">76</p>
+                        <p id="myAhIn" outputclass="Ctr">86</p>
+                        <p id="jhBpsz">96</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="ryUoFO"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="JYLsOh" outputclass="Ctr">AJ</p>
+                        <p id="akpECq">AV</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="EEYBSa" outputclass="Ctr">16</p>
+                        <p id="lUirmg" outputclass="Ctr">26</p>
+                        <p id="wdeOxc">36</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="BmoQQe" outputclass="Ctr">46</p>
+                        <p id="rhadxA" outputclass="Ctr">56</p>
+                        <p id="GYKaXB">66</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="FMfJmb" outputclass="Ctr">76</p>
+                        <p id="kzEllx">96</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="ZcnICh"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="qkpfbm">AL</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="hkdiLR">16</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="mqjimb">26</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="rWsStU">96</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="OTMvQo"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="PDanQt">AP</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="gMVQkJ" outputclass="Ctr">26</p>
+                        <p id="kqsvDB" outputclass="Ctr">36</p>
+                        <p id="fQRJhu">46</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="SigdKs" outputclass="Ctr">56</p>
+                        <p id="PazqKJ">66</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="cTxwwx" outputclass="Ctr">76</p>
+                        <p id="iEKFfh">96</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="oDNNHk"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="OCGZxH">AQ</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="ChwimB">16</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="JahjUZ">96</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="POWoZL"></p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="mpYotM"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="KSqJCc">AR</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="PwWfmB" outputclass="Ctr">16</p>
+                        <p id="hJUCCC" outputclass="Ctr">26</p>
+                        <p id="anqAlS">36</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="mHLbEp" outputclass="Ctr">46</p>
+                        <p id="qxhbMS">66</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="oqOrUV" outputclass="Ctr">76</p>
+                        <p id="QBaMkF">96</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="upDJYR"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="tRyjSc">B5</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="kdKYzv" outputclass="Ctr">02-07</p>
+                        <p id="vWkVSE" outputclass="Ctr">09-10</p>
+                        <p id="KFBjpk">13</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="DWZGDM" outputclass="Ctr">16-22</p>
+                        <p id="mvroNl" outputclass="Ctr">24-30</p>
+                        <p id="HflFpB">32-34</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="qrRDZa" outputclass="Ctr">37-55</p>
+                        <p id="XZBIGv">99</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="xQxGTL"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="HPchqN">G0</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="aAtPKs">01-10</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="ZvXLzm">99</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="ZlytLt"></p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="dnPYNn"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="DjZjHl">R4</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="ZCGcHQ" outputclass="Ctr">01-02</p>
+                        <p id="wqIQeB" outputclass="Ctr">04-06</p>
+                        <p id="lFfLNi" outputclass="Ctr">08</p>
+                        <p id="Esuufw">10-12</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="PBeLdO" outputclass="Ctr">14</p>
+                        <p id="EFoRvy" outputclass="Ctr">16</p>
+                        <p id="cnDMQq" outputclass="Ctr">18</p>
+                        <p id="CEpWtC">20</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="RKXRJJ" outputclass="Ctr">22-29</p>
+                        <p id="mWsBua" outputclass="Ctr">31</p>
+                        <p id="ctUMLQ">97-99</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="AWRVig"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="iOzlDT">R6</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="yimZpt" outputclass="Ctr">03</p>
+                        <p id="SsnUTQ">05-12</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="BcymgY">14-15</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="tEFdMH">99</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="OdwPLU"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="ZSmlTX">R7</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="ufKuby">01-05</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="uFQzly">07-13</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="AKRrii">99</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="xqyUrm"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="uDQQup">T0</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="EKTMRu">01-16</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="hyBBAy">99</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="zrZGFV"></p>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" align="left">
+                        <p id="UegmAv"></p>
+                     </entry>
+                     <entry colname="2" align="left">
+                        <p id="AOBcGZ">U0</p>
+                     </entry>
+                     <entry colname="3" align="left">
+                        <p id="olTMQf">01-14</p>
+                     </entry>
+                     <entry colname="4" align="left">
+                        <p id="bJWBQV">99</p>
+                     </entry>
+                     <entry colname="5" align="left">
+                        <p id="szkUQJ"></p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p id="olMaCa" outputclass="Ctr" class="- topic/p "/>
+         <p id="olMaCa" outputclass="Ctr"></p>
       </conbody>
    </concept>
 </dita>

@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_241.202"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 241.202</ph> Procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(2)(A)  Do not use the connection charge provisions for the installation of Government-owned distribution lines and facilities.  The acquisition of such facilities must be authorized by legislation and accomplished in accordance with FAR Part 36.  Also, do not use the connection charge provisions for the installation of new facilities related to the supplier's production and general “backbone” system unless authorized by legislation.</p>
-         <p outputclass="List4" class="- topic/p ">(B)  Construction labor standards ordinarily do not apply to construction accomplished under the connection charge provisions of this part.  However, if installation includes construction of a public building or public work as defined in FAR 36.102, construction labor standards may apply.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_241.202" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 241.202</ph> Procedures.</title>
+      <conbody>
+         <p outputclass="List2">(2)(A)  Do not use the connection charge provisions for the installation of Government-owned distribution lines and facilities.  The acquisition of such facilities must be authorized by legislation and accomplished in accordance with FAR Part 36.  Also, do not use the connection charge provisions for the installation of new facilities related to the supplier's production and general “backbone” system unless authorized by legislation.</p>
+         <p outputclass="List4">(B)  Construction labor standards ordinarily do not apply to construction accomplished under the connection charge provisions of this part.  However, if installation includes construction of a public building or public work as defined in FAR 36.102, construction labor standards may apply.</p>
       </conbody>
    </concept>
 </dita>

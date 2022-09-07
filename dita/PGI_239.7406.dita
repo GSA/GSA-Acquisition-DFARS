@@ -1,42 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_239.7406"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 239.7406</ph> Certified costor pricing data and data other than certified cost or pricing data.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Examples of instances where certified cost or pricing
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_239.7406" outputclass="3" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">PGI 239.7406</ph> Certified costor pricing data and data other than certified cost or pricing data.</title>
+      <conbody>
+         <p>Examples of instances where certified cost or pricing
 data, if required in accordance with FAR 15.403-4, or data other than certified
 cost or pricing data, if required in accordance with FAR 15.403-3, may be necessary
 to support price reasonableness include—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Nontariffed services;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Special rates and charges not included
+         <p outputclass="List2">(1) Nontariffed services;</p>
+         <p outputclass="List2">(2) Special rates and charges not included
 in a tariff, whether filed or to be filed;</p>
-         <p outputclass="List2" class="- topic/p ">(3) Special assembly rates and charges;</p>
-         <p outputclass="List2" class="- topic/p ">(4) Special construction and equipment
+         <p outputclass="List2">(3) Special assembly rates and charges;</p>
+         <p outputclass="List2">(4) Special construction and equipment
 charges;</p>
-         <p outputclass="List2" class="- topic/p ">(5) Contingent liabilities that are fixed
+         <p outputclass="List2">(5) Contingent liabilities that are fixed
 at the outset of the service;</p>
-         <p outputclass="List2" class="- topic/p ">(6) Proposed cancellation and termination
-charges under the clause at <xref href="252.239-7007.dita#DFARS_252.239-7007"
-                  base="DFARS-252.239-7007"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7007</xref>,
+         <p outputclass="List2">(6) Proposed cancellation and termination
+charges under the clause at <xref href="252.239-7007.dita#DFARS_252.239-7007" base="DFARS-252.239-7007" outputclass="fm:ParaNumOnly">252.239-7007</xref>,
 Cancellation or Termination of Orders, and reuse arrangements under
-the clause at <xref href="252.239-7008.dita#DFARS_252.239-7008"
-                  base="DFARS-252.239-7008"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.239-7008</xref>,
+the clause at <xref href="252.239-7008.dita#DFARS_252.239-7008" base="DFARS-252.239-7008" outputclass="fm:ParaNumOnly">252.239-7008</xref>,
 Reuse Arrangements;</p>
-         <p outputclass="List2" class="- topic/p ">(7) Rates contained in voluntary tariffs
+         <p outputclass="List2">(7) Rates contained in voluntary tariffs
 filed by nondominant common carriers; or</p>
-         <p outputclass="List2" class="- topic/p ">(8) A tariff, whether filed or to be filed,
+         <p outputclass="List2">(8) A tariff, whether filed or to be filed,
 for new services installed or developed primarily for Government
 use.</p>
       </conbody>

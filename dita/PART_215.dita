@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS_PART_215">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 215</ph> - CONTRACTING BY NEGOTIATION</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DFARS_PART_215" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">Part 215</ph> - CONTRACTING BY NEGOTIATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -72,7 +71,11 @@
                   <xref outputclass="fm:TOC" href="SUBPART_215.3.dita#DFARS_SUBPART_215.3">Subpart 215.3 - SOURCE SELECTION</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised August 26, 2022"><p> <xref outputclass="fm:TOC" href="215.300.dita#DFARS_215.300">215.300 Scope of subpart.</xref> </p></li>
+                  <li rev="Revised August 26, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="215.300.dita#DFARS_215.300">215.300 Scope of subpart.</xref>
+                     </p>
+                  </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="215.303.dita#DFARS_215.303">215.303 Responsibilities.</xref>

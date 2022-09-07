@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_217.202"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 217.202</ph> Use of options.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1) Options may be used for foreign military sales (FMS) requirements.</p>
-         <p outputclass="List2" class="- topic/p ">(2) For sole source major systems for U.S. and U.S./FMS combined procurements, contracting officers, in coordination with program managers, are encouraged to—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Establish priced options for two years beyond the base year, so that negotiations of major systems will be conducted approximately every three years; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) In those cases where exact quantities are subject to variation, or FMS customers are not yet identified, establish range option pricing for both U.S. and FMS quantities. </p>
-         <p outputclass="List2" class="- topic/p ">(3) Consider use of surge options to support industrial capability. A surge option allows the Government, prior to final delivery, to—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Accelerate the contractor's production rate in accordance with a surge production plan or a delivery schedule provided by the contractor under the terms of the contract; and </p>
-         <p outputclass="List3" class="- topic/p ">(ii) Purchase additional quantities of supplies or services.</p>
-         <p outputclass="List2" class="- topic/p ">(4) See DFARS Subpart 217.74 for limitations on the use of undefinitized options.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_217.202" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 217.202</ph> Use of options.</title>
+      <conbody>
+         <p outputclass="List2">(1) Options may be used for foreign military sales (FMS) requirements.</p>
+         <p outputclass="List2">(2) For sole source major systems for U.S. and U.S./FMS combined procurements, contracting officers, in coordination with program managers, are encouraged to—</p>
+         <p outputclass="List3">(i) Establish priced options for two years beyond the base year, so that negotiations of major systems will be conducted approximately every three years; and</p>
+         <p outputclass="List3">(ii) In those cases where exact quantities are subject to variation, or FMS customers are not yet identified, establish range option pricing for both U.S. and FMS quantities. </p>
+         <p outputclass="List2">(3) Consider use of surge options to support industrial capability. A surge option allows the Government, prior to final delivery, to—</p>
+         <p outputclass="List3">(i) Accelerate the contractor's production rate in accordance with a surge production plan or a delivery schedule provided by the contractor under the terms of the contract; and </p>
+         <p outputclass="List3">(ii) Purchase additional quantities of supplies or services.</p>
+         <p outputclass="List2">(4) See DFARS Subpart 217.74 for limitations on the use of undefinitized options.</p>
       </conbody>
    </concept>
 </dita>

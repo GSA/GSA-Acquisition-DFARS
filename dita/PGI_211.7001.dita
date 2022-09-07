@@ -1,46 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_211.7001"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 211.7001</ph> Procedures.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="xMJALl" class="- topic/p ">Requiring activities are responsible for
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_211.7001" outputclass="3" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">PGI 211.7001</ph> Procedures.</title>
+      <conbody>
+         <p id="xMJALl">Requiring activities are responsible for
 developing and distributing purchase requests, except for the requirements
 for Military Interdepartmental Purchase Requests (MIPRs) (DD Form
-448) addressed in <xref href="PGI_253.208-1.dita#DFARS_PGI_PGI_253.208-1"
-                  base="DFARS-PGI_PGI_253.208-1"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="253.208-1">253.208-1</xref> .</p>
-         <p id="yHjvLg" outputclass="List1" class="- topic/p ">(a) Agencies may use a combined
+448) addressed in <xref href="PGI_253.208-1.dita#DFARS_PGI_PGI_253.208-1" base="DFARS-PGI_PGI_253.208-1" outputclass="fm:ParaNumOnly" xtrc="253.208-1">253.208-1</xref> .</p>
+         <p id="yHjvLg" outputclass="List1">(a) Agencies may use a combined
 numbering series for MIPRs and internal purchase requests, following
-the rules at <xref href="PGI_253.208-1.dita#DFARS_PGI_PGI_253.208-1"
-                  base="DFARS-PGI_PGI_253.208-1"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="253.208-1">253.208-1</xref> (c)(1)
+the rules at <xref href="PGI_253.208-1.dita#DFARS_PGI_PGI_253.208-1" base="DFARS-PGI_PGI_253.208-1" outputclass="fm:ParaNumOnly" xtrc="253.208-1">253.208-1</xref> (c)(1)
 for both. If using a separate numbering sequence for internal purchase
 requests, procedures shall be in place to ensure that the same number
 cannot be assigned to both a MIPR and an internal purchase request.
 Use of a purely internal tracking number in addition to the purchase
 request number is authorized and supported by the data standards. Number
 the purchase request by using—</p>
-         <p id="KmuLSH" outputclass="List2" class="- topic/p ">(1) The requiring activity’s
+         <p id="KmuLSH" outputclass="List2">(1) The requiring activity’s
 Department of Defense Activity Address Code (DODAAC), as described
 in DLM 4000.25 Volume 6, Chapter 2. DODAACs may be verified at https://www.transactionservices.dla.mil/daasinq.</p>
-         <p id="TqTvRu" outputclass="List2" class="- topic/p ">(2) A serial number of eight
+         <p id="TqTvRu" outputclass="List2">(2) A serial number of eight
 alphanumeric characters, excluding “I” and “O”; and</p>
-         <p id="sGhXfr" outputclass="List2" class="- topic/p ">(3) A revision number, with
+         <p id="sGhXfr" outputclass="List2">(3) A revision number, with
 the original request being assigned zero and subsequent revisions
 or amendments being numbered consecutively.</p>
-         <p id="JApFSe" outputclass="List1" class="- topic/p ">(b) Prior to taking action
+         <p id="JApFSe" outputclass="List1">(b) Prior to taking action
 on a purchase request, contracting officers shall ensure that the
 requiring activity has prepared the purchase requests in uniform
 contract format (see FAR 14.201-1 and 15.204), except for procurement
@@ -48,64 +34,49 @@ of construction (see part 36), which should follow the current edition
 of the Construction Specifications Institute format. Purchase requests shall
 include all supporting documentation required by local contract
 procedures.</p>
-         <p id="sgcnCR" outputclass="List1" class="- topic/p ">(c) Prior to taking action
+         <p id="sgcnCR" outputclass="List1">(c) Prior to taking action
 on a purchase request, contracting officers shall ensure that the
 purchase requests follow the line item rules and data requirements
-in DFARS <xref href="SUBPART_204.71.dita#DFARS_SUBPART_204.71"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">204.71</xref> . Purchase requests
+in DFARS <xref href="SUBPART_204.71.dita#DFARS_SUBPART_204.71" outputclass="fm:ParaNumOnly">204.71</xref> . Purchase requests
 for individual supplies (i.e., not bulk commodities such as oil)
 shall identify whether the item to be acquired is subject to the
-item unique identification requirements of DFARS <xref href="211.274-2.dita#DFARS_211.274-2"
-                  base="DFARS-211.274-2"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  xtrc="211.274-2">211.274-2</xref>.</p>
-         <p id="etkSzV" outputclass="List1" class="- topic/p ">(d)(1) Purchase requests
+item unique identification requirements of DFARS <xref href="211.274-2.dita#DFARS_211.274-2" base="DFARS-211.274-2" outputclass="fm:ParaNumOnly" xtrc="211.274-2">211.274-2</xref>.</p>
+         <p id="etkSzV" outputclass="List1">(d)(1) Purchase requests
 may be unfunded for planning purposes, partially funded, or fully
 funded.</p>
-         <p id="NiFZep" outputclass="List2" class="- topic/p ">(2) Funding data in purchase
+         <p id="NiFZep" outputclass="List2">(2) Funding data in purchase
 requests will, at a minimum, identify the following elements of
 the funding source: Department Code (e.g. 21 Army), Main Account
 (e.g. 1804, Operation and Maintenance, Navy), Subaccount (where
 applicable), and Fiscal Year. Lists of these codes are published
-in Supplement 1 to Volume I of the <i class="+ topic/ph hi-d/i ">Treasury Financial Manual,
-Federal Account Symbols and Titles</i>, generally referred to as <xref href="http://www.fms.treas.gov/fastbook/index.html"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">The FAST Book</xref>
-            <i class="+ topic/ph hi-d/i ">.</i>
+in Supplement 1 to Volume I of the <i>Treasury Financial Manual,
+Federal Account Symbols and Titles</i>, generally referred to as <xref href="http://www.fms.treas.gov/fastbook/index.html" format="html" scope="external">The FAST Book</xref>
+            <i>.</i>
          </p>
-         <p id="ikESfe" outputclass="List2" class="- topic/p ">(3) Agencies shall have sufficient
+         <p id="ikESfe" outputclass="List2">(3) Agencies shall have sufficient
 procedures in place to enable traceability of line items identified
 in the purchase request to those in the resulting contract. In developing
 such procedures, agencies shall ensure that provisions are made
 for circumstances in which the deliverables may be more completely
 defined during the process of soliciting offers and making an award.</p>
-         <p id="WggnMv" outputclass="List1" class="- topic/p ">(e) Contracting officers
+         <p id="WggnMv" outputclass="List1">(e) Contracting officers
 shall not obligate funds that have not been certified as currently
 available and suitable. All purchase requests shall be reviewed
 and certified after agreement on price and prior to award to ensure
 that the funds are—</p>
-         <p id="tarenC" outputclass="List2" class="- topic/p ">(1) Suitable and available
+         <p id="tarenC" outputclass="List2">(1) Suitable and available
 for the purpose and amount of the contract; and</p>
-         <p id="MljFuO" outputclass="List2" class="- topic/p ">(2) Traceable from the purchase
+         <p id="MljFuO" outputclass="List2">(2) Traceable from the purchase
 request to the resultant contract.</p>
-         <p id="CschPm" outputclass="List1" class="- topic/p ">(f) Purchase requests transmitted
+         <p id="CschPm" outputclass="List1">(f) Purchase requests transmitted
 between requiring systems and contract writing systems shall be
 transmitted via the Global EXchange system (GEX) using the Purchase
 Request Data Standard Extensible Markup Language (XML) format at
-               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html</xref>
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html" format="html" scope="external"> https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html</xref>
             .
 Copies shall be sent via the GEX to the Electronic Data Access (EDA)
 system at 
-               <xref href="http://eda.ogden.disa.mil"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">http://eda.ogden.disa.mil</xref>
+               <xref href="http://eda.ogden.disa.mil" format="html" scope="external">http://eda.ogden.disa.mil</xref>
             . Requiring
 systems and contract writing systems may use a format that can be
 translated to or from the purchase request Data Standard (XML) format.</p>

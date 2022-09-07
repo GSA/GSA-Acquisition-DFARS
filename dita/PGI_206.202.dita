@@ -1,138 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_206.202"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 206.202</ph> Establishing or maintaining alternative sources.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b)(i) Include the following information, as applicable, and any other information that may be pertinent, in the supporting documentation:</p>
-         <p outputclass="List4" class="- topic/p ">(A) The acquisition history of the supplies or services, including sources, prices, quantities, and dates of award.</p>
-         <p outputclass="List4" class="- topic/p ">(B) The circumstances that make it necessary to exclude the particular source from the contract action, including—</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) The reasons for the lack of or potential loss of alternative sources; e.g., the technical complexity and criticality of the supplies or services; and</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) The current annual requirement and projected needs for the supplies or services.</p>
-         <p outputclass="List4" class="- topic/p ">(C) Whether the existing source must be totally excluded from the contract action or whether a partial exclusion is sufficient.</p>
-         <p outputclass="List4" class="- topic/p ">(D) The potential effect of exclusion on the excluded source in terms of loss of capability to furnish the supplies or services in the future.</p>
-         <p outputclass="List4" class="- topic/p ">(E) When FAR 6.202(a)(1) is the authority, the basis for—</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) The determination of future competition; and</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) The determination of reduced overall costs. Include, as a minimum, a discussion of start-up costs, facility costs, duplicative administration costs, economic order quantities, and life cycle cost considerations. </p>
-         <p outputclass="List4" class="- topic/p ">(F) When FAR 6.202(a)(2) is the authority—</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) The current annual and mobilization requirements for the supplies or services, citing the source of, or the basis for, the data;</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) A comparison of current production capacity with that necessary to meet mobilization requirements;</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) An analysis of the risks of relying on the present source; and</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) A projection of the time required for a new source to acquire the necessary facilities and achieve the production capacity necessary to meet mobilization requirements.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The following is a sample format for Determination and Findings citing the authority of FAR 6.202(a):</p>
-         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_206.202" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 206.202</ph> Establishing or maintaining alternative sources.</title>
+      <conbody>
+         <p outputclass="List1">(b)(i) Include the following information, as applicable, and any other information that may be pertinent, in the supporting documentation:</p>
+         <p outputclass="List4">(A) The acquisition history of the supplies or services, including sources, prices, quantities, and dates of award.</p>
+         <p outputclass="List4">(B) The circumstances that make it necessary to exclude the particular source from the contract action, including—</p>
+         <p outputclass="List6">(<i>1</i>) The reasons for the lack of or potential loss of alternative sources; e.g., the technical complexity and criticality of the supplies or services; and</p>
+         <p outputclass="List6">(<i>2</i>) The current annual requirement and projected needs for the supplies or services.</p>
+         <p outputclass="List4">(C) Whether the existing source must be totally excluded from the contract action or whether a partial exclusion is sufficient.</p>
+         <p outputclass="List4">(D) The potential effect of exclusion on the excluded source in terms of loss of capability to furnish the supplies or services in the future.</p>
+         <p outputclass="List4">(E) When FAR 6.202(a)(1) is the authority, the basis for—</p>
+         <p outputclass="List6">(<i>1</i>) The determination of future competition; and</p>
+         <p outputclass="List6">(<i>2</i>) The determination of reduced overall costs. Include, as a minimum, a discussion of start-up costs, facility costs, duplicative administration costs, economic order quantities, and life cycle cost considerations. </p>
+         <p outputclass="List4">(F) When FAR 6.202(a)(2) is the authority—</p>
+         <p outputclass="List6">(<i>1</i>) The current annual and mobilization requirements for the supplies or services, citing the source of, or the basis for, the data;</p>
+         <p outputclass="List6">(<i>2</i>) A comparison of current production capacity with that necessary to meet mobilization requirements;</p>
+         <p outputclass="List6">(<i>3</i>) An analysis of the risks of relying on the present source; and</p>
+         <p outputclass="List6">(<i>4</i>) A projection of the time required for a new source to acquire the necessary facilities and achieve the production capacity necessary to meet mobilization requirements.</p>
+         <p outputclass="List3">(ii) The following is a sample format for Determination and Findings citing the authority of FAR 6.202(a):</p>
+         <table frame="all" colsep="0" rowsep="0">
+            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" rowheader="headers" />
+               <tbody>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Determination and Findings</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>Determination and Findings</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Authority to Exclude a Source</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>Authority to Exclude a Source</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">In accordance with 10 U.S.C. 2304(b)(1), it is my determination that the following contract action may be awarded using full and open competition after exclusion of ____________________*:</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>In accordance with 10 U.S.C. 2304(b)(1), it is my determination that the following contract action may be awarded using full and open competition after exclusion of ____________________*:</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">(Describe requirement.)</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>(Describe requirement.)</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Findings</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>Findings</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">The exclusion of _____________________*</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>The exclusion of _____________________*</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Alternate 1: will increase or maintain competition for this requirement and is expected to result in a reduction of $__________ in overall costs for the present and future acquisition of these supplies or services. (Describe how estimate was derived.)</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>Alternate 1: will increase or maintain competition for this requirement and is expected to result in a reduction of $__________ in overall costs for the present and future acquisition of these supplies or services. (Describe how estimate was derived.)</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Alternate 2: is in the interest of national defense because it will result in having a supplier available for furnishing these supplies or services in case of a national emergency or industrial mobilization. (Explain circumstances requiring exclusion of source.)</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>Alternate 2: is in the interest of national defense because it will result in having a supplier available for furnishing these supplies or services in case of a national emergency or industrial mobilization. (Explain circumstances requiring exclusion of source.)</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Alternate 3: is in the interest of national defense because it will result in establishment or maintenance of an essential engineering, research or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center. (Explain circumstances requiring exclusion of source.)</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>Alternate 3: is in the interest of national defense because it will result in establishment or maintenance of an essential engineering, research or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center. (Explain circumstances requiring exclusion of source.)</p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p "/>
+                  <row rowsep="0">
+                     <entry>
+                        <p></p>
                      </entry>
                   </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">* Identify source being excluded.</p>
+                  <row rowsep="0">
+                     <entry>
+                        <p>* Identify source being excluded.</p>
                      </entry>
                   </row>
                </tbody>

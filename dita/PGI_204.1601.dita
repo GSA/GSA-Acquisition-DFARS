@@ -1,41 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_204.1601"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 204.1601</ph> Policy.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Transition of PIID numbering</i>. Components are encouraged to transition to the Procurement Instrument Identifier (PIID) numbering schema as soon as possible, but no later than the date specified at DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.1601"
-                  href="204.1601.dita#DFARS_204.1601">204.1601</xref>(b).</p>
-         <p outputclass="List1" class="- topic/p ">(c)(i) A continued contract is issued solely for administrative reasons. When issuing a continued contract, the contracting officer shall perform the following tasks:</p>
-         <p outputclass="List4" class="- topic/p ">(A) Obtain approval at a level above the contracting officer before issuance of the continued contract.</p>
-         <p outputclass="List4" class="- topic/p ">(B) Assign a PIID to the continued contract that is different from the PIID assigned to the predecessor contract, using the uniform PIID numbering system prescribed in FAR 4.1603 and DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.1603"
-                  href="204.1603.dita#DFARS_204.1603">204.1603</xref>. The predecessor contract will retain the PIID originally assigned to it.</p>
-         <p outputclass="List4" class="- topic/p ">(C) Find a clear breaking point (e.g., between issuance of orders, exercise of options, or establishment of a new line of accounting) to issue the continued contract.</p>
-         <p outputclass="List4" class="- topic/p ">(D) Clearly segregate contractual requirements for purposes of Government inspection, acceptance, payment, and closeout. Supplies already delivered and services already performed under the predecessor contract will remain under the predecessor contract. This will allow the predecessor contract to be closed out when all inspection, acceptance, payment, and other closeout issues associated with supplies delivered and services performed under the predecessor contract are complete.</p>
-         <p outputclass="List4" class="- topic/p ">(E) Include in the continued contract all terms and conditions of the predecessor contract that pertain to the supplies and services yet to be delivered or performed. At the time it is issued, the continued contract may not in any way alter the prices or terms and conditions established in the predecessor contract.</p>
-         <p outputclass="List4" class="- topic/p ">(F) Provide advance notice to the contractor before issuance of the continued contract, to include the PIID and the effective date of the continued contract.</p>
-         <p outputclass="List4" class="- topic/p ">(G) Modify the predecessor contract to—</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Reflect any necessary administrative changes such as transfer of Government property, and make the Government property accountable under the continued contract;</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) Clearly state that future performance (e.g., issuance of orders or exercise of options) will be accomplished under the continued contract; and</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) Specify the administrative reason for issuing the continued contract.</p>
-         <p outputclass="List4" class="- topic/p ">(H) Reference the predecessor contract PIID on the face page of the continued contract to ensure traceability.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Sample language for the administrative modification to the predecessor contract follows:</p>
-         <p class="- topic/p ">This modification is issued for administrative purposes to facilitate continued contract performance due to [state the reason for assigning an additional PIID]. This modification is authorized in accordance with FAR 4.1601 and DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-204.1601"
-                  href="204.1601.dita#DFARS_204.1601">204.1601</xref>.</p>
-         <p class="- topic/p ">Supplies and services already acquired under this contract number shall remain solely under this contract number for purposes of Government inspection, acceptance, payment, and closeout. All future [delivery orders] [task orders] [options exercised] will be accomplished under continued contract [insert contract number].</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_204.1601" outputclass="3" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 204.1601</ph> Policy.</title>
+      <conbody>
+         <p outputclass="List1">(b) <i>Transition of PIID numbering</i>. Components are encouraged to transition to the Procurement Instrument Identifier (PIID) numbering schema as soon as possible, but no later than the date specified at DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-204.1601" href="204.1601.dita#DFARS_204.1601">204.1601</xref>(b).</p>
+         <p outputclass="List1">(c)(i) A continued contract is issued solely for administrative reasons. When issuing a continued contract, the contracting officer shall perform the following tasks:</p>
+         <p outputclass="List4">(A) Obtain approval at a level above the contracting officer before issuance of the continued contract.</p>
+         <p outputclass="List4">(B) Assign a PIID to the continued contract that is different from the PIID assigned to the predecessor contract, using the uniform PIID numbering system prescribed in FAR 4.1603 and DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-204.1603" href="204.1603.dita#DFARS_204.1603">204.1603</xref>. The predecessor contract will retain the PIID originally assigned to it.</p>
+         <p outputclass="List4">(C) Find a clear breaking point (e.g., between issuance of orders, exercise of options, or establishment of a new line of accounting) to issue the continued contract.</p>
+         <p outputclass="List4">(D) Clearly segregate contractual requirements for purposes of Government inspection, acceptance, payment, and closeout. Supplies already delivered and services already performed under the predecessor contract will remain under the predecessor contract. This will allow the predecessor contract to be closed out when all inspection, acceptance, payment, and other closeout issues associated with supplies delivered and services performed under the predecessor contract are complete.</p>
+         <p outputclass="List4">(E) Include in the continued contract all terms and conditions of the predecessor contract that pertain to the supplies and services yet to be delivered or performed. At the time it is issued, the continued contract may not in any way alter the prices or terms and conditions established in the predecessor contract.</p>
+         <p outputclass="List4">(F) Provide advance notice to the contractor before issuance of the continued contract, to include the PIID and the effective date of the continued contract.</p>
+         <p outputclass="List4">(G) Modify the predecessor contract to—</p>
+         <p outputclass="List6">(<i>1</i>) Reflect any necessary administrative changes such as transfer of Government property, and make the Government property accountable under the continued contract;</p>
+         <p outputclass="List6">(<i>2</i>) Clearly state that future performance (e.g., issuance of orders or exercise of options) will be accomplished under the continued contract; and</p>
+         <p outputclass="List6">(<i>3</i>) Specify the administrative reason for issuing the continued contract.</p>
+         <p outputclass="List4">(H) Reference the predecessor contract PIID on the face page of the continued contract to ensure traceability.</p>
+         <p outputclass="List3">(ii) Sample language for the administrative modification to the predecessor contract follows:</p>
+         <p>This modification is issued for administrative purposes to facilitate continued contract performance due to [state the reason for assigning an additional PIID]. This modification is authorized in accordance with FAR 4.1601 and DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-204.1601" href="204.1601.dita#DFARS_204.1601">204.1601</xref>.</p>
+         <p>Supplies and services already acquired under this contract number shall remain solely under this contract number for purposes of Government inspection, acceptance, payment, and closeout. All future [delivery orders] [task orders] [options exercised] will be accomplished under continued contract [insert contract number].</p>
       </conbody>
    </concept>
 </dita>

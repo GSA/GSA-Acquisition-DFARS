@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DFARS_PGI_PART_247">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI Part 247</ph> - TRANSPORTATION</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DFARS_PGI_PART_247" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI Part 247</ph> - TRANSPORTATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -58,8 +57,7 @@
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="PGI_247.305-10.dita#DFARS_PGI_PGI_247.305-10">PGI 247.305-10 Packing, marking, and consignment instructions.</xref>
+                              <xref outputclass="fm:TOC" href="PGI_247.305-10.dita#DFARS_PGI_PGI_247.305-10">PGI 247.305-10 Packing, marking, and consignment instructions.</xref>
                            </p>
                         </li>
                      </ul>

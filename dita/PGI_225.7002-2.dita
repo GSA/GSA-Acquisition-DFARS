@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_225.7002-2"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 225.7002-2</ph> Exceptions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Domestic nonavailability determinations.</i>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_225.7002-2" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 225.7002-2</ph> Exceptions.</title>
+      <conbody>
+         <p outputclass="List1">(b) <i>Domestic nonavailability determinations.</i>
          </p>
-         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Defense agencies other than the Defense Logistics Agency</i>.</p>
-         <p outputclass="List4" class="- topic/p ">(A) A defense agency requesting a domestic nonavailability determination must submit the request, including the proposed determination, to—</p>
-         <p class="- topic/p ">Principal Director, Defense Pricing and Contracting</p>
-         <p class="- topic/p ">ATTN: OUSD(A&amp;S) DPC/CP</p>
-         <p class="- topic/p ">3060 Defense Pentagon</p>
-         <p class="- topic/p ">Washington, DC 20301-3060.</p>
-         <p outputclass="List4" class="- topic/p ">(B) The Principal Director, Defense Pricing and Contracting, will forward the request to the Under Secretary of Defense (Acquisition and Sustainment) (USD(A&amp;S)) as appropriate.</p>
+         <p outputclass="List2">(3) <i>Defense agencies other than the Defense Logistics Agency</i>.</p>
+         <p outputclass="List4">(A) A defense agency requesting a domestic nonavailability determination must submit the request, including the proposed determination, to—</p>
+         <p>Principal Director, Defense Pricing and Contracting</p>
+         <p>ATTN: OUSD(A&amp;S) DPC/CP</p>
+         <p>3060 Defense Pentagon</p>
+         <p>Washington, DC 20301-3060.</p>
+         <p outputclass="List4">(B) The Principal Director, Defense Pricing and Contracting, will forward the request to the Under Secretary of Defense (Acquisition and Sustainment) (USD(A&amp;S)) as appropriate.</p>
       </conbody>
    </concept>
 </dita>

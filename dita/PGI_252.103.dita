@@ -1,44 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_252.103"
-            outputclass="3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 252.103</ph> Identificationof provisions and clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(c) Local provisions and clauses
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_PGI_PGI_252.103" outputclass="3" ditaarch:DITAArchVersion="1.2">
+      <title>
+         <ph props="autonumber">PGI 252.103</ph> Identificationof provisions and clauses.</title>
+      <conbody>
+         <p outputclass="List1">(c) Local provisions and clauses
 developed by departments and agencies for a single-use intended
 to meet the needs of an individual acquisition shall be identified
 by the title, date, and name of the department or agency that developed
 the local clause. For example, if “X” Agency negotiated a single-use
 clause for use of special government facilities during discussions,
 such clause would be identified in the contract as follows:</p>
-         <p class="- topic/p ">“Special Use of Government Facilities (DATE) X Agency”</p>
-         <p outputclass="List1" class="- topic/p ">(d)(1)(A) Local provisions and clauses
+         <p>“Special Use of Government Facilities (DATE) X Agency”</p>
+         <p outputclass="List1">(d)(1)(A) Local provisions and clauses
 that will be used on a repetitive basis shall be identified by—</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) The chapter assigned to the
+         <p outputclass="List6">(<i>1</i>) The chapter assigned to the
 department or agency under Title 48 of the Code of Federal Regulations
 (CFR);</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) FAR subpart “52.2”;</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>) The applicable FAR part;</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) A four-digit sequential number
-in the 9000 series for the suffix (see DFARS <xref href="252.101.dita#DFARS_252.101"
-                  base="DFARS-252.101"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.101</xref>(b)(2)(ii)(B));</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">5</i>) Title; and</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">6</i>) Date.</p>
-         <p outputclass="List4" class="- topic/p ">(B) For example, if “Y” Agency is assigned
+         <p outputclass="List6">(<i>2</i>) FAR subpart “52.2”;</p>
+         <p outputclass="List6">(<i>3</i>) The applicable FAR part;</p>
+         <p outputclass="List6">(<i>4</i>) A four-digit sequential number
+in the 9000 series for the suffix (see DFARS <xref href="252.101.dita#DFARS_252.101" base="DFARS-252.101" outputclass="fm:ParaNumOnly">252.101</xref>(b)(2)(ii)(B));</p>
+         <p outputclass="List6">(<i>5</i>) Title; and</p>
+         <p outputclass="List6">(<i>6</i>) Date.</p>
+         <p outputclass="List4">(B) For example, if “Y” Agency is assigned
 a CFR chapter number 99, and has developed a provision regarding
 an evaluation factor for past performance to be used on a repetitive
 basis in negotiated acquisitions, such provision would be identified
 as follows:</p>
-         <p class="- topic/p ">“9952.215-9XXX Past Performance Evaluation Factor (DATE)”</p>
+         <p>“9952.215-9XXX Past Performance Evaluation Factor (DATE)”</p>
       </conbody>
    </concept>
 </dita>

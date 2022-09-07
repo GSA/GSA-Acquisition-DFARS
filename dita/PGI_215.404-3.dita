@@ -1,57 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_215.404-3"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 215.404-3</ph> Subcontract pricing considerations.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) The contracting officer should consider the need for field pricing analysis and evaluation of lower-tier subcontractor proposals, and assistance to prime contractors when they are being denied access to lower-tier subcontractor records.</p>
-         <p outputclass="List3" class="- topic/p ">(i) When obtaining field pricing assistance on a prime contractor’s proposal, the contracting officer should request audit or field pricing assistance to analyze and evaluate the proposal of a subcontractor at any tier (notwithstanding availability of data or analyses performed by the prime contractor) if the contracting officer believes that such assistance is necessary to ensure the reasonableness of the total proposed price. Such assistance may be appropriate when, for example—</p>
-         <p outputclass="List4" class="- topic/p ">(A) There is a business relationship between the contractor and the subcontractor not conducive to independence and objectivity;</p>
-         <p outputclass="List4" class="- topic/p ">(B) The contractor is a sole source supplier and the subcontract costs represent a substantial part of the contract cost;</p>
-         <p outputclass="List4" class="- topic/p ">(C) The contractor has been denied access to the subcontractor’s records;</p>
-         <p outputclass="List4" class="- topic/p ">(D) The contracting officer determines that, because of factors such as the size of the proposed subcontract price, audit or field pricing assistance for a subcontract at any tier is critical to a fully detailed analysis of the prime contractor’s proposal;</p>
-         <p outputclass="List4" class="- topic/p ">(E) The contractor or higher-tier subcontractor has been cited for having significant estimating system deficiencies in the area of subcontract pricing, especially the failure to perform adequate cost analyses of proposed subcontract costs or to perform subcontract analyses prior to negotiation of the prime contract with the Government; or</p>
-         <p outputclass="List4" class="- topic/p ">(F) A lower-tier subcontractor has been cited as having significant estimating system deficiencies.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) It may be appropriate for the contracting officer or the ACO to provide assistance to a contractor or subcontractor at any tier, when the contractor or higher-tier subcontractor has been denied access to a subcontractor’s records in carrying out the responsibilities at FAR 15.404-3 to conduct price or cost analysis to determine the reasonableness of proposed subcontract prices. Under these circumstances, the contracting officer or the ACO should consider whether providing audit or field pricing assistance will serve a valid Government interest.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) When DoD performs the subcontract analysis, DoD shall furnish to the prime contractor or higher-tier subcontractor, with the consent of the subcontractor reviewed, a summary of the analysis performed in determining any unacceptable costs included in the subcontract proposal. If the subcontractor withholds consent, DoD shall furnish a range of unacceptable costs for each element in such a way as to prevent disclosure of subcontractor proprietary data.</p>
-         <p outputclass="List3" class="- topic/p ">(iv) Price redeterminable or fixed-price incentive contracts may include subcontracts placed on the same basis. When the contracting officer wants to reprice the prime contract even though the contractor has not yet established final prices for the subcontracts, the contracting officer may negotiate a firm contract price—</p>
-         <p outputclass="List4" class="- topic/p ">(A) If certified cost or pricing data on the subcontracts show the amounts to be reasonable and realistic; or</p>
-         <p outputclass="List4" class="- topic/p ">(B) If certified cost or pricing data on the subcontracts are too indefinite to determine whether the amounts are reasonable and realistic, but—</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Circumstances require prompt negotiation; and</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) A statement substantially as follows is included in the repricing modification of the prime contract:</p>
-         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="1"
-                    colsep="0"
-                    rowsep="0"
-                    outputclass="Table"
-                    class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="100*"
-                        colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">As soon as the Contractor establishes firm prices for each subcontract listed below, the Contractor shall submit (in the format and with the level of detail specified by the Contracting Officer) to the Contracting Officer the subcontractor's cost incurred in performing the subcontract and the final subcontract price. The Contractor and the Contracting Officer shall negotiate an equitable adjustment in the total amount paid or to be paid under this contract to reflect the final subcontract price.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_215.404-3" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 215.404-3</ph> Subcontract pricing considerations.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer should consider the need for field pricing analysis and evaluation of lower-tier subcontractor proposals, and assistance to prime contractors when they are being denied access to lower-tier subcontractor records.</p>
+         <p outputclass="List3">(i) When obtaining field pricing assistance on a prime contractor’s proposal, the contracting officer should request audit or field pricing assistance to analyze and evaluate the proposal of a subcontractor at any tier (notwithstanding availability of data or analyses performed by the prime contractor) if the contracting officer believes that such assistance is necessary to ensure the reasonableness of the total proposed price. Such assistance may be appropriate when, for example—</p>
+         <p outputclass="List4">(A) There is a business relationship between the contractor and the subcontractor not conducive to independence and objectivity;</p>
+         <p outputclass="List4">(B) The contractor is a sole source supplier and the subcontract costs represent a substantial part of the contract cost;</p>
+         <p outputclass="List4">(C) The contractor has been denied access to the subcontractor’s records;</p>
+         <p outputclass="List4">(D) The contracting officer determines that, because of factors such as the size of the proposed subcontract price, audit or field pricing assistance for a subcontract at any tier is critical to a fully detailed analysis of the prime contractor’s proposal;</p>
+         <p outputclass="List4">(E) The contractor or higher-tier subcontractor has been cited for having significant estimating system deficiencies in the area of subcontract pricing, especially the failure to perform adequate cost analyses of proposed subcontract costs or to perform subcontract analyses prior to negotiation of the prime contract with the Government; or</p>
+         <p outputclass="List4">(F) A lower-tier subcontractor has been cited as having significant estimating system deficiencies.</p>
+         <p outputclass="List3">(ii) It may be appropriate for the contracting officer or the ACO to provide assistance to a contractor or subcontractor at any tier, when the contractor or higher-tier subcontractor has been denied access to a subcontractor’s records in carrying out the responsibilities at FAR 15.404-3 to conduct price or cost analysis to determine the reasonableness of proposed subcontract prices. Under these circumstances, the contracting officer or the ACO should consider whether providing audit or field pricing assistance will serve a valid Government interest.</p>
+         <p outputclass="List3">(iii) When DoD performs the subcontract analysis, DoD shall furnish to the prime contractor or higher-tier subcontractor, with the consent of the subcontractor reviewed, a summary of the analysis performed in determining any unacceptable costs included in the subcontract proposal. If the subcontractor withholds consent, DoD shall furnish a range of unacceptable costs for each element in such a way as to prevent disclosure of subcontractor proprietary data.</p>
+         <p outputclass="List3">(iv) Price redeterminable or fixed-price incentive contracts may include subcontracts placed on the same basis. When the contracting officer wants to reprice the prime contract even though the contractor has not yet established final prices for the subcontracts, the contracting officer may negotiate a firm contract price—</p>
+         <p outputclass="List4">(A) If certified cost or pricing data on the subcontracts show the amounts to be reasonable and realistic; or</p>
+         <p outputclass="List4">(B) If certified cost or pricing data on the subcontracts are too indefinite to determine whether the amounts are reasonable and realistic, but—</p>
+         <p outputclass="List6">(<i>1</i>) Circumstances require prompt negotiation; and</p>
+         <p outputclass="List6">(<i>2</i>) A statement substantially as follows is included in the repricing modification of the prime contract:</p>
+         <table frame="all" colsep="0" rowsep="0">
+            <tgroup cols="1" colsep="0" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="100*" colsep="0" rowheader="headers" />
+               <tbody>
+                  <row rowsep="0">
+                     <entry>
+                        <p>As soon as the Contractor establishes firm prices for each subcontract listed below, the Contractor shall submit (in the format and with the level of detail specified by the Contracting Officer) to the Contracting Officer the subcontractor's cost incurred in performing the subcontract and the final subcontract price. The Contractor and the Contracting Officer shall negotiate an equitable adjustment in the total amount paid or to be paid under this contract to reflect the final subcontract price.</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List3" class="- topic/p ">(v) If the selection of the subcontractor is based on a trade-off among cost or price and other non-cost factors rather than lowest price, the analysis supporting subcontractor selection should include a discussion of the factors considered in the selection (also see FAR 15.101 and 15.304 and DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-215.304"
-                  href="215.304.dita#DFARS_215.304">215.304</xref>). If the contractor’s analysis is not adequate, return it for correction of deficiencies.</p>
-         <p outputclass="List3" class="- topic/p ">(vi) The contracting officer shall make every effort to ensure that fees negotiated by contractors for cost-plus-fixed-fee subcontracts do not exceed the fee limitations in FAR 15.404-4(c)(4).</p>
+         <p outputclass="List3">(v) If the selection of the subcontractor is based on a trade-off among cost or price and other non-cost factors rather than lowest price, the analysis supporting subcontractor selection should include a discussion of the factors considered in the selection (also see FAR 15.101 and 15.304 and DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-215.304" href="215.304.dita#DFARS_215.304">215.304</xref>). If the contractor’s analysis is not adequate, return it for correction of deficiencies.</p>
+         <p outputclass="List3">(vi) The contracting officer shall make every effort to ensure that fees negotiated by contractors for cost-plus-fixed-fee subcontracts do not exceed the fee limitations in FAR 15.404-4(c)(4).</p>
       </conbody>
    </concept>
 </dita>

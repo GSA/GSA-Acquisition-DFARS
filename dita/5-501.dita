@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_5-501"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5-501</ph> Reports.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Spare Parts Breakout Screening Report (RCS DD P&amp;L(Q&amp;SA)714A)</i>. This is a cumulative semi-annual report reflecting the accomplishments of the breakout program. The report describes the results of full and limited screening for provisioning and replenishment parts by number of different NSNs for each AMC. Departments and agencies shall also maintain actual cost data attributable to the Spare Parts Breakout Program which shall be forwarded on this report semi-annually.</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Spare Parts Acquisition Report (RCS DD P&amp;L(Q&amp;SA) 714B).</i> This is a cumulative semi-annual report for all purchases made of spare parts during the current fiscal year. This report describes the number and extended dollar value of different NSNs purchased for each AMC. Departments and agencies shall also maintain actual savings (or cost avoidance) data attributable to the Spare Parts Breakout Program which shall be forwarded on this report semi-annually. Because of extraneous factors such as contracting leadtimes and changes in spare parts requirements, this report will not always reflect the acquisition of the parts screened during a reporting period (contained on the Spare Parts Breakout Screening Report). Also, it will not show in all instances how the part was actually acquired. This report is intended to be an indication of the success of the breakout program, and designed to show trends in the coding and data available to buyers in the acquisition package.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_5-501" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">5-501</ph> Reports.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>Spare Parts Breakout Screening Report (RCS DD P&amp;L(Q&amp;SA)714A)</i>. This is a cumulative semi-annual report reflecting the accomplishments of the breakout program. The report describes the results of full and limited screening for provisioning and replenishment parts by number of different NSNs for each AMC. Departments and agencies shall also maintain actual cost data attributable to the Spare Parts Breakout Program which shall be forwarded on this report semi-annually.</p>
+         <p outputclass="List1">(b) <i>Spare Parts Acquisition Report (RCS DD P&amp;L(Q&amp;SA) 714B).</i> This is a cumulative semi-annual report for all purchases made of spare parts during the current fiscal year. This report describes the number and extended dollar value of different NSNs purchased for each AMC. Departments and agencies shall also maintain actual savings (or cost avoidance) data attributable to the Spare Parts Breakout Program which shall be forwarded on this report semi-annually. Because of extraneous factors such as contracting leadtimes and changes in spare parts requirements, this report will not always reflect the acquisition of the parts screened during a reporting period (contained on the Spare Parts Breakout Screening Report). Also, it will not show in all instances how the part was actually acquired. This report is intended to be an indication of the success of the breakout program, and designed to show trends in the coding and data available to buyers in the acquisition package.</p>
       </conbody>
    </concept>
 </dita>

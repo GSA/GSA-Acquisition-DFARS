@@ -1,57 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_237.171-3"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 237.171-3</ph> Policy.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b)(i) <i class="+ topic/ph hi-d/i ">Geographic areas of responsibility.</i> With regard to training for contractor personnel interacting with detainees—</p>
-         <p outputclass="List4" class="- topic/p ">(A) The Commander, U.S. Southern Command, is responsible for the U.S. military detention center at Guantanamo Bay, Cuba.</p>
-         <p outputclass="List4" class="- topic/p ">(B) The Commander, U.S. Joint Forces Command, is responsible for the Navy Consolidated Brig, Charleston, SC.</p>
-         <p outputclass="List4" class="- topic/p ">(C) The other combatant commander geographic areas of responsibility are identified in the Unified Command Plan, 1 March 2005, which can be found at: http://www.defenselink.mil/specials/unifiedcommand/.</p>
-         <p outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Point of contact information for each command:</i>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_237.171-3" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 237.171-3</ph> Policy.</title>
+      <conbody>
+         <p outputclass="List1">(b)(i) <i>Geographic areas of responsibility.</i> With regard to training for contractor personnel interacting with detainees—</p>
+         <p outputclass="List4">(A) The Commander, U.S. Southern Command, is responsible for the U.S. military detention center at Guantanamo Bay, Cuba.</p>
+         <p outputclass="List4">(B) The Commander, U.S. Joint Forces Command, is responsible for the Navy Consolidated Brig, Charleston, SC.</p>
+         <p outputclass="List4">(C) The other combatant commander geographic areas of responsibility are identified in the Unified Command Plan, 1 March 2005, which can be found at: http://www.defenselink.mil/specials/unifiedcommand/.</p>
+         <p outputclass="List3">(ii) <i>Point of contact information for each command:</i>
          </p>
-         <p class="- topic/p ">US Central Command (USCENTCOM)</p>
-         <p class="- topic/p ">Commander, Combined Forces Land Component Commander (CFLCC) a.k.a. Third Army, Ft. McPherson, Atlanta, GA</p>
-         <p class="- topic/p ">Staff Judge Advocate (SJA) Forward, Kuwait</p>
-         <p class="- topic/p ">POC: Lieutenant Colonel Gary Kluka</p>
-         <p class="- topic/p ">E-mail: Gary.Kluka@arifjan.arcent.army.mil </p>
-         <p class="- topic/p ">Comm: 011-965-389-6303; DSN: 318-430-6303; Alt. US numbers: 404-464-3721 or 404-464-4219</p>
-         <p class="- topic/p ">US European Command (USEUCOM)</p>
-         <p class="- topic/p ">Logistics and Security Assistance Directorate </p>
-         <p class="- topic/p ">Chief, Contingency Contracting and Contract Policy Division (USEUCOM J4-LS)</p>
-         <p class="- topic/p ">POC: Major Michael Debreczini debreczm@eucom.smil.mil</p>
-         <p class="- topic/p ">Comm: 011-49-711-680-7202; DSN: 314-0430-7202</p>
-         <p class="- topic/p ">US Joint Forces Command (USJFCOM) </p>
-         <p class="- topic/p ">**Applicable to potential detainees in the United States at Navy Consolidated Brig, Charleston, SC</p>
-         <p class="- topic/p ">Headquarters, USJFCOM (J355)</p>
-         <p class="- topic/p ">Personnel Recovery &amp; Special Operations Division (J355)</p>
-         <p class="- topic/p ">POC: Lieutenenat Colonel John Maraia</p>
-         <p class="- topic/p ">Comm: 757-836-5799; DSN: 836-5799</p>
-         <p class="- topic/p ">US Northern Command (USNORTHCOM) </p>
-         <p class="- topic/p ">Not applicable to USNORTHCOM; see US Joint Forces Command</p>
-         <p class="- topic/p ">US Pacific Command (USPACOM)</p>
-         <p class="- topic/p ">Headquarters, Office of the Staff Judge Advocate (SJA)</p>
-         <p class="- topic/p ">Deputy Staff Judge Advocate</p>
-         <p class="- topic/p ">POC: Lieutenant Colonel James Buckels, USAF james.buckels@pacom.mil</p>
-         <p class="- topic/p ">Comm: 808-477-1193</p>
-         <p class="- topic/p ">US Southern Command (USSOUTHCOM)</p>
-         <p class="- topic/p ">Headquarters, Office of the Staff Judge Advocate (SJA)</p>
-         <p class="- topic/p ">Joint Task Force Guanatanamo Bay</p>
-         <p class="- topic/p ">POC: Lieutenant Commander Tony Dealicante</p>
-         <p class="- topic/p ">DealicanteTF@JTFGTMO.southcom.mil</p>
-         <p class="- topic/p ">Comm: 011-5399-9916; DSN: 660-9916</p>
-         <p class="- topic/p ">US Special Operations Command (USSOCOM)</p>
-         <p class="- topic/p ">Headquarters, Office of the Staff Judge Advocate (SJA)</p>
-         <p class="- topic/p ">Attn: Staff Judge Advocate</p>
-         <p class="- topic/p ">POC: Colonel Dana Chipman chipmad@socom.mil</p>
-         <p class="- topic/p ">Comm: 813-828-3288; DSN: 299-3288</p>
+         <p>US Central Command (USCENTCOM)</p>
+         <p>Commander, Combined Forces Land Component Commander (CFLCC) a.k.a. Third Army, Ft. McPherson, Atlanta, GA</p>
+         <p>Staff Judge Advocate (SJA) Forward, Kuwait</p>
+         <p>POC: Lieutenant Colonel Gary Kluka</p>
+         <p>E-mail: Gary.Kluka@arifjan.arcent.army.mil </p>
+         <p>Comm: 011-965-389-6303; DSN: 318-430-6303; Alt. US numbers: 404-464-3721 or 404-464-4219</p>
+         <p>US European Command (USEUCOM)</p>
+         <p>Logistics and Security Assistance Directorate </p>
+         <p>Chief, Contingency Contracting and Contract Policy Division (USEUCOM J4-LS)</p>
+         <p>POC: Major Michael Debreczini debreczm@eucom.smil.mil</p>
+         <p>Comm: 011-49-711-680-7202; DSN: 314-0430-7202</p>
+         <p>US Joint Forces Command (USJFCOM) </p>
+         <p>**Applicable to potential detainees in the United States at Navy Consolidated Brig, Charleston, SC</p>
+         <p>Headquarters, USJFCOM (J355)</p>
+         <p>Personnel Recovery &amp; Special Operations Division (J355)</p>
+         <p>POC: Lieutenenat Colonel John Maraia</p>
+         <p>Comm: 757-836-5799; DSN: 836-5799</p>
+         <p>US Northern Command (USNORTHCOM) </p>
+         <p>Not applicable to USNORTHCOM; see US Joint Forces Command</p>
+         <p>US Pacific Command (USPACOM)</p>
+         <p>Headquarters, Office of the Staff Judge Advocate (SJA)</p>
+         <p>Deputy Staff Judge Advocate</p>
+         <p>POC: Lieutenant Colonel James Buckels, USAF james.buckels@pacom.mil</p>
+         <p>Comm: 808-477-1193</p>
+         <p>US Southern Command (USSOUTHCOM)</p>
+         <p>Headquarters, Office of the Staff Judge Advocate (SJA)</p>
+         <p>Joint Task Force Guanatanamo Bay</p>
+         <p>POC: Lieutenant Commander Tony Dealicante</p>
+         <p>DealicanteTF@JTFGTMO.southcom.mil</p>
+         <p>Comm: 011-5399-9916; DSN: 660-9916</p>
+         <p>US Special Operations Command (USSOCOM)</p>
+         <p>Headquarters, Office of the Staff Judge Advocate (SJA)</p>
+         <p>Attn: Staff Judge Advocate</p>
+         <p>POC: Colonel Dana Chipman chipmad@socom.mil</p>
+         <p>Comm: 813-828-3288; DSN: 299-3288</p>
       </conbody>
    </concept>
 </dita>

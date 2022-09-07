@@ -1,50 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_208.406-1"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 208.406-1</ph> Order placement.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">(1) When ordering from schedules, ordering offices—</p>
-         <p outputclass="List3" class="- topic/p ">(i) May use DD Form 1155, Order for Supplies or Services, to place orders for—</p>
-         <p outputclass="List4" class="- topic/p ">(A) Commercial items at or below the simplified acquisition threshold; and</p>
-         <p outputclass="List4" class="- topic/p ">(B) Other than commercial items at any dollar value (see PGI 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-PGI_PGI_213.307"
-                  href="PGI_213.307.dita#DFARS_PGI_PGI_213.307"
-                  xtrc="213.307">213.307</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_208.406-1" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 208.406-1</ph> Order placement.</title>
+      <conbody>
+         <p outputclass="List2">(1) When ordering from schedules, ordering offices—</p>
+         <p outputclass="List3">(i) May use DD Form 1155, Order for Supplies or Services, to place orders for—</p>
+         <p outputclass="List4">(A) Commercial items at or below the simplified acquisition threshold; and</p>
+         <p outputclass="List4">(B) Other than commercial items at any dollar value (see PGI 
+               <xref outputclass="fm:ParaNumOnly" base="DFARS-PGI_PGI_213.307" href="PGI_213.307.dita#DFARS_PGI_PGI_213.307" xtrc="213.307">213.307</xref>
             );</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Shall use SF 1449, Solicitation/Contract/Order for Commercial Items, to place orders for commercial items exceeding the simplified acquisition threshold (see FAR 12.204); and</p>
-         <p outputclass="List3" class="- topic/p ">(iii) May use SF 1449 to place orders for other than commercial items at any dollar value.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Schedule orders may be placed orally if—</p>
-         <p outputclass="List3" class="- topic/p ">(i) The contractor agrees to furnish a delivery ticket for each shipment under the order (in the number of copies required by the ordering office). The ticket must include the—</p>
-         <p outputclass="List4" class="- topic/p ">(A) Contract number;</p>
-         <p outputclass="List4" class="- topic/p ">(B) Order number under the contract;</p>
-         <p outputclass="List4" class="- topic/p ">(C) Date of order;</p>
-         <p outputclass="List4" class="- topic/p ">(D) Name and title of person placing the order;</p>
-         <p outputclass="List4" class="- topic/p ">(E) Itemized listing of supplies or services furnished; and</p>
-         <p outputclass="List4" class="- topic/p ">(F) Date of delivery or shipment; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Invoicing procedures are agreed upon. Optional methods of submitting invoices for payment are permitted, such as—</p>
-         <p outputclass="List4" class="- topic/p ">(A) An individual invoice with a receipted copy of the delivery ticket;</p>
-         <p outputclass="List4" class="- topic/p ">(B) A summarized monthly invoice covering all oral orders made during the month, with receipted copies of the delivery tickets (this option is preferred if there are many oral orders); or</p>
-         <p outputclass="List4" class="- topic/p ">(C) A contracting officer statement that the Government has received the supplies.</p>
-         <p outputclass="List2" class="- topic/p ">(3) For purchases where cash payment is an advantage, the use of imprest funds in accordance with DFARS <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-213.305"
-                  href="213.305.dita#DFARS_213.305"
-                  xtrc="213.305">213.305</xref> is authorized when—</p>
-         <p outputclass="List3" class="- topic/p ">(i) The order does not exceed the threshold at FAR 13.305-3(a); and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The contractor agrees to the procedure.</p>
-         <p outputclass="List2" class="- topic/p ">(4) If permitted under the schedule contract, use of the Governmentwide commercial purchase card—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Is mandatory for placement of orders valued at or below the micro-purchase threshold; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Is optional for placement of orders valued above the micro-purchase threshold.</p>
+         <p outputclass="List3">(ii) Shall use SF 1449, Solicitation/Contract/Order for Commercial Items, to place orders for commercial items exceeding the simplified acquisition threshold (see FAR 12.204); and</p>
+         <p outputclass="List3">(iii) May use SF 1449 to place orders for other than commercial items at any dollar value.</p>
+         <p outputclass="List2">(2) Schedule orders may be placed orally if—</p>
+         <p outputclass="List3">(i) The contractor agrees to furnish a delivery ticket for each shipment under the order (in the number of copies required by the ordering office). The ticket must include the—</p>
+         <p outputclass="List4">(A) Contract number;</p>
+         <p outputclass="List4">(B) Order number under the contract;</p>
+         <p outputclass="List4">(C) Date of order;</p>
+         <p outputclass="List4">(D) Name and title of person placing the order;</p>
+         <p outputclass="List4">(E) Itemized listing of supplies or services furnished; and</p>
+         <p outputclass="List4">(F) Date of delivery or shipment; and</p>
+         <p outputclass="List3">(ii) Invoicing procedures are agreed upon. Optional methods of submitting invoices for payment are permitted, such as—</p>
+         <p outputclass="List4">(A) An individual invoice with a receipted copy of the delivery ticket;</p>
+         <p outputclass="List4">(B) A summarized monthly invoice covering all oral orders made during the month, with receipted copies of the delivery tickets (this option is preferred if there are many oral orders); or</p>
+         <p outputclass="List4">(C) A contracting officer statement that the Government has received the supplies.</p>
+         <p outputclass="List2">(3) For purchases where cash payment is an advantage, the use of imprest funds in accordance with DFARS <xref outputclass="fm:ParaNumOnly" base="DFARS-213.305" href="213.305.dita#DFARS_213.305" xtrc="213.305">213.305</xref> is authorized when—</p>
+         <p outputclass="List3">(i) The order does not exceed the threshold at FAR 13.305-3(a); and</p>
+         <p outputclass="List3">(ii) The contractor agrees to the procedure.</p>
+         <p outputclass="List2">(4) If permitted under the schedule contract, use of the Governmentwide commercial purchase card—</p>
+         <p outputclass="List3">(i) Is mandatory for placement of orders valued at or below the micro-purchase threshold; and</p>
+         <p outputclass="List3">(ii) Is optional for placement of orders valued above the micro-purchase threshold.</p>
       </conbody>
    </concept>
 </dita>

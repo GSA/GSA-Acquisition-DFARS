@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_PGI_204.7303-1"
-            outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI 204.7303-1</ph> General.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) The contracting officer will be notified by the requiring activity when a solicitation is expected to result in a contract, task order, or delivery order that will involve—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Covered defense information; or </p>
-         <p outputclass="List2" class="- topic/p ">(2) Operationally critical support.</p>
-         <p outputclass="List1" class="- topic/p ">(b) The contracting officer shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Ensure that the requiring activity provides a work statement or specification that includes the identification of covered defense information or operationally critical support consistent with paragraph (a).</p>
-         <p outputclass="List2" class="- topic/p ">(2) Ensure that the solicitation and resultant contract, task order, or delivery order includes the requirement (such as a contract data requirements list), as provided by the requiring activity, for the contractor to apply markings, when appropriate, on covered defense information.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_PGI_204.7303-1" outputclass="4" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">PGI 204.7303-1</ph> General.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer will be notified by the requiring activity when a solicitation is expected to result in a contract, task order, or delivery order that will involve—</p>
+         <p outputclass="List2">(1) Covered defense information; or </p>
+         <p outputclass="List2">(2) Operationally critical support.</p>
+         <p outputclass="List1">(b) The contracting officer shall—</p>
+         <p outputclass="List2">(1) Ensure that the requiring activity provides a work statement or specification that includes the identification of covered defense information or operationally critical support consistent with paragraph (a).</p>
+         <p outputclass="List2">(2) Ensure that the solicitation and resultant contract, task order, or delivery order includes the requirement (such as a contract data requirements list), as provided by the requiring activity, for the contractor to apply markings, when appropriate, on covered defense information.</p>
       </conbody>
    </concept>
 </dita>

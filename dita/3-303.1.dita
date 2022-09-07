@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_PGI_3-303.1"
-            outputclass="5"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">3-303.1</ph> Data collection phase (step 1).</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Assemble all available data and establish a file for each part. Collect identification data, relevant data obtained from industry, contracting and technical history data and current status of the part, including—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Normal identification required for cataloging and standardization review;</p>
-         <p outputclass="List2" class="- topic/p ">(2) All known sources;</p>
-         <p outputclass="List2" class="- topic/p ">(3) Historical contracting information, including the more recent awards, date of awards, and unit price(s) for the quantities prescribed;</p>
-         <p outputclass="List2" class="- topic/p ">(4) Identification of the actual manufacturer(s), the latest unit price, and the quantity on which the price is based. (When the actual manufacturer is not the design control activity, the design control activity may be consulted to ensure the latest version of the item is being procured from the actual manufacturer);</p>
-         <p outputclass="List2" class="- topic/p ">(5) Identification of the activity, Government or industry, having design control over the part and, if industry, the cognizant Government engineering activity;</p>
-         <p outputclass="List2" class="- topic/p ">(6) The expected life in the military supply system;</p>
-         <p outputclass="List2" class="- topic/p ">(7) Record of any prior review for breakout, with results or findings; and</p>
-         <p outputclass="List2" class="- topic/p ">(8) Annual demand.</p>
-         <p outputclass="List1" class="- topic/p ">(b) In the case of complex items requiring large numbers of drawings, collection of a reasonable technical data sample is sufficient for the initial technical data evaluation phase (steps 2-14).</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_3-303.1" outputclass="5" ditaarch:DITAArchVersion="1.3">
+      <title>
+         <ph props="autonumber">3-303.1</ph> Data collection phase (step 1).</title>
+      <conbody>
+         <p outputclass="List1">(a) Assemble all available data and establish a file for each part. Collect identification data, relevant data obtained from industry, contracting and technical history data and current status of the part, including—</p>
+         <p outputclass="List2">(1) Normal identification required for cataloging and standardization review;</p>
+         <p outputclass="List2">(2) All known sources;</p>
+         <p outputclass="List2">(3) Historical contracting information, including the more recent awards, date of awards, and unit price(s) for the quantities prescribed;</p>
+         <p outputclass="List2">(4) Identification of the actual manufacturer(s), the latest unit price, and the quantity on which the price is based. (When the actual manufacturer is not the design control activity, the design control activity may be consulted to ensure the latest version of the item is being procured from the actual manufacturer);</p>
+         <p outputclass="List2">(5) Identification of the activity, Government or industry, having design control over the part and, if industry, the cognizant Government engineering activity;</p>
+         <p outputclass="List2">(6) The expected life in the military supply system;</p>
+         <p outputclass="List2">(7) Record of any prior review for breakout, with results or findings; and</p>
+         <p outputclass="List2">(8) Annual demand.</p>
+         <p outputclass="List1">(b) In the case of complex items requiring large numbers of drawings, collection of a reasonable technical data sample is sufficient for the initial technical data evaluation phase (steps 2-14).</p>
       </conbody>
    </concept>
 </dita>
