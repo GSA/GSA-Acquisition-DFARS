@@ -16,18 +16,52 @@
                   base="DFARS-239.7604"
                   class="- topic/xref ">239.7604</xref>
             (b), use the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">CLOUD COMPUTING SERVICES (OCT 2016)</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p " rev="Revised September 29, 2022">CLOUD
+            COMPUTING SERVICES (SEP 2022)</p>
          <p outputclass="List1" class="- topic/p ">(a)<i class="+ topic/ph hi-d/i ">Definitions.</i>As used in this clause<i class="+ topic/ph hi-d/i ">—</i>
          </p>
-         <p class="- topic/p ">“Authorizing official,” as described in DoD Instruction 8510.01, Risk Management Framework (RMF) for DoD Information Technology (IT), means the senior Federal official or executive with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation.</p>
-         <p class="- topic/p ">“Cloud computing” means a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. This includes other commercial terms, such as on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service. It also includes commercial offerings for software-as-a-service, infrastructure-as-a-service, and platform-as-a-service.</p>
-         <p class="- topic/p ">“Compromise” means disclosure of information to unauthorized persons, or a violation of the security policy of a system, in which unauthorized intentional or unintentional disclosure, modification, destruction, or loss of an object, or the copying of information to unauthorized media may have occurred.</p>
-         <p class="- topic/p ">“Cyber incident” means actions taken through the use of computer networks that result in a compromise or an actual or potentially adverse effect on an information system and/or the information residing therein.</p>
-         <p class="- topic/p ">“Government data” means any information, document, media, or machine readable material regardless of physical form or characteristics, that is created or obtained by the Government in the course of official Government business.</p>
-         <p class="- topic/p ">“Government-related data” means any information, document, media, or machine readable material regardless of physical form or characteristics that is created or obtained by a contractor through the storage, processing, or communication of Government data. This does not include contractor’s business records e.g. financial records, legal records etc. or data such as operating procedures, software coding or algorithms that are not uniquely applied to the Government data.</p>
-         <p class="- topic/p ">“Information system” means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information.</p>
-         <p class="- topic/p ">“Media” means physical devices or writing surfaces including, but not limited to, magnetic tapes, optical disks, magnetic disks, large-scale integration memory chips, and printouts onto which information is recorded, stored, or printed within an information system.</p>
-         <p class="- topic/p ">“Spillage” security incident that results in the transfer of classified or controlled unclassified information onto an information system not accredited (i.e., authorized) for the appropriate security level.</p>
+         <p class="- topic/p " outputclass="List1">“Authorizing official,” as described in DoD
+            Instruction 8510.01, Risk Management Framework (RMF) for DoD Information Technology
+            (IT), means the senior Federal official or executive with the authority to formally
+            assume responsibility for operating an information system at an acceptable level of risk
+            to organizational operations (including mission, functions, image, or reputation),
+            organizational assets, individuals, other organizations, and the Nation.</p>
+         <p class="- topic/p " outputclass="List1">“Cloud computing” means a model for enabling
+            ubiquitous, convenient, on-demand network access to a shared pool of configurable
+            computing resources (e.g., networks, servers, storage, applications, and services) that
+            can be rapidly provisioned and released with minimal management effort or service
+            provider interaction. This includes other commercial terms, such as on-demand
+            self-service, broad network access, resource pooling, rapid elasticity, and measured
+            service. It also includes commercial offerings for software-as-a-service,
+            infrastructure-as-a-service, and platform-as-a-service.</p>
+         <p class="- topic/p " outputclass="List1">“Compromise” means disclosure of information to
+            unauthorized persons, or a violation of the security policy of a system, in which
+            unauthorized intentional or unintentional disclosure, modification, destruction, or loss
+            of an object, or the copying of information to unauthorized media may have occurred.</p>
+         <p class="- topic/p " outputclass="List1">“Cyber incident” means actions taken through the
+            use of computer networks that result in a compromise or an actual or potentially adverse
+            effect on an information system and/or the information residing therein.</p>
+         <p class="- topic/p " outputclass="List1">“Government data” means any information,
+            document, media, or machine readable material regardless of physical form or
+            characteristics, that is created or obtained by the Government in the course of official
+            Government business.</p>
+         <p class="- topic/p " outputclass="List1">“Government-related data” means any information,
+            document, media, or machine readable material regardless of physical form or
+            characteristics that is created or obtained by a contractor through the storage,
+            processing, or communication of Government data. This does not include contractor’s
+            business records e.g. financial records, legal records etc. or data such as operating
+            procedures, software coding or algorithms that are not uniquely applied to the
+            Government data.</p>
+         <p class="- topic/p " outputclass="List1">“Information system” means a discrete set of
+            information resources organized for the collection, processing, maintenance, use,
+            sharing, dissemination, or disposition of information.</p>
+         <p class="- topic/p " outputclass="List1">“Media” means physical devices or writing
+            surfaces including, but not limited to, magnetic tapes, optical disks, magnetic disks,
+            large-scale integration memory chips, and printouts onto which information is recorded,
+            stored, or printed within an information system.</p>
+         <p class="- topic/p " outputclass="List1">“Spillage” security incident that results in the
+            transfer of classified or controlled unclassified information onto an information system
+            not accredited (i.e., authorized) for the appropriate security level.</p>
          <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Cloud computing security requirements.</i> The requirements of this clause are applicable when using cloud computing to provide information technology services in the performance of the contract.</p>
          <p outputclass="List2" class="- topic/p ">(1) If the Contractor indicated in its offer that it “does not anticipate the use of cloud computing services in the performance of a resultant contract,” in response to provision 
                <xref outputclass="fm:ParaNumOnly"
@@ -35,7 +69,15 @@
                   base="i1383749"
                   class="- topic/xref ">252.239-7009</xref>
             , Representation of Use of Cloud Computing, and after the award of this contract, the Contractor proposes to use cloud computing services in the performance of the contract, the Contractor shall obtain approval from the Contracting Officer prior to utilizing cloud computing services in performance of the contract.</p>
-         <p outputclass="List2" class="- topic/p ">(2) The Contractor shall implement and maintain administrative, technical, and physical safeguards and controls with the security level and services required in accordance with the Cloud Computing Security Requirements Guide (SRG) (version in effect at the time the solicitation is issued or as authorized by the Contracting Officer) found at http://iase.disa.mil/cloud_security/Pages/index.aspx, unless notified by the Contracting Officer that this requirement has been waived by the DoD Chief Information Officer.</p>
+         <p outputclass="List2" class="- topic/p ">(2) The Contractor shall implement and maintain
+            administrative, technical, and physical safeguards and controls with the security level
+            and services required in accordance with the Cloud Computing Security Requirements Guide
+            (SRG) (version in effect at the time the solicitation is issued or as authorized by the
+            Contracting Officer) found at <ph rev="Revised September 29, 2022"><i><xref
+                     href="https://public.cyber.mil/dccs/dccs-documents/" format="html"
+                     scope="external">https://public.cyber.mil/​dccs/​dccs-documents/​</xref></i>
+               unless notified by the Contracting Officer that this requirement has been waived by
+               the DoD Chief Information Officer.</ph></p>
          <p outputclass="List2" class="- topic/p ">(3) The Contractor shall maintain within the United States or outlying areas all Government data that is not physically located on DoD premises, unless the Contractor receives written notification from the Contracting Officer to use another location, in accordance with DFARS 
                <xref outputclass="fm:ParaNumOnly"
                   href="239.7602-2.dita#DFARS_239.7602-2"
@@ -49,10 +91,19 @@
          <p outputclass="List3" class="- topic/p ">(ii) The Contractor shall ensure that its employees are subject to all such access, use, and disclosure prohibitions and obligations.</p>
          <p outputclass="List3" class="- topic/p ">(iii) These access, use, and disclosure prohibitions and obligations shall survive the expiration or termination of this contract.</p>
          <p outputclass="List2" class="- topic/p ">(2) The Contractor shall use Government-related data only to manage the operational environment that supports the Government data and for no other purpose unless otherwise permitted with the prior written approval of the Contracting Officer.</p>
-         <p class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Cloud computing services cyber incident reporting.</i> The Contractor shall report all cyber incidents that are related to the cloud computing service provided under this contract. Reports shall be submitted to DoD via http://dibnet.dod.mil/<i class="+ topic/ph hi-d/i ">.</i>
-         </p>
+         <p class="- topic/p " outputclass="List1">(d) <i class="+ topic/ph hi-d/i ">Cloud computing
+               services cyber incident reporting.</i> The Contractor shall report all cyber
+            incidents that are related to the cloud computing service provided under this contract.
+            Reports shall be submitted to DoD via <xref href="http://dibnet.dod.mil/" format="html"
+               scope="external"/>. </p>
          <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Malicious software</i>. The Contractor or subcontractors that discover and isolate malicious software in connection with a reported cyber incident shall submit the malicious software in accordance with instructions provided by the Contracting Officer.</p>
-         <p class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">Media preservation and protection</i>. When a Contractor discovers a cyber incident has occurred, the Contractor shall preserve and protect images of all known affected information systems identified in the cyber incident report (see paragraph (d) of this clause) and all relevant monitoring/packet capture data for at least 90 days from the submission of the cyber incident report to allow DoD to request the media or decline interest.</p>
+         <p class="- topic/p " outputclass="List1">(f) <i class="+ topic/ph hi-d/i ">Media
+               preservation and protection</i>. When a Contractor discovers a cyber incident has
+            occurred, the Contractor shall preserve and protect images of all known affected
+            information systems identified in the cyber incident report (see paragraph (d) of this
+            clause) and all relevant monitoring/packet capture data for at least 90 days from the
+            submission of the cyber incident report to allow DoD to request the media or decline
+            interest.</p>
          <p outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">Access to additional information or equipment necessary for forensic analysis.</i>Upon request by DoD, the Contractor shall provide DoD with access to additional information or equipment that is necessary to conduct a forensic analysis.</p>
          <p outputclass="List1" class="- topic/p ">(h) <i class="+ topic/ph hi-d/i ">Cyber incident damage assessment activities</i>. If DoD elects to conduct a damage assessment, the Contracting Officer will request that the Contractor provide all of the damage assessment information gathered in accordance with paragraph (f) of this clause.</p>
          <p outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Records management and facility access.</i>
@@ -60,10 +111,19 @@
          <p outputclass="List2" class="- topic/p ">(1) The Contractor shall provide the Contracting Officer all Government data and Government-related data in the format specified in the contract.</p>
          <p outputclass="List2" class="- topic/p ">(2) The Contractor shall dispose of Government data and Government-related data in accordance with the terms of the contract and provide the confirmation of disposition to the Contracting Officer in accordance with contract closeout procedures.</p>
          <p outputclass="List2" class="- topic/p ">(3) The Contractor shall provide the Government, or its authorized representatives, access to all Government data and Government-related data, access to contractor personnel involved in performance of the contract, and physical access to any Contractor facility with Government data, for the purpose of audits, investigations, inspections, or other similar activities, as authorized by law or regulation.</p>
-         <p class="- topic/p ">(j) <i class="+ topic/ph hi-d/i ">Notification of third party access requests.</i> The Contractor shall notify the Contracting Officer promptly of any requests from a third party for access to Government data or Government-related data, including any warrants, seizures, or subpoenas it receives, including those from another Federal, State, or local agency.</p>
-         <p class="- topic/p ">The Contractor shall cooperate with the Contracting Officer to take all measures to protect Government data and Government-related data from any unauthorized disclosure.</p>
+         <p class="- topic/p " outputclass="List1">(j) <i class="+ topic/ph hi-d/i ">Notification of
+               third party access requests.</i> The Contractor shall notify the Contracting Officer
+            promptly of any requests from a third party for access to Government data or
+            Government-related data, including any warrants, seizures, or subpoenas it receives,
+            including those from another Federal, State, or local agency.</p>
+         <p class="- topic/p " outputclass="List1">The Contractor shall cooperate with the
+            Contracting Officer to take all measures to protect Government data and
+            Government-related data from any unauthorized disclosure.</p>
          <p outputclass="List1" class="- topic/p ">(k) <i class="+ topic/ph hi-d/i ">Spillage.</i>Upon notification by the Government of a spillage, or upon the Contractor’s discovery of a spillage, the Contractor shall cooperate with the Contracting Officer to address the spillage in compliance with agency procedures.</p>
-         <p class="- topic/p ">(l) <i class="+ topic/ph hi-d/i ">Subcontracts</i>. The Contractor shall include this clause, including this paragraph (l), in all subcontracts that involve or may involve cloud services, including subcontracts for commercial items.</p>
+         <p class="- topic/p " outputclass="List1">(l) <i class="+ topic/ph hi-d/i "
+               >Subcontracts</i>. The Contractor shall include this clause, including this paragraph
+            (l), in all subcontracts that involve or may involve cloud services, including
+            subcontracts for commercial items.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>
