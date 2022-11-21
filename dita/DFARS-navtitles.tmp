@@ -577,6 +577,23 @@
                          audience="DFARS_203.906"
                          xtrf="subtopic"
                          xtrc="DFARS_203.906.html"/>
+               <topicref href="203.909.dita"
+                         navtitle="203.909 Prohibition on providing funds to an entity that requires certain internal confidentiality agreements or statements."
+                         props="203.909"
+                         audience="DFARS_203.909"
+                         outputclass="subtopic"
+                         xtrf="subtopic"
+                         xtrc="DFARS_203.909.html"
+                         base="concept">
+                  <topicref href="203.909-3.dita"
+                            navtitle="203.909-3 Solicitation provision and contract clause."
+                            props="203.909"
+                            audience="DFARS_203.909-3"
+                            outputclass="subtopic"
+                            xtrf="subtopic"
+                            xtrc="DFARS_203.909-3.html"
+                            base="concept"/>
+               </topicref>
                <topicref navtitle="203.970 Contract clause."
                          base="concept"
                          href="203.970.dita"
@@ -2938,39 +2955,14 @@
                             xtrf="subtopic"
                             xtrc="DFARS_211.274-6.html"/>
                </topicref>
-               <topicref navtitle="211.275 Passive radio frequency identification."
-                         base="concept"
+               <topicref base="concept"
                          href="211.275.dita"
                          props="211.275"
                          outputclass="subtopic"
                          audience="DFARS_211.275"
                          xtrf="subtopic"
-                         xtrc="DFARS_211.275.html">
-                  <topicref navtitle="211.275-1 Definitions."
-                            base="concept"
-                            href="211.275-1.dita"
-                            props="211.275-1"
-                            outputclass="subtopic"
-                            audience="DFARS_211.275-1"
-                            xtrf="subtopic"
-                            xtrc="DFARS_211.275-1.html"/>
-                  <topicref navtitle="211.275-2 Policy."
-                            base="concept"
-                            href="211.275-2.dita"
-                            props="211.275-2"
-                            outputclass="subtopic"
-                            audience="DFARS_211.275-2"
-                            xtrf="subtopic"
-                            xtrc="DFARS_211.275-2.html"/>
-                  <topicref navtitle="211.275-3 Contract clause."
-                            base="concept"
-                            href="211.275-3.dita"
-                            props="211.275-3"
-                            outputclass="subtopic"
-                            audience="DFARS_211.275-3"
-                            xtrf="subtopic"
-                            xtrc="DFARS_211.275-3.html"/>
-               </topicref>
+                         xtrc="DFARS_211.275.html"
+                         navtitle="211.275 Reserved."/>
             </topicref>
             <topicref navtitle="Subpart&#xA;211.5 - LIQUIDATED DAMAGES"
                       base="NoTitle"
@@ -3229,72 +3221,14 @@
                       audience="DFARS_SUBPART_212.70"
                       xtrf="subtopic"
                       xtrc="DFARS_SUBPART_212.70.html"/>
-            <topicref navtitle="Subpart 212.71 - PILOT PROGRAM FOR ACQUISITION OF MILITARY-PURPOSE NONDEVELOPMENTAL ITEMS"
+            <topicref navtitle="Subpart 212.71 - RESERVED"
                       base="NoTitle"
                       href="SUBPART_212.71.dita"
                       props="Subpart 212.71"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="DFARS_SUBPART_212.71"
                       xtrf="SubPart"
-                      xtrc="DFARS_SUBPART_212.71.html">
-               <topicref navtitle="212.7100 Scope."
-                         base="concept"
-                         href="212.7100.dita"
-                         props="212.7100"
-                         outputclass="subtopic"
-                         audience="DFARS_212.7100"
-                         xtrf="subtopic"
-                         xtrc="DFARS_212.7100.html"/>
-               <topicref navtitle="212.7101 Definitions."
-                         base="concept"
-                         href="212.7101.dita"
-                         props="212.7101"
-                         outputclass="subtopic"
-                         audience="DFARS_212.7101"
-                         xtrf="subtopic"
-                         xtrc="DFARS_212.7101.html"/>
-               <topicref navtitle="212.7102 Pilot program."
-                         base="concept"
-                         href="212.7102.dita"
-                         props="212.7102"
-                         outputclass="subtopic"
-                         audience="DFARS_212.7102"
-                         xtrf="subtopic"
-                         xtrc="DFARS_212.7102.html">
-                  <topicref navtitle="212.7102-1 Contracts underthe program."
-                            base="concept"
-                            href="212.7102-1.dita"
-                            props="212.7102-1"
-                            outputclass="subtopic"
-                            audience="DFARS_212.7102-1"
-                            xtrf="subtopic"
-                            xtrc="DFARS_212.7102-1.html"/>
-                  <topicref navtitle="212.7102-2 Reporting requirements."
-                            base="concept"
-                            href="212.7102-2.dita"
-                            props="212.7102-2"
-                            outputclass="subtopic"
-                            audience="DFARS_212.7102-2"
-                            xtrf="subtopic"
-                            xtrc="DFARS_212.7102-2.html"/>
-                  <topicref navtitle="212.7102-3 Sunset of the pilot authority."
-                            base="concept"
-                            href="212.7102-3.dita"
-                            props="212.7102-3"
-                            outputclass="subtopic"
-                            audience="DFARS_212.7102-3"
-                            xtrf="subtopic"
-                            xtrc="DFARS_212.7102-3.html"/>
-               </topicref>
-               <topicref navtitle="212.7103 Solicitation provision."
-                         base="concept"
-                         href="212.7103.dita"
-                         props="212.7103"
-                         outputclass="subtopic"
-                         audience="DFARS_212.7103"
-                         xtrf="subtopic"
-                         xtrc="DFARS_212.7103.html"/>
-            </topicref>
+                      xtrc="DFARS_SUBPART_212.71.html"/>
          </topicref>
       </topicref>
    </topicref>
@@ -3431,7 +3365,7 @@
                       audience="DFARS_SUBPART_213.3"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_213.3.html">
-               <topicref navtitle="213.301 Governmentwide commercialpurchase card."
+               <topicref navtitle="213.301 Governmentwide commercial purchase card."
                          base="concept"
                          href="213.301.dita"
                          props="213.301"
@@ -10384,6 +10318,23 @@
                             xtrc="DFARS_229.170-4.html"/>
                </topicref>
             </topicref>
+            <topicref href="SUBPART_229.2.dita"
+                      navtitle="Subpart 229.2 - FEDERAL EXCISE TAXES"
+                      props="Subpart 229.2"
+                      audience="DFARS_SUBPART_229.2"
+                      outputclass="SubPart"
+                      xtrf="SubPart"
+                      xtrc="DFARS_SUBPART_229.2.html"
+                      base="NoTitle">
+               <topicref href="229.204.dita"
+                         navtitle="229.204 Federal excise tax on specific foreign contract payments."
+                         props="229.204"
+                         audience="DFARS_229.204"
+                         outputclass="subtopic"
+                         xtrf="subtopic"
+                         xtrc="DFARS_229.204.html"
+                         base="concept"/>
+            </topicref>
             <topicref navtitle="Subpart 229.4 - CONTRACT CLAUSES"
                       base="NoTitle"
                       href="SUBPART_229.4.dita"
@@ -11280,6 +11231,23 @@
                       audience="DFARS_SUBPART_232.11"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_232.11.html">
+               <topicref href="232.1108.dita"
+                         navtitle="232.1108 Payment by Governmentwide commercial purchase card."
+                         props="232.1108"
+                         audience="DFARS_232.1108"
+                         outputclass="subtopic"
+                         xtrf="subtopic"
+                         xtrc="DFARS_232.1108.html"
+                         base="concept">
+                  <topicref href="232.1108-70.dita"
+                            navtitle="232.1108-70 Prohibition of Governmentwide commercial purchase card as a method of payment when the tax on certain foreign procurements applies."
+                            props="232.1108-70"
+                            audience="DFARS_232.1108-70"
+                            outputclass="subtopic"
+                            xtrf="subtopic"
+                            xtrc="DFARS_232.1108-70.html"
+                            base="concept"/>
+               </topicref>
                <topicref navtitle="232.1110 Solicitation provision and contract clauses."
                          base="concept"
                          href="232.1110.dita"
@@ -16042,14 +16010,14 @@
                             audience="DFARS_252.211-7005"
                             xtrf="subtopic"
                             xtrc="DFARS_252.211-7005.html"/>
-                  <topicref navtitle="252.211-7006 Passive Radio Frequency Identification."
-                            base="concept"
+                  <topicref base="concept"
                             href="252.211-7006.dita"
                             props="252.211-7006"
                             outputclass="subtopic"
                             audience="DFARS_252.211-7006"
                             xtrf="subtopic"
-                            xtrc="DFARS_252.211-7006.html"/>
+                            xtrc="DFARS_252.211-7006.html"
+                            navtitle="252.211-7006 Reserved."/>
                   <topicref navtitle="252.211-7007 Reporting of Government-FurnishedProperty."
                             base="concept"
                             href="252.211-7007.dita"
@@ -16091,7 +16059,7 @@
                             audience="DFARS_252.212-7001"
                             xtrf="subtopic"
                             xtrc="DFARS_252.212-7001.html"/>
-                  <topicref navtitle="252.212-7002 Pilot Program for Acquisition of Military-Purpose Nondevelopmental Items."
+                  <topicref navtitle="252.212-7002 Reserved."
                             base="concept"
                             href="252.212-7002.dita"
                             props="252.212-7002"
@@ -17877,6 +17845,14 @@
                             audience="DFARS_252.229-7013"
                             xtrf="subtopic"
                             xtrc="DFARS_252.229-7013.html"/>
+                  <topicref href="252.229-7014.dita"
+                            navtitle="252.229-7014 Full Exemption from Two-Percent Excise Tax on Certain Foreign Procurements."
+                            props="252.229-7014"
+                            audience="DFARS_252.229-7014"
+                            outputclass="subtopic"
+                            xtrf="subtopic"
+                            xtrc="DFARS_252.229-7014.html"
+                            base="concept"/>
                </topicref>
                <topicref navtitle="252.231 RESERVED"
                          base="concept"
@@ -18548,6 +18524,22 @@
                             audience="DFARS_252.237-7024"
                             xtrf="subtopic"
                             xtrc="DFARS_252.237-7024.html"/>
+                  <topicref href="252.237-7025.dita"
+                            navtitle="252.237-7025 Preaward Transparency Requirements for Firms Offering to Support Department of Defense Audits—Representation and Disclosure."
+                            props="252.237-7025"
+                            audience="DFARS_252.237-7025"
+                            outputclass="subtopic"
+                            xtrf="subtopic"
+                            xtrc="DFARS_252.237-7025.html"
+                            base="concept"/>
+                  <topicref href="252.237-7026.dita"
+                            navtitle="252.237-7026 Postaward Transparency Requirements for Firms that Support Department of Defense Audits."
+                            props="252.237-7026"
+                            audience="DFARS_252.237-7026"
+                            outputclass="subtopic"
+                            xtrf="subtopic"
+                            xtrc="DFARS_252.237-7026.html"
+                            base="concept"/>
                </topicref>
                <topicref navtitle="252.239 RESERVED"
                          base="concept"
@@ -21099,9 +21091,9 @@
                       href="PGI_206.3.dita"
                       props="PGI 206.3"
                       outputclass="SubPart"
-                      audience="i1495152"
+                      audience="PGI_206.3"
                       xtrf="SubPart"
-                      xtrc="i1495152.html">
+                      xtrc="PGI_206.3.html">
                <topicref navtitle="PGI 206.302 Circumstances permitting other than full and open competition."
                          base="concept"
                          href="PGI_206.302.dita"
@@ -21175,9 +21167,9 @@
                       href="PGI_207.1.dita"
                       props="PGI 207.1"
                       outputclass="SubPart"
-                      audience="i1495168"
+                      audience="PGI_207.1"
                       xtrf="SubPart"
-                      xtrc="i1495168.html">
+                      xtrc="PGI_207.1.html">
                <topicref navtitle="PGI 207.103 Agency-head responsibilities."
                          base="concept"
                          href="PGI_207.103.dita"
@@ -22008,32 +22000,6 @@
                       audience="i1495583"
                       xtrf="subtopic"
                       xtrc="i1495583.html"/>
-            <topicref navtitle="PGI 212.71 -PILOT PROGRAM FOR ACQUISITION OF MILITARY-PURPOSE NONDEVELOPMENTAL ITEMS"
-                      base="NoTitle"
-                      href="PGI_212.71.dita"
-                      props="PGI 212.71"
-                      outputclass="SubPart"
-                      audience="i1495588"
-                      xtrf="SubPart"
-                      xtrc="i1495588.html">
-               <topicref navtitle="PGI 212.7102 Pilot Program."
-                         base="concept"
-                         href="PGI_212.7102.dita"
-                         props="PGI 212.7102"
-                         outputclass="subtopic"
-                         audience="DFARS_PGI_PGI_212.7102"
-                         xtrf="subtopic"
-                         xtrc="DFARS_PGI_PGI_212.7102.html">
-                  <topicref navtitle="PGI 212.7102-3 Reporting requirements."
-                            base="concept"
-                            href="PGI_212.7102-3.dita"
-                            props="PGI 212.7102-3"
-                            outputclass="subtopic"
-                            audience="DFARS_PGI_PGI_212.7102-3"
-                            xtrf="subtopic"
-                            xtrc="DFARS_PGI_PGI_212.7102-3.html"/>
-               </topicref>
-            </topicref>
          </topicref>
       </topicref>
    </topicref>
@@ -22279,7 +22245,7 @@
                             audience="DFARS_PGI_PGI_215.403-1"
                             xtrf="subtopic"
                             xtrc="DFARS_PGI_PGI_215.403-1.html"/>
-                  <topicref navtitle="PGI 215.403-3 Requiring dataother than certified cost or pricing data."
+                  <topicref navtitle="PGI 215.403-3 Requiring&#xA;         dataother than certified cost or pricing data."
                             base="concept"
                             href="PGI_215.403-3.dita"
                             props="PGI 215.403-3"
