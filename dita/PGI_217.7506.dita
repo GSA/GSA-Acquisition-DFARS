@@ -5,13 +5,13 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS_PGI_PGI_217.7506"
-          outputclass="3"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 217.7506</ph> -SPARE PARTS BREAKOUT PROGRAM</title>
-     <conbody >
-      <p>PART 1 -GENERAL </p>
+     <conbody>
+         <p>PART 1 -GENERAL </p>
        
          <p>1-101 Applicability.</p>
       
@@ -19,7 +19,10 @@
          <p outputclass="List2" class="- topic/p ">(1) Any centrally managed replenishment or provisioned part (hereinafter referred to as “part”) for military systems and equipment; and</p>
          <p outputclass="List2" class="- topic/p ">(2) All DoD personnel involved with design control, acquisition, and management of such parts including, but not limited to, project/program/system managers, technical personnel, contracting officers, legal counsel, inventory managers, inspectors, and small business specialists and technical advisors.</p>
          <p outputclass="List1" class="- topic/p ">(b) The Spare Parts Breakout Program does not apply to—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Component breakout (see DFARS <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="DFARS-207.171" href="207.171.dita#DFARS_207.171">207.171</xref>);</p>
+         <p outputclass="List2" class="- topic/p ">(1) Component breakout (see DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-207.171"
+                  href="207.171.dita#DFARS_207.171">207.171</xref>);</p>
          <p outputclass="List2" class="- topic/p ">(2) Foreign military sale peculiar items;</p>
          <p outputclass="List2" class="- topic/p ">(3) Insurance items (e.g., one-time buy);</p>
          <p outputclass="List2" class="- topic/p ">(4) Obsolete items;</p>
@@ -345,7 +348,7 @@
          <p outputclass="List1" class="- topic/p ">(e) Contracting officers responsible for the acquisition of replenishment parts shall—</p>
          <p outputclass="List2" class="- topic/p ">(1) Consider the AMC/AMSC when developing the method of contracting, the list of sources to be solicited, the type of contract, etc.; and</p>
          <p outputclass="List2" class="- topic/p ">(2) Provide information that is inconsistent with the assigned AMC/AMSC (e.g., availability of technical data or possible sources) to the activity responsible for code assignment with a request for timely evaluation of the additional information. An urgent immediate buy need not be delayed if an evaluation of the additional information cannot be completed in time to meet the required delivery date.</p>
-      <p>PART 2 -BREAKOUT CODING</p>
+         <p>PART 2 -BREAKOUT CODING</p>
       
    
 
@@ -480,7 +483,7 @@
    
       
          <p>2-204 Communication of codes.</p>
-      <p> PART 3 -IDENTIFICATION, SELECTION, AND SCREENING OF PARTS </p>
+         <p> PART 3 -IDENTIFICATION, SELECTION, AND SCREENING OF PARTS </p>
    
 
    
@@ -751,7 +754,7 @@
          <p outputclass="List2" class="- topic/p ">(9) <i class="+ topic/ph hi-d/i ">Step 9</i>. Assign AMC 2. Proceed to step 11.</p>
          <p outputclass="List2" class="- topic/p ">(10) <i class="+ topic/ph hi-d/i ">Step 10</i>. Assign AMC 3, 4, or 5, as appropriate.</p>
          <p outputclass="List2" class="- topic/p ">(11) <i class="+ topic/ph hi-d/i ">Step 11</i>. Establish the date of the next review (see 1-104(c) and 2-203(b)).</p>
-      <p>PART 4 -CONTRACTOR'S ASSISTANCE</p>
+         <p>PART 4 -CONTRACTOR'S ASSISTANCE</p>
       
    
 
@@ -773,7 +776,7 @@
       
          <p outputclass="List1" class="- topic/p ">(a) Contractor's technical evaluation for the screening process shall be required contractually by incorporating MIL-STD-789, which delineates the contractor's responsibilities and procedures and prescribes use of the contractor DD Form 1418, Technical Information Record, and the DD Form 1418-1, Technical Data Identification Checklist, a copy of each document listed on DD Form 1418-1, and other substantive data that was used in developing the contractor's recommendations.</p>
          <p outputclass="List1" class="- topic/p ">(b) When MIL-STD-789 is incorporated in a contract, the DD Form 1423, Contract Data Requirements List, shall specify the requirement for the submission of DD Form 1418, Technical Information Record, and DD Form 1418-1, Technical Data Identification Checklist, in accordance with MIL-STD-789.</p>
-      <p>PART 5 -REPORTING SYSTEM</p>
+         <p>PART 5 -REPORTING SYSTEM</p>
       
    
 
@@ -836,20 +839,89 @@ equal the difference between the previous contract unit price and
 the current contract unit price, times the number of units purchased.</p>
          <p class="- topic/p ">EXHIBIT I—VALID AMC/AMSC COMBINATIONS</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="13" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="2" colname="2" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="3" colname="3" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="4" colname="4" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="5" colname="5" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="6" colname="6" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="7" colname="7" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="8" colname="8" colwidth="9*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="9" colname="9" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="10" colname="10" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="11" colname="11" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="12" colname="12" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="13" colname="13" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
+            <tgroup cols="13"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="8"
+                        colname="8"
+                        colwidth="9*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="9"
+                        colname="9"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="10"
+                        colname="10"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="11"
+                        colname="11"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="12"
+                        colname="12"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="13"
+                        colname="13"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -2630,26 +2702,109 @@ Regulations</p>
 DC 20301-3062; facsimile (703) 602-0350; e-mail: osd.pentagon.ousd-atl.mbx.dfars@mail.mil.</p>
          <p class="- topic/p ">EXHIBIT III—LIMITED SCREENING DECISION PROCESS SUMMARY FLOW CHART</p>
          <fig frame="all" class="- topic/fig ">
-            <image href="Graphics/image001.gif" placement="inline" height="289.559pt" width="428.200pt" class="- topic/image "/>
+            <image href="Graphics/image001.gif"
+                   placement="inline"
+                   height="289.559pt"
+                   width="428.200pt"
+                   class="- topic/image "/>
          </fig>
          <p class="- topic/p ">EXHIBIT IV—SPARE PARTS BREAKOUT SCREENING REPORT</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="15" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="2" colname="2" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="3" colname="3" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="4" colname="4" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="5" colname="5" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="6" colname="6" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="7" colname="7" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="8" colname="8" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="9" colname="9" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="10" colname="10" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="11" colname="11" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="12" colname="12" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="13" colname="13" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="14" colname="14" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="15" colname="15" colwidth="7*" colsep="0" class="- topic/colspec " rowheader="headers"/>
+            <tgroup cols="15"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="8"
+                        colname="8"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="9"
+                        colname="9"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="10"
+                        colname="10"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="11"
+                        colname="11"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="12"
+                        colname="12"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="13"
+                        colname="13"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="14"
+                        colname="14"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="15"
+                        colname="15"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -3084,19 +3239,83 @@ DC 20301-3062; facsimile (703) 602-0350; e-mail: osd.pentagon.ousd-atl.mbx.dfars
          </table>
          <p class="- topic/p ">EXHIBIT V—SPARE PARTS ACQUISITION REPORT</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="12" colsep="0" rowsep="0" outputclass="Table" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="2" colname="2" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="3" colname="3" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="4" colname="4" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="5" colname="5" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="6" colname="6" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="7" colname="7" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="8" colname="8" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="9" colname="9" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="10" colname="10" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="11" colname="11" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
-               <colspec colnum="12" colname="12" colwidth="8*" colsep="0" class="- topic/colspec " rowheader="headers"/>
+            <tgroup cols="12"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="8"
+                        colname="8"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="9"
+                        colname="9"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="10"
+                        colname="10"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="11"
+                        colname="11"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="12"
+                        colname="12"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
