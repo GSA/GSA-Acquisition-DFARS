@@ -18185,7 +18185,7 @@
                          audience="DFARS_252.235"
                          xtrf="subtopic"
                          xtrc="DFARS_252.235.html">
-                  <topicref navtitle="252.235-7000 Indemnification Under 10 U.S.C. 2354—Fixed Price."
+                  <topicref navtitle="252.235-7000 Indemnification Under 10 U.S.C. 3861—Fixed Price."
                             base="concept"
                             href="252.235-7000.dita"
                             props="252.235-7000"
@@ -18193,7 +18193,7 @@
                             audience="DFARS_252.235-7000"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.235-7001 Indemnification Under 10 U.S.C. 2354—Cost Reimbursement."
+                  <topicref navtitle="252.235-7001 Indemnification Under 10 U.S.C. 3861—Cost Reimbursement."
                             base="concept"
                             href="252.235-7001.dita"
                             props="252.235-7001"
@@ -22754,14 +22754,15 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="PGI 217.7 - Interagency Acquisitions: Acquisitions by Nondefense Agencies on Behalf of the Department of Defense"
-                         base="concept"
-                         href="PGI_217.7.dita"
-                         props="PGI 217.7"
-                         outputclass="subtopic"
-                         audience="DFARS_PGI_PGI_217.7"
-                         xtrf="subtopic"
-                         xtrc="DFARS_PGI_PGI_217.7.html"/>
+            </topicref>
+            <topicref navtitle="PGI 217.7 - Interagency Acquisitions: Acquisitions by Nondefense Agencies on Behalf of the Department of Defense"
+                      base="NoTitle"
+                      href="PGI_217.7.dita"
+                      props="PGI 217.7"
+                      outputclass="SubPart"
+                      audience="DFARS_PGI_PGI_217.7"
+                      xtrc="DFARS_PGI_PGI_217.7.html"
+                      xtrf="SubPart">
                <topicref navtitle="PGI 217.770 Procedures."
                          base="concept"
                          href="PGI_217.770.dita"
@@ -24299,6 +24300,15 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
+            </topicref>
+            <topicref href="PGI_229.70.dita"
+                      navtitle="PGI 229.70 -SPECIAL PROCEDURES FOR OVERSEAS CONTRACTS"
+                      props="PGI_229.70"
+                      outputclass="SubPart"
+                      audience="DFARS_PGI_229.70"
+                      xtrf="SubPart"
+                      base="NoTitle"
+                      xtrc="">
                <topicref navtitle="PGI 229.7000 Scope of subpart."
                          base="concept"
                          href="PGI_229.7000.dita"
