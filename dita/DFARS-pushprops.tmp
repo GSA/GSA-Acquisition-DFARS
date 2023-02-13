@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars">
+<map title="DFARS" outputclass="dfars" rev="Revised January 31, 2023">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -10546,6 +10546,7 @@
                          audience="DFARS_225.7022"
                          xtrf="subtopic"
                          xtrc="DFARS_225.7022.html"
+                         base="concept"
                          tables="0"
                          figures="0">
                   <topicref href="225.7022-1.dita"
@@ -10596,6 +10597,52 @@
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""
+                            tables="0"
+                            figures="0"/>
+               </topicref>
+               <topicref href="225.7023.dita"
+                         navtitle="225.7023 Restriction on acquisition of personal protective equipment and certain other items from non-allied foreign nations."
+                         props="225.7023"
+                         outputclass="subtopic"
+                         audience="DFARS_225.7023"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0">
+                  <topicref href="225.7023-1.dita"
+                            navtitle="225.7023-1 Definitions."
+                            props="225.7023-1"
+                            outputclass="subtopic"
+                            audience="DFARS_225.7023-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="225.7023-2.dita"
+                            navtitle="225.7023-2 Restriction."
+                            props="225.7023-2"
+                            outputclass="subtopic"
+                            audience="DFARS_225.7023-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="225.7023-3.dita"
+                            navtitle="225.7023-3 Exceptions."
+                            props="225.7023-3"
+                            outputclass="subtopic"
+                            audience="DFARS_225.7023-3"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="225.7023-4.dita"
+                            navtitle="225.7023-4 Contract clause."
+                            props="225.7023-4"
+                            outputclass="subtopic"
+                            audience="DFARS_225.7023-4"
+                            xtrf="subtopic"
+                            base="concept"
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -21590,6 +21637,15 @@
                             xtrc=""
                             tables="0"
                             figures="0"/>
+                  <topicref href="252.225-7061.dita"
+                            navtitle="252.225-7061 Restriction on the Acquisition of Personal Protective Equipment and Certain Other Items from Non-Allied Foreign Nations."
+                            props="252.225-7061"
+                            outputclass="subtopic"
+                            audience="DFARS_252.225-7061"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
                </topicref>
                <topicref navtitle="252.226 RESERVED"
                          base="concept"
@@ -25933,7 +25989,7 @@
                          tables="3"
                          figures="0"/>
             </topicref>
-            <topicref navtitle="          PGI 204.17          - SERVICE CONTRACT INVENTORY       "
+            <topicref navtitle="PGI 204.17-SERVICE CONTRACT INVENTORY"
                       base="NoTitle"
                       href="PGI_204.17.dita"
                       props="PGI 204.17"
@@ -25943,7 +25999,7 @@
                       xtrc="DFARS_PGI_PGI_204.17.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="          PGI 204.1703           Reporting requirements.       "
+               <topicref navtitle="PGI 204.1703 Reporting requirements."
                          base="concept"
                          href="PGI_204.1703.dita"
                          props="PGI 204.1703"
@@ -30166,6 +30222,7 @@
                       audience="DFARS_PGI_229.70"
                       xtrf="SubPart"
                       base="NoTitle"
+                      xtrc="DFARS_PGI_229.70.html"
                       tables="0"
                       figures="0">
                <topicref navtitle="PGI 229.7000 Scope of subpart."

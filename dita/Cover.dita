@@ -12,14 +12,86 @@
       <CBody id="id184NG7000Y4" class="- topic/body ">
          <CoverIssued id="id184NG7008HS" class="- topic/p ">Issued
 Fiscal Year 2020 by the:</CoverIssued>
-         <CoverEdition id="id184NG700GYK" class="- topic/p "/>
-         <CoverTitle48 id="id184NG700KHT" class="- topic/p ">TITLE48 - DEFENSE FEDERAL ACQUISITION
-REGULATIONS SYSTEM</CoverTitle48>
+         <CoverTitle48
+            id="id184NG700KHT"
+            class="- topic/p ">TITLE 48 - DEFENSE FEDERAL ACQUISITION REGULATIONS SYSTEM</CoverTitle48>
          <CoverChapterTitle id="id184NG700YPF" class="- topic/p ">Chapter1</CoverChapterTitle>
          <CoverFARTitle id="id184NG7030PN" class="- topic/p ">Defense Federal Acquisition
 Regulation</CoverFARTitle>
          <CoverVolumeCtr id="id184NG70907Q" class="- topic/p ">Volume I</CoverVolumeCtr>
-         <ForewordTitle id="id184NG70E030" class="- topic/p "/>
+         <ForewordTitle
+            id="id184NG70E030"
+            class="- topic/p ">Latest DFARS Revisions from the Federal Register:</ForewordTitle>
+         <p>
+            <table
+               frame="all"
+               colsep="1"
+               rowsep="1"
+               class="- topic/table "
+               otherprops="LSA">
+               <title
+                  class="- topic/title ">Amendments from FR</title>
+               <tgroup
+                  cols="4"
+                  colsep="1"
+                  rowsep="1"
+                  outputclass="Title_rule"
+                  class="- topic/tgroup ">
+                  <colspec
+                     colnum="1"
+                     colname="1"
+                     colwidth="32*"
+                     class="- topic/colspec "
+                     rowheader="headers"/>
+                  <colspec
+                     colnum="2"
+                     colname="2"
+                     colwidth="50*"
+                     class="- topic/colspec "
+                     rowheader="headers"/>
+                  <colspec
+                     colnum="3"
+                     colname="3"
+                     colwidth="18*"
+                     class="- topic/colspec "
+                     rowheader="headers"/>
+                  <colspec
+                     colnum="4"
+                     colname="4"
+                     colwidth="18*"
+                     class="- topic/colspec "
+                     rowheader="headers"/>
+                  <thead
+                     class="- topic/thead ">
+                     <row
+                        rowsep="1"
+                        class="- topic/row ">
+                        <entry
+                           colname="1"
+                           class="- topic/entry ">Part</entry>
+                        <entry
+                           colname="2"
+                           class="- topic/entry ">Subpart</entry>
+                        <entry
+                           colname="3"
+                           class="- topic/entry ">Section</entry>
+                        <entry
+                           colname="4"
+                           class="- topic/entry ">Amendment Number</entry>
+                     </row>
+                  </thead>
+                  <tbody
+                     class="- topic/tbody ">
+                     <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </p>
       </CBody>
    </CoverTitle>
 </dita>
