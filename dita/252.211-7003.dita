@@ -7,16 +7,20 @@
    <concept id="DFARS_252.211-7003"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.211-7003</ph> Item Unique Identificationand Valuation.</title>
+      <title class="- topic/title "> 
+         <ph props="autonumber" class="- topic/ph ">252.211-7003</ph> 
+         <ph rev="Revised January 31, 2023">I</ph>tem <ph rev="Revised January 31, 2023">U</ph>nique <ph rev="Revised January 31, 2023">I</ph>dentification and <ph rev="Revised January 31, 2023">V</ph>aluation.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="TaTEIv" class="- topic/p ">As prescribed in <xref href="211.274-6.dita#DFARS_211.274-6"
                   base="i1377938"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">211.274-6</xref> (a)(1), use
 the following clause:</p>
-         <p id="FQsddN" outputclass="Ctr_SmCaps" class="- topic/p ">ITEM UNIQUE IDENTIFICATION AND VALUATION
-(MAR 2022)</p>
+         <p id="FQsddN"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p "
+            rev="Revised January 31, 2023">ITEM UNIQUE IDENTIFICATION AND VALUATION
+(JAN 2023)</p>
          <p id="IkCzOm" outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>. As
 used in this clause—</p>
          <p id="Nnclmi" class="- topic/p ">“Automatic identification device” means a device,
@@ -328,12 +332,7 @@ or</p>
 attachment for exhibit line item number <i class="+ topic/ph hi-d/i ">(fill in)</i> ___, Unique
 Item Identifier Report for Embedded Items, Contract Data Requirements
 List, DD Form 1423.</p>
-         <p id="bKqpbC" outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">Subcontracts</i>.
-If the Contractor acquires by subcontract, any item(s) for which
-item unique identification is required in accordance with paragraph
-(c)(1) of this clause, the Contractor shall include this clause,
-including this paragraph (g), in the applicable subcontract(s),
-including subcontracts for commercial items.</p>
+         <p id="bKqpbC" outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">Subcontracts</i>. If the Contractor acquires by <ph rev="Revised January 31, 2023">sub</ph>contract any item(s) for which item unique identification is required in accordance with paragraph (c)(1) of this clause, the Contractor shall include this clause, including this paragraph (g), in the applicable subcontract(s), including subcontracts for commercial <ph rev="Revised January 31, 2023">products or commercial services</ph>.</p>
          <p id="vwDjtO" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>
