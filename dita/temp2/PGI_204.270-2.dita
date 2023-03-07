@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_PGI_204.270-2"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 204.270-2</ph> Procedures.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="QRYjHq" outputclass="List1" class="- topic/p ">(a) Contracting
+officers shall maintain an account in Wide Area WorkFlow (WAWF),
+which provides access to Electronic Document Access (EDA) to ensure
+their ability to validate and verify data and documents distributed
+to EDA, as necessary.</p>
+         <p id="kgHpQo" outputclass="List1" class="- topic/p ">(b) Agencies shall perform,
+upon deployment of any contract writing system or other source of
+contractual documents to be posted to EDA, an analysis to verify
+adequate controls are in place to ensure that contract documents
+including attachments, and contract data posted to EDA are accurate
+representations of the contract. Analyses performed shall include
+the following—</p>
+         <p id="bnMHzL" outputclass="List2" class="- topic/p ">(1) For documents posted
+in document formats (e.g., Portable Document Format (PDF)), verification
+that the electronic versions of contract documents posted to EDA
+are accurate representations of the contract; however, the electronic
+version is not required to display visual signatures; and</p>
+         <p id="cOYhXq" outputclass="List2" class="- topic/p ">(2) For data sent to EDA
+in the data standards at <xref href="PGI_204.201.dita#DFARS_PGI_PGI_204.201"
+                  base="DFARS-PGI_PGI_204.201"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="204.201">204.201</xref>, review of the data posted to EDA against the contract
+documents verified under <xref href="PGI_204.270.dita#DFARS_PGI_PGI_204.270"
+                  base="DFARS-PGI_PGI_204.270"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  xtrc="204.270">204.270</xref> (b)(1) to ensure the contract data rendered in EDA
+is an accurate representation of the underlying contract. To facilitate
+this review process, all feeds of data to EDA in the Procurement
+Data Standard are initially placed in a view only evaluation mode,
+where the data is not available to other systems or outside users pending
+verification. Upon completion of the review of data, contracting
+organizations shall notify the EDA program office of the results
+of the review, with a list of the issuing offices of the contractual
+actions, the identifier of the system sending the actions, the version
+or versions of the data standards to which the review applies, and
+the locations of the systems sending the actions, directing one
+of the following decisions—</p>
+         <p id="LgDvtO" outputclass="List3" class="- topic/p ">(i) Delete all data sent
+to date (in this case the system remains in evaluation status pending
+further review);</p>
+         <p id="BGaEpQ" outputclass="List3" class="- topic/p ">(ii) Delete all data sent
+to date, and change all subsequent data from 'evaluation' to 'compliant'
+status; or</p>
+         <p id="JftKXn" outputclass="List3" class="- topic/p ">(iii) Retain all data sent
+to date, and change all subsequent data from 'evaluation' to 'compliant'
+status.</p>
+         <p id="RotGmk" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Contract deficiency
+reports</i>.</p>
+         <p id="tlSurf" outputclass="List2" class="- topic/p ">(1) Contracting officers
+and all individuals tasked with creating, managing, or viewing contract
+deficiency reports (CDRs) shall establish and maintain an account
+in WAWF.</p>
+         <p id="zzuadO" outputclass="List2" class="- topic/p ">(2) Agencies that award or
+administer contracts, or perform pay office functions, should assign
+individuals within their organization to create, manage, and view
+CDRs within WAWF based on the following CDR user roles: initiator, reviewer,
+assignee, and view only.</p>
+         <p id="apSRQx" outputclass="List2" class="- topic/p ">(3) The contracting officer
+shall correct contract deficiencies identified in a CDR and document
+the steps taken to resolve the deficiency in the CDR.</p>
+         <p id="YMAVJr" outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">The CDR process</i>.</p>
+         <p id="OrDwIF" outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Creation</i>. A CDR
+is created when a deficiency is identified in the procurement instrument.
+A list of types of CDR deficiencies is available at
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/procurement-data-standard.html</xref>
+           .
+The specifics of the deficiency shall be documented in the description
+in enough detail to provide the assignee an understanding of the
+problem.</p>
+         <p id="Wrusab" outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Approval</i>. Once
+a CDR is created, the initiator shall route the CDR to their local
+approval official for review.</p>
+         <p id="VNMjRT" outputclass="List3" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">Assignment</i>.
+Once a CDR is approved, it is routed to the appropriate contracting
+activity for action.</p>
+         <p id="wkkiut" outputclass="List3" class="- topic/p ">(iv) <i class="+ topic/ph hi-d/i ">Acceptance</i>. A
+CDR must be accepted or returned by the contracting activity. If
+a CDR is determined to have been incorrectly assigned, the contracting
+activity can reassign the CDR to the proper organization (if known)
+or reject the CDR.</p>
+         <p id="XfgAlL" outputclass="List3" class="- topic/p ">(v) <i class="+ topic/ph hi-d/i ">Resolution</i>. The
+assignee shall document the actions taken to resolve a CDR. If a
+modification has been issued to resolve the deficiency, it shall
+be identified in the CDR. Once all deficiencies identified on a
+CDR have been resolved, mark the CDR as resolved. All CDRs should
+be resolved within 30 days of approval.</p>
+         <p id="ZSJCoD" outputclass="List3" class="- topic/p ">(vi) <i class="+ topic/ph hi-d/i ">Close</i>. After
+resolution of a CDR, the initiator of the CDR can accept the resolution
+and manually close the CDR or return it to the assignee for further
+action. CDRs not manually closed or returned by the initiator to
+the assignee within 60 days after resolution will automatically
+be closed. Once the CDR is closed, a notification is generated advising
+that the CDR is closed.</p>
+         <p id="ErBWsm" outputclass="List2" class="- topic/p ">(5) Additional information
+on the CDR module of WAWF is available at https://wawf.eb.mil.</p>
+      </conbody>
+   </concept>
+</dita>
