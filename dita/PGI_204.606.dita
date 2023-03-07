@@ -662,7 +662,7 @@ data field choose the code that best represents the predominant
 amount of supplies or services being procured on the award. The
 list of active PSCs for use in FPDS reporting is available on the
 FPDS website under the “Worksite” section under “Reference.”</p>
-         <p outputclass="List4" class="- topic/p ">(B) For the “Principal NAICS code” data field, enter the NAICS code that best represents the type of industry related to the predominant amount of supplies or services being procured on the award. If the award was a result of a solicitation that included any of the following provisions, use the NAICS code that was included in the provision: 52.204-8, Annual Representations and Certifications; 52.212-3, Offeror Representations and Certifications – Commercial <ph rev="Revised January 31, 2023">Products and Commercial Services</ph>; or 52.219-1, Small Business Program Representations. The list of active NAICS codes for use in FPDS reporting is available on the FPDS website under the “Worksite” section under “Reference”.</p>
+         <p outputclass="List4" class="- topic/p ">(B) For the “Principal NAICS code” data field, enter the NAICS code that best represents the type of industry related to the predominant amount of supplies or services being procured on the award. If the award was a result of a solicitation that included any of the following provisions, use the NAICS code that was included in the provision: 52.204-8, Annual Representations and Certifications; 52.212-3, Offeror Representations and Certifications – Commercial Products and Commercial Services; or 52.219-1, Small Business Program Representations. The list of active NAICS codes for use in FPDS reporting is available on the FPDS website under the “Worksite” section under “Reference”.</p>
          <p outputclass="List4" class="- topic/p ">(C) <i class="+ topic/ph hi-d/i ">Contract bundling.</i>
          </p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) Enter “Bundled Requirements”
@@ -854,7 +854,7 @@ Information Section.</i>
          </p>
          <p outputclass="List4" class="- topic/p ">(A) <i class="+ topic/ph hi-d/i ">Solicitation procedures</i>. Select
 the appropriate entry from the following list:</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">Simplified Acquisition</i>. Report this code for competitive and noncompetitive contract actions that used simplified acquisition procedures in accordance with FAR part 13<ph rev="Revised January 31, 2023">.</ph> However, if the action is noncompetitive and the reason for other than full and open competition is other than “Authorized by Statute,” “Authorized Resale,” or “SAP Noncompetition,” then enter “Only One Source Solicited” as the solicitation procedure. (Note that most times when in conflict, the reason for other than full and open competition takes precedence over the type of solicitation procedure used.)</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">Simplified Acquisition</i>. Report this code for competitive and noncompetitive contract actions that used simplified acquisition procedures in accordance with FAR part 13. However, if the action is noncompetitive and the reason for other than full and open competition is other than “Authorized by Statute,” “Authorized Resale,” or “SAP Noncompetition,” then enter “Only One Source Solicited” as the solicitation procedure. (Note that most times when in conflict, the reason for other than full and open competition takes precedence over the type of solicitation procedure used.)</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) <i class="+ topic/ph hi-d/i ">Only One Source Solicited</i>.
 Use this code if no solicitation procedure was used or only one
 source is solicited for the action.</p>
@@ -882,8 +882,8 @@ Fair Opportunity</i>. FPDS will automatically populate this entry
 for orders placed against multiple award contracts (to include Federal
 Supply Schedules) and FAR part 8 BPAs (and orders issued under such
 BPAs that are subject to fair opportunity pursuant to FAR 16.505(b)(1).</p>
-         <p outputclass="List4" class="- topic/p ">(B) <i class="+ topic/ph hi-d/i ">Extent Competed</i>. Select the appropriate entry from the following list. The extent competed for any modification or order against a task <ph rev="Revised January 31, 2023">order</ph> or delivery order contract pulls from the basic contract and is shown in the “Extent competed for referenced IDV” data field.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">Competed under SAP</i>. Report this for competitive contract actions that were awarded using FAR part 13 Simplified Acquisition Procedures (i.e., solicitation procedures were “Simplified Acquisition”)<ph rev="Revised January 31, 2023">.</ph>
+         <p outputclass="List4" class="- topic/p ">(B) <i class="+ topic/ph hi-d/i ">Extent Competed</i>. Select the appropriate entry from the following list. The extent competed for any modification or order against a task order or delivery order contract pulls from the basic contract and is shown in the “Extent competed for referenced IDV” data field.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">Competed under SAP</i>. Report this for competitive contract actions that were awarded using FAR part 13 Simplified Acquisition Procedures (i.e., solicitation procedures were “Simplified Acquisition”).
          </p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) <i class="+ topic/ph hi-d/i ">Full and Open Competition
 (F&amp;OC)</i>. Report this if the contract action resulted from
@@ -931,7 +931,7 @@ Small Business Innovative Research (SBIR) or Small Technology Transfer
 Research (STTR) Program. SBIR and STTR Phase III awards require
 that a previous SBIR or STTR award exists.</p>
          <p outputclass="List4" class="- topic/p ">(E) <i class="+ topic/ph hi-d/i ">Other than Full and Open Competition</i>.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">Simplified Acquisition Procedures (SAP)</i>. Select only “SAP Non-Competition,” “Authorized by Statute” if a sole source set-aside shall also be noted, or “Authorized for Resale” when the award is noncompetitive and simplified acquisition procedures were used<ph rev="Revised January 31, 2023">.</ph> Do not choose other values from the list.</p>
+         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) <i class="+ topic/ph hi-d/i ">Simplified Acquisition Procedures (SAP)</i>. Select only “SAP Non-Competition,” “Authorized by Statute” if a sole source set-aside shall also be noted, or “Authorized for Resale” when the award is noncompetitive and simplified acquisition procedures were used. Do not choose other values from the list.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) <i class="+ topic/ph hi-d/i ">Other than Simplified Acquisition
 Procedures</i>. Select from available values the one that matches
 the FAR part 6 authority referenced in the Justification &amp; Authorization
@@ -992,24 +992,24 @@ and open competition; or in the case of simplified acquisition,
 did not provide the maximum extent of competition practicable; select
 the value in the “Other Than Full and Open Competition” field that
 represents the justification used.</p>
-         <p outputclass="List4" class="- topic/p ">(H) In the “Commercial <ph rev="Revised January 31, 2023">Product or Commercial Service</ph> Acquisition Procedures” data field, indicate whether commercial procedures were<ph rev="Revised January 31, 2023">— </ph>
+         <p outputclass="List4" class="- topic/p ">(H) In the “Commercial Product or Commercial Service Acquisition Procedures” data field, indicate whether commercial procedures were— 
          </p>
          <p outputclass="List6" class="- topic/p ">
-            <ph rev="Revised January 31, 2023">(<i>
-                  <ph rev="Revised January 31, 2023">1</ph>
-               </i>) Used</ph> for commercial <ph rev="Revised January 31, 2023">products or commercial services;</ph> 
+            (<i>
+                  1
+               </i>) Used for commercial products or commercial services; 
          </p>
          <p outputclass="List6" class="- topic/p ">(<i>
-               <ph rev="Revised January 31, 2023">2</ph>
-            </i>) <ph rev="Revised January 31, 2023">U</ph>sed for supplies or services pursuant to FAR 12.102(f)<ph rev="Revised January 31, 2023">;</ph> 
+               2
+            </i>) Used for supplies or services pursuant to FAR 12.102(f); 
          </p>
          <p outputclass="List6" class="- topic/p ">(<i>
-               <ph rev="Revised January 31, 2023">3</ph>
-            </i>) <ph rev="Revised January 31, 2023">U</ph>sed for services pursuant to FAR 12.102(g)<ph rev="Revised January 31, 2023">;</ph> or</p>
+               3
+            </i>) Used for services pursuant to FAR 12.102(g); or</p>
          <p outputclass="List6" class="- topic/p ">(<i>
-               <ph rev="Revised January 31, 2023">4</ph>
-            </i>) <ph rev="Revised January 31, 2023">N</ph>ot used.</p>
-         <p outputclass="List4" class="- topic/p ">(I) In the “Simplified Procedures for Certain Commercial <ph rev="Revised January 31, 2023">Products or Commercial Services</ph>” data field, indicate if the contract action utilized procedures under FAR <ph rev="Revised January 31, 2023">subpart</ph> 13.5.</p>
+               4
+            </i>) Not used.</p>
+         <p outputclass="List4" class="- topic/p ">(I) In the “Simplified Procedures for Certain Commercial Products or Commercial Services” data field, indicate if the contract action utilized procedures under FAR subpart 13.5.</p>
          <p outputclass="List4" class="- topic/p ">(J) In the “A-76 Action” data field, indicate
 if the contract action resulted from an A-76 / FAIR Act competitive sourcing
 process. Note, however, that DoD is currently under a moratorium
