@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars">
+<map title="DFARS" outputclass="dfars" rev="Revised March 16, 2023">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -555,7 +555,7 @@
                          xtrc="DFARS_203.502-2.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="203.570fraud Prohibition on persons convicted of  or other defense-contract-related felonies."
+               <topicref navtitle="203.570 Prohibition on persons convicted of fraud or other defense-contract-related felonies."
                          base="concept"
                          href="203.570.dita"
                          props="203.570"
@@ -1176,14 +1176,14 @@
                          tables="0"
                          figures="0"/>
             </topicref>
-            <topicref navtitle="Subpart&#xA;204.17 - SERVICE CONTRACTSINVENTORY"
+            <topicref navtitle="Subpart 204.17 - SERVICE CONTRACTS INVENTORY"
                       base="NoTitle"
                       href="SUBPART_204.17.dita"
                       props="Subpart 204.17"
                       outputclass="SubPart"
-                      audience="changeme_1626301504418"
+                      audience="DFARS_SUBPART_204.17"
                       xtrf="SubPart"
-                      xtrc="changeme_1626301504418.html"
+                      xtrc="DFARS_SUBPART_204.17.html"
                       tables="0"
                       figures="0">
                <topicref navtitle="204.1700 Scope of subpart."
@@ -1206,7 +1206,7 @@
                          xtrc="DFARS_204.1701.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="&#xA;         204.1703 &#xA;         Reporting requirements.&#xA;      "
+               <topicref navtitle="204.1703 Reporting requirements.  "
                          base="concept"
                          href="204.1703.dita"
                          props="204.1703"
@@ -1248,7 +1248,7 @@
                          tables="0"
                          figures="0"/>
             </topicref>
-            <topicref navtitle="Subpart 204.21SERVICES - PROHIBITION ON CONTRACTING FOR CERTAIN TELECOMMUNICATIONS AND VIDEO SURVEILLANCE  OR EQUIPMENT"
+            <topicref navtitle="Subpart 204.21 - PROHIBITION ON CONTRACTING FOR CERTAIN TELECOMMUNICATIONS AND VIDEO SURVEILLANCE SERVICES OR EQUIPMENT"
                       base="NoTitle"
                       href="SUBPART_204.21.dita"
                       props="Subpart 204.21"
@@ -3877,7 +3877,7 @@
                          xtrc="DFARS_212.271.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="212.272commercial  Preference for certain commercial products and services."
+               <topicref navtitle="212.272 Preference for certain commercial products and services."
                          base="concept"
                          href="212.272.dita"
                          props="212.272"
@@ -13317,16 +13317,6 @@
                          xtrc="DFARS_232.009-1.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="232.009-2 Contract clause."
-                         base="concept"
-                         href="232.009-2.dita"
-                         props="232.009-2"
-                         outputclass="subtopic"
-                         audience="DFARS_232.009-2"
-                         xtrf="subtopic"
-                         xtrc="DFARS_232.009-2.html"
-                         tables="0"
-                         figures="0"/>
             </topicref>
             <topicref navtitle="232.070 Responsibilities."
                       base="concept"
@@ -16550,7 +16540,7 @@
                             tables="0"
                             figures="0"/>
                </topicref>
-               <topicref navtitle="242.202 Assignment of contractadministration."
+               <topicref navtitle="242.202 Assignment of contract administration."
                          base="concept"
                          href="242.202.dita"
                          props="242.202"
@@ -16696,6 +16686,16 @@
                             tables="0"
                             figures="0"/>
                </topicref>
+               <topicref href="242.708.dita"
+                         navtitle="242.708 Quick-closeout procedure."
+                         props="242.708"
+                         outputclass="subtopic"
+                         audience="DFARS_242.708"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_242.708.html"
+                         tables="0"
+                         figures="0"/>
                <topicref navtitle="242.770 Reserved."
                          base="concept"
                          href="242.770.dita"

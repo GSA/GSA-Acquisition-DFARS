@@ -8,7 +8,7 @@
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
-         <ph props="autonumber" class="- topic/ph ">252.204-7012</ph> Safeguarding <ph rev="Revised January 31, 2023">C</ph>overed <ph rev="Revised January 31, 2023">D</ph>efense <ph rev="Revised January 31, 2023">I</ph>nformation and <ph rev="Revised January 31, 2023">C</ph>yber<ph rev="Revised January 31, 2023"> I</ph>ncident <ph rev="Revised January 31, 2023">R</ph>eporting.</title>
+         <ph props="autonumber" class="- topic/ph ">252.204-7012</ph> Safeguarding Covered Defense Information and Cyber Incident Reporting.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
                <xref href="204.7304.dita#DFARS_204.7304"
@@ -16,9 +16,7 @@
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.7304</xref>
             (c), use the following clause:</p>
-         <p outputclass="Ctr_SmCaps"
-            class="- topic/p "
-            rev="Revised January 31, 2023">SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING (JAN 2023)</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING (JAN 2023)</p>
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this clause—</p>
          <p class="- topic/p ">“Adequate security” means protective measures that are commensurate with the consequences and probability of loss, misuse, or unauthorized access to, or modification of information.</p>
          <p class="- topic/p ">“Compromise” means disclosure of information to unauthorized persons, or a violation of the security policy of a system, in which unauthorized intentional or unintentional disclosure, modification, destruction, or loss of an object, or the copying of information to unauthorized media may have occurred.</p>
@@ -38,7 +36,7 @@
          <p class="- topic/p ">“Technical information” means technical data or computer software, as those terms are defined in the clause at DFARS <xref href="252.227-7013.dita#DFARS_252.227-7013"
                   base="i1382636"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.227-7013</xref> , Rights in Technical Data—<ph rev="Revised January 31, 2023">Other Than Commercial Products and Commercial Services</ph>, regardless of whether or not the clause is incorporated in this solicitation or contract. Examples of technical information include research and engineering data, engineering drawings, and associated lists, specifications, standards, process sheets, manuals, technical reports, technical orders, catalog-item identifications, data sets, studies and analyses and related information, and computer software executable code and source code.</p>
+                  class="- topic/xref ">252.227-7013</xref> , Rights in Technical Data—Other Than Commercial Products and Commercial Services, regardless of whether or not the clause is incorporated in this solicitation or contract. Examples of technical information include research and engineering data, engineering drawings, and associated lists, specifications, standards, process sheets, manuals, technical reports, technical orders, catalog-item identifications, data sets, studies and analyses and related information, and computer software executable code and source code.</p>
          <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Adequate security</i>. The Contractor shall provide adequate security on all covered contractor information systems. To provide adequate security, the Contractor shall implement, at a minimum, the following information security protections:</p>
          <p outputclass="List2" class="- topic/p ">(1) For covered contractor information systems that are part of an Information Technology (IT) service or system operated on behalf of the Government, the following security requirements apply:</p>
          <p outputclass="List3" class="- topic/p ">(i) Cloud computing services shall be subject to the security requirements specified in the clause 
@@ -81,7 +79,7 @@
          <p outputclass="List1" class="- topic/p ">(k) The Contractor shall conduct activities under this clause in accordance with applicable laws and regulations on the interception, monitoring, access, use, and disclosure of electronic communications and data.</p>
          <p outputclass="List1" class="- topic/p ">(l) <i class="+ topic/ph hi-d/i ">Other safeguarding or reporting requirements.</i> The safeguarding and cyber incident reporting required by this clause in no way abrogates the Contractor’s responsibility for other safeguarding or cyber incident reporting pertaining to its unclassified information systems as required by other applicable clauses of this contract, or as a result of other applicable U.S. Government statutory or regulatory requirements.</p>
          <p outputclass="List1" class="- topic/p ">(m) <i class="+ topic/ph hi-d/i ">Subcontracts</i>. The Contractor shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Include this clause, including this paragraph (m), in subcontracts, or similar contractual instruments, for operationally critical support, or for which subcontract performance will involve covered defense information, including subcontracts for commercial <ph rev="Revised January 31, 2023">products or commercial services</ph>, without alteration, except to identify the parties. The Contractor shall determine if the information required for subcontractor performance retains its identity as covered defense information and will require protection under this clause, and, if necessary, consult with the Contracting Officer; and</p>
+         <p outputclass="List2" class="- topic/p ">(1) Include this clause, including this paragraph (m), in subcontracts, or similar contractual instruments, for operationally critical support, or for which subcontract performance will involve covered defense information, including subcontracts for commercial products or commercial services, without alteration, except to identify the parties. The Contractor shall determine if the information required for subcontractor performance retains its identity as covered defense information and will require protection under this clause, and, if necessary, consult with the Contracting Officer; and</p>
          <p outputclass="List2" class="- topic/p ">(2) Require subcontractors to—</p>
          <p outputclass="List3" class="- topic/p ">(i) Notify the prime Contractor (or next higher-tier subcontractor) when submitting a request to vary from a NIST SP 800-171 security requirement to the Contracting Officer, in accordance with paragraph (b)(2)(ii)(B) of this clause; and</p>
          <p outputclass="List3" class="- topic/p ">(ii) Provide the incident report number, automatically assigned by DoD, to the prime Contractor (or next higher-tier subcontractor) as soon as practicable, when reporting a cyber incident to DoD as required in paragraph (c) of this clause.</p>

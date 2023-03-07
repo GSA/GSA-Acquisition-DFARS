@@ -4,16 +4,14 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_232.009-2"
+   <concept id="DFARS_242.708"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">232.009-2</ph> Contract clause.</title>
+      <title class="- topic/title " rev="Revised March 1, 2023"> 
+         <ph props="autonumber" class="- topic/ph ">242.708</ph> Quick-closeout procedure.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Bold" class="- topic/p ">Use the clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383332"
-                  href="252.232-7017.dita#DFARS_252.232-7017">252.232-7017</xref> , Accelerating Payments to Small Business Subcontractors—Prohibition on Fees and Consideration, in solicitations and contracts, including those using FAR part 12 procedures for the acquisition of commercial <ph rev="Revised January 31, 2023">products and commercial services</ph>, that include the clause at FAR 52.232-40, Providing Accelerated Payments to Small Business Subcontractors.</p>
+         <p outputclass="List1" rev="Revised March 1, 2023">(a) Defense Contract Management Agency administrative contracting officers are authorized to negotiate the settlement of direct and indirect costs for a specific contract, task order, or delivery order to be closed in advance of the determination of final direct costs and indirect rates set forth in FAR 42.705, regardless of the dollar value or percentage of unsettled direct or indirect costs allocable to the contract, task order, or delivery order. </p>
+         <p outputclass="List2" rev="Revised March 1, 2023">(2) In lieu of the thresholds at FAR 42.708(a)(2)(i) and (ii), the amount of unsettled direct costs and indirect costs to be allocated to the contract, task order, or delivery order will be considered relatively insignificant when the total unsettled direct costs and indirect costs to be allocated to any one contract, task order, or delivery order do not exceed $2 million, regardless of the total contract, task order, or delivery order amount. </p>
       </conbody>
    </concept>
 </dita>
