@@ -12,7 +12,7 @@
 <map
    title="DFARS"
    outputclass="dfars"
-   rev="Revised March 1, 2023">
+   rev="Revised March 16, 2023">
    <title>DFARS</title>
    <topicref
       navtitle="Volume III-Parts 201 to 253"
@@ -1076,9 +1076,9 @@
                href="SUBPART_204.17.dita"
                props="Subpart 204.17"
                outputclass="SubPart"
-               audience="changeme_1626301504418"
+               audience="DFARS_SUBPART_204.17"
                xtrf="SubPart"
-               xtrc="changeme_1626301504418.html">
+               xtrc="DFARS_SUBPART_204.17.html">
                <topicref
                   navtitle="204.1700 Scope of subpart."
                   base="concept"
@@ -1098,7 +1098,7 @@
                   xtrf="subtopic"
                   xtrc="DFARS_204.1701.html"/>
                <topicref
-                  navtitle="&#xA;         204.1703 &#xA;         Reporting requirements.&#xA;      "
+                  navtitle="204.1703 Reporting requirements.  "
                   base="concept"
                   href="204.1703.dita"
                   props="204.1703"
@@ -3509,7 +3509,7 @@
                   xtrf="subtopic"
                   xtrc="DFARS_212.271.html"/>
                <topicref
-                  navtitle="212.272commercial  Preference for certain commercial products and services."
+                  navtitle="212.272 Preference for certain commercial products and services."
                   base="concept"
                   href="212.272.dita"
                   props="212.272"
@@ -12030,15 +12030,6 @@
                   audience="DFARS_232.009-1"
                   xtrf="subtopic"
                   xtrc="DFARS_232.009-1.html"/>
-               <topicref
-                  navtitle="232.009-2 Contract clause."
-                  base="concept"
-                  href="232.009-2.dita"
-                  props="232.009-2"
-                  outputclass="subtopic"
-                  audience="DFARS_232.009-2"
-                  xtrf="subtopic"
-                  xtrc="DFARS_232.009-2.html"/>
             </topicref>
             <topicref
                navtitle="232.070 Responsibilities."
