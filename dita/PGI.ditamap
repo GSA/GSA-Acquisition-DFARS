@@ -153,7 +153,7 @@
                          audience="DFARS_PGI_PGI_201.602"
                          xtrf="subtopic"
                          xtrc="DFARS_PGI_PGI_201.602.html">
-                  <topicref navtitle="PGI &#xA;201.602-2 Responsibilities."
+                  <topicref navtitle="PGI 201.602-2 Responsibilities."
                             base="concept"
                             href="PGI_201.602-2.dita"
                             props="PGI  201.602-2"
@@ -458,7 +458,7 @@
                          xtrf="subtopic"
                          xtrc="DFARS_PGI_PGI_204.1670.html"/>
             </topicref>
-            <topicref navtitle="&#xA;         PGI 204.17&#xA;         - SERVICE CONTRACT INVENTORY&#xA;      "
+            <topicref navtitle=" PGI 204.17 - SERVICE CONTRACT INVENTORY "
                       base="NoTitle"
                       href="PGI_204.17.dita"
                       props="PGI 204.17"
@@ -466,7 +466,7 @@
                       audience="DFARS_PGI_PGI_204.17"
                       xtrf="SubPart"
                       xtrc="DFARS_PGI_PGI_204.17.html">
-               <topicref navtitle="&#xA;         PGI&#xA;204.1703 &#xA;         Reporting requirements.&#xA;      "
+               <topicref navtitle=" PGI 204.1703 Reporting requirements. "
                          base="concept"
                          href="PGI_204.1703.dita"
                          props="PGI 204.1703"
@@ -651,6 +651,23 @@
                             xtrc=""/>
                </topicref>
             </topicref>
+            <topicref href="PGI_204.76.dita"
+                      navtitle="PGI 204.76 -SUPPLIER PERFORMANCE RISK SYSTEM"
+                      props="PGI_204.76"
+                      outputclass="SubPart"
+                      audience="DFARS_PGI_PGI_204.76"
+                      xtrc="DFARS_PGI_PGI_204.76.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="PGI_204.7603.dita"
+                         navtitle="PGI 204.7603 Procedures."
+                         props="PGI_204.7603"
+                         outputclass="subtopic"
+                         audience="DFARS_PGI_PGI_204.7603"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_PGI_PGI_204.7603.html"/>
+            </topicref>
          </topicref>
       </topicref>
    </topicref>
@@ -720,7 +737,7 @@
                       audience="dxztPx"
                       xtrf="No"
                       xtrc="dxztPx.html">
-               <topicref navtitle="&#xA;            PGI 206.001-70&#xA;          Exception for prototype projects for follow-on production contracts."
+               <topicref navtitle=" PGI 206.001-70 Exception for prototype projects for follow-on production contracts."
                          base="NoTitle"
                          href="PGI_206.001-70.dita"
                          props="PGI 206.001-70"
@@ -1905,7 +1922,7 @@
                             audience="DFARS_PGI_PGI_215.403-1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="PGI 215.403-3 Requiring&#xA;         dataother than certified cost or pricing data."
+                  <topicref navtitle="PGI 215.403-3 Requiring dataother than certified cost or pricing data."
                             base="concept"
                             href="PGI_215.403-3.dita"
                             props="PGI 215.403-3"
@@ -2520,7 +2537,7 @@
                          xtrf="subtopic"
                          xtrc="DFARS_PGI_PGI_217.7701.html"/>
             </topicref>
-            <topicref navtitle="PGI 217.78  DELETED(NO CURRENT PGI TEXT)"
+            <topicref navtitle="PGI 217.78 DELETED(NO CURRENT PGI TEXT)"
                       base="NoTitle"
                       href="PGI_217.78.dita"
                       props="PGI 217.78"
@@ -3510,7 +3527,7 @@
                             xtrc=""/>
                </topicref>
                <topicref href="PGI_225.7020.dita"
-                         navtitle="PGI 225.7020 Prohibition on contracting         with the Maduro regime."
+                         navtitle="PGI 225.7020 Prohibition on contracting with the Maduro regime."
                          props="PGI 225.7020"
                          outputclass="subtopic"
                          base="concept"
@@ -3790,6 +3807,67 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 xtrc="DFARS_PGI_e.html">
+         <topicref href="PGI_PART_227.dita"
+                   navtitle="PGI Part 227 - TECHNICAL DATA AND ASSOCIATED RIGHTS"
+                   props="PGI Part 227"
+                   outputclass="Part"
+                   audience="DFARS_PGI_PART_227"
+                   xtrf="Part"
+                   base="NoTitle"
+                   xtrc="">
+            <topicref href="PGI_227.71.dita"
+                      navtitle="PGI 227.71 - TECHNICAL DATA AND ASSOCIATED RIGHTS"
+                      props="PGI_227.71"
+                      outputclass="SubPart"
+                      audience="DFARS_PGI_SUBPART_227.71"
+                      xtrc="DFARS_PGI_SUBPART_227.71.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="PGI_227.7103.dita"
+                         navtitle="PGI 227.7103 Other than commercial products, commercial services, or commercial processes."
+                         props="PGI_227.7103"
+                         outputclass="subtopic"
+                         audience="DFARS_PGI_227.7103"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_PGI_227.7103.html">
+                  <topicref href="PGI_227.7103-2.dita"
+                            navtitle="PGI 227.7103-2 Acquisition of technical data."
+                            props="PGI_227.7103-2"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_227.7103-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+            </topicref>
+            <topicref href="PGI_227.72.dita"
+                      navtitle="PGI 227.72 - COMPUTER SOFTWARE"
+                      props="PGI_227.72"
+                      outputclass="SubPart"
+                      audience="DFARS_PGI_SUBPART_227.72"
+                      xtrc="DFARS_PGI_SUBPART_227.72.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="PGI_227.7203.dita"
+                         navtitle="PGI 227.7203 Other than commercial computer software and other than commercial computer software documentation."
+                         props="PGI_227.7203"
+                         outputclass="subtopic"
+                         audience="DFARS_PGI_227.7203"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_PGI_227.7203.html">
+                  <topicref href="PGI_227.7203-2.dita"
+                            navtitle="PGI 227.7203-2 Acquisition of other than commercial computer software and computer software documentation and associated rights."
+                            props="PGI_227.7203-2"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_227.7203-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+            </topicref>
+         </topicref>
          <topicref navtitle="PGI Part 228 - BONDS AND INSURANCE"
                    base="NoTitle"
                    href="PGI_PART_228.dita"
@@ -3829,7 +3907,16 @@
                          outputclass="subtopic"
                          audience="DFARS_PGI_PGI_228.370"
                          xtrf="subtopic"
-                         xtrc="DFARS_PGI_PGI_228.370.html"/>
+                         xtrc="DFARS_PGI_PGI_228.370.html">
+                  <topicref href="PGI_228.370-2.dita"
+                            navtitle="PGI 228.370-2 General."
+                            props="PGI_228.370-2"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_PGI_228.370-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
             </topicref>
          </topicref>
          <topicref navtitle="PGI Part 229 - TAXES"
@@ -5711,7 +5798,7 @@
                       audience="i1498004"
                       xtrf="SubPart"
                       xtrc="i1498004.html">
-               <topicref navtitle="&#xA;         PGI&#xA;251.101 Policy."
+               <topicref navtitle=" PGI 251.101 Policy."
                          base="concept"
                          href="PGI_251.101.dita"
                          props="PGI 251.101"
