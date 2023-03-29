@@ -1381,6 +1381,55 @@
                          xtrf="subtopic"
                          xtrc="DFARS_204.7503.html"/>
             </topicref>
+            <topicref href="SUBPART_204.76.dita"
+                      navtitle="Subpart 204.76 - SUPPLIER PERFORMANCE RISK SYSTEM"
+                      props="SUBPART_204.76"
+                      outputclass="SubPart"
+                      audience="DFARS_SUBPART_204.76"
+                      xtrc="DFARS_SUBPART_204.76.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="204.7600.dita"
+                         navtitle="204.7600 Scope of subpart."
+                         props="204.7600"
+                         outputclass="subtopic"
+                         audience="DFARS_204.7600"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_204.7600.html"/>
+               <topicref href="204.7601.dita"
+                         navtitle="204.7601 Definitions."
+                         props="204.7601"
+                         outputclass="subtopic"
+                         audience="DFARS_204.7601"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_204.7601.html"/>
+               <topicref href="204.7602.dita"
+                         navtitle="204.7602 Applicability."
+                         props="204.7602"
+                         outputclass="subtopic"
+                         audience="DFARS_204.7602"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_204.7602.html"/>
+               <topicref href="204.7603.dita"
+                         navtitle="204.7603 Procedures."
+                         props="204.7603"
+                         outputclass="subtopic"
+                         audience="DFARS_204.7603"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_204.7603.html"/>
+               <topicref href="204.7604.dita"
+                         navtitle="204.7604 Solicitation provision."
+                         props="204.7604"
+                         outputclass="subtopic"
+                         audience="DFARS_204.7604"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_204.7604.html"/>
+            </topicref>
          </topicref>
          <topicref navtitle="Part 205 - PUBLICIZING CONTRACT ACTIONS"
                    base="NoTitle"
@@ -9675,7 +9724,7 @@
                          xtrf="subtopic"
                          xtrc="DFARS_227.7013.html"/>
             </topicref>
-            <topicref navtitle="Subpart 227.71 - RIGHTS IN TECHNICAL DATA"
+            <topicref navtitle="Subpart 227.71 - TECHNICAL DATA AND ASSOCIATED RIGHTS"
                       base="NoTitle"
                       href="SUBPART_227.71.dita"
                       props="Subpart 227.71"
@@ -10337,14 +10386,47 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="228.370 Additional clauses."
+               <topicref navtitle="228.370 Ground and flight risk."
                          base="concept"
                          href="228.370.dita"
                          props="228.370"
                          outputclass="subtopic"
                          audience="DFARS_228.370"
                          xtrf="subtopic"
-                         xtrc="DFARS_228.370.html"/>
+                         xtrc="DFARS_228.370.html">
+                  <topicref href="228.370-1.dita"
+                            navtitle="228.370-1 Definitions."
+                            props="228.370-1"
+                            outputclass="subtopic"
+                            audience="DFARS_228.370-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="228.370-2.dita"
+                            navtitle="228.370-2 General."
+                            props="228.370-2"
+                            outputclass="subtopic"
+                            audience="DFARS_228.370-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="228.370-3.dita"
+                            navtitle="228.370-3 Aircraft not owned by or to be delivered to the Government."
+                            props="228.370-3"
+                            outputclass="subtopic"
+                            audience="DFARS_228.370-3"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+               <topicref href="228.371.dita"
+                         navtitle="228.371 Additional clauses."
+                         props="228.371"
+                         outputclass="subtopic"
+                         audience="DFARS_228.371"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_228.371.html"/>
             </topicref>
          </topicref>
          <topicref navtitle="Part 229 - TAXES"
@@ -15897,8 +15979,16 @@
                             href="252.204-7023.dita"
                             props="252.204-7023"
                             outputclass="subtopic"
-                            audience="changeme_1626286572440"
+                            audience="DFARS_252.204-7023"
                             xtrf="subtopic"
+                            xtrc=""/>
+                  <topicref href="252.204-7024.dita"
+                            navtitle="252.204-7024 Notice on the Use of the Supplier      Performance Risk System."
+                            props="252.204-7024"
+                            outputclass="subtopic"
+                            audience="DFARS_252.204-7024"
+                            xtrf="subtopic"
+                            base="concept"
                             xtrc=""/>
                </topicref>
                <topicref navtitle="252.205 RESERVED"
@@ -16187,7 +16277,7 @@
                          audience="DFARS_252.213"
                          xtrf="subtopic"
                          xtrc="DFARS_252.213.html">
-                  <topicref navtitle="252.213-7000 Notice to Prospective Suppliers on Use of Supplier Performance Risk System in Past Performance Evaluations."
+                  <topicref navtitle="252.213-7000 Reserved."
                             base="concept"
                             href="252.213-7000.dita"
                             props="252.213-7000"
@@ -17860,6 +17950,14 @@
                             outputclass="subtopic"
                             audience="DFARS_252.228-7006"
                             xtrf="subtopic"
+                            xtrc=""/>
+                  <topicref href="252.228-7007.dita"
+                            navtitle="252.228-7007 Public Aircraft and State Aircraft Operations—Liability."
+                            props="252.228-7007"
+                            outputclass="subtopic"
+                            audience="DFARS_252.228-7007"
+                            xtrf="subtopic"
+                            base="concept"
                             xtrc=""/>
                </topicref>
                <topicref navtitle="252.229 RESERVED"
@@ -21128,6 +21226,23 @@
                             xtrc=""/>
                </topicref>
             </topicref>
+            <topicref href="PGI_204.76.dita"
+                      navtitle="PGI 204.76 -SUPPLIER PERFORMANCE RISK SYSTEM"
+                      props="PGI_204.76"
+                      outputclass="SubPart"
+                      audience="DFARS_PGI_PGI_204.76"
+                      xtrc="DFARS_PGI_PGI_204.76.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="PGI_204.7603.dita"
+                         navtitle="PGI 204.7603 Procedures."
+                         props="PGI_204.7603"
+                         outputclass="subtopic"
+                         audience="DFARS_PGI_PGI_204.7603"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_PGI_PGI_204.7603.html"/>
+            </topicref>
          </topicref>
       </topicref>
    </topicref>
@@ -24267,6 +24382,75 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 xtrc="DFARS_PGI_e.html">
+         <topicref href="PGI_PART_227.dita"
+                   navtitle="PGI Part 227 - TECHNICAL DATA AND ASSOCIATED RIGHTS"
+                   props="PGI Part 227"
+                   outputclass="Part"
+                   audience="DFARS_PGI_PART_227"
+                   xtrf="Part"
+                   base="NoTitle"
+                   xtrc="">
+            <topicref href="PGI_227.71.dita"
+                      navtitle="PGI 227.71 - TECHNICAL DATA AND ASSOCIATED RIGHTS"
+                      props="PGI_227.71"
+                      outputclass="SubPart"
+                      audience="DFARS_PGI_SUBPART_227.71"
+                      xtrc="DFARS_PGI_SUBPART_227.71.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="PGI_227.7103.dita"
+                         navtitle="PGI 227.7103 Other than commercial products, commercial services, or commercial processes."
+                         props="PGI_227.7103"
+                         outputclass="subtopic"
+                         audience="DFARS_PGI_227.7103"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_PGI_227.7103.html">
+                  <topicref href="PGI_227.7103-2.dita"
+                            navtitle="PGI 227.7103-2 Acquisition of technical data."
+                            props="PGI_227.7103-2"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_227.7103-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+            </topicref>
+            <topicref href="PGI_227.72.dita"
+                      navtitle="PGI 227.72 - COMPUTER SOFTWARE"
+                      props="PGI_227.72"
+                      outputclass="SubPart"
+                      audience="DFARS_PGI_SUBPART_227.72"
+                      xtrc="DFARS_PGI_SUBPART_227.72.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref
+                  href="PGI_227.7200.dita"
+                  navtitle="PGI 227.7200 Scope of subpart."
+                  props="PGI_227.7200"
+                  outputclass="subtopic"
+                  audience="DFARS_PGI_227.7200"
+                  xtrf="subtopic"
+                  base="concept"/>
+               <topicref href="PGI_227.7203.dita"
+                         navtitle="PGI 227.7203 Other than commercial computer software and other than commercial computer software documentation."
+                         props="PGI_227.7203"
+                         outputclass="subtopic"
+                         audience="DFARS_PGI_227.7203"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_PGI_227.7203.html">
+                  <topicref href="PGI_227.7203-2.dita"
+                            navtitle="PGI 227.7203-2 Acquisition of other than commercial computer software and computer software documentation and associated rights."
+                            props="PGI_227.7203-2"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_227.7203-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+            </topicref>
+         </topicref>
          <topicref navtitle="PGI Part 228 - BONDS AND INSURANCE"
                    base="NoTitle"
                    href="PGI_PART_228.dita"
@@ -24306,7 +24490,16 @@
                          outputclass="subtopic"
                          audience="DFARS_PGI_PGI_228.370"
                          xtrf="subtopic"
-                         xtrc="DFARS_PGI_PGI_228.370.html"/>
+                         xtrc="DFARS_PGI_PGI_228.370.html">
+                  <topicref href="PGI_228.370-2.dita"
+                            navtitle="PGI 228.370-2 General."
+                            props="PGI_228.370-2"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_PGI_228.370-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
             </topicref>
          </topicref>
          <topicref navtitle="PGI Part 229 - TAXES"
