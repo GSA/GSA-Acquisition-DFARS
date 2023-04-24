@@ -4,24 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept
-      id="DFARS_PGI_227.7200"
-      ditaarch:DITAArchVersion="1.3"
-      class="- topic/topic concept/concept "
-      rev="Revised March 22, 2023">
-      <title
-         class="- topic/title "> <ph
-         props="autonumber"
-         class="- topic/ph ">PGI 227.7200</ph> Scope of subpart.</title>
+   <concept id="DFARS_PGI_227.7200"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            rev="Revised March 22, 2023">
+      <title class="- topic/title "> 
+         <ph props="autonumber" class="- topic/ph ">PGI 227.7200</ph> Scope of subpart.</title>
       <conbody>
-         <p
-            outputclass="List1">(b) The contracting officer should consider the following additional guidance and information regarding acquisition of computer software and computer software documentation: </p>
-         <p
-            outputclass="List2">(1) DoD Instruction 5000.74, Defense Acquisition of Services. </p>
-         <p
-            outputclass="List2">(2) DoD Instruction 5000.87, Operation of the Software Acquisition Pathway. </p>
-         <p
-            outputclass="List2">(3) DoD Instruction 5010.44, Intellectual Property (IP) Acquisition and Licensing. </p>
+         <p outputclass="List1">(b) The contracting officer should consider the following additional guidance and information regarding acquisition of computer software and computer software documentation: </p>
+         <p outputclass="List2">(1) DoD Instruction 5000.74, Defense Acquisition of Services. </p>
+         <p outputclass="List2">(2) DoD Instruction 5000.87, Operation of the Software Acquisition Pathway. </p>
+         <p outputclass="List2">(3) DoD Instruction 5010.44, Intellectual Property (IP) Acquisition and Licensing. </p>
       </conbody>
    </concept>
 </dita>
