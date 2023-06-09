@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars">
+<map title="DFARS" outputclass="dfars" rev="Revised May 25, 2023">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -22670,6 +22670,15 @@
                             xtrc=""
                             tables="0"
                             figures="0"/>
+                  <topicref href="252.232-7018.dita"
+                            navtitle="252.232-7018 Progress Payments-Multiple Lots."
+                            outputclass="subtopic"
+                            props="252.232-7018"
+                            audience="DFARS_252.232-7018"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
                </topicref>
                <topicref navtitle="252.233 RESERVED"
                          base="concept"
@@ -26281,7 +26290,7 @@
                          audience="DFARS_PGI_PGI_204.7108"
                          xtrf="subtopic"
                          xtrc="DFARS_PGI_PGI_204.7108.html"
-                         tables="1"
+                         tables="2"
                          figures="0"/>
             </topicref>
             <topicref navtitle="PGI 204.72 -CONTRACTOR IDENTIFICATION"
@@ -30258,7 +30267,7 @@
                          audience="DFARS_PGI_227.7200"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_PGI_227.7200.html"
                          tables="0"
                          figures="0"/>
                <topicref href="PGI_227.7203.dita"

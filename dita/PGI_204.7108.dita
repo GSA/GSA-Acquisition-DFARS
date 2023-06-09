@@ -11,16 +11,24 @@
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.7108</ph> Payment instructions.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Scope</i>. This section applies to contracts and orders that are funded by multiple accounting classification citations and— </p>
-         <p outputclass="List2" class="- topic/p ">(1) Include deliverable line items or deliverable subline items (see FAR 4.1005-1) that are funded by multiple accounting classification citations;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Contain cost-reimbursement or time-and-materials/labor-hour line items; or</p>
-         <p outputclass="List2" class="- topic/p ">(3) Authorize financing payments.</p>
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Scope</i>. This section applies to contracts and orders that
+            are funded by multiple accounting classification <ph rev="Revised May 25, 2023">reference number (ACRN)</ph> citations and— </p>
+         <p outputclass="List2" class="- topic/p ">(1) Include deliverable line items or deliverable subline items (see
+            FAR 4.1005-1) that are funded by multiple <ph rev="Revised May 25, 2023">ACRNs; or</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(<ph rev="Revised May 25, 2023">2</ph>) Authorize financing payments.</p>
          <p outputclass="List1" class="- topic/p ">(b) For contracts and orders covered by this subpart—</p>
-         <p outputclass="List2" class="- topic/p ">(1) The contracting officer shall insert the table at (b)(2), or a link to the table at (b)(2) (https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI204_71.htm#payment_instructions) in Section G of the contract, or equivalent, including contracts with incrementally funded line items. When some, but not all, of the fixed price line items in a contract are subject to contract financing payments, the contracting officer shall clearly identify to which line items the payment clause(s) included in Section I apply.</p>
-         <p outputclass="List2" class="- topic/p ">(2) The payment office shall allocate and record the amounts paid to the accounting classification citations in the contract using the table below based on the type of payment request submitted (see DFARS <xref outputclass="fm:ParaNumOnly"
+         <p outputclass="List2" class="- topic/p ">(1) The contracting officer shall insert the table at <ph rev="Revised May 25, 2023">paragraph</ph> (b)(2), or a link to the table at (b)(2)
+            (https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI204_71.htm#payment_instructions)
+            in Section G of the contract, or equivalent. When some, but not all, of the fixed<ph rev="Revised May 25, 2023">-</ph>price line items in a contract are subject to contract
+            financing payments, the contracting officer shall clearly identify to which line items
+            the payment clause(s) included in Section I <ph rev="Revised May 25, 2023">of the contract</ph> apply.</p>
+         <p outputclass="List2" class="- topic/p ">(2) The payment office shall allocate and record the amounts paid <ph rev="Revised May 25, 2023">from</ph> the <ph rev="Revised May 25, 2023">ACRNs</ph> in the contract using the table <ph rev="Revised May 25, 2023">in this paragraph (b)(2)</ph>  based on the type of payment
+            request submitted (see DFARS <xref outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
                   base="DFARS-252.232-7006"
-                  href="252.232-7006.dita#DFARS_252.232-7006">252.232-7006</xref>) and the type of effort.</p>
+                  href="252.232-7006.dita#DFARS_252.232-7006">252.232-7006</xref>) and the type of effort <ph rev="Revised May 25, 2023">identified by the Product Service Code for each deliverable
+            line item or subline item (see FAR 4.1005-1)</ph>.</p>
          <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="6"
                     colsep="0"
@@ -98,8 +106,8 @@
                         </p>
                         <p class="- topic/p ">52.216-7, Allowable Cost and Payment;
                         </p>
-                        <p class="- topic/p ">52.232-7, Payments under Time-and-Materials and
-                           Labor-Hour Contracts</p>
+                        <p class="- topic/p ">52.232-7, Payments <ph rev="Revised May 25, 2023">U</ph>nder Time-and-Materials and Labor-Hour
+                           Contracts</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Cost Voucher</p>
@@ -113,17 +121,17 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">N/A</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Line item specific proration. If there is more than
-                           one ACRN within a deliverable line or deliverable subline item, the funds
-                           will be allocated in the same proportion as the amount of funding
-                           currently unliquidated for each ACRN on the deliverable line or
-                           deliverable subline item for which payment is requested. </p>
+                     <entry class="- topic/entry ">Line item specific proration. If there is more than
+                        one ACRN within a deliverable <ph rev="Revised May 25, 2023">contract</ph> line <ph rev="Revised May 25, 2023">item</ph>, the funds will be allocated in the
+                        same proportion as the amount of funding currently unliquidated for each
+                        ACRN on the <ph rev="Revised May 25, 2023">line item billed.</ph>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">52.232-1, Payments</p>
+                        <p class="- topic/p ">52.232-1, Payments; <ph rev="Revised May 25, 2023">252.217-7007, Payments (vessel repair and
+                           alterations) </ph>
+                        </p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Navy Shipbuilding Invoice (Fixed Price)</p>
@@ -132,18 +140,20 @@
                         <p class="- topic/p ">X</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">N/A</p>
+                        <p class="- topic/p ">
+                           <ph rev="Revised May 25, 2023">X</ph>
+                        </p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">N/A</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">Line Item specific by fiscal year. If there is more
-                           than one ACRN within a deliverable line or deliverable subline item, the
-                           funds will be allocated using the oldest funds. In the event of a
-                           deliverable line or deliverable subline item with two ACRNs with the same
-                           fiscal year, those amounts will be prorated to the available unliquidated
-                           funds for that year. </p>
+                        <p class="- topic/p ">Line <ph rev="Revised May 25, 2023">i</ph>tem specific by fiscal year. If there is
+                           more than one ACRN within a deliverable line or deliverable subline item,
+                           the funds will be allocated using the oldest funds <ph rev="Revised May 25, 2023">first</ph>. In the event of a deliverable line
+                           or deliverable subline item with <ph rev="Revised May 25, 2023">two or more</ph> ACRNs with the same fiscal
+                           year, those amounts will be prorated to the available unliquidated funds
+                           for that year. </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -171,9 +181,9 @@
                         <p class="- topic/p ">N/A</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">Line Item Specific proration. If there is more than
-                           one ACRN within a deliverable line or deliverable subline item, the funds
-                           will be allocated in the same proportion as the amount of funding
+                        <p class="- topic/p ">Line <ph rev="Revised May 25, 2023">i</ph>tem <ph rev="Revised May 25, 2023">s</ph>pecific proration. If there is more than
+                           one ACRN within a deliverable line <ph rev="Revised May 25, 2023">item</ph> or deliverable subline item, the
+                           funds will be allocated in the same proportion as the amount of funding
                            currently unliquidated for each ACRN on the deliverable line or
                            deliverable subline item for which payment is requested. </p>
                      </entry>
@@ -196,17 +206,19 @@
                         <p class="- topic/p ">X</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">Line Item specific by fiscal year. If there is more
-                           than one ACRN within a deliverable line or deliverable subline item, the
-                           funds will be allocated using the oldest funds. In the event of a
-                           deliverable line or deliverable subline item with two ACRNs with the same
-                           fiscal year, those amounts will be prorated to the available unliquidated
-                           funds for that year. </p>
+                        <p class="- topic/p ">Line <ph rev="Revised May 25, 2023">i</ph>tem specific by fiscal year. If there is
+                           more than one ACRN within a deliverable line or deliverable subline item,
+                           the funds will be allocated using the oldest funds <ph rev="Revised May 25, 2023">first</ph>. In the event of a deliverable line
+                           or deliverable subline item with <ph rev="Revised May 25, 2023">two or more </ph>ACRNs with the same fiscal
+                           year, those amounts will be prorated to the available unliquidated funds
+                           for that year. </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">52.232-16, Progress Payments </p>
+                        <p class="- topic/p ">52.232-16, Progress Payments <ph rev="Revised May 25, 2023">(excluding contracts with multiple lot
+                           progress payments)</ph> 
+                        </p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Progress Payment*</p>
@@ -223,9 +235,29 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Contract-wide proration. Funds shall be allocated in
                            the same proportion as the amount of funding currently unliquidated for
-                           each ACRN. Progress Payments are considered contract level financing, and
-                           the “contract price” shall reflect the fixed price portion of the
-                           contract per FAR 32.501-3. </p>
+                           each ACRN. Progress <ph rev="Revised May 25, 2023">p</ph>ayments are considered contract level
+                           financing, and the “contract price” shall reflect the fixed<ph rev="Revised May 25, 2023">-</ph>price portion of the contract per FAR
+                           32.501-3. </p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry rev="Revised May 25, 2023">
+                        <p>52.232-16, Progress Payments</p>
+                        <p>252.232-7018, Progress Payments- Multiple Lots</p>
+                     </entry>
+                     <entry rev="Revised May 25, 2023">Progress Payment*</entry>
+                     <entry rev="Revised May 25, 2023">X</entry>
+                     <entry rev="Revised May 25, 2023">X</entry>
+                     <entry rev="Revised May 25, 2023">N/A</entry>
+                     <entry>
+                        <p rev="Revised May 25, 2023">Lot-wide proration (applies to lots
+                           specifically identified in the contract). </p>
+                        <p rev="Revised May 25, 2023">If there is more than one ACRN within a lot,
+                           the funds will be allocated in the same proportion as the amount of
+                           funding currently unliquidated for each ACRN on the lot for which payment
+                           is requested. </p>
+                        <p rev="Revised May 25, 2023">See paragraph (c) of this section for multiple
+                           lot CLIN structure.</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -249,8 +281,7 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Specified in approved payment. The contracting officer
                            shall specify the amount to be paid and the account(s) to be charged for
-                           each payment approval in accordance with FAR 32.207(b)(2) and
-                           32.1007(b)(2). </p>
+                           each payment approval in accordance with FAR 32.207(b)(2). </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -272,8 +303,7 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Specified in approved payment. The contracting officer
                            shall specify the amount to be paid and the account(s) to be charged for
-                           each payment approval in accordance with FAR 32.207(b)(2) and
-                           32.1007(b)(2). </p>
+                           each payment approval in accordance with FAR 32.1007(b)(2). </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -325,11 +355,206 @@
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List1" class="- topic/p ">(c) Reserved.</p>
-         <p outputclass="List1" class="- topic/p ">(d) The numbered payment instructions ((d)(1) through (11)) are replaced by the table at paragraph (b)(2) of this section. </p>
-         <p outputclass="List2" class="- topic/p ">(12) <i class="+ topic/ph hi-d/i ">Other</i>. If none of the payment instructions identified in paragraph (b)(2) of this section are appropriate (i.e., multiple lot progress payments), the contracting officer may insert other payment instructions, provided the other payment instructions—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Provide a significantly better reflection of how funds will be expended in support of contract performance; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Are agreed to by the payment office and the contract administration office. A copy of the agreement will be kept in the contract file.</p>
+         <p outputclass="List1" class="- topic/p " rev="Revised May 25, 2023"> (c) The following example illustrates a contract with
+            multiple lots. Note that each lot is specifically identified in Section B of the
+            Schedule in the event lot-wide proration will be used in accordance with DFARS
+            252.232-7018, Progress Payments-Multiple Lots. Note also that cost-reimbursement line
+            items are not included in the request for progress payment.</p>
+         <p rev="Revised May 25, 2023"> Section B – Supplies or services and prices/costs.<table frame="all" rowsep="1" colsep="1">
+               <tgroup cols="6" align="left">
+                  <colspec colname="c1" colnum="1"/>
+                  <colspec colname="c2" colnum="2"/>
+                  <colspec colname="c3" colnum="3"/>
+                  <colspec colname="c4" colnum="4"/>
+                  <colspec colname="c5" colnum="5"/>
+                  <colspec colname="c6" colnum="6"/>
+                  <thead>
+                     <row>
+                        <entry>ITEM NO.</entry>
+                        <entry>SUPPLIES/SERVICE</entry>
+                        <entry>QUANTITY</entry>
+                        <entry>UNIT</entry>
+                        <entry>UNIT PRICE</entry>
+                        <entry>AMOUNT</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry/>
+                        <entry>
+                           <u>Lot 1 (FYXX)</u>
+                        </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>0001</entry>
+                        <entry>Lot 1 ABC Vehicle (FFP)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>0001AA</entry>
+                        <entry>Lot 1 ABC Vehicles, Army (Procurement) </entry>
+                        <entry>19</entry>
+                        <entry>EA</entry>
+                        <entry>$300,000</entry>
+                        <entry>$5,700,000</entry>
+                     </row>
+                     <row>
+                        <entry>0001AB</entry>
+                        <entry>Lot 1 ABC Vehicles, Marine Corps (Procurement)</entry>
+                        <entry>11</entry>
+                        <entry>EA</entry>
+                        <entry>$300,000</entry>
+                        <entry>$3,300,000</entry>
+                     </row>
+                     <row>
+                        <entry>0002</entry>
+                        <entry>Data for Item 0001</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry> NSP</entry>
+                     </row>
+                     <row>
+                        <entry>0003</entry>
+                        <entry>Lot 1 Initial Spares (FFP)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>0003AA</entry>
+                        <entry>Lot 1 ABC Vehicle Initial Spares Army (See Exhibit C, $456,000)
+                        (Procurement)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>0003AB</entry>
+                        <entry>Lot 1 ABC Vehicle Initial Spares Marine Corps (See Exhibit D, $264,000)
+                        (Procurement)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>0004</entry>
+                        <entry>Lot 1 System Engineering and Program Management (CPFF)</entry>
+                        <entry>1</entry>
+                        <entry>Lot</entry>
+                        <entry/>
+                        <entry>
+                           <p>Est. Cost: </p>
+                           <p>$167,400</p>
+                           <p/>
+                           <p>Fixed Fee:</p>
+                           <p> $12,600</p>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>OPTION ITEMS</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry/>
+                        <entry>
+                           <u>Lot 2 (FYXY)</u>
+                        </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>1001</entry>
+                        <entry>Lot 2 ABC Vehicles (FFP)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>1001AA</entry>
+                        <entry>Lot 2 ABC Vehicles, Army (Procurement)</entry>
+                        <entry>25</entry>
+                        <entry>EA</entry>
+                        <entry>$303,000</entry>
+                        <entry>$7,575,000</entry>
+                     </row>
+                     <row>
+                        <entry>1001AB</entry>
+                        <entry>Lot 2 ABC Vehicles, Marine Corps (Procurement)</entry>
+                        <entry>15</entry>
+                        <entry>EA</entry>
+                        <entry>$307,500</entry>
+                        <entry>$4,545,000</entry>
+                     </row>
+                     <row>
+                        <entry>1002</entry>
+                        <entry>Data for Item 1001</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry> NSP</entry>
+                     </row>
+                     <row>
+                        <entry>1003</entry>
+                        <entry>Lot 2 Initial Spares (FFP)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>1003AA</entry>
+                        <entry>Lot 2 ABC Vehicle Initial Spares Army (See Exhibit E, $606,000)
+                        (Procurement)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>1003AB</entry>
+                        <entry>Lot 2 ABC Vehicle Initial Spares Marine Corps (See Exhibit F, $363,600)
+                        (Procurement)</entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                     </row>
+                     <row>
+                        <entry>1004</entry>
+                        <entry>Lot 2 System Engineering and Program Management (CPFF)</entry>
+                        <entry>1</entry>
+                        <entry>Lot</entry>
+                        <entry/>
+                        <entry>
+                           <p>Est. Cost: </p>
+                           <p>$225,432</p>
+                           <p/>
+                           <p>Fixed Fee:</p>
+                           <p> $16,968</p>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </p>
       </conbody>
    </concept>
 </dita>
