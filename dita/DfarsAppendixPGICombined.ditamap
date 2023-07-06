@@ -26332,38 +26332,42 @@
                    audience="DFARS_PGI_PART_251"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="PGI 251.1 - CONTRACTOR USE OF GOVERNMENT SUPPLY SOURCES"
-                      base="NoTitle"
-                      href="PGI_251.1--.dita"
-                      props="PGI 251.1"
-                      outputclass="SubPart"
-                      audience="i1498004"
-                      xtrf="SubPart"
-                      xtrc="i1498004.html">
-               <topicref navtitle=" PGI 251.101 Policy."
-                         base="concept"
-                         href="PGI_251.101.dita"
-                         props="PGI 251.101"
-                         outputclass="subtopic"
-                         audience="DFARS_PGI_PGI_251.101"
-                         xtrf="subtopic"
-                         xtrc="DFARS_PGI_PGI_251.101.html"/>
-               <topicref navtitle="PGI 251.102 Authorization to use Government supply sources."
-                         base="concept"
-                         href="PGI_251.102.dita"
-                         props="PGI 251.102"
-                         outputclass="subtopic"
-                         audience="DFARS_PGI_PGI_251.102"
-                         xtrf="subtopic"
-                         xtrc="DFARS_PGI_PGI_251.102.html">
-                  <topicref navtitle="PGI 251.102-70 Contracting office responsibilities."
-                            base="concept"
-                            href="PGI_251.102-70.dita"
-                            props="PGI 251.102-70"
-                            outputclass="subtopic"
-                            audience="DFARS_PGI_PGI_251.102-70"
-                            xtrf="subtopic"
-                            xtrc=""/>
+            <topicref
+               navtitle="PGI 251.1 - CONTRACTOR USE OF GOVERNMENT SUPPLY SOURCES"
+               base="NoTitle"
+               href="PGI_251.1.dita"
+               props="PGI 251.1"
+               outputclass="SubPart"
+               audience="i1498004"
+               xtrf="SubPart"
+               xtrc="i1498004.html">
+               <topicref
+                  navtitle=" PGI 251.101 Policy."
+                  base="concept"
+                  href="PGI_251.101.dita"
+                  props="PGI 251.101"
+                  outputclass="subtopic"
+                  audience="DFARS_PGI_PGI_251.101"
+                  xtrf="subtopic"
+                  xtrc="DFARS_PGI_PGI_251.101.html"/>
+               <topicref
+                  navtitle="PGI 251.102 Authorization to use Government supply sources."
+                  base="concept"
+                  href="PGI_251.102.dita"
+                  props="PGI 251.102"
+                  outputclass="subtopic"
+                  audience="DFARS_PGI_PGI_251.102"
+                  xtrf="subtopic"
+                  xtrc="DFARS_PGI_PGI_251.102.html">
+                  <topicref
+                     navtitle="PGI 251.102-70 Contracting office responsibilities."
+                     base="concept"
+                     href="PGI_251.102-70.dita"
+                     props="PGI 251.102-70"
+                     outputclass="subtopic"
+                     audience="DFARS_PGI_PGI_251.102-70"
+                     xtrf="subtopic"
+                     xtrc=""/>
                </topicref>
             </topicref>
          </topicref>
