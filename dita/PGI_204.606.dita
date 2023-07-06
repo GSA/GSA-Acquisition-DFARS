@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_PGI_PGI_204.606"
+   <concept id="DFARS_PGI_204.606"
             outputclass="3"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -166,7 +166,7 @@ BPA should be reported using the BPA call format.</p>
 section cover the different sections of an FPDS contract action
 report, as presented to the user in the system. Not every data element
 is addressed here, as many are self-explanatory. Users should also consult
-the FPDS User Manual referenced in PGI <xref href="PGI_204.602.dita#DFARS_PGI_PGI_204.602"
+the FPDS User Manual referenced in PGI <xref href="PGI_204.602.dita#DFARS_PGI_204.602"
                   base="DFARS-PGI_PGI_204.602"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
@@ -174,7 +174,7 @@ the FPDS User Manual referenced in PGI <xref href="PGI_204.602.dita#DFARS_PGI_PG
 for more complete descriptions and examples. Also, the instructions
 in this section use data field names based on what is shown to the
 user while entering data in FPDS; for more specific information,
-review the FPDS Data Element Dictionary referenced in PGI <xref href="PGI_204.602.dita#DFARS_PGI_PGI_204.602"
+review the FPDS Data Element Dictionary referenced in PGI <xref href="PGI_204.602.dita#DFARS_PGI_204.602"
                   base="DFARS-PGI_PGI_204.602"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
@@ -1013,7 +1013,7 @@ represents the justification used.</p>
          <p outputclass="List4" class="- topic/p ">(J) In the “A-76 Action” data field, indicate
 if the contract action resulted from an A-76 / FAIR Act competitive sourcing
 process. Note, however, that DoD is currently under a moratorium
-from procuring services using these procedures. See PGI <xref href="PGI_207.302.dita#DFARS_PGI_PGI_207.302"
+from procuring services using these procedures. See PGI <xref href="PGI_207.302.dita#DFARS_PGI_207.302"
                   base="DFARS-PGI_PGI_207.302"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
@@ -1188,7 +1188,7 @@ Officer’s Determination of Business Size” selection.</p>
 officers are not required to separately report such awards to FPDS.</p>
          <p outputclass="List2" class="- topic/p ">(6) <i class="+ topic/ph hi-d/i ">Using generic DUNS numbers</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) Generic DUNS numbers may only be used
-for reporting to FPDS in accordance with FAR 4.605(c) or paragraph <xref href="#DFARS_PGI_PGI_204.606"
+for reporting to FPDS in accordance with FAR 4.605(c) or paragraph <xref href="#DFARS_PGI_204.606"
                   base="DFARS-PGI_PGI_204.606"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.606</xref> (5)(ii)(C) of
@@ -1207,7 +1207,7 @@ it is important that the use of generic DUNS numbers in reporting
 to FPDS be rare and only when necessary.</p>
          <p outputclass="List3" class="- topic/p ">(ii) The following generic DUNS numbers
 are available for use in contract reporting only if the conditions
-in FAR 4.605(c) or paragraph <xref href="#DFARS_PGI_PGI_204.606"
+in FAR 4.605(c) or paragraph <xref href="#DFARS_PGI_204.606"
                   base="DFARS-PGI_PGI_204.606"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.606</xref> (5)(ii)(C)
