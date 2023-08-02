@@ -1820,7 +1820,8 @@
                          navtitle="207.108 Additional requirements for telecommuting."
                          audience="DFARS_207.108"
                          xtrc="DFARS_207.108.html"
-                         base="concept"/>
+                         base="concept"
+                         xtrf="subtopic"/>
                <topicref navtitle="207.170 Reserved."
                          base="concept"
                          href="207.170.dita"
@@ -8233,6 +8234,14 @@
                             outputclass="subtopic"
                             audience="DFARS_225.7010-4"
                             xtrf="subtopic"
+                            xtrc=""/>
+                  <topicref href="225.7010-5.dita"
+                            navtitle="225.7010-5 Contract clause."
+                            outputclass="subtopic"
+                            props="225.7010-5"
+                            audience="DFARS_225.7010-5"
+                            xtrf="subtopic"
+                            base="concept"
                             xtrc=""/>
                </topicref>
                <topicref navtitle="225.7011 Restriction on carbon, alloy, and armor steel plate."
@@ -17532,6 +17541,14 @@
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""/>
+                  <topicref href="252.225-7062.dita"
+                            navtitle="252.225-7062      Restriction on Acquisition of Large Medium-Speed Diesel Engines."
+                            outputclass="subtopic"
+                            props="252.225-7062"
+                            audience="DFARS_252.225-7062"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="252.226 RESERVED"
                          base="concept"
@@ -25439,23 +25456,24 @@
                          outputclass="subtopic"
                          audience="DFARS_PGI_242.302"
                          xtrf="subtopic"
-                         xtrc="DFARS_PGI_242.302.html"/>
-               <topicref navtitle="PGI 242.302 (a)(S-72) —Surveillance of the contractors implementation of the Synchronized Predeployment and Operational Tracker (SPOT)"
-                         base="concept"
-                         href="PGI_242.302Surveillance.dita"
-                         props="PGI 242.302 aS-72 Surveillance of the contractors implementation of the Synchronized Predeployment and Operational Tracker SPOT"
-                         outputclass="subtopic"
-                         audience="DFARS_PGI_242.302Surveillance"
-                         xtrf="subtopic"
-                         xtrc="DFARS_PGI_242.302Surveillance.html"/>
-               <topicref navtitle="PGI 242.302 (a)(S-75) —Monitoringcontractor costs"
-                         base="concept"
-                         href="PGI_242.302Monitoring.dita"
-                         props="PGI 242.302 aS-75 Monitoringcontractor costs"
-                         outputclass="subtopic"
-                         audience="DFARS_PGI_242.302Monitoring"
-                         xtrf="subtopic"
-                         xtrc="DFARS_PGI_242.302Monitoring.html"/>
+                         xtrc="DFARS_PGI_242.302.html">
+                  <topicref navtitle="PGI 242.302 (a)(S-72) —Surveillance of the contractors implementation of the Synchronized Predeployment and Operational Tracker (SPOT)"
+                            base="concept"
+                            href="PGI_242.302Surveillance.dita"
+                            props="PGI 242.302 aS-72 Surveillance of the contractors implementation of the Synchronized Predeployment and Operational Tracker SPOT"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_242.302Surveillance"
+                            xtrf="subtopic"
+                            xtrc=""/>
+                  <topicref navtitle="PGI 242.302 (a)(S-75) —Monitoringcontractor costs"
+                            base="concept"
+                            href="PGI_242.302Monitoring.dita"
+                            props="PGI 242.302 aS-75 Monitoringcontractor costs"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_242.302Monitoring"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
             </topicref>
             <topicref navtitle="PGI 242.7 -INDIRECT COST RATES"
                       base="NoTitle"
