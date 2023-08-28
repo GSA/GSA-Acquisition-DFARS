@@ -354,6 +354,14 @@
                          audience="DFARS_203.104"
                          xtrf="subtopic"
                          xtrc="DFARS_203.104.html">
+                  <topicref href="203.104-1.dita"
+                            navtitle="203.104-1 Definitions."
+                            outputclass="subtopic"
+                            props="203.104-1"
+                            audience="DFARS_203.104-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
                   <topicref navtitle="203.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information."
                             base="concept"
                             href="203.104-4.dita"
@@ -512,7 +520,7 @@
                       audience="DFARS_SUBPART_203.8"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_203.8.html">
-               <topicref navtitle="203.806 Processing suspectedviolations."
+               <topicref navtitle="203.806 Processing suspected violations."
                          base="concept"
                          href="203.806.dita"
                          props="203.806"
@@ -591,8 +599,8 @@
                             audience="DFARS_203.909-3"
                             outputclass="subtopic"
                             xtrf="subtopic"
-                            xtrc=""
-                            base="concept"/>
+                            base="concept"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="203.970 Contract clause."
                          base="concept"
@@ -836,7 +844,7 @@
                          audience="DFARS_204.802"
                          xtrf="subtopic"
                          xtrc="DFARS_204.802.html"/>
-               <topicref navtitle="204.804 Closeout of contractfiles."
+               <topicref navtitle="204.804 Closeout of contract files."
                          base="concept"
                          href="204.804.dita"
                          props="204.804"
@@ -937,7 +945,7 @@
                          audience="DFARS_204.1603"
                          xtrf="subtopic"
                          xtrc="DFARS_204.1603.html"/>
-               <topicref navtitle="204.1670 Cross reference toFederal Procurement Data System."
+               <topicref navtitle="204.1670 Cross reference to Federal Procurement Data System."
                          base="concept"
                          href="204.1670.dita"
                          props="204.1670"
@@ -1290,7 +1298,7 @@
                          audience="DFARS_204.7303"
                          xtrf="subtopic"
                          xtrc="DFARS_204.7303.html"/>
-               <topicref navtitle="204.7304 Solicitation provisionand contract clauses."
+               <topicref navtitle="204.7304 Solicitation provision and contract clauses."
                          base="concept"
                          href="204.7304.dita"
                          props="204.7304"
@@ -1615,7 +1623,16 @@
                          outputclass="subtopic"
                          audience="DFARS_206.102"
                          xtrf="subtopic"
-                         xtrc="DFARS_206.102.html"/>
+                         xtrc="DFARS_206.102.html">
+                  <topicref href="206.102-70.dita"
+                            navtitle="206.102-70 Other competitive procedures."
+                            outputclass="subtopic"
+                            props="206.102-70"
+                            audience="DFARS_206.102-70"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
             </topicref>
             <topicref navtitle="Subpart 206.2 - FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES"
                       base="NoTitle"
@@ -1650,7 +1667,7 @@
                          audience="DFARS_206.302"
                          xtrf="subtopic"
                          xtrc="DFARS_206.302.html">
-                  <topicref navtitle="206.302-1 Only one responsiblesource and no other supplies or services will satisfy agency requirements."
+                  <topicref navtitle="206.302-1 Only one responsible source and no other supplies or services will satisfy agency requirements."
                             base="concept"
                             href="206.302-1.dita"
                             props="206.302-1"
@@ -1806,7 +1823,7 @@
                          audience="DFARS_207.105"
                          xtrf="subtopic"
                          xtrc="DFARS_207.105.html"/>
-               <topicref navtitle="207.106 Additional requirementsfor major systems."
+               <topicref navtitle="207.106 Additional requirements for major systems."
                          base="concept"
                          href="207.106.dita"
                          props="207.106"
@@ -1997,7 +2014,7 @@
                    audience="DFARS_PART_208"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="208.002 Priorities for use of mandatoryGovernment supply sources."
+            <topicref navtitle="208.002 Priorities for use of mandatory Government supply sources."
                       base="concept"
                       href="208.002.dita"
                       props="208.002"
@@ -2072,7 +2089,7 @@
                          audience="DFARS_208.602"
                          xtrf="subtopic"
                          xtrc="DFARS_208.602.html">
-                  <topicref navtitle="208.602-70 Acquisition of itemsfor which FPI has a significant market share."
+                  <topicref navtitle="208.602-70 Acquisition of items for which FPI has a significant market share."
                             base="concept"
                             href="208.602-70.dita"
                             props="208.602-70"
@@ -2826,7 +2843,7 @@
                       audience="DFARS_SUBPART_211.1"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_211.1.html">
-               <topicref navtitle="211.104 Use of brand name or equalpurchase descriptions."
+               <topicref navtitle="211.104 Use of brand name or equal purchase descriptions."
                          base="concept"
                          href="211.104.dita"
                          props="211.104"
@@ -2850,7 +2867,7 @@
                          audience="DFARS_211.107"
                          xtrf="subtopic"
                          xtrc="DFARS_211.107.html"/>
-               <topicref navtitle="211.170 Use of proprietary specificationsor standards."
+               <topicref navtitle="211.170 Use of proprietary specifications or standards."
                          base="concept"
                          href="211.170.dita"
                          props="211.170"
@@ -3270,7 +3287,57 @@
                       outputclass="SubPart"
                       audience="DFARS_SUBPART_212.70"
                       xtrf="SubPart"
-                      xtrc="DFARS_SUBPART_212.70.html"/>
+                      xtrc="DFARS_SUBPART_212.70.html">
+               <topicref href="212.7000.dita"
+                         navtitle="212.7000 Scope of subpart."
+                         outputclass="subtopic"
+                         props="212.7000"
+                         audience="DFARS_212.7000"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="">
+                  <topicref href="212.7001.dita"
+                            navtitle="212.7001 Definition."
+                            outputclass="subtopic"
+                            props="212.7001"
+                            audience="DFARS_212.7001"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="212.7002.dita"
+                            navtitle="212.7002 Policy."
+                            outputclass="subtopic"
+                            props="212.7002"
+                            audience="DFARS_212.7002"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="212.7003.dita"
+                            navtitle="212.7003 Limitations."
+                            outputclass="subtopic"
+                            props="212.7003"
+                            audience="DFARS_212.7003"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="212.7004.dita"
+                            navtitle="212.7004 Procedures."
+                            outputclass="subtopic"
+                            props="212.7004"
+                            audience="DFARS_212.7004"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="212.7005.dita"
+                            navtitle="212.7005 Congressional notification."
+                            outputclass="subtopic"
+                            props="212.7005"
+                            audience="DFARS_212.7005"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 212.71 - RESERVED"
                       base="NoTitle"
                       href="SUBPART_212.71.dita"
@@ -3847,7 +3914,7 @@
                          audience="DFARS_215.303"
                          xtrf="subtopic"
                          xtrc="DFARS_215.303.html"/>
-               <topicref navtitle="215.304 Evaluation factorsand significant subfactors."
+               <topicref navtitle="215.304 Evaluation factors and significant subfactors."
                          base="concept"
                          href="215.304.dita"
                          props="215.304"
@@ -4099,7 +4166,7 @@
                                outputclass="subtopic"
                                xtrf="subtopic"
                                xtrc="DFARS_215.404-71-3.html"/>
-                     <topicref navtitle="215.404-71-4 Facilities capitalemployed."
+                     <topicref navtitle="215.404-71-4 Facilities capital employed."
                                base="concept"
                                href="215.404-71-4.dita"
                                props="215.404-71-4"
@@ -4165,7 +4232,7 @@
                             audience="DFARS_215.406-1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="215.406-2 Certificate of current costor pricing data."
+                  <topicref navtitle="215.406-2 Certificate of current cost or pricing data."
                             base="concept"
                             href="215.406-2.dita"
                             props="215.406-2"
@@ -4299,6 +4366,31 @@
                          xtrf="subtopic"
                          xtrc="DFARS_215.570.html"/>
             </topicref>
+            <topicref href="SUBPART_215.6.dita"
+                      navtitle="Subpart 215.6 - UNSOLICITED PROPOSALS"
+                      outputclass="SubPart"
+                      props="Subpart 215.6"
+                      audience="DFARS_SUBPART_215.6"
+                      xtrc="DFARS_SUBPART_215.6.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="215.602.dita"
+                         outputclass="subtopic"
+                         props="215.602"
+                         audience="DFARS_215.602"
+                         xtrf="subtopic"
+                         base="concept"
+                         navtitle="215.602 Policy."
+                         xtrc=""/>
+               <topicref href="215.604.dita"
+                         navtitle="215.604 Agency points of contact."
+                         outputclass="subtopic"
+                         props="215.604"
+                         audience="DFARS_215.604"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+            </topicref>
          </topicref>
          <topicref navtitle="Part 216 - TYPES OF CONTRACTS"
                    base="NoTitle"
@@ -4324,7 +4416,7 @@
                          audience="DFARS_216.102"
                          xtrf="subtopic"
                          xtrc="DFARS_216.102.html"/>
-               <topicref navtitle="216.104 Factors in selecting contracttype."
+               <topicref navtitle="216.104 Factors in selecting contract type."
                          base="concept"
                          href="216.104.dita"
                          props="216.104"
@@ -4570,7 +4662,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="216.504 Indefinite-quantitycontracts."
+               <topicref navtitle="216.504 Indefinite-quantity contracts."
                          base="NoTitle"
                          href="216.504.dita"
                          props="216.504"
@@ -4595,7 +4687,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="216.506 Solicitationprovisions and contract clauses."
+               <topicref navtitle="216.506 Solicitation provisions and contract clauses."
                          base="concept"
                          href="216.506.dita"
                          props="216.506"
@@ -5396,7 +5488,7 @@
                          audience="DFARS_218.203"
                          xtrf="subtopic"
                          xtrc="DFARS_218.203.html"/>
-               <topicref navtitle="218.204 Humanitarian or peacekeepingoperation."
+               <topicref navtitle="218.204 Humanitarian or peacekeeping operation."
                          base="concept"
                          href="218.204.dita"
                          props="218.204"
@@ -5480,7 +5572,7 @@
                          audience="DFARS_219.202"
                          xtrf="subtopic"
                          xtrc="DFARS_219.202.html">
-                  <topicref navtitle="219.202-1 Encouraging small businessparticipation in acquisitions."
+                  <topicref navtitle="219.202-1 Encouraging small business participation in acquisitions."
                             base="concept"
                             href="219.202-1.dita"
                             props="219.202-1"
@@ -5622,7 +5714,7 @@
                             audience="DFARS_219.502-2"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="219.502-8 RejectingSmall Business Administration recommendations."
+                  <topicref navtitle="219.502-8 Rejecting Small Business Administration recommendations."
                             base="concept"
                             href="219.502-8.dita"
                             props="219.502-8"
@@ -5665,7 +5757,7 @@
                          audience="DFARS_219.702"
                          xtrf="subtopic"
                          xtrc="DFARS_219.702.html">
-                  <topicref navtitle="219.702-70 Statutory requirements forthe Test Program for Negotiation of Comprehensive Small Business SubcontractingPlans."
+                  <topicref navtitle="219.702-70 Statutory requirements for the Test Program for Negotiation of Comprehensive Small Business Subcontracting Plans."
                             base="concept"
                             href="219.702-70.dita"
                             props="219.702-70"
@@ -5806,7 +5898,7 @@
                          audience="DFARS_219.806"
                          xtrf="subtopic"
                          xtrc="DFARS_219.806.html"/>
-               <topicref navtitle="219.808 Contractnegotiation."
+               <topicref navtitle="219.808 Contract negotiation."
                          base="concept"
                          href="219.808.dita"
                          props="219.808"
@@ -6156,7 +6248,7 @@
                          audience="DFARS_222.403"
                          xtrf="subtopic"
                          xtrc="DFARS_222.403.html">
-                  <topicref navtitle="222.403-470 Department of Laborregulations."
+                  <topicref navtitle="222.403-470 Department of Labor regulations."
                             base="concept"
                             href="222.403-470.dita"
                             props="222.403-470"
@@ -7333,7 +7425,7 @@
                       audience="DFARS_SUBPART_225.7"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_225.7.html">
-               <topicref navtitle="225.701 Restrictions administered by the Departmentof the Treasury on acquisitions of supplies or services from prohibitedsources."
+               <topicref navtitle="225.701 Restrictions administered by the Department of the Treasury on acquisitions of supplies or services from prohibited sources."
                          base="concept"
                          href="225.701.dita"
                          props="225.701"
@@ -7741,7 +7833,7 @@
                             audience="DFARS_225.872-6"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="225.872-7 Industrial securityfor qualifying countries."
+                  <topicref navtitle="225.872-7 Industrial security for qualifying countries."
                             base="concept"
                             href="225.872-7.dita"
                             props="225.872-7"
@@ -8195,7 +8287,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="225.7010 Restriction on certain naval vessel components."
+               <topicref navtitle="225.7010 Restrictions on certain naval vessel and auxiliary ship components."
                          base="concept"
                          href="225.7010.dita"
                          props="225.7010"
@@ -8203,7 +8295,7 @@
                          audience="DFARS_225.7010"
                          xtrf="subtopic"
                          xtrc="DFARS_225.7010.html">
-                  <topicref navtitle="225.7010-1 Restriction."
+                  <topicref navtitle="225.7010-1 Restrictions."
                             base="concept"
                             href="225.7010-1.dita"
                             props="225.7010-1"
@@ -8227,7 +8319,7 @@
                             audience="DFARS_225.7010-3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="225.7010-4 Implementation."
+                  <topicref navtitle="225.7010-4 Implementation of restriction on certain naval vessel components."
                             base="concept"
                             href="225.7010-4.dita"
                             props="225.7010-4"
@@ -8407,7 +8499,7 @@
                             audience="DFARS_225.7018-3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="225.7018-4 Nonavailabilitydetermination."
+                  <topicref navtitle="225.7018-4 Nonavailability determination."
                             base="concept"
                             href="225.7018-4.dita"
                             props="225.7018-4"
@@ -8424,7 +8516,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="225.7019 Prohibition on useof certain energy sourced from inside the Russian Federation."
+               <topicref navtitle="225.7019 Prohibition on use of certain energy sourced from inside the Russian Federation."
                          base="concept"
                          href="225.7019.dita"
                          props="225.7019"
@@ -8456,7 +8548,7 @@
                             audience="DFARS_225.7019-3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="225.7019-4 Solicitation provisionand contract clause."
+                  <topicref navtitle="225.7019-4 Solicitation provision and contract clause."
                             base="concept"
                             href="225.7019-4.dita"
                             props="225.7019-4"
@@ -8527,33 +8619,33 @@
                             outputclass="subtopic"
                             navtitle=" 225.7021-1 Definitions."
                             audience="DFARS_225.7021-1"
-                            xtrc=""
                             base="concept"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                   <topicref href="225.7021-2.dita"
                             props="225.7021-2"
                             outputclass="subtopic"
                             navtitle=" 225.7021-2 Restrictions."
                             audience="DFARS_225.7021-2"
-                            xtrc=""
                             base="concept"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                   <topicref href="225.7021-3.dita"
                             props="225.7021-3"
                             outputclass="subtopic"
                             navtitle=" 225.7021-3 National security waiver of disclosure."
                             audience="DFARS_225.7021-3"
-                            xtrc=""
                             base="concept"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                   <topicref href="225.7021-4.dita"
                             props="225.7021-4"
                             outputclass="subtopic"
                             navtitle=" 225.7021-4 Solicitation provision and contract clause."
                             audience="DFARS_225.7021-4"
-                            xtrc=""
                             base="concept"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                </topicref>
                <topicref href="225.7022.dita"
                          navtitle=" 225.7022 Prohibition on certain procurements from the Xinjiang Uyghur Autonomous Region."
@@ -10034,7 +10126,7 @@
                          xtrf="subtopic"
                          xtrc="DFARS_227.7108.html"/>
             </topicref>
-            <topicref navtitle="Subpart 227.72 - RIGHTS IN COMPUTER SOFTWARE AND COMPUTER SOFTWARE DOCUMENTATION"
+            <topicref navtitle="Subpart 227.72 - COMPUTER SOFTWARE, COMPUTER SOFTWARE DOCUMENTATION, AND ASSOCIATED RIGHTS"
                       base="NoTitle"
                       href="SUBPART_227.72.dita"
                       props="Subpart 227.72"
@@ -10115,7 +10207,7 @@
                             audience="DFARS_227.7203-1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="227.7203-2 Acquisition of other than commercial computer software and computer software documentation."
+                  <topicref navtitle="227.7203-2 Acquisition of other than commercial computer software and computer software documentation and associated rights."
                             base="concept"
                             href="227.7203-2.dita"
                             props="227.7203-2"
@@ -10286,7 +10378,7 @@
                       audience="DFARS_SUBPART_228.1"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_228.1.html">
-               <topicref navtitle="228.102 Performance and paymentbonds and alternative paymentprotections for construction contracts."
+               <topicref navtitle="228.102 Performance and payment bonds and alternative payment protections for construction contracts."
                          base="concept"
                          href="228.102.dita"
                          props="228.102"
@@ -10537,7 +10629,7 @@
                          audience="DFARS_229.402"
                          xtrf="subtopic"
                          xtrc="DFARS_229.402.html">
-                  <topicref navtitle="229.402-70 Additional provisionsand clauses."
+                  <topicref navtitle="229.402-70 Additional provisions and clauses."
                             base="concept"
                             href="229.402-70.dita"
                             props="229.402-70"
@@ -11258,7 +11350,7 @@
                          audience="DFARS_232.706"
                          xtrf="subtopic"
                          xtrc="DFARS_232.706.html">
-                  <topicref navtitle=" 232.706-70 Clausefor limitation of Governments obligation."
+                  <topicref navtitle=" 232.706-70 Clause for limitation of Governments obligation."
                             base="concept"
                             href="232.706-70.dita"
                             props="232.706-70"
@@ -11439,8 +11531,8 @@
                             audience="DFARS_232.1108-70"
                             outputclass="subtopic"
                             xtrf="subtopic"
-                            xtrc=""
-                            base="concept"/>
+                            base="concept"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="232.1110 Solicitation provision and contract clauses."
                          base="concept"
@@ -12314,7 +12406,7 @@
                             audience="DFARS_237.102-75"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="237.102-76 Reserved."
+                  <topicref navtitle="237.102-76 Acquisition of computer software and computer software documentation under services contracts."
                             base="concept"
                             href="237.102-76.dita"
                             props="237.102-76"
@@ -13218,7 +13310,7 @@
                             audience="DFARS_239.7602-1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="239.7602-2 Required storageof data within the United States or outlying areas."
+                  <topicref navtitle="239.7602-2 Required storage of data within the United States or outlying areas."
                             base="concept"
                             href="239.7602-2.dita"
                             props="239.7602-2"
@@ -13522,7 +13614,7 @@
                          audience="DFARS_242.705"
                          xtrf="subtopic"
                          xtrc="DFARS_242.705.html">
-                  <topicref navtitle="242.705-1 Contracting officerdetermination procedure."
+                  <topicref navtitle="242.705-1 Contracting officer determination procedure."
                             base="concept"
                             href="242.705-1.dita"
                             props="242.705-1"
@@ -14464,7 +14556,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="245.604 Sale of surplus personalproperty."
+               <topicref navtitle="245.604 Sale of surplus personal property."
                          base="concept"
                          href="245.604.dita"
                          props="245.604"
@@ -15700,7 +15792,7 @@
                          audience="DFARS_252.101"
                          xtrf="subtopic"
                          xtrc="DFARS_252.101.html"/>
-               <topicref navtitle="252.103 Identification of provisionsand clauses."
+               <topicref navtitle="252.103 Identification of provisions and clauses."
                          base="concept"
                          href="252.103.dita"
                          props="252.103"
@@ -15847,7 +15939,7 @@
                             audience="DFARS_252.204-7005"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.204-7006 Billing Instructions."
+                  <topicref navtitle="252.204-7006 Billing Instructions-Cost Vouchers."
                             base="concept"
                             href="252.204-7006.dita"
                             props="252.204-7006"
@@ -15855,7 +15947,7 @@
                             audience="DFARS_252.204-7006"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.204-7007 Alternate A, AnnualRepresentations and Certifications."
+                  <topicref navtitle="252.204-7007 Alternate A, Annual Representations and Certifications."
                             base="concept"
                             href="252.204-7007.dita"
                             props="252.204-7007"
@@ -15935,7 +16027,7 @@
                             audience="DFARS_252.204-7016"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.204-7017 Prohibition onthe Acquisition of Covered Defense Telecommunications Equipmentor Services—Representation."
+                  <topicref navtitle="252.204-7017 Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services—Representation."
                             base="concept"
                             href="252.204-7017.dita"
                             props="252.204-7017"
@@ -15943,7 +16035,7 @@
                             audience="DFARS_252.204-7017"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.204-7018 Prohibition onthe Acquisition of Covered Defense Telecommunications Equipmentor Services."
+                  <topicref navtitle="252.204-7018 Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services."
                             base="concept"
                             href="252.204-7018.dita"
                             props="252.204-7018"
@@ -15967,7 +16059,7 @@
                             audience="DFARS_252.204-7020"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.204-7021 CybersecurityMaturity Model Certification Requirements."
+                  <topicref navtitle="252.204-7021 Cybersecurity Maturity Model Certification Requirements."
                             base="concept"
                             href="252.204-7021.dita"
                             props="252.204-7021"
@@ -15975,7 +16067,7 @@
                             audience="DFARS_252.204-7021"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.204-7022 Expediting ContractCloseout."
+                  <topicref navtitle="252.204-7022 Expediting Contract Closeout."
                             base="concept"
                             href="252.204-7022.dita"
                             props="252.204-7022"
@@ -15983,7 +16075,7 @@
                             audience="DFARS_252.204-7022"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle=" 252.204-7023 Reporting Requirements for Contracted Services. "
+                  <topicref navtitle="252.204-7023 Reporting Requirements for Contracted Services. "
                             base="concept"
                             href="252.204-7023.dita"
                             props="252.204-7023"
@@ -15992,7 +16084,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                   <topicref href="252.204-7024.dita"
-                            navtitle="252.204-7024 Notice on the Use of the Supplier      Performance Risk System."
+                            navtitle="252.204-7024 Notice on the Use of the Supplier Performance Risk System. "
                             props="252.204-7024"
                             outputclass="subtopic"
                             audience="DFARS_252.204-7024"
@@ -16226,9 +16318,9 @@
                             outputclass="subtopic"
                             audience="DFARS_252.211-7006"
                             xtrf="subtopic"
-                            xtrc=""
-                            navtitle="252.211-7006 Reserved."/>
-                  <topicref navtitle="252.211-7007 Reporting of Government-FurnishedProperty."
+                            navtitle="252.211-7006 Reserved."
+                            xtrc=""/>
+                  <topicref navtitle="252.211-7007 Reporting of Government-Furnished Property."
                             base="concept"
                             href="252.211-7007.dita"
                             props="252.211-7007"
@@ -16236,7 +16328,7 @@
                             audience="DFARS_252.211-7007"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.211-7008 Use of Government-AssignedSerial Numbers"
+                  <topicref navtitle="252.211-7008 Use of Government-Assigned Serial Numbers"
                             base="concept"
                             href="252.211-7008.dita"
                             props="252.211-7008"
@@ -16431,7 +16523,7 @@
                             audience="DFARS_252.215-7015"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.215-7016 Notification to Offerors—PostawardDebriefings."
+                  <topicref navtitle="252.215-7016 Notification to Offerors—Postaward Debriefings."
                             base="concept"
                             href="252.215-7016.dita"
                             props="252.215-7016"
@@ -17053,7 +17145,7 @@
                             audience="DFARS_252.225-7000"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.225-7001 Buy American andBalance of Payments Program."
+                  <topicref navtitle="252.225-7001 Buy American and Balance of Payments Program."
                             base="concept"
                             href="252.225-7001.dita"
                             props="252.225-7001"
@@ -17061,7 +17153,7 @@
                             audience="DFARS_252.225-7001"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.225-7002 Qualifying Country Sources asSubcontractors."
+                  <topicref navtitle="252.225-7002 Qualifying Country Sources as Subcontractors."
                             base="concept"
                             href="252.225-7002.dita"
                             props="252.225-7002"
@@ -17117,7 +17209,7 @@
                             audience="DFARS_252.225-7008"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.225-7009 Restriction onAcquisition of Certain Articles Containing Specialty Metals."
+                  <topicref navtitle="252.225-7009 Restriction on Acquisition of Certain Articles Containing Specialty Metals."
                             base="concept"
                             href="252.225-7009.dita"
                             props="252.225-7009"
@@ -17445,7 +17537,7 @@
                             audience="DFARS_252.225-7049"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.225-7050 Disclosure ofOwnership or Control by the Government of a Country that is a StateSponsor of Terrorism."
+                  <topicref navtitle="252.225-7050 Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism."
                             base="concept"
                             href="252.225-7050.dita"
                             props="252.225-7050"
@@ -17453,7 +17545,7 @@
                             audience="DFARS_252.225-7050"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.225-7051 Prohibition onAcquisition of Certain Foreign Commercial Satellite Services."
+                  <topicref navtitle="252.225-7051 Prohibition on Acquisition of Certain Foreign Commercial Satellite Services."
                             base="concept"
                             href="252.225-7051.dita"
                             props="252.225-7051"
@@ -17469,7 +17561,7 @@
                             audience="DFARS_252.225-7052"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.225-7053 RepresentationRegarding Prohibition on Use of Certain Energy Sourced from Insidethe Russian Federation."
+                  <topicref navtitle="252.225-7053 Representation Regarding Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation."
                             base="concept"
                             href="252.225-7053.dita"
                             props="252.225-7053"
@@ -17477,7 +17569,7 @@
                             audience="DFARS_252.225-7053"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.225-7054 Prohibition onUse of Certain Energy Sourced from Inside the Russian Federation."
+                  <topicref navtitle="252.225-7054 Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation."
                             base="concept"
                             href="252.225-7054.dita"
                             props="252.225-7054"
@@ -17506,19 +17598,19 @@
                             outputclass="subtopic"
                             navtitle="252.225-7057 Preaward Disclosure of Employment of Individuals Who Work in the People’s Republic of China."
                             audience="DFARS_252.225-7057"
-                            xtrc=""
                             base="concept"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                   <topicref href="252.225-7058.dita"
                             props="252.225-7058"
                             outputclass="subtopic"
                             navtitle="252.225-7058 Postaward Disclosure of Employment of Individuals Who Work in the People’s Republic of China."
                             audience="DFARS_252.225-7058"
-                            xtrc=""
                             base="concept"
-                            xtrf="subtopic"/>
+                            xtrf="subtopic"
+                            xtrc=""/>
                   <topicref href="252.225-7059.dita"
-                            navtitle="252.225-7059 Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region–Certification."
+                            navtitle="252.225-7059 Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region–Representation."
                             props="252.225-7059"
                             outputclass="subtopic"
                             audience="DFARS_252.225-7059"
@@ -17542,7 +17634,7 @@
                             base="concept"
                             xtrc=""/>
                   <topicref href="252.225-7062.dita"
-                            navtitle="252.225-7062      Restriction on Acquisition of Large Medium-Speed Diesel Engines."
+                            navtitle="252.225-7062 Restriction on Acquisition of Large Medium-Speed Diesel Engines."
                             outputclass="subtopic"
                             props="252.225-7062"
                             audience="DFARS_252.225-7062"
@@ -18103,8 +18195,8 @@
                             audience="DFARS_252.229-7014"
                             outputclass="subtopic"
                             xtrf="subtopic"
-                            xtrc=""
-                            base="concept"/>
+                            base="concept"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="252.231 RESERVED"
                          base="concept"
@@ -18187,7 +18279,7 @@
                             audience="DFARS_252.232-7006"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.232-7007 Limitation ofGovernments Obligation."
+                  <topicref navtitle="252.232-7007 Limitation of Governments Obligation."
                             base="concept"
                             href="252.232-7007.dita"
                             props="252.232-7007"
@@ -18259,7 +18351,7 @@
                             audience="DFARS_252.232-7015"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.232-7016 Notice of Progress Paymentsor Performance-Based Payments."
+                  <topicref navtitle="252.232-7016 Notice of Progress Payments or Performance-Based Payments."
                             base="concept"
                             href="252.232-7016.dita"
                             props="252.232-7016"
@@ -18790,16 +18882,16 @@
                             audience="DFARS_252.237-7025"
                             outputclass="subtopic"
                             xtrf="subtopic"
-                            xtrc=""
-                            base="concept"/>
+                            base="concept"
+                            xtrc=""/>
                   <topicref href="252.237-7026.dita"
                             navtitle="252.237-7026 Postaward Transparency Requirements for Firms that Support Department of Defense Audits."
                             props="252.237-7026"
                             audience="DFARS_252.237-7026"
                             outputclass="subtopic"
                             xtrf="subtopic"
-                            xtrc=""
-                            base="concept"/>
+                            base="concept"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="252.239 RESERVED"
                          base="concept"
@@ -19118,7 +19210,7 @@
                          audience="DFARS_252.245"
                          xtrf="subtopic"
                          xtrc="DFARS_252.245.html">
-                  <topicref navtitle="252.245-7000 Government-FurnishedMapping, Charting, and Geodesy Property."
+                  <topicref navtitle="252.245-7000 Government-Furnished Mapping, Charting, and Geodesy Property."
                             base="concept"
                             href="252.245_7000.dita"
                             props="252.245-7000"
@@ -19134,7 +19226,7 @@
                             audience="DFARS_252.245_7001"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.245-7002 Reporting Lossof Government Property."
+                  <topicref navtitle="252.245-7002 Reporting Loss of Government Property."
                             base="concept"
                             href="252.245-7002.dita"
                             props="252.245-7002"
@@ -19142,7 +19234,7 @@
                             audience="DFARS_252.245-7002"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.245-7003 Contractor PropertyManagement System Administration."
+                  <topicref navtitle="252.245-7003 Contractor Property Management System Administration."
                             base="concept"
                             href="252.245-7003.dita"
                             props="252.245-7003"
@@ -19522,7 +19614,7 @@
                          audience="DFARS_252.251"
                          xtrf="subtopic"
                          xtrc="DFARS_252.251.html">
-                  <topicref navtitle="252.251-7000 Ordering FromGovernment Supply Sources."
+                  <topicref navtitle="252.251-7000 Ordering From Government Supply Sources."
                             base="concept"
                             href="252.251-7000.dita"
                             props="252.251-7000"
@@ -19661,7 +19753,7 @@
                    audience="Appendix_A"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="Part 1—Charter"
+            <topicref navtitle="Part 1 —Charter"
                       base="NoTitle"
                       href="Appendix-id2064F0Q30Y4.dita"
                       props="Appendix-id2064F0Q30Y4"
@@ -20276,7 +20368,7 @@
                    audience="Appendix_G"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="PART 1—GENERAL"
+            <topicref navtitle="PART 1 —GENERAL"
                       base="NoTitle"
                       href="Appendix-id2064F0Q40BF.dita"
                       props="Appendix-id2064F0Q40BF"
