@@ -3047,14 +3047,6 @@
                          audience="DFARS_211.500"
                          xtrf="subtopic"
                          xtrc="DFARS_211.500.html"/>
-               <topicref navtitle="211.503 Contract clauses."
-                         base="concept"
-                         href="211.503.dita"
-                         props="211.503"
-                         outputclass="subtopic"
-                         audience="DFARS_211.503"
-                         xtrf="subtopic"
-                         xtrc="DFARS_211.503.html"/>
             </topicref>
             <topicref navtitle="Subpart 211.6 - PRIORITIES AND ALLOCATIONS"
                       base="NoTitle"
@@ -3123,6 +3115,14 @@
                          audience="DFARS_212.102"
                          xtrf="subtopic"
                          xtrc="DFARS_212.102.html"/>
+               <topicref href="212.103.dita"
+                         navtitle="212.103 TEST SECTION."
+                         outputclass="subtopic"
+                         props="212.103"
+                         audience="DFARS_212.103"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
             </topicref>
             <topicref navtitle="Subpart 212.2 - SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES "
                       base="NoTitle"
@@ -3280,13 +3280,62 @@
                          xtrf="subtopic"
                          xtrc="DFARS_212.602.html"/>
             </topicref>
-            <topicref navtitle="Subpart 212.70 - DEFENSE COMMERCIAL SOLUTIONS OPENING" base="NoTitle" href="SUBPART_212.70.dita" props="Subpart 212.70" outputclass="SubPart" audience="DFARS_SUBPART_212.70" xtrf="SubPart" xtrc="DFARS_SUBPART_212.70.html">
-               <topicref href="212.7000.dita" navtitle="212.7000 Scope of subpart." outputclass="subtopic" props="212.7000" audience="DFARS_212.7000" xtrf="subtopic" base="concept" xtrc="">
-                  <topicref href="212.7001.dita" navtitle="212.7001 Definition." outputclass="subtopic" props="212.7001" audience="DFARS_212.7001" xtrf="subtopic" base="concept" xtrc=""/>
-                  <topicref href="212.7002.dita" navtitle="212.7002 Policy." outputclass="subtopic" props="212.7002" audience="DFARS_212.7002" xtrf="subtopic" base="concept" xtrc=""/>
-                  <topicref href="212.7003.dita" navtitle="212.7003 Limitations." outputclass="subtopic" props="212.7003" audience="DFARS_212.7003" xtrf="subtopic" base="concept" xtrc=""/>
-                  <topicref href="212.7004.dita" navtitle="212.7004 Procedures." outputclass="subtopic" props="212.7004" audience="DFARS_212.7004" xtrf="subtopic" base="concept" xtrc=""/>
-                  <topicref href="212.7005.dita" navtitle="212.7005 Congressional notification." outputclass="subtopic" props="212.7005" audience="DFARS_212.7005" xtrf="subtopic" base="concept" xtrc=""/>
+            <topicref navtitle="Subpart 212.70 - DEFENSE COMMERCIAL SOLUTIONS OPENING"
+                      base="NoTitle"
+                      href="SUBPART_212.70.dita"
+                      props="Subpart 212.70"
+                      outputclass="SubPart"
+                      audience="DFARS_SUBPART_212.70"
+                      xtrf="SubPart"
+                      xtrc="DFARS_SUBPART_212.70.html">
+               <topicref href="212.7000.dita"
+                         navtitle="212.7000 Scope of subpart."
+                         outputclass="subtopic"
+                         props="212.7000"
+                         audience="DFARS_212.7000"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_212.7000.html">
+                  <topicref href="212.7001.dita"
+                            navtitle="212.7001 Definition."
+                            outputclass="subtopic"
+                            props="212.7001"
+                            audience="DFARS_212.7001"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="212.7002.dita"
+                            navtitle="212.7002 Policy."
+                            outputclass="subtopic"
+                            props="212.7002"
+                            audience="DFARS_212.7002"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="212.7003.dita"
+                            navtitle="212.7003 Limitations."
+                            outputclass="subtopic"
+                            props="212.7003"
+                            audience="DFARS_212.7003"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="212.7004.dita"
+                            navtitle="212.7004 Procedures."
+                            outputclass="subtopic"
+                            props="212.7004"
+                            audience="DFARS_212.7004"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="212.7005.dita"
+                            navtitle="212.7005 Congressional notification."
+                            outputclass="subtopic"
+                            props="212.7005"
+                            audience="DFARS_212.7005"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 212.71 - RESERVED"
@@ -4332,7 +4381,7 @@
                          xtrf="subtopic"
                          base="concept"
                          navtitle="215.602 Policy."
-                         xtrc=""/>
+                         xtrc="DFARS_215.602.html"/>
                <topicref href="215.604.dita"
                          navtitle="215.604 Agency points of contact."
                          outputclass="subtopic"
@@ -4340,7 +4389,7 @@
                          audience="DFARS_215.604"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="DFARS_215.604.html"/>
             </topicref>
          </topicref>
          <topicref navtitle="Part 216 - TYPES OF CONTRACTS"
