@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_252.211-7003"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph props="autonumber" class="- topic/ph ">252.211-7003</ph> 
+         Item Unique Identification and Valuation.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="TaTEIv" class="- topic/p ">As prescribed in <xref href="211.274-6.dita#DFARS_211.274-6"
+                  base="i1377938"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">211.274-6</xref> (a)(1), use
+the following clause:</p>
+         <p id="FQsddN" outputclass="Ctr_SmCaps" class="- topic/p ">ITEM UNIQUE IDENTIFICATION AND VALUATION
+(JAN 2023)</p>
+         <p id="IkCzOm" outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>. As
+used in this clause—</p>
+         <p id="Nnclmi" class="- topic/p ">“Automatic identification device” means a device,
+such as a reader or interrogator, used to retrieve data encoded
+on machine-readable media.</p>
+         <p id="nYPnCr" class="- topic/p ">“Concatenated unique item identifier” means—</p>
+         <p id="AXHcaO" outputclass="List6" class="- topic/p ">(1) For items that are serialized
+within the enterprise identifier, the linking together of the unique
+identifier data elements in order of the issuing agency code, enterprise
+identifier, and unique serial number within the enterprise identifier;
+or</p>
+         <p id="dPQqCB" outputclass="List6" class="- topic/p ">(2) For items that are serialized
+within the original part, lot, or batch number, the linking together
+of the unique identifier data elements in order of the issuing agency
+code; enterprise identifier; original part, lot, or batch number;
+and serial number within the original part, lot, or batch number.</p>
+         <p id="QPCSox" class="- topic/p ">“Data matrix” means a two-dimensional matrix symbology,
+which is made up of square or, in some cases, round modules arranged
+within a perimeter finder pattern and uses the Error Checking and
+Correction 200 (ECC200) specification found within International
+Standards Organization (ISO)/International Electrotechnical Commission
+(IEC) 16022.</p>
+         <p id="rIHAtI" class="- topic/p ">“Data qualifier” means a specified character (or
+string of characters) that immediately precedes a data field that
+defines the general category or intended use of the data that follows.</p>
+         <p id="mrDZdx" class="- topic/p ">“DoD recognized unique identification equivalent”
+means a unique identification method that is in commercial use and
+has been recognized by DoD. All DoD recognized unique identification
+equivalents are listed at 
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
+            .</p>
+         <p id="RxJFAI" class="- topic/p ">“DoD item unique identification” means a system
+of marking items delivered to DoD with unique item identifiers that
+have machine-readable data elements to distinguish an item from
+all other like and unlike items. For items that are serialized within the
+enterprise identifier, the unique item identifier shall include
+the data elements of the enterprise identifier and a unique serial number.
+For items that are serialized within the part, lot, or batch number
+within the enterprise identifier, the unique item identifier shall
+include the data elements of the enterprise identifier; the original
+part, lot, or batch number; and the serial number.</p>
+         <p id="ODRPHl" class="- topic/p ">“Enterprise” means the entity (e.g., a manufacturer
+or vendor) responsible for assigning unique item identifiers to
+items.</p>
+         <p id="yzwfAt" class="- topic/p ">“Enterprise identifier” means a code that is uniquely
+assigned to an enterprise by an issuing agency.</p>
+         <p id="SKvEVG" class="- topic/p ">“Government’s unit acquisition cost” means—</p>
+         <p id="sSvWFP" outputclass="List6" class="- topic/p ">(1) For fixed-price type
+line, subline, or exhibit line items, the unit price identified
+in the contract at the time of delivery;</p>
+         <p id="Cpjpsw" outputclass="List6" class="- topic/p ">(2) For cost-type or undefinitized
+line, subline, or exhibit line items, the Contractor’s estimated
+fully burdened unit cost to the Government at the time of delivery;
+and</p>
+         <p id="fnAvgQ" outputclass="List6" class="- topic/p ">(3) For items produced under
+a time-and-materials contract, the Contractor’s estimated fully
+burdened unit cost to the Government at the time of delivery.</p>
+         <p id="bckNAc" class="- topic/p ">“Issuing agency” means an organization responsible
+for assigning a globally unique identifier to an enterprise, as
+indicated in the Register of Issuing Agency Codes for ISO/IEC 15459,
+located at http://www.aimglobal.org/?Reg_Authority15459.</p>
+         <p id="lWKCcd" class="- topic/p ">“Issuing agency code” means a code that designates
+the registration (or controlling) authority for the enterprise identifier.</p>
+         <p id="guELeg" class="- topic/p ">“Item” means a single hardware article or a single
+unit formed by a grouping of subassemblies, components, or constituent parts.</p>
+         <p id="imgHnM" class="- topic/p ">“Lot or batch number” means an identifying number
+assigned by the enterprise to a designated group of items, usually
+referred to as either a lot or a batch, all of which were manufactured
+under identical conditions.</p>
+         <p id="NEBafv" class="- topic/p ">“Machine-readable” means an automatic identification
+technology media, such as bar codes, contact memory buttons, radio frequency
+identification, or optical memory cards.</p>
+         <p id="dOklQr" class="- topic/p ">“Original part number” means a combination of numbers
+or letters assigned by the enterprise at item creation to a class
+of items with the same form, fit, function, and interface.</p>
+         <p id="lzmvQE" class="- topic/p ">“Parent item” means the item assembly, intermediate
+component, or subassembly that has an embedded item with a unique item
+identifier or DoD recognized unique identification equivalent.</p>
+         <p id="mePaZK" class="- topic/p ">“Serial number within the enterprise identifier”
+means a combination of numbers, letters, or symbols assigned by
+the enterprise to an item that provides for the differentiation
+of that item from any other like and unlike item and is never used
+again within the enterprise.</p>
+         <p id="XFkJvY" class="- topic/p ">“Serial number within the part, lot, or batch number”
+means a combination of numbers or letters assigned by the enterprise to
+an item that provides for the differentiation of that item from
+any other like item within a part, lot, or batch number assignment.</p>
+         <p id="OCEYaO" class="- topic/p ">“Serialization within the enterprise identifier”
+means each item produced is assigned a serial number that is unique
+among all the tangible items produced by the enterprise and is never
+used again. The enterprise is responsible for ensuring unique serialization
+within the enterprise identifier.</p>
+         <p id="wCYHUt" class="- topic/p ">“Serialization within the part, lot, or batch number”
+means each item of a particular part, lot, or batch number is assigned
+a unique serial number within that part, lot, or batch number assignment.
+The enterprise is responsible for ensuring unique serialization
+within the part, lot, or batch number within the enterprise identifier.</p>
+         <p id="zwGcRu" class="- topic/p ">“Type designation” means a combination of letters
+and numerals assigned by the Government to a major end item, assembly or
+subassembly, as appropriate, to provide a convenient means of differentiating
+between items having the same basic name and to indicate modifications
+and changes thereto.</p>
+         <p id="TKRUep" class="- topic/p ">“Unique item identifier” means a set of data elements
+marked on items that is globally unique and unambiguous. The term includes
+a concatenated unique item identifier or a DoD recognized unique
+identification equivalent.</p>
+         <p id="QZIAiJ" class="- topic/p ">“Unique item identifier type” means a designator
+to indicate which method of uniquely identifying a part has been
+used. The current list of accepted unique item identifier types
+is maintained at
+               <xref href="https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref "> https://www.acq.osd.mil/asda/dpc/ce/ds/unique-id.html</xref>
+            .</p>
+         <p id="XrbpeT" outputclass="List1" class="- topic/p ">(b) The Contractor shall
+deliver all items under a contract line, subline, or exhibit line
+item.</p>
+         <p id="IKaxJe" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Unique item identifier.</i>
+         </p>
+         <p id="Tjjwcz" outputclass="List2" class="- topic/p ">(1) The Contractor shall
+provide a unique item identifier for the following:</p>
+         <p id="zBHdGm" outputclass="List3" class="- topic/p ">(i) Delivered items for which
+the Government’s unit acquisition cost is $5,000 or more, except
+for the following line items:</p>
+         <p id="JroqnH" class="- topic/p ">Contract Line, Subline, or</p>
+         <p id="UdFzQR" class="- topic/p ">Exhibit Line Item Number Item Description</p>
+         <p id="OKeTOm" class="- topic/p ">___________________________________________________________________</p>
+         <p id="EaITzu" class="- topic/p ">___________________________________________________________________</p>
+         <p id="mIFnEX" class="- topic/p ">___________________________________________________________________</p>
+         <p id="iZFBXn" outputclass="List3" class="- topic/p ">(ii) Items for which the
+Government’s unit acquisition cost is less than $5,000 that are
+identified in the Schedule or the following table:</p>
+         <p id="TZHbHJ" class="- topic/p ">Contract Line, Subline, or</p>
+         <p id="itiWvc" class="- topic/p ">Exhibit Line Item Number Item Description</p>
+         <p id="thLaKy" class="- topic/p ">___________________________________________________________________</p>
+         <p id="EnyzKs" class="- topic/p ">___________________________________________________________________</p>
+         <p id="RsLPJn" class="- topic/p ">___________________________________________________________________</p>
+         <p id="QlNnbI" class="- topic/p ">(If items are identified in the Schedule, insert
+“See Schedule” in this table.)</p>
+         <p id="vvMAQi" outputclass="List2" class="- topic/p ">(iii) Subassemblies, components,
+and parts embedded within delivered items, items with warranty requirements,
+DoD serially managed reparables and DoD serially managed nonreparables
+as specified in Attachment Number ____.</p>
+         <p id="TTbfCz" outputclass="List3" class="- topic/p ">(iv) Any item of special
+tooling or special test equipment as defined in FAR 2.101 that have
+been designated for preservation and storage for a Major Defense
+Acquisition Program as specified in Attachment Number ____.</p>
+         <p id="cdSJfS" outputclass="List3" class="- topic/p ">(v) Any item not included
+in (i), (ii), (iii), or (iv) for which the contractor creates and
+marks a unique item identifier for traceability.</p>
+         <p id="zReWHX" outputclass="List2" class="- topic/p ">(2) The unique item identifier
+assignment and its component data element combination shall not
+be duplicated on any other item marked or registered in the DoD
+Item Unique Identification Registry by the contractor.</p>
+         <p id="mcXJkh" outputclass="List2" class="- topic/p ">(3) The unique item identifier
+component data elements shall be marked on an item using two dimensional
+data matrix symbology that complies with ISO/IEC International Standard
+16022, Information technology – International symbology specification
+– Data matrix; ECC200 data matrix specification.</p>
+         <p id="UsXPHv" outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Data syntax and semantics
+of unique item identifiers.</i> The Contractor shall ensure that—</p>
+         <p id="EboTVp" outputclass="List3" class="- topic/p ">(i) The data elements (except
+issuing agency code) of the unique item identifier are encoded within
+the data matrix symbol that is marked on the item using one of the
+following three types of data qualifiers, as determined by the Contractor:</p>
+         <p id="AOUWzU" outputclass="List4" class="- topic/p ">(A) Application Identifiers
+(AIs) (Format Indicator 05 of ISO/IEC International Standard 15434),
+in accordance with ISO/IEC International Standard 15418, Information
+Technology – EAN/UCC Application Identifiers and Fact Data Identifiers
+and Maintenance and ANSI MH 10.8.2 Data Identifier and Application
+Identifier Standard.</p>
+         <p id="pMbrxC" outputclass="List4" class="- topic/p ">(B) Data Identifiers (DIs)
+(Format Indicator 06 of ISO/IEC International Standard 15434), in
+accordance with ISO/IEC International Standard 15418, Information
+Technology – EAN/UCC Application Identifiers and Fact Data Identifiers
+and Maintenance and ANSI MH 10.8.2 Data Identifier and Application
+Identifier Standard.</p>
+         <p id="Kwsceb" outputclass="List4" class="- topic/p ">(C) Text Element Identifiers
+(TEIs) (Format Indicator 12 of ISO/IEC International Standard 15434),
+in accordance with the Air Transport Association Common Support
+Data Dictionary; and</p>
+         <p id="kcoMli" outputclass="List3" class="- topic/p ">(ii) The encoded data elements
+of the unique item identifier conform to the transfer structure,
+syntax, and coding of messages and data formats specified for Format
+Indicators 05, 06, and 12 in ISO/IEC International Standard 15434, Information
+Technology – Transfer Syntax for High Capacity Automatic Data Capture
+Media.</p>
+         <p id="ZkUehV" outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Unique item identifier</i>.</p>
+         <p id="KeLatD" outputclass="List3" class="- topic/p ">(i) The Contractor shall—</p>
+         <p id="HHaBSi" outputclass="List4" class="- topic/p ">(A) Determine whether to—</p>
+         <p id="NniBDy" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(1)</i> Serialize within
+the enterprise identifier;</p>
+         <p id="xqoLVf" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(2)</i> Serialize within
+the part, lot, or batch number; or</p>
+         <p id="odzoLe" outputclass="List6" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(3)</i> Use a DoD recognized
+unique identification equivalent (e.g. Vehicle Identification Number);
+and</p>
+         <p id="wOUKTe" outputclass="List4" class="- topic/p ">(B) Place the data elements
+of the unique item identifier (enterprise identifier; serial number;
+DoD recognized unique identification equivalent; and for serialization
+within the part, lot, or batch number only: original part, lot,
+or batch number) on items requiring marking by paragraph (c)(1)
+of this clause, based on the criteria provided in MIL-STD-130, Identification
+Marking of U.S. Military Property, latest version;</p>
+         <p id="LeeBnb" outputclass="List4" class="- topic/p ">(C) Label shipments, storage
+containers and packages that contain uniquely identified items in
+accordance with the requirements of MIL-STD-129, Military Marking
+for Shipment and Storage, latest version; and</p>
+         <p id="YHJEfc" outputclass="List4" class="- topic/p ">(D) Verify that the marks
+on items and labels on shipments, storage containers, and packages
+are machine readable and conform to the applicable standards. The
+contractor shall use an automatic identification technology device for
+this verification that has been programmed to the requirements of
+Appendix A, MIL-STD-130, latest version.</p>
+         <p id="dMTORd" outputclass="List3" class="- topic/p ">(ii) The issuing agency code—</p>
+         <p id="IlWBii" outputclass="List4" class="- topic/p ">(A) Shall not be placed on
+the item; and</p>
+         <p id="taLmqi" outputclass="List4" class="- topic/p ">(B) Shall be derived from
+the data qualifier for the enterprise identifier.</p>
+         <p id="nUnQfq" outputclass="List1" class="- topic/p ">(d) For each item that requires
+item unique identification under paragraph (c)(1)(i), (ii), or (iv)
+of this clause or when item unique identification is provided under
+paragraph (c)(1)(v), in addition to the information provided as
+part of the Material Inspection and Receiving Report specified elsewhere
+in this contract, the Contractor shall report at the time of delivery, as
+part of the Material Inspection and Receiving Report, the following
+information:</p>
+         <p id="vPuqdP" outputclass="List2" class="- topic/p ">(1) Unique item identifier.</p>
+         <p id="UQfNJN" outputclass="List2" class="- topic/p ">(2) Unique item identifier
+type.</p>
+         <p id="jFNsAP" outputclass="List2" class="- topic/p ">(3) Issuing agency code (if
+concatenated unique item identifier is used).</p>
+         <p id="hPfzVY" outputclass="List2" class="- topic/p ">(4) Enterprise identifier
+(if concatenated unique item identifier is used).</p>
+         <p id="LmjimN" outputclass="List2" class="- topic/p ">(5) Original part number
+(if there is serialization within the original part number).</p>
+         <p id="LRYazb" outputclass="List2" class="- topic/p ">(6) Lot or batch number (if
+there is serialization within the lot or batch number).</p>
+         <p id="rymfeW" outputclass="List2" class="- topic/p ">(7) Current part number (optional
+and only if not the same as the original part number).</p>
+         <p id="opMzSw" outputclass="List2" class="- topic/p ">(8) Current part number effective
+date (optional and only if current part number is used).</p>
+         <p id="RYgZdO" outputclass="List2" class="- topic/p ">(9) Serial number (if concatenated
+unique item identifier is used).</p>
+         <p id="VrlJLk" outputclass="List2" class="- topic/p ">(10) Government’s unit acquisition
+cost.</p>
+         <p id="tjxMmc" outputclass="List2" class="- topic/p ">(11) Unit of measure.</p>
+         <p id="ATuLYl" outputclass="List2" class="- topic/p ">(12) Type designation of
+the item as specified in the contract schedule, if any.</p>
+         <p id="WEvLIq" outputclass="List2" class="- topic/p ">(13) Whether the item is
+an item of Special Tooling or Special Test Equipment.</p>
+         <p id="PcNjnG" outputclass="List2" class="- topic/p ">(14) Whether the item is
+covered by a warranty.</p>
+         <p id="KSVPvV" outputclass="List1" class="- topic/p ">(e) For embedded subassemblies,
+components, and parts that require DoD item unique identification
+under paragraph (c)(1)(iii) of this clause or when item unique identification
+is provided under paragraph (c)(1)(v), the Contractor shall report
+as part of the Material Inspection and Receiving Report specified
+elsewhere in this contract, the following information:</p>
+         <p id="WnkEXa" outputclass="List2" class="- topic/p ">(1) Unique item identifier
+of the parent item under paragraph (c)(1) of this clause that contains
+the embedded subassembly, component, or part.</p>
+         <p id="AfPyQC" outputclass="List2" class="- topic/p ">(2) Unique item identifier
+of the embedded subassembly, component, or part.</p>
+         <p id="GyMXmw" outputclass="List2" class="- topic/p ">(3) Unique item identifier
+type.**</p>
+         <p id="dFuwWu" outputclass="List2" class="- topic/p ">(4) Issuing agency code (if
+concatenated unique item identifier is used).**</p>
+         <p id="ZtmSFH" outputclass="List2" class="- topic/p ">(5) Enterprise identifier
+(if concatenated unique item identifier is used).**</p>
+         <p id="gAhBdo" outputclass="List2" class="- topic/p ">(6) Original part number
+(if there is serialization within the original part number).**</p>
+         <p id="VjOoGJ" outputclass="List2" class="- topic/p ">(7) Lot or batch number (if
+there is serialization within the lot or batch number).**</p>
+         <p id="nZNUNg" outputclass="List2" class="- topic/p ">(8) Current part number (optional
+and only if not the same as the original part number).**</p>
+         <p id="GsUwQG" outputclass="List2" class="- topic/p ">(9) Current part number effective
+date (optional and only if current part number is used).**</p>
+         <p id="aPhVQm" outputclass="List2" class="- topic/p ">(10) Serial number (if concatenated
+unique item identifier is used).**</p>
+         <p id="oZYfBV" outputclass="List2" class="- topic/p ">(11) Description.</p>
+         <p id="dDlPwE" class="- topic/p ">** Once per item.</p>
+         <p id="GKGIdO" outputclass="List1" class="- topic/p ">(f) The Contractor shall
+submit the information required by paragraphs (d) and (e) of this
+clause as follows:</p>
+         <p id="wMsrgn" outputclass="List2" class="- topic/p ">(1) End items shall be reported
+using the receiving report capability in Wide Area WorkFlow (WAWF)
+in accordance with the clause at <xref href="252.232-7003.dita#DFARS_252.232-7003"
+                  base="i1383228"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.232-7003</xref>. If WAWF
+is not required by this contract, and the contractor is not using
+WAWF, follow the procedures at http://dodprocurementtoolbox.com/site/uidregistry/.</p>
+         <p id="dLzJTP" outputclass="List2" class="- topic/p ">(2) Embedded items shall
+be reported by one of the following methods—</p>
+         <p id="XBOBHn" outputclass="List3" class="- topic/p ">(i) Use of the embedded items
+capability in WAWF;</p>
+         <p id="PNGmCt" outputclass="List3" class="- topic/p ">(ii) Direct data submission
+to the IUID Registry following the procedures and formats at http://dodprocurementtoolbox.com/site/uidregistry/;
+or</p>
+         <p id="FYFqQy" outputclass="List3" class="- topic/p ">(iii) Via WAWF as a deliverable
+attachment for exhibit line item number <i class="+ topic/ph hi-d/i ">(fill in)</i> ___, Unique
+Item Identifier Report for Embedded Items, Contract Data Requirements
+List, DD Form 1423.</p>
+         <p id="bKqpbC" outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">Subcontracts</i>. If the Contractor acquires by subcontract any item(s) for which item unique identification is required in accordance with paragraph (c)(1) of this clause, the Contractor shall include this clause, including this paragraph (g), in the applicable subcontract(s), including subcontracts for commercial products or commercial services.</p>
+         <p id="vwDjtO" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

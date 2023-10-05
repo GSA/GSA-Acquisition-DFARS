@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_204.7303-2"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 204.7303-2</ph> Safeguarding controls and requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) When an offeror proposes to vary from any of the security requirements specified by National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171, “Protecting Controlled Unclassified Information in Nonfederal Information Systems and Organizations,” in accordance with paragraph (c)(2) of the solicitation provision at DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.204-7008"
+                  href="252.204-7008.dita#DFARS_252.204-7008">252.204-7008</xref>, or in accordance with paragraphs (b)(2)(ii)(B) of DFARS clause <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.204-7012"
+                  href="252.204-7012.dita#DFARS_252.204-7012">252.204-7012</xref>, the contracting officer shall submit the offeror’s explanation of the proposed variance to the DoD Chief Information Officer via email at osd.dibcsia@mail.mil for adjudication.</p>
+         <p outputclass="List1" class="- topic/p ">(b) For additional information on safeguarding controls and requirements, see the Frequently Asked Questions document at http://www.acq.osd.mil/dpap/pdi/network_penetration_reporting_and_contracting.html.</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_204.1870-1"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 204.1870-1</ph> Instructions to contracting officers.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">Contracting officers shall—</p>
+         <p outputclass="List1" class="- topic/p ">(a) Assist offerors in obtaining the required Commercial and Government Entity (CAGE) codes. Note that if an offeror’s facility requires security clearance in accordance with a potential contract, the offeror is required to have a CAGE code assigned to that facility. If the facility is a location other than the offeror’s office submitting the proposal, that facility is not required to be separately registered in the System for Award Management (SAM) in order to have a CAGE code assigned. Offerors may be directed to the DLA CAGE Branch (see PGI 
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_204.1870-2"
+                  href="PGI_204.1870-2.dita#DFARS_PGI_204.1870-2"
+                  xtrc="204.1870-2">204.1870-2</xref>
+            (c) for contact information);</p>
+         <p outputclass="List1" class="- topic/p ">(b) Not deny a potential offeror a solicitation package because the offeror does not have a CAGE code, DUNS number, or TIN;</p>
+         <p outputclass="List1" class="- topic/p ">(c) Not require a contractor to register sections or locations of their organization in SAM for reasons not already required by clauses present in their contracts in order to obtain a CAGE code; and</p>
+         <p outputclass="List1" class="- topic/p ">(d) Not require a contractor to obtain new CAGE codes or change CAGE code records assigned to their locations solely for Government administration purposes (such as a result of a Government reorganization, change in Government contracting officer or office) or for distinction in Government systems beyond physical address and Electronic Funds Transfer (EFT) data.</p>
+      </conbody>
+   </concept>
+</dita>
