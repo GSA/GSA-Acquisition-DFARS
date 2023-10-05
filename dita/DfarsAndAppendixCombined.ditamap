@@ -2454,6 +2454,47 @@
                          audience="DFARS_209.106"
                          xtrf="subtopic"
                          xtrc="DFARS_209.106.html"/>
+               <topicref href="209.170.dita"
+                         navtitle="209.170 Scope."
+                         outputclass="subtopic"
+                         props="209.170"
+                         audience="DFARS_209.170"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="">
+                  <topicref href="209.170-1.dita"
+                            navtitle="209.170-1 Definitions."
+                            outputclass="subtopic"
+                            props="209.170-1"
+                            audience="DFARS_209.170-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="209.170-2.dita"
+                            navtitle="209.170-2 Restriction."
+                            outputclass="subtopic"
+                            props="209.170-2"
+                            audience="DFARS_209.170-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="209.170-3.dita"
+                            navtitle="209.170-3 Waiver of restriction."
+                            outputclass="subtopic"
+                            props="209.170-3"
+                            audience="DFARS_209.170-3"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="209.170-4.dita"
+                            navtitle="209.170-4 Solicitation provision."
+                            outputclass="subtopic"
+                            props="209.170-4"
+                            audience="DFARS_209.170-4"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
             </topicref>
             <topicref navtitle="Subpart 209.2 - QUALIFICATIONS REQUIREMENTS"
                       base="NoTitle"
@@ -3280,7 +3321,7 @@
                          xtrf="subtopic"
                          xtrc="DFARS_212.602.html"/>
             </topicref>
-            <topicref navtitle="Subpart 212.70 - RESERVED"
+            <topicref navtitle="Subpart 212.70 - DEFENSE COMMERCIAL SOLUTIONS OPENING"
                       base="NoTitle"
                       href="SUBPART_212.70.dita"
                       props="Subpart 212.70"
@@ -3295,7 +3336,7 @@
                          audience="DFARS_212.7000"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc="">
+                         xtrc="DFARS_212.7000.html">
                   <topicref href="212.7001.dita"
                             navtitle="212.7001 Definition."
                             outputclass="subtopic"
@@ -4381,7 +4422,7 @@
                          xtrf="subtopic"
                          base="concept"
                          navtitle="215.602 Policy."
-                         xtrc=""/>
+                         xtrc="DFARS_215.602.html"/>
                <topicref href="215.604.dita"
                          navtitle="215.604 Agency points of contact."
                          outputclass="subtopic"
@@ -4389,7 +4430,7 @@
                          audience="DFARS_215.604"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="DFARS_215.604.html"/>
             </topicref>
          </topicref>
          <topicref navtitle="Part 216 - TYPES OF CONTRACTS"
@@ -7026,6 +7067,56 @@
                          audience="DFARS_223.7306"
                          xtrf="subtopic"
                          xtrc="DFARS_223.7306.html"/>
+            </topicref>
+            <topicref href="SUBPART_223.74.dita"
+                      navtitle="Subpart 223.74 - PROHIBITION ON PROCUREMENT OF CERTAIN ITEMS CONTAINING PERFLUOROALKYL OR POLYFLUOROALKYL SUBSTANCES"
+                      outputclass="SubPart"
+                      props="Subpart 223.74"
+                      audience="DFARS_SUBPART_223.74"
+                      xtrc="DFARS_SUBPART_223.74.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="223.7400.dita"
+                         navtitle="223.7400 Scope of subpart."
+                         outputclass="subtopic"
+                         props="223.7400"
+                         audience="DFARS_223.7400"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="">
+                  <topicref href="223.7401.dita"
+                            navtitle="223.7401 Definition."
+                            outputclass="subtopic"
+                            props="223.7401"
+                            audience="DFARS_223.7401"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="223.7402.dita"
+                            navtitle="223.7402 Prohibition."
+                            outputclass="subtopic"
+                            props="223.7402"
+                            audience="DFARS_223.7402"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="223.7403.dita"
+                            navtitle="223.7403 Procedures."
+                            outputclass="subtopic"
+                            props="223.7403"
+                            audience="DFARS_223.7403"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="223.7404.dita"
+                            navtitle="223.7404 Contract clause."
+                            outputclass="subtopic"
+                            props="223.7404"
+                            audience="DFARS_223.7404"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
             </topicref>
          </topicref>
          <topicref navtitle="Part 224 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
@@ -16239,6 +16330,14 @@
                             audience="DFARS_252.209-7010"
                             xtrf="subtopic"
                             xtrc=""/>
+                  <topicref href="252.209-7011.dita"
+                            navtitle="252.209-7011 Representation for Restriction on the Use of Certain Institutions of Higher Education."
+                            outputclass="subtopic"
+                            props="252.209-7011"
+                            audience="DFARS_252.209-7011"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
                   <topicref navtitle="252.209-7998 Representation Regarding Conviction of a Felony Criminal Violation under any Federal or State Law."
                             base="concept"
                             href="252.209-7998.dita"
@@ -17127,6 +17226,14 @@
                             outputclass="subtopic"
                             audience="DFARS_252.223-7008"
                             xtrf="subtopic"
+                            xtrc=""/>
+                  <topicref href="252.223-7009.dita"
+                            navtitle="252.223-7009 Prohibition of Procurement of Fluorinated Aqueous Film-Forming Foam Fire-Fighting Agent for Use on Military Installations."
+                            outputclass="subtopic"
+                            props="252.223-7009"
+                            audience="DFARS_252.223-7009"
+                            xtrf="subtopic"
+                            base="concept"
                             xtrc=""/>
                </topicref>
                <topicref navtitle="252.225 RESERVED"
