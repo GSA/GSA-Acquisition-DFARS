@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars" rev="Revised September 29, 2023">
+<map title="DFARS" outputclass="dfars">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -3045,6 +3045,7 @@
                          audience="DFARS_209.170"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc="DFARS_209.170.html"
                          tables="0"
                          figures="0">
                   <topicref href="209.170-1.dita"
@@ -3054,6 +3055,7 @@
                             audience="DFARS_209.170-1"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="209.170-2.dita"
@@ -3063,6 +3065,7 @@
                             audience="DFARS_209.170-2"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="209.170-3.dita"
@@ -3072,6 +3075,7 @@
                             audience="DFARS_209.170-3"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="209.170-4.dita"
@@ -3081,6 +3085,7 @@
                             audience="DFARS_209.170-4"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -4127,7 +4132,7 @@
                          audience="DFARS_212.7000"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_212.7000.html"
                          tables="0"
                          figures="0">
                   <topicref href="212.7001.dita"
@@ -5270,7 +5275,7 @@
                             tables="0"
                             figures="0"/>
                </topicref>
-               <topicref navtitle="215.406 RESERVED"
+               <topicref navtitle="215.406Documentation."
                          base="concept"
                          href="215.406.dita"
                          props="215.406"
@@ -5290,7 +5295,7 @@
                             xtrc=""
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="215.406-2 Certificate of current cost or pricing data."
+                  <topicref navtitle="215.406-2Certificate of current cost or pricing data. "
                             base="concept"
                             href="215.406-2.dita"
                             props="215.406-2"
@@ -5473,17 +5478,17 @@
                          xtrf="subtopic"
                          base="concept"
                          navtitle="215.602 Policy."
-                         xtrc=""
+                         xtrc="DFARS_215.602.html"
                          tables="0"
                          figures="0"/>
                <topicref href="215.604.dita"
-                         navtitle="215.604 Agency points of contact."
+                         navtitle="215.604Agency points of contact."
                          outputclass="subtopic"
                          props="215.604"
                          audience="DFARS_215.604"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_215.604.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -8774,6 +8779,7 @@
                          audience="DFARS_223.7400"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc="DFARS_223.7400.html"
                          tables="0"
                          figures="0">
                   <topicref href="223.7401.dita"
@@ -8783,6 +8789,7 @@
                             audience="DFARS_223.7401"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="223.7402.dita"
@@ -8792,6 +8799,7 @@
                             audience="DFARS_223.7402"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="223.7403.dita"
@@ -8801,6 +8809,7 @@
                             audience="DFARS_223.7403"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="223.7404.dita"
@@ -8810,6 +8819,7 @@
                             audience="DFARS_223.7404"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -10532,7 +10542,38 @@
                          xtrf="subtopic"
                          xtrc="DFARS_225.7013.html"
                          tables="0"
-                         figures="0"/>
+                         figures="0">
+                  <topicref href="225.7013-0.dita"
+                            navtitle="225.7013-0 Scope."
+                            outputclass="subtopic"
+                            props="225.7013-0"
+                            audience="DFARS_225.7013-0"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="225.7013-1.dita"
+                            navtitle="225.7013-1 Definitions."
+                            outputclass="subtopic"
+                            props="225.7013-1"
+                            audience="DFARS_225.7013-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="225.7013-2.dita"
+                            navtitle="225.7013-2 Restrictions."
+                            outputclass="subtopic"
+                            props="225.7013-2"
+                            audience="DFARS_225.7013-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+               </topicref>
                <topicref navtitle="225.7014 Restrictions on military construction."
                          base="concept"
                          href="225.7014.dita"
@@ -13335,7 +13376,7 @@
                       xtrc="DFARS_SUBPART_230.2.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="230.201 RESERVED"
+               <topicref navtitle="230.201Contract requirements."
                          base="concept"
                          href="230.201.dita"
                          props="230.201"
@@ -15123,6 +15164,16 @@
                          audience="DFARS_236.206"
                          xtrf="subtopic"
                          xtrc="DFARS_236.206.html"
+                         tables="0"
+                         figures="0"/>
+               <topicref href="236.211.dita"
+                         navtitle="236.211 Distribution of advance notices and solicitations."
+                         outputclass="subtopic"
+                         props="236.211"
+                         audience="DFARS_236.211"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_236.211.html"
                          tables="0"
                          figures="0"/>
                <topicref navtitle="236.213 Special procedures for sealed bidding in construction contracting."
@@ -20259,6 +20310,7 @@
                             audience="DFARS_252.209-7011"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="252.209-7998 Representation Regarding Conviction of a Felony Criminal Violation under any Federal or State Law."
@@ -21377,6 +21429,7 @@
                             audience="DFARS_252.223-7009"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -26122,7 +26175,18 @@
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_PGI_203_8.html"
                       tables="0"
-                      figures="0"/>
+                      figures="0">
+               <topicref href="PGI_203.806.dita"
+                         navtitle="PGI 203.806 Prohibition on persons convicted of fraud or other defense-contract-related felonies."
+                         outputclass="subtopic"
+                         props="PGI 203.806"
+                         audience="DFARS_PGI_203.806"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_PGI_203.806.html"
+                         tables="0"
+                         figures="0"/>
+            </topicref>
          </topicref>
          <topicref navtitle="PGI Part 204 - ADMINISTRATIVE AND INFORMATION MATTERS"
                    base="NoTitle"
@@ -26686,6 +26750,16 @@
                       xtrc="DFARS_SUBPART_PGI_205_2.html"
                       tables="0"
                       figures="0">
+               <topicref href="PGI_205.205.dita"
+                         navtitle="PGI 205.205 Special situations."
+                         base="concept"
+                         outputclass="subtopic"
+                         props="PGI 205.205"
+                         audience="DFARS_PGI_205.205"
+                         xtrf="subtopic"
+                         xtrc="DFARS_PGI_205.205.html"
+                         tables="0"
+                         figures="0"/>
                <topicref navtitle="PGI 205.207 Preparation and transmittal of synopses."
                          base="concept"
                          href="PGI_205.207.dita"
@@ -26728,7 +26802,7 @@
                       xtrc="dxztPx.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle=" PGI 206.001-70 Exception for prototype projects for follow-on production contracts."
+               <topicref navtitle="PGI 206.001-70 Exception for prototype projects for follow-on production contracts."
                          base="NoTitle"
                          href="PGI_206.001-70.dita"
                          props="PGI 206.001-70"
@@ -27470,6 +27544,7 @@
                          audience="DFARS_PGI_209.170"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc="DFARS_PGI_209.170.html"
                          tables="0"
                          figures="0">
                   <topicref href="PGI_209.170-3.dita"
@@ -27479,6 +27554,7 @@
                             audience="DFARS_PGI_209.170-3"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -27873,7 +27949,7 @@
                 xtrc="DFARS_PGI_c.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="PGI Part 213 - SIMPLIFIED ACQUISITIONPROCEDURES"
+         <topicref navtitle="PGI Part 213 - SIMPLIFIED ACQUISITION PROCEDURES"
                    base="NoTitle"
                    href="PGI_PART_213.dita"
                    props="PGI Part 213"
@@ -28252,6 +28328,16 @@
                             outputclass="subtopic"
                             audience="DFARS_PGI_215.406-1"
                             xtrf="subtopic"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="PGI_215.406-2.dita"
+                            navtitle="PGI 215.406-2 Certificate of current cost or pricing data."
+                            outputclass="subtopic"
+                            props="PGI 215.406-2"
+                            audience="DFARS_PGI_215.406-2"
+                            xtrf="subtopic"
+                            base="concept"
                             xtrc=""
                             tables="0"
                             figures="0"/>
@@ -29722,7 +29808,7 @@
                       xtrc="DFARS_SUBPART_PGI_225_7.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="PGI 225.770 Prohibition on acquisition of United States Munitions List items from Communist Chinese military companies."
+               <topicref navtitle="PGI 225.770certain Prohibition on acquisition of items from Communist Chinese military companies."
                          base="concept"
                          href="PGI_225.770.dita"
                          props="PGI 225.770"
@@ -29763,28 +29849,28 @@
                             tables="0"
                             figures="0"/>
                </topicref>
-               <topicref navtitle="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism."
+               <topicref navtitle="PGI 225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism."
                          base="concept"
                          href="PGI_225.771.dita"
                          props="225.771 Prohibition on contracting or subcontracting with a firm that is owned or controlled by the government of a country that is a state sponsor of terrorism."
                          outputclass="subtopic"
-                         audience="DFARS_PGI____225.771"
+                         audience="DFARS_PGI_225.771"
                          xtrf="subtopic"
-                         xtrc="DFARS_PGI____225.771.html"
+                         xtrc="DFARS_PGI_225.771.html"
                          tables="0"
                          figures="0">
-                  <topicref navtitle="225.771-3 Notification."
+                  <topicref navtitle="PGI 225.771-3 Notification."
                             base="concept"
                             href="PGI_225.771-3.dita"
                             props="225.771-3 Notification."
                             outputclass="subtopic"
-                            audience="DFARS_PGI____225.771-3"
+                            audience="DFARS_PGI_225.771-3"
                             xtrf="subtopic"
                             xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
-               <topicref navtitle="PGI 225.772 Prohibition on acquisition of commercial satellite services from certain foreign entities."
+               <topicref navtitle="PGI 225.772certain foreign Prohibition on acquisition of commercial satellite services."
                          base="concept"
                          href="PGI_225.772.dita"
                          props="PGI 225.772"
@@ -30777,16 +30863,27 @@
                       xtrc="DFARS_SUBPART_PGI_230_2.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="PGI 230.201-5 Waiver."
-                         base="concept"
-                         href="PGI_230.201-5.dita"
-                         props="PGI 230.201-5"
+               <topicref base="concept"
+                         href="PGI_230.201.dita"
+                         props="PGI 230.20"
                          outputclass="subtopic"
-                         audience="DFARS_PGI_230.201-5"
+                         audience="DFARS_PGI_230.201"
                          xtrf="subtopic"
-                         xtrc="DFARS_PGI_230.201-5.html"
+                         xtrc="DFARS_PGI_230.201.html"
+                         navtitle="PGI 230.201 Contract Requirements."
                          tables="0"
-                         figures="0"/>
+                         figures="0">
+                  <topicref navtitle="PGI 230.201-5 Waiver."
+                            base="concept"
+                            href="PGI_230.201-5.dita"
+                            props="PGI 230.201-5"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_230.201-5"
+                            xtrf="subtopic"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+               </topicref>
             </topicref>
          </topicref>
          <topicref navtitle="PGI Part 231 - CONTRACT COST PRINCIPLES AND PROCEDURES"
@@ -30809,16 +30906,27 @@
                       xtrc="DFARS_SUBPART_PGI_231_2.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="PGI 231.205-70 External restructuring costs."
-                         base="concept"
-                         href="PGI_231.205-70.dita"
-                         props="PGI 231.205-70"
+               <topicref href="PGI_231.205.dita"
+                         navtitle="PGI 231.205 Selected costs.."
                          outputclass="subtopic"
-                         audience="DFARS_PGI_231.205-70"
+                         props="PGI 231.205"
+                         audience="DFARS_PGI_231.205"
                          xtrf="subtopic"
-                         xtrc="DFARS_PGI_231.205-70.html"
+                         base="concept"
+                         xtrc="DFARS_PGI_231.205.html"
                          tables="0"
-                         figures="0"/>
+                         figures="0">
+                  <topicref navtitle="PGI 231.205-70 External restructuring costs."
+                            base="concept"
+                            href="PGI_231.205-70.dita"
+                            props="PGI 231.205-70"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_231.205-70"
+                            xtrf="subtopic"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+               </topicref>
             </topicref>
          </topicref>
          <topicref navtitle="PGI Part 232 - CONTRACT FINANCING"
@@ -30893,7 +31001,7 @@
                       xtrc="DFARS_SUBPART_PGI_232_5.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="PGI 232.501 RESERVED"
+               <topicref navtitle="PGI 232.501."
                          base="concept"
                          href="PGI_232.501.dita"
                          props="PGI 232.501"
@@ -31250,6 +31358,16 @@
                          xtrc="DFARS_PGI_236.207.html"
                          tables="2"
                          figures="0"/>
+               <topicref href="PGI_236.211.dita"
+                         navtitle="PGI 236.211 Special situations."
+                         base="concept"
+                         outputclass="subtopic"
+                         props="PGI 236.211"
+                         audience="DFARS_PGI_236.211"
+                         xtrf="subtopic"
+                         xtrc="DFARS_PGI_236.211.html"
+                         tables="0"
+                         figures="0"/>
                <topicref navtitle="PGI 236.213 Special procedures for sealed bidding in construction contracting."
                          base="concept"
                          href="PGI_236.213.dita"
@@ -31324,7 +31442,7 @@
                       xtrc="DFARS_SUBPART_PGI_237_1.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="PGI 237.102 RESERVED"
+               <topicref navtitle="PGI 237.102 Policy."
                          base="concept"
                          href="PGI_237.102.dita"
                          props="PGI 237.102"

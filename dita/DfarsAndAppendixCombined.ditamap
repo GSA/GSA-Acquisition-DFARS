@@ -2461,7 +2461,7 @@
                          audience="DFARS_209.170"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc="">
+                         xtrc="DFARS_209.170.html">
                   <topicref href="209.170-1.dita"
                             navtitle="209.170-1 Definitions."
                             outputclass="subtopic"
@@ -4257,7 +4257,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="215.406 RESERVED"
+               <topicref navtitle="215.406Documentation."
                          base="concept"
                          href="215.406.dita"
                          props="215.406"
@@ -4273,7 +4273,7 @@
                             audience="DFARS_215.406-1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="215.406-2 Certificate of current cost or pricing data."
+                  <topicref navtitle="215.406-2Certificate of current cost or pricing data. "
                             base="concept"
                             href="215.406-2.dita"
                             props="215.406-2"
@@ -4424,7 +4424,7 @@
                          navtitle="215.602 Policy."
                          xtrc="DFARS_215.602.html"/>
                <topicref href="215.604.dita"
-                         navtitle="215.604 Agency points of contact."
+                         navtitle="215.604Agency points of contact."
                          outputclass="subtopic"
                          props="215.604"
                          audience="DFARS_215.604"
@@ -7083,7 +7083,7 @@
                          audience="DFARS_223.7400"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc="">
+                         xtrc="DFARS_223.7400.html">
                   <topicref href="223.7401.dita"
                             navtitle="223.7401 Definition."
                             outputclass="subtopic"
@@ -8500,7 +8500,32 @@
                          outputclass="subtopic"
                          audience="DFARS_225.7013"
                          xtrf="subtopic"
-                         xtrc="DFARS_225.7013.html"/>
+                         xtrc="DFARS_225.7013.html">
+                  <topicref href="225.7013-0.dita"
+                            navtitle="225.7013-0 Scope."
+                            outputclass="subtopic"
+                            props="225.7013-0"
+                            audience="DFARS_225.7013-0"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="225.7013-1.dita"
+                            navtitle="225.7013-1 Definitions."
+                            outputclass="subtopic"
+                            props="225.7013-1"
+                            audience="DFARS_225.7013-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="225.7013-2.dita"
+                            navtitle="225.7013-2 Restrictions."
+                            outputclass="subtopic"
+                            props="225.7013-2"
+                            audience="DFARS_225.7013-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
                <topicref navtitle="225.7014 Restrictions on military construction."
                          base="concept"
                          href="225.7014.dita"
@@ -10755,7 +10780,7 @@
                       audience="DFARS_SUBPART_230.2"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_230.2.html">
-               <topicref navtitle="230.201 RESERVED"
+               <topicref navtitle="230.201Contract requirements."
                          base="concept"
                          href="230.201.dita"
                          props="230.201"
@@ -12199,6 +12224,14 @@
                          audience="DFARS_236.206"
                          xtrf="subtopic"
                          xtrc="DFARS_236.206.html"/>
+               <topicref href="236.211.dita"
+                         navtitle="236.211 Distribution of advance notices and solicitations."
+                         outputclass="subtopic"
+                         props="236.211"
+                         audience="DFARS_236.211"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_236.211.html"/>
                <topicref navtitle="236.213 Special procedures for sealed bidding in construction contracting."
                          base="concept"
                          href="236.213.dita"
