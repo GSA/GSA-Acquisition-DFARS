@@ -9,13 +9,8 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-     title="DFARS"
-     outputclass="dfars"
-     rev="Revised November 17, 2023"
-     ditaarch:DITAArchVersion="1.3"
-     class="- map/map ">
-   <title class="- topic/title ">DFARS</title>
+<map title="DFARS" outputclass="dfars" rev="Revised December 22, 2023">
+   <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
              href="VolumeIII-Parts201to253.dita"
@@ -24,8 +19,7 @@
              audience="DFARS-VolumeI-Parts201to253"
              otherprops="NoProp"
              xtrf="Volume"
-             xtrc="DFARS-VolumeI-Parts201to253.html"
-             class="- map/topicref ">
+             xtrc="DFARS-VolumeI-Parts201to253.html">
       <topicref navtitle="Defense Federal Acquisition Regulation"
                 base="NoTitle"
                 href="Cover.dita"
@@ -34,8 +28,7 @@
                 audience="Dfars-Cover"
                 otherprops="NoProp"
                 xtrf="Volume"
-                xtrc="Dfars-Cover.html"
-                class="- map/topicref "/>
+                xtrc="Dfars-Cover.html"/>
    </topicref>
    
       
@@ -3206,8 +3199,7 @@
              audience="id1617M0T7027"
              otherprops="NoProp"
              xtrf="Volume"
-             xtrc="id1617M0T7027.html"
-             class="- map/topicref ">
+             xtrc="id1617M0T7027.html">
       <topicref navtitle="Defense Federal Acquisition Regulation - PGI"
                 base="NoTitle"
                 href="Cover_PGI.dita"
@@ -3216,8 +3208,7 @@
                 otherprops="NoProp"
                 outputclass="subtopic"
                 xtrf="subtopic"
-                xtrc="id16werw2KV.html"
-                class="- map/topicref "/>
+                xtrc="id16werw2KV.html"/>
    </topicref>
    
       
@@ -3960,6 +3951,7 @@
       
          
             
+               
             
             
                
