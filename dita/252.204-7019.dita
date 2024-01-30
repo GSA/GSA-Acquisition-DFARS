@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS_252.204-7019"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -12,9 +11,7 @@
       <conbody class="- topic/body  concept/conbody ">
          <p id="qUkUdx" class="- topic/p ">As prescribed in 204.7304(d), use the
 following provision:</p>
-         <p class="- topic/p "
-            outputclass="Ctr_SmCaps"
-            rev="Revised November 17, 2023">NOTICE OF NIST SP 800–171 DOD
+         <p class="- topic/p " outputclass="Ctr_SmCaps">NOTICE OF NIST SP 800–171 DOD
             ASSESSMENT REQUIREMENTS (NOV 2023)</p>
          <p class="- topic/p " outputclass="List1" id="JKrwWo">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>.</p>
          <p id="wsqlZS" class="- topic/p ">“Basic Assessment”, “Medium Assessment”, and “High
@@ -35,12 +32,12 @@ and Cyber Incident Reporting, of this solicitation.</p>
             order, or delivery order. The Basic, Medium, and High NIST SP
             800–171 DoD Assessments are described in the NIST SP 800–171 DoD
             Assessment Methodology located at
-            <ph id="_Hlk149834908" class="- topic/ph ">
+            
                <i class="+ topic/ph hi-d/i "/>
-            </ph>
-            <ph class="- topic/ph " rev="Revised November 17, 2023">
+            
+            
             https://www.acq.osd.mil/asda/dpc/cp/cyber/docs/safeguarding/NIST-SP-800-171-Assessment-Methodology-Version-1.2.1-6.24.2020.pdf
-            </ph>.</p>
+            .</p>
          <p class="- topic/p " outputclass="List1" id="sDcTZh">(c) <i class="+ topic/ph hi-d/i ">Procedures</i>.</p>
          <p class="- topic/p " outputclass="List2" id="wUNVHv">(1) The Offeror shall verify
 that summary level scores of a current NIST SP 800-171 DoD Assessment
