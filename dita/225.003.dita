@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_225.003"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_225.003" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.003</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -22,38 +18,27 @@ munitions-related ECCNs within the larger Commerce Control List.
 petroleum or any product derived from petroleum.</p>
          <p id="kZtZGL" class="- topic/p ">“Communist Chinese military company” means any
 entity, regardless of geographic location, that is—</p>
-         <p id="hlwjBC" outputclass="List2" class="- topic/p ">(1) A part of the commercial
+         <p class="- topic/p " outputclass="List2" id="hlwjBC">(1) A part of the commercial
 or defense industrial base of the People’s Republic of China (including
 a subsidiary or affiliate of such entity); or</p>
-         <p id="YEdDqb" outputclass="List2" class="- topic/p ">(2) Owned or controlled by,
+         <p class="- topic/p " outputclass="List2" id="YEdDqb">(2) Owned or controlled by,
 or affiliated with, an element of the Government or armed forces
 of the People’s Republic of China.</p>
          <p id="tXilgF" class="- topic/p ">“Defense equipment” means any equipment, item of
 supply, component, or end product purchased by DoD.</p>
          <p id="qNGojo" class="- topic/p ">“Domestic concern” means—</p>
-         <p id="kAUnOo" outputclass="List2" class="- topic/p ">(1) A concern incorporated
+         <p class="- topic/p " outputclass="List2" id="kAUnOo">(1) A concern incorporated
 in the United States (including a subsidiary that is incorporated
 in the United States, even if the parent corporation is a foreign
 concern); or</p>
-         <p id="RMVWAV" outputclass="List2" class="- topic/p ">(2) An unincorporated concern
+         <p class="- topic/p " outputclass="List2" id="RMVWAV">(2) An unincorporated concern
 having its principal place of business in the United States.</p>
          <p id="JExIFF" class="- topic/p ">“Domestic end product” means—</p>
-         <p outputclass="List2" class="- topic/p ">(1) For an end product that does not
+         <p class="- topic/p " outputclass="List2">(1) For an end product that does not
             consist wholly or predominantly of iron or steel or a combination of both— </p>
-         <p outputclass="List3" class="- topic/p ">(i) An unmanufactured end product mined
-            or produced in the United States; or (ii) An end product manufactured in the United
-            States if— </p>
-         <p outputclass="List4" class="- topic/p ">(A) The cost of its qualifying country
-            components and its components that are mined, produced, or manufactured in the United
-            States exceeds 55 percent of the cost of all its components. The cost of components
-            includes transportation costs to the place of incorporation into the end product and
-            U.S. duty (whether or not a duty-free entry certificate is issued). Components of
-            unknown origin are treated as foreign. Scrap generated, collected, and prepared for
-            processing in the United States is considered domestic. A component is considered to
-            have been mined, produced, or manufactured in the United States (regardless of its
-            source in fact) if the end product in which it is incorporated is manufactured in the
-            United States and the component is of a class or kind for which the Government has
-            determined that— </p>
+         <p class="- topic/p " outputclass="List3">(i) An unmanufactured end product mined or produced in the United States; or </p>
+         <p class="- topic/p " outputclass="List3">(ii) An end product manufactured in the United States if— </p>
+         <p class="- topic/p " outputclass="List4"> (A) The cost of its qualifying country components and its components that are mined, produced, or manufactured in the United States exceeds <ph class="- topic/ph " rev="Revised February 15, 2024">60 </ph>percent of the cost of all its components<ph rev="Revised February 15, 2024" class="- topic/ph ">, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.101(d); or award is made before January 1, 2030, for a foreign end product that exceeds 55 percent domestic content (see 225.103(b)(ii))</ph>. The cost of components includes transportation costs to the place of incorporation into the end product and U.S. duty (whether or not a duty-free entry certificate is issued). Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic. A component is considered to have been mined, produced, or manufactured in the United States (regardless of its source in fact) if the end product in which it is incorporated is manufactured in the United States and the component is of a class or kind for which the Government has determined that—</p>
          <p outputclass="List5" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(1)</i> Sufficient and reasonably
             available commercial quantities of a satisfactory quality are not mined, produced, or
@@ -61,9 +46,9 @@ having its principal place of business in the United States.</p>
          <p outputclass="List5" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(2)</i> It is inconsistent with the
             public interest to apply the restrictions of the Buy American statute; or </p>
-         <p outputclass="List4" class="- topic/p ">(B) The end product is a commercially
+         <p class="- topic/p " outputclass="List4">(B) The end product is a commercially
             available off-the-shelf (COTS) item; or </p>
-         <p outputclass="List2" class="- topic/p ">(2) For an end product that consists
+         <p class="- topic/p " outputclass="List2">(2) For an end product that consists
             wholly or predominantly of iron or steel or a combination of both, an end product
             manufactured in the United States, if the cost of iron and steel not produced in the
             United States or a qualifying country constitutes less than 5 percent of the cost of all
@@ -82,21 +67,21 @@ having its principal place of business in the United States.</p>
             (1)(ii)(A) of this definition. </p>
          <p id="jqEEsC" class="- topic/p ">“Eligible product” means, instead of the definition
 in FAR 25.003—</p>
-         <p id="uXBFPz" outputclass="List2" class="- topic/p ">(1) A foreign end product
+         <p class="- topic/p " outputclass="List2" id="uXBFPz">(1) A foreign end product
 that—</p>
-         <p id="cZYvYT" outputclass="List3" class="- topic/p ">(i) Is in a category listed
+         <p class="- topic/p " outputclass="List3" id="cZYvYT">(i) Is in a category listed
 in <xref href="225.401-70.dita#DFARS_225.401-70"
                   base="i1378860"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">225.401-70</xref> ; and</p>
-         <p id="tBSMDs" outputclass="List3" class="- topic/p ">(ii) Is not subject to discriminatory
+         <p class="- topic/p " outputclass="List3" id="tBSMDs">(ii) Is not subject to discriminatory
 treatment, due to the applicability of a trade agreement to a particular
 acquisition;</p>
-         <p id="rCpREb" outputclass="List2" class="- topic/p ">(2) A foreign construction
+         <p class="- topic/p " outputclass="List2" id="rCpREb">(2) A foreign construction
 material that is not subject to discriminatory treatment, due to
 the applicability of a trade agreement to a particular acquisition;
 or</p>
-         <p id="yVzINj" outputclass="List2" class="- topic/p ">(3) A foreign service that
+         <p class="- topic/p " outputclass="List2" id="yVzINj">(3) A foreign service that
 is not subject to discriminatory treatment, due to the applicability
 of a trade agreement to a particular acquisition.</p>
          <p id="BPRSvU" class="- topic/p ">“Foreign concern” means any concern other than
@@ -152,8 +137,8 @@ agreement complies, where applicable, with the requirements of section
             end product mined or produced in a qualifying country; or </p>
          <p class="- topic/p " outputclass="List2">(2) An end product
             manufactured in a qualifying country if— </p>
-         <p class="- topic/p " outputclass="List3">(i) The cost of the
-            following types of components exceeds 50 percent of the cost of all its components: </p>
+         <p class="- topic/p " outputclass="List3"> (i) The cost of the following types of components exceeds <ph class="- topic/ph " rev="Revised February 15, 2024">60</ph> percent of the cost of all its <ph id="_Hlk128496090" class="- topic/ph ">components<ph rev="Revised February 15, 2024" class="- topic/ph ">, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029   unless an alternate percentage is established for a contract</ph>
+            </ph>:</p>
          <p class="- topic/p " outputclass="List4">(A) Components mined,
             produced, or manufactured in a qualifying country. </p>
          <p class="- topic/p " outputclass="List4">(B) Components mined,
@@ -163,8 +148,7 @@ agreement complies, where applicable, with the requirements of section
             sufficient and reasonably available commercial quantities of a satisfactory quality are
             not mined, produced, or manufactured in the United States. Components of unknown origin
             are treated as foreign; or </p>
-         <p class="- topic/p " outputclass="List3">(ii) The end product
-            is a COTS item. </p>
+         <p class="- topic/p " outputclass="List3">(ii) The end product is a COTS item.</p>
          <p id="sAwaae" class="- topic/p ">“Qualifying country offer” means an offer of a
 qualifying country end product, including the price of transportation
 to destination.</p>
@@ -176,18 +160,18 @@ state” means Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Pakistan,
 Tajikistan, Turkmenistan, or Uzbekistan.</p>
          <p id="TmsWkk" class="- topic/p ">“South Caucasus/Central and South Asian (SC/CASA)
 state construction material” means construction material that—</p>
-         <p id="DlTBSB" outputclass="List2" class="- topic/p ">(1) Is wholly the growth,
+         <p class="- topic/p " outputclass="List2" id="DlTBSB">(1) Is wholly the growth,
 product, or manufacture of an SC/CASA state; or</p>
-         <p id="ByFtPf" outputclass="List2" class="- topic/p ">(2) In the case of a construction
+         <p class="- topic/p " outputclass="List2" id="ByFtPf">(2) In the case of a construction
 material that consists in whole or in part of materials from another
 country, has been substantially transformed in an SC/CASA state
 into a new and different construction material distinct from the
 material from which it was transformed.</p>
          <p id="gcolmG" class="- topic/p ">“South Caucasus/Central and South Asian (SC/CASA)
 state end product” means an article that—</p>
-         <p id="GSiGKv" outputclass="List2" class="- topic/p ">(1) Is wholly the growth,
+         <p class="- topic/p " outputclass="List2" id="GSiGKv">(1) Is wholly the growth,
 product, or manufacture of an SC/CASA state; or</p>
-         <p id="rjQoJo" outputclass="List2" class="- topic/p ">(2) In the case of an article
+         <p class="- topic/p " outputclass="List2" id="rjQoJo">(2) In the case of an article
 that consists in whole or in part of materials from another country,
 has been substantially transformed in an SC/CASA state into a new
 and different article of commerce with a name, character, or use
