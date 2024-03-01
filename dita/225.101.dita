@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_225.101"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_225.101" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.101</ph> General.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) For DoD, the following two-part
+         <p class="- topic/p " outputclass="List1">(a) For DoD, the following two-part
 test determines whether a manufactured end product is a domestic
 end product:</p>
-         <p outputclass="List3" class="- topic/p ">(i) The end product is manufactured in
+         <p class="- topic/p " outputclass="List3">(i) The end product is manufactured in
 the United States; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) (A) Except
-               for an end product that consists wholly or predominantly of iron or steel or a
-               combination of both, the cost of its U.S. and qualifying country components
-            exceeds 55 percent of the cost of all its
-            components. This test is applied to end products only and not to individual
-            components.</p>
-         <p outputclass="List4" class="- topic/p ">(B) For an end product that consists
+         <p class="- topic/p " outputclass="List1"> (ii)(A) Except for an end product that consists wholly or predominantly of iron or steel or a combination of both, the cost of its U.S. and qualifying country components exceeds <ph class="- topic/ph " rev="Revised February 15, 2024">60</ph> percent of the cost of all its components<ph class="- topic/ph " rev="Revised February 15, 2024">, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, but see paragraph (d) of this section.</ph> This test is applied to end products only and not to individual components.</p>
+         <p class="- topic/p " outputclass="List4">(B) For an end product that consists
             wholly or predominantly of iron or steel or a combination of both, the cost of iron and
             steel not produced in the United States or a qualifying country must constitute less
             than 5 percent of the cost of all the components used in the end product. The cost of
@@ -33,11 +24,27 @@ the United States; and</p>
             or a qualifying country, excluding commercially available off-the-shelf (COTS)
             fasteners. The domestic content test of the Buy American statute has not been waived for
             acquisitions of COTS items in this category, except for COTS fasteners.</p>
-         <p outputclass="List1" class="- topic/p ">(c) Additional exceptions that allow the
+         <p class="- topic/p " outputclass="List1">(c) Additional exceptions that allow the
 purchase of foreign end products are listed at <xref href="225.103.dita#DFARS_225.103"
                   base="DFARS-225.103"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">225.103</xref>.</p>
+         <p class="- topic/p " rev="Revised February 15, 2024"> (d)(1) In lieu of the threshold increases in FAR 25.101(a)(2)(i), use the domestic content threshold increases in paragraph (a)(ii) of this section. The senior procurement executive may approve application of an alternate domestic content test, under which the domestic content threshold in effect at the time of contract award will apply to the entire period of performance of the contract, following consultation with the Office of Management and Budget’s Made in America Office. See PGI 225.101 for guidance on documentation requirements when the senior procurement executive approves application of an alternate domestic content test. </p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised February 15, 2024">  (2) When the senior procurement executive allows for application of an alternate domestic content test for the contract pursuant to FAR 25.101(d)(1) (but see paragraph (d)(1) of this section)— </p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024">  (A) See 225.1101(2)(iv) for use of alternate II of the clause at 252.225-7001, Buy American and Balance of Payments Program; </p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024">  (B) See 225.1101(2)(v) for use of alternate III of the clause at 252.225-7001, Buy American and Balance of Payments Program; </p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024">  (C) See 225.1101(9) for use of the basic or alternate provision at 252.225-7035, Buy American—Free Trade Agreements—Balance of Payments Program Certificate, or the basic or alternate clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program; and </p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024">  (D) See 225.1101(10)(i) for use of the basic or alternate clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program. </p>
       </conbody>
    </concept>
 </dita>

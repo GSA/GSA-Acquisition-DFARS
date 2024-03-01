@@ -1,20 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<dita>
    <concept id="DFARS_PGI_204.804"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.804</ph> Closeout of contract files.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Data supporting contract closeout (e.g., DD Form 1594, Contract Completion Statement) are electronically transmitted throughout DoD. The Defense Logistics Manual, 4000.25 Volume 7, Contract Administration, Chapter 4, Contract Completion Status Reporting, available at http://www.dla.mil/j-6/dlmso/elibrary/manuals/dlm/dlm_pubs.asp, contains detailed instructions regarding closeout and electronic data transmission.</p>
-         <p class="- topic/p " outputclass="List2">(1) The administration office closeout date for file purposes will be the date in Block 9d of the DD Form 1594 or agency equivalent.</p>
-         <p class="- topic/p " outputclass="List2">(2) If the contracting office must do a major closeout action that will take longer than 3 months after the date shown in Block 9d of the DD Form 1594—</p>
-         <p class="- topic/p " outputclass="List3">(i) The purchasing office closeout date for file purposes will be the date in Block 10e of the DD Form 1594 or agency equivalent; and</p>
-         <p class="- topic/p " outputclass="List3">(ii) The contracting office shall notify the contract administration office of the revised closeout date by either sending a copy of the completed DD Form 1594 or by electronically transmitting the data.</p>
+         <p class="- topic/p "
+            rev="Revised February 15, 2024"
+            outputclass="List2">(1) Data supporting contract closeout (e.g., DD Form 1594, Contract Completion Statement) are electronically transmitted throughout DoD. Defense Logistics Manual 4000.25<ph class="- topic/ph " rev="Revised February 15, 2024">, Defense Logistics Management Standards (DLMS),</ph> Volume 7, Contract Administration, Chapter 4, Contract Completion Status Reporting, available at <xref href="https://www.dla.mil/Defense-Data-Standards/Publications/Vol-7-Administration/"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.dla.mil/Defense-Data-Standards/Publications/Vol-7-Administration/</xref>, contains detailed instructions regarding closeout and electronic data transmission.</p>
+         <p class="- topic/p "
+            rev="Revised February 15, 2024"
+            outputclass="List3">(i) The administration office closeout date for file purposes will be the date in Block 9d of the DD Form 1594 or agency equivalent.</p>
+         <p class="- topic/p "
+            rev="Revised February 15, 2024"
+            outputclass="List3"> (ii) If the contracting office must do a major closeout action that will take longer than 3 months after the date shown in Block 9d of the DD Form 1594—</p>
+         <p class="- topic/p "
+            rev="Revised February 15, 2024"
+            outputclass="List4"> (A) The purchasing office closeout date for file purposes will be the date in Block 10e of the DD Form 1594 or agency equivalent; and</p>
+         <p class="- topic/p "
+            rev="Revised February 15, 2024"
+            outputclass="List4"> (B) The contracting office shall notify the contract administration office of the revised closeout date by either sending a copy of the completed DD Form 1594 or by electronically transmitting the data.</p>
+         <p class="- topic/p "
+            rev="Revised February 15, 2024"
+            outputclass="List3"> (iii) Completion of block 10 is not required, when the contracting office accepts the closeout date in block 9d of the DD Form 1594 (or agency equivalent) and the contract completion statement is posted to the Electronic Data Access (EDA) system as required by PGI 204.804-2.</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised February 15, 2024"> (iv) Closeouts posted to EDA are considered part of the contract file and do not need to be duplicated in any other version of the contract file.</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised February 15, 2024"> (v) A contract modification is not needed to deobligate excess funds when block 5 is completed, and this deobligation will occur upon distribution of the contract completion statement. Send a notification and a copy of the contract completion statement to the comptroller to allow general ledger reconciliation.</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised February 15, 2024"> (vi) A contract qualifies for an automated closeout process if the contract—</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024"> (A) Only has firm-fixed-price line items;</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024"> (B) Does not exceed $500,000; and</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024"> (C) Does not include any of the following provision and clauses:</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">1</i>) FAR 52.211-11, Liquidated Damages—Supplies, Services, or Research and Development.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">2</i>) FAR 52.216-7, Allowable Cost and Payment.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">3</i>) FAR 52.227-9, Refund of Royalties.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">4</i>) FAR 52.227-11, Patent Rights—Ownership by the Contractor.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">5</i>) FAR 52.227-13, Patent Rights—Ownership by the Government.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">6</i>) FAR 52.232-16, Progress Payments.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">7</i>) FAR 52.232-29, Terms for Financing of Purchases of Commercial Products and Commercial Services.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">8</i>) FAR 52.232-30, Installment Payments for Commercial Products and Commercial Services.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">9</i>) FAR 52.232-32, Performance-Based Payments.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">10</i>) FAR 52.245-1, Government Property.</p>
+         <p class="- topic/p "
+            outputclass="List5"
+            rev="Revised February 15, 2024"> (<i class="+ topic/ph hi-d/i ">11</i>) FAR 52.248-1, Value Engineering.</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024"> (D) DoD components may add further limitations to ensure all contract requirements have been completed prior to closeout.</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised February 15, 2024"> (E) Basic ordering agreements, blanket purchase agreements, and indefinite-delivery contracts can be automatically closed using automated contract closeout procedures after all orders are closed and the ordering period has expired.</p>
          <p class="- topic/p " outputclass="List2"> 
              
                 (3)(iv)  
