@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.232-7005"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.232-7005</ph> Reimbursement of Subcontractor Advance Payments—DoD Pilot Mentor-Protege Program.</title>
+<dita>
+   <concept id="DFARS_252.232-7005" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised March 26, 2024"> 
+         <ph props="autonumber" class="- topic/ph ">252.232-7005</ph> Reimbursement of Subcontractor Advance Payments—DoD Mentor-Protégé Program.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
                <xref outputclass="fm:ParaNumOnly"
@@ -16,13 +12,15 @@
                   base="i1380109"
                   href="232.412-70.dita#DFARS_232.412-70">232.412-70</xref>
             (b), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">REIMBURSEMENT OF SUBCONTRACTOR ADVANCE PAYMENTS—DOD PILOT MENTOR-PROTEGE PROGRAM (SEP 2001)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  The Government will reimburse the Contractor for any advance payments made by the Contractor, as a mentor firm, to a protege firm, pursuant to an approved mentor-protege agreement, provided—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The Contractor’s subcontract with the protege firm includes a provision substantially the same as FAR 52.232-12, Advance Payments;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The Contractor has administered the advance payments in accordance with the policies of FAR Subpart 32.4; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The Contractor agrees that any financial loss resulting from the failure or inability of the protege firm to repay any unliquidated advance payments is the sole financial responsibility of the Contractor.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  For a fixed price type contract, advance payments made to a protege firm shall be paid and administered as if they were 100 percent progress payments.  The Contractor shall include as a separate attachment with each Standard Form (SF) 1443, Contractor’s Request for Progress Payment, a request for reimbursement of advance payments made to a protege firm.  The attachment shall provide a separate calculation of lines 14a through 14e of SF 1443 for each protege, reflecting the status of advance payments made to that protege.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  For cost reimbursable contracts, reimbursement of advance payments shall be made via public voucher.  The Contractor shall show the amounts of advance payments made to each protege on the public voucher, in the form and detail directed by the cognizant contracting officer or contract auditor.</p>
+         <p class="- topic/p "
+            outputclass="Ctr_SmCaps"
+            rev="Revised March 26, 2024">Reimbursement of Subcontractor Advance Payments—DoD Mentor-Protégé Program (MAR 2024)</p>
+         <p class="- topic/p " outputclass="List1">(a)  The Government will reimburse the Contractor for any advance payments made by the Contractor, as a mentor firm, to a protege firm, pursuant to an approved mentor-protege agreement, provided—</p>
+         <p class="- topic/p " outputclass="List2">(1)  The Contractor’s subcontract with the protege firm includes a provision substantially the same as FAR 52.232-12, Advance Payments;</p>
+         <p class="- topic/p " outputclass="List2">(2)  The Contractor has administered the advance payments in accordance with the policies of FAR Subpart 32.4; and</p>
+         <p class="- topic/p " outputclass="List2">(3)  The Contractor agrees that any financial loss resulting from the failure or inability of the protege firm to repay any unliquidated advance payments is the sole financial responsibility of the Contractor.</p>
+         <p class="- topic/p " outputclass="List1">(b)  For a fixed price type contract, advance payments made to a protege firm shall be paid and administered as if they were 100 percent progress payments.  The Contractor shall include as a separate attachment with each Standard Form (SF) 1443, Contractor’s Request for Progress Payment, a request for reimbursement of advance payments made to a protege firm.  The attachment shall provide a separate calculation of lines 14a through 14e of SF 1443 for each protege, reflecting the status of advance payments made to that protege.</p>
+         <p class="- topic/p " outputclass="List1">(c)  For cost reimbursable contracts, reimbursement of advance payments shall be made via public voucher.  The Contractor shall show the amounts of advance payments made to each protege on the public voucher, in the form and detail directed by the cognizant contracting officer or contract auditor.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>
