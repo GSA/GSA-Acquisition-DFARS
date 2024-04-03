@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_225.7017-3"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_225.7017-3" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.7017-3</ph> Exceptions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">DoD requires the contractor to utilize domestic photovoltaic
 devices in covered contracts that exceed the simplified acquisition
 threshold, with the following exceptions:</p>
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Qualifying country.</i>Qualifying
+         <p class="- topic/p " outputclass="List1">(a) <i class="+ topic/ph hi-d/i ">Qualifying country.</i>Qualifying
 country photovoltaic devices may be utilized in any covered contract,
 because <xref href="225.103.dita#DFARS_225.103"
                   base="DFARS-225.103"
@@ -24,25 +20,11 @@ countries, as defined in <xref href="225.003.dita#DFARS_225.003"
                   base="DFARS-225.003"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">225.003</xref> . </p>
-         <p outputclass="List1" class="- topic/p ">(b) Buy American—unreasonable cost. For
-a covered contract that utilizes photovoltaic devices valued at
-less than $183,000, the
-exception for unreasonable cost may apply (see FAR 25.103(c). If
-the cost of a foreign photovoltaic device plus 50 percent is less
-than the cost of a domestic photovoltaic device, then the foreign
-photovoltaic device may be utilized.</p>
-         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Trade agreements.</i>
+         <p class="- topic/p " outputclass="List1"> (b) <i class="+ topic/ph hi-d/i ">Buy American—unreasonable cost.</i> For a covered contract that utilizes photovoltaic devices valued at less than $<ph class="- topic/ph " rev="Revised March 26, 2024">174,000</ph>, the exception for unreasonable cost may apply (see FAR 25.103(c)<ph class="- topic/ph " rev="Revised March 26, 2024">)</ph>. If the cost of a foreign photovoltaic device plus 50 percent is less than the cost of a domestic photovoltaic device, then the foreign photovoltaic device may be utilized.</p>
+         <p class="- topic/p " outputclass="List1">(c) <i class="+ topic/ph hi-d/i ">Trade agreements.</i>
          </p>
-         <p outputclass="List2" class="- topic/p ">(1) Free Trade Agreements. For a covered
-contract that utilizes photovoltaic devices valued at $25,000 or
-more, photovoltaic devices may be utilized from a country covered
-under the acquisition by a Free Trade Agreement, depending upon
-dollar threshold (see FAR subpart 25.4).</p>
-         <p outputclass="List2" class="- topic/p ">(2) World Trade Organization—Government
-Procurement Agreement. For covered contracts that utilize photovoltaic devices
-that are valued at $183,000 or
-more, only U.S.-made photovoltaic devices, designated country photovoltaic devices,
-or qualifying country photovoltaic devices may be utilized.</p>
+         <p class="- topic/p " outputclass="List2"> (1) <i class="+ topic/ph hi-d/i ">Free Trade Agreements. </i>For a covered contract that utilizes photovoltaic devices , photovoltaic devices may be utilized from a country covered under the acquisition by a Free Trade Agreement, depending upon dollar threshold (see FAR subpart 25.4).</p>
+         <p class="- topic/p " outputclass="List2"> (2) <i class="+ topic/ph hi-d/i ">World Trade Organization—Government Procurement Agreement</i>. For covered contracts that utilize photovoltaic devices that are valued at $<ph class="- topic/ph " rev="Revised March 26, 2024">174,000</ph> or more, only U.S.-made photovoltaic devices, designated country photovoltaic devices, or qualifying country photovoltaic devices may be utilized.</p>
       </conbody>
    </concept>
 </dita>

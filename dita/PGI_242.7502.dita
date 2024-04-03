@@ -1,31 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+<dita>
    <concept id="DFARS_PGI_242.7502"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 242.7502</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(d)  <i class="+ topic/ph hi-d/i ">Disposition of findings</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  <i class="+ topic/ph hi-d/i ">Initial determination</i>. </p>
-         <p outputclass="List3" class="- topic/p ">(ii)(A)  Within 10 days of receiving the report, if the contracting officer makes a determination that there is a significant deficiency, the contracting officer should provide an initial determination of deficiencies and a copy of the report to the contractor and require the contractor to submit a written response.  </p>
-         <p outputclass="List4" class="- topic/p ">(C)  <i class="+ topic/ph hi-d/i ">Evaluation of contractor's response</i>.  Within 30 days of receiving the contractor’s response, the contracting officer, in consultation with the auditor or cognizant functional specialist, should evaluate the contractor’s response and make a final determination.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  <i class="+ topic/ph hi-d/i ">Final Determination</i>.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)(A)  <i class="+ topic/ph hi-d/i ">Monitoring contractor's corrective action</i>.  The auditor and the contracting officer shall monitor the contractor's progress in correcting deficiencies.  If the contractor fails to make adequate progress, the contracting officer shall take whatever action is necessary to ensure that the contractor corrects the deficiencies.  Examples of actions the contracting officer can take are:  disapproving the system; bringing the issue to the attention of higher level management; implementing or increasing the withholding in accordance with <xref outputclass="fm:ParaNumOnly"
+         <p class="- topic/p " outputclass="List1">(d)  <i class="+ topic/ph hi-d/i ">Disposition of findings</i>.</p>
+         <p class="- topic/p " outputclass="List2">(2)  <i class="+ topic/ph hi-d/i ">Initial determination</i>. </p>
+         <p class="- topic/p " outputclass="List3">(ii)(A) Within <ph class="- topic/ph " rev="Revised March 26, 2024">30</ph> days of receiving the report, if the contracting officer makes a determination that there is a significant deficiency, the contracting officer should provide an initial determination of deficiencies and a copy of the report to the contractor and require the contractor to submit a written response. </p>
+         <p class="- topic/p " outputclass="List4">(C)  <i class="+ topic/ph hi-d/i ">Evaluation of contractor's response</i>.  Within 30 days of receiving the contractor’s response, the contracting officer, in consultation with the auditor or cognizant functional specialist, should evaluate the contractor’s response and make a final determination.</p>
+         <p class="- topic/p " outputclass="List2">(3)  <i class="+ topic/ph hi-d/i ">Final Determination</i>.</p>
+         <p class="- topic/p " outputclass="List3">(ii)(A)  <i class="+ topic/ph hi-d/i ">Monitoring contractor's corrective action</i>.  The auditor and the contracting officer shall monitor the contractor's progress in correcting deficiencies.  If the contractor fails to make adequate progress, the contracting officer shall take whatever action is necessary to ensure that the contractor corrects the deficiencies.  Examples of actions the contracting officer can take are:  disapproving the system; bringing the issue to the attention of higher level management; implementing or increasing the withholding in accordance with <xref outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
                   base="DFARS-252.242-7005"
                   href="252.242-7005.dita#DFARS_252.242-7005">252.242-7005</xref>, Contractor Business Systems, if applicable; and recommending non-award of potential contracts. </p>
-         <p outputclass="List4" class="- topic/p ">(B)  <i class="+ topic/ph hi-d/i ">Correction of significant deficiencies</i>. </p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>)  When the contractor notifies the contracting officer that the contractor has corrected the significant deficiencies, the contracting officer shall request that the auditor review the correction to determine if the deficiencies have been resolved.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>)  The contracting officer shall determine if the contractor has corrected the deficiencies.</p>
-         <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>)  If the contracting officer determines the contractor has corrected the deficiencies, the contracting officer's notification shall be sent to the auditor; payment office; appropriate action officers responsible for reporting past performance at the requiring activities; and each contracting and contract administration office having substantial business with the contractor as applicable.</p>
-         <p outputclass="List1" class="- topic/p ">(g)  Mitigating the risk of accounting system deficiencies on specific proposals.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  In the event that a contractor’s accounting system contains deficiencies, even if it has been disapproved, a cost reimbursement contract is not prohibited if the contracting officer determines that the contractor’s accounting system is adequate for determining costs applicable to the contract or order.</p>
+         <p class="- topic/p " outputclass="List4">(B)  <i class="+ topic/ph hi-d/i ">Correction of significant deficiencies</i>. </p>
+         <p class="- topic/p " outputclass="List6">(<i class="+ topic/ph hi-d/i ">1</i>)  When the contractor notifies the contracting officer that the contractor has corrected the significant deficiencies, the contracting officer shall request that the auditor review the correction to determine if the deficiencies have been resolved.</p>
+         <p class="- topic/p " outputclass="List6">(<i class="+ topic/ph hi-d/i ">2</i>)  The contracting officer shall determine if the contractor has corrected the deficiencies.</p>
+         <p class="- topic/p " outputclass="List6">(<i class="+ topic/ph hi-d/i ">3</i>)  If the contracting officer determines the contractor has corrected the deficiencies, the contracting officer's notification shall be sent to the auditor; payment office; appropriate action officers responsible for reporting past performance at the requiring activities; and each contracting and contract administration office having substantial business with the contractor as applicable.</p>
+         <p class="- topic/p " outputclass="List1">(g)  Mitigating the risk of accounting system deficiencies on specific proposals.</p>
+         <p class="- topic/p " outputclass="List2">(2)  In the event that a contractor’s accounting system contains deficiencies, even if it has been disapproved, a cost reimbursement contract is not prohibited if the contracting officer determines that the contractor’s accounting system is adequate for determining costs applicable to the contract or order.</p>
       </conbody>
    </concept>
 </dita>
