@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_PGI_239.7603-1"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 239.7603-1</ph> General.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) When the apparently successful
+offeror indicates in the provision at DFARS <xref href="252.239-7009.dita#DFARS_252.239-7009"
+                  base="DFARS-252.239-7009"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.239-7009</xref> that
+cloud computing services will be used in the performance of the
+contract, the contracting officer shall review the DoD Cloud Service
+Catalog at http://www.disa.mil/Computing/Cloud-Services/Cloud-Support
+(look under the “Additional Information” tab for “Service Catalog”)
+to verify that the cloud service provider’s offering to be used
+in the performance of the contract has a provisional authorization
+prior to award (see DFARS <xref href="239.7602-1.dita#DFARS_239.7602-1"
+                  base="DFARS-239.7602-1"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">239.7602-1</xref>(b)).</p>
+         <p outputclass="List1" class="- topic/p ">(b) When the contractor indicated in the
+provision at DFARS <xref href="252.239-7009.dita#DFARS_252.239-7009"
+                  base="DFARS-252.239-7009"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.239-7009</xref> that
+it did not anticipate the use of cloud computing services in the
+performance of the contract and requests, after award, in accordance
+with the clause at DFARS <xref href="252.239-7010.dita#DFARS_252.239-7010"
+                  base="DFARS-252.239-7010"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.239-7010</xref>(b)(1),
+that the contracting officer approve the use of cloud computing
+services in the performance of the contract, the contracting officer
+shall—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Request approval from the requiring
+activity for the contractor to use cloud computing services; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) If the requiring activity provides
+approval, review the DoD Cloud Service Catalog at http://www.disa.mil/Computing/Cloud-Services/Cloud-Support
+(look under the “Additional Information” tab for “Service Catalog”)
+to verify that the cloud service provider’s offering to be used
+in the performance of the contract has a provisional authorization
+(see DFARS <xref href="239.7602-1.dita#DFARS_239.7602-1"
+                  base="DFARS-239.7602-1"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">239.7602-1</xref>(b)).</p>
+      </conbody>
+   </concept>
+</dita>
