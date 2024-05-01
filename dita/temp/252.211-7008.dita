@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS_252.211-7008"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">252.211-7008</ph> Use of Government-Assigned Serial Numbers</title>
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As prescribed in <xref href="211.274-5.dita#DFARS_211.274-5"
+                  base="i1377938"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">211.274-5</xref> (b), use the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">USE OF GOVERNMENT-ASSIGNED SERIAL
+NUMBERS (SEP 2010)</p>
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this
+clause—</p>
+         <p class="- topic/p ">“Government-assigned serial number” means a combination of letters
+or numerals in a fixed human-readable information format (text)
+conveying information about a major end item, which is provided
+to a contractor by the requiring activity with accompanying technical
+data instructions for marking the Government-assigned serial number
+on major end items to be delivered to the Government.</p>
+         <p class="- topic/p ">“Major end item” means a final combination of component parts
+and/or materials which is ready for its intended use and of such
+importance to operational readiness that review and control of inventory
+management functions (procurement, distribution, maintenance, disposal,
+and asset reporting) is required at all levels of life cycle management.
+Major end items include aircraft; ships; boats; motorized wheeled,
+tracked, and towed vehicles for use on highway or rough terrain;
+weapon and missile end items; ammunition; and sets, assemblies,
+or end items having a major end item as a component.</p>
+         <p class="- topic/p ">“Unique item identifier (UII)” means a set of data elements permanently
+marked on an item that is globally unique and unambiguous and never
+changes in order to provide traceability of the item throughout
+its total life cycle. The term includes a concatenated UII or a
+DoD-recognized unique identification equivalent.</p>
+         <p outputclass="List1" class="- topic/p ">(b) The Contractor shall mark the Government-assigned
+serial numbers on those major end items as specified by line item in
+the Schedule, in accordance with the technical instructions for
+the placement and method of application identified in the terms
+and conditions of the contract.</p>
+         <p outputclass="List1" class="- topic/p ">(c) The Contractor shall register the Government-assigned
+serial number along with the major end item’s UII at the time of delivery
+in accordance with the provisions of the clause at DFARS <xref href="252.211-7003.dita#DFARS_252.211-7003"
+                  base="i1381238"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">252.211-7003</xref> (d).</p>
+         <p outputclass="List1" class="- topic/p ">(d) The Contractor shall establish the
+UII for major end items for use throughout the life of the major
+end item. The Contractor may elect, but is not required, to use
+the Government-assigned serial number to construct the UII.</p>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

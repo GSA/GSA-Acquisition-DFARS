@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="DFARS_252.204-7020"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">252.204-7020</ph> NIST SP 800-171DoD Assessment Requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="xsQYda" class="- topic/p ">As prescribed in <xref href="204.7304.dita#DFARS_204.7304"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">204.7304</xref> (e),
+use the following clause:</p>
+         <p id="ZAudzo" outputclass="Ctr_SmCaps" class="- topic/p ">NIST SP 800-171 DOD ASSESSMENT
+            REQUIREMENTS (NOV 2023)</p>
+         <p class="- topic/p " outputclass="List1" id="GQDFPS">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>.</p>
+         <p id="PtBODa" class="- topic/p ">Basic Assessment” means a contractor’s self-assessment
+of the contractor’s implementation of NIST SP 800-171 that—</p>
+         <p class="- topic/p " outputclass="List2" id="RoQSvL">(1) Is based on the Contractor’s
+review of their system security plan(s) associated with covered
+contractor information system(s);</p>
+         <p class="- topic/p " outputclass="List2" id="ZtLORt">(2) Is conducted in accordance
+with the NIST SP 800-171 DoD Assessment Methodology; and</p>
+         <p class="- topic/p " outputclass="List2" id="CXzQTb">(3) Results in a confidence
+level of “Low” in the resulting score, because it is a self-generated
+score.</p>
+         <p id="UOnjLF" class="- topic/p ">“Covered contractor information system” has the
+meaning given in the clause 252.204-7012, Safeguarding Covered Defense Information
+and Cyber Incident Reporting, of this contract.</p>
+         <p id="jpRpDL" class="- topic/p ">“High Assessment” means an assessment that is conducted
+by Government personnel using NIST SP 800-171A, Assessing Security
+Requirements for Controlled Unclassified Information that—</p>
+         <p class="- topic/p " outputclass="List2" id="GGiKTR">(1) Consists of—</p>
+         <p class="- topic/p " outputclass="List3" id="xGxLyN">(i) A review of a contractor’s
+Basic Assessment;</p>
+         <p class="- topic/p " outputclass="List3" id="sCiLVK">(ii) A thorough document
+review;</p>
+         <p class="- topic/p " outputclass="List3" id="RvnefH">(iii) Verification, examination,
+and demonstration of a Contractor’s system security plan to validate
+that NIST SP 800-171 security requirements have been implemented
+as described in the contractor’s system security plan; and</p>
+         <p class="- topic/p " outputclass="List3" id="ApKZCt">(iv) Discussions with the
+contractor to obtain additional information or clarification, as
+needed; and</p>
+         <p class="- topic/p " outputclass="List2" id="OQBpkG">(2) Results in a confidence
+level of “High” in the resulting score.</p>
+         <p id="tqyWrE" class="- topic/p ">“Medium Assessment” means an assessment conducted
+by the Government that—</p>
+         <p class="- topic/p " outputclass="List2" id="qkfCiK">(1) Consists of—</p>
+         <p class="- topic/p " outputclass="List3" id="jLVzpc">(i) A review of a contractor’s
+Basic Assessment;</p>
+         <p class="- topic/p " outputclass="List3" id="xhCLqh">(ii) A thorough document
+review; and</p>
+         <p class="- topic/p " outputclass="List3" id="HTgZQM">(iii) Discussions with the
+contractor to obtain additional information or clarification, as
+needed; and</p>
+         <p class="- topic/p " outputclass="List2" id="CYFJZC">(2) Results in a confidence
+level of “Medium” in the resulting score.</p>
+         <p class="- topic/p " outputclass="List1" id="QTIBEr">(b) <i class="+ topic/ph hi-d/i ">Applicability</i>.
+This clause applies to covered contractor information systems that
+are required to comply with the National Institute of Standards
+and Technology (NIST) Special Publication (SP) 800-171, in accordance
+with Defense Federal Acquisition Regulation System (DFARS) clause
+at 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident
+Reporting, of this contract.</p>
+         <p class="- topic/p " outputclass="List1"> (c)
+            <i class="+ topic/ph hi-d/i ">Requirements.</i>
+             The Contractor shall provide access to its facilities, systems, and
+            personnel necessary for the Government to conduct a Medium or High
+            NIST SP 800–171 DoD Assessment, as described in NIST SP 800–171 DoD
+            Assessment Methodology at
+            <i class="+ topic/ph hi-d/i "/>
+            
+            https://www.acq.osd.mil/asda/dpc/cp/cyber/docs/safeguarding/NIST-SP-800-171-Assessment-Methodology-Version-1.2.1-6.24.2020.pdf
+            , if necessary.</p>
+         <p class="- topic/p " outputclass="List1" id="jsKokg">(d) <i class="+ topic/ph hi-d/i ">Procedures</i>. Summary
+level scores for all assessments will be posted in the Supplier
+Performance Risk System (SPRS) () to provide DoD Components visibility
+into the summary level scores of strategic assessments.</p>
+         <p class="- topic/p " outputclass="List2" id="DPVfpM">(1) <i class="+ topic/ph hi-d/i ">Basic Assessments</i>.
+A contractor may submit, via encrypted email, summary level scores
+of Basic Assessments conducted in accordance with the NIST SP 800-171
+DoD Assessment Methodology to for posting to SPRS.</p>
+         <p class="- topic/p " outputclass="List3" id="oTPcKO">(i) The email shall include
+the following information:</p>
+         <p class="- topic/p " outputclass="List4" id="sBIsws">(A) Version of NIST SP 800-171
+against which the assessment was conducted.</p>
+         <p class="- topic/p " outputclass="List4" id="MhyOiq">(B) Organization conducting
+the assessment (e.g., Contractor self-assessment).</p>
+         <p class="- topic/p " outputclass="List4" id="fHaUwY">(C) For each system security
+plan (security requirement 3.12.4) supporting the performance of
+a DoD contract—</p>
+         <p class="- topic/p " outputclass="List6" id="TxnZQM">(<i class="+ topic/ph hi-d/i ">1</i>) All industry Commercial
+and Government Entity (CAGE) code(s) associated with the information
+system(s) addressed by the system security plan; and</p>
+         <p class="- topic/p " outputclass="List6" id="dcjAMD">(<i class="+ topic/ph hi-d/i ">2</i>) A brief description
+of the system security plan architecture, if more than one plan
+exists.</p>
+         <p class="- topic/p " outputclass="List4" id="AjVQHK">(D) Date the assessment was
+completed.</p>
+         <p class="- topic/p " outputclass="List4" id="qIXWpb">(E) Summary level score (e.g.,
+95 out of 110, NOT the individual value for each requirement).</p>
+         <p class="- topic/p " outputclass="List4" id="arMtBS">(F) Date that all requirements
+are expected to be implemented (i.e., a score of 110 is expected
+to be achieved) based on information gathered from associated plan(s)
+of action developed in accordance with NIST SP 800-171.</p>
+         <p class="- topic/p " outputclass="List3" id="GjJMJw">(ii) If multiple system security
+plans are addressed in the email described at paragraph (b)(1)(i)
+of this section, the Contractor shall use the following format for
+the report:</p>
+         <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+            <tgroup cols="6"
+                    colsep="1"
+                    rowsep="0"
+                    outputclass="Choice"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p id="dzNYpE" class="- topic/p ">System Security Plan</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p id="LzzlQY" class="- topic/p ">CAGE Codes supported by this
+plan</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p id="KBDsfs" class="- topic/p ">Brief description of the plan
+architecture</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p id="ctbgcK" class="- topic/p ">Date of assessment</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p id="eXNQrU" class="- topic/p ">Total Score</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p id="gaVxUA" class="- topic/p ">Date score of 110 will achieved</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "/>
+                     <entry colname="2" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry "/>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "/>
+                     <entry colname="2" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry "/>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "/>
+                     <entry colname="2" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry "/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p class="- topic/p " outputclass="List2" id="ORGaeD">(2) Medium and High Assessments.
+DoD will post the following Medium and/or High Assessment summary
+level scores to SPRS for each system security plan assessed:</p>
+         <p class="- topic/p " outputclass="List3" id="RwUqNd">(i) The standard assessed
+(e.g., NIST SP 800-171 Rev 1).</p>
+         <p class="- topic/p " outputclass="List3" id="AfcpPV">(ii) Organization conducting
+the assessment, e.g., DCMA, or a specific organization (identified
+by Department of Defense Activity Address Code (DoDAAC)).</p>
+         <p class="- topic/p " outputclass="List3" id="ewPkhF">(iii) All industry CAGE code(s)
+associated with the information system(s) addressed by the system
+security plan.</p>
+         <p class="- topic/p " outputclass="List3" id="OkClEw">(iv) A brief description
+of the system security plan architecture, if more than one system
+security plan exists.</p>
+         <p class="- topic/p " outputclass="List3" id="npZshF">(v) Date and level of the
+assessment, i.e., medium or high.</p>
+         <p class="- topic/p " outputclass="List3" id="DsPPbI">(vi) Summary level score
+(e.g., 105 out of 110, not the individual value assigned for each
+requirement).</p>
+         <p class="- topic/p " outputclass="List3" id="rKNYPS">(vii) Date that all requirements
+are expected to be implemented (i.e., a score of 110 is expected
+to be achieved) based on information gathered from associated plan(s)
+of action developed in accordance with NIST SP 800-171.</p>
+         <p class="- topic/p " outputclass="List1" id="PWHykY">(e) <i class="+ topic/ph hi-d/i ">Rebuttals</i>.</p>
+         <p class="- topic/p " outputclass="List2" id="eyRxPT">(1) DoD will provide Medium
+and High Assessment summary level scores to the Contractor and offer
+the opportunity for rebuttal and adjudication of assessment summary
+level scores prior to posting the summary level scores to SPRS (see SPRS
+User’s Guide <xref href="https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf"
+                  format="pdf"
+                  scope="external"
+                  class="- topic/xref ">https://www.sprs.csd.disa.mil/pdf/SPRS_Awardee.pdf</xref>).</p>
+         <p class="- topic/p " outputclass="List2" id="rkJedD">(2) Upon completion of each
+assessment, the contractor has 14 business days to provide additional
+information to demonstrate that they meet any security requirements
+not observed by the assessment team or to rebut the findings that
+may be of question.</p>
+         <p class="- topic/p " outputclass="List1" id="UNzNkI">(f) <i class="+ topic/ph hi-d/i ">Accessibility</i>.</p>
+         <p class="- topic/p " outputclass="List2" id="FzILDU">(1) Assessment summary level
+scores posted in SPRS are available to DoD personnel, and are protected,
+in accordance with the standards set forth in DoD Instruction 5000.79,
+Defense-wide Sharing and Use of Supplier and Product Performance
+Information (PI).</p>
+         <p class="- topic/p " outputclass="List2" id="MGExdL">(2) Authorized representatives
+of the Contractor for which the assessment was conducted may access
+SPRS to view their own summary level scores, in accordance with
+the SPRS Software User’s Guide for Awardees/Contractors available
+at .</p>
+         <p class="- topic/p " outputclass="List2" id="qPRJoL">(3) A High NIST SP 800-171
+DoD Assessment may result in documentation in addition to that listed
+in this clause. DoD will retain and protect any such documentation
+as “Controlled Unclassified Information (CUI)” and intended for
+internal DoD use only. The information will be protected against
+unauthorized use and release, including through the exercise of
+applicable exemptions under the Freedom of Information Act (e.g.,
+Exemption 4 covers trade secrets and commercial or financial information
+obtained from a contractor that is privileged or confidential).</p>
+         <p class="- topic/p " outputclass="List1" id="yzPquI">(g) Subcontracts.</p>
+         <p class="- topic/p " outputclass="List2" id="DypeeC">(1) The Contractor shall insert the substance of this clause, including this paragraph (g), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services (excluding commercially available off-the-shelf).</p>
+         <p class="- topic/p " outputclass="List2">(2) The Contractor shall not award a subcontract
+            or other contractual instrument, that is subject to the
+            implementation of NIST SP 800–171 security requirements, in
+            accordance with DFARS clause 252.204–7012 of this contract, unless
+            the subcontractor has completed, within the last 3 years, at least a
+            Basic NIST SP 800–171 DoD Assessment, as described in
+            <i class="+ topic/ph hi-d/i "/>
+            
+            https://www.acq.osd.mil/asda/dpc/cp/cyber/docs/safeguarding/NIST-SP-800-171-Assessment-Methodology-Version-1.2.1-6.24.2020.pdf 
+            , for all covered contractor information systems relevant to its
+            offer that are not part of an information technology service or
+            system operated on behalf of the Government.</p>
+         <p class="- topic/p " outputclass="List2" id="QBUmNM">(3) If a subcontractor does
+not have summary level scores of a current NIST SP 800-171 DoD Assessment
+(i.e., not more than 3 years old unless a lesser time is specified
+in the solicitation) posted in SPRS, the subcontractor may conduct
+and submit a Basic Assessment, in accordance with the NIST SP 800-171
+DoD Assessment Methodology, to <xref href="mailto:webptsmh@navy.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">mailto:webptsmh@navy.mil</xref> for
+posting to SPRS along with the information required by paragraph
+(d) of this clause.</p>
+         <p id="xCHzLY" outputclass="Ctr" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

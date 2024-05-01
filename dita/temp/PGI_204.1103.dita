@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_204.1103"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 204.1103</ph> Procedures.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">The System for Award Management (SAM) website at http://www.acquisition.gov/ provides useful documents and on-line training to assist with SAM navigation and data entry. User Guides and Demonstration Videos can be found in the User Help section after clicking the HELP link at the top of the website homepage. The former Central Contractor Registration and Online Representations and Certifications Application data can be located in the Entity Management area of SAM which can be accessed by navigating the following path after logging into the SAM website. Select Tab - MYSAM, Tab - Data Access and Tab - Entity Management</p>
+         <p outputclass="List3" class="- topic/p ">(i) Use the SAM database as the primary source of contractor information for contract award and administration, to include supporting contract writing, management, and administration systems. Do not request or use contractor information from other sources, unless another source is specifically authorized. At a minimum, supporting systems shall use the SAM database as the authoritative source for the following data elements, as applicable by system, when SAM is required in accordance with FAR Subpart 4.11:</p>
+         <p outputclass="List4" class="- topic/p ">(A) Data Universal Number System (DUNS) Number.</p>
+         <p outputclass="List4" class="- topic/p ">(B) DUNS+4 Number.</p>
+         <p outputclass="List4" class="- topic/p ">(C) Commercial and Government Entity (CAGE) Code.</p>
+         <p outputclass="List4" class="- topic/p ">(D) Taxpayer Identification Number (TIN).</p>
+         <p outputclass="List4" class="- topic/p ">(E) Legal Business Name.</p>
+         <p outputclass="List4" class="- topic/p ">(F) Doing Business As (DBA) Name.</p>
+         <p outputclass="List4" class="- topic/p ">(G) Physical Address.</p>
+         <p outputclass="List4" class="- topic/p ">(H) Mailing Address.</p>
+         <p outputclass="List4" class="- topic/p ">(I) Electronic Funds Transfer (EFT) information (includes American Banking Association (ABA) Routing Number, Account Number, and Account Type).</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Ensure that SAM non-disclosure requirements regarding TIN and EFT information are followed. </p>
+      </conbody>
+   </concept>
+</dita>
