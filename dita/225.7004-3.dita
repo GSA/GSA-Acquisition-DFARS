@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_225.7004-3"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
+<dita>
+   <concept id="DFARS_225.7004-3" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised May 30, 2024"> 
          <ph props="autonumber" class="- topic/ph ">225.7004-3</ph> Exceptions.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">This restriction does not apply in any of the following circumstances:</p>
-         <p class="- topic/p " outputclass="List1"> (a) Buses manufactured outside the United States, Australia, Canada, New Zealand,  or the United Kingdom are needed for temporary use because buses manufactured in the United States, Australia, Canada, New Zealand, or the United Kingdom are not available to satisfy requirements that cannot be postponed. Such use may not, however, exceed the lead time required for acquisition and delivery of buses manufactured in the United States, Australia, Canada, New Zealand,  or the United Kingdom.</p>
-         <p class="- topic/p " outputclass="List1">(b)  The requirement for buses is temporary in nature.  For example, to meet a special, nonrecurring requirement or a sporadic and infrequent recurring requirement, buses manufactured outside the United States, Australia, Canada, or the United Kingdom may be used for temporary periods of time.  Such use may not, however, exceed the period of time needed to meet the special requirement.</p>
-         <p class="- topic/p " outputclass="List1">(c)  Buses manufactured outside the United States, Australia, Canada, or the United Kingdom are available at no cost to the U.S. Government.</p>
-         <p class="- topic/p " outputclass="List1">(d)  The acquisition is for an amount at or below the simplified acquisition threshold.</p>
+         <p class="- topic/p " outputclass="List1" rev="Revised May 30, 2024">(a) Contracts under the simplified acquisition threshold. The restrictions at <xref outputclass="fm:ParaNumOnly"
+                  href="225.7004-2.dita#DFARS_225.7004-2"
+                  base="DFARS-225.7004-2"
+                  xtrc="225.7004-2"
+                  class="- topic/xref ">225.7004-2</xref> do not apply to a contract or subcontract that does not exceed the simplified acquisition threshold.</p>
+         <p class="- topic/p " outputclass="List1" rev="Revised May 30, 2024"> (b) Buses. The restriction at <xref outputclass="fm:ParaNumOnly"
+                  href="225.7004-2.dita#DFARS_225.7004-2"
+                  base="DFARS-225.7004-2"
+                  xtrc="225.7004-2"
+                  class="- topic/xref ">225.7004-2</xref>(a) does not apply in the following circumstances:</p>
+         <p class="- topic/p " outputclass="List2" rev="Revised May 30, 2024"> (1) Buses manufactured outside the national technology and industrial base are needed for temporary use because buses manufactured in the national technology and industrial base are not available to satisfy requirements that cannot be postponed. Such use may not, however, exceed the lead time required for acquisition and delivery of buses manufactured in the national technology and industrial base.</p>
+         <p class="- topic/p " outputclass="List2" rev="Revised May 30, 2024"> (2) The requirement for buses is temporary in nature. For example, to meet a special, nonrecurring requirement or a sporadic and infrequent recurring requirement, buses manufactured outside the national technology and industrial base may be used for temporary periods of time. Such use may not however, exceed the period of time needed to meet the special requirement.</p>
+         <p class="- topic/p " outputclass="List2" rev="Revised May 30, 2024"> (3) Buses manufactured outside the national technology and industrial base are available at no cost to the U.S. Government.</p>
+         <p class="- topic/p " outputclass="List1" rev="Revised May 30, 2024"> (c) Components for naval vessels. The restriction at <xref outputclass="fm:ParaNumOnly"
+                  href="225.7004-2.dita#DFARS_225.7004-2"
+                  base="DFARS-225.7004-2"
+                  xtrc="225.7004-2"
+                  class="- topic/xref ">225.7004-2</xref>(b) does not apply to acquisition of spare or repair parts needed to support components for naval vessels manufactured outside the United States. Support includes the purchase of spare gyrocompasses, electronic navigation chart systems, steering controls, propulsion and machinery control systems, totally enclosed lifeboats, and welded shipboard anchor and mooring chain.</p>
+         <p class="- topic/p " outputclass="List1" rev="Revised May 30, 2024"> (d) Components for auxiliary ships. The restriction at <xref outputclass="fm:ParaNumOnly"
+                  href="225.7004-2.dita#DFARS_225.7004-2"
+                  base="DFARS-225.7004-2"
+                  xtrc="225.7004-2"
+                  class="- topic/xref ">225.7004-2</xref>(c) does not apply to large medium-speed engines for icebreakers or special mission ships.</p>
+         <p class="- topic/p " outputclass="List1" rev="Revised May 30, 2024"> (e) Star trackers. The restriction at <xref outputclass="fm:ParaNumOnly"
+                  href="225.7004-2.dita#DFARS_225.7004-2"
+                  base="DFARS-225.7004-2"
+                  xtrc="225.7004-2"
+                  class="- topic/xref ">225.7004-2</xref>(e) does not apply to acquisition programs that have received Milestone A approval as defined in 10 U.S.C. 4211 before October 1, 2021, as documented by the requiring activity official performing program management responsibilities. The contracting officer shall include the Milestone A approval documentation in the contract file.</p>
       </conbody>
    </concept>
 </dita>
