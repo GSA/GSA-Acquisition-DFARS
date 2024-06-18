@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_225.7004-1"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.7004-1</ph> Restriction.</title>
+<dita>
+   <concept id="DFARS_225.7004-1" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised May 30, 2024">
+         <ph props="autonumber" class="- topic/ph ">225.7004-1</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p>In accordance with 10 U.S.C. 4864, do not acquire a multipassenger motor vehicle (bus) unless it is manufactured in the United States, Australia, Canada, New Zealand, or the United Kingdom of Great Britain and Northern Ireland (United Kingdom).</p>
+         <p class="- topic/p " rev="Revised May 30, 2024">As used in this section—</p>
+         <p class="- topic/p " rev="Revised May 30, 2024"> “National technology and industrial base” means the persons and organizations that are engaged in production activities conducted within the United States, Australia, Canada, New Zealand, and the United Kingdom of Great Britain and Northern Ireland (United Kingdom). (10 U.S.C. 4801)</p>
+         <p class="- topic/p " rev="Revised May 30, 2024"> “Star tracker” means a navigational tool used in a satellite weighing more than 400 pounds whose principal purpose is to support the national security, defense, or intelligence needs of the U.S. Government.</p>
       </conbody>
    </concept>
 </dita>

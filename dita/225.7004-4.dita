@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_225.7004-4"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.7004-4</ph> Waiver.</title>
+<dita>
+   <concept id="DFARS_225.7004-4" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised May 30, 2024"> 
+         <ph props="autonumber" class="- topic/ph ">225.7004-4</ph> Implementation of restriction on certain naval vessel components.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">The waiver criteria at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-225.7008"
-                  href="225.7008.dita#DFARS_225.7008">225.7008</xref>
-            (a) apply to this restriction.</p>
+         <p class="- topic/p " outputclass="List1" rev="Revised May 30, 2024">(a) The statute at 10 U.S.C. 4864(h) prohibits the use of contract clauses or certifications to implement the restriction at <xref outputclass="fm:ParaNumOnly"
+                  href="225.7004-2.dita#DFARS_225.7004-2"
+                  base="DFARS-225.7004-2"
+                  xtrc="225.7004-2"
+                  class="- topic/xref ">225.7004-2</xref>(b) for naval vessel components. </p>
+         <p class="- topic/p " outputclass="List1" rev="Revised May 30, 2024">(b) Agencies shall accomplish implementation of the restriction at <xref outputclass="fm:ParaNumOnly"
+                  href="225.7004-2.dita#DFARS_225.7004-2"
+                  base="DFARS-225.7004-2"
+                  xtrc="225.7004-2"
+                  class="- topic/xref ">225.7004-2</xref>(b) through use of management and oversight techniques that achieve the objectives of this section without imposing a significant management burden on the Government or the contractor involved. </p>
       </conbody>
    </concept>
 </dita>
