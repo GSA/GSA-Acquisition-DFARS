@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars" rev="Revised May 30, 2024">
+<map title="DFARS" outputclass="dfars" rev="Revised August 15, 2024">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -8353,7 +8353,7 @@
                    xtrc=""
                    tables="0"
                    figures="0">
-            <topicref navtitle="Subpart 223.1 - Reserved"
+            <topicref navtitle="Subpart 223.1 - SUSTAINABLE PRODUCTS AND SERVICES"
                       base="NoTitle"
                       href="SUBPART_223.1.dita"
                       props="Subpart 223.1"
@@ -8362,7 +8362,37 @@
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_223.1.html"
                       tables="0"
-                      figures="0"/>
+                      figures="0">
+               <topicref href="223.107.dita"
+                         navtitle="223.107 Reserved."
+                         outputclass="subtopic"
+                         props="223.107 Reserved."
+                         audience="DFARS_223_107"
+                         xtrc="DFARS_223_107.html"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0">
+                  <topicref href="223.107-1.dita"
+                            navtitle="223.107-1 Products containing recovered materials."
+                            outputclass="subtopic"
+                            props="223.107-1"
+                            audience="DFARS_223_107_1"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="223.107-4.dita"
+                            navtitle="223.107-4 Products that contain, use, or are manufactured with ozone-depleting substances or products that contain or use high global warming potential hydrofluorocarbons."
+                            outputclass="subtopic"
+                            props="223.107-4"
+                            audience="DFARS_223_107_4"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 223.2 - ENERGY AND WATER EFFICIENCY AND RENEWABLE ENERGY"
                       base="NoTitle"
                       href="SUBPART_223.2.dita"
@@ -8383,7 +8413,7 @@
                       xtrc="DFARS_SUBPART_223.3.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="223.302 Policy."
+               <topicref navtitle="223.302 Hazardous material identification and notice of material safety data."
                          base="concept"
                          href="223.302.dita"
                          props="223.302"
@@ -8393,14 +8423,14 @@
                          xtrc="DFARS_223.302.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="223.303 Contract clause."
+               <topicref navtitle="223.304 Contract clause."
                          base="concept"
-                         href="223.303.dita"
-                         props="223.303"
+                         href="223.304.dita"
+                         props="223.304"
                          outputclass="subtopic"
-                         audience="DFARS_223.303"
+                         audience="DFARS_223.304"
                          xtrf="subtopic"
-                         xtrc="DFARS_223.303.html"
+                         xtrc="DFARS_223.304.html"
                          tables="0"
                          figures="0"/>
                <topicref navtitle="223.370 Safety precautions for ammunition and explosives."
@@ -8465,7 +8495,7 @@
                             figures="0"/>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 223.4 - USE OF RECOVERED MATERIALS AND BIOBASED PRODUCTS"
+            <topicref navtitle="Subpart 223.4 - Reserved"
                       base="NoTitle"
                       href="SUBPART_223.4.dita"
                       props="Subpart 223.4"
@@ -8474,19 +8504,8 @@
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_223.4.html"
                       tables="0"
-                      figures="0">
-               <topicref navtitle="223.405 Procedures."
-                         base="concept"
-                         href="223.405.dita"
-                         props="223.405"
-                         outputclass="subtopic"
-                         audience="DFARS_223.405"
-                         xtrf="subtopic"
-                         xtrc="DFARS_223.405.html"
-                         tables="0"
-                         figures="0"/>
-            </topicref>
-            <topicref navtitle="Subpart 223.5 - DRUG-FREE WORKPLACE"
+                      figures="0"/>
+            <topicref navtitle="Subpart 223.5 - Reserved"
                       base="NoTitle"
                       href="SUBPART_223.5.dita"
                       props="Subpart 223.5"
@@ -8495,39 +8514,7 @@
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_223.5.html"
                       tables="0"
-                      figures="0">
-               <topicref navtitle="223.570 Drug-free work force."
-                         base="concept"
-                         href="223.570.dita"
-                         props="223.570"
-                         outputclass="subtopic"
-                         audience="DFARS_223.570"
-                         xtrf="subtopic"
-                         xtrc="DFARS_223.570.html"
-                         tables="0"
-                         figures="0">
-                  <topicref navtitle="223.570-1 Policy."
-                            base="concept"
-                            href="223.570-1.dita"
-                            props="223.570-1"
-                            outputclass="subtopic"
-                            audience="DFARS_223.570-1"
-                            xtrf="subtopic"
-                            xtrc=""
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="223.570-2 Contract clause."
-                            base="concept"
-                            href="223.570-2.dita"
-                            props="223.570-2"
-                            outputclass="subtopic"
-                            audience="DFARS_223.570-2"
-                            xtrf="subtopic"
-                            xtrc=""
-                            tables="0"
-                            figures="0"/>
-               </topicref>
-            </topicref>
+                      figures="0"/>
             <topicref navtitle="Subpart 223.7 - CONTRACTING FOR ENVIRONMENTALLY PREFERABLE PRODUCTS AND SERVICES"
                       base="NoTitle"
                       href="SUBPART_223.7.dita"
@@ -8538,27 +8525,6 @@
                       xtrc="DFARS_SUBPART_223.7.html"
                       tables="0"
                       figures="0"/>
-            <topicref navtitle="Subpart 223.8 - OZONE-DEPLETING SUBSTANCES AND GREENHOUSE GASES"
-                      base="NoTitle"
-                      href="SUBPART_223.8.dita"
-                      props="Subpart 223.8"
-                      outputclass="SubPart"
-                      audience="DFARS_SUBPART_223.8"
-                      xtrf="SubPart"
-                      xtrc="DFARS_SUBPART_223.8.html"
-                      tables="0"
-                      figures="0">
-               <topicref navtitle="223.802 Policy."
-                         base="concept"
-                         href="223.802.dita"
-                         props="223.802"
-                         outputclass="subtopic"
-                         audience="DFARS_223.802"
-                         xtrf="subtopic"
-                         xtrc="DFARS_223.802.html"
-                         tables="0"
-                         figures="0"/>
-            </topicref>
             <topicref navtitle="Subpart 223.70 - RESERVED"
                       base="NoTitle"
                       href="SUBPART_223.70.dita"
@@ -10162,6 +10128,7 @@
                             audience="DFARS_225.7004-0"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="225.7004-1 Definitions."
@@ -10211,6 +10178,7 @@
                             audience="DFARS_225_7004_5"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="225.7004-6.dita"
@@ -10220,6 +10188,7 @@
                             audience="DFARS_225_7004_6"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="225.7004-7.dita"
@@ -10229,6 +10198,7 @@
                             audience="DFARS_225_7004_7"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -10554,6 +10524,7 @@
                             audience="DFARS_225.7018-0"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="225.7018-1 Definitions."
@@ -11722,6 +11693,46 @@
                       xtrc="DFARS_SUBPART_226.3.html"
                       tables="0"
                       figures="0"/>
+            <topicref href="SUBPART_226.5.dita"
+                      navtitle="Subpart 226.5 - DRUG-FREE WORKPLACE"
+                      outputclass="SubPart"
+                      props="Subpart 226.5"
+                      audience="DFARS_SUBPART_226.5"
+                      xtrc="DFARS_SUBPART_226.5.html"
+                      xtrf="SubPart"
+                      base="NoTitle"
+                      tables="0"
+                      figures="0">
+               <topicref href="226.570.dita"
+                         navtitle="226.570 Drug-free work force."
+                         outputclass="subtopic"
+                         props="226.570"
+                         audience="DFARS_226_570"
+                         xtrc="DFARS_226_570.html"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0">
+                  <topicref href="226.570-1.dita"
+                            navtitle="226.570-1 Policy."
+                            outputclass="subtopic"
+                            props="226.570-1"
+                            audience="DFARS_226_570-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="226.570-2.dita"
+                            navtitle="226.570-2 Contract clause."
+                            outputclass="subtopic"
+                            props="226.570-2"
+                            audience="DFARS_226_570-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 226.70 - RESERVED"
                       base="NoTitle"
                       href="SUBPART_226.70.dita"
@@ -21222,7 +21233,7 @@
                             xtrc=""
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="252.223-7004 Drug-Free Work Force."
+                  <topicref navtitle="252.223-7004 Reserved."
                             base="concept"
                             href="252.223-7004.dita"
                             props="252.223-7004"
@@ -21930,6 +21941,7 @@
                             audience="DFARS_252_225_7063"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="252.225-7064.dita"
@@ -21939,6 +21951,7 @@
                             audience="DFARS_252_225_7064"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -21970,6 +21983,15 @@
                             audience="DFARS_252.226-7002"
                             xtrf="subtopic"
                             xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="252.226-7003.dita"
+                            navtitle="252.226-7003 Drug-Free Work Force."
+                            outputclass="subtopic"
+                            props="252.226-7003"
+                            audience="DFARS_252.226-7003"
+                            xtrf="subtopic"
+                            base="concept"
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -29488,7 +29510,7 @@
                          figures="0"/>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI Part 223 - ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE"
+         <topicref navtitle="PGI Part 223 - ENVIRONMENT, SUSTAINABLE ACQUISITION, AND MATERIAL SAFETY"
                    base="NoTitle"
                    href="PGI_PART_223.dita"
                    props="PGI Part 223"
@@ -29498,7 +29520,27 @@
                    xtrc=""
                    tables="0"
                    figures="0">
-            <topicref navtitle="PGI 223.3 -HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA"
+            <topicref href="PGI_223.1.dita"
+                      navtitle="PGI 223.1 - SUSTAINABLE PRODUCTS AND SERVICES"
+                      outputclass="SubPart"
+                      props="PGI 223.1"
+                      audience="DFARS_SUBPART_PGI_223_1"
+                      xtrc="DFARS_SUBPART_PGI_223_1.html"
+                      xtrf="SubPart"
+                      base="NoTitle"
+                      tables="0"
+                      figures="0">
+               <topicref href="PGI_223.107-1.dita"
+                         navtitle="PGI 223.107-1 Products containing recovered materials."
+                         outputclass="subtopic"
+                         props="PGI 223.107-1"
+                         audience="DFARS_PGI_223_107_1"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0"/>
+            </topicref>
+            <topicref navtitle="PGI 223.3 - HAZARDOUS MATERIAL IDENTIFICATION, MATERIAL SAFETY DATA, AND NOTICE OF RADIOACTIVE MATERIALS"
                       base="NoTitle"
                       href="PGI_223.3.dita"
                       props="PGI 223.3"
@@ -29535,21 +29577,17 @@
                       href="PGI_223.4.dita"
                       props="PGI 223.4"
                       outputclass="SubPart"
-                      audience="DFARS_SUBPART_PGI_223_4"
+                      audience="NoId"
                       xtrf="SubPart"
-                      xtrc="DFARS_SUBPART_PGI_223_4.html"
-                      tables="0"
-                      figures="0">
+                      xtrc="DFARS_SUBPART_PGI_223_4.html">
                <topicref navtitle="PGI 223.405 Procedures."
                          base="concept"
                          href="PGI_223.405.dita"
                          props="PGI 223.405"
                          outputclass="subtopic"
-                         audience="DFARS_PGI_223.405"
+                         audience="NoId"
                          xtrf="subtopic"
-                         xtrc="DFARS_PGI_223.405.html"
-                         tables="0"
-                         figures="0"/>
+                         xtrc="DFARS_PGI_223.405.html"/>
             </topicref>
             <topicref navtitle="PGI 223.73 -MINIMIZING THE USE OF MATERIALS CONTAINING HEXAVALENT CHROMIUM"
                       base="NoTitle"

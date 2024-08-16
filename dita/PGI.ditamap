@@ -3016,7 +3016,7 @@
                          xtrc="DFARS_PGI_222.7404.html"/>
             </topicref>
          </topicref>
-         <topicref navtitle="PGI Part 223 - ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE"
+         <topicref navtitle="PGI Part 223 - ENVIRONMENT, SUSTAINABLE ACQUISITION, AND MATERIAL SAFETY"
                    base="NoTitle"
                    href="PGI_PART_223.dita"
                    props="PGI Part 223"
@@ -3024,7 +3024,24 @@
                    audience="DFARS_PGI_PART_223"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="PGI 223.3 -HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA"
+            <topicref href="PGI_223.1.dita"
+                      navtitle="PGI 223.1 - SUSTAINABLE PRODUCTS AND SERVICES"
+                      outputclass="SubPart"
+                      props="PGI 223.1"
+                      audience="DFARS_SUBPART_PGI_223_1"
+                      xtrc="DFARS_SUBPART_PGI_223_1.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="PGI_223.107-1.dita"
+                         navtitle="PGI 223.107-1 Products containing recovered materials."
+                         outputclass="subtopic"
+                         props="PGI 223.107-1"
+                         audience="DFARS_PGI_223_107_1"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+            </topicref>
+            <topicref navtitle="PGI 223.3 - HAZARDOUS MATERIAL IDENTIFICATION, MATERIAL SAFETY DATA, AND NOTICE OF RADIOACTIVE MATERIALS"
                       base="NoTitle"
                       href="PGI_223.3.dita"
                       props="PGI 223.3"
@@ -3055,17 +3072,17 @@
                       href="PGI_223.4.dita"
                       props="PGI 223.4"
                       outputclass="SubPart"
-                      audience="DFARS_SUBPART_PGI_223_4"
+                      audience=""
                       xtrf="SubPart"
-                      xtrc="DFARS_SUBPART_PGI_223_4.html">
+                      xtrc="">
                <topicref navtitle="PGI 223.405 Procedures."
                          base="concept"
                          href="PGI_223.405.dita"
                          props="PGI 223.405"
                          outputclass="subtopic"
-                         audience="DFARS_PGI_223.405"
+                         audience=""
                          xtrf="subtopic"
-                         xtrc="DFARS_PGI_223.405.html"/>
+                         xtrc=""/>
             </topicref>
             <topicref navtitle="PGI 223.73 -MINIMIZING THE USE OF MATERIALS CONTAINING HEXAVALENT CHROMIUM"
                       base="NoTitle"
