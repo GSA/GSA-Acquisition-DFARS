@@ -2,31 +2,45 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS_247.571"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">247.571</ph> Definitions.</title>
+            class="- topic/topic concept/concept "
+            rev="Revised October 1, 2024"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " rev="Revised October 1, 2024">
+         <ph props="autonumber" class="- topic/ph ">247.571</ph>  Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As used in this subpart—</p>
-         <p outputclass="List1" class="- topic/p ">(a)  “Components,” “foreign flag vessel,” “ocean transportation,” “supplies,” and “U.S.-flag vessel” have the meaning given in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1384256"
-                  href="252.247-7023.dita#DFARS_252.247-7023">252.247-7023</xref>
-            , Transportation of Supplies by Sea.</p>
-         <p outputclass="List1" class="- topic/p ">(b) “Reflagging or repair work” <?oxy_delete author="GregPangborn" timestamp="20240214T085815-0500" content="has"?> the meaning gi<?oxy_insert_start author="GregPangborn" timestamp="20240214T085819-0500"?>asdfasdf<?oxy_insert_end?>ven in the clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1384275"
-                  href="252.247-7025.dita#DFARS_252.247-7025">252.247-7025</xref> , Reflagging or Repair Work.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  “Covered vessel,” “foreign shipyard,” “overhaul, repair, and maintenance work,” “shipyard,” and “U.S. shipyard” have the meaning given in the provision at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1384284"
-                  href="252.247-7026.dita#DFARS_252.247-7026">252.247-7026</xref>
-            , Evaluation Preference for Use of Domestic Shipyards – Applicable to Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise or Noncontiguous Trade.</p>
+         <p class="- topic/p ">"Corrective and preventive maintenance or repair" means— </p>
+         <p outputclass="List2" class="- topic/p ">(1) Maintenance or repair actions performed as a result of a failure in order to return or restore equipment to acceptable performance levels; and </p>
+         <p outputclass="List2" class="- topic/p ">(2) Scheduled maintenance or repair actions to prevent or discover functional failures. </p>
+         <p class="- topic/p ">"Covered vessel" means a vessel— </p>
+         <p outputclass="List2" class="- topic/p ">(1) Owned, operated, or controlled by the offeror; and </p>
+         <p outputclass="List2" class="- topic/p ">(2) Qualified to engage in the carriage of cargo in the coastwise or noncontiguous trade under <xref href="https://www.govinfo.gov/link/uscode/46/12112"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">46 U.S.C. 12112</xref> and <xref href="https://www.govinfo.gov/link/uscode/46/50501"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">50501</xref> and <xref href="https://www.govinfo.gov/link/uscode/46/55101"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">46 U.S.C. chapter 551</xref>. </p>
+         <p class="- topic/p ">"Foreign-flag vessel" means any vessel that is not a U.S.-flag vessel. </p>
+         <p class="- topic/p ">"Ocean transportation" means any water-borne transportation aboard a ship, vessel, boat, barge, ferry, or the like outside the internal waters of the United States (as defined in <xref href="https://www.ecfr.gov/current/title-33/section-2.24"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">33 CFR 2.24</xref>). </p>
+         <p class="- topic/p ">"Overhaul, repair, and maintenance work" means work requiring a shipyard period greater than or equal to 5 calendar days. </p>
+         <p class="- topic/p ">"Reflagging or repair work" means work performed on a vessel— </p>
+         <p outputclass="List2" class="- topic/p ">(1) To enable the vessel to meet applicable standards to become a vessel of the United States; or </p>
+         <p outputclass="List2" class="- topic/p ">(2) To convert the vessel to a more useful military configuration. </p>
+         <p class="- topic/p ">"Supplies" means supplies that are clearly identifiable for eventual use by or owned by DoD at the time of transportation by sea, or are otherwise transported by DoD, regardless of ownership or use by DoD. An item is clearly identifiable for eventual use by DoD if, for example, the contract documentation contains a reference to a DoD contract number or a military destination. </p>
+         <p class="- topic/p ">"U.S.-flag vessel means either a vessel belonging to the United States or a vessel of the United States as that term is defined in <xref href="https://www.govinfo.gov/link/uscode/46/116"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">46 U.S.C. 116</xref>.</p>
       </conbody>
    </concept>
 </dita>

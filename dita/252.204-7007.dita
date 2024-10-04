@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.204-7007"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_252.204-7007" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.204-7007</ph> Alternate A, Annual Representations and Certifications.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -15,10 +11,9 @@
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.1202</xref> ,
 use the following provision:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">Alternate A, Annual Representations and
-            Certifications (
-            NOV 2023
-            )</p>
+         <p class="- topic/p "
+            outputclass="Ctr_SmCaps"
+            rev="Revised October 1, 2024">Alternate A, Annual Representations and Certifications (Oct 2023)</p>
          <p class="- topic/p ">Substitute the following paragraphs (b), (d), and (e) for paragraphs
 (b) and (d) of the provision at FAR 52.204-8:</p>
          <p class="- topic/p " outputclass="List1">(b)(1) If the provision at FAR 52.204-7,
@@ -84,13 +79,6 @@ contract performance will be in Italy.</p>
                   class="- topic/xref ">252.229-7013</xref> , Tax Exemptions
 (Spain)—Representation. Applies to solicitations and contracts when
 contract performance will be in Spain.</p>
-         <p class="- topic/p " outputclass="List3">(ix) <xref href="252.247-7022.dita#DFARS_252.247-7022"
-                  base="i1384249"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.247-7022</xref> , Representation
-of Extent of Transportation by Sea. Applies to all solicitations
-except those for direct purchase of ocean transportation services
-or those with an anticipated value at or below the simplified acquisition threshold.</p>
          <p class="- topic/p " outputclass="List2">(2) The following representations or certifications
 in SAM are applicable to this solicitation as indicated by the Contracting Officer: <i class="+ topic/ph hi-d/i ">[Contracting
 Officer check as appropriate.]</i>
