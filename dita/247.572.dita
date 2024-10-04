@@ -1,44 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+<dita>
    <concept id="DFARS_247.572"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">247.572</ph> Policy.</title>
+            class="- topic/topic concept/concept "
+            rev="Revised October 1, 2024">
+      <title class="- topic/title " rev="Revised October 1, 2024">
+         <ph props="autonumber" class="- topic/ph ">247.572</ph>  Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)  In accordance with 10 U.S.C. 2631(a), DoD contractors shall transport supplies, as defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1384256"
-                  href="252.247-7023.dita#DFARS_252.247-7023">252.247-7023</xref>
-            , Transportation of Supplies by Sea, exclusively on U.S.-flag vessels unless—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Those vessels are not available;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The proposed charges to the Government are higher than charges to private persons for the transportation of like goods; or</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The proposed freight charges are excessive or unreasonable.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  Contracts must provide for the use of Government-owned vessels when security classifications prohibit the use of other than Government-owned vessels.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  In accordance with 10 U.S.C. 2631(b)—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Any vessel used under a time charter contract for the transportation of supplies under this section shall have any reflagging or repair work, as defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1384275"
-                  href="252.247-7025.dita#DFARS_252.247-7025">252.247-7025</xref>
-            , Reflagging or Repair Work, performed in the United States or its outlying areas, if the reflagging or repair work is performed—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  On a vessel for which the contractor submitted an offer in response to the solicitation for the contract; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Prior to acceptance of the vessel by the Government.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  The Secretary of Defense may waive this requirement if the Secretary determines that such waiver is critical to the national security of the United States.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  In accordance with Section 1017 of the National Defense Authorization Act for Fiscal Year 2007 (Pub. L. 109-364)—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  When obtaining carriage requiring a covered vessel, the contracting officer must consider the extent to which offerors have had overhaul, repair, and maintenance work for covered vessels  performed in shipyards located in the United States or Guam; and </p>
-         <p outputclass="List2" class="- topic/p ">(2)  DoD must submit an annual report to the congressional defense committees, addressing the information provided by offerors with regard to overhaul, repair, and maintenance for covered vessels performed in the United States or Guam.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  In accordance with section 3504 of the National Defense Authorization Act for  Fiscal Year 2009 (Pub. L. 110-417), DoD may not award, renew or extend, or exercise an option under a charter of, or contract for carriage of cargo by, a U.S.-flag vessel documented under chapter 121 of title 46 U.S.C, unless the contract contains the clause at 
-               <xref outputclass="fm:ParaNumOnly"
+         <p outputclass="List1" class="- topic/p ">(a) In accordance with <xref href="https://www.govinfo.gov/link/uscode/10/2631"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">10 U.S.C. 2631(a)</xref>, DoD contractors shall transport supplies exclusively on U.S.-flag vessels. In accordance with <xref href="https://www.govinfo.gov/link/uscode/10/2631"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">10 U.S.C. 2631(b)</xref>, DoD (see <xref href="247.573.dita#DFARS_247.573"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">247.573</xref>(a)) may waive this requirement when a U.S.-flag vessel—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Is not available at a fair and reasonable rate for commercial vessels of the United States; or</p>
+         <p outputclass="List2" class="- topic/p ">(2) Is not otherwise available.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Contracts must provide for the use of vessels belonging to the United States when security classifications prohibit the use of other than vessels belonging to the United States.</p>
+         <p outputclass="List1" class="- topic/p ">(c) In accordance with <xref href="https://www.govinfo.gov/link/uscode/10/2631"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">10 U.S.C. 2631(c)</xref>—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Any vessel used under a time charter contract for the transportation of supplies under this section shall have the following work performed in the United States or its outlying areas:</p>
+         <p outputclass="List3" class="- topic/p ">(i) Reflagging or repair work, if the reflagging or repair work is performed—</p>
+         <p outputclass="List4" class="- topic/p ">(A) On a vessel for which the contractor submitted an offer in response to the solicitation for the contract; and</p>
+         <p outputclass="List4" class="- topic/p ">(B) Prior to acceptance of the vessel by the Government.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Prior to acceptance of the vessel by the Government.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Corrective and preventive maintenance or repair work for the duration of the contract, to the greatest extent practicable.</p>
+         <p outputclass="List2" class="- topic/p ">(2) The Secretary of Defense may waive this requirement if the Secretary determines that such waiver is critical to the national security of the United States. In accordance with <xref href="https://www.govinfo.gov/link/uscode/10/2631"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">10 U.S.C. 2631(c)(2)</xref>, DoD shall immediately submit, in writing, a notice to the congressional committees listed at <xref href="https://www.govinfo.gov/link/uscode/10/2631"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">10 U.S.C. 2631(e)</xref> of such a waiver and the reason for the waiver.</p>
+         <p outputclass="List1" class="- topic/p ">(d) In accordance with section 1017 of the National Defense Authorization Act for Fiscal Year 2007 (<xref href="https://www.govinfo.gov/link/plaw/109/public/364"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Pub. L. 109-364</xref>), when obtaining carriage requiring a covered vessel, the contracting officer shall consider the extent to which offerors have had overhaul, repair, and maintenance work for covered vessels performed in shipyards located in the United States or Guam.</p>
+         <p outputclass="List1" class="- topic/p ">(e) In accordance with section 3504 of the National Defense Authorization Act for Fiscal Year 2009 (<xref href="https://www.govinfo.gov/link/plaw/110/public/417"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Pub. L. 110-417</xref>), DoD may not award, renew or extend, or exercise an option under a charter of, or contract for carriage of cargo by, a U.S.-flag vessel documented under <xref href="https://www.govinfo.gov/link/uscode/46/12101"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">46 U.S.C. chapter 121</xref>, unless the contract contains the clause at <xref outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
                   base="i1384291"
-                  href="252.247-7027.dita#DFARS_252.247-7027">252.247-7027</xref>
-            . </p>
+                  href="252.247-7027.dita#DFARS_252.247-7027">252.247-7027</xref>.</p>
       </conbody>
    </concept>
 </dita>

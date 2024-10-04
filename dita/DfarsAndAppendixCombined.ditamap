@@ -1077,23 +1077,14 @@
                          xtrf="subtopic"
                          xtrc="DFARS_204.2105.html"/>
             </topicref>
-            <topicref navtitle="Subpart 204.70 - PROCUREMENT ACQUISITIONLEAD TIME"
+            <topicref navtitle="Subpart 204.70 - [RESERVED]"
                       base="NoTitle"
                       href="SUBPART_204.70.dita"
                       props="Subpart 204.70"
                       outputclass="SubPart"
                       audience="DFARS_SUBPART_204.70"
                       xtrf="SubPart"
-                      xtrc="DFARS_SUBPART_204.70.html">
-               <topicref navtitle="204.7001 Procedures."
-                         base="concept"
-                         href="204.7001.dita"
-                         props="204.7001"
-                         outputclass="subtopic"
-                         audience="DFARS_204.7001"
-                         xtrf="subtopic"
-                         xtrc="DFARS_204.7001.html"/>
-            </topicref>
+                      xtrc="DFARS_SUBPART_204.70.html"/>
             <topicref navtitle="Subpart 204.71 - UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM"
                       base="NoTitle"
                       href="SUBPART_204.71.dita"
@@ -3894,6 +3885,14 @@
                             outputclass="subtopic"
                             audience="DFARS_215.101-70"
                             xtrf="subtopic"
+                            xtrc=""/>
+                  <topicref href="215.101-71.dita"
+                            navtitle="215.101-71 Tradeoff process when acquiring fuel for overseas contingency operations."
+                            outputclass="subtopic"
+                            props="215.101-71"
+                            audience="DFARS_215.101-71"
+                            xtrf="subtopic"
+                            base="concept"
                             xtrc=""/>
                </topicref>
             </topicref>
@@ -8747,6 +8746,47 @@
                             props="225.7023-4"
                             outputclass="subtopic"
                             audience="DFARS_225.7023-4"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+               <topicref href="225.7024.dita"
+                         navtitle="225.7024 Restriction on acquisition of fuel for overseas contingency operations."
+                         outputclass="subtopic"
+                         props="225.7024"
+                         audience="DFARS_225.7024"
+                         xtrc="DFARS_225.7024.html"
+                         xtrf="subtopic"
+                         base="concept">
+                  <topicref href="225.7024-1.dita"
+                            navtitle="225.7024-1 Scope."
+                            outputclass="subtopic"
+                            props="225.7024-1"
+                            audience="DFARS_225.7024-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="225.7024-2.dita"
+                            navtitle="225.7024-2 Prohibition."
+                            outputclass="subtopic"
+                            props="225.7024-2"
+                            audience="DFARS_225.7024-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="225.7024-3.dita"
+                            navtitle="225.7024-3 Procedures."
+                            outputclass="subtopic"
+                            props="225.7024-3"
+                            audience="DFARS_225.7024-3"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="225.7024-4.dita"
+                            navtitle="225.7024-4 Solicitation provision."
+                            outputclass="subtopic"
+                            props="225.7024-4"
+                            audience="DFARS_225.7024-4"
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""/>
@@ -17688,6 +17728,14 @@
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""/>
+                  <topicref href="252.225-7065.dita"
+                            navtitle="252.225-7065 Restriction on Acquisition of Fuel for Overseas Contingency Operations."
+                            outputclass="subtopic"
+                            props="252.225-7065"
+                            audience="DFARS_252_225_7065"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="252.226 RESERVED"
                          base="concept"
@@ -19587,7 +19635,7 @@
                             audience="DFARS_252.247-7021"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.247-7022 Representation of Extent of Transportation by Sea."
+                  <topicref navtitle="252.247-7022 Reserved."
                             base="concept"
                             href="252.247-7022.dita"
                             props="252.247-7022"
