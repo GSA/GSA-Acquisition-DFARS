@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars">
+<map title="DFARS" outputclass="dfars" rev="Revised October 10, 2024">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -1438,6 +1438,31 @@
                    audience="DFARS_PART_205"
                    xtrf="Part"
                    xtrc="">
+            <topicref href="SUBPART_205.1.dita"
+                      navtitle="Subpart 205.1 - DISSEMINATION OF INFORMATION"
+                      outputclass="SubPart"
+                      props="Subpart 205.1"
+                      audience="DFARS_SUBPART_205.1"
+                      xtrc="DFARS_SUBPART_205.1.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="205.102.dita"
+                         navtitle="205.102 Availability of solicitations."
+                         outputclass="subtopic"
+                         props="205.102"
+                         audience="DFARS_205.102"
+                         xtrc="DFARS_205.102.html"
+                         xtrf="subtopic"
+                         base="NoTitle">
+                  <topicref href="205.102-70.dita"
+                            navtitle="205.102-70 Availability of DoD solicitations."
+                            outputclass="subtopic"
+                            props="205.102-70"
+                            audience="DFARS_205.102-70"
+                            xtrf="subtopic"
+                            base="NoTitle"/>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 205.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS"
                       base="NoTitle"
                       href="SUBPART_205.2.dita"
@@ -3741,6 +3766,13 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
+               <topicref href="214.203.dita"
+                         navtitle="214.203 Methods of soliciting bids."
+                         outputclass="subtopic"
+                         props="214.203"
+                         audience="DFARS_214.203"
+                         xtrf="subtopic"
+                         base="concept"/>
                <topicref navtitle="214.209 Cancellation of invitations before opening."
                          base="concept"
                          href="214.209.dita"
@@ -3921,6 +3953,13 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
+               <topicref href="215.205.dita"
+                         navtitle="215.205 Issuing solicitations."
+                         outputclass="subtopic"
+                         props="215.205"
+                         audience="DFARS_215.205"
+                         xtrf="subtopic"
+                         base="concept"/>
                <topicref navtitle="215.209 Solicitation provisions and contract clauses."
                          base="concept"
                          href="215.209.dita"
@@ -21523,7 +21562,32 @@
                    audience="DFARS_PGI_PART_205"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="PGI 205.2 -SYNOPSES OF PROPOSED CONTRACT ACTIONS"
+            <topicref href="PGI_205.1.dita"
+                      navtitle="PGI 205.1 - DISSEMINATION OF INFORMATION"
+                      outputclass="SubPart"
+                      props="PGI 205.1"
+                      audience="DFARS_SUBPART_PGI_205_2"
+                      xtrc="DFARS_SUBPART_PGI_205_2.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="PGI_205.102.dita"
+                         navtitle="PGI 205.102 Availability of solicitations."
+                         outputclass="subtopic"
+                         props="PGI 205.102"
+                         audience="DFARS_PGI_205.102"
+                         xtrc="DFARS_PGI_205.102.html"
+                         xtrf="subtopic"
+                         base="NoTitle">
+                  <topicref href="PGI_205.102-70.dita"
+                            navtitle="PGI 205.102-70 Exception for prototype projects for follow-on production contracts."
+                            outputclass="subtopic"
+                            props="PGI 205.102-70"
+                            audience="DFARS_PGI_205.102-70"
+                            xtrf="subtopic"
+                            base="concept"/>
+               </topicref>
+            </topicref>
+            <topicref navtitle="PGI 205.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS"
                       base="NoTitle"
                       href="PGI_205.2.dita"
                       props="PGI 205.2"
@@ -21587,16 +21651,25 @@
                       outputclass="SubPart"
                       xtrf="SubPart"
                       audience="DFARS_SUBPART_PGI_206_1"
-                      xtrc="">
+                      xtrc="DFARS_SUBPART_PGI_206_1.html"
+                      props="PGI 206.1"
+                      base="NoTitle">
                <topicref href="PGI_206.102.dita"
                          navtitle="PGI 206.102 Use of competitive procedures."
                          outputclass="subtopic"
                          audience="DFARS_PGI_206.102"
-                         xtrc="">
+                         xtrc="DFARS_PGI_206.102.html"
+                         props="PGI 206.102"
+                         xtrf="subtopic"
+                         base="concept">
                   <topicref href="PGI_206.102-70.dita"
                             navtitle="PGI 206.102-70 Other competitive procedures."
                             audience="DFARS_PGI_206.102-70"
-                            xtrc=""/>
+                            xtrc=""
+                            outputclass="subtopic"
+                            props="PGI 206.102-70"
+                            xtrf="subtopic"
+                            base="concept"/>
                </topicref>
             </topicref>
             <topicref navtitle="PGI 206.2 - FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES"
@@ -21722,7 +21795,8 @@
                          navtitle="PGI 207.108 Additional requirements for telecommuting."
                          audience="DFARS_PGI_207.108"
                          xtrc="DFARS_PGI_207.108.html"
-                         base="concept"/>
+                         base="concept"
+                         xtrf="subtopic"/>
                <topicref navtitle="PGI 207.171 Component breakout."
                          base="concept"
                          href="PGI_207.171.dita"

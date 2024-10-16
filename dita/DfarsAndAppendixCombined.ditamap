@@ -1438,6 +1438,32 @@
                    audience="DFARS_PART_205"
                    xtrf="Part"
                    xtrc="">
+            <topicref href="SUBPART_205.1.dita"
+                      navtitle="Subpart 205.1 - DISSEMINATION OF INFORMATION"
+                      outputclass="SubPart"
+                      props="Subpart 205.1"
+                      audience="DFARS_SUBPART_205.1"
+                      xtrc="DFARS_SUBPART_205.1.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="205.102.dita"
+                         navtitle="205.102 Availability of solicitations."
+                         outputclass="subtopic"
+                         props="205.102"
+                         audience="DFARS_205.102"
+                         xtrc="DFARS_205.102.html"
+                         xtrf="subtopic"
+                         base="NoTitle">
+                  <topicref href="205.102-70.dita"
+                            navtitle="205.102-70 Availability of DoD solicitations."
+                            outputclass="subtopic"
+                            props="205.102-70"
+                            audience="DFARS_205.102-70"
+                            xtrf="subtopic"
+                            base="NoTitle"
+                            xtrc=""/>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 205.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS"
                       base="NoTitle"
                       href="SUBPART_205.2.dita"
@@ -3741,6 +3767,14 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
+               <topicref href="214.203.dita"
+                         navtitle="214.203 Methods of soliciting bids."
+                         outputclass="subtopic"
+                         props="214.203"
+                         audience="DFARS_214.203"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
                <topicref navtitle="214.209 Cancellation of invitations before opening."
                          base="concept"
                          href="214.209.dita"
@@ -3921,6 +3955,14 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
+               <topicref href="215.205.dita"
+                         navtitle="215.205 Issuing solicitations."
+                         outputclass="subtopic"
+                         props="215.205"
+                         audience="DFARS_215.205"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
                <topicref navtitle="215.209 Solicitation provisions and contract clauses."
                          base="concept"
                          href="215.209.dita"
