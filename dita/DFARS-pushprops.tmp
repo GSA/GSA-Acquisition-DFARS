@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars" rev="Revised October 1, 2024">
+<map title="DFARS" outputclass="dfars">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -4821,6 +4821,7 @@
                             audience="DFARS_215.101-71"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -10870,6 +10871,7 @@
                             audience="DFARS_225.7024-1"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="225.7024-2.dita"
@@ -10879,6 +10881,7 @@
                             audience="DFARS_225.7024-2"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="225.7024-3.dita"
@@ -10888,15 +10891,17 @@
                             audience="DFARS_225.7024-3"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="225.7024-4.dita"
                             navtitle="225.7024-4 Solicitation provision."
                             outputclass="subtopic"
                             props="225.7024-4"
-                            audience="DFARS_225.7024-4"
+                            audience="DFARS_225_7024_4"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -22010,6 +22015,7 @@
                             audience="DFARS_252_225_7065"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -26794,17 +26800,23 @@
             </topicref>
             <topicref href="PGI_206.1.dita"
                       navtitle="PGI 206.1 - FULL AND OPEN COMPETITION"
+                      outputclass="SubPart"
+                      xtrf="SubPart"
                       audience="DFARS_SUBPART_PGI_206_1"
+                      xtrc=""
                       tables="0"
                       figures="0">
                <topicref href="PGI_206.102.dita"
                          navtitle="PGI 206.102 Use of competitive procedures."
+                         outputclass="subtopic"
                          audience="DFARS_PGI_206.102"
+                         xtrc=""
                          tables="0"
                          figures="0">
                   <topicref href="PGI_206.102-70.dita"
                             navtitle="PGI 206.102-70 Other competitive procedures."
                             audience="DFARS_PGI_206.102-70"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -29613,7 +29625,7 @@
                          audience="DFARS_PGI_223_107_1"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_PGI_223_107_1.html"
                          tables="0"
                          figures="0"/>
             </topicref>
