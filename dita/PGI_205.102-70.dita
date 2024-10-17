@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept base="NoTitle"
+            id="DFARS_PGI_205.102-70"
+            rev="Revised October 10, 2024"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title outputclass="subtopic"
+             class="- topic/title "
+             rev="Revised October 10, 2024">
+         <ph props="autonumber" class="- topic/ph ">PGI 205.102-70</ph>  Exception for prototype projects for follow-on production contracts.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p "> (a) <i class="+ topic/ph hi-d/i ">Policy.</i> The Solicitation Module within the Procurement Integrated Enterprise Environment, accessible at <xref href="https://piee.eb.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref "/>, provides DoD a secure and auditable mechanism to request and receive proposals or quotes from industry.</p>
+         <p outputclass="List2" class="- topic/p "> (1) The Solicitation Module—</p>
+         <p outputclass="List3" class="- topic/p ">(i) Provides a single face to industry for accessing DoD solicitations and attachments; </p>
+         <p outputclass="List3" class="- topic/p ">(ii) Ensures time stamps for submissions are collected electronically, and records are retained in the contract file; </p>
+         <p outputclass="List3" class="- topic/p ">(iii) Provides a means to upload very large and varied solicitation attachments; </p>
+         <p outputclass="List3" class="- topic/p ">(iv) Provides the ability to restrict access to a limited group of identified offerors; and </p>
+         <p outputclass="List3" class="- topic/p ">(v) Automatically posts the required synopsis or other presolicitation notice, solicitation, or combined synopsis and solicitation, as applicable, in the Governmentwide point of entry (https://www.sam.gov) in accordance with FAR subpart 5.2. </p>
+         <p outputclass="List1" class="- topic/p ">(b) Procedures. Effective October 1, 2026, unless an exception applies, contracting officers shall use the Solicitation Module for publishing unclassified solicitations and for receiving offers and quotes. </p>
+         <p outputclass="List2" class="- topic/p ">(1) Exceptions. </p>
+         <p outputclass="List3" class="- topic/p ">(i) The Solicitation Module may be used, but is not required, for— </p>
+         <p outputclass="List4" class="- topic/p ">(A) Requests for offers or quotes when limiting competition to a single source; </p>
+         <p outputclass="List4" class="- topic/p ">(B) Actions using simplified acquisition procedures in accordance with FAR subpart 13.3; </p>
+         <p outputclass="List4" class="- topic/p ">(C) Actions using emergency acquisition flexibilities in accordance with FAR subpart 18.2; or </p>
+         <p outputclass="List4" class="- topic/p ">(D) Actions to be awarded outside the United States. </p>
+         <p outputclass="List3" class="- topic/p ">(ii) The Solicitation Module may not be used for the following types of actions until the capability is developed in the Module: </p>
+         <p outputclass="List4" class="- topic/p ">(A) Broad agency announcements. </p>
+         <p outputclass="List4" class="- topic/p ">(B) Requests for offers or quotes for task orders or delivery orders under indefinite-delivery type contracts, blanket purchase agreements, or basic ordering agreements. </p>
+      </conbody>
+   </concept>
+</dita>
