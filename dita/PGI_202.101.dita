@@ -1,50 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+<dita>
    <concept id="DFARS_PGI_202.101"
             outputclass="3"
-            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 202.101</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">DoD contracting activities are—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Department of Defense.</p>
+         <p class="- topic/p ">DoD contracting activities are <ph rev="Revised November 15, 2024" class="- topic/ph ">as follows—</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1) <u class="+ topic/ph hi-d/u ">Department of Defense</u>.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Chief Digital and Artificial Intelligence Office (Acquisition Directorate)</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">Department of Defense Education Activity</p>
          <p outputclass="List3" class="- topic/p ">Department of Defense Human Resources Activity</p>
          <p outputclass="List3" class="- topic/p ">Defense Media Activity</p>
          <p outputclass="List3" class="- topic/p ">Defense Micro Electronics Activity</p>
-         <p outputclass="List3" class="- topic/p ">Inspector General of the Department of
-Defense (limited contracting authority</p>
-         <p outputclass="List3" class="- topic/p ">for use of the Governmentwide commercial
-purchase card)</p>
+         <p outputclass="List3" class="- topic/p ">Inspector General of the Department of Defense (limited contracting authority for use of the Governmentwide commercial purchase card)</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Strategic Capabilities Office</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">Uniformed Services University of the Health
 Sciences</p>
-         <p outputclass="List2" class="- topic/p ">(2) Department of the Air Force.</p>
+         <p outputclass="List2" class="- topic/p ">(2) <u class="+ topic/ph hi-d/u ">Department of the Air Force</u>.</p>
          <p outputclass="List3" class="- topic/p ">Office of the Assistant Secretary of the
 Air Force (Acquisition)</p>
          <p outputclass="List3" class="- topic/p ">Office of the Deputy Assistant Secretary
 (Contracting)</p>
          <p outputclass="List3" class="- topic/p ">Air Force Materiel Command</p>
-         <p outputclass="List3" class="- topic/p ">Air Force Space Command</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Air Force Nuclear Weapons Center</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">Air Combat Command</p>
          <p outputclass="List3" class="- topic/p ">Air Mobility Command</p>
          <p outputclass="List3" class="- topic/p ">Air Education and Training Command</p>
          <p outputclass="List3" class="- topic/p ">Pacific Air Forces</p>
          <p outputclass="List3" class="- topic/p ">United States Air Forces in Europe</p>
          <p outputclass="List3" class="- topic/p ">Air Force Special Operations Command</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Air Force Sustainment Center</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Air Force Test Center</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">Air Force Reserve Command</p>
          <p outputclass="List3" class="- topic/p ">Air Force Global Strike Command</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Air Force Installation Contracting Center</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">Air Force Life Cycle Management Center</p>
          <p outputclass="List3" class="- topic/p ">Air Force District of Washington</p>
          <p outputclass="List3" class="- topic/p ">United States Air Force Academy</p>
          <p outputclass="List3" class="- topic/p ">Air Force Operational Test and Evaluation
 Center</p>
-         <p outputclass="List3" class="- topic/p ">Space and Missile Systems Center</p>
-         <p outputclass="List2" class="- topic/p ">(3) Department of the Army.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Air Force Rapid Capabilities Office</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Air Force Research Laboratory</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Space Development Agency</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Space Operations Command</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Space Rapid Capabilities Office</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Space Systems Command</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(3) <u class="+ topic/ph hi-d/u ">Department of the Army</u>.</p>
          <p outputclass="List3" class="- topic/p ">Deputy Assistant Secretary of the Army
 (Procurement)</p>
          <p outputclass="List3" class="- topic/p ">Headquarters,
@@ -53,66 +82,82 @@ U.S. Army Contracting Command</p>
          <p outputclass="List3" class="- topic/p ">National Guard Bureau</p>
          <p outputclass="List3" class="- topic/p ">Rapid Capabilities
 and Critical Technologies Office</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Small Business Innovation Research Contracting Center of Excellence</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">U.S. Army Corps of Engineers</p>
-         <p outputclass="List2" class="- topic/p ">(4) Department of the Navy.</p>
-         <p outputclass="List3" class="- topic/p ">Deputy Assistant Secretary of the Navy
-(Acquisition and Procurement)</p>
+         <p outputclass="List2" class="- topic/p ">(4) <u class="+ topic/ph hi-d/u ">Department of the Navy</u>.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Deputy Assistant Secretary of the Navy (Procurement)</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">Marine Corps Systems Command</p>
          <p outputclass="List3" class="- topic/p ">Military Sealift Command</p>
          <p outputclass="List3" class="- topic/p ">Installations and Logistics, Headquarters,
 U.S. Marine Corps</p>
          <p outputclass="List3" class="- topic/p ">Naval Air Systems Command</p>
-         <p outputclass="List3" class="- topic/p ">Naval Facilities Engineering Command</p>
-         <p outputclass="List3" class="- topic/p ">Naval Sea Systems Command</p>
-         <p outputclass="List3" class="- topic/p ">Naval Supply Systems Command</p>
-         <p outputclass="List3" class="- topic/p ">Office of Naval Research</p>
-         <p outputclass="List3" class="- topic/p ">Space and Naval Warfare Systems Command</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Naval Facilities Engineering Systems Command</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Naval Information Warfare Systems Command</ph>
+         </p>
          <p outputclass="List3" class="- topic/p ">Strategic Systems Programs</p>
-         <p outputclass="List2" class="- topic/p ">(5) Defense Advanced Research Projects
-Agency.</p>
-         <p outputclass="List3" class="- topic/p ">Office of the Deputy Director, Management</p>
-         <p outputclass="List2" class="- topic/p ">(6) Defense Commissary Agency.</p>
+         <p outputclass="List2" class="- topic/p ">(5) <u class="+ topic/ph hi-d/u ">Defense Advanced Research Projects Agency</u>.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Contracts Management Office</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(6) <u class="+ topic/ph hi-d/u ">Defense Commissary Agency</u>.</p>
          <p outputclass="List3" class="- topic/p ">Directorate of Contracting</p>
-         <p outputclass="List2" class="- topic/p ">(7) Defense Contract Management Agency.</p>
+         <p outputclass="List2" class="- topic/p ">(7) <u class="+ topic/ph hi-d/u ">Defense Contract Management Agency</u>.</p>
          <p outputclass="List3" class="- topic/p ">Office of the Executive Director, Contracts,
 Defense Contract Management Agency</p>
-         <p outputclass="List2" class="- topic/p ">(8) Defense Finance and Accounting Service.</p>
+         <p outputclass="List2" class="- topic/p ">(8) <u class="+ topic/ph hi-d/u ">Defense Finance and Accounting Service</u>.</p>
          <p outputclass="List3" class="- topic/p ">External Services, Defense Finance and
 Accounting Service</p>
-         <p outputclass="List2" class="- topic/p ">(9) Defense Health Agency.</p>
-         <p outputclass="List3" class="- topic/p ">Directorate of Procurement</p>
-         <p outputclass="List2" class="- topic/p ">(10) Defense Information Systems Agency.</p>
+         <p outputclass="List2" class="- topic/p ">(9) <u class="+ topic/ph hi-d/u ">Defense Health Agency</u>.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Defense Health Agency Contracting Activity</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(10) <u class="+ topic/ph hi-d/u ">Defense Information Systems Agency</u>.</p>
          <p outputclass="List3" class="- topic/p ">Defense Information Technology Contracting
 Organization</p>
-         <p outputclass="List2" class="- topic/p ">(11) Defense Intelligence Agency.</p>
-         <p outputclass="List3" class="- topic/p ">Office of Procurement</p>
-         <p outputclass="List2" class="- topic/p ">(12) Defense Logistics Agency.</p>
+         <p outputclass="List2" class="- topic/p ">(11) <ph rev="Revised November 15, 2024" class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u ">Defense Intelligence Agency (DIA)</u>.</ph>
+         </p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">DIA Acquisition &amp; Contracting</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(12) <u class="+ topic/ph hi-d/u ">Defense Logistics Agency</u>.</p>
          <p outputclass="List3" class="- topic/p ">DLA Acquisition (J-7)</p>
          <p outputclass="List3" class="- topic/p ">DLA Aviation</p>
          <p outputclass="List3" class="- topic/p ">DLA Energy</p>
          <p outputclass="List3" class="- topic/p ">DLA Land and Maritime</p>
          <p outputclass="List3" class="- topic/p ">DLA Troop Support</p>
-         <p outputclass="List2" class="- topic/p ">(13) Defense Counterintelligence and Security
-Agency.</p>
-         <p outputclass="List3" class="- topic/p ">Office of Acquisitions</p>
-         <p outputclass="List2" class="- topic/p ">(14) Defense Threat Reduction Agency.</p>
-         <p outputclass="List3" class="- topic/p ">Acquisition Management Office</p>
-         <p outputclass="List2" class="- topic/p ">(15) Missile Defense Agency.</p>
+         <p outputclass="List2" class="- topic/p ">(13) <u class="+ topic/ph hi-d/u ">Defense Counterintelligence and Security Agency</u>.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Contracting and Procurement Office</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(14) <u class="+ topic/ph hi-d/u ">Defense Threat Reduction Agency</u>.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Acquisition, Contracts, and Logistics Directorate</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(15) <u class="+ topic/ph hi-d/u ">Missile Defense Agency</u>.</p>
          <p outputclass="List3" class="- topic/p ">Headquarters, Missile Defense Agency</p>
-         <p outputclass="List2" class="- topic/p ">(16) National Geospatial-Intelligence Agency.</p>
+         <p outputclass="List2" class="- topic/p ">(16) <u class="+ topic/ph hi-d/u ">National Geospatial-Intelligence Agency</u>.</p>
          <p outputclass="List3" class="- topic/p ">Procurement and Contracting Office</p>
-         <p outputclass="List2" class="- topic/p ">(17) National Security Agency.</p>
-         <p outputclass="List3" class="- topic/p ">Headquarters, National Security Agency</p>
-         <p outputclass="List2" class="- topic/p ">(18) Space Development Agency.</p>
-         <p outputclass="List3" class="- topic/p ">Contracts Division</p>
-         <p outputclass="List2" class="- topic/p ">(19) United States Cyber Command.</p>
+         <p outputclass="List2" class="- topic/p ">(17) <u class="+ topic/ph hi-d/u ">National Security Agency</u>.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Maryland Procurement Office</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(18) <u class="+ topic/ph hi-d/u ">United States Cyber Command</u>.</p>
          <p outputclass="List3" class="- topic/p ">Capability Development Group – Acquisition</p>
-         <p outputclass="List2" class="- topic/p ">(20) United States Special Operations Command.</p>
-         <p outputclass="List3" class="- topic/p ">Headquarters, United States Special Operations
-Command</p>
-         <p outputclass="List2" class="- topic/p ">(21) United States Transportation Command.</p>
+         <p outputclass="List2" class="- topic/p ">(19) <u class="+ topic/ph hi-d/u ">United States Special Operations Command</u>.</p>
+         <p outputclass="List3" class="- topic/p ">
+            <ph rev="Revised November 15, 2024" class="- topic/ph ">Special Operations Forces Acquisition, Technology &amp; Logistics Directorate of Procurement</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(20) <u class="+ topic/ph hi-d/u ">United States Transportation Command</u>.</p>
          <p outputclass="List3" class="- topic/p ">Directorate of Acquisition</p>
-         <p outputclass="List2" class="- topic/p ">(22) Washington Headquarters Services.</p>
+         <p outputclass="List2" class="- topic/p ">(21) <u class="+ topic/ph hi-d/u ">Washington Headquarters Services</u>.</p>
          <p outputclass="List3" class="- topic/p ">Acquisition Directorate</p>
       </conbody>
    </concept>

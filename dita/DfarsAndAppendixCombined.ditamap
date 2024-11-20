@@ -3774,7 +3774,7 @@
                          audience="DFARS_214.203"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="DFARS_214.203.html"/>
                <topicref navtitle="214.209 Cancellation of invitations before opening."
                          base="concept"
                          href="214.209.dita"
@@ -3962,7 +3962,7 @@
                          audience="DFARS_215.205"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="DFARS_215.205.html"/>
                <topicref navtitle="215.209 Solicitation provisions and contract clauses."
                          base="concept"
                          href="215.209.dita"
@@ -7282,6 +7282,14 @@
                          audience="DFARS_225.206"
                          xtrf="subtopic"
                          xtrc="DFARS_225.206.html"/>
+               <topicref href="225.270.dita"
+                         navtitle="225.270 Energy savings service contracts."
+                         outputclass="subtopic"
+                         props="225.270"
+                         audience="DFARS_225.270"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
             </topicref>
             <topicref navtitle="Subpart 225.3 - CONTRACTS PERFORMED OUTSIDE THE UNITED STATES"
                       base="NoTitle"
