@@ -3179,6 +3179,23 @@
                          xtrf="subtopic"
                          base="concept"/>
             </topicref>
+            <topicref href="PGI_225.2.dita"
+                      navtitle="PGI 225.2 - BUY AMERICAN—CONSTRUCTION MATERIALS"
+                      outputclass="SubPart"
+                      props="PGI 225.2"
+                      audience="DFARS_PGI_225.2"
+                      xtrc="DFARS_PGI_225.2.html"
+                      xtrf="SubPart"
+                      base="concept">
+               <topicref href="PGI_225.270.dita"
+                         navtitle="PGI 225.270 Energy savings service contracts."
+                         outputclass="subtopic"
+                         props="PGI 225.270"
+                         audience="DFARS_PGI_225.270"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+            </topicref>
             <topicref navtitle="PGI 225.3 -CONTRACTSPERFORMED OUTSIDE THE UNITED STATES"
                       base="concept"
                       href="PGI_225.3.dita"
