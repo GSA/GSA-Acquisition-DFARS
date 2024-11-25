@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_204.7403"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_204.7403" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">204.7403</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -14,10 +10,15 @@
                   base="i1381025"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">252.204-7014</xref> , Limitations on the Use or Disclosure of Information by Litigation Support Contractors, in all solicitations and contracts that involve litigation support services, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services.</p>
-         <p outputclass="List1" class="- topic/p ">(b) Use the clause at <xref href="252.204-7015.dita#DFARS_252.204-7015"
+         <p outputclass="List1"
+            class="- topic/p "
+            rev="Revised November 25, 2024">(b) Use the clause at <xref href="252.204-7015.dita#DFARS_252.204-7015"
                   base="i1381041"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.204-7015</xref> , Notice of Authorized Disclosure of Information for Litigation Support, in all solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services.</p>
+                  class="- topic/xref ">252.204-7015</xref> , Notice of Authorized Disclosure of Information for Litigation Support, in solicitations and contracts that involve litigation support services, including solicitations and contracts using <xref href="https://www.acquisition.gov/far/part-12"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR part 12</xref> procedures for the acquisition of commercial products and commercial services.</p>
       </conbody>
    </concept>
 </dita>
