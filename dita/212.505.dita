@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS_212.505"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_212.505" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">212.505</ph> 
        Applicability of certain laws to contracts for the acquisition of COTS items.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Commercially available off-the-shelf (COTS) items are a subset of commercial products. Therefore, any laws listed at FAR 12.503, FAR 12.504, 212.503, or 212.504 are also not applicable or modified in their applicability to contracts for the acquisition of COTS items. In addition to the laws listed at FAR 12.505 as specifically not applicable to COTS items, the following laws are not applicable to contracts for the acquisition of COTS items: </p>
-         <p class="- topic/p " outputclass="List1">(1) 10 U.S.C. 391, Reporting on Cyber Incidents with Respect to Networks and Information Systems of Operationally Critical Contractors and Certain Other Contractors, and 10 U.S.C. 393, Reporting on Penetrations of Networks and Information Systems of Certain Contractors.</p>
-         <p class="- topic/p " outputclass="List1">(2) Paragraph (a)(1) of 10 U.S.C. 4863, Requirement to buy strategic materials critical to national security from American sources, except as provided at
-        <xref href="225.7003-3.dita#DFARS_225.7003-3"
+         <p class="- topic/p ">Commercially available off-the-shelf (COTS) items are a subset of commercial products. Therefore, any laws listed at <xref href="https://www.acquisition.gov/far/12.503"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 12.503</xref>, <xref href="https://www.acquisition.gov/far/12.504"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 12.504</xref>, <xref href="212.503.dita#DFARS_212.503"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">212.503</xref>, or <xref href="212.504.dita#DFARS_212.504"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">212.504</xref> are also not applicable <ph rev="Revised November 25, 2024" class="- topic/ph ">or are modified in their applicability</ph> to contracts for the acquisition of COTS items. In addition to the laws listed at <xref href="https://www.acquisition.gov/far/12.505"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 12.505</xref> as specifically not applicable to COTS items, the following laws are not applicable to contracts for the acquisition of COTS items: </p>
+         <p class="- topic/p " outputclass="List2">(1) 10 U.S.C. 391, Reporting on Cyber Incidents with Respect to Networks and Information Systems of Operationally Critical Contractors and Certain Other Contractors, and 10 U.S.C. 393, Reporting on Penetrations of Networks and Information Systems of Certain Contractors.</p>
+         <p class="- topic/p " outputclass="List2">(2) Paragraph (a)(1) of 10 U.S.C. 4863, Requirement to buy strategic materials critical to national security from American sources, except as provided at <xref href="225.7003-3.dita#DFARS_225.7003-3"
                   base="i1379135"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.7003-3</xref>
-         (b)(2)(i).</p>
-         <p outputclass="List1" class="- topic/p ">(3) Paragraph (a)(1) of 10 U.S.C. 4872, Prohibition on acquisition of sensitive materials from non-allied foreign nations, except as provided at
-        <xref href="225.7018-3.dita#DFARS_225.7018-3"
+                  class="- topic/xref ">225.7003-3</xref> (b)(2)(i).</p>
+         <p outputclass="List2" class="- topic/p ">(3) Paragraph (a)(1) of 10 U.S.C. 4872, Prohibition on acquisition of sensitive materials from non-allied foreign nations, except as provided at <xref href="225.7018-3.dita#DFARS_225.7018-3"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">225.7018-3</xref>
-         (c)(1).</p>
+                  class="- topic/xref ">225.7018-3</xref> (c)(1).</p>
       </conbody>
    </concept>
 </dita>
