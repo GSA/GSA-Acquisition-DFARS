@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars" rev="Revised November 25, 2024">
+<map title="DFARS" outputclass="dfars" rev="Revised December 18, 2024">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -5857,6 +5857,15 @@
                       xtrc="DFARS_SUBPART_216.5.html"
                       tables="0"
                       figures="0">
+               <topicref href="216.500.dita"
+                         navtitle="216.500 Scope of subpart."
+                         outputclass="subtopic"
+                         props="216.500"
+                         audience="DFARS_216.500"
+                         xtrf="subtopic"
+                         base="NoTitle"
+                         tables="0"
+                         figures="0"/>
                <topicref navtitle="216.501 RESERVED"
                          base="concept"
                          href="216.501.dita"
@@ -24758,7 +24767,7 @@
                       audience="DFARS_270.000"
                       xtrf="subtopic"
                       base="concept"
-                      xtrc=""
+                      xtrc="DFARS_270.000.html"
                       tables="0"
                       figures="0"/>
             <topicref href="SUBPART_270.1.dita"
@@ -24778,7 +24787,7 @@
                          audience="DFARS_270.100"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_270.100.html"
                          tables="0"
                          figures="0"/>
                <topicref href="270.101.dita"
@@ -24788,7 +24797,7 @@
                          audience="DFARS_270.101"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_270.101.html"
                          tables="0"
                          figures="0"/>
                <topicref href="270.102.dita"
@@ -24798,7 +24807,7 @@
                          audience="DFARS_270.102"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_270.102.html"
                          tables="0"
                          figures="0"/>
                <topicref href="270.103.dita"
@@ -24808,7 +24817,7 @@
                          audience="DFARS_270.103"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_270.103.html"
                          tables="0"
                          figures="0"/>
                <topicref href="270.104.dita"
@@ -24818,7 +24827,7 @@
                          audience="DFARS_270.104"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_270.104.html"
                          tables="0"
                          figures="0"/>
                <topicref href="270.105.dita"
@@ -24828,7 +24837,7 @@
                          audience="DFARS_270.105"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_270.105.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -26462,6 +26471,15 @@
                       xtrc="DFARS_SUBPART_PGI_204_6.html"
                       tables="0"
                       figures="0">
+               <topicref href="PGI_204.601.dita"
+                         navtitle="PGI 204.601 Definitions."
+                         outputclass="subtopic"
+                         props="PGI 204.601"
+                         audience="DFARS_PGI_204.601"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0"/>
                <topicref navtitle="PGI 204.602 General."
                          base="concept"
                          href="PGI_204.602.dita"
@@ -33643,7 +33661,7 @@
                          audience="DFARS_PGI_270.104"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_PGI_270.104.html"
                          tables="0"
                          figures="0"/>
             </topicref>
