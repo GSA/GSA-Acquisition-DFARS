@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+<dita>
    <concept id="DFARS_PGI_253.215-70"
             outputclass="4"
-            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 253.215-70</ph> DD Form 1547,Record of Weighted Guidelines Application.</title>
@@ -71,8 +68,7 @@ the code assigned the contracting office per DoD Procurement Coding
 Manual, Volume III.</p>
          <p outputclass="List2" class="- topic/p ">(6) BLOCK 6—NAME OF CONTRACTOR. Enter the
 contractor's name (including division name).</p>
-         <p outputclass="List2" class="- topic/p ">(7) BLOCK 7—DUNS NUMBER. Enter the contractor
-establishment code number.</p>
+         <p outputclass="List2" class="- topic/p ">(7) BLOCK 7—<ph rev="Revised December 18, 2024" class="- topic/ph ">UNIQUE ENTITY IDENTIFIER</ph>. Enter the contractor <ph rev="Revised December 18, 2024" class="- topic/ph ">UEI</ph>.</p>
          <p outputclass="List2" class="- topic/p ">(8) BLOCK 8—FEDERAL SUPPLY CODE.</p>
          <p outputclass="List2" class="- topic/p ">(9) BLOCK 9—DOD CLAIMANT PROGRAM.</p>
          <p outputclass="List2" class="- topic/p ">(10) BLOCK 10—CONTRACT TYPE CODE. Enter

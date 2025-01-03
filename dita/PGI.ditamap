@@ -350,6 +350,14 @@
                       audience="DFARS_SUBPART_PGI_204_6"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_PGI_204_6.html">
+               <topicref href="PGI_204.601.dita"
+                         navtitle="PGI 204.601 Definitions."
+                         outputclass="subtopic"
+                         props="PGI 204.601"
+                         audience="DFARS_PGI_204.601"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
                <topicref navtitle="PGI 204.602 General."
                          base="concept"
                          href="PGI_204.602.dita"

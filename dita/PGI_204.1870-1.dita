@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
+<dita>
    <concept id="DFARS_PGI_204.1870-1"
             outputclass="4"
-            ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PGI 204.1870-1</ph> Instructions to contracting officers.</title>
@@ -19,7 +16,7 @@
                   href="PGI_204.1870-2.dita#DFARS_PGI_204.1870-2"
                   xtrc="204.1870-2">204.1870-2</xref>
             (c) for contact information);</p>
-         <p outputclass="List1" class="- topic/p ">(b) Not deny a potential offeror a solicitation package because the offeror does not have a CAGE code, DUNS number, or TIN;</p>
+         <p outputclass="List1" class="- topic/p ">(b) Not deny a potential offeror a solicitation package because the offeror does not have a CAGE code, <ph rev="Revised December 18, 2024" class="- topic/ph ">unique entity identifier</ph>, or TIN;</p>
          <p outputclass="List1" class="- topic/p ">(c) Not require a contractor to register sections or locations of their organization in SAM for reasons not already required by clauses present in their contracts in order to obtain a CAGE code; and</p>
          <p outputclass="List1" class="- topic/p ">(d) Not require a contractor to obtain new CAGE codes or change CAGE code records assigned to their locations solely for Government administration purposes (such as a result of a Government reorganization, change in Government contracting officer or office) or for distinction in Government systems beyond physical address and Electronic Funds Transfer (EFT) data.</p>
       </conbody>
