@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.215-7002"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
+<dita>
+   <concept id="DFARS_252.215-7002" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised January 17, 2025">
          <ph props="autonumber" class="- topic/ph ">252.215-7002</ph> Cost Estimating System Requirements.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in 
@@ -16,62 +12,74 @@
                   base="DFARS-215.408"
                   href="215.408.dita#DFARS_215.408">215.408</xref>
             (1), use the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">COST ESTIMATING SYSTEM REQUIREMENTS (DEC 2012)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.  </p>
+         <p class="- topic/p "
+            outputclass="Ctr_SmCaps"
+            rev="Revised January 17, 2025">COST ESTIMATING SYSTEM REQUIREMENTS (JAN 2025)</p>
+         <p class="- topic/p " outputclass="List1">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.  </p>
          <p class="- topic/p ">“Acceptable estimating system” means an estimating system that complies with the system criteria in paragraph (d) of this clause, and provides for a system that—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Is maintained, reliable, and consistently applied;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Produces verifiable, supportable, documented, and timely cost estimates that are an acceptable basis for negotiation of fair and reasonable prices;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Is consistent with and integrated with the Contractor’s related management systems; and</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Is subject to applicable financial control systems.	</p>
+         <p class="- topic/p " outputclass="List2">(1)  Is maintained, reliable, and consistently applied;</p>
+         <p class="- topic/p " outputclass="List2">(2)  Produces verifiable, supportable, documented, and timely cost estimates that are an acceptable basis for negotiation of fair and reasonable prices;</p>
+         <p class="- topic/p " outputclass="List2">(3)  Is consistent with and integrated with the Contractor’s related management systems; and</p>
+         <p class="- topic/p " outputclass="List2">(4)  Is subject to applicable financial control systems.	</p>
          <p class="- topic/p ">“Estimating system” means the Contractor's policies, procedures, and practices for budgeting and planning controls, and generating estimates of costs and other data included in proposals submitted to customers in the expectation of receiving contract awards.  Estimating system includes the Contractor's—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Organizational structure;</p>
-         <p outputclass="List2" class="- topic/p ">(2)  Established lines of authority, duties, and responsibilities;</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Internal controls and managerial reviews;</p>
-         <p outputclass="List2" class="- topic/p ">(4)  Flow of work, coordination, and communication; and</p>
-         <p outputclass="List2" class="- topic/p ">(5)  Budgeting, planning, estimating methods, techniques, accumulation of historical costs, and other analyses used to generate cost estimates.</p>
-         <p class="- topic/p ">“Significant deficiency” means a shortcoming in the system that materially affects the ability of officials of the Department of Defense to rely upon data and information produced by the system that is needed for management purposes.</p>
-         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">General</i>.  The Contractor shall establish, maintain, and comply with an acceptable estimating system.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">Applicability</i>.  Paragraphs (d) and (e) of this clause apply if the Contractor is a large business and either—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  In its fiscal year preceding award of this contract, received Department of Defense (DoD) prime contracts or subcontracts, totaling $50 million or more for which certified cost or pricing data were required; or</p>
-         <p outputclass="List2" class="- topic/p ">(2)  In its fiscal year preceding award of this contract—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Received DoD prime contracts or subcontracts totaling $10 million or more (but less than $50 million) for which certified cost or pricing data were required; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Was notified, in writing, by the Contracting Officer that paragraphs (d) and (e) of this clause apply.</p>
-         <p outputclass="List1" class="- topic/p ">(d)  <i class="+ topic/ph hi-d/i ">System requirements</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(1)  The Contractor shall disclose its estimating system to the Administrative Contracting Officer (ACO), in writing. If the Contractor wishes the Government to protect the data and information as privileged or confidential, the Contractor must mark the documents with the appropriate legends before submission.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  An estimating system disclosure is acceptable when the Contractor has provided the ACO with documentation that—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Accurately describes those policies, procedures, and practices that the Contractor currently uses in preparing cost proposals; and </p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Provides sufficient detail for the Government to reasonably make an informed judgment regarding the acceptability of the Contractor's estimating practices.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The Contractor shall—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Comply with its disclosed estimating system; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Disclose significant changes to the cost estimating system to the ACO on a timely basis.</p>
-         <p outputclass="List2" class="- topic/p ">(4)  The Contractor’s estimating system shall provide for the use of appropriate source data, utilize sound estimating techniques and good judgment, maintain a consistent approach, and adhere to established policies and procedures.  An acceptable estimating system shall accomplish the following functions:</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Establish clear responsibility for preparation, review, and approval of cost estimates and budgets.</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Provide a written description of the organization and duties of the personnel responsible for preparing, reviewing, and approving cost estimates and budgets.</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Ensure that relevant personnel have sufficient training, experience, and guidance to perform estimating and budgeting tasks in accordance with the Contractor's established procedures.</p>
-         <p outputclass="List3" class="- topic/p ">(iv)  Identify and document the sources of data and the estimating methods and rationale used in developing cost estimates and budgets.</p>
-         <p outputclass="List3" class="- topic/p ">(v)  Provide for adequate supervision throughout the estimating and budgeting process.</p>
-         <p outputclass="List3" class="- topic/p ">(vi)  Provide for consistent application of estimating and budgeting techniques. </p>
-         <p outputclass="List3" class="- topic/p ">(vii)  Provide for detection and timely correction of errors.</p>
-         <p outputclass="List3" class="- topic/p ">(viii)  Protect against cost duplication and omissions.</p>
-         <p outputclass="List3" class="- topic/p ">(ix)  Provide for the use of historical experience, including historical vendor pricing data, where appropriate.</p>
-         <p outputclass="List3" class="- topic/p ">(x)  Require use of appropriate analytical methods.</p>
-         <p outputclass="List3" class="- topic/p ">(xi)  Integrate data and information available from other management systems.</p>
-         <p outputclass="List3" class="- topic/p ">(xii)  Require management review, including verification of compliance with the company's estimating and budgeting policies, procedures, and practices.</p>
-         <p outputclass="List3" class="- topic/p ">(xiii)  Provide for internal review of, and accountability for, the acceptability of the estimating system, including the budgetary data supporting indirect cost estimates and comparisons of projected results to actual results, and an analysis of any differences.</p>
-         <p outputclass="List3" class="- topic/p ">(xiv)  Provide procedures to update cost estimates and notify the Contracting Officer in a timely manner throughout the negotiation process. </p>
-         <p outputclass="List3" class="- topic/p ">(xv)  Provide procedures that ensure subcontract prices are reasonable based on a documented review and analysis provided with the prime proposal, when practicable. </p>
-         <p outputclass="List3" class="- topic/p ">(xvi)  Provide estimating and budgeting practices that consistently generate sound proposals that are compliant with the provisions of the solicitation and are adequate to serve as a basis to reach a fair and reasonable price.</p>
-         <p outputclass="List3" class="- topic/p ">(xvii)  Have an adequate system description, including policies, procedures, and estimating and budgeting practices, that comply with the Federal Acquisition Regulation and Defense Federal Acquisition Regulation Supplement.</p>
-         <p outputclass="List1" class="- topic/p ">(e)  <i class="+ topic/ph hi-d/i ">Significant deficiencies.</i>
+         <p class="- topic/p " outputclass="List2">(1)  Organizational structure;</p>
+         <p class="- topic/p " outputclass="List2">(2)  Established lines of authority, duties, and responsibilities;</p>
+         <p class="- topic/p " outputclass="List2">(3)  Internal controls and managerial reviews;</p>
+         <p class="- topic/p " outputclass="List2">(4)  Flow of work, coordination, and communication; and</p>
+         <p class="- topic/p " outputclass="List2">(5)  Budgeting, planning, estimating methods, techniques, accumulation of historical costs, and other analyses used to generate cost estimates.</p>
+         <p class="- topic/p "
+            rev="Revised January 17, 2025"
+            outputclass="List1">“Material weakness” means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. A reasonable possibility exists when the likelihood of an event occurring is—</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised January 17, 2025"> (1) Probable; or</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised January 17, 2025"> (2) More than remote but less than likely (section 806 of Pub. L. 116-283).</p>
+         <p class="- topic/p " outputclass="List1">(b)  <i class="+ topic/ph hi-d/i ">General</i>.  The Contractor shall establish, maintain, and comply with an acceptable estimating system.</p>
+         <p class="- topic/p " outputclass="List1">(c)  <i class="+ topic/ph hi-d/i ">Applicability</i>.  Paragraphs (d) and (e) of this clause apply if the Contractor is a large business and either—</p>
+         <p class="- topic/p " outputclass="List2">(1)  In its fiscal year preceding award of this contract, received Department of Defense (DoD) prime contracts or subcontracts, totaling $50 million or more for which certified cost or pricing data were required; or</p>
+         <p class="- topic/p " outputclass="List2">(2)  In its fiscal year preceding award of this contract—</p>
+         <p class="- topic/p " outputclass="List3">(i)  Received DoD prime contracts or subcontracts totaling $10 million or more (but less than $50 million) for which certified cost or pricing data were required; and</p>
+         <p class="- topic/p " outputclass="List3">(ii)  Was notified, in writing, by the Contracting Officer that paragraphs (d) and (e) of this clause apply.</p>
+         <p class="- topic/p " outputclass="List1">(d)  <i class="+ topic/ph hi-d/i ">System requirements</i>.</p>
+         <p class="- topic/p " outputclass="List2">(1)  The Contractor shall disclose its estimating system to the Administrative Contracting Officer (ACO), in writing. If the Contractor wishes the Government to protect the data and information as privileged or confidential, the Contractor must mark the documents with the appropriate legends before submission.</p>
+         <p class="- topic/p " outputclass="List2">(2)  An estimating system disclosure is acceptable when the Contractor has provided the ACO with documentation that—</p>
+         <p class="- topic/p " outputclass="List3">(i)  Accurately describes those policies, procedures, and practices that the Contractor currently uses in preparing cost proposals; and </p>
+         <p class="- topic/p " outputclass="List3">(ii)  Provides sufficient detail for the Government to reasonably make an informed judgment regarding the acceptability of the Contractor's estimating practices.</p>
+         <p class="- topic/p " outputclass="List2">(3)  The Contractor shall—</p>
+         <p class="- topic/p " outputclass="List3">(i)  Comply with its disclosed estimating system; and</p>
+         <p class="- topic/p " outputclass="List3">(ii)  Disclose significant changes to the cost estimating system to the ACO on a timely basis.</p>
+         <p class="- topic/p " outputclass="List2">(4)  The Contractor’s estimating system shall provide for the use of appropriate source data, utilize sound estimating techniques and good judgment, maintain a consistent approach, and adhere to established policies and procedures.  An acceptable estimating system shall accomplish the following functions:</p>
+         <p class="- topic/p " outputclass="List3">(i)  Establish clear responsibility for preparation, review, and approval of cost estimates and budgets.</p>
+         <p class="- topic/p " outputclass="List3">(ii)  Provide a written description of the organization and duties of the personnel responsible for preparing, reviewing, and approving cost estimates and budgets.</p>
+         <p class="- topic/p " outputclass="List3">(iii)  Ensure that relevant personnel have sufficient training, experience, and guidance to perform estimating and budgeting tasks in accordance with the Contractor's established procedures.</p>
+         <p class="- topic/p " outputclass="List3">(iv)  Identify and document the sources of data and the estimating methods and rationale used in developing cost estimates and budgets.</p>
+         <p class="- topic/p " outputclass="List3">(v)  Provide for adequate supervision throughout the estimating and budgeting process.</p>
+         <p class="- topic/p " outputclass="List3">(vi)  Provide for consistent application of estimating and budgeting techniques. </p>
+         <p class="- topic/p " outputclass="List3">(vii)  Provide for detection and timely correction of errors.</p>
+         <p class="- topic/p " outputclass="List3">(viii)  Protect against cost duplication and omissions.</p>
+         <p class="- topic/p " outputclass="List3">(ix)  Provide for the use of historical experience, including historical vendor pricing data, where appropriate.</p>
+         <p class="- topic/p " outputclass="List3">(x)  Require use of appropriate analytical methods.</p>
+         <p class="- topic/p " outputclass="List3">(xi)  Integrate data and information available from other management systems.</p>
+         <p class="- topic/p " outputclass="List3">(xii)  Require management review, including verification of compliance with the company's estimating and budgeting policies, procedures, and practices.</p>
+         <p class="- topic/p " outputclass="List3">(xiii)  Provide for internal review of, and accountability for, the acceptability of the estimating system, including the budgetary data supporting indirect cost estimates and comparisons of projected results to actual results, and an analysis of any differences.</p>
+         <p class="- topic/p " outputclass="List3">(xiv)  Provide procedures to update cost estimates and notify the Contracting Officer in a timely manner throughout the negotiation process. </p>
+         <p class="- topic/p " outputclass="List3">(xv)  Provide procedures that ensure subcontract prices are reasonable based on a documented review and analysis provided with the prime proposal, when practicable. </p>
+         <p class="- topic/p " outputclass="List3">(xvi)  Provide estimating and budgeting practices that consistently generate sound proposals that are compliant with the provisions of the solicitation and are adequate to serve as a basis to reach a fair and reasonable price.</p>
+         <p class="- topic/p " outputclass="List3">(xvii)  Have an adequate system description, including policies, procedures, and estimating and budgeting practices, that comply with the Federal Acquisition Regulation and Defense Federal Acquisition Regulation Supplement.</p>
+         <p class="- topic/p " outputclass="List1"> (e) <i class="+ topic/ph hi-d/i "/>
+            <ph class="- topic/ph " rev="Revised January 17, 2025">Material weaknesses</ph>
+            <i class="+ topic/ph hi-d/i ">.</i>
          </p>
-         <p outputclass="List2" class="- topic/p ">(1)  The Contracting Officer will provide an initial determination to the Contractor, in writing, of any significant deficiencies.  The initial determination will describe the deficiency in sufficient detail to allow the Contractor to understand the deficiency. </p>
-         <p outputclass="List2" class="- topic/p ">(2)  The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies significant deficiencies in the Contractor's estimating system.  If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.</p>
-         <p outputclass="List2" class="- topic/p ">(3)  The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer’s final determination concerning—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Remaining significant deficiencies;</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  The adequacy of any proposed or completed corrective action; and</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  System disapproval, if the Contracting Officer determines that one or more significant deficiencies remain. </p>
-         <p outputclass="List1" class="- topic/p ">(f)  If the Contractor receives the Contracting Officer’s final determination of significant deficiencies, the Contractor shall, within 45 days of receipt of the final determination, either correct the significant deficiencies or submit an acceptable corrective action plan showing milestones and actions to eliminate the significant deficiencies.</p>
-         <p outputclass="List1" class="- topic/p ">(g)  <i class="+ topic/ph hi-d/i ">Withholding payments.</i>  If the Contracting Officer makes a final determination to disapprove the Contractor’s estimating system, and the contract includes the clause at 
+         <p class="- topic/p " outputclass="List2"> (1) The Contracting Officer will provide an initial determination to the Contractor, in writing, of any <ph class="- topic/ph " rev="Revised January 17, 2025">material weaknesses</ph>. The initial determination will describe the <ph class="- topic/ph " rev="Revised January 17, 2025">underlying</ph> deficiency in sufficient detail to allow the Contractor to understand the <ph class="- topic/ph " rev="Revised January 17, 2025">weakness or</ph> deficiency.</p>
+         <p class="- topic/p " outputclass="List2"> (2) The Contractor shall respond within 30 days to a written initial determination from the Contracting Officer that identifies <ph class="- topic/ph " rev="Revised January 17, 2025">material weaknesses</ph> in the Contractor’s estimating system. If the Contractor disagrees with the initial determination, the Contractor shall state, in writing, its rationale for disagreeing.</p>
+         <p class="- topic/p " outputclass="List2">(3)  The Contracting Officer will evaluate the Contractor's response and notify the Contractor, in writing, of the Contracting Officer’s final determination concerning—</p>
+         <p class="- topic/p " outputclass="List3"> (i) Remaining <ph class="- topic/ph " rev="Revised January 17, 2025">material weaknesses</ph>;</p>
+         <p class="- topic/p " outputclass="List3">(ii)  The adequacy of any proposed or completed corrective action; and</p>
+         <p class="- topic/p " outputclass="List3"> (iii) System disapproval, if the Contracting Officer determines that one or more <ph class="- topic/ph " rev="Revised January 17, 2025">material weaknesses</ph> remain.</p>
+         <p class="- topic/p " outputclass="List1"> (f) If the Contractor receives the Contracting Officer’s final determination of <ph class="- topic/ph " rev="Revised January 17, 2025">material weaknesses</ph>, the Contractor shall, within 45 days of receipt of the final determination, either correct the <ph class="- topic/ph " rev="Revised January 17, 2025">material weaknesses</ph> or submit an acceptable corrective action plan showing milestones and actions to eliminate the <ph class="- topic/ph " rev="Revised January 17, 2025">material weaknesses</ph>.</p>
+         <p class="- topic/p " outputclass="List1">(g)  <i class="+ topic/ph hi-d/i ">Withholding payments.</i>  If the Contracting Officer makes a final determination to disapprove the Contractor’s estimating system, and the contract includes the clause at 
                <xref outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
                   base="i1383876"

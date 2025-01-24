@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_227.7103-9"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_227.7103-9" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">227.7103-9</ph> Copyright.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Copyright license.</i>
+         <p class="- topic/p " outputclass="List1">(a) <i class="+ topic/ph hi-d/i ">Copyright license.</i>
          </p>
-         <p outputclass="List2" class="- topic/p "> (1) The clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
+         <p class="- topic/p " outputclass="List2"> (1) The clause<ph class="- topic/ph " rev="Revised January 17, 2025">s</ph> at <xref outputclass="fm:ParaNumOnly"
+                  href="252.227-7013.dita#DFARS_252.227-7013"
                   base="DFARS-252.227-7013"
-                  href="252.227-7013.dita#DFARS_252.227-7013">252.227-7013</xref>, Rights in Technical Data - Other Than Commercial Products and Commercial Services, requires a contractor to grant or obtain for the Government license rights which permit the Government to reproduce data, distribute copies of the data, publicly perform or display the data or, through the right to modify data, prepare derivative works. The extent to which the Government, and others acting on its behalf, may exercise these rights varies for each of the standard data rights licenses obtained under the clause. When non-standard license rights in technical data will be negotiated, negotiate the extent of the copyright license concurrent with negotiations for the data rights license. Do not negotiate a copyright license that provides less rights than the standard limited rights license in technical data.</p>
-         <p outputclass="List2" class="- topic/p ">(2) The clause at <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-252.227-7013"
-                  href="252.227-7013.dita#DFARS_252.227-7013">252.227-7013</xref> does not permit a contractor to incorporate a third party's copyrighted data into a deliverable data item unless the contractor has obtained an appropriate license for the Government and, when applicable, others acting on the Government's behalf, or has obtained the contracting officer's written approval to do so. Grant approval to use third party copyrighted data in which the Government will not receive a copyright license only when the Government's requirements cannot be satisfied without the third party material or when the use of the third party material will result in cost savings to the Government which outweigh the lack of a copyright license.</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Copyright considerations - acquisition of existing and special works.</i> See <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.7105"
-                  href="227.7105.dita#DFARS_227.7105">227.7105</xref> or <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-227.7106"
-                  href="227.7106.dita#DFARS_227.7106">227.7106</xref> for copyright considerations when acquiring existing or special works.</p>
+                  xtrc="252.227-7013"
+                  class="- topic/xref ">252.227-7013</xref>, Rights in Technical Data—Other Than Commercial Products and Commercial Services, <ph class="- topic/ph " rev="Revised January 17, 2025">and 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, require</ph> a contractor to grant or obtain for the Government license rights which permit the Government to reproduce data, distribute copies of the data, publicly perform or display the data or, through the right to modify data, prepare derivative works. The extent to which the Government, and others acting on its behalf, may exercise these rights varies for each of the standard data rights licenses obtained under the clause<ph class="- topic/ph " rev="Revised January 17, 2025">s</ph>. When non-standard license rights in technical data will be negotiated, negotiate the extent of the copyright license concurrent with negotiations for the data rights license. Do not negotiate a copyright license that provides less rights than the standard limited rights license in technical data.</p>
+         <p class="- topic/p " outputclass="List2">(2) The clause<ph class="- topic/ph " rev="Revised January 17, 2025">s</ph> at 252.227-7013 <ph class="- topic/ph " rev="Revised January 17, 2025">and 252.227-7018 do</ph> not permit a contractor to incorporate a third party's copyrighted data into a deliverable data item unless the contractor has obtained an appropriate license for the Government and, when applicable, others acting on the Government's behalf, or has obtained the contracting officer's written approval to do so. Grant approval to use third<ph class="- topic/ph " rev="Revised January 17, 2025">-</ph>party copyrighted data in which the Government will not receive a copyright license only when the Government's requirements cannot be satisfied without the third<ph class="- topic/ph " rev="Revised January 17, 2025">-</ph>party material or when the use of the third<ph class="- topic/ph " rev="Revised January 17, 2025">-</ph>party material will result in cost savings to the Government which outweigh the lack of a copyright license.</p>
+         <p class="- topic/p " outputclass="List1">(b) <i class="+ topic/ph hi-d/i ">Copyright considerations—acquisition of existing and special works.</i> See 227.7105 or 227.7106 for copyright considerations when acquiring existing or special works <ph class="- topic/ph " rev="Revised January 17, 2025">that are not SBIR/STTR data</ph>.</p>
       </conbody>
    </concept>
 </dita>

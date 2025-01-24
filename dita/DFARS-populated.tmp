@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars" rev="Revised December 18, 2024">
+<map title="DFARS" outputclass="dfars" rev="Revised January 17, 2025">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -4733,7 +4733,8 @@
                          props="216.500"
                          audience="DFARS_216.500"
                          xtrf="subtopic"
-                         base="NoTitle"/>
+                         base="NoTitle"
+                         xtrc=""/>
                <topicref navtitle="216.501 RESERVED"
                          base="concept"
                          href="216.501.dita"
@@ -10179,7 +10180,36 @@
                          outputclass="subtopic"
                          audience="DFARS_227.7104"
                          xtrf="subtopic"
-                         xtrc="DFARS_227.7104.html"/>
+                         xtrc="DFARS_227.7104.html">
+                  <topicref href="227.7104-1.dita"
+                            navtitle="227.7104-1 Policy."
+                            outputclass="subtopic"
+                            props="227.7104-1"
+                            audience="DFARS_227.7104-1"
+                            xtrf="subtopic"
+                            base="concept"/>
+                  <topicref href="227.7104-2.dita"
+                            navtitle="227.7104-2 Rights in SBIR or STTR data."
+                            outputclass="subtopic"
+                            props="227.7104-2"
+                            audience="DFARS_227.7104-2"
+                            xtrf="subtopic"
+                            base="concept"/>
+                  <topicref href="227.7104-3.dita"
+                            navtitle="227.7104-3 STTR program requirements."
+                            outputclass="subtopic"
+                            props="227.7104-3"
+                            audience="DFARS_227.7104-3"
+                            xtrf="subtopic"
+                            base="concept"/>
+                  <topicref href="227.7104-4.dita"
+                            navtitle="227.7104-4 Solicitation provisions and contract clauses."
+                            outputclass="subtopic"
+                            props="227.7104-4"
+                            audience="DFARS_227.7104-4"
+                            xtrf="subtopic"
+                            base="concept"/>
+               </topicref>
                <topicref navtitle="227.7105 Contracts for the acquisition of existing works."
                          base="concept"
                          href="227.7105.dita"
@@ -11898,14 +11928,22 @@
                    audience="DFARS_PART_234"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="234.001 Definition."
+            <topicref navtitle="234.001 Reserved."
                       base="concept"
                       href="234.001.dita"
                       props="234.001"
                       outputclass="subtopic"
                       audience="DFARS_234.001"
-                      xtrf="subtopic"
-                      xtrc="DFARS_234.001.html"/>
+                      xtrf="No"
+                      xtrc="DFARS_234.001.html">
+               <topicref href="234.001-70.dita"
+                         navtitle="234.001-70 Definitions."
+                         outputclass="subtopic"
+                         props="234.001-70"
+                         audience="DFARS_234.001-70"
+                         xtrf="subtopic"
+                         base="concept"/>
+            </topicref>
             <topicref navtitle="234.003 Responsibilities."
                       base="concept"
                       href="234.003.dita"
@@ -18147,6 +18185,20 @@
                             audience="DFARS_252.227-7039"
                             xtrf="subtopic"
                             xtrc=""/>
+                  <topicref href="252.227-7040.dita"
+                            navtitle="252.227-7040 Additional Preaward Requirements for Small Business Technology Transfer Program."
+                            outputclass="subtopic"
+                            props="252.227-7040"
+                            audience="DFARS_252.227-7040"
+                            xtrf="subtopic"
+                            base="concept"/>
+                  <topicref href="252.227-7041.dita"
+                            navtitle="252.227-7041 Additional Postaward Requirements for Small Business Technology Transfer Program."
+                            outputclass="subtopic"
+                            props="252.227-7041"
+                            audience="DFARS_252.227-7041"
+                            xtrf="subtopic"
+                            base="concept"/>
                </topicref>
                <topicref navtitle="252.228 RESERVED"
                          base="concept"
@@ -21323,7 +21375,8 @@
                          props="PGI 204.601"
                          audience="DFARS_PGI_204.601"
                          xtrf="subtopic"
-                         base="concept"/>
+                         base="concept"
+                         xtrc=""/>
                <topicref navtitle="PGI 204.602 General."
                          base="concept"
                          href="PGI_204.602.dita"
@@ -24910,6 +24963,29 @@
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""/>
+               </topicref>
+               <topicref href="PGI_227.7104.dita"
+                         navtitle="PGI 227.7104 Contracts under the Small Business Innovation Research Program and Small Business Technology Transfer Program."
+                         outputclass="subtopic"
+                         props="PGI 227.7104"
+                         audience="DFARS_PGI_227.7104"
+                         xtrc="DFARS_PGI_227.7104.html"
+                         xtrf="subtopic"
+                         base="concept">
+                  <topicref href="PGI_227.7104-1.dita"
+                            navtitle="PGI 227.7104-1 Policy."
+                            outputclass="subtopic"
+                            props="PGI 227.7104-1"
+                            audience="DFARS_PGI_227.7104-1"
+                            xtrf="subtopic"
+                            base="concept"/>
+                  <topicref href="PGI_227.7104-2.dita"
+                            navtitle="PGI 227.7104-2 Rights in SBIR or STTR data."
+                            outputclass="subtopic"
+                            props="PGI 227.7104-2"
+                            audience="DFARS_PGI_227.7104-2"
+                            xtrf="subtopic"
+                            base="concept"/>
                </topicref>
             </topicref>
             <topicref href="PGI_227.72.dita"

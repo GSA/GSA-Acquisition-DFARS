@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_227.7103-6"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_227.7103-6" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">227.7103-6</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -25,13 +21,14 @@
                   href="227.7102-4.dita#DFARS_227.7102-4">227.7102-4</xref>), existing works (see <xref outputclass="fm:ParaNumOnly"
                   href="227.7105.dita#DFARS_227.7105"
                   base="DFARS-227.7105"
-                  class="- topic/xref ">227.7105</xref> ), special works (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">227.7105</xref> ), <ph rev="Revised January 17, 2025" class="- topic/ph ">or</ph> special works (see <xref outputclass="fm:ParaNumOnly"
                   href="227.7106.dita#DFARS_227.7106"
                   base="DFARS-227.7106"
-                  class="- topic/xref ">227.7106</xref> ), or when contracting under the Small Business Innovation Research Program (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">227.7106</xref> ). <ph rev="Revised January 17, 2025" class="- topic/ph ">W</ph>hen contracting under the Small Business Innovation Research<ph rev="Revised January 17, 2025" class="- topic/ph "> (SBIR)</ph> Program <ph rev="Revised January 17, 2025" class="- topic/ph ">or the Small Business Technology Transfer (STTR) Program,</ph> see <xref outputclass="fm:ParaNumOnly"
                   href="227.7104.dita#DFARS_227.7104"
                   base="DFARS-227.7104"
-                  class="- topic/xref ">227.7104</xref> ). Except as provided in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">
+               <ph rev="Revised January 17, 2025" class="- topic/ph ">-4(a)</ph>227.7104</xref> . Except as provided in <xref outputclass="fm:ParaNumOnly"
                   href="227.7107-2.dita#DFARS_227.7107-2"
                   base="i1379774"
                   class="- topic/xref ">227.7107-2</xref> , do not use the clause in architect-engineer and construction contracts.</p>

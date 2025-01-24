@@ -1,61 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.227-7016"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title "> 
+<dita>
+   <concept id="DFARS_252.227-7016" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.227-7016</ph> Rights in Bid or Proposal Information.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in <xref href="227.7103-6.dita#DFARS_227.7103-6"
-                  base="DFARS-227.7103-6"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7103-6</xref>(e)(1), <xref href="227.7104.dita#DFARS_227.7104"
-                  base="DFARS-227.7104"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7104</xref> (e)(1), or <xref href="227.7203-6.dita#DFARS_227.7203-6"
-                  base="i1379842"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">227.7203-6</xref> (b), use the
-following clause:</p>
+         <p class="- topic/p " rev="Revised January 17, 2025">As prescribed in <xref href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/227_71.htm#227.7103-6"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">227.7103-6</xref>(e)(1), <xref href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/227_71.htm#227.7104"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">227.7104</xref>
+            <ph class="- topic/ph " rev="Revised January 17, 2025">-4(b)</ph>(1), or <xref href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/227_72.htm#227.7203-6"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">227.7203-6</xref>(b), use the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">RIGHTS IN BID OR PROPOSAL INFORMATION
 (JAN 2023)</p>
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(1) For contracts that require the delivery of technical data, the terms “technical data” and “computer software” are defined in the Rights in Technical Data—Other Than Commercial Products and Commercial Services clause of this contract or, if this is a contract awarded under the Small Business Innovation Research Program, the Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program clause of this contract.</p>
-         <p outputclass="List2" class="- topic/p ">(2) For contracts that do not require the delivery of technical data, the term “computer software” is defined in the Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation clause of this contract or, if this is a contract awarded under the Small Business Innovation Research Program, the Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program clause of this contract.</p>
-         <p outputclass="List1" class="- topic/p ">(b Government rights prior to contract
-award. By submission of its offer, the Offeror agrees that the Government—</p>
-         <p outputclass="List2" class="- topic/p ">(1) May reproduce the bid or proposal,
+         <p class="- topic/p " outputclass="List1">(a) <i class="+ topic/ph hi-d/i ">Definitions</i>. <ph class="- topic/ph " rev="Revised January 17, 2025">As used in this clause—</ph>
+         </p>
+         <p class="- topic/p "
+            rev="Revised January 17, 2025"
+            outputclass="List1"> “Computer software” is defined in—</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised January 17, 2025"> (1) The 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, clause of this contract; or</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised January 17, 2025"> (2) If this is a contract awarded under the Small Business Innovation Research Program or Small Business Technology Transfer Program, the 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program, clause of this contract.</p>
+         <p class="- topic/p " outputclass="List1">
+            <ph class="- topic/ph " rev="Revised January 17, 2025">“Technical data” is defined in—</ph>
+         </p>
+         <p class="- topic/p " outputclass="List2"> (1) <ph class="- topic/ph " rev="Revised January 17, 2025">The 252.227-7013, </ph>Rights in Technical Data— Other Than Commercial Products and Commercial Service<ph class="- topic/ph " rev="Revised January 17, 2025">s,</ph> clause of this contract<ph class="- topic/ph " rev="Revised January 17, 2025">;</ph> or</p>
+         <p class="- topic/p " outputclass="List2"> (2) If this is a contract awarded under the Small Business Innovation Research Program <ph class="- topic/ph " rev="Revised January 17, 2025">or Small Business Technology Transfer Program</ph>, <ph class="- topic/ph " rev="Revised January 17, 2025">the 252.227-7018,</ph>
+            <ph id="_Hlk181351028" class="- topic/ph ">Rights in </ph>Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program<ph class="- topic/ph " rev="Revised January 17, 2025"> and Small Business Technology Transfer</ph>
+            <ph class="- topic/ph " rev="Revised January 17, 2025">Program,</ph> clause of this contract.</p>
+         <p class="- topic/p " outputclass="List1">(b) Government rights prior to contract award. By submission of its offer, the Offeror agrees that the Government—</p>
+         <p class="- topic/p " outputclass="List2">(1) May reproduce the bid or proposal,
 or any portions thereof, to the extent necessary to evaluate the
 offer.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Except as provided in paragraph (d)
+         <p class="- topic/p " outputclass="List2">(2) Except as provided in paragraph (d)
 of this clause, shall use information contained in the bid or proposal
 only for evaluational purposes and shall not disclose, directly
 or indirectly, such information to any person including potential
 evaluators, unless that person has been authorized by the head of
 the agency, his or her designee, or the Contracting Officer to receive
 such information.</p>
-         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Government rights subsequent to
+         <p class="- topic/p " outputclass="List1">(c) <i class="+ topic/ph hi-d/i ">Government rights subsequent to
 contract award</i>. The Contractor agrees—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Except as provided in paragraphs (c)(2),
+         <p class="- topic/p " outputclass="List2">(1) Except as provided in paragraphs (c)(2),
 (d), and (e) of this clause, the Government shall have the rights
 to use, modify, reproduce, release, perform, display, or disclose
 information contained in the Contractor's bid or proposal within
 the Government. The Government shall not release, perform, display,
 or disclose such information outside the Government without the
 Contractor's written permission.</p>
-         <p outputclass="List2" class="- topic/p ">(2) The Government’s right to use, modify, reproduce, release, perform, display, or disclose information that is technical data or computer software required to be delivered under this contract are determined by the Rights in Technical Data—Other Than Commercial Products and Commercial Services, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, or Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program clause(s) of this contract.</p>
-         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Government-furnished information</i>.
+         <p class="- topic/p " outputclass="List2"> (2) The Government’s right to use, modify, reproduce, release, perform, display, or disclose information that is technical data or computer software required to be delivered under this contract are determined by the <ph class="- topic/ph " rev="Revised January 17, 2025">Defense Federal Acquisition Regulation Supplement (DFARS) 252.227-7013, </ph>Rights in Technical Data—Other Than Commercial Products and Commercial Services<ph class="- topic/ph " rev="Revised January 17, 2025">; DFARS 252.227-7014,</ph> Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation<ph class="- topic/ph " rev="Revised January 17, 2025">; </ph>or <ph class="- topic/ph " rev="Revised January 17, 2025">DFARS 252.227-7018,</ph> Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research <ph class="- topic/ph " rev="Revised January 17, 2025">Program and Small Business Technology Transfer </ph>Program<ph class="- topic/ph " rev="Revised January 17, 2025">,</ph> clause of this contract.</p>
+         <p class="- topic/p " outputclass="List1">(d) <i class="+ topic/ph hi-d/i ">Government-furnished information</i>.
 The Government's rights with respect to technical data or computer
 software contained in the Contractor's bid or proposal that were
 provided to the Contractor by the Government are subject only to restrictions
 on use, modification, reproduction, release, performance, display,
 or disclosure, if any, imposed by the developer or licensor of such
 data or software.</p>
-         <p outputclass="List1" class="- topic/p ">(e<i class="+ topic/ph hi-d/i ">) Information available without restrictions</i>.
+         <p class="- topic/p " outputclass="List1">(e<i class="+ topic/ph hi-d/i ">) Information available without restrictions</i>.
 The Government's rights to use, modify, reproduce, release, perform,
 display, or, disclose information contained in a bid or proposal,
 including technical data or computer software, and to permit others to
@@ -65,7 +75,7 @@ without restrictions other than a release or disclosure resulting
 from the sale, transfer, or other assignment of interest in the
 information to another party or the sale or transfer of some or
 all of a business entity or its assets to another party.</p>
-         <p outputclass="List1" class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">Flowdown.</i> The Contractor shall
+         <p class="- topic/p " outputclass="List1">(f) <i class="+ topic/ph hi-d/i ">Flowdown.</i> The Contractor shall
 include this clause in all subcontracts or similar contractual instruments
 and require its subcontractors or suppliers to do so without alteration,
 except to identify the parties.</p>

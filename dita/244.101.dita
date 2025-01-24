@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_244.101"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_244.101" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">244.101</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As used in this subpart——</p>
-         <p class="- topic/p ">“Acceptable purchasing system” and “purchasing system” are defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383924"
-                  href="252.244-7001.dita#DFARS_252.244-7001">252.244-7001</xref>
-            , Contractor Purchasing System Administration.</p>
-         <p class="- topic/p ">“Significant deficiency” is defined in the clause at 
-               <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="i1383924"
-                  href="252.244-7001.dita#DFARS_252.244-7001">252.244-7001</xref>
-            , Contractor Purchasing System Administration.</p>
+         <p class="- topic/p "
+            rev="Revised January 17, 2025"
+            outputclass="List1">“Acceptable purchasing system” means a purchasing system that complies with the system criteria in paragraph (c) of the clause at 252.244-7001.</p>
+         <p class="- topic/p "
+            rev="Revised January 17, 2025"
+            outputclass="List1">“Purchasing system” means the contractor’s system or systems for purchasing and subcontracting, including make-or-buy decisions, the selection of vendors, analysis of quoted prices, negotiation of prices with vendors, placing and administering of orders, and expediting delivery of materials.<ph class="- topic/ph " rev="Revised January 17, 2025"/> 
+         </p>
       </conbody>
    </concept>
 </dita>
