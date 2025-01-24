@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_252.225-7003"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_252.225-7003" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.225-7003</ph> Report of Intended Performance Outside the United States and Canada—Submission with Offer.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -16,21 +12,23 @@
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">225.7204</xref>
             (a), use the following provision:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">REPORT OF INTENDED PERFORMANCE OUTSIDE THE UNITED STATES AND CANADA—SUBMISSION WITH OFFER (OCT 2020)</p>
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definition</i>. “United States,” as used in this provision, means the 50 States, the District of Columbia, and outlying areas.</p>
-         <p outputclass="List1" class="- topic/p ">(b) The offeror shall submit, with its offer, a report of intended performance outside the United States and Canada if—</p>
-         <p outputclass="List2" class="- topic/p ">(1) The offer exceeds $15 million in value; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) The offeror is aware that the offeror or a first-tier subcontractor intends to perform any part of the contract outside the United States and Canada that—</p>
-         <p outputclass="List3" class="- topic/p ">(i) Exceeds $750,000 in value; and</p>
-         <p outputclass="List3" class="- topic/p ">(ii) Could be performed inside the United States or Canada.</p>
-         <p outputclass="List1" class="- topic/p ">(c) Information to be reported includes that for—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Subcontracts;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Purchases; and</p>
-         <p outputclass="List2" class="- topic/p ">(3) Intracompany transfers when transfers originate in a foreign location.</p>
-         <p outputclass="List1" class="- topic/p ">(d) The offeror shall submit the report using—</p>
-         <p outputclass="List2" class="- topic/p ">(1) DD Form 2139, Report of Contract Performance Outside the United States; or</p>
-         <p outputclass="List2" class="- topic/p ">(2) A computer-generated report that contains all information required by DD Form 2139.</p>
-         <p outputclass="List1" class="- topic/p ">(e) The offeror may obtain a copy of DD Form 2139 from the Contracting Officer or via the Internet at http://www.dtic.mil/whs/directives/infomgt/forms/formsprogram.htm.</p>
+         <p outputclass="Ctr_SmCaps"
+            class="- topic/p "
+            rev="Revised January 17, 2025">REPORT OF INTENDED PERFORMANCE OUTSIDE THE UNITED STATES AND CANADA—SUBMISSION WITH OFFER (JAN 2025)</p>
+         <p class="- topic/p " outputclass="List1">(a) <i class="+ topic/ph hi-d/i ">Definition</i>. “United States,” as used in this provision, means the 50 States, the District of Columbia, and outlying areas.</p>
+         <p class="- topic/p " outputclass="List1">(b) The <ph class="- topic/ph " rev="Revised January 17, 2025">O</ph>fferor shall submit, with its offer, a report of intended performance outside the United States and Canada if—</p>
+         <p class="- topic/p " outputclass="List2">(1) The offer exceeds $15 million in value; and</p>
+         <p class="- topic/p " outputclass="List2"> (2) The <ph class="- topic/ph " rev="Revised January 17, 2025">O</ph>fferor is aware that the <ph class="- topic/ph " rev="Revised January 17, 2025">O</ph>fferor or a first-tier subcontractor intends to perform any part of the contract outside the United States and Canada that—</p>
+         <p class="- topic/p " outputclass="List3">(i) Exceeds $750,000 in value; and</p>
+         <p class="- topic/p " outputclass="List3">(ii) Could be performed inside the United States or Canada.</p>
+         <p class="- topic/p " outputclass="List1">(c) Information to be reported includes that for—</p>
+         <p class="- topic/p " outputclass="List2">(1) Subcontracts;</p>
+         <p class="- topic/p " outputclass="List2">(2) Purchases; and</p>
+         <p class="- topic/p " outputclass="List2">(3) Intracompany transfers when transfers originate in a foreign location.</p>
+         <p class="- topic/p " outputclass="List1">(d) The <ph class="- topic/ph " rev="Revised January 17, 2025">O</ph>fferor shall submit the report using—</p>
+         <p class="- topic/p " outputclass="List2">(1) DD Form 2139, Report of Contract Performance Outside the United States; or</p>
+         <p class="- topic/p " outputclass="List2">(2) A computer-generated report that contains all information required by DD Form 2139.</p>
+         <p class="- topic/p " outputclass="List1">(e) The <ph class="- topic/ph " rev="Revised January 17, 2025">O</ph>fferor may obtain a copy of DD Form 2139 from the Contracting Officer or via the Internet at http://www.dtic.mil/whs/directives/infomgt/forms/formsprogram.htm.</p>
          <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
       </conbody>
    </concept>
