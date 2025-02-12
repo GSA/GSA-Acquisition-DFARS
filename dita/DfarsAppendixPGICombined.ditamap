@@ -11947,7 +11947,7 @@
                          audience="DFARS_234.001-70"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="DFARS_234.001-70.html"/>
             </topicref>
             <topicref navtitle="234.003 Responsibilities."
                       base="concept"
@@ -21560,23 +21560,23 @@
                             xtrc=""/>
                </topicref>
             </topicref>
-            <topicref
-navtitle="PGI 204.70 - RESERVED"
-base="NoTitle"
-href="PGI_204.70.dita"
-props="PGI 204.70"
-outputclass="SubPart"
-audience="DFARS_SUBPART_PGI_204_70"
-xtrf="SubPart"
-xtrc="DFARS_SUBPART_PGI_204_70.html"><topicref
-navtitle="PGI 204.7001 Reserved."
-base="concept"
-href="PGI_204.7001.dita"
-props="PGI 204.7001"
-outputclass="subtopic"
-audience="DFARS_PGI_204.7001"
-xtrf="subtopic"
-xtrc="DFARS_PGI_204.7001.html"/></topicref>
+            <topicref navtitle="PGI 204.70 - RESERVED"
+                      base="NoTitle"
+                      href="PGI_204.70.dita"
+                      props="PGI 204.70"
+                      outputclass="SubPart"
+                      audience="DFARS_SUBPART_PGI_204_70"
+                      xtrf="SubPart"
+                      xtrc="DFARS_SUBPART_PGI_204_70.html">
+               <topicref navtitle="PGI 204.7001 Reserved."
+                         base="concept"
+                         href="PGI_204.7001.dita"
+                         props="PGI 204.7001"
+                         outputclass="subtopic"
+                         audience="DFARS_PGI_204.7001"
+                         xtrf="subtopic"
+                         xtrc="DFARS_PGI_204.7001.html"/>
+            </topicref>
             <topicref navtitle="PGI 204.71 -UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM"
                       base="NoTitle"
                       href="PGI_204.71.dita"
@@ -24674,23 +24674,23 @@ xtrc="DFARS_PGI_204.7001.html"/></topicref>
                             audience="DFARS_PGI_225.7020-4"
                             xtrc=""/>
                </topicref>
-               <topicref
-href="PGI_225.7021.dita"
-props="PGI 225.7021"
-outputclass="subtopic"
-navtitle="PGI 225.7021 Disclosure requirements for employment transparency regarding individuals who perform work in the People’s Republic of China."
-audience="DFARS_PGI_225.7021"
-xtrc="DFARS_PGI_225.7021.html"
-base="concept"
-xtrf="subtopic"><topicref
-href="PGI_225.7021-3.dita"
-props="PGI 225.7021-3"
-outputclass="subtopic"
-navtitle="PGI 225.7021-3 National security waiver of disclosure."
-audience="DFARS_PGI_225.7021-3"
-base="concept"
-xtrc=""
-xtrf="subtopic"/></topicref>
+               <topicref href="PGI_225.7021.dita"
+                         props="PGI 225.7021"
+                         outputclass="subtopic"
+                         navtitle="PGI 225.7021 Disclosure requirements for employment transparency regarding individuals who perform work in the People’s Republic of China."
+                         audience="DFARS_PGI_225.7021"
+                         xtrc="DFARS_PGI_225.7021.html"
+                         base="concept"
+                         xtrf="subtopic">
+                  <topicref href="PGI_225.7021-3.dita"
+                            props="PGI 225.7021-3"
+                            outputclass="subtopic"
+                            navtitle="PGI 225.7021-3 National security waiver of disclosure."
+                            audience="DFARS_PGI_225.7021-3"
+                            base="concept"
+                            xtrc=""
+                            xtrf="subtopic"/>
+               </topicref>
             </topicref>
             <topicref navtitle="PGI 225.72 -REPORTING CONTRACT PERFORMANCE OUTSIDE THE UNITED STATES"
                       base="NoTitle"
