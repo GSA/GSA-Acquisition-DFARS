@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_250.102-1-70"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+   <concept id="DFARS_250.102-1-70" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">250.102-1-70</ph> Delegations.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Military departments.</i>The Departments of the Army, Navy, and Air Force will specify delegations and levels of authority for actions under the Act and the Executive Order in departmental supplements or agency acquisition guidance.</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Defense agencies.</i>Subject to the restrictions on delegations of authority in 
+         <p class="- topic/p " outputclass="List1">(a) <i class="+ topic/ph hi-d/i ">Military departments.</i>The Departments of the Army, Navy, and Air Force will specify delegations and levels of authority for actions under the Act and the Executive Order in departmental supplements or agency acquisition guidance.</p>
+         <p class="- topic/p " outputclass="List1">(b) <i class="+ topic/ph hi-d/i ">Defense agencies.</i>Subject to the restrictions on delegations of authority in 
                <xref base="i1380813"
                   href="250.102-1.dita#DFARS_250.102-1"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">250.102-1</xref>
             (b) and FAR 50.102-1, the directors of the defense agencies may exercise and redelegate the authority contained in the Act and the Executive Order. The agency supplements or agency acquisition guidance shall specify the delegations and levels of authority.</p>
-         <p outputclass="List2" class="- topic/p ">(1) Requests to obligate the Government in excess of $75,000 must be submitted to the USD(A&amp;S) for approval.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Requests for indemnification against unusually hazardous or nuclear risks must be submitted to the USD(A&amp;S) for approval before using the indemnification clause at FAR 52.250-1, Indemnification Under Public Law 85-804.</p>
-         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Approvals.</i>The Secretary of the military department or the agency director must approve any delegations in writing.</p>
+         <p class="- topic/p " outputclass="List2"> (1) Requests to obligate the Government in excess of $<ph class="- topic/ph " rev="Revised October 1, 2025">90,000</ph> must be submitted to the USD(A&amp;S) for approval.</p>
+         <p class="- topic/p " outputclass="List2">(2) Requests for indemnification against unusually hazardous or nuclear risks must be submitted to the USD(A&amp;S) for approval before using the indemnification clause at FAR 52.250-1, Indemnification Under Public Law 85-804.</p>
+         <p class="- topic/p " outputclass="List1">(c) <i class="+ topic/ph hi-d/i ">Approvals.</i>The Secretary of the military department or the agency director must approve any delegations in writing.</p>
       </conbody>
    </concept>
 </dita>

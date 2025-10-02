@@ -1,30 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="DFARS_PGI_PART_205" class="- topic/topic "><title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI Part 205</ph> - PUBLICIZING CONTRACT ACTIONS</title><body class="- topic/body "><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+<dita>
+   <topic id="DFARS_PGI_PART_205" class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI Part 205</ph> - PUBLICIZING CONTRACT ACTIONS</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="PGI_205.1.dita#DFARS_SUBPART_PGI_205_1" class="- topic/xref ">PGI 205.1 - DISSEMINATION OF INFORMATION</xref>
+                  <xref outputclass="fm:TOC"
+                        href="PGI_205.1.dita#DFARS_SUBPART_PGI_205_1"
+                        class="- topic/xref ">PGI 205.1 - DISSEMINATION OF INFORMATION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="PGI_205.102.dita#DFARS_PGI_205.102" class="- topic/xref ">PGI 205.102 Availability of solicitations.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="PGI_205.102.dita#DFARS_PGI_205.102"
+                              class="- topic/xref ">PGI 205.102 Availability of solicitations.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-                           <p class="- topic/p "> <xref outputclass="fm:TOC" href="PGI_205.102-70.dita#DFARS_PGI_205.102-70" class="- topic/xref ">PGI 205.102-70 Availability of DoD solicitations.</xref> </p>
-                        </li></ul>
-                  </li></ul>
-            </li><li class="- topic/li ">
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p "> 
+                              <xref outputclass="fm:TOC"
+                                    href="PGI_205.102-70.dita#DFARS_PGI_205.102-70"
+                                    class="- topic/xref ">PGI 205.102-70 Availability of DoD solicitations.</xref> 
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="PGI_205.2.dita#DFARS_SUBPART_PGI_205_2" class="- topic/xref ">PGI 205.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS</xref>
+                  <xref outputclass="fm:TOC"
+                        href="PGI_205.2.dita#DFARS_SUBPART_PGI_205_2"
+                        class="- topic/xref ">PGI 205.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="PGI_205.205.dita#DFARS_PGI_205.205" class="- topic/xref ">PGI 205.205 Special situations.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="PGI_205.205.dita#DFARS_PGI_205.205"
+                              class="- topic/xref ">PGI 205.205 Special situations.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="PGI_205.207.dita#DFARS_PGI_205.207" class="- topic/xref ">PGI 205.207 Preparation and transmittal of synopses.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="PGI_205.207.dita#DFARS_PGI_205.207"
+                              class="- topic/xref ">PGI 205.207 Preparation and transmittal of synopses.</xref>
                      </p>
-                  </li></ul>
-            </li></ul></body></topic></dita>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

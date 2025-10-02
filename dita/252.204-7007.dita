@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
    <concept id="DFARS_252.204-7007" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.204-7007</ph> Alternate A, Annual Representations and Certifications.</title>
@@ -11,7 +11,9 @@
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">204.1202</xref> ,
 use the following provision:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps">Alternate A, Annual Representations and Certifications (Oct 2023)</p>
+         <p class="- topic/p "
+            outputclass="Ctr_SmCaps"
+            rev="Revised October 1, 2025">Alternate A, Annual Representations and Certifications (OCT 2025)</p>
          <p class="- topic/p ">Substitute the following paragraphs (b), (d), and (e) for paragraphs
 (b) and (d) of the provision at FAR 52.204-8:</p>
          <p class="- topic/p " outputclass="List1">(b)(1) If the provision at FAR 52.204-7,
@@ -58,13 +60,10 @@ wholly or in part in a foreign country.</p>
                   class="- topic/xref ">252.225-7049</xref> , Prohibition
 on Acquisition of Certain Foreign Commercial Satellite Services—Representations. Applies
 to solicitations for the acquisition of commercial satellite services.</p>
-         <p class="- topic/p " outputclass="List3">(v) <xref href="252.225-7050.dita#DFARS_252.225-7050"
-                  base="i1382515"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">252.225-7050</xref> , Disclosure
-of Ownership or Control by the Government of a Country that is a
-State Sponsor of Terrorism. Applies to all solicitations expected
-to result in contracts of $150,000 or more.</p>
+         <p class="- topic/p " outputclass="List3"> (v) <xref href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/252225.htm#252.225-7050"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">252.225-7050</xref>, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism. Applies to all solicitations expected to result in contracts of $<ph class="- topic/ph " rev="Revised October 1, 2025">200,000</ph> or more.</p>
          <p class="- topic/p " outputclass="List3">(vi) <xref href="252.229-7012.dita#DFARS_252.229-7012"
                   base="i1383180"
                   outputclass="fm:ParaNumOnly"
