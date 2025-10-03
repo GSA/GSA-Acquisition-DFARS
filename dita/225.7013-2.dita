@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="DFARS_225.7013-2"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title "> 
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+   <concept id="DFARS_225.7013-2" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.7013-2</ph> Restrictions.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1">(a) <i>Contract award (10 U.S.C. 8679).</i> Do not award a contract to construct in a foreign shipyard—</p>
-         <p outputclass="List2"> (1) A vessel for any of the armed forces; or </p>
-         <p outputclass="List2"> (2) A major component of the hull or superstructure of a vessel for any of the armed forces.</p>
-         <p outputclass="List1"> (b) <i>Overhaul, repair, or maintenance (10 U.S.C. 8680).</i>
+         <p class="- topic/p " outputclass="List1">(a) <i class="+ topic/ph hi-d/i ">Contract award (10 U.S.C. 8679).</i> Do not award a contract to construct in a foreign shipyard—</p>
+         <p class="- topic/p " outputclass="List2"> (1) A vessel for any of the armed forces; or </p>
+         <p class="- topic/p " outputclass="List2"> (2) A major component of the hull or superstructure of a vessel for any of the armed forces.</p>
+         <p class="- topic/p " outputclass="List1"> (b) <i class="+ topic/ph hi-d/i ">Overhaul, repair, or maintenance (10 U.S.C. 8680).</i>
          </p>
-         <p outputclass="List2"> (1) Do not overhaul, repair, or maintain, in a shipyard,outside the United States or Guam, a naval vessel (or any other vessel under the jurisdiction of the Secretary of the Navy) homeported in the United States or Guam.</p>
-         <p outputclass="List2">(2) This restriction on overhaul, repair, or maintenance does not apply to—</p>
-         <p outputclass="List3"> (i) Voyage repairs; or</p>
-         <p outputclass="List3"> (ii) Repairs necessary to correct damage sustained due to hostile actions or interventions.</p>
-         <p outputclass="List2"> (3) For a naval vessel classified as a littoral combat ship and operating on deployment—</p>
-         <p outputclass="List3"> (i) Corrective and preventive maintenance or repair, whether intermediate or depot level, and facilities maintenance may be performed if the work is performed by U.S. Government personnel or U.S. contractor personnel—</p>
-         <p outputclass="List4"> (A) In a foreign shipyard;</p>
-         <p outputclass="List4"> (B) At a facility outside of a foreign shipyard; or</p>
-         <p outputclass="List4"> (C) At any other facility convenient to the vessel;</p>
-         <p outputclass="List3"> (ii) Foreign workers may be used to perform corrective and preventive maintenance or repair, only if the Secretary of the Navy, without power of delegation, determines that travel by U.S. Government or contractor personnel to perform the maintenance or repair is not advisable for health or safety reasons; and</p>
-         <p outputclass="List3"> (iii) Foreign contractors may perform facilities maintenance only as approved by the Secretary of the Navy.</p>
+         <p class="- topic/p " outputclass="List2"> (1) Do not overhaul, repair, or maintain, in a shipyard,outside the United States or Guam, a naval vessel (or any other vessel under the jurisdiction of the Secretary of the Navy) homeported in the United States or Guam.</p>
+         <p class="- topic/p " outputclass="List2">(2) This restriction on overhaul, repair, or maintenance does not apply to—</p>
+         <p class="- topic/p " outputclass="List3"> (i) Voyage repairs; or</p>
+         <p class="- topic/p " outputclass="List3"> (ii) Repairs necessary to correct damage sustained due to hostile actions or interventions.</p>
+         <p class="- topic/p " outputclass="List2"> (3) For a naval vessel classified as a littoral combat ship and operating on deployment—</p>
+         <p class="- topic/p " outputclass="List3"> (i) Corrective and preventive maintenance or repair, whether intermediate or depot level, and facilities maintenance may be performed if the work is performed by U.S. Government personnel or U.S. contractor personnel—</p>
+         <p class="- topic/p " outputclass="List4"> (A) In a foreign shipyard;</p>
+         <p class="- topic/p " outputclass="List4"> (B) At a facility outside of a foreign shipyard; or</p>
+         <p class="- topic/p " outputclass="List4"> (C) At any other facility convenient to the vessel;</p>
+         <p class="- topic/p " outputclass="List3"> (ii) Foreign workers may be used to perform corrective and preventive maintenance or repair, only if the Secretary of the Navy, without power of delegation, determines that travel by U.S. Government or contractor personnel to perform the maintenance or repair is not advisable for health or safety reasons; and</p>
+         <p class="- topic/p " outputclass="List3"> (iii) Foreign contractors may perform facilities maintenance only as approved by the Secretary of <ph class="- topic/ph " rev="Revised October 1, 2025">the</ph> Navy.</p>
       </conbody>
    </concept>
 </dita>
