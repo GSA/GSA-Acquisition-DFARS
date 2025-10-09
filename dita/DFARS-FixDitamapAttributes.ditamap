@@ -2479,6 +2479,14 @@
                          xtrf="subtopic"
                          base="concept"
                          xtrc="DFARS_209.170.html">
+                  <topicref href="209.170-0.dita"
+                            navtitle="209.170-0 Scope."
+                            outputclass="subtopic"
+                            props="209.170-0"
+                            audience="DFARS_209.170-0"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
                   <topicref href="209.170-1.dita"
                             navtitle="209.170-1 Definitions."
                             outputclass="subtopic"
@@ -4790,7 +4798,7 @@
                             href="216.506-70.dita"
                             props="216.506-70"
                             outputclass="subtopic"
-                            audience="fGedae"
+                            audience="DFARS_216.506-70"
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
@@ -21072,7 +21080,7 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 xtrc="DFARS_PGI_a.html">
-         <topicref navtitle="PGI Part 201 - FEDERAL ACQUISITIONREGULATIONS SYSTEM"
+         <topicref navtitle="PGI Part 201 - FEDERAL ACQUISITION REGULATIONS SYSTEM"
                    base="NoTitle"
                    href="PGI_PART_201.dita"
                    props="PGI Part 201"
@@ -21763,7 +21771,7 @@
                          xtrf="subtopic"
                          base="concept">
                   <topicref href="PGI_205.102-70.dita"
-                            navtitle="PGI 205.102-70 Exception for prototype projects for follow-on production contracts."
+                            navtitle="PGI 205.102-70 Availability of DoD solicitations."
                             outputclass="subtopic"
                             props="PGI 205.102-70"
                             audience="DFARS_PGI_205.102-70"
