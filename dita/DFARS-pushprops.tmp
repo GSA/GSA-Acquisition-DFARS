@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars">
+<map title="DFARS" outputclass="dfars" rev="Revised October 1, 2025">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -3069,6 +3069,16 @@
                          xtrc="DFARS_209.170.html"
                          tables="0"
                          figures="0">
+                  <topicref href="209.170-0.dita"
+                            navtitle="209.170-0 Scope."
+                            outputclass="subtopic"
+                            props="209.170-0"
+                            audience="DFARS_209.170-0"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
                   <topicref href="209.170-1.dita"
                             navtitle="209.170-1 Definitions."
                             outputclass="subtopic"
@@ -5934,7 +5944,7 @@
                             href="216.506-70.dita"
                             props="216.506-70"
                             outputclass="subtopic"
-                            audience="fGedae"
+                            audience="DFARS_216.506-70"
                             xtrf="subtopic"
                             xtrc=""
                             tables="0"
@@ -14821,7 +14831,7 @@
                          audience="DFARS_234.001-70"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="DFARS_234.001-70.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -26168,7 +26178,7 @@
                 xtrc="DFARS_PGI_a.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="PGI Part 201 - FEDERAL ACQUISITIONREGULATIONS SYSTEM"
+         <topicref navtitle="PGI Part 201 - FEDERAL ACQUISITION REGULATIONS SYSTEM"
                    base="NoTitle"
                    href="PGI_PART_201.dita"
                    props="PGI Part 201"
@@ -27023,7 +27033,7 @@
                          tables="0"
                          figures="0">
                   <topicref href="PGI_205.102-70.dita"
-                            navtitle="PGI 205.102-70 Exception for prototype projects for follow-on production contracts."
+                            navtitle="PGI 205.102-70 Availability of DoD solicitations."
                             outputclass="subtopic"
                             props="PGI 205.102-70"
                             audience="DFARS_PGI_205.102-70"
