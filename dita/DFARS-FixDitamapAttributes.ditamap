@@ -2719,6 +2719,23 @@
                       audience="DFARS_SUBPART_209.5"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_209.5.html">
+               <topicref navtitle="209.503 [Reserved]"
+                         base="concept"
+                         href="209.503.dita"
+                         props="209.503"
+                         outputclass="subtopic"
+                         audience="DFARS_209.503"
+                         xtrf="subtopic"
+                         xtrc="DFARS_209.503.html">
+                  <topicref navtitle="209.503-70 Waiver."
+                            base="concept"
+                            href="209.503-70.dita"
+                            props="209.503-70"
+                            outputclass="subtopic"
+                            audience="DFARS_209.503-70"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
                <topicref navtitle="209.505 General rules."
                          base="concept"
                          href="209.505.dita"
@@ -2858,6 +2875,14 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
+               <topicref navtitle="209.572 Conflicts of interest in certain consulting services."
+                         base="concept"
+                         href="209.572.dita"
+                         props="209.572"
+                         outputclass="subtopic"
+                         audience="DFARS_209.572"
+                         xtrf="subtopic"
+                         xtrc="DFARS_209.572.html"/>
             </topicref>
          </topicref>
          <topicref navtitle="Part 210 - MARKET RESEARCH"
@@ -12815,6 +12840,14 @@
                          audience="DFARS_237.270"
                          xtrf="subtopic"
                          xtrc="DFARS_237.270.html"/>
+               <topicref href="237.271.dita"
+                         navtitle="237.271 Consulting services."
+                         outputclass="subtopic"
+                         props="237.271"
+                         audience="DFARS_237.271"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="DFARS_237.271.html"/>
             </topicref>
             <topicref navtitle="Subpart 237.5 - MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS"
                       base="NoTitle"
@@ -16399,6 +16432,14 @@
                             outputclass="subtopic"
                             props="252.209-7011"
                             audience="DFARS_252.209-7011"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="252.209-7012.dita"
+                            navtitle="252.209-7012 Prohibition Relating to Conflicts of Interest in Consulting Services—Certification."
+                            outputclass="subtopic"
+                            props="252.209-7012"
+                            audience="DFARS_252.209-7012"
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""/>
@@ -22561,6 +22602,23 @@
                       audience="DFARS_SUBPART_PGI_209_5"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_PGI_209_5.html">
+               <topicref navtitle="PGI 209.503 [Reserved]"
+                         base="concept"
+                         href="PGI_209.503.dita"
+                         props="PGI 209.503"
+                         outputclass="subtopic"
+                         audience="DFARS_PGI_209.503"
+                         xtrf="subtopic"
+                         xtrc="DFARS_PGI_209.503.html">
+                  <topicref navtitle="PGI 209.503-70 Waiver."
+                            base="concept"
+                            href="PGI_209.503-70.dita"
+                            props="PGI 209.503-70"
+                            outputclass="subtopic"
+                            audience="DFARS_PGI_209.503-70"
+                            xtrf="subtopic"
+                            xtrc=""/>
+               </topicref>
                <topicref navtitle="PGI 209.570 Limitations on contractors acting as lead system integrators."
                          base="concept"
                          href="PGI_209.570.dita"
