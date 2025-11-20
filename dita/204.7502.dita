@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_204.7502"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">204.7502</ph> Procedures.</title>
+<dita>
+   <concept id="DFARS_204.7502" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised November 10, 2025"> 
+         <ph props="autonumber" class="- topic/ph ">204.7502</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) When a requiring activity
-identifies a requirement for a contract, task order, or delivery
-order to include a specific CMMC level, the contracting officer
-shall not—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Award to an offeror that does not have
-a CMMC certificate at the level required by the solicitation; or</p>
-         <p outputclass="List2" class="- topic/p ">(2) Exercise an option or extend any period
-of performance on a contract, task order, or delivery order unless
-the contractor has a CMMC certificate at the level required by the
-contract.</p>
-         <p outputclass="List1" class="- topic/p ">(b) Contracting officers shall use Supplier
-Performance Risk System (SPRS) (https://www.sprs.csd.disa.mil/)
-to verify an offeror or contractor’s CMMC level.</p>
+         <p class="- topic/p " outputclass="List1">
+            <p class="- topic/p " outputclass="List1">(a) <ph class="- topic/ph " rev="Revised November 10, 2025">Award eligibility.</ph>
+            </p>
+            <p class="- topic/p " outputclass="List2"> (1) The contracting officer shall include in the solicitation the required CMMC level, if provided by <ph class="- topic/ph " rev="Revised November 10, 2025">the program office or</ph> the requiring activity.</p>
+            <p class="- topic/p " outputclass="List2"> (2) Contracting officers shall not award a contract, task order, or delivery order to an offeror that does not have a current CMMC <ph class="- topic/ph " rev="Revised November 10, 2025">status </ph>at the <ph class="- topic/ph " rev="Revised November 10, 2025">CMMC </ph>level required by the solicitation.</p>
+            <p class="- topic/p " outputclass="List2"> (3) Contractors are required to achieve, at time of award, a CMMC <ph class="- topic/ph " rev="Revised November 10, 2025">status</ph> at the <ph class="- topic/ph " rev="Revised November 10, 2025">CMMC</ph> level specified in the solicitation<ph class="- topic/ph " rev="Revised November 10, 2025">, or higher, for all information systems used in the performance of the contract, task order, or delivery order that will process, store, or transmit FCI or CUI</ph>. Contractors are required to maintain a current CMMC <ph class="- topic/ph " rev="Revised November 10, 2025">status</ph> at the specified <ph class="- topic/ph " rev="Revised November 10, 2025">CMMC</ph> level <ph class="- topic/ph " rev="Revised November 10, 2025">or higher</ph>, if required by the <ph class="- topic/ph " rev="Revised November 10, 2025">contract, task order, or delivery order</ph>, throughout the life of the contract, task order, or delivery order.</p>
+            <p class="- topic/p "
+               rev="Revised November 10, 2025"
+               outputclass="List1"> (b) CMMC status.</p>
+            <p class="- topic/p "
+               outputclass="List2"
+               rev="Revised November 10, 2025"> (1) Contracting officers may award a contract, task order, delivery order, or modification to exercise an option or extend a period of performance, if the offeror’s or contractor’s CMMC status is—</p>
+            <p class="- topic/p "
+               outputclass="List3"
+               rev="Revised November 10, 2025"> (i) Listed in the definition of “CMMC status”; and</p>
+            <p class="- topic/p "
+               outputclass="List3"
+               rev="Revised November 10, 2025"> (ii) Equal to or higher than the CMMC level required by the solicitation or contract, task order, or delivery order.</p>
+            <p class="- topic/p "
+               outputclass="List2"
+               rev="Revised November 10, 2025"> (2) CMMC levels 2 and 3 can be in a conditional level for a period not to exceed 180 days from the CMMC status date (32 CFR 170.21), and award can occur with a conditional CMMC level. CMMC level 1 requires a final CMMC level for award.</p>
+         </p>
       </conbody>
    </concept>
 </dita>

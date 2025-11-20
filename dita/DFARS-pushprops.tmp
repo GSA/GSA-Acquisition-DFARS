@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars">
+<map title="DFARS" outputclass="dfars" rev="Revised November 10, 2025">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -1675,7 +1675,7 @@
                          xtrc="DFARS_204.7500.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="204.7501 Policy."
+               <topicref navtitle="204.7501 Definitions."
                          base="concept"
                          href="204.7501.dita"
                          props="204.7501"
@@ -1685,7 +1685,7 @@
                          xtrc="DFARS_204.7501.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="204.7502 Procedures."
+               <topicref navtitle="204.7502 Policy."
                          base="concept"
                          href="204.7502.dita"
                          props="204.7502"
@@ -1695,7 +1695,7 @@
                          xtrc="DFARS_204.7502.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="204.7503 Contract clause."
+               <topicref navtitle="204.7503 Procedures."
                          base="concept"
                          href="204.7503.dita"
                          props="204.7503"
@@ -1703,6 +1703,16 @@
                          audience="DFARS_204.7503"
                          xtrf="subtopic"
                          xtrc="DFARS_204.7503.html"
+                         tables="0"
+                         figures="0"/>
+               <topicref navtitle="204.7504 Solicitation provision and contract clause."
+                         base="concept"
+                         href="204.7504.dita"
+                         props="204.7504"
+                         outputclass="subtopic"
+                         audience="DFARS_204.7504"
+                         xtrf="subtopic"
+                         xtrc="DFARS_204.7504.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -3568,7 +3578,7 @@
                          outputclass="subtopic"
                          audience="DFARS_209.572"
                          xtrf="subtopic"
-                         xtrc=""
+                         xtrc="DFARS_209.572.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -20159,7 +20169,7 @@
                             xtrc=""
                             tables="1"
                             figures="0"/>
-                  <topicref navtitle="252.204-7021 Cybersecurity Maturity Model Certification Requirements."
+                  <topicref navtitle="252.204-7021 Contractor Compliance With the Cybersecurity Maturity Model Certification Level Requirements."
                             base="concept"
                             href="252.204-7021.dita"
                             props="252.204-7021"
@@ -20194,6 +20204,16 @@
                             props="252.204-7024"
                             outputclass="subtopic"
                             audience="DFARS_252.204-7024"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="252.204-7025.dita"
+                            navtitle="252.204-7025 Notice of Cybersecurity Maturity Model Certification Level Requirements."
+                            props="252.204-7025"
+                            outputclass="subtopic"
+                            audience="DFARS_252.204-7025"
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""

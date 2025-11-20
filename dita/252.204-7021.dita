@@ -1,40 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_252.204-7021"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_252.204-7021" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.204-7021</ph> Cybersecurity Maturity Model Certification Requirements.</title>
+         <ph props="autonumber" class="- topic/ph ">252.204-7021</ph> Contractor Compliance With the Cybersecurity Maturity Model Certification Level Requirements.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in 204.7503(a)
-and (b), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">CYBERSECURITY
-MATURITY MODEL CERTIFICATION REQUIREMENTS (JAN 2023)</p>
-         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Scope.</i> The
-Cybersecurity Maturity Model Certification (CMMC) CMMC is a framework
-that measures a contractor’s cybersecurity maturity to include the
-implementation of cybersecurity practices and institutionalization
-of processes (see <xref href="https://www.acq.osd.mil/cmmc/index.html"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">https://www.acq.osd.mil/cmmc/index.html</xref>).</p>
-         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Requirements</i>.
-The Contractor shall have a current (i.e. not older than 3 years)
-CMMC certificate at the CMMC level required by this contract and
-maintain the CMMC certificate at the required level for the duration
-of the contract.</p>
-         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Subcontracts</i>.
-The Contractor shall—</p>
-         <p outputclass="List2" class="- topic/p ">(1) Insert the substance of this clause, including this paragraph (c), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services, excluding commercially available off-the-shelf items; and</p>
-         <p outputclass="List2" class="- topic/p ">(2) Prior
-to awarding to a subcontractor, ensure that the subcontractor has
-a current (i.e., not older than 3 years) CMMC certificate at the
-CMMC level that is appropriate for the information that is being
-flowed down to the subcontractor.</p>
+         <p class="- topic/p " rev="Revised November 10, 2025">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  href="204.7504.dita#DFARS_204.7504"
+                  base="DFARS-204.7504"
+                  xtrc="204.7504"
+                  class="- topic/xref ">204.7504</xref>(a), <ph class="- topic/ph " rev="Revised November 10, 2025">use</ph> the following clause:</p>
+         <p class="- topic/p "
+            rev="Revised November 10, 2025"
+            outputclass="Ctr_SmCaps">CONTRACTOR COMPLIANCE WITH THE CYBERSECURITY MATURITY MODEL CERTIFICATION LEVEL REQUIREMENT<ph class="- topic/ph " rev="Revised November 10, 2025">S</ph> (<ph class="- topic/ph " rev="Revised November 10, 2025">NOV 2025</ph>)</p>
+         <p class="- topic/p " outputclass="List1"> (a) <i class="+ topic/ph hi-d/i "/> 
+            <ph class="- topic/ph " rev="Revised November 10, 2025">Definitions. As used in this clause—</ph> 
+         </p>
+         <p class="- topic/p " rev="Revised November 10, 2025"> “Controlled unclassified information” means information the Government creates or possesses, or information an entity creates or possesses for or on behalf of the Government, that a law, regulation, or Governmentwide policy requires or permits an agency to handle using safeguarding or dissemination controls (32 CFR 2002.4(h)). </p>
+         <p class="- topic/p " rev="Revised November 10, 2025">“Current” means—</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (1) With regard to Conditional Cybersecurity Maturity Model Certification (CMMC) Status—</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised November 10, 2025"> (i) Not older than 180 days for Conditional Level 2 (Self) assessments and Conditional Level 2 (certified third-party assessment organization (C3PAO)) assessments, with—</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (A) No changes in compliance with the requirements at 32 CFR part 170 since the Conditional CMMC Status date (see 32 CFR 170.16 and 170.17); and</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (B) A corresponding affirmation of continuous compliance by an affirming official (see 32 CFR 170.4); and</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised November 10, 2025"> (ii) Not older than 180 days for Conditional Level 3 (Defense Industrial Base Cybersecurity Assessment Center (DIBCAC)) assessments, with—</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (A) No changes in compliance with the requirements at 32 CFR part 170 since the Conditional CMMC Status date (see 32 CFR 170.18); and</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (B) A corresponding affirmation of continuous compliance by an affirming official;</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025">(2) With regard to Final CMMC Status—</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised November 10, 2025"> (i) Not older than 1 year for Final Level 1 (Self), with—</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (A) No changes in compliance with the requirements at 32 CFR part 170 since the Final CMMC Status date (see 32 CFR 170.15); and</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (B) A corresponding affirmation of continuous compliance, not older than 1 year, by an affirming official;</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised November 10, 2025"> (ii) Not older than 3 years for Final Level 2 (Self) assessments and Final Level 2 (C3PAO) assessments, with—</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (A) No changes in compliance with the requirements at 32 CFR part 170 since the Final CMMC Status date (see 32 CFR 170.16 and 170.17); and</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (B) A corresponding affirmation of continuous compliance, not older than 1 year, by an affirming official; and</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised November 10, 2025"> (iii) Not older than 3 years for Final Level 3 (DIBCAC) assessments, with—</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (A) No changes in compliance with the requirements at 32 CFR part 170 since the Final CMMC Status date (see 32 CFR 170.18); and</p>
+         <p class="- topic/p "
+            outputclass="List4"
+            rev="Revised November 10, 2025"> (B) A corresponding affirmation of continuous compliance, not older than 1 year, by an affirming official; and</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (3) With regard to affirmation of continuous compliance (32 CFR 170.22), not older than 1 year with no changes in compliance with the requirements at 32 CFR part 170.</p>
+         <p class="- topic/p " rev="Revised November 10, 2025">“Cybersecurity Maturity Model Certification (CMMC) status” means the result of meeting or exceeding the minimum required score for the corresponding assessment. The potential statuses are as follows:</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (1) Final Level 1 (Self).</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (2) Conditional Level 2 (Self).</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (3) Final Level 2 (Self).</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (4) Conditional Level 2 (C3PAO).</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (5) Final Level 2 (C3PAO).</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (6) Conditional Level 3 (DIBCAC).</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (7) Final Level 3 (DIBCAC).</p>
+         <p class="- topic/p " rev="Revised November 10, 2025"> “Cybersecurity Maturity Model Certification unique identifier (CMMC UID)” means 10 alpha-numeric characters assigned to each CMMC assessment and reflected in theSupplier Performance Risk System (SPRS) for each contractor information system.</p>
+         <p class="- topic/p " rev="Revised November 10, 2025"> “Federal contract information (FCI)” means information, not intended for public release, that is provided by or generated for the Government under a contract to develop or deliver a product or service to the Government. It does not include information provided by the Government to the public, such as on public websites, or simple transactional information, such as information necessary to process payments.</p>
+         <p class="- topic/p " rev="Revised November 10, 2025"> “Plan of action and milestones” means <ph class="- topic/ph " rev="Revised November 10, 2025">a document that identifies tasks to be accomplished. It details resources required to accomplish the elements of the plan, any milestones in meeting the tasks, and scheduled completion dates for the milestones, as defined in National Institute of Standards and Technology Special Publication 800-115 (32 CFR 170.21).</ph>
+         </p>
+         <p class="- topic/p " outputclass="List1">(b) <ph class="- topic/ph " rev="Revised November 10, 2025">Framework. The Cybersecurity Maturity Model Certification (CMMC) is a framework for assessing a contractor’s compliance with applicable information security protections (see 32 CFR part 170).</ph>
+         </p>
+         <p class="- topic/p "
+            outputclass="List1"
+            rev="Revised November 10, 2025"> (c) Duplication. The CMMC assessments will not duplicate efforts from any other comparable DoD assessment, except for rare circumstances when a reassessment may be necessary, for example, when there are indications of issues with cybersecurity and/or compliance with CMMC requirements.</p>
+         <p class="- topic/p "
+            outputclass="List1"
+            rev="Revised November 10, 2025"> (d) <i class="+ topic/ph hi-d/i ">Requirements.</i> The Contractor shall<ph class="- topic/ph " rev="Revised November 10, 2025">—</ph>
+         </p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025">(1)(i) Have and maintain for the duration of the contract a current  CMMC status at the following CMMC level, or higher: <ph class="- topic/ph ">____________ </ph>
+            <i class="+ topic/ph hi-d/i ">[Contracting Officer insert: CMMC Level 1 (Self); CMMC Level 2 (Self); CMMC Level 2 (C3PAO); or CMMC Level 3 (DIBCAC)</i>
+            <i class="+ topic/ph hi-d/i ">]</i> for all information systems used in performance of the contract, task order, or delivery order that process, store, or transmit FCI or CUI; and</p>
+         <p class="- topic/p " rev="Revised November 10, 2025">(ii) Consult 32 CFR 170.23 related to the flowdown of the CMMC requirements, <ph class="- topic/ph " rev="Revised November 10, 2025">and flow down the correct CMMC level</ph>
+            <ph class="- topic/ph " rev="Revised November 10, 2025">to subcontracts and other contractual instruments;</ph>
+            <ph class="- topic/ph " rev="Revised November 10, 2025"/>
+         </p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (2) Only process, store, or transmit FCI or CUI on contractor information systems that have a CMMC status at the CMMC level requiredin paragraph (d)(1) of this clause, or higher;</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (3) Complete on an annual basis, and maintain as current,an affirmation, by the affirming official (see 32 CFR 170.4), of continuous compliance with the requirements associated with the CMMC level required in paragraph (d)(1) of this clause in the Supplier Performance Risk System (SPRS) (https://piee.eb.mil) for each CMMC UID applicable to each of the contractor information systems that process, store, or transmit FCI or CUI and that are used in performance of the contract;</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (4) Ensure all subcontractors and suppliers complete prior to subcontract award, and maintain on an annual basis,an affirmation, by the affirming official (see 32 CFR 170.4), of continuous compliance with the requirements associated with the CMMC level required for the subcontract or other contractual instrument for each of the subcontractor information systems that process, store, or transmit FCI or CUI and that are used in performance of the subcontract; and</p>
+         <p class="- topic/p " outputclass="List2"> (5) If the Contractor has a CMMC Status of Conditional, successfully close out a valid plan of action and milestones (32 CFR 170.21) to achieve a CMMC Status of Final.<ph class="- topic/ph " rev="Revised November 10, 2025"/>
+         </p>
+         <p class="- topic/p "
+            outputclass="List1"
+            rev="Revised November 10, 2025"> (e) Reporting.  The Contractor shall—</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (1) Submit to the Contracting Officer—</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised November 10, 2025"> (i) The CMMC UID(s) issued by SPRS for contractor information systems that will process, store, or transmit FCI or CUI during performance of the contract; and</p>
+         <p class="- topic/p "
+            outputclass="List3"
+            rev="Revised November 10, 2025"> (ii) Any changes in the CMMC UIDs generated in SPRS throughout the life of the contract, task order, or delivery order, if applicable;</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025">(2)Enter into SPRS the results of a current self-assessment for each CMMC UID, not covered by a C3PAO assessment or DIBCAC assessment, applicable to each of the contractor information systems that process, store, or transmit FCI or CUI and that are used in performance of the contract; and</p>
+         <p class="- topic/p "
+            outputclass="List2"
+            rev="Revised November 10, 2025"> (3) Complete in SPRS on an annual basis and maintain as current an affirmation of continuous compliance by the affirming official (see 32 CFR 170.4) for each self-assessment, C3PAO assessment, or DIBCAC assessment required under the contract in SPRS.</p>
+         <p class="- topic/p " outputclass="List1"> (f) <ph class="- topic/ph "> 
+               <i class="+ topic/ph hi-d/i ">Subcontracts.</i> 
+            </ph> The Contractor shall—</p>
+         <p class="- topic/p " outputclass="List2"> (1) <ph class="- topic/ph ">Insert the substance of this clause, including this paragraph (</ph>
+            <ph class="- topic/ph " rev="Revised November 10, 2025">f</ph>)<ph class="- topic/ph " rev="Revised November 10, 2025"> and excluding paragraph (e)(1)</ph>, in <ph class="- topic/ph ">subcontracts and other contractual instruments, including </ph> 
+            <ph class="- topic/ph " rev="Revised November 10, 2025">those</ph> 
+            <ph class="- topic/ph ">for the acquisition of commercial products and commercial services, </ph> 
+            <ph class="- topic/ph ">excluding commercially available off-the-shelf items</ph> 
+            <ph class="- topic/ph " rev="Revised November 10, 2025">, if the subcontract or other contractual instrument will contain a requirement to process, store, or transmit FCI or CUI</ph>; and</p>
+         <p class="- topic/p " outputclass="List2"> (2) <ph class="- topic/ph ">Prior to awarding </ph> 
+            <ph class="- topic/ph " rev="Revised November 10, 2025">a subcontract or other contractual instrument</ph>, ensure that the subcontractor has a current <ph class="- topic/ph ">CMMC certificate</ph> 
+            <ph class="- topic/ph " rev="Revised November 10, 2025">or current CMMC </ph> 
+            <ph class="- topic/ph " rev="Revised November 10, 2025">status</ph> 
+            <ph class="- topic/ph " rev="Revised November 10, 2025">at the CMMC level that is appropriate for the information that is being flowed down to the subcontractor based on the requirements at 32 CFR 170.23</ph>.</p>
+         <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DFARS_204.7500"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="DFARS_204.7500" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">204.7500</ph> Scope of subpart.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) This subpart prescribes policies
-and procedures for including the Cybersecurity Maturity Model Certification
-(CMMC) level requirements in DoD contracts. CMMC is a framework
-that measures a contractor’s cybersecurity maturity to include the
-implementation of cybersecurity practices and institutionalization
-of processes (see <xref href="https://www.acq.osd.mil/cmmc/index.html"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">https://www.acq.osd.mil/cmmc/index.html</xref>)..</p>
-         <p outputclass="List1" class="- topic/p ">(b) This subpart does not abrogate any
+         <p class="- topic/p " outputclass="List1"> (a) This subpart prescribes policies and procedures for including the Cybersecurity Maturity Model Certification (CMMC) level requirements in DoD contracts. CMMC is a framework <ph class="- topic/ph " rev="Revised November 10, 2025">(see 32 CFR part 170) for assessing a contractor’s information security protections</ph>.</p>
+         <p class="- topic/p " outputclass="List1">(b) This subpart does not abrogate any
 other requirements regarding contractor physical, personnel, information,
 technical, or general administrative security operations governing
 the protection of unclassified information, nor does it affect requirements
 of the National Industrial Security Program.</p>
+         <p outputclass="List1"
+            rev="Revised November 10, 2025"
+            class="- topic/p ">(c) This subpart applies to unclassified contractor information systems.</p>
       </conbody>
    </concept>
 </dita>

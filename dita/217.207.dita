@@ -6,30 +6,24 @@
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">217.207</ph> Exercise of options.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(c) In addition to the requirements
-at FAR 17.207(c), exercise an option only
-after:</p>
-         <p outputclass="List2" class="- topic/p ">(1) Determining that the contractor’s record in the System for Award Management database is active and the contractor’s unique entity identifier, Commercial and Government Entity (CAGE) code, name, and physical address are accurately reflected in the contract document. See PGI <xref href="PGI_217.207.dita#DFARS_PGI_217.207"
+         <p class="- topic/p " outputclass="List1">(c) In addition to the requirements at FAR 17.207(c), exercise an option only after<ph class="- topic/ph " rev="Revised November 10, 2025">—</ph>
+         </p>
+         <p class="- topic/p " outputclass="List2">(1) Determining that the contractor’s record in the System for Award Management database is active and the contractor’s unique entity identifier, Commercial and Government Entity (CAGE) code, name, and physical address are accurately reflected in the contract document. See PGI <xref href="PGI_217.207.dita#DFARS_PGI_217.207"
                   base="DFARS-PGI_PGI_217.207"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref "
-                  xtrc="217.207">217.207</xref> for the requirement to perform cost or price analysis of spare parts prior to exercising any option for firm-fixed-price contracts containing spare parts.</p>
-         <p outputclass="List2" class="- topic/p ">(2) Verifying in
-            the Supplier Performance Risk System (SPRS) (<xref href="https://www.sprs.csd.disa.mil/"
-                  class="- topic/xref "
-                  format="html"
-                  scope="external"/>)
-            that—</p>
-         <p outputclass="List3" class="- topic/p ">(i) The
-summary level score of a current NIST SP 800-171 DoD Assessment
-(i.e., not more than 3 years old, unless a lesser time is specified
-in the solicitation) for each covered contractor information system
-that is relevant to an offer, contract, task order, or delivery
-order are posted (see 204.7303).</p>
-         <p outputclass="List3" class="- topic/p ">(ii)
-The contractor has a CMMC certificate at the level required by the
-contract, and that it is current (i.e., not more than 3 years old)
-(see 204.7502).</p>
+                  xtrc="217.207">217.207</xref> for the requirement to perform cost or price analysis of spare parts prior to exercising any option for firm-fixed-price contracts containing spare parts<ph rev="Revised November 10, 2025" class="- topic/ph ">; and</ph>
+         </p>
+         <p class="- topic/p " outputclass="List2"> (2) <ph class="- topic/ph " rev="Revised November 10, 2025">Working with the program office or requiring activity to verify</ph> in the Supplier Performance Risk System <ph class="- topic/ph " rev="Revised November 10, 2025"/>
+            <ph class="- topic/ph " rev="Revised November 10, 2025">(<xref href="https://piee.eb.mil"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://piee.eb.mil</xref>)</ph> that—</p>
+         <p class="- topic/p " outputclass="List3">(i) The summary level score of a current NIST SP 800-171 DoD Assessment (i.e., not more than 3 years old, unless a lesser time is specified in the solicitation) for each covered contractor information system that is relevant to an offer, contract, task order, or delivery order are posted (see 204.7303)<ph rev="Revised November 10, 2025" class="- topic/ph ">; and</ph>
+         </p>
+         <p class="- topic/p " outputclass="List3"> (ii) <ph class="- topic/ph " rev="Revised November 10, 2025">If there is a requirement for the contractor to have a Cybersecurity Maturity Model Certification (CMMC) status at a specific CMMC level,</ph>
+            <ph class="- topic/ph " rev="Revised November 10, 2025">t</ph>he contractor has <ph class="- topic/ph " rev="Revised November 10, 2025">a current CMMC status</ph>at the <ph class="- topic/ph " rev="Revised November 10, 2025">CMMC</ph> level required by the contract<ph class="- topic/ph " rev="Revised November 10, 2025">, or higher, for each of the CMMC unique identifiers applicable to each of the contractor information systems that process, store, or transmit Federal contract information or controlled unclassified information (see 204.7503(c)).</ph>
+         </p>
       </conbody>
    </concept>
 </dita>
