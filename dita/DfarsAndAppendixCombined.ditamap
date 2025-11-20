@@ -1355,7 +1355,7 @@
                          audience="DFARS_204.7500"
                          xtrf="subtopic"
                          xtrc="DFARS_204.7500.html"/>
-               <topicref navtitle="204.7501 Policy."
+               <topicref navtitle="204.7501 Definitions."
                          base="concept"
                          href="204.7501.dita"
                          props="204.7501"
@@ -1363,7 +1363,7 @@
                          audience="DFARS_204.7501"
                          xtrf="subtopic"
                          xtrc="DFARS_204.7501.html"/>
-               <topicref navtitle="204.7502 Procedures."
+               <topicref navtitle="204.7502 Policy."
                          base="concept"
                          href="204.7502.dita"
                          props="204.7502"
@@ -1371,7 +1371,7 @@
                          audience="DFARS_204.7502"
                          xtrf="subtopic"
                          xtrc="DFARS_204.7502.html"/>
-               <topicref navtitle="204.7503 Contract clause."
+               <topicref navtitle="204.7503 Procedures."
                          base="concept"
                          href="204.7503.dita"
                          props="204.7503"
@@ -1379,6 +1379,14 @@
                          audience="DFARS_204.7503"
                          xtrf="subtopic"
                          xtrc="DFARS_204.7503.html"/>
+               <topicref navtitle="204.7504 Solicitation provision and contract clause."
+                         base="concept"
+                         href="204.7504.dita"
+                         props="204.7504"
+                         outputclass="subtopic"
+                         audience="DFARS_204.7504"
+                         xtrf="subtopic"
+                         xtrc="DFARS_204.7504.html"/>
             </topicref>
             <topicref href="SUBPART_204.76.dita"
                       navtitle="Subpart 204.76 - SUPPLIER PERFORMANCE RISK SYSTEM"
@@ -16247,7 +16255,7 @@
                             audience="DFARS_252.204-7020"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="252.204-7021 Cybersecurity Maturity Model Certification Requirements."
+                  <topicref navtitle="252.204-7021 Contractor Compliance With the Cybersecurity Maturity Model Certification Level Requirements."
                             base="concept"
                             href="252.204-7021.dita"
                             props="252.204-7021"
@@ -16276,6 +16284,14 @@
                             props="252.204-7024"
                             outputclass="subtopic"
                             audience="DFARS_252.204-7024"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+                  <topicref href="252.204-7025.dita"
+                            navtitle="252.204-7025 Notice of Cybersecurity Maturity Model Certification Level Requirements."
+                            props="252.204-7025"
+                            outputclass="subtopic"
+                            audience="DFARS_252.204-7025"
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""/>
