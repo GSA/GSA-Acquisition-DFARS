@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_203.1003"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">203.1003</ph> Requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Notification of possible contractor violation</i>.  Upon notification of a possible contractor violation of the type described in FAR 3.1003(b), coordinate the matter with the following office:</p>
+         <p class="- topic/p ">Department of Defense Office of Inspector General</p>
+         <p class="- topic/p ">Administrative Investigations</p>
+         <p class="- topic/p ">Contractor Disclosure Program</p>
+         <p class="- topic/p ">4800 Mark Center Drive, Suite 14L25</p>
+         <p class="- topic/p ">Arlington, VA 22350-1500</p>
+         <p class="- topic/p ">Toll-Free Telephone:  866-429-8011.</p>
+         <p class="- topic/p ">Website: https://www.dodig.mil/Programs/Contractor-Disclosure-Program/.</p>
+         <p outputclass="List1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">Fraud hotline poster</i>.  For contracts performed outside the United States, when security concerns can be appropriately demonstrated, the contracting officer may provide the contractor the option to publicize the program to contractor personnel in a manner other than public display of the poster required by 
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-203.1004"
+                  href="203.1004.dita#DFARS_203.1004">203.1004</xref>
+            (b)(2)(ii), such as private employee written instructions and briefings.</p>
+      </conbody>
+   </concept>
+</dita>

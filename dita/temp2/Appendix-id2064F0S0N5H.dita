@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="id2064F0S0N5H"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">F-302</ph> Mode/method of shipment codes.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="2"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="86*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">CODE</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">DESCRIPTION</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Motor, truckload</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">B</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Motor, less than truckload</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Van (unpacked, uncrated personal or Government property)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">D</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Driveaway, truckaway, towaway</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">E</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Bus</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">F</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Air Mobility Command (Channel and Special Assignment Airlift Mission)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">G</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Surface parcel post</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">H</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Air parcel post</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">I</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Government trucks, for shipment outside local delivery area</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">J</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Air, small package carrier</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">K</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Rail, carload 1/</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">L</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Rail, less than carload 1/</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">M</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Surface, freight forwarder</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">N</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">LOGAIR</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">O</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Organic military air (including aircraft of foreign governments)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">P</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Through Government Bill of Lading (TGBL)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Q</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Commercial air freight (includes regular and expedited service provided by major airlines; charters and air taxis)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">R</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">European Distribution System or Pacific Distribution System</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">S</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Scheduled Truck Service (STS) (applies to contract carriage, guaranteed traffic routings and/or scheduled service)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">T</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Air freight forwarder</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">U</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">QUICKTRANS</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">V</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">SEAVAN</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">W</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Water, river, lake, coastal (commercial)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Bearer, walk-thru (customer pickup of material)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Y</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Military Intratheater Airlift Service</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Z</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Military Sealift Command (MSC) (controlled contract or arranged space)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">2</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Government watercraft, barge, lighter</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">3</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Roll-on Roll-off (RORO) service</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">4</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Armed Forces Courier Service (ARFCOS)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">5</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Surface, small package carrier</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">6</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Military official mail (MOM)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">7</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Express mail</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">8</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Pipeline</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">9</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Local delivery by Government or commercial truck (includes on base transfers; deliveries between air, water, or motor terminals; and adjacent activities). Local delivery areas are identified in commercial carriers' tariffs which are filed and approved by regulatory authorities.</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List2" class="- topic/p ">1/Includes trailer/container-on-flat-car (excluding SEAVAN).</p>
+      </conbody>
+   </concept>
+</dita>

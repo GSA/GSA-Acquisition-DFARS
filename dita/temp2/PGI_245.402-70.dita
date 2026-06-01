@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_245.402-70"
+            outputclass="4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 245.402-70</ph> Policy.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">Title vests in the Government for all property acquired or fabricated by the contractor in accordance with paragraph (e)(3) of the clause at FAR 52.245-1, Government Property.  Oversight and visibility of contractor-acquired property (CAP) is accomplished through reviews and audits of contractor business systems, including—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  Accounting systems (see DFARS 242.75);</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Property management systems (see DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-245.105"
+                  href="245.105.dita#DFARS_245.105">245.105</xref>); and</p>
+         <p outputclass="List2" class="- topic/p ">(3)  Material management and accounting systems (see DFARS 242.72).</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_252.239-7000"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">252.239-7000</ph> Protection Against Compromising Emanations.</title>
+      <conbody outputclass="clause" class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As prescribed in 
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-239.7103"
+                  href="239.7103.dita#DFARS_239.7103">239.7103</xref>
+            (a), use the following clause:</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">PROTECTION AGAINST COMPROMISING EMANATIONS (OCT 2019)</p>
+         <p outputclass="List1" class="- topic/p ">(a)  The Contractor shall provide or use only information technology, as specified by the Government, that has been accredited to meet the appropriate information assurance requirements of—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  The National Security Agency National TEMPEST Standards (NSTISSAM TEMPEST 1-92, Compromising Emanations Laboratory Test Requirements, Electromagnetics (U)); or</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Other standards specified by this contract, including the date through which the required accreditation is current or valid for the contract.</p>
+         <p outputclass="List1" class="- topic/p ">(b)  Upon request of the Contracting Officer, the Contractor shall provide documentation supporting the accreditation.</p>
+         <p outputclass="List1" class="- topic/p ">(c)  The Government may, as part of its inspection and acceptance, conduct additional tests to ensure that information technology delivered under this contract satisfies the information assurance standards specified.  The Government may conduct additional tests—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  At the installation site or contractor's facility; and</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Notwithstanding the existence of valid accreditations of information technology prior to the award of this contract.</p>
+         <p outputclass="List1" class="- topic/p ">(d)  Unless otherwise provided in this contract under the Warranty of Supplies or Warranty of Systems and Equipment clause, the Contractor shall correct or replace accepted information technology found to be deficient within 1 year after proper installations.</p>
+         <p outputclass="List2" class="- topic/p ">(1)  The correction or replacement shall be at no cost to the Government.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Should a modification to the delivered information technology be made by the Contractor, the 1-year period applies to the modification upon its proper installation.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  This paragraph (d) applies regardless of f.o.b. point or the point of acceptance of the deficient information technology.</p>
+         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

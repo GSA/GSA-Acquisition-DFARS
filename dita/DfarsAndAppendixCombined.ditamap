@@ -6945,14 +6945,32 @@
                       audience="DFARS_SUBPART_223.4"
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_223.4.html"/>
-            <topicref navtitle="Subpart 223.5 - Reserved"
+            <topicref navtitle="Subpart 223.5 - GREENHOUSE GAS EMISSIONS"
                       base="NoTitle"
                       href="SUBPART_223.5.dita"
                       props="Subpart 223.5"
                       outputclass="SubPart"
                       audience="DFARS_SUBPART_223.5"
                       xtrf="SubPart"
-                      xtrc="DFARS_SUBPART_223.5.html"/>
+                      xtrc="DFARS_SUBPART_223.5.html">
+               <topicref href="223.501.dita"
+                         navtitle="223.501 Policy."
+                         outputclass="subtopic"
+                         props="223.501"
+                         audience="DFARS_223.501"
+                         xtrc="DFARS_223.501.html"
+                         xtrf="subtopic"
+                         base="concept">
+                  <topicref href="223.501-70.dita"
+                            navtitle="223.501-70 Disclosure of greenhouse gas emissions."
+                            outputclass="subtopic"
+                            props="223.501-70"
+                            audience="DFARS_223.501"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""/>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 223.7 - CONTRACTING FOR ENVIRONMENTALLY PREFERABLE PRODUCTS AND SERVICES"
                       base="NoTitle"
                       href="SUBPART_223.7.dita"

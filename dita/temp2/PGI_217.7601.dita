@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_217.7601"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 217.7601</ph> Provisioning.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this section—</p>
+         <p outputclass="List3" class="- topic/p ">(i) “Provisioning” means the process of determining and acquiring the range and quantity of spare and repair parts, and support and test equipment required to operate and maintain an end item for an initial period of service.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) “Provisioned item” means any item selected under provisioning procedures.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) “Provisioned items order” means an undefinitized order issued under a contract that includes the Government's requirements for provisioned items. (Provisioned items with firm prices are acquired by supplemental agreement or by separate contract.)</p>
+         <p outputclass="List3" class="- topic/p ">(iv) “Provisioning activity” means the organization responsible for selecting and determining requirements for provisioned items.</p>
+         <p outputclass="List3" class="- topic/p ">(v) “Provisioning requirements statement” means the contractual document listing the specific provisioning requirements for that contract. The statement normally includes—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Instructions, such as the provisioning method to be used;</p>
+         <p outputclass="List4" class="- topic/p ">(B) The extent of provisioning technical documentation and data needed (including administrative requirements for submission and distribution);</p>
+         <p outputclass="List4" class="- topic/p ">(C) The type and location of provisioning conferences;</p>
+         <p outputclass="List4" class="- topic/p ">(D) Sample article requirements;</p>
+         <p outputclass="List4" class="- topic/p ">(E) The delivery schedule;</p>
+         <p outputclass="List4" class="- topic/p ">(F) Packaging and marking requirements for provisioned items; and</p>
+         <p outputclass="List4" class="- topic/p ">(G) Requirements for provisioning screening.</p>
+         <p outputclass="List3" class="- topic/p ">(vi) “Provisioning technical documentation” means the data needed for the identification, selection, determination of initial requirements, and cataloging of support items to be acquired through the provisioning process. It includes such things as provisioning lists and logistics support analysis summaries. Descriptive data such as drawings and photographs are referred to as “supplementary provisioning technical documentation.”</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Contractual provisions</i>. Contracts containing provisioning requirements shall—</p>
+         <p outputclass="List3" class="- topic/p ">(i) List the provisioning functions to be performed and who will perform them;</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Include a provisioning requirements statement or specify a time limit for its incorporation into the contract by modification (revisions to the provisioning requirements statement shall also be incorporated by contract modification);</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Include on the DD Form 1423, Contract Data Requirements List, a schedule for delivery of provisioning technical documentation, or provide for the schedule to be incorporated later by contract modification;</p>
+         <p outputclass="List3" class="- topic/p ">(iv) Require flowdown of the appropriate provisioning technical documentation requirement when the subcontractor prepares the documentation;</p>
+         <p outputclass="List3" class="- topic/p ">(v) Specify any applicable procedures for interim release by the contractor of long lead time items, and include ordering and funding instructions for such items. As a minimum, the instructions shall require the contractor to advise the contracting officer or provisioning activity at least 30 days before release of the items, their estimated costs, and the effective date of release;</p>
+         <p outputclass="List3" class="- topic/p ">(vi) Specify the activity designated to issue provisioned items orders, i.e., contracting officer, provisioning activity, or administrative contracting officer. When it is expected that more than one activity will place provisioned items orders against the contract, state the requirements for provisioned items of each activity as separate contract line items;</p>
+         <p outputclass="List3" class="- topic/p ">(vii) Provide a definitization schedule (normally 120 days after receipt of the contractor's proposal) and a timeframe for the contractor to furnish price proposals for provisioned items orders (normally 60 days after order issuance);</p>
+         <p outputclass="List3" class="- topic/p ">(viii) Specify exhibit identifiers applicable to the contract line/subline items; and</p>
+         <p outputclass="List3" class="- topic/p ">(ix) Include procedures for processing changes (including cancellations) in quantities of items ordered.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Issuance of provisioned items orders</i>.</p>
+         <p outputclass="List3" class="- topic/p ">(i) Use the Standard Form 30, Amendment of Solicitation/Modification of Contract, to—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Issue provisioned items orders;</p>
+         <p outputclass="List4" class="- topic/p ">(B) Decrease or cancel quantities of items ordered; and</p>
+         <p outputclass="List4" class="- topic/p ">(C) Cover the contractor's interim release of long lead items when the contracting officer approves the release (if the release is not approved, the contracting officer shall notify the contractor to cancel the items).</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Include in Block 14 of the Standard Form 30—</p>
+         <p outputclass="List4" class="- topic/p ">(A) The term PROVISIONED ITEMS ORDER in capital letters and underlined; and</p>
+         <p outputclass="List4" class="- topic/p ">(B) The appropriate exhibit identifier(s) for all attached exhibits.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Obligate funds to cover the estimated price of the items being ordered. Show individual estimated prices for each exhibit line item on the accounting and payment office copies.</p>
+         <p outputclass="List3" class="- topic/p ">(iv) Distribution is the same as for the basic contract (see FAR Subpart 4.2). However, if the exhibits are voluminous, the contracting officer may restrict distribution of the exhibits to the contract administration office.</p>
+         <p outputclass="List3" class="- topic/p ">(v) See DFARS Subpart 217.74 for additional guidance and limitations on the use of undefinitized contract actions.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Provisioning conferences.</i> When requested by the contracting officer or provisioning activity, the contract administration office shall assist the contracting officer or provisioning activity in scheduling and determining the types of provisioning conferences required, e.g., guidance meetings, long lead time items conferences, source coding meetings.</p>
+         <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Contract administration office monitoring</i>.</p>
+         <p class="- topic/p ">The contract administration office (CAO) shall monitor contracts containing provisioning requirements. As a minimum the CAO shall—</p>
+         <p outputclass="List3" class="- topic/p ">(i) Ensure that the contractor understands the provisioning requirements;</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Review contractor progress in the preparation of provisioning technical documentation and, if requested by the contracting officer or provisioning activity, inspect it for format and content;</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Ensure the prime contractor flows down provisioning requirements to any subcontractor charged with preparation of documentation;</p>
+         <p outputclass="List3" class="- topic/p ">(iv) Advise the contracting office or provisioning activity of delays in delivery of provisioning technical documentation or other related problems (see FAR Subpart 42.11);</p>
+         <p outputclass="List3" class="- topic/p ">(v) Ensure contractor compliance with contract requirements concerning the assignment of national stock numbers; and</p>
+         <p outputclass="List3" class="- topic/p ">(vi) Ensure that the contractor complies with contractual criteria for release of long lead time items.</p>
+         <p outputclass="List2" class="- topic/p ">(6) <i class="+ topic/ph hi-d/i ">Negotiating and executing supplemental agreements</i>.</p>
+         <p outputclass="List3" class="- topic/p ">(i) The administrative contracting officer (ACO) shall definitize provisioned items orders within the prescribed schedule.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) If the provisioned items order does not contain a delivery date, or the contractor cannot meet the date, the ACO shall coordinate the negotiated schedule with the contracting officer or provisioning activity before execution of the supplemental agreement.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) The ACO shall maintain records of provisioned items orders showing—</p>
+         <p outputclass="List4" class="- topic/p ">(A) The adequacy of obligated funds;</p>
+         <p outputclass="List4" class="- topic/p ">(B) Due dates for price proposals; and</p>
+         <p outputclass="List4" class="- topic/p ">(C) Actions taken to obtain additional funds or to deobligate excess funds.</p>
+      </conbody>
+   </concept>
+</dita>

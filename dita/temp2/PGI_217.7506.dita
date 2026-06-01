@@ -1,0 +1,2339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_PGI_217.7506"
+            outputclass="3"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI 217.7506</ph> -SPARE PARTS BREAKOUT PROGRAM</title>
+     <conbody>
+         <p>PART 1 -GENERAL </p>
+       
+         <p>1-101 Applicability.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) The Spare Parts Breakout Program applies to—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Any centrally managed replenishment or provisioned part (hereinafter referred to as “part”) for military systems and equipment; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) All DoD personnel involved with design control, acquisition, and management of such parts including, but not limited to, project/program/system managers, technical personnel, contracting officers, legal counsel, inventory managers, inspectors, and small business specialists and technical advisors.</p>
+         <p outputclass="List1" class="- topic/p ">(b) The Spare Parts Breakout Program does not apply to—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Component breakout (see DFARS <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-207.171"
+                  href="207.171.dita#DFARS_207.171">207.171</xref>);</p>
+         <p outputclass="List2" class="- topic/p ">(2) Foreign military sale peculiar items;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Insurance items (e.g., one-time buy);</p>
+         <p outputclass="List2" class="- topic/p ">(4) Obsolete items;</p>
+         <p outputclass="List2" class="- topic/p ">(5) Phase-out items (e.g., life-of-type buy);</p>
+         <p outputclass="List2" class="- topic/p ">(6) Items with annual buy values below the thresholds developed by DoD components or field activities;</p>
+         <p outputclass="List2" class="- topic/p ">(7) Parts being acquired under other specifically defined initial support programs; or</p>
+         <p outputclass="List2" class="- topic/p ">(8) Parts acquired through local purchase. 1-102 General.</p>
+         <p outputclass="List1" class="- topic/p ">(a) Significant resources are dedicated to the acquisition and management of parts for military systems and equipment. The ability to competitively buy spares must be considered early in a weapon system acquisition. Initially, repairable or consumable parts are identified and acquired through a provisioning process; repairable or consumable parts acquired thereafter are for replenishment.</p>
+         <p outputclass="List1" class="- topic/p ">(b) The objective of the DoD Spare Parts Breakout Program is to reduce costs through the use of competitive procurement methods, or the purchase of parts directly from the actual manufacturer rather than the prime contractor, while maintaining the integrity of the systems and equipment in which the parts are to be used. The program is based on the application of sound management and engineering judgment in—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Determining the feasibility of acquiring parts by competitive procedures or direct purchase from actual manufacturers; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) Overcoming or removing constraints to breakout identified through the screening process (technical review) described in 3-302.</p>
+         <p outputclass="List1" class="- topic/p ">(c) The breakout program includes procedures for screening and coding parts in order to provide contracting officers summary information regarding technical data and sources of supply to meet the Government's minimum requirements. This information assists the contracting officer in selecting the method of contracting, identifying sources of supply, and making other decisions in the preaward and award phases, with consideration for established parameters of system and equipment integrity, readiness, and the opportunities to competitively acquire parts (see FAR/DFARS Part 6). The identification of sources for parts, for example, requires knowledge of manufacturing sources, additional operations performed after manufacture of parts possessing safety or other critical characteristics, and the availability of technical data.</p>
+         <p outputclass="List1" class="- topic/p ">(d) The result of the screening process (technical review is indicated by an acquisition method code (AMC) and an acquisition method suffix code (AMSC). The breakout program provides procedures for both the initial assignment of an AMC and an AMSC to a part, and for the recurring review of these codes (see 2-202 and 2-203(b)).</p>
+      
+   
+
+   
+      
+         <p>1-103.1 Acquisition method code (AMC).</p>
+      
+         <p class="- topic/p ">A single digit numeric code, assigned by a DoD activity, to describe to the contracting officer and other Government personnel the results of a technical review of a part and its suitability for breakout.</p>
+      
+   
+
+   
+      
+         <p>1-103.10 Competition.</p>
+      
+         <p class="- topic/p ">A contract action where two or more responsible sources, acting independently, can be solicited to satisfy the Government's requirement.</p>
+      
+   
+
+   
+      
+         <p>1-103.11 Contractor technical information code (CTIC).</p>
+      
+         <p class="- topic/p ">A two-digit alpha code assigned to a part by a prime contractor to furnish specific information regarding the engineering, manufacturing, and technical aspects of that part.</p>
+      
+   
+
+   
+      
+         <p>1-103.12 Design control activity.</p>
+      
+         <p class="- topic/p ">A contractor or Government activity having responsibility for the design of a given part, and for the preparation and currency of engineering drawings and other technical data for that part. The design control activity may or may not be the actual manufacturer. The design control activity is synonymous with design activity as used by DoD STD-100.</p>
+      
+   
+
+   
+      
+         <p>1-103.13 Direct purchase.</p>
+      
+         <p class="- topic/p ">The acquisition of a part from the actual manufacturer, including a prime contractor who is an actual manufacturer of the part.</p>
+      
+   
+
+   
+      
+         <p>1-103.14 Engineering drawings.</p>
+      
+         <p class="- topic/p ">See current versions of DoD STD-100 and DoDD 1000.</p>
+      
+   
+
+   
+      
+         <p>1-103.15 Extended dollar value.</p>
+      
+         <p class="- topic/p ">The contract unit price of a part multiplied by the quantity purchased.</p>
+      
+   
+
+   
+      
+         <p>1-103.16 Full and open competition.</p>
+      
+         <p class="- topic/p ">A contract action where all responsible sources are permitted to compete.</p>
+      
+   
+
+   
+      
+         <p>1-103.17 Full screening.</p>
+      
+         <p class="- topic/p ">A detailed parts breakout process, including data collection, data evaluation, data completion, technical evaluation, economic evaluation, and supply feedback, used to determine if parts can be purchased directly from the actual manufacturer(s) or can be competed.</p>
+      
+   
+
+   
+      
+         <p>1-103.18 Immediate (live) buy.</p>
+      
+         <p class="- topic/p ">A buy that must be executed as soon as possible to prevent unacceptable equipment readiness reduction, unacceptable disruption in operational capability, and increased safety risks, or to avoid other costs.</p>
+      
+   
+
+   
+      
+         <p>1-103.19 Life cycle buy value.</p>
+      
+         <p class="- topic/p ">The total dollar value of all acquisitions that are estimated to occur over a part's remaining life cycle.</p>
+      
+   
+
+   
+      
+         <p>1-103.2 Acquisition method code conference.</p>
+      
+         <p class="- topic/p ">A conference that is generally held at the contractor's facility for the purpose of reviewing contractor technical information codes (CTICs) and corresponding substantiating data for breakout.</p>
+      
+   
+
+   
+      
+         <p>1-103.20 Limited competition.</p>
+      
+         <p class="- topic/p ">A competitive contract action where the provisions of full and open competition do not exist.</p>
+      
+   
+
+   
+      
+         <p>1-103.21 Limited screening.</p>
+      
+         <p class="- topic/p ">A parts breakout process covering only selected points of data and technical evaluations, and should only be used to support immediate buy requirements (see 3-301.3).</p>
+      
+   
+
+   
+      
+         <p>1-103.22 Manufacture.</p>
+      
+         <p class="- topic/p ">The physical fabrication process that produces a part, or other item of supply. The physical fabrication processes include, but are not limited to, machining, welding, soldering, brazing, heat treating, braking, riveting, pressing, and chemical treatment.</p>
+      
+   
+
+   
+      
+         <p>1-103.23 Prime contractor.</p>
+      
+         <p class="- topic/p ">A contractor having responsibility for design control and/or delivery of a system/equipment such as aircraft, engines, ships, tanks, vehicles, guns and missiles, ground communications and electronics systems, and test equipment.</p>
+      
+   
+
+   
+      
+         <p>1-103.24 Provisioning.</p>
+      
+         <p class="- topic/p ">The process of determining and acquiring the range and quantity (depth) of spare and repair parts, and support and test equipment required to operate and maintain an end item of materiel for an initial period of service.</p>
+      
+   
+
+   
+      
+         <p>1-103.25 Qualification.</p>
+      
+         <p class="- topic/p ">Any action (contractual or precontractual) that results in approval for a firm to supply items to the Government without further testing beyond quality assurance demonstrations incident to acceptance of an item. When prequalification is required, the Government must have a justification on file—</p>
+         <p outputclass="List1" class="- topic/p ">(a) Stating the need for qualification and why it must be done prior to award;</p>
+         <p outputclass="List1" class="- topic/p ">(b) Estimating likely cost of qualification; and</p>
+         <p outputclass="List1" class="- topic/p ">(c) Specifying all qualification requirements.</p>
+      
+   
+
+   
+      
+         <p>1-103.26 Replenishment part.</p>
+      
+         <p class="- topic/p ">A part, repairable or consumable, purchased after provisioning of that part, for: replacement; replenishment of stock; or use in the maintenance, overhaul, and repair of equipment such as aircraft, engines, ships, tanks, vehicles, guns and missiles, ground communications and electronic systems, ground support, and test equipment. As used in the breakout program, except when distinction is necessary, the term “part” includes subassemblies, components, and subsystems as defined by the current version of MIL-STD-280.</p>
+      
+   
+
+   
+      
+         <p>1-103.27 Reverse engineering.</p>
+      
+         <p class="- topic/p ">A process by which parts are examined and analyzed to determine how they were manufactured, for the purpose of developing a complete technical data package. The normal, expected result of reverse engineering is the creation of a technical data package suitable for manufacture of an item by new sources.</p>
+      
+   
+
+   
+      
+         <p>1-103.28 Selected item drawing.</p>
+      
+         <p class="- topic/p ">See current version of DoD-STD-100, paragraph 201.4.5.</p>
+      
+   
+
+   
+      
+         <p>1-103.29 Source.</p>
+      
+         <p class="- topic/p ">Any commercial or noncommercial organization that can supply a specified part. For coding purposes, sources include actual manufacturers, prime contractors, vendors, dealers, surplus dealers, distributors, and other firms.</p>
+      
+   
+
+   
+      
+         <p>1-103.3 Acquisition method suffix code (AMSC).</p>
+      
+         <p class="- topic/p ">A single digit alpha code, assigned by a DoD activity, that provides the contracting officer and other Government personnel with engineering, manufacturing, and technical information.</p>
+      
+   
+
+   
+      
+         <p>1-103.30 Source approval.</p>
+      
+         <p class="- topic/p ">The Government review that must be completed before contract award.</p>
+      
+   
+
+   
+      
+         <p>1-103.31 Source control drawing.</p>
+      
+         <p class="- topic/p ">See the current version of DoD-STD-100, paragraph 201.4.3.</p>
+      
+   
+
+   
+      
+         <p>1-103.32 Technical data.</p>
+      
+         <p class="- topic/p ">Specifications, plans, drawings, standards, purchase descriptions, and such other data to describe the Government's requirements for acquisition.</p>
+      
+   
+
+   
+      
+         <p>1-103.4 Actual manufacturer.</p>
+      
+         <p class="- topic/p ">An individual, activity, or organization that performs the physical fabrication processes that produce the deliverable part or other items of supply for the Government. The actual manufacturer must produce the part in-house. The actual manufacturer may or may not be the design control activity.</p>
+      
+   
+
+   
+      
+         <p>1-103.5 Altered item drawing.</p>
+      
+         <p class="- topic/p ">See current version of DoD STD-100, paragraphs 201.4.4 and 703.</p>
+      
+   
+
+   
+      
+         <p>1-103.6 Annual buy quantity.</p>
+      
+         <p class="- topic/p ">The forecast quantity of a part required for the next 12 months.</p>
+      
+   
+
+   
+      
+         <p>1-103.7 Annual buy value (ABV).</p>
+      
+         <p class="- topic/p ">The annual buy quantity of a part multiplied by its unit price.</p>
+      
+   
+
+   
+      
+         <p>1-103.8 Bailment.</p>
+      
+         <p class="- topic/p ">The process whereby a part is loaned to a recipient with the agreement that the part will be returned at an appointed time. The government retains legal title to such material even though the borrowing organization has possession during the stated period.</p>
+      
+   
+
+   
+      
+         <p>1-103.9 Breakout.</p>
+      
+         <p class="- topic/p ">The improvement of the acquisition status of a part resulting from a technical review and a deliberate management decision. Examples are—</p>
+         <p outputclass="List1" class="- topic/p ">(a) The competitive acquisition of a part previously purchased noncompetitively; and</p>
+         <p outputclass="List1" class="- topic/p ">(b) The direct purchase of a part previously purchased from a prime contractor who is not the actual manufacturer of the part.</p>
+      
+   
+
+   
+      
+         <p>1-103 Definitions.</p>
+   
+
+   
+      
+         <p>1-104 General policies.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) The identification, selection, and screening of parts for breakout shall be made as early as possible to determine the technical and economic considerations of the opportunities for breakout to competition or direct purchase. Full and open competition is the preferred result of breakout screening.</p>
+         <p outputclass="List1" class="- topic/p ">(b) A part shall be made a candidate for breakout screening based on its cost effectiveness for breakout. Resources should be assigned and priority given to those parts with the greatest expected return given their annual buy value, life cycle buy value, and likelihood of successful breakout, given technical characteristics such as design and performance stability. Consideration of all such factors is necessary to ensure the maximum return on investment in a given breakout program. Occasionally, an item will not meet strict economic considerations for breakout, but action may be required due to other considerations to avoid overpricing situations. Accordingly, there is no minimum DoD threshold for breakout screening actions. DoD components and field activities will develop annual buy thresholds for breakout screening that are consistent with economic considerations and resources. Every effort should be made to complete the full screening of parts that are expected to be subsequently replenished as they enter the inventory.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Breakout improvement efforts shall continue through the life cycle of a part to improve its breakout status (see 2-203) or until such time as the part is coded 1G, 2G, 1K, 2K, 1M, 2M, 1N, 2N, 1T, 2T, 1Z, or 2Z.</p>
+         <p outputclass="List1" class="- topic/p ">(d) No firm shall be denied the opportunity to demonstrate its ability to furnish a part that meets the Government's needs, without regard to a part's annual buy value, where a restrictive AMC/AMSC is assigned (see FAR 9.202). A firm must clearly demonstrate, normally at its own expense, that it can satisfy the Government's requirements. The Government shall make a vigorous effort to expedite its evaluation of such demonstration and to furnish a decision to the demonstrating firm within a reasonable period of time. If a resolution cannot be made within 60 days, the offeror must be advised of the status of the request and be provided with a good faith estimate of the date the evaluation will be completed. Every reasonable effort shall be made to complete the review before a subsequent acquisition is made. Also, restrictive codes and low annual buy value do not preclude consideration of a surplus dealer or other nonmanufacturing source when the part offered was manufactured by an approved source (see FAR 11.302). A potential surplus dealer or other nonmanufacturing source must provide the Government with all the necessary evidence that proves the proposed part meets the Government's requirements.</p>
+         <p outputclass="List1" class="- topic/p ">(e) The experience and knowledge accrued by contractors in the development, design, manufacture and test of equipment may enhance the breakout decision making process. DoD activities may obtain technical information from contractors when it is considered requisite to an informed coding decision. The procedure for contracting for this information is provided in Part 4 of this document. Contractor's technical information will be designated by CTICs. Only DoD activities shall assign AMCs and AMSCs.</p>
+         <p outputclass="List1" class="- topic/p ">(f) DoD activities with breakout screening responsibilities shall develop, document, and advertise programs that promote the development of qualified sources for parts that are currently being purchased sole source. These programs should provide fair and reasonable technical assistance (engineering or other technical data, parts on bailment, etc.) to contractors who prove they have potential for becoming a qualified second source for an item. These programs should also provide specially tailored incentives to successful firms so as to stimulate their investment in becoming qualified, e.g., Government furnished equipment (GFE) or Government furnished material (GFM) for reverse engineering and technical data package review and assistance.</p>
+         <p outputclass="List1" class="- topic/p ">(g) Departments and agencies shall identify the engineering support activity, design control activity, actual manufacturer, and prime contractor for each part such that the information is readily available to breakout and acquisition personnel.</p>
+      
+   
+
+   
+      
+         <p>1-105 Responsibilities.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) The Under Secretary of Defense (Acquisition and Sustainment) has authority for direction and management of the DoD Spare Parts Breakout Program, including the establishment and maintenance of implementing regulations.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Departments and agencies shall perform audits to ensure that their respective activities comply with the provisions of this program.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Commanders of DoD activities with breakout screening responsibility shall—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Implement a breakout program consistent with the requirements of this document.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Assist in the identification and acquisition of necessary data rights and technical data, and the review of restrictive legends on technical data, during system/equipment development and production to allow, when feasible, breakout of parts.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Designate a program manager to serve as the central focal point, communicate breakout policy, ensure cost-effectiveness of screening actions and breakout program, provide assistance in implementing breakout screening, monitor ongoing breakout efforts and achievements, and provide surveillance over implementation of the breakout program. The program manager shall report only to the Commander, or deputy, of the activity with breakout screening responsibility.</p>
+         <p outputclass="List2" class="- topic/p ">(4) Ensure that actions to remove impediments to breakout are continued as long as it is cost-effective, or until no further breakout improvements can be made.</p>
+         <p outputclass="List2" class="- topic/p ">(5) Invite the activity's small business specialist and the resident small business administration's procurement center representative, if any, to participate in all acquisition method coding conferences at Government and contractor locations.</p>
+         <p outputclass="List2" class="- topic/p ">(6) Ensure timely engineering and technical support to other breakout activities regardless of location.</p>
+         <p outputclass="List3" class="- topic/p ">(i) In the case of parts where contracting or inventory management responsibility has been transferred, support shall include—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Assignment of an AMC/AMSC prior to the transfer;</p>
+         <p outputclass="List4" class="- topic/p ">(B) Assignment of an AMC/AMSC when requested by the receiving activity to parts transferred without such codes. The requesting activity may recommend an AMC/AMSC; and</p>
+         <p outputclass="List4" class="- topic/p ">(C) Full support of the receiving activities' breakout effort by providing timely engineering support in revising existing AMC/AMSCs.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) In all cases, support shall include, but not be limited to, furnishing all necessary technical data and other information (such as code suspense date and procurement history) to permit acquisition in accordance with the assigned AMC/AMSC (see 1-105(d)(6)).</p>
+         <p outputclass="List2" class="- topic/p ">(7) Ensure that appropriate surveillance is given to first time breakout parts.</p>
+         <p outputclass="List1" class="- topic/p ">(d) Breakout program managers shall be responsible for—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Initiating the breakout process during the early phases of development and continuing the process during the life of the part;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Considering the need for contractor technical information codes (CTICs) and, when needed, initiating a contract data requirement;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Identifying, selecting, and screening in accordance with Part 3 of this document;</p>
+         <p outputclass="List2" class="- topic/p ">(4) Assigning an AMC/AMSC, using all available data, including CTICs;</p>
+         <p outputclass="List2" class="- topic/p ">(5) Responding promptly to a request for evaluation of additional sources or a review of assigned codes. An evaluation not completed prior to an immediate buy shall be promptly completed for future buys; and</p>
+         <p outputclass="List2" class="- topic/p ">(6) Documenting all assignments and changes, to include rationale for assigning the chosen code, in a permanent file for each part. As a minimum, the file should identify the engineering support activity, cognizant design control activity, actual manufacturer, prime contractor, known sources of supply, and any other information needed to support AMC/AMSC assignments.</p>
+         <p outputclass="List1" class="- topic/p ">(e) Contracting officers responsible for the acquisition of replenishment parts shall—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Consider the AMC/AMSC when developing the method of contracting, the list of sources to be solicited, the type of contract, etc.; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) Provide information that is inconsistent with the assigned AMC/AMSC (e.g., availability of technical data or possible sources) to the activity responsible for code assignment with a request for timely evaluation of the additional information. An urgent immediate buy need not be delayed if an evaluation of the additional information cannot be completed in time to meet the required delivery date.</p>
+         <p>PART 2 -BREAKOUT CODING</p>
+      
+   
+
+   
+      
+         <p>2-200 Scope.</p>
+      
+         <p class="- topic/p ">This part provides parts breakout codes and prescribes responsibilities for their assignment and management.</p>
+      
+   
+
+   
+      
+         <p>2-201.1 Acquisition method codes.</p>
+      
+         <p class="- topic/p ">The following codes shall be assigned by DoD activities to describe the results of the spare parts breakout screening:</p>
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">AMC 0</i>. The part was not assigned AMC 1 through 5 when it entered the inventory, nor has it ever completed screening. Use of this code is sometimes necessary but discouraged. Maximum effort to determine the applicability of an alternate AMC is the objective. This code will never be used to recode a part that already has AMC 1 through 5 assigned, and shall never be assigned as a result of breakout screening. Maximum effort to determine the applicability of AMC 1 through 5 is the objective.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">AMC 1.</i> Suitable for competitive acquisition for the second or subsequent time.</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">AMC 2.</i> Suitable for competitive acquisition for the first time.</p>
+         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">AMC 3.</i> Acquire, for the second or subsequent time, directly from the actual manufacturer.</p>
+         <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">AMC 4.</i> Acquire, for the first time, directly from the actual manufacturer.</p>
+         <p outputclass="List1" class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">AMC 5.</i> Acquire directly from a sole source contractor which is not the actual manufacturer.</p>
+      
+   
+
+   
+      
+         <p>2-201.2 Acquisition method suffix codes.</p>
+      
+         <p class="- topic/p ">The following codes shall be assigned by DoD activities to further describe the acquisition method code. Valid combinations of AMCs/AMSCs are indicated in paragraphs (a) through (z) of this subsection and summarized in Exhibit I.</p>
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">AMSC A.</i> The Government's right to use data in its possession is questionable. This code is only applicable to parts under immediate buy requirements and for as long thereafter as rights to data are still under review for resolution and appropriate coding. This code is assigned only at the conclusion of limited screening, and it remains assigned until the full screening process resolves the Government's rights to use data and results in assignment of a different AMSC. If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources exist, or if the data is adequate for an alternate source to qualify in accordance with the design control activity's procedures, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">AMSC B.</i> This part must be acquired from a manufacturing source(s) specified on a source control or selected item drawing as defined by the current version of DoD-STD-100. Suitable technical data, Government data rights, or manufacturing knowledge are not available to permit acquisition from other sources, nor qualification testing of another part, nor use of a second source part in the intended application. Although, by DoD-STD-100 definition, altered and selected items shall have an adequate technical data package, data review discloses that required data or data rights are not in Government possession and cannot be economically obtained. If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources exist, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">AMSC C.</i> This part requires engineering source approval by the design control activity in order to maintain the quality of the part. Existing unique design capability, engineering skills, and manufacturing knowledge by the qualified source(s) require acquisition of the part from the approved source(s). The approved source(s) retain data rights, manufacturing knowledge, or technical data that are not economically available to the Government, and the data or knowledge is essential to maintaining the quality of the part. An alternate source must qualify in accordance with the design control activity's procedures, as approved by the cognizant Government engineering activity. The qualification procedures must be approved by the Government engineering activity having jurisdiction over the part in the intended application. If one source is approved, AMCs 3, 4, or 5 are valid. If at least two sources are approved or if data is adequate for an alternate source to qualify in accordance with the design control activity's procedures, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">AMSC D.</i> The data needed to acquire this part competitively is not physically available, it cannot be obtained economically, nor is it possible to draft adequate specifications or any other adequate, economical description of the material for a competitive solicitation. AMCS 3, 4, or 5 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">AMSC E.</i> (Reserved)</p>
+         <p outputclass="List1" class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">AMSC F.</i> (Reserved)</p>
+         <p outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">AMSC G.</i> The Government has rights to the technical data, the data package is complete, and there are no technical data, engineering, tooling or manufacturing restrictions. (This is the only AMSC that implies that parts are candidates for full and open competition. Other AMSCs such as K, M, N, Q, and S may imply limited competition when two or more independent sources exist yet the technical data package is inadequate for full and open competition.) AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(h) <i class="+ topic/ph hi-d/i ">AMSC H.</i> The Government physically does not have in its possession sufficient, accurate, or legible data to purchase this part from other than the current source(s). This code is applicable only to parts under immediate buy requirements and only for as long thereafter as the deficiency is under review for resolution and appropriate recoding. This code is only assigned at the conclusion of limited screening, and it remains assigned until the full screening process resolves physical data questions and results in assignment of a different AMSC. If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources exist, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">AMSC I.</i> (Not authorized)</p>
+         <p outputclass="List1" class="- topic/p ">(j) <i class="+ topic/ph hi-d/i ">AMSC J.</i> (Reserved)</p>
+         <p outputclass="List1" class="- topic/p ">(k) <i class="+ topic/ph hi-d/i ">AMSC K.</i> This part must be produced from class 1 castings and similar type forgings as approved (controlled) by procedures contained in the current version of MIL-STD-2175. If one source has such castings and cannot provide them to other sources, AMCs 3, 4, or 5 are valid. If at least two sources have such castings or they can be provided to other sources AMCs 1 or 2 or valid.</p>
+         <p outputclass="List1" class="- topic/p ">(l) <i class="+ topic/ph hi-d/i ">AMSC L.</i> The annual buy value of this part falls below the screening threshold established by DoD components and field activities. However, this part has been screened for additional known sources, resulting in either confirmation that the initial source exists or that other sources may supply the part. No additional screening was performed to identify the competitive or noncompetitive conditions that would result in assignment of a different AMSC. This code shall not be used when screening parts entering the inventory. This code shall be used only to replace AMSC O for parts under the established screening threshold. If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources exist, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(m) <i class="+ topic/ph hi-d/i ">AMSC M</i>. Manufacture of this part requires use of master or coordinated tooling. If only one set of tooling exists and cannot be made available to another source for manufacture of this part, AMCs 3, 4, or 5 are valid. When the availability of existent or refurbishable tooling is available to two or more sources, then AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(n) <i class="+ topic/ph hi-d/i ">AMSC N.</i> Manufacture of this part requires special test and/or inspection facilities to determine and maintain ultra-precision quality for its function or system integrity. Substantiation and inspection of the precision or quality cannot be accomplished without such specialized test or inspection facilities. If the test cannot be made available for the competitive manufacture of the part, the required test or inspection knowledge cannot be documented for reliable replication, or the required physical test or inspection facilities and processes cannot be economically documented in a TDP, valid AMCs are 3, 4, or 5. If the facilities or tests can be made available to two or more competitive sources, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(o) <i class="+ topic/ph hi-d/i ">AMSC O.</i> The part was not assigned an AMSC when it entered the inventory, nor has it ever completed screening. Use of this code in conjunction with AMC 0 is sometimes necessary but discouraged. Maximum effort to determine the applicability of an alternate AMSC is the objective. Only AMC O is valid.</p>
+         <p outputclass="List1" class="- topic/p ">(p) <i class="+ topic/ph hi-d/i ">AMSC P.</i> The rights to use the data needed to purchase this part from additional source(s) are not owned by the Government and cannot be purchased, developed, or otherwise obtained. It is uneconomical to reverse engineer this part. This code is used in situations where the Government has the data but does not own the rights to the data. If only one source has the rights or data to manufacture this item, AMCs 3, 4, or 5 are valid. If two or more sources have the rights or data to manufacture this item, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(q) <i class="+ topic/ph hi-d/i ">AMSC Q.</i> The Government does not have adequate data, lacks rights to data, or both needed to purchase this part from additional sources. The Government has been unable to economically buy the data or rights to the data, although the part has been undergoing full screening for 12 or more months. Breakout to competition has not been achieved, but current, continuing actions to obtain necessary rights to data or adequate, reprocurement technical data indicate breakout to competition is expected to be achieved. This part may be a candidate for reverse engineering or other techniques to obtain technical data. All AMSC Q items are required to be reviewed within the timeframes cited in 2-203(b). If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources exist, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(r) <i class="+ topic/ph hi-d/i ">AMSC R.</i> The Government does not own the data or the rights to the data needed to purchase this part from additional sources. It has been determined to be uneconomical to buy the data or rights to the data. It is uneconomical to reverse engineer the part. This code is used when the Government did not initially purchase the data and/or rights. If only one source has the rights or data to manufacture this item, AMCs 3, 4, or 5 are valid. If two or more sources have the rights or data to manufacture this item, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(s) <i class="+ topic/ph hi-d/i ">AMSC S.</i> Acquisition of this item is restricted to Government approved source(s) because the production of this item involves unclassified but militarily sensitive technology (see FAR Subpart 6.3). If one source is approved, AMCs 3, 4, or 5 are valid. If at least two sources are approved, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(t) <i class="+ topic/ph hi-d/i ">AMSC T.</i> Acquisition of this part is controlled by qualified products list (QPL) procedures. Competition for this part is limited to sources which are listed on or are qualified for listing on the QPL at the time of award (see FAR Part 9 and DFARS Part 209). AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(u) <i class="+ topic/ph hi-d/i ">AMSC U.</i> The cost to the Government to breakout this part and acquire it competitively has been determined to exceed the projected savings over the life span of the part. If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources exist, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(v) <i class="+ topic/ph hi-d/i ">AMSC V.</i> This part has been designated a high reliability part under a formal reliability program. Probability of failure would be unacceptable from the standpoint of safety of personnel and/or equipment. The cognizant engineering activity has determined that data to define and control reliability limits cannot be obtained nor is it possible to draft adequate specifications for this purpose. If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources are available, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(w) <i class="+ topic/ph hi-d/i ">AMSC W.</i> (Reserved)</p>
+         <p outputclass="List3" class="- topic/p ">(x) <i class="+ topic/ph hi-d/i ">AMSC X.</i> (Not authorized)</p>
+         <p outputclass="List1" class="- topic/p ">(y) <i class="+ topic/ph hi-d/i ">AMSC Y.</i> The design of this part is unstable. Engineering, manufacturing, or performance characteristics indicate that the required design objectives have not been achieved. Major changes are contemplated because the part has a low process yield or has demonstrated marginal performance during tests or service use. These changes will render the present part obsolete and unusable in its present configuration. Limited acquisition from the present source is anticipated pending configuration changes. If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources exist, AMCs 1 or 2 are valid.</p>
+         <p outputclass="List1" class="- topic/p ">(z) <i class="+ topic/ph hi-d/i ">AMSC Z.</i> This part is a commercial product, nondevelopmental item, or 
+            commercially available off-the-shelf item. Commercial item descriptions, commercial vendor catalog or price lists, or commercial manuals assigned a technical manual number apply. If one source is available, AMCs 3, 4, or 5 are valid. If at least two sources are available, AMCs 1 or 2 are valid.</p>
+      
+   
+
+   
+      
+         <p>2-201.3 Contractor technical information codes.</p>
+      
+         <p class="- topic/p ">The following two-digit alpha codes shall be used by contractors, when contractor's assistance is requested. These codes are assigned in accordance with the current version of MIL-STD-789 and shall be considered during the initial assignment of an AMC/AMSC. For spare parts breakout, requirements for contractor assistance through CTIC submission shall be accomplished as stated in Part 4 of this document. Each CTIC submitted by a contractor must be accompanied by supporting documentation that justifies the proposed code. These codes and supporting documentation, transmitted by DD Form 1418, Contractor Technical Information Record, and DD Form 1418-1, Technical Data Identification Checklist, are useful not only for code assignment during acquisition coding conferences, but also for personnel conducting both full and limited screening of breakout candidates. Personnel conducting full and limited screening of breakout candidates should use the supporting documentation provided with CTICs as a source of information. However, they should not allow this information to substitute for careful analysis and further investigation of the possibilities of acquiring a part through competition or by direct purchase. The definitions for CTICs are—</p>
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">CTIC CB.</i> Source(s) are specified on source control, altered item, or selected item drawings/documents. (The contractor shall furnish a list of the sources with this code.)</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">CTIC CC.</i> Requires engineering source approval by the design control activity in order to maintain the quality of the part. An alternate source must qualify in accordance with the design control activity's procedures, as approved by the cognizant Government engineering activity.</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">CTIC CG.</i> There are no technical restrictions to competition.</p>
+         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">CTIC CK.</i> Produced from class 1 castings (see the current version of MIL-STD-2175) and similar type forgings. The process of developing and proving the acceptability of high-integrity castings and forgings requires repetitive performance by a controlled source. Each casting or forging must be produced along identical lines to those that resulted in initial acceptability of the part. (The contractor shall furnish a list of known sources for obtaining castings/forgings with this code.)</p>
+         <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">CTIC CM.</i> Master or coordinated tooling is required to produce this part. This tooling is not owned by the Government or, where owned, cannot be made available to other sources. (The contractor shall furnish a list of the firms possessing the master or coordinated tooling with this code.)</p>
+         <p outputclass="List1" class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">CTIC CN.</i> Requires special test and/or inspection facilities to determine and maintain ultra-precision quality for function or system integrity. Substantiation and inspection of the precision or quality cannot be accomplished without such specialized test or inspection facilities. Other sources in industry do not possess, nor would it be economically feasible for them to acquire facilities. (The contractor shall furnish a list of the required facilities and their locations with this code.)</p>
+         <p outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">CTIC CP.</i> The rights to use the data needed to purchase this part from additional sources are not owned by the Government and cannot be purchased.</p>
+         <p outputclass="List1" class="- topic/p ">(h) <i class="+ topic/ph hi-d/i ">CTIC CV.</i> A high reliability part under a formal reliability program. Probability of failure would be unacceptable from the standpoint of safety of personnel and/or equipment. The cognizant engineering activity has determined that data to define and control reliability limits cannot be obtained nor is it possible to draft adequate specifications for this purpose. Continued control by the existing source is necessary to ensure acceptable reliability. (The contractor shall identify the existing source with this code.)</p>
+         <p outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">CTIC CY.</i> The design of this part is unstable. Engineering, manufacturing, or performance characteristics indicate that the required design objectives have not been achieved. Major changes are contemplated because the part has a low process yield or has demonstrated marginal performance during tests or service use. These changes will render the present part obsolete and unusable in its present configuration. Limited acquisition from the present source is anticipated pending configuration changes. (The contractor shall identify the existing source with this code.)</p>
+      
+   
+
+   
+      
+         <p>2-201 Coding.</p>
+      
+         <p class="- topic/p ">Three types of codes are used in the breakout program.</p>
+      
+   
+
+   
+      
+         <p>2-202 Assignment of codes.</p>
+      
+         <p class="- topic/p ">The purpose of AMC/AMSC assignments is to provide the best possible technical assessment of how a part can be acquired. The technical assessment should not be based on issues such as: are the known sources actual manufacturers, or are there two actual manufacturers in existence; but rather on factors such as the availability of adequate technical data, the Government's rights to use the data, technical restrictions placed on the hardware (criticality, reliability, special testing, master tooling, source approval, etc.) and the cost to breakout vice projected savings. In cases where there is additional technical information that affects the way a part can be acquired, it should be made available to the contracting officer, with the AMC/AMSC. Concerning the assignment of AMCs and AMSCs, it is DoD policy that—</p>
+         <p outputclass="List1" class="- topic/p ">(a) The assignment of AMC/AMSCs to parts is the responsibility of the DoD component introducing the equipment or system for which the parts are needed in the inventory. Subsequent screening is the responsibility of the DoD component assigned technical responsibility.</p>
+         <p outputclass="List1" class="- topic/p ">(b) When two or more AMSCs apply, the most technically restrictive code will be assigned.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Restricted combinations of AMC/AMSCs are reflected in the AMSC definitions. The Defense Logistics Information Service will reject invalid code combinations, as shown in Exhibit I, submitted for entry into the Federal catalog program (see 2-204.2).</p>
+         <p outputclass="List1" class="- topic/p ">(d) One-time acquisition of a part by a method other than indicated by the code does not require a change to the AMC (e.g., when only one of a number of sources can meet a short delivery date, or when only one manufacturing source is known but acceptable surplus parts are available from other sources).</p>
+         <p outputclass="List1" class="- topic/p ">(e) After the first acquisition under AMC 2 or 4, the AMC shall be recoded 1 or 3 respectively.</p>
+         <p outputclass="List1" class="- topic/p ">(f) Both full and limited screening will result in the assignment or reassignment of an AMC/AMSC. This assignment shall be based on the best technical judgment of breakout personnel and on information gathered during the screening process.</p>
+         <p outputclass="List1" class="- topic/p ">(g) A part need not be coded as noncompetitive based on an initial market survey that only uncovers one interested source. If the Government has sufficient technical data in its possession to enable other sources to manufacture an acceptable part, and there are no technical restrictions on the part that would preclude other sources from manufacturing it, the part should be coded competitive.</p>
+      
+   
+
+   
+      
+         <p>2-203 Improving part status.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">General.</i> An effective breakout program requires that all reasonable actions be taken to improve the acquisition status of parts. The potential for improvement of the acquisition status will vary with individual circumstances. On one end of the spectrum are those parts with acquisition method suffix codes of a temporary nature requiring vigorous follow-through improvement action (e.g., AMSCs A and H); on the other end are those parts with codes suggesting a relative degree of permanence (e.g., AMSC P). A code assigned to a part should never be considered fixed with respect to either technical circumstance or time; today's technical constraint may be overcome by tomorrow's technology and a contractor's rights to data, so zealously protected today, often become less important with time. The application of breakout improvement effort must always consider individual circumstances and overall benefits expected to be obtained.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Code suspense dates.</i> Every part whose breakout status can be improved shall be suspensed for rescreening as appropriate. In general, the following codes cannot be improved: 1G, 2G, 1K, 2K, 1M, 2M, 1N, 2N, 1T, 2T, 1Z, or 2Z. The period between suspenses is a period for which an assigned AMC/AMSC is considered active, and routine rescreening of parts with “valid” codes is not required. Suspense dates may vary with the circumstance surrounding each part. A code reached as a result of limited screening (3-304) shall not be assigned a suspense date exceeding 12 months; a code reached as a result of full screening (3-303) shall not be assigned a suspense date exceeding 3 years. In exceptional cases, where circumstances indicate that no change can be expected in a code over an extended period, a suspense date not exceeding 5 years may be assigned in accordance with controls established by the breakout activity. Items with a 1G or 2G code do not require a suspense date.</p>
+      
+   
+
+   
+      
+         <p>2-204.1 Communication media.</p>
+      
+         <p class="- topic/p ">Use the Federal catalog program formats, set forth in DoD Manual 4100.39-M, Defense Integrated Data System (DIDS) Procedural Manual, communication media and operating instructions as augmented by this document to disseminate AMCs and AMSCs.</p>
+      
+   
+
+   
+      
+         <p>2-204.2 Responsibilities.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) The Defense Logistics Information Service (DLIS) will—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Receive and disseminate AMCs and AMSCs for each national stock number (NSN) to all appropriate Government activities in consonance with scheduled Federal catalog program computer cycles;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Make the AMCs and AMSCs a part of the data bank of NSN item intelligence; </p>
+         <p outputclass="List2" class="- topic/p ">(3) Perpetuate the codes in all subsequent Federal catalog program transactions; e.g., entry of new NSNs and Federal supply code (FSC) changes; and</p>
+         <p outputclass="List2" class="- topic/p ">(4) Reject invalid code combinations submitted for entry into the Federal catalog program.</p>
+         <p outputclass="List1" class="- topic/p ">(b) DoD activities responsible for the assignment of AMCs and AMSCs will—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Transmit assigned codes for each NSN through normal cataloging channels to DLIS under existing Federal catalog program procedures; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) Notify DLIS by normal Federal catalog program maintenance procedures when a change in coding is made.</p>
+      
+   
+
+   
+      
+         <p>2-204 Communication of codes.</p>
+         <p> PART 3 -IDENTIFICATION, SELECTION, AND SCREENING OF PARTS </p>
+   
+
+   
+      
+         <p>3-300 General.</p>
+      
+         <p class="- topic/p ">This part sets forth procedures for the identification, selection, and screening of parts.</p>
+      
+   
+
+   
+      
+         <p>3-301.1 Parts entering the inventory.</p>
+      
+         <p class="- topic/p ">The breakout process should begin at the earliest possible stage of weapon systems acquisition. Generally, a provisioned part will require subsequent replenishment. Provisioning or similar lists of new parts are, therefore, the appropriate bases for selecting parts for screening. This is not to imply that breakout must be done on all items as part of the provisioning process. Priorities shall be applied to those parts offering the greatest opportunity for breakout and potential savings. The major factors in making this determination are—</p>
+         <p outputclass="List1" class="- topic/p ">(a) The unit price;</p>
+         <p outputclass="List1" class="- topic/p ">(b) The projected quantity to be purchased over the part's life cycle; and</p>
+         <p outputclass="List1" class="- topic/p ">(c) The potential for screening to result in a part being successfully broken out, e.g., item stability, cost, and completeness of technical data, etc.</p>
+      
+   
+
+   
+      
+         <p>3-301.2 Annual buy forecasts.</p>
+      
+         <p class="- topic/p ">Annually, lists shall be prepared that identify all parts projected for purchase during the subsequent 12-month period. Priority should be given to those parts with the greatest expected return given their annual buy value, life cycle buy value, and likelihood of successful breakout, given technical characteristics such as design and performance stability and the availability of technical data. Parts with an expired suspense date or a suspense date that will expire during the forecast period (see 2-203(b)), need only be subjected to the necessary steps of the full screening procedure (see 3-303). Parts with a valid code that will not expire during the forecast period need not be screened. Parts coded 0O shall be selected for full screening.</p>
+      
+   
+
+   
+      
+         <p>3-301.3 Immediate buy requirements.</p>
+      
+         <p class="- topic/p ">An immediate buy requirement will be identified by the user or the item manager in consonance with department/agency regulations. When an immediate buy requirement meeting the screening criteria (see 1-104(b)) is generated for a part not assigned a current AMC/AMSC, the part shall be promptly screened in accordance with either the full or limited screening procedures (see 3-303 and 3-304).</p>
+      
+   
+
+   
+      
+         <p>3-301.4 Suspect AMC/AMSC.</p>
+      
+         <p class="- topic/p ">Whenever an AMC/AMSC is suspected of being inaccurate by anyone, including the contracting officer, a rescreening shall be conducted for that part. Suspect codes include codes composed of invalid combinations of AMCs and AMSCs, those which do not truly reflect how a part is actually being acquired, and those suspected of being more restrictive than necessary for the next buy.</p>
+      
+   
+
+   
+      
+         <p>3-301 Identification and selection procedures.</p>
+   
+
+   
+      
+         <p>3-302 Screening.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Screening procedures include consideration and recording of the relevant facts pertaining to breakout decisions. The objective of screening is to improve the acquisition status by determining the potential for competition, or purchase from an actual manufacturer. Consideration of any reasonable approach to establishing competition should be an integral part of the breakout process.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Screening procedures may vary depending on circumstances related to the parts. No set rules will provide complete guidance for making acquisition method decisions under all conditions encountered in actual practice. An informed coding decision can be made without following the procedures step-by-step in every case.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Activities involved in screening are encouraged to develop supplemental procedures that prove effective in meeting this program's objectives. These procedures should be tailored to the particular activity's operating environment and the characteristics of the parts for which it is responsible. Nevertheless, care should be taken in all cases to assure that—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Responsible judgment is applied to all elements involved in the review of a part;</p>
+         <p outputclass="List2" class="- topic/p ">(2) The necessary supporting facts are produced, considered, and recorded in the breakout screening file. The breakout screening file contains technical data and other documents concerning screening of the part;</p>
+         <p outputclass="List2" class="- topic/p ">(3) All cost-effective alternatives are considered for establishing competition, or purchase from an actual manufacturer (see 1-105(d)(6)); and</p>
+         <p outputclass="List2" class="- topic/p ">(4) When possible, the sequence of the review allows for accomplishing several screening steps concurrently.</p>
+         <p outputclass="List1" class="- topic/p ">(d) Contractor participation in the decision making process extends only to providing technical information. This technical information is provided by supporting documentation (DD Forms 1418, Contractor Technical Information Record, and DD Form 1418-1, Technical Data Identification Checklist) which includes the CTIC assignment. Government personnel shall substantiate the breakout decision by reference to the CTIC and by careful review of the supporting documentation. However, the CTIC provides guidance only, and it should be used as one of the inputs to arrive at an acceptable AMC and AMSC coding.</p>
+         <p outputclass="List1" class="- topic/p ">(e) Contractor's technical information furnished in accordance with MIL-STD-789 may indicate areas requiring additional research by the Government before screening can be completed. Seldom will industry's contribution to the screening process enable the Government to assign an AMC or AMSC without additional review.</p>
+         <p outputclass="List1" class="- topic/p ">(f) During the screening process, it may be appropriate to communicate with industry, particularly potential manufacturers of a part, to determine the feasibility of establishing a competitive source and to estimate the costs and technical risks involved.</p>
+         <p outputclass="List1" class="- topic/p ">(g) Coding conferences with industry shall be documented.</p>
+         <p outputclass="List1" class="- topic/p ">(h) Screening may disclose that a part is not suitable for competitive acquisition, but it may be possible to break out the part for direct purchase from the actual manufacturer or to establish a second source. Parts particularly suited to direct purchase are those where neither the design control activity nor the prime contractor contribute additional value or whose data belong to the actual manufacturer and will not be acquired by the Government, and where that manufacturer exercises total responsibility for the part (design and quality control, testing, etc.), and where additional operations performed by the prime contractor can be performed by the actual manufacturer or by the Government.</p>
+         <p outputclass="List3" class="- topic/p ">(i) For each part that is screened, a file shall be established to document and justify the decisions and results of all screening effort (see 1-105(d)(6)).</p>
+         <p outputclass="List1" class="- topic/p ">(j) Full and limited screening procedures are two elements of breakout programs. Other spare parts initiatives to enhance breakout are reverse engineering, bailment, data rights challenges, and publication of intended buy lists. Integration of other initiatives within the screening processes developed at each activity is encouraged.</p>
+      
+   
+
+   
+      
+         <p>3-303.1 Data collection phase (step 1).</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Assemble all available data and establish a file for each part. Collect identification data, relevant data obtained from industry, contracting and technical history data and current status of the part, including—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Normal identification required for cataloging and standardization review;</p>
+         <p outputclass="List2" class="- topic/p ">(2) All known sources;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Historical contracting information, including the more recent awards, date of awards, and unit price(s) for the quantities prescribed;</p>
+         <p outputclass="List2" class="- topic/p ">(4) Identification of the actual manufacturer(s), the latest unit price, and the quantity on which the price is based. (When the actual manufacturer is not the design control activity, the design control activity may be consulted to ensure the latest version of the item is being procured from the actual manufacturer);</p>
+         <p outputclass="List2" class="- topic/p ">(5) Identification of the activity, Government or industry, having design control over the part and, if industry, the cognizant Government engineering activity;</p>
+         <p outputclass="List2" class="- topic/p ">(6) The expected life in the military supply system;</p>
+         <p outputclass="List2" class="- topic/p ">(7) Record of any prior review for breakout, with results or findings; and</p>
+         <p outputclass="List2" class="- topic/p ">(8) Annual demand.</p>
+         <p outputclass="List1" class="- topic/p ">(b) In the case of complex items requiring large numbers of drawings, collection of a reasonable technical data sample is sufficient for the initial technical data evaluation phase (steps 2-14).</p>
+      
+   
+
+   
+      
+         <p>3-303.2 Data evaluation phase (steps 2-14).</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Data evaluation is crucial to the whole review procedure. It involves determination of the adequacy of the technical data package and the Government's rights to use the data for acquisition purposes.</p>
+         <p outputclass="List1" class="- topic/p ">(b) The data evaluation process may be divided into two stages:</p>
+         <p outputclass="List2" class="- topic/p ">(1) A brief but intensive analysis of available data and documents regarding both technical matters and data rights, leading to a decision whether to proceed with screening; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) If the decision is to proceed with screening, further work is necessary to produce an adequate technical data package, such as research of contract provisions, engineering work on data and drawings, and requests to contractors for additional data.</p>
+         <p outputclass="List1" class="- topic/p ">(c) The steps in this phase are—</p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Step 2.</i> Are full Government rights established by the available data package? Evidence for an affirmative answer would include the identification of Government drawings, incorporation by reference of Government specifications or process descriptions in the public domain, or reference to contract provisions giving the Government rights to data. If the answer is negative, proceed to step 3; if positive, proceed to step 6.</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Step 3.</i> Are the contractor's limitations of the Government's rights to data established by the available data package?</p>
+         <p outputclass="List3" class="- topic/p ">(i) The questions in step 2 and 3 are not exclusive. The incorporation in a drawing of contract provisions reserving rights to the manufacturer, either in the whole design or in certain manufacturing processes, would establish a clear affirmative answer to step 3 where there is substantiating Government documentation. Parts not in this group shall be retained for further processing (see step 20). Data rights that cannot be substantiated shall be challenged (see DFARS Part 227, validation procedures).</p>
+         <p outputclass="List3" class="- topic/p ">(ii) In the case of clear contractor ownership of rights, proceed with steps 4 and 5.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Step 4.</i> Are there bases for competitive acquisition without using data subject to limitations on use? This question requires consideration, for example, of the possibility of using performance specifications or substitution of military or commercial specifications or bulletins for limited elements of the manufacturing process. The use of sample copies is another possibility.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Step 5.</i> Can the Government buy the necessary rights to data? This is a preliminary question to the full analysis (in steps 20 and 21 below) and is designed primarily to eliminate from further consideration those items which incorporate established data restrictions and for which there are no other bases for competitive acquisition nor is purchase of rights possible or feasible.</p>
+         <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Steps 6 and 7.</i> Is the present technical data package adequate for competitive acquisition of a reliable part? </p>
+         <p outputclass="List2" class="- topic/p ">(6) <i class="+ topic/ph hi-d/i ">Steps 8 and 9.</i> Specify omissions. The question in steps 6 and 7 requires a critical engineering evaluation and should deal first with the physical completeness of the date—are any essential dimensions, tolerances, processes, finishes, material specifications, or other vital elements of data lacking from the package? If so, these omissions should be specified. A second element deals with adequacy of the existing package to produce a part of the required performance, compatibility, quality, and reliability. This will, of course, be related to the completeness of data. In some cases, qualified engineering judgment may decide that, in spite of apparently complete data, the high performance or other critical characteristics of the item require retention of the present source. If such decision is made, the file shall include documentation in the form of specific information, such as difficulties experienced by the present manufacturer in producing a satisfactory item or the existence of unique production skills in the present source.</p>
+         <p outputclass="List2" class="- topic/p ">(7) <i class="+ topic/ph hi-d/i ">Steps 10 and 11.</i> Can the data be developed to make up a reliable technical data package? This implies a survey of the specified omissions with careful consideration to determine the resources available to supply each missing element. Such resources will vary from simple referencing of standard engineering publications to more complex development of drawings with the alternatives of either obtaining such drawings or developing performance specifications. In some cases, certain elements of data are missing because they have been properly restricted. If, however, there has been no advance substantiation of the right to restrict, the part should be further researched. If the answer to this question is negative, proceed to step 12; if positive, proceed to step 13 or 14.</p>
+         <p outputclass="List2" class="- topic/p ">(8) <i class="+ topic/ph hi-d/i ">Step 12.</i> If the answer to the question in steps 10 and 11 is no, which condition is the prime element in this decision, the lack of data or the unreliability of the data? Specific documentation is needed to support this decision.</p>
+         <p outputclass="List2" class="- topic/p ">(9) <i class="+ topic/ph hi-d/i ">Step 13 and 14.</i> Estimate the time required to complete the data package. In those cases where the data package is found inadequate and specific additions need to be developed, an estimate of the time required for completion must be made in order to determine if breakout of the part is feasible during this review cycle and to estimate at what point in the remaining life of the part the data package could be available.</p>
+      
+   
+
+   
+      
+         <p>3-303.3 Data completion phase (steps 15-21).</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) The data completion phase involves acquiring or developing the missing elements of information to reach a determination on both adequacy of the technical data package and the restriction of rights to data. It may involve various functional responsibilities, such as examination of past contracts, queries directed to industry or to other Government agencies, inspection of the part, reverse or other engineering work to develop drawings and write specifications, arrangements with the present source for licensing or technical assistance to new manufacturers, and negotiations for purchase of rights to data. Additional research and information requests should be expeditiously initiated on those parts where there is a reasonable expectation of breakout. Because this phase is time-consuming, it should take place concurrently with other phases of the review.</p>
+         <p outputclass="List1" class="- topic/p ">(b) At the beginning of the data completion phase, the part falls into one of the following four steps:</p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Step 15.</i> The data package is complete and adequate and the Government has sufficient rights for acquisition purposes. Such parts require no further data analysis. Proceed to step 22.</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Step 16.</i> The Government has rights to existing data. The data package is incomplete but there is a reasonable expectation that the missing elements can be supplied. Proceed to step 19.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Step 17.</i> The data package is complete, but suitable Government rights to the data have not been established. Proceed to step 20.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Step 18.</i> Neither rights nor completeness of data is adequately established; therefore, the part requires further research. Proceed to step 20.</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Step 19.</i> Obtain or develop the necessary data for a suitable data package. Reverse engineering to develop acquisition data may be used if there is a clear indication that the costs of reverse engineering will be less than the savings anticipated from competitive acquisition. If there is a choice between reverse engineering and the purchase of data (step 21), the decision shall be made on the basis of relative costs, quality, time, and other pertinent factors.</p>
+         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Step 20.</i> Establish the Government's and contractor's rights to the data. Where drawings and data cannot be identified to a contract, the following guidelines should be applied:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Where drawings and data bear legends that warn of copyright or patent rights, the effect of such legends shall be resolved according to law and policy; however, the existence of patent or copyright restrictions does not per se preclude securing competition with respect to the parts described (see FAR Subpart 27.3/DFARS Subpart 227.3).</p>
+         <p outputclass="List2" class="- topic/p ">(2) If the technical data bears legends that limit the Government's right to use the data for breakout and it is determined that reasonable grounds exist to question the current validity of the restrictive markings, the contracting officer will be notified to initiate the validation procedures at DFARS Subpart 227.4.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Where drawings and data are unmarked and, therefore, free of limitation on their use, they shall be considered available for use in acquisition, unless the acquiring office has clear evidence to the contrary (see DFARS Subpart 227.4).</p>
+         <p outputclass="List2" class="- topic/p ">(4) The decision process in situations described in paragraphs (d)(1), (2), and (3) of this subsection requires the exercise of sound discretion and judgment and embraces legal considerations. In no case shall a decision be made without review and approval of that decision by legal counsel.</p>
+         <p outputclass="List2" class="- topic/p ">(5) If the validation procedures in paragraph (d)(2) of this subsection establish the Government's right to use the data for breakout, the Government shall attempt to obtain competition pursuant to the decisions resulting from concurrent technical and economic evaluation.</p>
+         <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Step 21.</i> If restrictions on the use of data are established, determine whether the Government can buy rights to the required data. Use the procedure in DFARS Subpart 227.4.</p>
+      
+   
+
+   
+      
+         <p>3-303.4 Technical evaluation phase (steps 22-37).</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Introduction.</i>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1) The purposes of technical evaluation are to determine the development status, design stability, high performance, and/or critical characteristics such as safety of personnel and equipment; the reliability and effective operation of the system and equipment in which the parts are to be used; and to exercise technical judgment as to the feasibility of breaking out the parts. No simple and universal rules apply to each determination. The application of experience and responsible judgment is required. Technical considerations arise in several elements of the decision process, e.g., in determining adequacy of the data package (steps 6-14). </p>
+         <p outputclass="List2" class="- topic/p ">(2) Certain manufacturing conditions may reduce the field of potential sources. However, these conditions do not justify the restriction of competition by the assignment of restrictive AMCs for the following reasons:</p>
+         <p outputclass="List3" class="- topic/p ">(i) Parts produced from class 1 castings and similar type forgings. The process of developing and providing the acceptability of high-integrity castings and forgings requires repetitive performance by a controlled source for each casting or forging along identical lines to those which result in initial acceptability of the item. The particular manufacturer's process becomes the controlling factor with regard to the acceptability of any such item. However, other firms can produce class 1 castings and similar type forgings and provide the necessary inspection, or the part may be acquired from other sources that use castings or forgings from approved (controlled) source(s).</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Parts produced from master or coordinated tooling, e.g., numerically controlled tapes. Such parts have features (contoured surfaces, hole locations, etc.) delineated according to unique master tooling or tapes and are manufactured to minimum/maximum limits and must be replaceable without additional tailoring or fitting. These parts cannot be manufactured or configured by a secondary pattern or jigs independent of the master tooling and cannot be manufactured to requisite tolerances of fit by use of commercial precision machinery. In this context, jigs and fixtures used only for ease of production are not considered master tooling. However, master tooling may be reproduced.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Parts requiring special test and/or inspection facilities to determine and maintain ultra-precision quality for the function or system integrity. Substantiation and inspection of the precision or quality cannot be accomplished without specialized test or inspection facilities. Testing is often done by the actual manufacturer under actual operating use. However, such special test inspection facilities may be available at other firms.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Design procedures (steps 22-31).</i>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Step 22</i>. Will a design change occur during anticipated lead time? If affirmative, proceed to step 23; if negative, proceed to step 24. </p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Step 23</i>. Specify the design change and assign an appropriate code.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Step 24</i>. Is a satisfactory part now being produced? Concurrently with the research and completion of data, a technical determination is required as to the developmental status of the part. With the frequent telescoping of the development/production cycle as well as constant product improvement throughout the active life of equipment, parts are frequently subject to design changes. The present source, if a prime contractor, is usually committed to incorporate the latest changes in any deliveries under a production order. In considering the part for breakout, an assessment must be made of the stability of design, so that in buying from a new source the Government will not be purchasing an obsolete or incompatible part. The question of obsolescence or noncompatibility is to some extent under Government control. Screening for breakout on parts that are anticipated to undergo design change should be deferred until design stability is attained.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Step 25</i>. Can a satisfactory part be produced by a new source? Determine whether technical reasons prohibit seeking a new source. The fact that the present source has not yet been able to produce a satisfactory part (step 24) does not preclude another source from being successful. If the answer to steps 24 or 25 is affirmative, proceed simultaneously to steps 27 and 38. If the answer to step 25 is negative, proceed to step 26.</p>
+         <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Step 26</i>. If the present source is producing an unsatisfactory part, but technical reasons prohibit seeking a new source, specify the reasons.</p>
+         <p outputclass="List2" class="- topic/p ">(6) <i class="+ topic/ph hi-d/i ">Step 27</i>. Does the part require prior qualification or other approval testing? If the answer is positive, proceed to step 28; if negative, proceed to step 32.</p>
+         <p outputclass="List2" class="- topic/p ">(8) <i class="+ topic/ph hi-d/i ">Step 28</i>. Specify the requirement.</p>
+         <p outputclass="List2" class="- topic/p ">(9) <i class="+ topic/ph hi-d/i ">Step 29</i>. Estimate the time required to qualify a new source.</p>
+         <p outputclass="List2" class="- topic/p ">(10) <i class="+ topic/ph hi-d/i ">Step 30</i>. Is there currently a qualified source?</p>
+         <p outputclass="List2" class="- topic/p ">(11) <i class="+ topic/ph hi-d/i ">Step 31</i>. Who is responsible for qualifications of the subcontractor, present prime contractor, the Government, or an independent testing agency?</p>
+         <p outputclass="List3" class="- topic/p ">(i) If a qualified source is currently in existence, the review should consider who will be responsible for qualification in the event of competitive acquisition. If qualification testing is such that it can be performed by the selected source under a preproduction or first article clause in the contract, the costs of initial approval should be reflected in the offers received. If the part requires initial qualification tests by some other agency such as the present prime contractor, the Government, an independent testing agent outside the Government, or by technical facilities within the departments, out-of-pocket costs may be incurred if the part is competed. An estimate of qualification costs should then be made and recorded in such cases.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Where facilities within the Government are not adequate for testing or qualification, or outside agencies such as the equipment contractor cannot or will not do the job, the economics of qualification may be unreasonable, and a narrative statement of these facts should replace the cost estimate. Whenever possible, such as in the case of engine qualification tests, economy of combined qualification tests should be considered.</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Quality assurance procedures (steps 32-33).</i> Quality control and inspection is a primary consideration when making a decision to breakout. Where the prime contractor performs quality assurance functions beyond those of the part manufacturer or other sources, the Government may—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Develop the same quality control and inspection capability in the manufacturer's plant;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Assume the responsibility for quality; or</p>
+         <p outputclass="List2" class="- topic/p ">(3) Undertake to obtain the quality assurance services from another source, possibly the prime contractor.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Step 32</i>. Who is now responsible for quality control and inspection of the part?</p>
+         <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Step 33</i>. Can a new source be assigned responsibility for quality control? Is the level of the quality assurance requirements specified in the system contract necessary for the screened part? The minimum quality assurance procedures for each part shall be confirmed.</p>
+         <p outputclass="List3" class="- topic/p ">(i) A new source shall be considered if—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Any essential responsibility (e.g., burn-in, reliability, maintainability) retained by the prime contractor for the part and its relationship to the end item can be eliminated, shifted to the new source, or assumed by the Government;</p>
+         <p outputclass="List4" class="- topic/p ">(B) The prime contractor will provide the needed quality assurance services;</p>
+         <p outputclass="List4" class="- topic/p ">(C) The Government can obtain competent, impartial services to perform quality assurance responsibility; or</p>
+         <p outputclass="List4" class="- topic/p ">(D) The new source can maintain an adequate quality assurance program, inspection system, or inspection appropriate for the part.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) If the prime contractor has responsibility for quality that a new source cannot assume or obtain, or that the Government cannot undertake or eliminate, consideration of the new source is precluded.</p>
+         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Tooling procedures (steps 34-37).</i>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Step 34</i>. Is tooling or other special equipment required?</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Step 35</i>. Specify the type of tooling.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Step 36</i>. Estimate additional acquisition leadtime for setup and for tooling.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Step 37</i>. Does the Government possess this tooling? If tooling or special equipment is required for production of the part, the types and quantities should be specified. Investigation can then be made as to whether the Government possesses such tooling and can make it available to a new source. A requirement for special tooling is not necessarily a deterrent to competitive solicitation for parts. The Government may find it desirable to purchase the needed tooling and furnish it to the new source. In this case, the costs can be determined with reasonable accuracy. However, if new sources can provide the tooling or special equipment, this will be reflected in competitive prices and should not normally require further analysis.</p>
+      
+   
+
+   
+      
+         <p>3-303.5 Economic evaluation phase (steps 38-56).</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Economic evaluation concerns identification and estimation of breakout savings and direct cost offsets to breakout. The economic evaluation phase is composed of the three segments detailed in paragraphs (b) through (d) of this subsection.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Development of savings data (steps 38-40).</i>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Step 38</i>. Estimate remaining program life cycle buy value.</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Step 39</i>. Apply either a savings factor of 25 percent or one determined under local conditions and experience.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Step 40</i>. Multiply the remaining program life cycle buy value by the savings factor to obtain the expected future savings, if the part is coded for breakout.</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Computation of breakout costs (steps 41-47).</i> Several groups of costs must be collected, summarized and compared to estimated savings to properly determine the economics of breakout. These costs include—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Direct costs (steps 41-45). Direct costs of breakout normally include all expenditures that are direct and wholly identifiable to a specific, successful breakout action, and that are not reflected in the part unit price. Examples of direct costs include Government tooling or special test equipment, qualification testing, quality control expenses, and industry participation costs (such as completion of the Contractor Technical Information Data Record) if borne by the Government.</p>
+         <p outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Step 41</i>. Estimate the cost to the Government for tooling or special equipment.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Step 42</i>. Estimate the cost, if any, to the Government for qualifying the new source.</p>
+         <p outputclass="List3" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">Step 43</i>. Estimate the cost, if any, to the Government for assuring quality control, or the cost of contracting for quality control.</p>
+         <p outputclass="List3" class="- topic/p ">(iv) <i class="+ topic/ph hi-d/i ">Step 44</i>. Estimate the cost to the Government for purchasing rights to data.</p>
+         <p outputclass="List3" class="- topic/p ">(v) <i class="+ topic/ph hi-d/i ">Step 45</i>. Add estimated total direct costs to the Government to breakout the item.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Performance specification costs (steps 46-47).</p>
+         <p outputclass="List3" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Step 46</i>. Is the breakout candidate constructed to a performance specification?</p>
+         <p outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Step 47</i>. If the answer is yes in step 46, add performance specification breakout cost estimate elements to the result of step 45. The addition of an unknown number of nonstocked parts that must be stocked by the supply system for repairs is a significant element of cost associated with the decision to compete a performance specification assembly. (The same situation does not arise with respect to a design specification assembly, since virtually all spare parts used to repair such an assembly are essentially identical to parts already in the assembly.) The cost of introducing these nonstocked parts into the system includes—</p>
+         <p outputclass="List4" class="- topic/p ">(A) Additional catalog costs. The number of nonstocked parts forecasted to be in the competed assembly, multiplied by the variable cost of cataloging per line item.</p>
+         <p outputclass="List4" class="- topic/p ">(B) Additional bin opening costs. The number of nonstocked parts forecasted to be in the competed assembly, multiplied by the variable cost of a bin opening at each of the locations where the part is to be stocked.</p>
+         <p outputclass="List4" class="- topic/p ">(C) Additional management costs. The number of nonstocked parts forecasted to be in the competed assembly, multiplied by the variable cost of management per line item.</p>
+         <p outputclass="List4" class="- topic/p ">(D) Additional technical data costs. The cost of a new set of technical data for the competed assembly, including the variable expenses of its production, reproduction, and distribution.</p>
+         <p outputclass="List4" class="- topic/p ">(E) Additional repair tools and test equipment costs. The costs of additional special tools and test equipment not otherwise required by the existing assembly.</p>
+         <p outputclass="List4" class="- topic/p ">(F) Additional logistics support costs. The costs associated with the new item such as spare and repair parts, technical manuals, and training.</p>
+         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Comparison of savings and costs (steps 48-56).</i> Compare estimated breakout costs to forecasted breakout savings. If costs exceed estimated savings, it will be uneconomical to compete the part. Performance specification parts should be analyzed to ensure that pertinent breakout costs have been considered and, if it is not economical to breakout the part, whether an appropriate detailed design data package reduces costs sufficiently to make breakout economical.</p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Step 48</i>. Compare total costs of breakout (step 47) to estimated savings (step 40).</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Step 49</i>. Are costs of breakout greater or less than estimated savings? If greater, proceed to step 50; if yes, proceed to step 51.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Step 50</i>. Is the breakout candidate constructed to a performance specification? If no, proceed to step 54; if yes, proceed to step 57.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Step 51</i>. Is it appropriate to obtain a detailed design data package? If yes, proceed to step 52; if no, proceed to step 54. The decision to change a performance specification part to a detailed design part obviously requires a critical engineering examination of the part itself, as well as a review of the impact such a change might have on the operational effectiveness of the system in which the equipment is to be employed. Acquisition of a performance specification part by a subsequently acquired design specification subjects the Government to the additional hazard of losing the money paid for the development of the design specification, should the design be altered during the contracting leadtime period. Accordingly, the engineering evaluation should closely review design stability over the anticipated contracting leadtime in order to avoid acquiring an obsolete or nonstandard part if the decision is made to compete it.</p>
+         <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Step 52</i>. Add the estimated cost of obtaining a detailed design data package to the results of step 45.</p>
+         <p outputclass="List2" class="- topic/p ">(6) <i class="+ topic/ph hi-d/i ">Step 53</i>. If the results of step 52 are less than the estimated savings, initiate action to obtain a detailed design data package. Proceed to step 54 to code the part for a period until it can be rescreened using the design specification package. The code determined in this screening shall be assigned a suspense date commensurate with the leadtime required to obtain the detailed design data package (see 2-203(b)).</p>
+         <p outputclass="List2" class="- topic/p ">(7) <i class="+ topic/ph hi-d/i ">Step 54</i>. Is the part manufactured by the prime contractor? If yes, code the part AMC 3; if no, proceed to step 55.</p>
+         <p outputclass="List2" class="- topic/p ">(8) <i class="+ topic/ph hi-d/i ">Step 55</i>. Can the part be acquired directly from the actual manufacturer? If no, proceed to step 56; if yes, code the part AMC 3 or 4, as applicable.</p>
+         <p outputclass="List2" class="- topic/p ">(9) <i class="+ topic/ph hi-d/i ">Step 56</i>. Specify the reasons for inability to obtain the part from the actual manufacturer. Code the part AMC 5.</p>
+      
+   
+
+   
+      
+         <p>3-303.6 Supply feedback phase (steps 57-65).</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) The supply feedback phase of the analysis is the final screening phase for breakout parts. This phase in completed for all AMC 2 parts to determine if sufficient time is available to break out on the immediate buy and to communicate this information to the inventory manager responsible for the requirement. First, all additional time factors required to break out the part are added. Total time is subtracted from the immediate and future buy date and the result compared to the current date. (Note: Not all time factors listed apply to each part screened.) If the result is the same or earlier than the required contract date, the part is coded competitive and action is begun to qualify additional sources as necessary. If the result is later than the required contract date, action to compete the immediate buy quantity should be initiated if the inventory manager can find some means of accepting later delivery. If this is impossible, the appropriate records should be annotated for competitive acquisition of the next replenishment buy quantity. If late delivery is acceptable, the inventory manager should compute requirements for the part and initiate an appropriate purchase requisition.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Procedures.</i>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Step 57</i>. Add all additional time factors required to break out the part (steps 13, 14, 29, and 36).</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Step 58</i>. Add the results of step 57 to the date of this review.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Step 59</i>. Compare the result of step 58 to the date that the contract or order must be placed.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Step 60</i>. Is the result of step 59 earlier than, later than, or the same as the contract or order date? (If earlier or the same, proceed to step 61; if later, proceed to step 63.)</p>
+         <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Step 61</i>. Can supply accept late delivery? If yes, proceed to step 62; if no, proceed to step 63.</p>
+         <p outputclass="List2" class="- topic/p ">(6) <i class="+ topic/ph hi-d/i ">Step 62</i>. Notify the inventory manager to compute requirements and initiate a purchase requisition. Proceed to step 64.</p>
+         <p outputclass="List2" class="- topic/p ">(7) <i class="+ topic/ph hi-d/i ">Step 63</i>. Code the part AMC 2. Insufficient time to compete on this buy.</p>
+         <p outputclass="List2" class="- topic/p ">(8) <i class="+ topic/ph hi-d/i ">Step 64</i>. Code the part AMC 2.</p>
+         <p outputclass="List2" class="- topic/p ">(9) <i class="+ topic/ph hi-d/i ">Step 65</i>. Begin actions to qualify new sources, if required and possible.</p>
+      
+   
+
+   
+      
+         <p>3-303 Full screening procedures.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Full screening procedures should be developed so that the potential is fully evaluated for establishing competition or purchase from an actual manufacturer. Also, full screening procedures should facilitate accurate and consistent acquisition method code assignment. It is expected that each activity will develop its own operational screening procedures. A general model, full screening decision process is provided below to support the development of activity level procedures and to provide guidance regarding the general scope of these procedures. The full screening procedures involve 65 steps in the decision process, and are divided into the following phases:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Data collection. </p>
+         <p outputclass="List2" class="- topic/p ">(2) Data evaluation.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Data completion.</p>
+         <p outputclass="List2" class="- topic/p ">(4) Technical evaluation.</p>
+         <p outputclass="List2" class="- topic/p ">(5) Economic evaluation. </p>
+         <p outputclass="List2" class="- topic/p ">(6) Supply feedback.</p>
+         <p outputclass="List1" class="- topic/p ">(b) The six phases describe different functions that must be achieved during screening. The nature of the screening process does not permit clear distinction of one phase from another. Further, the order of performance of these phases may not correspond to the order listed here. In fact, the phases will often overlap and may be performed simultaneously. Their purpose is to identify the different functions comprising the screening process.</p>
+         <p outputclass="List1" class="- topic/p ">(c) A summary flow chart of the decision steps is provided as Exhibit II to assist in understanding the logical order of the full screening steps for various conditions. Use of the flow chart in connection with the text that follows is essential to fully understand the order of the steps in the process.</p>
+      
+   
+
+   
+      
+         <p>3-304 Limited screening procedures.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Limited screening procedures are only appropriate when the full screening process cannot be completed for a part in sufficient time to support an immediate buy requirement. If limited screening does not result in a competitive AMC and the part is characterized by a high buy value and high buy quantity in the annual buy forecast, full screening procedures shall be immediately initiated.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Limited screening procedures cover only the essential points of data and technical evaluations more completely described in full screening procedures (see 3-303). Extensive legal review of rights or technical review of data is not required; nor is backup information on type and extent of qualification testing, quality control procedures and master tooling required. A summary flow chart of the limited screening decision steps is provided at Exhibit III.</p>
+         <p outputclass="List1" class="- topic/p ">(c) The limited screening decision steps are followed sequentially if the answer to the question in each step is affirmative. If any step is answered in the negative, proceed directly to step 10.</p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Step 1</i>. Assemble all available data and establish a file for each part. Collect identification data, relevant data obtained from industry, contracting and technical history data and current status of the part (see 3-303.1).</p>
+         <p outputclass="List2" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Step 2</i>. Do the available documents establish Government rights to use the data for acquisition purposes? If the Government's rights to use data in its possession is questionable, resolution of the rights must continue beyond award of the immediate buy.</p>
+         <p outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Step 3</i>. Is the data package sufficient, accurate, and legible? If the Government does not have in its possession sufficient, accurate, or legible data, action shall be promptly initiated to resolve the deficiency for the next buy.</p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Step 4</i>. Is the design of the part stable over the anticipated acquisition lead time?</p>
+         <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Step 5</i>. Is a satisfactory part now being produced?</p>
+         <p outputclass="List2" class="- topic/p ">(6) <i class="+ topic/ph hi-d/i ">Step 6</i>. Can the part be acquired from a new source without prior qualification testing or other approval testing?</p>
+         <p outputclass="List2" class="- topic/p ">(7) <i class="+ topic/ph hi-d/i ">Step 7</i>. Can the Government or a new source be responsible for quality assurance?</p>
+         <p outputclass="List2" class="- topic/p ">(8) <i class="+ topic/ph hi-d/i ">Step 8</i>. Can the part be manufactured without master or coordinated tooling or other special equipment; if no, is there more than one source that has the tooling or special equipment?</p>
+         <p outputclass="List2" class="- topic/p ">(9) <i class="+ topic/ph hi-d/i ">Step 9</i>. Assign AMC 2. Proceed to step 11.</p>
+         <p outputclass="List2" class="- topic/p ">(10) <i class="+ topic/ph hi-d/i ">Step 10</i>. Assign AMC 3, 4, or 5, as appropriate.</p>
+         <p outputclass="List2" class="- topic/p ">(11) <i class="+ topic/ph hi-d/i ">Step 11</i>. Establish the date of the next review (see 1-104(c) and 2-203(b)).</p>
+         <p>PART 4 -CONTRACTOR'S ASSISTANCE</p>
+      
+   
+
+   
+      
+         <p>4-400 General.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Contractor's assistance in screening shall be requested on provisioned and replenishment parts after consideration of the benefit expected from the contractor's technical information and the cost to the Government of obtaining such assistance.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Contractor's assistance shall not be requested for parts covered by Government/industry specifications, commercially available parts or parts for which data is already available.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Arrangements entered into with contractors to obtain technical information shall provide that—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Contractors will exert their best effort to make impartial technical evaluations using applicable technical data and the experience of competent personnel; and</p>
+         <p outputclass="List2" class="- topic/p ">(2) No costs to the Government will be incurred for duplicate screening of parts.</p>
+      
+   
+
+   
+      
+         <p>4-401 Contractor's technical evaluation procedures.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Contractor's technical evaluation for the screening process shall be required contractually by incorporating MIL-STD-789, which delineates the contractor's responsibilities and procedures and prescribes use of the contractor DD Form 1418, Technical Information Record, and the DD Form 1418-1, Technical Data Identification Checklist, a copy of each document listed on DD Form 1418-1, and other substantive data that was used in developing the contractor's recommendations.</p>
+         <p outputclass="List1" class="- topic/p ">(b) When MIL-STD-789 is incorporated in a contract, the DD Form 1423, Contract Data Requirements List, shall specify the requirement for the submission of DD Form 1418, Technical Information Record, and DD Form 1418-1, Technical Data Identification Checklist, in accordance with MIL-STD-789.</p>
+         <p>PART 5 -REPORTING SYSTEM</p>
+      
+   
+
+   
+      
+         <p>5-500 General.</p>
+      
+         <p class="- topic/p ">This part prescribes reports regarding the breakout program that cannot be obtained from other sources. These reports are used to evaluate the effectiveness of breakout programs, establish a baseline for all spare part acquisitions, and identify trends in spare parts acquisition.</p>
+      
+   
+
+   
+      
+         <p>5-501 Reports.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Spare Parts Breakout Screening Report (RCS DD P&amp;L(Q&amp;SA)714A)</i>. This is a cumulative semi-annual report reflecting the accomplishments of the breakout program. The report describes the results of full and limited screening for provisioning and replenishment parts by number of different NSNs for each AMC. Departments and agencies shall also maintain actual cost data attributable to the Spare Parts Breakout Program which shall be forwarded on this report semi-annually.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Spare Parts Acquisition Report (RCS DD P&amp;L(Q&amp;SA) 714B).</i> This is a cumulative semi-annual report for all purchases made of spare parts during the current fiscal year. This report describes the number and extended dollar value of different NSNs purchased for each AMC. Departments and agencies shall also maintain actual savings (or cost avoidance) data attributable to the Spare Parts Breakout Program which shall be forwarded on this report semi-annually. Because of extraneous factors such as contracting leadtimes and changes in spare parts requirements, this report will not always reflect the acquisition of the parts screened during a reporting period (contained on the Spare Parts Breakout Screening Report). Also, it will not show in all instances how the part was actually acquired. This report is intended to be an indication of the success of the breakout program, and designed to show trends in the coding and data available to buyers in the acquisition package.</p>
+      
+   
+
+   
+      
+         <p>5-502 Reporting procedures.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) Departments and agencies shall maintain and forward semi-annual reports. The second semi-annual report in a fiscal year shall reflect cumulative totals for the current fiscal year using the formats in Exhibits IV and V.</p>
+         <p outputclass="List1" class="- topic/p ">(b) The reports will be due no later than 45 days after the end of each period designated.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Submissions will be made to the Under Secretary of Defense (Acquisition and Sustainment).</p>
+      
+   
+
+   
+      
+         <p>5-503 Reporting instructions.</p>
+      
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Spare parts breakout screening
+report.</i> Using the format in Exhibit IV, provide the following—</p>
+         <p outputclass="List2" class="- topic/p ">(1) Enter reporting activity name, fiscal
+year, and period ending.</p>
+         <p outputclass="List2" class="- topic/p ">(2) For each AMC/AMSC listed, enter the
+number of different NSNs for which screening was completed during
+the period. Show zeros where applicable. This should be done for
+both full and limited screening.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Report the total costs of the breakout
+program incurred for the period. Although this will be primarily
+labor costs, it should also include appropriate prorated costs of
+ADP services, office overhead, data retrieval service costs, etc.
+(see 3-303.5).</p>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Spare parts acquisition report.</i> Using
+the format in Exhibit V, provide the following:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Enter reporting activity name, fiscal
+year, and period ending.</p>
+         <p outputclass="List2" class="- topic/p ">(2) For each AMC/AMSC listed, enter the
+number of different NSNs purchased during the current fiscal year
+and their extended dollar value.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Report the actual breakout program
+savings or cost avoidances as measured by completed acquisition
+(not anticipated acquisitions). Price differentials should be measured
+on each acquisition where a breakout action has taken place. They should
+equal the difference between the previous contract unit price and
+the current contract unit price, times the number of units purchased.</p>
+         <p class="- topic/p ">EXHIBIT I—VALID AMC/AMSC COMBINATIONS</p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="7"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Acquisition Method Code (AMC)</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">AMSC</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">0</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">1</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">2</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">3</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">4</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">5</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">A</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">B</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">C</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">D</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">G</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">H</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">K</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">L</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">M</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">N</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">O</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">P</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Q</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">R</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">S</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">T</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">U</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">V</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Y</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Z</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">X</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p ">o</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">o = VALID COMBINATION</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">X = INVALID COMBINATIONS</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p class="- topic/p ">EXHIBIT II—FULL SCREENING DECISION PROCESS SUMMARY</p>
+         <p class="- topic/p ">FLOW CHART</p>
+         <p class="- topic/p ">EXHIBIT III—LIMITED SCREENING DECISION PROCESS SUMMARY FLOW CHART</p>
+         <fig frame="all" class="- topic/fig ">
+            <image href="Graphics/image001.gif"
+                   placement="inline"
+                   height="289.559pt"
+                   width="428.200pt"
+                   class="- topic/image "/>
+         </fig>
+         <p class="- topic/p ">EXHIBIT IV—SPARE PARTS BREAKOUT SCREENING REPORT</p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="4"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="6"
+                        colwidth="7*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">SPARE PARTS BREAKOUT SCREENING REPORT</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Report Activity______________</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Fiscal</p>
+                        <p class="- topic/p ">Year_________________</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">Period Ending___________________</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">N U M B E R O F N S N s</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">AMC/AMSC</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">LIMITED SCREENING</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">FULL SCREENING</p>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p ">TOTAL SCREENING</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">*1G Only</p>
+                        <p class="- topic/p ">1</p>
+                        <p class="- topic/p ">**2G Only</p>
+                        <p class="- topic/p ">2</p>
+                        <p class="- topic/p ">3</p>
+                        <p class="- topic/p ">4</p>
+                        <p class="- topic/p ">5</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">TOTAL</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">SPARE PARTS BREAKOUT PROGRAM COSTS $_____________</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                        <p class="- topic/p ">* Excluded from AMC 1 data</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">** Excluded from AMC 2 data</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p class="- topic/p ">EXHIBIT V—SPARE PARTS ACQUISITION REPORT</p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="4"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="5"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">SPARE PARTS ACQUISITION REPORT</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Report Activity______________</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Fiscal Year_____________</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p ">Period Ending___________________</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">P U R C H A S E M A D E</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">AMC/AMSC</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">NUMBER OF NSNs</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">EXTENDED DOLLAR VALUE</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">*1G Only</p>
+                        <p class="- topic/p ">1</p>
+                        <p class="- topic/p ">**2G Only</p>
+                        <p class="- topic/p ">2</p>
+                        <p class="- topic/p ">3</p>
+                        <p class="- topic/p ">4</p>
+                        <p class="- topic/p ">5</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">TOTAL</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">SPARE PARTS BREAKOUT PROGRAM SAVINGS OR COST AVOIDANCES $______________</p>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">* Excluded from AMC 1 data</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">** Excluded from AMC 2 data</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" class="- topic/entry ">
+                        <p class="- topic/p "/>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      
+     </conbody>
+   </concept>
+</dita>

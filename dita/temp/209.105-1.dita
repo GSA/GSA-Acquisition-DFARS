@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DFARS_209.105-1"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">209.105-1</ph> Obtaining information.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List2" class="- topic/p ">(1)  For guidance on using the Exclusion section of the System for Award Management, see PGI 
+               <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-PGI_PGI_209.105-1"
+                  href="PGI_209.105-1.dita#DFARS_PGI_209.105-1"
+                  xtrc="209.105-1">209.105-1</xref>
+            .</p>
+         <p outputclass="List2" class="- topic/p ">(2) A satisfactory performance record is a factor in determining contractor responsibility (see FAR <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/9.104-1">9.104-1</xref>(c)). </p>
+         <p outputclass="List3" class="- topic/p ">(i) One source of information relating to contractor performance is Contractor Performance Assessment Reporting System (CPARS), available at <xref href="https://ww.cpars.gov/" format="html" scope="external"/>. </p>
+         <p outputclass="List3" class="- topic/p ">(ii) Information relating to contract terminations for cause and for default is also available through the Federal Awardee Performance and Integrity Information System (FAPIIS) module of CPARS, available at <xref href="https://sam.gov" format="html" scope="external"/>. (see FAR <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/subpart-42.15">subpart 42.15</xref>). This termination information is just one consideration in determining contractor responsibility.</p>
+         <p outputclass="List3">(iii) Contracting officers shall consider the supplier risk assessment available in the Supplier Performance Risk System at <xref href="https://piee.eb.mil/" format="html" scope="external"/> when determining responsibility. See <xref href="204.7603.dita#DFARS_204.7603" outputclass="fm:ParaNumOnly">204.7603</xref>(c).</p>
+      </conbody>
+   </concept>
+</dita>
