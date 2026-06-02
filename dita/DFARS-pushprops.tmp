@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DFARS" outputclass="dfars" rev="Revised November 10, 2025">
+<map title="DFARS" outputclass="dfars" rev="Revised May 7, 2026">
    <title>DFARS</title>
    <topicref navtitle="Volume III-Parts 201 to 253"
              base="NoTitle"
@@ -8609,7 +8609,7 @@
                       xtrc="DFARS_SUBPART_223.4.html"
                       tables="0"
                       figures="0"/>
-            <topicref navtitle="Subpart 223.5 - Reserved"
+            <topicref navtitle="Subpart 223.5 - GREENHOUSE GAS EMISSIONS"
                       base="NoTitle"
                       href="SUBPART_223.5.dita"
                       props="Subpart 223.5"
@@ -8618,7 +8618,29 @@
                       xtrf="SubPart"
                       xtrc="DFARS_SUBPART_223.5.html"
                       tables="0"
-                      figures="0"/>
+                      figures="0">
+               <topicref href="223.501.dita"
+                         navtitle="223.501 Policy."
+                         outputclass="subtopic"
+                         props="223.501"
+                         audience="DFARS_223.501"
+                         xtrc="DFARS_223.501.html"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0">
+                  <topicref href="223.501-70.dita"
+                            navtitle="223.501-70 Disclosure of greenhouse gas emissions."
+                            outputclass="subtopic"
+                            props="223.501-70"
+                            audience="DFARS_223.501"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 223.7 - CONTRACTING FOR ENVIRONMENTALLY PREFERABLE PRODUCTS AND SERVICES"
                       base="NoTitle"
                       href="SUBPART_223.7.dita"
@@ -32793,7 +32815,7 @@
                    xtrc=""
                    tables="0"
                    figures="0">
-            <topicref navtitle="PGI 244.2 -CONSENT TO SUBCORACTNT"
+            <topicref navtitle="PGI 244.2 - CONSENT TO SUBCONTRACT"
                       base="NoTitle"
                       href="PGI_244.2.dita"
                       props="PGI 244.2"
